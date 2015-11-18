@@ -1,0 +1,851 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>I Am... (Nas album) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/I_Am..._(Nas_album)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/I_Am..._(Nas_album)" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"I_Am..._(Nas_album)","wgTitle":"I Am... (Nas album)","wgCurRevisionId":597246894,"wgRevisionId":597246894,"wgArticleId":1586478,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","1999 albums","Albums produced by DJ Premier","Albums produced by Dame Grease","Albums produced by L.E.S.","Albums produced by Timbaland","Albums produced by Trackmasters","Columbia Records albums","English-language albums","Nas albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"I_Am..._(Nas_album)","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["es","q","en","ru"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q534271"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-I_Am_Nas_album skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>I Am...</i> (Nas album)</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">I Am…</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Nas_-_I_Am....jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0f/Nas_-_I_Am....jpg/220px-Nas_-_I_Am....jpg" width="220" height="220" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/0/0f/Nas_-_I_Am....jpg 1.5x, //upload.wikimedia.org/wikipedia/en/0/0f/Nas_-_I_Am....jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Nas" title="Nas">Nas</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">April&#160;6,&#160;1999<span style="display:none">&#160;(<span class="bday dtstart published updated">1999-04-06</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>64:45</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Columbia_Records" title="Columbia Records">Columbia</a><br />
+<small>CK-68773</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/L.E.S._(producer)" title="L.E.S. (producer)" class="mw-redirect">L.E.S.</a>, <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>, <a href="/wiki/Trackmasters" title="Trackmasters">Trackmasters</a>, <a href="/wiki/Timbaland" title="Timbaland">Timbaland</a>, Alvin West, <a href="/wiki/Dame_Grease" title="Dame Grease">Dame Grease</a>, Nashiem Myrick, Carlos "Six July" Broady, D-Moet, Pretty Boy, Jamal Edgerten</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Nas" title="Nas">Nas</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/It_Was_Written" title="It Was Written">It Was Written</a></i><br />
+(1996)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>I Am…</b></i><br />
+(1999)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Nastradamus" title="Nastradamus">Nastradamus</a></i><br />
+(1999)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>I Am...</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Nas_Is_Like" title="Nas Is Like">Nas Is Like</a>"</span><br />
+Released: March 2, 1999</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Hate_Me_Now" title="Hate Me Now">Hate Me Now</a>"</span><br />
+Released: April 6, 1999</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>I Am…</b></i> is the third <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by American rapper <a href="/wiki/Nas" title="Nas">Nas</a>, released April 6, 1999 on <a href="/wiki/Columbia_Records" title="Columbia Records">Columbia Records</a>. It debuted #1 on the charts, selling over 470,000 copies in its first week. <i>I Am…</i> would later be certified 3x platinum in the United States. Upon its release, <i>I Am...</i> received generally mixed to positive reviews from <a href="/wiki/Music_criticism" title="Music criticism">music critics</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Music"><span class="tocnumber">2</span> <span class="toctext">Music</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Cover_art"><span class="tocnumber">3</span> <span class="toctext">Cover art</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Reception"><span class="tocnumber">4</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Track_listing"><span class="tocnumber">5</span> <span class="toctext">Track listing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Samples"><span class="tocnumber">5.1</span> <span class="toctext">Samples</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Personnel"><span class="tocnumber">6</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Charts"><span class="tocnumber">7</span> <span class="toctext">Charts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Album"><span class="tocnumber">7.1</span> <span class="toctext">Album</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Singles"><span class="tocnumber">7.2</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Chart_procession_and_succession"><span class="tocnumber">7.3</span> <span class="toctext">Chart procession and succession</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This album was originally to have been a <a href="/wiki/Double_album" title="Double album">double album</a> titled <i>I Am...The Autobiography</i>, however most of the original sessions were bootlegged forcing Nas to discard many songs and adjust the release to one disc. <i>I Am...</i>became one of the first major label releases to be widely leaked using <a href="/wiki/MP3" title="MP3">MP3</a> technology.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> Some of the leaked songs were later released on the compilation LP <i><a href="/wiki/The_Lost_Tapes" title="The Lost Tapes">The Lost Tapes</a></i> in 2002. The concept of this album as can be seen by tracks such as "Fetus" from <i>The Lost Tapes</i> was to be an autobiography of sorts for Nas. Although several bootleg versions have appeared on the internet over the years, an official version of the intended double album has never leaked and it remains unclear whether or not it was ever completed.</p>
+<h2><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit&amp;section=2" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The two singles from <i>I Am...</i> were "<a href="/wiki/Hate_Me_Now" title="Hate Me Now">Hate Me Now</a>" and "<a href="/wiki/Nas_Is_Like" title="Nas Is Like">Nas Is Like</a>". "Hate Me Now" features <a href="/wiki/Puff_Daddy" title="Puff Daddy" class="mw-redirect">Puff Daddy</a> and is produced by D-Moet, Pretty Boy and The Trackmasters. It was a <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a> hit, and had a controversial music video directed by <a href="/wiki/Hype_Williams" title="Hype Williams">Hype Williams</a>. The song had a version of the <a href="/wiki/O_Fortuna" title="O Fortuna">O Fortuna</a> from <a href="/wiki/Carl_Orff" title="Carl Orff">Carl Orff</a>'s "<a href="/wiki/Carmina_Burana_(Orff)" title="Carmina Burana (Orff)">Carmina Burana</a>." "Nas Is Like" is one of two tracks produced by <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a> who scratches vocal samples from Nas' "<a href="/wiki/It_Ain%27t_Hard_To_Tell" title="It Ain't Hard To Tell" class="mw-redirect">It Ain't Hard To Tell</a>" into the chorus. The "Nas Is Like" music video was directed by Nick Quested and is still very popular in underground circles and continued a long list of popular Nas/DJ Premier collaborations.</p>
+<p>The album also contained the song "We Will Survive", a tribute to <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a> and <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a> The song criticized his peers, most notably <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, who "claimed to be New York's king" following B.I.G.'s death, the record has been cited as potentially encouraging the <a href="/wiki/Nas_vs._Jay-Z_feud" title="Nas vs. Jay-Z feud" class="mw-redirect">Nas vs. Jay-Z feud</a>.</p>
+<h2><span class="mw-headline" id="Cover_art">Cover art</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit&amp;section=3" title="Edit section: Cover art">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Famed photographer Danny Hastings has shot iconic cover images for Big Pun’s <i>Capital Punishment</i> and Raekwon’s <i>Only Built 4 Cuban Linx</i>, but his album art shoot for <i>I Am...</i> almost ended in disaster. In order to make the iconic mask featured on the cover, Hastings and his crew put a clay mold on his face and poked air holes so he could breathe, but he almost suffocated after clay got lodged in his nose.</p>
+<p>“The funny part was that the first attempt, Nas was getting asphyxiated. We almost killed Nas," Hastings told MTV.com. “We cleaned him up, and he was like, 'Let's do it again!' […] Nas was a true sport."</p>
+<p>He also explained the meaning behind the cover, and how it built off of previous album art for <i>Illmatic</i> and <i>It Was Written</i>. "The first one, you have him being a boy, very young. The second was a little bit older. And the third one, he was a king," he continued. "He already conquered the world. He was on top of the world. He was doing a lot of big things. We came with the concept of making a King Tut sarcophagus piece."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit&amp;section=4" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-DiBella_3-0" class="reference"><a href="#cite_note-DiBella-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Chicago_Sun-Times" title="Chicago Sun-Times">Chicago Sun-Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="2.5/4 stars"><img alt="2.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Little_4-0" class="reference"><a href="#cite_note-Little-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">B−<sup id="cite_ref-Christgau_5-0" class="reference"><a href="#cite_note-Christgau-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">(B)<sup id="cite_ref-Sinclair_6-0" class="reference"><a href="#cite_note-Sinclair-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/4 stars"><img alt="3/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Baker_7-0" class="reference"><a href="#cite_note-Baker-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/NME" title="NME">NME</a></i></td>
+<td style="vertical-align:middle">(8/10)<sup id="cite_ref-NME_8-0" class="reference"><a href="#cite_note-NME-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Ex_9-0" class="reference"><a href="#cite_note-Ex-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Source_10-0" class="reference"><a href="#cite_note-Source-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i></td>
+<td style="vertical-align:middle">(mixed)<sup id="cite_ref-Soults_11-0" class="reference"><a href="#cite_note-Soults-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Yahoo!_Music" title="Yahoo! Music">Yahoo! Music</a></td>
+<td style="vertical-align:middle">(mixed)<sup id="cite_ref-Johnson_12-0" class="reference"><a href="#cite_note-Johnson-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><a href="/wiki/Yahoo!_Music" title="Yahoo! Music">Yahoo! Music</a>'s Billy Johnson, Jr. criticized the album's production as "somber" and described its songs as "thought-provoking, though average quality".<sup id="cite_ref-Johnson_12-1" class="reference"><a href="#cite_note-Johnson-12"><span>[</span>12<span>]</span></a></sup> Jeff Stark of <i><a href="/wiki/Salon.com" title="Salon.com" class="mw-redirect">Salon</a></i> noted "distinct identities" for each song and wrote that it does not sound "coherent", but "as if it belongs to a scattershot demographic of subway riders".<sup id="cite_ref-Stark_13-0" class="reference"><a href="#cite_note-Stark-13"><span>[</span>13<span>]</span></a></sup> Franklin Soults of <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> viewed that its music attempts to meet "halfway" with consumer demographics, noting that Nas' "most salient talent is finding and exploiting the middle ground".<sup id="cite_ref-Soults_11-1" class="reference"><a href="#cite_note-Soults-11"><span>[</span>11<span>]</span></a></sup> In his consumer guide for <i>The Village Voice</i>, critic <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a> gave <i>I Am...</i> a B- rating and named it "dud of the month",<sup id="cite_ref-Christgau_5-1" class="reference"><a href="#cite_note-Christgau-5"><span>[</span>5<span>]</span></a></sup> indicating "a bad record whose details rarely merit further thought".<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> Christgau criticized Nas' "ethos" and stated, "The question is how convincing he is, and only two themes ring true: the bad ones, revenge and money. His idea of narrative detail is to drop brand names like <a href="/wiki/Bret_Easton_Ellis" title="Bret Easton Ellis">Bret Easton Ellis</a>; his idea of morality is everybody dies".<sup id="cite_ref-Christgau_5-2" class="reference"><a href="#cite_note-Christgau-5"><span>[</span>5<span>]</span></a></sup> <a href="/wiki/Craig_Seymour" title="Craig Seymour">Craig Seymour</a> of <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i> attributed its thematic inconsistency to the replacement of tracks that <a href="/wiki/Internet_leak" title="Internet leak">leaked</a> to the Internet prior to the album's release, concluding that "Anyone with a good Web connection might wonder what a profound personal opus <span style="padding-left:0.1em;">'</span><i>I Am</i><span style="padding-left:0.1em;">'</span> could have been".<sup id="cite_ref-Seymour_15-0" class="reference"><a href="#cite_note-Seymour-15"><span>[</span>15<span>]</span></a></sup> <a href="/wiki/Miles_Marshall_Lewis" title="Miles Marshall Lewis">Miles Marshall Lewis</a> of <i><a href="/wiki/LA_Weekly" title="LA Weekly">LA Weekly</a></i> viewed that Nas "tightrope[s] the line between order and chaos, gangsterism and enlightenment" on the album, which he found to be "not a horrendous album. But Nas has now established a pattern of declining album quality, and that makes <i>I Am...</i> Nas' worst album".<sup id="cite_ref-Lewis_16-0" class="reference"><a href="#cite_note-Lewis-16"><span>[</span>16<span>]</span></a></sup></p>
+<p><i><a href="/wiki/Chicago_Sun-Times" title="Chicago Sun-Times">Chicago Sun-Times</a></i> writer Rebecca Little gave the album two-a-and-half out of four stars and stated, "if you get past the torrent of [profanity] and a few terms referring to women as dogs and garden tools, [...] <span style="padding-left:0.1em;">'</span><i>I Am</i><span style="padding-left:0.1em;">'</span> is a notable effort", adding that "The finer moments lie in the rapper's trademark ability to spin a compelling tale about ghetto life".<sup id="cite_ref-Little_4-1" class="reference"><a href="#cite_note-Little-4"><span>[</span>4<span>]</span></a></sup> Kris Ex of <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> gave it three-and-a-half out of five stars and stated, "Nas is still a diamond in the rough — perhaps the rawest lyrical talent of his day but lacking the guidance and vision to create a complete album [...] But what <i>I Am...</i> lacks in content, it makes up for in lyrical acumen; the album doesn't deliver the introspection its title implies, but it compensates for it in storytelling and craftsmanship. <i>I Am...</i> offers tantalizing hints of promise tethered by a need for pop acceptance".<sup id="cite_ref-Ex_9-1" class="reference"><a href="#cite_note-Ex-9"><span>[</span>9<span>]</span></a></sup> <a href="/wiki/Christopher_John_Farley" title="Christopher John Farley">Christopher John Farley</a> of <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i> complimented Nas' lyrics and themes and the album's musical approach, noting "grander, more aggressive, more cinematic" songs.<sup id="cite_ref-Farley_17-0" class="reference"><a href="#cite_note-Farley-17"><span>[</span>17<span>]</span></a></sup> <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i><span style="padding-left:0.1em;">'</span>s Tom Sinclair compared the album to "a bona fide <a href="/wiki/Rap_opera" title="Rap opera">hip-hopera</a>", noting string and keyboard-laden songs and "universal themes".<sup id="cite_ref-Sinclair_6-1" class="reference"><a href="#cite_note-Sinclair-6"><span>[</span>6<span>]</span></a></sup> <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i> writer Soren Baker commended Nas for "adroitly balancing hard-core subject matter with production that should easily find its way onto urban radio".<sup id="cite_ref-Baker_7-1" class="reference"><a href="#cite_note-Baker-7"><span>[</span>7<span>]</span></a></sup> Steve Jones of <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i> gave it four out of four stars and complimented Nas' "dense and deft rhymes" and "nimble, cinematic descriptions", writing that the album "nestles nicely between the underground grittiness of 1994's <i><a href="/wiki/Illmatic" title="Illmatic">Illmatic</a></i> and the high gloss of 1996's <i><a href="/wiki/It_Was_Written" title="It Was Written">It Was Written</a></i>".<sup id="cite_ref-Jones_18-0" class="reference"><a href="#cite_note-Jones-18"><span>[</span>18<span>]</span></a></sup></p>
+<p>In a retrospective review, <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> editor M.F. DiBella gave the album three out of five stars and noted "blandness" in its production, writing that "Musically, <i>I Am</i> is somewhat unimaginative by Nas' stratospheric standards. [...] some of these tracks lack the sonic depth to do justice to the prophecies of the pharaoh, Nas".<sup id="cite_ref-DiBella_3-1" class="reference"><a href="#cite_note-DiBella-3"><span>[</span>3<span>]</span></a></sup> However, DeBella added that Nas "still shines as the old soul storyteller and crime rhyme chronicler" on some tracks and cited "Nas Is Like" and "N.Y. State of Mind, Pt. 2" as highlights, adding that they "are nothing short of <i>Illmatic</i> perfection".<sup id="cite_ref-DiBella_3-2" class="reference"><a href="#cite_note-DiBella-3"><span>[</span>3<span>]</span></a></sup> Steve Juon of RapReviews gave <i>I Am...</i> an eight-and-a-half out of 10 rating and viewed it as an improvement over <i>It Was Written</i>, praising Nas' "power of description" and "much improved" lyrics.<sup id="cite_ref-Juon_19-0" class="reference"><a href="#cite_note-Juon-19"><span>[</span>19<span>]</span></a></sup> Writing in <i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The New Rolling Stone Album Guide</a></i> (2004), music journalist Chris Ryan gave the album two-and-a-half out of five stars and wrote that it has "[its] share of solid material, but ultimately fail[s] in the face of Nas' inability to navigate the divide between the street reporting that made him a legend and the commercial hits that made him a star".<sup id="cite_ref-RSguide_20-0" class="reference"><a href="#cite_note-RSguide-20"><span>[</span>20<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit&amp;section=5" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Album Intro" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:50</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"N.Y. State of Mind Pt. II" &#160;</td>
+<td style="vertical-align: top;">DJ Premier</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:36</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Hate_Me_Now" title="Hate Me Now">Hate Me Now</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Sean_Combs" title="Sean Combs">Puff Daddy</a>)</span></td>
+<td style="vertical-align: top;">Pretty Boy, D. Moet, <a href="/wiki/Trackmasters" title="Trackmasters">Poke &amp; Tone</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:44</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Small World" &#160;</td>
+<td style="vertical-align: top;">Nashiem Myrick, Carlos Broady</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:45</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Favor for a Favor" <span style="font-size:85%;">(featuring <a href="/wiki/Scarface_(rapper)" title="Scarface (rapper)">Scarface</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/L.E.S._(producer)" title="L.E.S. (producer)" class="mw-redirect">L.E.S.</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:07</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"We Will Survive" &#160;</td>
+<td style="vertical-align: top;">Poke &amp; Tone, Jamal Edgerten</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:00</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Ghetto Prisoners" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Dame_Grease" title="Dame Grease">Dame Grease</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:00</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"You Won't See Me Tonight" <span style="font-size:85%;">(featuring <a href="/wiki/Aaliyah" title="Aaliyah">Aaliyah</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Timbaland" title="Timbaland">Timbaland</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:22</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"I Want to Talk to You" &#160;</td>
+<td style="vertical-align: top;">L.E.S., Alvin West</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:36</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Dr. Knockboot" &#160;</td>
+<td style="vertical-align: top;">Poke &amp; Tone</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:25</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Life Is What You Make It" <span style="font-size:85%;">(featuring <a href="/wiki/DMX_(rapper)" title="DMX (rapper)">DMX</a>)</span></td>
+<td style="vertical-align: top;">L.E.S.</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:04</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Big Things" &#160;</td>
+<td style="vertical-align: top;">Alvin West</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:39</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Nas_Is_Like" title="Nas Is Like">Nas Is Like</a>" &#160;</td>
+<td style="vertical-align: top;">DJ Premier</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:57</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"K-I-SS-I-N-G" &#160;</td>
+<td style="vertical-align: top;">L.E.S., Alvin West</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:15</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Money Is My Bitch" &#160;</td>
+<td style="vertical-align: top;">Alvin West, Poke &amp; Tone</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:02</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Undying Love" &#160;</td>
+<td style="vertical-align: top;">L.E.S.</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:23</td>
+</tr>
+<tr>
+<td align="right" colspan="3">
+<div style="width: 7.5em; text-align: left; padding-left: 10px; background-color: #eee; margin: 0;"><b>Total length:</b></div>
+</td>
+<td style="padding-right: 10px; text-align: right; background-color: #eee;"><b>64:45</b></td>
+<td class="mbox-empty-cell"></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Samples">Samples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit&amp;section=6" title="Edit section: Samples">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<p>"<b>Album Intro</b>"</p>
+<ul>
+<li>"The <a href="/wiki/The_Amityville_Horror_(1979_film)" title="The Amityville Horror (1979 film)">Amityville Horror</a> Main Title" by <a href="/wiki/Lalo_Schifrin" title="Lalo Schifrin">Lalo Schifrin</a></li>
+<li>"Live at the Barbeque" by <a href="/wiki/Main_Source" title="Main Source">Main Source</a></li>
+<li>"<a href="/wiki/Halftime_(song)" title="Halftime (song)">Halftime</a>" by Nas</li>
+<li>"<a href="/wiki/It_Ain%27t_Hard_to_Tell" title="It Ain't Hard to Tell">It Ain't Hard to Tell</a>" by Nas</li>
+<li>"<a href="/wiki/The_World_Is_Yours_(Nas_song)" title="The World Is Yours (Nas song)">The World Is Yours</a>" by Nas</li>
+<li>"<a href="/wiki/One_Love_(Nas_song)" title="One Love (Nas song)">One Love</a>" by Nas</li>
+<li>"<a href="/wiki/The_Message_(Nas_song)" title="The Message (Nas song)">The Message</a>" by Nas</li>
+<li>"<a href="/wiki/Street_Dreams_(song)" title="Street Dreams (song)">Street Dreams</a>" by Nas</li>
+<li>"<a href="/wiki/If_I_Ruled_The_World_(Imagine_That)" title="If I Ruled The World (Imagine That)" class="mw-redirect">If I Ruled The World (Imagine That)</a>" by Nas</li>
+<li>"Memory Lane (Sittin' in da Park)" by Nas</li>
+</ul>
+<p>"<b>N.Y. State of Mind Pt. II</b>"</p>
+<ul>
+<li>"<a href="/wiki/N.Y._State_of_Mind" title="N.Y. State of Mind">N.Y. State of Mind</a>" by Nas</li>
+<li>"Mahogany" by <a href="/wiki/Eric_B._%26_Rakim" title="Eric B. &amp; Rakim">Eric B. &amp; Rakim</a></li>
+</ul>
+<p>"<b>Hate Me Now</b>"</p>
+<ul>
+<li>"<a href="/wiki/O_Fortuna" title="O Fortuna">O Fortuna</a>" from <a href="/wiki/Carl_Orff" title="Carl Orff">Carl Orff</a>'s <i><a href="/wiki/Carmina_Burana_(Orff)" title="Carmina Burana (Orff)">Carmina Burana</a></i></li>
+</ul>
+<p>"<b>Small World</b>"</p>
+<ul>
+<li>"Love to Last Forever" by <a href="/wiki/Zulema" title="Zulema">Zulema</a></li>
+</ul>
+<p>"<b>We Will Survive</b>"</p>
+<ul>
+<li>"<a href="/wiki/This_Is_It_(Kenny_Loggins_song)" title="This Is It (Kenny Loggins song)">This Is It</a>" by <a href="/wiki/Kenny_Loggins" title="Kenny Loggins">Kenny Loggins</a></li>
+</ul>
+<p>"<b>You Won't See Me Tonight</b>"</p>
+<ul>
+<li>"Hang On" by <a href="/wiki/Jerry_Goldsmith" title="Jerry Goldsmith">Jerry Goldsmith</a></li>
+</ul>
+<p>"<b>Dr. Knockboot</b>"</p>
+<ul>
+<li>"<a href="/wiki/Chameleon_(composition)" title="Chameleon (composition)">Chameleon</a>" by <a href="/wiki/Herbie_Hancock" title="Herbie Hancock">Herbie Hancock</a></li>
+<li>"Say What" by <a href="/wiki/Idris_Muhammad" title="Idris Muhammad">Idris Muhammad</a></li>
+<li>"We Got It" by <a href="/wiki/Cam%27ron" title="Cam'ron">Cam'ron</a></li>
+</ul>
+<p>"<b>Life Is What You Make It</b>"</p>
+<ul>
+<li>"Vitroni's Theme - King Is Dead" by <a href="/wiki/Roy_Ayers" title="Roy Ayers">Roy Ayers</a></li>
+</ul>
+<p>"<b>Big Things</b>"</p>
+<ul>
+<li>"<a href="/wiki/Theme_from_Mahogany" title="Theme from Mahogany" class="mw-redirect">Theme from Mahogany</a>" by <a href="/wiki/Diana_Ross" title="Diana Ross">Diana Ross</a></li>
+</ul>
+<p>"<b>Nas Is Like</b>"</p>
+<ul>
+<li>"What Child Is This?" by John V. Rydgren and Bob R. Way</li>
+<li>"Why" by <a href="/wiki/Don_Robertson_(songwriter)" title="Don Robertson (songwriter)">Don Robertson</a></li>
+<li>"It Ain't Hard to Tell" by Nas</li>
+<li>"<a href="/wiki/Street_Dreams_(song)" title="Street Dreams (song)">Street Dreams</a>" by Nas</li>
+<li>"Nobody Beats the Biz" by <a href="/wiki/Biz_Markie" title="Biz Markie">Biz Markie</a></li>
+</ul>
+<p>"<b>K-I-SS-I-N-G</b>"</p>
+<ul>
+<li>"When a Woman's Fed Up" by <a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a></li>
+</ul>
+<p>"<b>Undying Love</b>"</p>
+<ul>
+<li>"Milk and Honey" by <a href="/wiki/Jackson_C._Frank" title="Jackson C. Frank">Jackson C. Frank</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit&amp;section=7" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Credits for <i>I Am...</i> adapted from <a href="/wiki/Muze" title="Muze">Muze</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></p>
+<ul>
+<li>Eddie Sancho – engineer</li>
+<li>Kevin Crouse – engineer</li>
+<li>Steve Souder – engineer</li>
+<li>Nas – performer</li>
+<li>Puff Daddy – performer</li>
+<li>Aaliyah – performer</li>
+<li>Scarface – performer</li>
+<li>DMX – performer</li>
+<li>DJ Premier – producer</li>
+<li>Pretty Boy – producer</li>
+<li>Nashiem Myrick – producer</li>
+<li>L.E.S. – producer</li>
+<li>Grease – producer</li>
+</ul>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit&amp;section=8" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Album">Album</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit&amp;section=9" title="Edit section: Album">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th align="left">Chart (1999)</th>
+<th style="text-align:center;">Peak<br />
+position</th>
+</tr>
+<tr>
+<td><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-ac_BillboardCanada_Nas_22-0" class="reference"><a href="#cite_note-ac_BillboardCanada_Nas-22"><span>[</span>22<span>]</span></a></sup></td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td>Dutch Albums (<a href="/wiki/MegaCharts" title="MegaCharts">MegaCharts</a>)<sup id="cite_ref-ac_Netherlands_NAS_23-0" class="reference"><a href="#cite_note-ac_Netherlands_NAS-23"><span>[</span>23<span>]</span></a></sup></td>
+<td align="center">61</td>
+</tr>
+<tr>
+<td>French Albums (<a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">SNEP</a>)<sup id="cite_ref-ac_France_NAS_24-0" class="reference"><a href="#cite_note-ac_France_NAS-24"><span>[</span>24<span>]</span></a></sup></td>
+<td align="center">23</td>
+</tr>
+<tr>
+<td>German Albums (<a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control</a>)<sup id="cite_ref-ac_Germany3_NAS_25-0" class="reference"><a href="#cite_note-ac_Germany3_NAS-25"><span>[</span>25<span>]</span></a></sup></td>
+<td align="center">16</td>
+</tr>
+<tr>
+<td>Norwegian Albums (<a href="/wiki/VG-lista" title="VG-lista">VG-lista</a>)<sup id="cite_ref-ac_Norway_NAS_26-0" class="reference"><a href="#cite_note-ac_Norway_NAS-26"><span>[</span>26<span>]</span></a></sup></td>
+<td align="center">34</td>
+</tr>
+<tr>
+<td>Swedish Albums (<a href="/wiki/Sverigetopplistan" title="Sverigetopplistan">Sverigetopplistan</a>)<sup id="cite_ref-ac_Sweden_NAS_27-0" class="reference"><a href="#cite_note-ac_Sweden_NAS-27"><span>[</span>27<span>]</span></a></sup></td>
+<td align="center">43</td>
+</tr>
+<tr>
+<td>Swiss Albums (<a href="/wiki/Swiss_Music_Charts" title="Swiss Music Charts" class="mw-redirect">Schweizer Hitparade</a>)<sup id="cite_ref-ac_Switzerland_NAS_28-0" class="reference"><a href="#cite_note-ac_Switzerland_NAS-28"><span>[</span>28<span>]</span></a></sup></td>
+<td align="center">38</td>
+</tr>
+<tr>
+<td>UK Albums (<a href="/wiki/Official_Charts_Company" title="Official Charts Company">OCC</a>)<sup id="cite_ref-ac_UK_NAS_29-0" class="reference"><a href="#cite_note-ac_UK_NAS-29"><span>[</span>29<span>]</span></a></sup></td>
+<td align="center">31</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-ac_Billboard200_Nas_30-0" class="reference"><a href="#cite_note-ac_Billboard200_Nas-30"><span>[</span>30<span>]</span></a></sup></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-ac_BillboardRandBHipHop_Nas_31-0" class="reference"><a href="#cite_note-ac_BillboardRandBHipHop_Nas-31"><span>[</span>31<span>]</span></a></sup></td>
+<td align="center">1</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit&amp;section=10" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<td rowspan="2"><b>Year</b></td>
+<td rowspan="2"><b>Song</b></td>
+<td colspan="4"><b>Chart positions</b></td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a></b></td>
+<td><b><a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a></b></td>
+<td><b><a href="/wiki/Hot_Rap_Singles" title="Hot Rap Singles" class="mw-redirect">Hot Rap Singles</a></b></td>
+</tr>
+<tr>
+<td rowspan="4">1999</td>
+<td>"Nas Is Like..."</td>
+<td style="text-align:center;">#86</td>
+<td style="text-align:center;">#30</td>
+<td style="text-align:center;">#3</td>
+</tr>
+<tr>
+<td>"Hate Me Now"</td>
+<td style="text-align:center;">#62</td>
+<td style="text-align:center;">#18</td>
+<td style="text-align:center;">#8</td>
+</tr>
+<tr>
+<td>"You Won't See Me Tonight"</td>
+<td style="text-align:center;">#121</td>
+<td style="text-align:center;">#44</td>
+<td style="text-align:center;">-</td>
+</tr>
+<tr>
+<td>"K-I-S-S-I-N-G"</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">#50</td>
+<td style="text-align:center;">-</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Chart_procession_and_succession">Chart procession and succession</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit&amp;section=11" title="Edit section: Chart procession and succession">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/...Baby_One_More_Time_(album)" title="...Baby One More Time (album)">...Baby One More Time</a></i> by <a href="/wiki/Britney_Spears" title="Britney Spears">Britney Spears</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_1999_(USA)" title="Number-one albums of 1999 (USA)" class="mw-redirect">number-one album</a></b><br />
+April 24 – May 8, 1999</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/FanMail" title="FanMail">FanMail</a></i> by <a href="/wiki/TLC_(band)" title="TLC (band)" class="mw-redirect">TLC</a></span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Number-one_albums_of_1999_(U.S.)" title="Number-one albums of 1999 (U.S.)" class="mw-redirect">Number-one albums of 1999 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1999_(U.S.)" title="List of number-one R&amp;B albums of 1999 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1999 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=170439443&amp;s=143441">iTunes Store: I Am...</a>. Apple Inc. Retrieved on 2009-02-18.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web">Horowitz, Steven J. (2011-05-25). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.15285/title.photographer-almost-suffocated-nas-on-i-am-cover-shoot">"Photographer Almost Suffocated Nas On "I Am" Cover Shoot | Get The Latest Hip Hop News, Rap News &amp; Hip Hop Album Sales"</a>. HipHop DX<span class="reference-accessdate">. Retrieved 2012-02-23</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.aufirst=Steven+J.&amp;rft.au=Horowitz%2C+Steven+J.&amp;rft.aulast=Horowitz&amp;rft.btitle=Photographer+Almost+Suffocated+Nas+On+%22I+Am%22+Cover+Shoot+%26%23124%3B+Get+The+Latest+Hip+Hop+News%2C+Rap+News+%26+Hip+Hop+Album+Sales&amp;rft.date=2011-05-25&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.15285%2Ftitle.photographer-almost-suffocated-nas-on-i-am-cover-shoot&amp;rft.pub=HipHop+DX&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-DiBella-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-DiBella_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DiBella_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-DiBella_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">DiBella, M.F. (November 1, 2001). <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/i-amthe-autobiography-r400739/review">"I Am...The Autobiography - Nas: Review"</a>. <i><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></i>. <a href="/wiki/Rovi_Corporation" title="Rovi Corporation">Rovi Corporation</a><span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=I+Am...The+Autobiography+-+Nas%3A+Review&amp;rft.au=DiBella%2C+M.F.&amp;rft.aufirst=M.F.&amp;rft.aulast=DiBella&amp;rft.date=November+1%2C+2001&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fi-amthe-autobiography-r400739%2Freview&amp;rft.jtitle=Allmusic&amp;rft.pub=Rovi+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Little-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Little_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Little_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Little, Rebecca (April 18, 1999). <a rel="nofollow" class="external text" href="http://nl.newsbank.com/nl-search/we/Archives?p_product=CSTB&amp;p_theme=cstb&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0EB4240CF840967A&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM">"Column: SPIN CONTROL"</a>. <i><a href="/wiki/Chicago_Sun-Times" title="Chicago Sun-Times">Chicago Sun-Times</a></i> (<a href="/wiki/Sun-Times_Media_Group" title="Sun-Times Media Group">Sun-Times Media</a>): 10<span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=Column%3A+SPIN+CONTROL&amp;rft.aufirst=Rebecca&amp;rft.aulast=Little&amp;rft.au=Little%2C+Rebecca&amp;rft.date=April+18%2C+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnl.newsbank.com%2Fnl-search%2Fwe%2FArchives%3Fp_product%3DCSTB%26p_theme%3Dcstb%26p_action%3Dsearch%26p_maxdocs%3D200%26p_topdoc%3D1%26p_text_direct-0%3D0EB4240CF840967A%26p_field_direct-0%3Ddocument_id%26p_perpage%3D10%26p_sort%3DYMD_date%3AD%26s_trackval%3DGooglePM&amp;rft.jtitle=Chicago+Sun-Times&amp;rft.pages=10&amp;rft.pub=Sun-Times+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Christgau-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Christgau_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Christgau_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Christgau_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Christgau, Robert</a> (June 15, 1999). <a rel="nofollow" class="external text" href="http://www.villagevoice.com/1999-06-08/music/music/2/">"Music - Page 2"</a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>. <a href="/wiki/Village_Voice_Media" title="Village Voice Media">Village Voice Media</a><span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=Music+-+Page+2&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.date=June+15%2C+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.villagevoice.com%2F1999-06-08%2Fmusic%2Fmusic%2F2%2F&amp;rft.jtitle=The+Village+Voice&amp;rft.pub=Village+Voice+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Sinclair-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sinclair_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sinclair_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Sinclair, Tom (April 2, 1999). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,272960,00.html">"I Am... Review"</a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i>. <a href="/wiki/Time_Inc." title="Time Inc.">Time Inc.</a> <span class="reference-accessdate">Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=I+Am...+Review&amp;rft.aufirst=Tom&amp;rft.aulast=Sinclair&amp;rft.au=Sinclair%2C+Tom&amp;rft.date=April+2%2C+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C272960%2C00.html&amp;rft.jtitle=Entertainment+Weekly&amp;rft.pub=Time+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Baker-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Baker_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Baker_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Baker, Soren (March 29, 1999). <a rel="nofollow" class="external text" href="http://articles.latimes.com/1999/mar/29/entertainment/ca-22081">"*** Nas, "I Am," Columbia"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. <a href="/wiki/Tribune_Company" title="Tribune Company">Tribune Company</a><span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=%2A%2A%2A+Nas%2C+%22I+Am%2C%22+Columbia&amp;rft.au=Baker%2C+Soren&amp;rft.aufirst=Soren&amp;rft.aulast=Baker&amp;rft.date=March+29%2C+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F1999%2Fmar%2F29%2Fentertainment%2Fca-22081&amp;rft.jtitle=Los+Angeles+Times&amp;rft.pub=Tribune+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NME-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-NME_8-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nme.com/reviews/artistKeyname/850">"Album Reviews - I Am... The Autobiography Vol 1"</a>. <i><a href="/wiki/NME" title="NME">NME</a></i>. <a href="/wiki/IPC_Media" title="IPC Media">IPC Media</a>. March 6, 1999<span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=Album+Reviews+-+I+Am...+The+Autobiography+Vol+1&amp;rft.date=March+6%2C+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nme.com%2Freviews%2FartistKeyname%2F850&amp;rft.jtitle=NME&amp;rft.pub=IPC+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ex-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ex_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ex_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Ex, Kris (April 2, 1999). <a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/albumreviews/i-am-the-autobiography-19990402">"I Am...The Autobiography by Nas"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. <a href="/wiki/Jann_Wenner" title="Jann Wenner">Wenner Media</a><span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=I+Am...The+Autobiography+by+Nas&amp;rft.au=Ex%2C+Kris&amp;rft.aufirst=Kris&amp;rft.aulast=Ex&amp;rft.date=April+2%2C+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Falbumreviews%2Fi-am-the-autobiography-19990402&amp;rft.jtitle=Rolling+Stone&amp;rft.pub=Wenner+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Source-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Source_10-0">^</a></b></span> <span class="reference-text"><span class="citation journal">"Nas, I Am... (MCA)". <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> (The Source Enterprises) (115): 195. April 1999.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=Nas%2C+I+Am...+%28MCA%29&amp;rft.date=April+1999&amp;rft.genre=article&amp;rft.issue=115&amp;rft.jtitle=The+Source&amp;rft.pages=195&amp;rft.pub=The+Source+Enterprises&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Soults-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Soults_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Soults_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Soults, Franklin (April 20, 1999). <a rel="nofollow" class="external text" href="http://www.villagevoice.com/1999-04-20/music/half-and-half/">"Half and Half"</a>. <i>The Village Voice</i>. Village Voice Media<span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=Half+and+Half&amp;rft.aufirst=Franklin&amp;rft.aulast=Soults&amp;rft.au=Soults%2C+Franklin&amp;rft.date=April+20%2C+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.villagevoice.com%2F1999-04-20%2Fmusic%2Fhalf-and-half%2F&amp;rft.jtitle=The+Village+Voice&amp;rft.pub=Village+Voice+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Johnson-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Johnson_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Johnson_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Johnson, Jr., Billy (April 6, 1999). <a rel="nofollow" class="external text" href="http://www.webcitation.org/60gy9XOQe">"Nas Reviews"</a>. <i><a href="/wiki/Yahoo!_Music" title="Yahoo! Music">Yahoo! Music</a></i>. <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a>. Archived from <a rel="nofollow" class="external text" href="http://ca.music.yahoo.com/read/review/12031007">the original</a> on 2011-08-04<span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=Nas+Reviews&amp;rft.aufirst=Billy&amp;rft.au=Johnson%2C+Jr.%2C+Billy&amp;rft.aulast=Johnson%2C+Jr.&amp;rft.date=April+6%2C+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fca.music.yahoo.com%2Fread%2Freview%2F12031007&amp;rft.jtitle=Yahoo%21+Music&amp;rft.pub=Yahoo%21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Stark-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Stark_13-0">^</a></b></span> <span class="reference-text"><span class="citation web">Stark, Jeff (May 11, 1999). <a rel="nofollow" class="external text" href="http://www.salon.com/entertainment/music/review/1999/05/11/sharps">"Sharps &amp; flats"</a>. <i><a href="/wiki/Salon.com" title="Salon.com" class="mw-redirect">Salon</a></i>. Salon Media Group<span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=Sharps+%26+flats&amp;rft.aufirst=Jeff&amp;rft.aulast=Stark&amp;rft.au=Stark%2C+Jeff&amp;rft.date=May+11%2C+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.salon.com%2Fentertainment%2Fmusic%2Freview%2F1999%2F05%2F11%2Fsharps&amp;rft.jtitle=Salon&amp;rft.pub=Salon+Media+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web">Christgau, Robert (October 15, 2000). <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/bk-cg90/grades-90s.php">"CG 90s: Key to Icons"</a>. Robert Christgau<span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.btitle=CG+90s%3A+Key+to+Icons&amp;rft.date=October+15%2C+2000&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fxg%2Fbk-cg90%2Fgrades-90s.php&amp;rft.pub=Robert+Christgau&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Seymour-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Seymour_15-0">^</a></b></span> <span class="reference-text"><span class="citation journal"><a href="/wiki/Craig_Seymour" title="Craig Seymour">Seymour, Craig</a> (April 14, 1999). <a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/washingtonpost/access/40542846.html?dids=40542846:40542846&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Apr+14%2C+1999&amp;author=Craig+Seymour&amp;pub=The+Washington+Post&amp;desc=Nas's+%60I+Am'+Isn't+Quite%3B+Rapper's+Third+Effort+Thoughtful+but+Uneven&amp;pqatl=google">"Nas's `I Am' Isn't Quite; Rapper's Third Effort Thoughtful but Uneven"</a>. <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i> (<a href="/wiki/The_Washington_Post_Company" title="The Washington Post Company" class="mw-redirect">The Washington Post Company</a>): C.05<span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=Nas%27s+%60I+Am%27+Isn%27t+Quite%3B+Rapper%27s+Third+Effort+Thoughtful+but+Uneven&amp;rft.aufirst=Craig&amp;rft.aulast=Seymour&amp;rft.au=Seymour%2C+Craig&amp;rft.date=April+14%2C+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpqasb.pqarchiver.com%2Fwashingtonpost%2Faccess%2F40542846.html%3Fdids%3D40542846%3A40542846%26FMT%3DABS%26FMTS%3DABS%3AFT%26type%3Dcurrent%26date%3DApr%2B14%252C%2B1999%26author%3DCraig%2BSeymour%26pub%3DThe%2BWashington%2BPost%26desc%3DNas%27s%2B%2560I%2BAm%27%2BIsn%27t%2BQuite%253B%2BRapper%27s%2BThird%2BEffort%2BThoughtful%2Bbut%2BUneven%26pqatl%3Dgoogle&amp;rft.jtitle=The+Washington+Post&amp;rft.pages=C.05&amp;rft.pub=The+Washington+Post+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Lewis-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lewis_16-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a href="/wiki/Miles_Marshall_Lewis" title="Miles Marshall Lewis">Lewis, Miles Marshall</a> (May 6, 2011). <a rel="nofollow" class="external text" href="http://www.laweekly.com/1999-05-06/music/a-dollar-a-holler/">"A Dollar a Holler"</a>. <i><a href="/wiki/LA_Weekly" title="LA Weekly">LA Weekly</a></i>. Village Voice Media<span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=A+Dollar+a+Holler&amp;rft.aufirst=Miles+Marshall&amp;rft.aulast=Lewis&amp;rft.au=Lewis%2C+Miles+Marshall&amp;rft.date=May+6%2C+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.laweekly.com%2F1999-05-06%2Fmusic%2Fa-dollar-a-holler%2F&amp;rft.jtitle=LA+Weekly&amp;rft.pub=Village+Voice+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Farley-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Farley_17-0">^</a></b></span> <span class="reference-text"><span class="citation news"><a href="/wiki/Christopher_John_Farley" title="Christopher John Farley">Farley, Christopher John</a> (April 12, 1999). <a rel="nofollow" class="external text" href="http://www.time.com/time/magazine/article/0,9171,990706,00.html">"Music: Staying Cool Under Fire"</a>. <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i> (Time Inc.)<span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=Music%3A+Staying+Cool+Under+Fire&amp;rft.au=Farley%2C+Christopher+John&amp;rft.aufirst=Christopher+John&amp;rft.aulast=Farley&amp;rft.date=April+12%2C+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.time.com%2Ftime%2Fmagazine%2Farticle%2F0%2C9171%2C990706%2C00.html&amp;rft.jtitle=Time&amp;rft.pub=Time+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Jones-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jones_18-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Jones, Steve (April 6, 1999). <a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/USAToday/access/40318636.html?dids=40318636:40318636&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Apr+06%2C+1999&amp;author=Steve+Jones%3B+Edna+Gundersen%3B+David+Patrick+Stearns%3B+Brian+Mansfield&amp;pub=USA+TODAY&amp;desc=Nas+says+plenty%3B+Coe+earns+country+'Airplay'&amp;pqatl=google">"Nas says plenty; Coe earns country 'Airplay<span style="padding-right:0.2em;">'</span>"</a>. <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i> (<a href="/wiki/Gannett_Company" title="Gannett Company">Gannett Company</a>): 4.D<span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=Nas+says+plenty%3B+Coe+earns+country+%27Airplay%27&amp;rft.aufirst=Steve&amp;rft.au=Jones%2C+Steve&amp;rft.aulast=Jones&amp;rft.date=April+6%2C+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpqasb.pqarchiver.com%2FUSAToday%2Faccess%2F40318636.html%3Fdids%3D40318636%3A40318636%26FMT%3DABS%26FMTS%3DABS%3AFT%26type%3Dcurrent%26date%3DApr%2B06%252C%2B1999%26author%3DSteve%2BJones%253B%2BEdna%2BGundersen%253B%2BDavid%2BPatrick%2BStearns%253B%2BBrian%2BMansfield%26pub%3DUSA%2BTODAY%26desc%3DNas%2Bsays%2Bplenty%253B%2BCoe%2Bearns%2Bcountry%2B%27Airplay%27%26pqatl%3Dgoogle&amp;rft.jtitle=USA+Today&amp;rft.pages=4.D&amp;rft.pub=Gannett+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Juon-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Juon_19-0">^</a></b></span> <span class="reference-text"><span class="citation web">Juon, Steve (April 6, 1999). <a rel="nofollow" class="external text" href="http://www.rapreviews.com/archive/1999_04_iamnas.html">"Nas&#160;:: I Am...&#160;:: Columbia"</a>. <i>RapReviews</i>. Flash Web Design Exclusive<span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=Nas+%3A%3A+I+Am...+%3A%3A+Columbia&amp;rft.aufirst=Steve&amp;rft.au=Juon%2C+Steve&amp;rft.aulast=Juon&amp;rft.date=April+6%2C+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rapreviews.com%2Farchive%2F1999_04_iamnas.html&amp;rft.jtitle=RapReviews&amp;rft.pub=Flash+Web+Design+Exclusive&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RSguide-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-RSguide_20-0">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Nathan_Brackett" title="Nathan Brackett">Nathan Brackett</a>, Christian Hoard, ed. (November 2, 2004). <i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The New Rolling Stone Album Guide</a></i>. Completely Revised and Updated 4th Edition. <a href="/wiki/Simon_and_Schuster" title="Simon and Schuster" class="mw-redirect">Simon and Schuster</a>. p.&#160;569. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7432-0169-8" title="Special:BookSources/0-7432-0169-8">0-7432-0169-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.btitle=The+New+Rolling+Stone+Album+Guide&amp;rft.date=November+2%2C+2004&amp;rft.genre=book&amp;rft.isbn=0-7432-0169-8&amp;rft.pages=569&amp;rft.pub=Simon+and+Schuster&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/search/xx/music/pid/1090545/a/I+Am....htm">"Nas - I Am CD Album"</a>. <i><a href="/wiki/Muze" title="Muze">Muze</a></i>. <a href="/wiki/CD_Universe" title="CD Universe">CD Universe</a><span class="reference-accessdate">. Retrieved 2011-08-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI+Am...+%28Nas+album%29&amp;rft.atitle=Nas+-+I+Am+CD+Album&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cduniverse.com%2Fsearch%2Fxx%2Fmusic%2Fpid%2F1090545%2Fa%2FI%2BAm....htm&amp;rft.jtitle=Muze&amp;rft.pub=CD+Universe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ac_BillboardCanada_Nas-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_BillboardCanada_Nas_22-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/276998/Nas/chart?f=309">Nas Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a> for Nas. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-ac_Netherlands_NAS-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Netherlands_NAS_23-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.dutchcharts.nl/showitem.asp?interpret=NAS&amp;titel=I+Am&amp;cat=a">NAS – I Am"</a> (in Dutch). Dutchcharts.nl. Hung Medien. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-ac_France_NAS-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_France_NAS_24-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.lescharts.com/showitem.asp?interpret=NAS&amp;titel=I+Am&amp;cat=a">NAS – I Am"</a>. Lescharts.com. Hung Medien. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-ac_Germany3_NAS-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Germany3_NAS_25-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.charts.de/album.asp?artist=NAS&amp;title=I+Am&amp;cat=a&amp;country=de">NAS - I Am"</a>. Charts.de. <a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control</a>. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-ac_Norway_NAS-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Norway_NAS_26-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.norwegiancharts.com/showitem.asp?interpret=NAS&amp;titel=I+Am&amp;cat=a">NAS – I Am"</a>. Norwegiancharts.com. Hung Medien. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-ac_Sweden_NAS-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Sweden_NAS_27-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.swedishcharts.com/showitem.asp?interpret=NAS&amp;titel=I+Am&amp;cat=a">NAS – I Am"</a>. Swedishcharts.com. Hung Medien. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-ac_Switzerland_NAS-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Switzerland_NAS_28-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.swisscharts.com/showitem.asp?interpret=NAS&amp;titel=I+Am&amp;cat=a">NAS – I Am"</a>. Swisscharts.com. Hung Medien. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-ac_UK_NAS-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_UK_NAS_29-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.officialcharts.com/artist/_/NAS/">"NAS | Artist | Official Charts"</a>. <a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a>. The Official Charts Company. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-ac_Billboard200_Nas-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Billboard200_Nas_30-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/276998/Nas/chart?f=305">"Nas Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Billboard_200" title="Billboard 200">200</a> for Nas. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-ac_BillboardRandBHipHop_Nas-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_BillboardRandBHipHop_Nas_31-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/276998/Nas/chart?f=333">Nas Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> for Nas. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved November 12, 2013.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/Nas-I-Am/master/20217">I Am...</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Nas" title="Template:Nas"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Nas" title="Template talk:Nas"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nas&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Nas" title="Nas">Nas</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Illmatic" title="Illmatic">Illmatic</a></i></li>
+<li><i><a href="/wiki/It_Was_Written" title="It Was Written">It Was Written</a></i></li>
+<li><i><strong class="selflink">I Am…</strong></i></li>
+<li><i><a href="/wiki/Nastradamus" title="Nastradamus">Nastradamus</a></i></li>
+<li><i><a href="/wiki/Stillmatic" title="Stillmatic">Stillmatic</a></i></li>
+<li><i><a href="/wiki/God%27s_Son" title="God's Son">God's Son</a></i></li>
+<li><i><a href="/wiki/Street%27s_Disciple" title="Street's Disciple">Street's Disciple</a></i></li>
+<li><i><a href="/wiki/Hip_Hop_Is_Dead" title="Hip Hop Is Dead">Hip Hop Is Dead</a></i></li>
+<li><a href="/wiki/Untitled_Nas_album" title="Untitled Nas album">Untitled</a></li>
+<li><i><a href="/wiki/Life_Is_Good_(Nas_album)" title="Life Is Good (Nas album)">Life Is Good</a></i></li>
+</ul>
+</div>
+<table cellspacing="0" class="nowraplinks vcard navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE; text-align:center;;">Collaborations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Distant_Relatives" title="Distant Relatives">Distant Relatives</a></i> <small>(with <a href="/wiki/Damian_Marley" title="Damian Marley">Damian Marley</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilation albums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Lost_Tapes" title="The Lost Tapes">The Lost Tapes</a></i></li>
+<li><i><a href="/wiki/Greatest_Hits_(Nas_album)" title="Greatest Hits (Nas album)">Greatest Hits</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Album_(The_Firm_album)" title="The Album (The Firm album)">The Firm: The Album</a></i></li>
+<li><i><a href="/wiki/Nas_%26_Ill_Will_Records_Presents_QB%27s_Finest" title="Nas &amp; Ill Will Records Presents QB's Finest">Nas &amp; Ill Will Records Presents QB's Finest</a></i></li>
+<li><i><a href="/wiki/From_Illmatic_to_Stillmatic:_The_Remixes" title="From Illmatic to Stillmatic: The Remixes">From Illmatic to Stillmatic: The Remixes</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Nas_discography" title="Nas discography">Discography</a></li>
+<li><i><a href="/wiki/Breaking_Atoms" title="Breaking Atoms">Breaking Atoms</a></i></li>
+<li><a href="/wiki/Bravehearts" title="Bravehearts">Bravehearts</a></li>
+<li><a href="/wiki/Ill_Will_Records" title="Ill Will Records">Ill Will Records</a></li>
+<li><a href="/wiki/The_Firm_(hip_hop_group)" title="The Firm (hip hop group)">The Firm</a></li>
+<li><a href="/wiki/Jay-Z%E2%80%93Nas_feud" title="Jay-Z–Nas feud">Jay-Z–Nas feud</a></li>
+<li><i><a href="/wiki/Video_Anthology_Vol._1" title="Video Anthology Vol. 1">Video Anthology Vol. 1</a></i></li>
+<li><i><a href="/wiki/God%27s_Stepson" title="God's Stepson">God's Stepson</a></i></li>
+<li><a href="/wiki/Olu_Dara" title="Olu Dara">Olu Dara</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1180
+CPU time usage: 1.868 seconds
+Real time usage: 1.995 seconds
+Preprocessor visited node count: 8623/1000000
+Preprocessor generated node count: 78479/1500000
+Post‐expand include size: 96104/2048000 bytes
+Template argument size: 10579/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 2/500
+Lua time usage: 0.122/10.000 seconds
+Lua memory usage: 3.01 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1586478-0!*!0!!en!4!* and timestamp 20140530152147 and revision id 597246894
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=I_Am..._(Nas_album)&amp;oldid=597246894">http://en.wikipedia.org/w/index.php?title=I_Am..._(Nas_album)&amp;oldid=597246894</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1999_albums" title="Category:1999 albums">1999 albums</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Premier" title="Category:Albums produced by DJ Premier">Albums produced by DJ Premier</a></li><li><a href="/wiki/Category:Albums_produced_by_Dame_Grease" title="Category:Albums produced by Dame Grease">Albums produced by Dame Grease</a></li><li><a href="/wiki/Category:Albums_produced_by_L.E.S." title="Category:Albums produced by L.E.S.">Albums produced by L.E.S.</a></li><li><a href="/wiki/Category:Albums_produced_by_Timbaland" title="Category:Albums produced by Timbaland">Albums produced by Timbaland</a></li><li><a href="/wiki/Category:Albums_produced_by_Trackmasters" title="Category:Albums produced by Trackmasters">Albums produced by Trackmasters</a></li><li><a href="/wiki/Category:Columbia_Records_albums" title="Category:Columbia Records albums">Columbia Records albums</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li><li><a href="/wiki/Category:Nas_albums" title="Category:Nas albums">Nas albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=I+Am...+%28Nas+album%29&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=I+Am...+%28Nas+album%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/I_Am..._(Nas_album)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:I_Am..._(Nas_album)"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/I_Am..._(Nas_album)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/I_Am..._(Nas_album)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/I_Am..._(Nas_album)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;oldid=597246894" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q534271" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=I_Am..._%28Nas_album%29&amp;id=597246894" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=I+Am...+%28Nas+album%29">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=I+Am...+%28Nas+album%29&amp;oldid=597246894&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=I_Am..._(Nas_album)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/I_Am..." title="I Am... – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/I_Am%E2%80%A6" title="I Am… – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/I_Am..._(%C3%A1lbum_de_Nas)" title="I Am... (álbum de Nas) – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/I_Am..." title="I Am... – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/I_Am..." title="I Am... – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/I_Am%E2%80%A6" title="I Am… – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/I_Am..." title="I Am... – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/I_Am..." title="I Am... – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/I_Am%E2%80%A6" title="I Am… – Romanian" lang="ro" hreflang="ro">Română</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/I_Am..." title="I Am... – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/I_Am..." title="I Am... – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q534271#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 26 February 2014 at 17:10.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/I_Am..._(Nas_album)" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":215,"wgHostname":"mw1057"});
+}</script>
+	</body>
+</html>
+	

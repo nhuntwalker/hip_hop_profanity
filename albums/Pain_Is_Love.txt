@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Pain Is Love - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pain_Is_Love" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pain_Is_Love&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pain_Is_Love&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Pain_Is_Love" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pain_Is_Love","wgTitle":"Pain Is Love","wgCurRevisionId":608621360,"wgRevisionId":608621360,"wgArticleId":2590707,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","2001 albums","Ja Rule albums","Albums certified multi-platinum by the Recording Industry Association of America","Albums produced by Irv Gotti","Def Jam Recordings albums","2000s East Coast hip hop album stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pain_Is_Love","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["de","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q934521"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Pain_Is_Love skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Pain Is Love</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Pain Is Love</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Ja-rule-pain-is-love.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b1/Ja-rule-pain-is-love.jpg/220px-Ja-rule-pain-is-love.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/b/b1/Ja-rule-pain-is-love.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/b/b1/Ja-rule-pain-is-love.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Ja_Rule" title="Ja Rule">Ja Rule</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">October 2, 2001</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>2000-2001</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/East_Coast_hip_hop" title="East Coast hip hop">East Coast hip hop</a>, <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>62:07</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td>Murder Inc./<a href="/wiki/Def_Jam" title="Def Jam" class="mw-redirect">Def Jam</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Irv_Gotti" title="Irv Gotti">Irv Gotti</a>, <a href="/wiki/Lil%27_Rob" title="Lil' Rob" class="mw-redirect">Lil' Rob</a>, <a href="/wiki/Ty_Fyffe" title="Ty Fyffe">Ty Fyffe</a>, &amp; <a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Ja_Rule" title="Ja Rule">Ja Rule</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Rule_3:36" title="Rule 3:36">Rule 3:36</a></i><br />
+(2000)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Pain Is Love</b></i><br />
+(2001)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/The_Last_Temptation_(Ja_Rule_album)" title="The Last Temptation (Ja Rule album)">The Last Temptation</a></i><br />
+(2002)</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></td>
+<td style="vertical-align:middle">(B+)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">HipHopDX</td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="2.5/4 stars"><img alt="2.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">RapReviews</td>
+<td style="vertical-align:middle">(7.5/10)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/4 stars"><img alt="3/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>Pain Is Love</b></i> is the third <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by <a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Rapper" title="Rapper" class="mw-redirect">Rapper</a> <a href="/wiki/Ja_Rule" title="Ja Rule">Ja Rule</a> released in 2001. Its sequel was released on February 28, 2012, entitled <i><a href="/wiki/Pain_Is_Love_2" title="Pain Is Love 2">Pain Is Love 2</a></i>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Reception"><span class="tocnumber">1</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Track_listing"><span class="tocnumber">2</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Samples"><span class="tocnumber">3</span> <span class="toctext">Samples</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Chart_positions"><span class="tocnumber">4</span> <span class="toctext">Chart positions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pain_Is_Love&amp;action=edit&amp;section=1" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Pain is Love</i> was commercially successful in the hip hop music scene, it spawned two number one singles, debuted at #1 on the Billboard 200 with 361,000 copies sold in the first week and eventually was certified triple platinum in the United States.<sup id="cite_ref-RIAA_9-0" class="reference"><a href="#cite_note-RIAA-9"><span>[</span>9<span>]</span></a></sup> It had also received at <a href="/wiki/Grammy" title="Grammy" class="mw-redirect">Grammy</a> nomination for <a href="/wiki/Best_Rap_Album" title="Best Rap Album" class="mw-redirect">Best Rap Album</a> in 2002.</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pain_Is_Love&amp;action=edit&amp;section=2" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Pain Is Love" <span style="font-size:85%;">(Skit)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:18</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Dial M for Murder" &#160;</td>
+<td style="vertical-align: top;">Irv Gotti &amp; Ty Fyffe</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:32</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Livin%27_It_Up_(Ja_Rule_song)" title="Livin' It Up (Ja Rule song)">Livin' It Up</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Case_(singer)" title="Case (singer)">Case</a>)</span></td>
+<td style="vertical-align: top;">Irv Gotti &amp; Lil' Rob</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:17</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"The INC." <span style="font-size:85%;">(featuring Cadillac Tah, Black Child &amp; <a href="/wiki/Ashanti_(entertainer)" title="Ashanti (entertainer)" class="mw-redirect">Ashanti</a>)</span></td>
+<td style="vertical-align: top;">Irv Gotti</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:56</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Always_on_Time" title="Always on Time">Always on Time</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Ashanti_(entertainer)" title="Ashanti (entertainer)" class="mw-redirect">Ashanti</a>)</span></td>
+<td style="vertical-align: top;">Irv Gotti</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:05</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Down Ass Bitch" <span style="font-size:85%;">(featuring <a href="/wiki/Charli_Baltimore" title="Charli Baltimore">Charli Baltimore</a>)</span></td>
+<td style="vertical-align: top;">Irv Gotti, <a href="/wiki/Channel_7_(musician)" title="Channel 7 (musician)">7 Aurelius</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:31</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Never Again" &#160;</td>
+<td style="vertical-align: top;">Irv Gotti</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:19</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Worldwide Gangsta" <span style="font-size:85%;">(featuring Cadillac Tah, Black Child, <a href="/wiki/Boo_%26_Gotti" title="Boo &amp; Gotti">Boo &amp; Gotti</a>)</span></td>
+<td style="vertical-align: top;">Irv Gotti</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:20</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Leo" <span style="font-size:85%;">(Skit)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:18</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/I%27m_Real_(Murder_Remix)" title="I'm Real (Murder Remix)" class="mw-redirect">I'm Real (Murder Remix)</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Jennifer_Lopez" title="Jennifer Lopez">Jennifer Lopez</a>)</span></td>
+<td style="vertical-align: top;">Irv Gotti</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:12</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Smokin' &amp; Ridin'" <span style="font-size:85%;">(featuring Jodie Mack &amp; O-1)</span></td>
+<td style="vertical-align: top;">Irv Gotti</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:51</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"X" <span style="font-size:85%;">(featuring <a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a> &amp; <a href="/wiki/Tweet_(singer)" title="Tweet (singer)">Tweet</a>)</span></td>
+<td style="vertical-align: top;">Irv Gotti</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:02</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Big Remo" <span style="font-size:85%;">(Skit)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:19</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Lost Little Girl" &#160;</td>
+<td style="vertical-align: top;">Irv Gotti</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:00</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"So Much Pain" <span style="font-size:85%;">(contains <a href="/wiki/2Pac" title="2Pac" class="mw-redirect">2Pac</a>'s 3rd Verse and elements of his 1st from Pain)</span></td>
+<td style="vertical-align: top;">Irv Gotti &amp; Lil' Rob</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:03</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Pain Is Love" &#160;</td>
+<td style="vertical-align: top;">Irv Gotti</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:04</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Samples">Samples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pain_Is_Love&amp;action=edit&amp;section=3" title="Edit section: Samples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Dial M for Murder</b></p>
+<ul>
+<li>"Castle Walls" by <a href="/wiki/Styx_(band)" title="Styx (band)">Styx</a></li>
+</ul>
+<p><b>Down Ass B****</b></p>
+<ul>
+<li>"Sweet Sticky Thing" by <a href="/wiki/Ohio_Players" title="Ohio Players">Ohio Players</a></li>
+</ul>
+<p><b>Livin' It Up</b></p>
+<ul>
+<li>"Do I Do" by <a href="/wiki/Stevie_Wonder" title="Stevie Wonder">Stevie Wonder</a></li>
+</ul>
+<p><b>Pain Is Love</b></p>
+<ul>
+<li>"<a href="/wiki/Mind_Playing_Tricks_on_Me" title="Mind Playing Tricks on Me">Mind Playing Tricks on Me</a>" by <a href="/wiki/Geto_Boys" title="Geto Boys">Geto Boys</a></li>
+</ul>
+<p><b>Pain Is Love (Skit)</b></p>
+<ul>
+<li>"King of Sorrow" by <a href="/wiki/Sade_(band)" title="Sade (band)">Sade</a></li>
+</ul>
+<p><b>So Much Pain</b></p>
+<ul>
+<li>"Pain" by <a href="/wiki/2Pac" title="2Pac" class="mw-redirect">2Pac</a> featuring <a href="/wiki/Stretch_(rapper)" title="Stretch (rapper)">Stretch</a></li>
+</ul>
+<h2><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pain_Is_Love&amp;action=edit&amp;section=4" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tr>
+<th align="left">Chart (2001)</th>
+<th align="left">Peak<br />
+position</th>
+</tr>
+<tr>
+<td align="left">U.S. <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left">U.S. <i>Billboard</i> <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a></td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/ARIA_Charts" title="ARIA Charts">Australian Albums Chart</a></td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a></td>
+<td align="center">3</td>
+</tr>
+</table>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/The_Blueprint" title="The Blueprint">The Blueprint</a></i> by <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_2001_(USA)" title="Number-one albums of 2001 (USA)" class="mw-redirect">number-one album</a></b><br />
+October 20 - November 2, 2001</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/God_Bless_America_(charity_album)" title="God Bless America (charity album)">God Bless America</a></i> by Various artists</span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pain_Is_Love&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.allmusic.com/album/r549751">http://www.allmusic.com/album/r549751</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,254092,00.html">"Music Review: Pain is Love, by Ja Rule"</a>. <i>Entertainment Weekly</i>. January 22, 2011.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APain+Is+Love&amp;rft.atitle=Music+Review%3A+Pain+is+Love%2C+by+Ja+Rule&amp;rft.date=January+22%2C+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C254092%2C00.html&amp;rft.jtitle=Entertainment+Weekly&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.hiphopdx.com/index/reviews/id.101">http://www.hiphopdx.com/index/reviews/id.101</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://articles.latimes.com/2001/sep/30/entertainment/ca-51525">"Musicians Craft Sounds That Transcend Pop"</a>. <i>Los Angeles Times</i>. September 30, 2001.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APain+Is+Love&amp;rft.atitle=Musicians+Craft+Sounds+That+Transcend+Pop&amp;rft.date=September+30%2C+2001&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F2001%2Fsep%2F30%2Fentertainment%2Fca-51525&amp;rft.jtitle=Los+Angeles+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.rapreviews.com/archive/2001_10F_painlove.html">http://www.rapreviews.com/archive/2001_10F_painlove.html</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/pain-is-love/critic-reviews">http://www.metacritic.com/music/pain-is-love/critic-reviews</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://web.archive.org/web/20011031191436/http://www.rollingstone.com/recordings/review.asp?aid=2043200&amp;cf=8259">http://web.archive.org/web/20011031191436/http://www.rollingstone.com/recordings/review.asp?aid=2043200&amp;cf=8259</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.google.com/archivesearch?q=ja+rule+%223+36%22+source%3A%22USA%22+source%3A%22Today%22&amp;btnG=Search+Archives&amp;num=10&amp;hl=en&amp;scoring=a">http://www.google.com/archivesearch?q=ja+rule+%223+36%22+source%3A%22USA%22+source%3A%22Today%22&amp;btnG=Search+Archives&amp;num=10&amp;hl=en&amp;scoring=a</a></span></li>
+<li id="cite_note-RIAA-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-RIAA_9-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=&amp;artist=ja%20rule&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2009&amp;sort=CertificationDate&amp;perPage=50">"Gold &amp; Platinum - Ja Rule - search results"</a>. RIAA<span class="reference-accessdate">. Retrieved 2010-02-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APain+Is+Love&amp;rft.btitle=Gold+%26+Platinum+-+Ja+Rule+-+search+results&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Friaa.com%2Fgoldandplatinumdata.php%3Fresultpage%3D1%26table%3DSEARCH_RESULTS%26action%3D%26title%3D%26artist%3Dja%2520rule%26format%3D%26debutLP%3D%26category%3D%26sex%3D%26releaseDate%3D%26requestNo%3D%26type%3D%26level%3D%26label%3D%26company%3D%26certificationDate%3D%26awardDescription%3D%26catalogNo%3D%26aSex%3D%26rec_id%3D%26charField%3D%26gold%3D%26platinum%3D%26multiPlat%3D%26level2%3D%26certDate%3D%26album%3D%26id%3D%26after%3D%26before%3D%26startMonth%3D1%26endMonth%3D1%26startYear%3D1958%26endYear%3D2009%26sort%3DCertificationDate%26perPage%3D50&amp;rft.pub=RIAA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ja_Rule" title="Template:Ja Rule"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ja_Rule" title="Template talk:Ja Rule"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ja_Rule&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Ja_Rule" title="Ja Rule">Ja Rule</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Venni_Vetti_Vecci" title="Venni Vetti Vecci">Venni Vetti Vecci</a></i></li>
+<li><i><a href="/wiki/Rule_3:36" title="Rule 3:36">Rule 3:36</a></i></li>
+<li><i><strong class="selflink">Pain Is Love</strong></i></li>
+<li><i><a href="/wiki/The_Last_Temptation_(Ja_Rule_album)" title="The Last Temptation (Ja Rule album)">The Last Temptation</a></i></li>
+<li><i><a href="/wiki/Blood_in_My_Eye" title="Blood in My Eye">Blood in My Eye</a></i></li>
+<li><i><a href="/wiki/R.U.L.E." title="R.U.L.E.">R.U.L.E.</a></i></li>
+<li><i><a href="/wiki/Pain_Is_Love_2" title="Pain Is Love 2">Pain Is Love 2</a></i></li>
+<li><i><a href="/wiki/Renaissance_Project" title="Renaissance Project" class="mw-redirect">Renaissance Project</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other albums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Exodus_(Ja_Rule_album)" title="Exodus (Ja Rule album)">Exodus</a></i></li>
+<li><i><a href="/wiki/The_Mirror_(Ja_Rule_album)" title="The Mirror (Ja Rule album)">The Mirror</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Holla_Holla" title="Holla Holla">Holla Holla</a>"</li>
+<li>"<a href="/wiki/Between_Me_and_You" title="Between Me and You">Between Me and You</a>"</li>
+<li>"<a href="/wiki/Put_It_on_Me_(Ja_Rule_song)" title="Put It on Me (Ja Rule song)">Put It on Me</a>"</li>
+<li>"<a href="/wiki/I_Cry_(Ja_Rule_song)" title="I Cry (Ja Rule song)">I Cry</a>"</li>
+<li>"<a href="/wiki/Livin%27_It_Up_(Ja_Rule_song)" title="Livin' It Up (Ja Rule song)">Livin' It Up</a>"</li>
+<li>"<a href="/wiki/Always_on_Time" title="Always on Time">Always on Time</a>"</li>
+<li>"<a href="/wiki/Down_Ass_Bitch" title="Down Ass Bitch">Down Ass Bitch</a>"</li>
+<li>"<a href="/wiki/Down_4_U" title="Down 4 U">Down 4 U</a>"</li>
+<li>"<a href="/wiki/Thug_Lovin%27" title="Thug Lovin'">Thug Lovin'</a>"</li>
+<li>"<a href="/wiki/Mesmerize_(song)" title="Mesmerize (song)">Mesmerize</a>"</li>
+<li>"<a href="/wiki/Clap_Back" title="Clap Back">Clap Back</a>"</li>
+<li>"<a href="/wiki/Wonderful_(Ja_Rule_song)" title="Wonderful (Ja Rule song)">Wonderful</a>"</li>
+<li>"<a href="/wiki/New_York_(Ja_Rule_song)" title="New York (Ja Rule song)">New York</a>"</li>
+<li>"<a href="/wiki/Caught_Up_(Ja_Rule_song)" title="Caught Up (Ja Rule song)">Caught Up</a>"</li>
+<li>"<a href="/wiki/Uh-Ohhh!" title="Uh-Ohhh!">Uh-Ohhh!</a>"</li>
+<li>"<a href="/wiki/Body_(Ja_Rule_song)" title="Body (Ja Rule song)">Body</a>"</li>
+<li>"<a href="/wiki/Real_Life_Fantasy" title="Real Life Fantasy">Real Life Fantasy</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured artist</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Can_I_Get_A..." title="Can I Get A...">Can I Get A...</a>"</li>
+<li>"<a href="/wiki/Girlfriend/Boyfriend" title="Girlfriend/Boyfriend">Girlfriend/Boyfriend</a>"</li>
+<li>"<a href="/wiki/Damn_(Should%27ve_Treated_U_Right)" title="Damn (Should've Treated U Right)">Damn (Should've Treated U Right)</a>"</li>
+<li>"<a href="/wiki/Get_Da_Money" title="Get Da Money">Get Da Money</a>"</li>
+<li>"<a href="/wiki/I%27m_Real_(Jennifer_Lopez_song)" title="I'm Real (Jennifer Lopez song)" class="mw-redirect">I'm Real <small><b>(Murder Remix)</b></small></a>"</li>
+<li>"<a href="/wiki/Ain%27t_It_Funny_(Murder_Remix)" title="Ain't It Funny (Murder Remix)">Ain't It Funny <small><b>(Murder Remix)</b></small></a>"</li>
+<li>"<a href="/wiki/What%27s_Going_On_(song)#Artists_Against_AIDS_Worldwide_cover" title="What's Going On (song)">What's Going On</a>"</li>
+<li>"<a href="/wiki/Rainy_Dayz" title="Rainy Dayz">Rainy Dayz</a>"</li>
+<li>"<a href="/wiki/What%27s_Luv%3F" title="What's Luv?">What's Luv?</a>"</li>
+<li>"<a href="/wiki/Fly_(Wanessa_song)" title="Fly (Wanessa song)">Fly</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Ja_Rule_discography" title="Ja Rule discography">Discography</a></li>
+<li><a href="/wiki/Murder_Inc_Records" title="Murder Inc Records">Murder Inc Records</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="metadata plainlinks stub" style="background: transparent;" role="presentation">
+<tr>
+<td><a href="/wiki/File:Gnome-dev-cdrom-audio.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gnome-dev-cdrom-audio.svg/30px-Gnome-dev-cdrom-audio.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gnome-dev-cdrom-audio.svg/45px-Gnome-dev-cdrom-audio.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gnome-dev-cdrom-audio.svg/60px-Gnome-dev-cdrom-audio.svg.png 2x" data-file-width="60" data-file-height="60" /></a></td>
+<td><i>This 2000s <a href="/wiki/East_Coast_hip_hop" title="East Coast hip hop">East Coast hip hop</a> album-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Pain_Is_Love&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:2000s-eastcoast-hiphop-album-stub" title="Template:2000s-eastcoast-hiphop-album-stub"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:2000s-eastcoast-hiphop-album-stub" title="Template talk:2000s-eastcoast-hiphop-album-stub"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:2000s-eastcoast-hiphop-album-stub&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1217
+CPU time usage: 1.112 seconds
+Real time usage: 1.211 seconds
+Preprocessor visited node count: 5268/1000000
+Preprocessor generated node count: 34016/1500000
+Post‐expand include size: 65222/2048000 bytes
+Template argument size: 10231/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.066/10.000 seconds
+Lua memory usage: 1.78 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2590707-0!*!0!!en!4!* and timestamp 20140530171834 and revision id 608621360
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Pain_Is_Love&amp;oldid=608621360">http://en.wikipedia.org/w/index.php?title=Pain_Is_Love&amp;oldid=608621360</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2001_albums" title="Category:2001 albums">2001 albums</a></li><li><a href="/wiki/Category:Ja_Rule_albums" title="Category:Ja Rule albums">Ja Rule albums</a></li><li><a href="/wiki/Category:Albums_certified_multi-platinum_by_the_Recording_Industry_Association_of_America" title="Category:Albums certified multi-platinum by the Recording Industry Association of America">Albums certified multi-platinum by the Recording Industry Association of America</a></li><li><a href="/wiki/Category:Albums_produced_by_Irv_Gotti" title="Category:Albums produced by Irv Gotti">Albums produced by Irv Gotti</a></li><li><a href="/wiki/Category:Def_Jam_Recordings_albums" title="Category:Def Jam Recordings albums">Def Jam Recordings albums</a></li><li><a href="/wiki/Category:2000s_East_Coast_hip_hop_album_stubs" title="Category:2000s East Coast hip hop album stubs">2000s East Coast hip hop album stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pain+Is+Love&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pain+Is+Love" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Pain_Is_Love"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Pain_Is_Love"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Pain_Is_Love" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Pain_Is_Love&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pain_Is_Love&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pain_Is_Love" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pain_Is_Love" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Pain_Is_Love&amp;oldid=608621360" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Pain_Is_Love&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q934521" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Pain_Is_Love&amp;id=608621360" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pain+Is+Love">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Pain+Is+Love&amp;oldid=608621360&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Pain_Is_Love&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Pain_Is_Love" title="Pain Is Love – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Pain_Is_Love" title="Pain Is Love – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Pain_Is_Love" title="Pain Is Love – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Pain_Is_Love" title="Pain Is Love – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q934521#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 May 2014 at 00:33.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Pain_Is_Love" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":259,"wgHostname":"mw1031"});
+}</script>
+	</body>
+</html>
+	

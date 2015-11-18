@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>3 Years, 5 Months &amp; 2 Days in the Life Of... - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/3_Years,_5_Months_%26_2_Days_in_the_Life_Of..." />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=3_Years,_5_Months_%26_2_Days_in_the_Life_Of...&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=3_Years,_5_Months_%26_2_Days_in_the_Life_Of...&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/3_Years,_5_Months_%26_2_Days_in_the_Life_Of..." />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"3_Years,_5_Months_\u0026_2_Days_in_the_Life_Of...","wgTitle":"3 Years, 5 Months \u0026 2 Days in the Life Of...","wgCurRevisionId":586259928,"wgRevisionId":586259928,"wgArticleId":197099,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Arrested Development (group) albums","Chrysalis Records albums","1992 debut albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"3_Years,_5_Months_\u0026_2_Days_in_the_Life_Of...","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1490701"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-3_Years_5_Months_2_Days_in_the_Life_Of skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>3 Years, 5 Months &amp; 2 Days in the Life Of...</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">3 Years, 5 Months &amp; 2 Days in the Life Of...</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:ArrestedDevelopment3Years,5Months%262DaysintheLifeOf....jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/3/3e/ArrestedDevelopment3Years%2C5Months%262DaysintheLifeOf....jpg" width="200" height="200" data-file-width="200" data-file-height="200" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Arrested_Development_(hip_hop_group)" title="Arrested Development (hip hop group)" class="mw-redirect">Arrested Development</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">March 24, 1992</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1991</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Alternative_hip_hop" title="Alternative hip hop">Alternative hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>61:08</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Chrysalis_Records" title="Chrysalis Records">Chrysalis</a>/<a href="/wiki/EMI" title="EMI">EMI Records</a><br />
+<small>0946 3 21929 2 9<br />
+F2-21929</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Speech_(rapper)" title="Speech (rapper)">Speech</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Arrested_Development_(hip_hop_group)" title="Arrested Development (hip hop group)" class="mw-redirect">Arrested Development</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"></td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i>3 Years, 5 Months &amp; 2 Days in the Life Of...</i><br />
+(1992)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Zingalamaduni" title="Zingalamaduni">Zingalamaduni</a></i><br />
+(1994)</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Q_magazine" title="Q magazine">Q</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>3 Years, 5 Months &amp; 2 Days in the Life Of...</b></i> is the debut album by American <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> group <a href="/wiki/Arrested_Development_(hip_hop_group)" title="Arrested Development (hip hop group)" class="mw-redirect">Arrested Development</a>, released in 1992 (see <a href="/wiki/1992_in_music" title="1992 in music">1992 in music</a>). The album's chart success was the beginning of the popularization of <a href="/wiki/Southern_hip_hop" title="Southern hip hop">Southern hip hop</a>. <i>3 Years, 5 Months &amp; 2 Days in the Life Of...</i> stood in stark contrast to the <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a> that ruled the hip hop charts in 1992 (such as <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>'s <i><a href="/wiki/The_Chronic" title="The Chronic">The Chronic</a></i>), in its focus on <a href="/wiki/Spirituality" title="Spirituality">spirituality</a>, peace and love. It was voted as the best album of the year in <a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a> <a href="/wiki/Pazz_%26_Jop" title="Pazz &amp; Jop">Pazz &amp; Jop</a> critics poll. The album's title refers to the length of time it took Arrested Development to get a record contract.</p>
+<p>The song "Tennessee" is part of the <a href="/wiki/The_Rock_and_Roll_Hall_of_Fame%27s_500_Songs_that_Shaped_Rock_and_Roll" title="The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll" class="mw-redirect">The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll</a> list.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Track_listing"><span class="tocnumber">1</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personnel"><span class="tocnumber">2</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Chart_positions"><span class="tocnumber">3</span> <span class="toctext">Chart positions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3_Years,_5_Months_%26_2_Days_in_the_Life_Of...&amp;action=edit&amp;section=1" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol>
+<li>"Man's Final Frontier"&#160;– 2:39</li>
+<li>"Mama's Always on Stage" (Speech)&#160;– 3:25
+<ul>
+<li>Samples "We're Ready" by <a href="/wiki/Buddy_Guy" title="Buddy Guy">Buddy Guy</a> and <a href="/wiki/Junior_Wells" title="Junior Wells">Junior Wells</a> on the album <i><a href="/wiki/Hoodoo_Man_Blues" title="Hoodoo Man Blues">Hoodoo Man Blues</a></i></li>
+<li>"Parents Are People" by <a href="/wiki/Harry_Belafonte" title="Harry Belafonte">Harry Belafonte</a> and <a href="/wiki/Marlo_Thomas" title="Marlo Thomas">Marlo Thomas</a></li>
+</ul>
+</li>
+<li>"<a href="/wiki/People_Everyday" title="People Everyday">People Everyday</a>" (Speech)&#160;– 3:26
+<ul>
+<li>Interpolates "<a href="/wiki/Everyday_People_(song)" title="Everyday People (song)" class="mw-redirect">Everyday People</a>" by <a href="/wiki/Sly_%26_the_Family_Stone" title="Sly &amp; the Family Stone" class="mw-redirect">Sly &amp; the Family Stone</a> &amp; samples "Tappan Zee" by <a href="/wiki/Bob_James_(musician)" title="Bob James (musician)">Bob James</a></li>
+</ul>
+</li>
+<li>"Blues Happy"&#160;– 0:45</li>
+<li>"<a href="/wiki/Mr._Wendal" title="Mr. Wendal">Mr. Wendal</a>" (Speech)&#160;– 4:06
+<ul>
+<li>Samples "<a href="/wiki/Sing_a_Simple_Song" title="Sing a Simple Song">Sing a Simple Song</a>" by <a href="/wiki/Sly_%26_the_Family_Stone" title="Sly &amp; the Family Stone" class="mw-redirect">Sly &amp; the Family Stone</a></li>
+</ul>
+</li>
+<li>"Children Play with Earth"&#160;– 2:39</li>
+<li>"Raining Revolution" (Speech)&#160;– 3:25</li>
+<li>"Fishin' 4 Religion" (Speech)&#160;– 4:06</li>
+<li>"Give a Man a Fish" (Headliner/Speech)&#160;– 4:22
+<ul>
+<li>Samples "When It Comes Down to It" by <a href="/wiki/Minnie_Riperton" title="Minnie Riperton">Minnie Riperton</a></li>
+</ul>
+</li>
+<li>"U" (Speech)&#160;– 4:59
+<ul>
+<li>Samples "Mighty Quinn" by <a href="/wiki/Ramsey_Lewis" title="Ramsey Lewis">Ramsey Lewis</a></li>
+</ul>
+</li>
+<li>"Eve of Reality"&#160;– 1:42</li>
+<li>"Natural" (Speech)&#160;– 4:18
+<ul>
+<li>Samples "Sunshine" by <a href="/wiki/Earth,_Wind_%26_Fire" title="Earth, Wind &amp; Fire">Earth, Wind &amp; Fire</a>.</li>
+</ul>
+</li>
+<li>"Dawn of the Dreads" (Speech)&#160;– 5:17</li>
+<li>"<a href="/wiki/Tennessee_(Arrested_Development_song)" title="Tennessee (Arrested Development song)">Tennessee</a>" (Speech)&#160;– 4:32
+<ul>
+<li>Samples "<a href="/wiki/Alphabet_St." title="Alphabet St.">Alphabet St.</a>" by <a href="/wiki/Prince_(musician)" title="Prince (musician)">Prince</a>.</li>
+</ul>
+</li>
+<li>"Washed Away" (Speech)&#160;– 6:24
+<ul>
+<li>Samples "<a href="/wiki/Thin_Line_Between_Love_and_Hate" title="Thin Line Between Love and Hate">Thin Line Between Love and Hate</a>" by <a href="/wiki/The_Persuaders_(band)" title="The Persuaders (band)" class="mw-redirect">The Persuaders</a>.</li>
+</ul>
+</li>
+<li>"People Everyday [Metamorphosis Mix]" (Speech)&#160;– 4:55</li>
+</ol>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3_Years,_5_Months_%26_2_Days_in_the_Life_Of...&amp;action=edit&amp;section=2" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Arrested Development &#160;– Arranger</li>
+<li>Baba Oje</li>
+<li>Brother Larry &#160;– Guitar</li>
+<li>Montsho Eshe</li>
+<li><a href="/wiki/Dionne_Farris" title="Dionne Farris">Dionne Farris</a>&#160;– Vocals</li>
+<li><a href="/wiki/Headliner_(DJ)" title="Headliner (DJ)">Headliner</a></li>
+<li>Aerle Taree &#160;– Stylist</li>
+<li>Tom Held &#160;– Engineer</li>
+<li>Larry Jackson &#160;– Saxophone</li>
+<li>Terrance Cinque Mason &#160;– Vocals</li>
+<li>Rasa Don</li>
+<li>Sister Paulette &#160;– Vocals</li>
+<li>Speech &#160;– Producer, Executive Producer, Mixing</li>
+<li>Alvin Speights &#160;– Engineer</li>
+<li>Howie Weinberg &#160;– Mastering</li>
+<li>Richard Wells &#160;– Engineer</li>
+<li>Lindsey Williams &#160;– Project Director</li>
+<li>Jeffrey Henson Scales &#160;– Photography</li>
+<li>Matt Still &#160;– Assistant Engineer</li>
+<li>Randall Martin &#160;– Art Direction</li>
+</ul>
+<h2><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3_Years,_5_Months_%26_2_Days_in_the_Life_Of...&amp;action=edit&amp;section=3" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>&#160;– album</p>
+<table class="wikitable">
+<tr>
+<th>Chart (1992)</th>
+<th>Peak position</th>
+</tr>
+<tr>
+<td>Top R&amp;B/Hip-Hop Albums</td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td>Heatseekers</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a></td>
+<td align="center">3</td>
+</tr>
+<tr>
+<th>Chart (1993)</th>
+<th>Peak position</th>
+</tr>
+<tr>
+<td>The Billboard 200</td>
+<td align="center">7</td>
+</tr>
+</table>
+<p><i>Billboard</i>&#160;– singles</p>
+<table class="wikitable">
+<tr>
+<th>Song</th>
+<th>Chart (1992)</th>
+<th>Peak position</th>
+</tr>
+<tr>
+<td rowspan="6">People Everyday</td>
+<td>The Billboard Hot 100</td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td>Hot Rap Single</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td>Hot R&amp;B/Hip-Hop Singles &amp; Tracks</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td>Rhythmic Top 40</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td>Hot Dance Music/Club Play</td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td>Hot Dance Music/Maxi-Singles Sales</td>
+<td align="center">10</td>
+</tr>
+<tr>
+<td>Revolution</td>
+<td>Hot R&amp;B/Hip-Hop Singles &amp; Tracks</td>
+<td align="center">49</td>
+</tr>
+<tr>
+<td rowspan="2">Tennessee</td>
+<td>Hot R&amp;B/Hip-Hop Singles &amp; Tracks</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td>Hot Dance Music/Club Play</td>
+<td align="center">34</td>
+</tr>
+<tr>
+<th>Song</th>
+<th>Chart (1993)</th>
+<th>Peak position</th>
+</tr>
+<tr>
+<td rowspan="7">Mr. Wendal</td>
+<td>The Billboard Hot 100</td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td>Hot Rap Singles</td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td>Hot R&amp;B/Hip-Hop Singles &amp; Tracks</td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td>Rhythmic Top 40</td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td>Top 40 Mainstream</td>
+<td align="center">10</td>
+</tr>
+<tr>
+<td>Hot Dance Music/Club Play</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td>Hot Dance Music/Maxi-Singles Sales</td>
+<td align="center">27</td>
+</tr>
+<tr>
+<td>Natural</td>
+<td>Hot R&amp;B/Hip-Hop Singles &amp; Tracks</td>
+<td align="center">90</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3_Years,_5_Months_%26_2_Days_in_the_Life_Of...&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/3-years-5-months--2-days-in-the-life-of-r27603">allmusic Review</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.q4music.com/nav?page=q4music.review.redirect&amp;fixture_review=120433&amp;resource=120433&amp;fixture_artist=146699">Q Review</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Rock and Roll Hall of Fame "500 songs that shaped rock and roll" <a rel="nofollow" class="external autonumber" href="http://rockhall.com/exhibits/500-songs-that-shaped-rock-and/">[1]</a></span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Arrested_development" title="Template:Arrested development"><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Arrested_development" title="Template talk:Arrested development"><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Arrested_development&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><a href="/wiki/Arrested_Development_(group)" title="Arrested Development (group)">Arrested Development</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><a href="/wiki/Speech_(rapper)" title="Speech (rapper)">Speech</a></b></li>
+<li><b>Montsho Eshe</b></li>
+<li><b>One Love</b></li>
+<li><b>Tasha Larae</b></li>
+<li><b>Rasadon (aka Don Norris)</b></li>
+<li><b>Baba Oje</b></li>
+<li><b>JJ Boogie</b></li>
+<li><b>Za</b></li>
+</ul>
+<ul>
+<li><a href="/wiki/Headliner_(DJ)" title="Headliner (DJ)">Headliner</a></li>
+<li>Aerle Taree</li>
+<li>Dionne Farris</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><strong class="selflink">3 Years, 5 Months &amp; 2 Days in the Life Of...</strong></i></li>
+<li><i><a href="/wiki/Unplugged_(Arrested_Development_album)" title="Unplugged (Arrested Development album)">Unplugged</a></i></li>
+<li><i><a href="/wiki/Zingalamaduni" title="Zingalamaduni">Zingalamaduni</a></i></li>
+<li><i><a href="/wiki/Strong_(Arrested_Development_album)" title="Strong (Arrested Development album)">Strong</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Tennessee_(Arrested_Development_song)" title="Tennessee (Arrested Development song)">Tennessee</a>"</li>
+<li>"<a href="/wiki/People_Everyday" title="People Everyday">People Everyday</a>"</li>
+<li>"<a href="/wiki/Mr._Wendal" title="Mr. Wendal">Mr. Wendal</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Biography" title="Portal:Biography">Portal:Biography</a></b></li>
+<li><b><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Rock_music" title="Portal:Rock music">Portal:Rock music</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1027
+CPU time usage: 0.588 seconds
+Real time usage: 0.655 seconds
+Preprocessor visited node count: 1301/1000000
+Preprocessor generated node count: 7909/1500000
+Post‐expand include size: 23062/2048000 bytes
+Template argument size: 2699/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.046/10.000 seconds
+Lua memory usage: 963 KB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:197099-0!*!0!!en!4!* and timestamp 20140530142827 and revision id 586259928
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=3_Years,_5_Months_%26_2_Days_in_the_Life_Of...&amp;oldid=586259928">http://en.wikipedia.org/w/index.php?title=3_Years,_5_Months_%26_2_Days_in_the_Life_Of...&amp;oldid=586259928</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Arrested_Development_(group)_albums" title="Category:Arrested Development (group) albums">Arrested Development (group) albums</a></li><li><a href="/wiki/Category:Chrysalis_Records_albums" title="Category:Chrysalis Records albums">Chrysalis Records albums</a></li><li><a href="/wiki/Category:1992_debut_albums" title="Category:1992 debut albums">1992 debut albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=3+Years%2C+5+Months+%26+2+Days+in+the+Life+Of...&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=3+Years%2C+5+Months+%26+2+Days+in+the+Life+Of..." title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/3_Years,_5_Months_%26_2_Days_in_the_Life_Of..."  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:3_Years,_5_Months_%26_2_Days_in_the_Life_Of..."  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/3_Years,_5_Months_%26_2_Days_in_the_Life_Of..." >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=3_Years,_5_Months_%26_2_Days_in_the_Life_Of...&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=3_Years,_5_Months_%26_2_Days_in_the_Life_Of...&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/3_Years,_5_Months_%26_2_Days_in_the_Life_Of..." title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/3_Years,_5_Months_%26_2_Days_in_the_Life_Of..." title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=3_Years,_5_Months_%26_2_Days_in_the_Life_Of...&amp;oldid=586259928" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=3_Years,_5_Months_%26_2_Days_in_the_Life_Of...&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1490701" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=3_Years%2C_5_Months_%26_2_Days_in_the_Life_Of...&amp;id=586259928" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=3+Years%2C+5+Months+%26+2+Days+in+the+Life+Of...">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=3+Years%2C+5+Months+%26+2+Days+in+the+Life+Of...&amp;oldid=586259928&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=3_Years,_5_Months_%26_2_Days_in_the_Life_Of...&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/3_Years,_5_Months_%26_2_Days_in_the_Life_Of..." title="3 Years, 5 Months &amp; 2 Days in the Life Of... – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q1490701#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 December 2013 at 23:39.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/3_Years,_5_Months_%26_2_Days_in_the_Life_Of..." class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":259,"wgHostname":"mw1084"});
+}</script>
+	</body>
+</html>
+	

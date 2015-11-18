@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Raising Hell (album) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Raising_Hell_(album)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Raising_Hell_(album)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Raising_Hell_(album)&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Raising_Hell_(album)" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cmw.PopUpMediaTransform%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Raising_Hell_(album)","wgTitle":"Raising Hell (album)","wgCurRevisionId":611024247,"wgRevisionId":611024247,"wgArticleId":195584,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from December 2011","Articles with hAudio microformats","Run–D.M.C. albums","1986 albums","Albums produced by Rick Rubin","Profile Records albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Raising_Hell_(album)","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["de","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q521828"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Raising_Hell_album skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Raising Hell</i> (album)</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Raising Hell</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Raising_Hell_(Run_DMC_album_-_cover_art).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/93/Raising_Hell_%28Run_DMC_album_-_cover_art%29.jpg/220px-Raising_Hell_%28Run_DMC_album_-_cover_art%29.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/9/93/Raising_Hell_%28Run_DMC_album_-_cover_art%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/9/93/Raising_Hell_%28Run_DMC_album_-_cover_art%29.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Run%E2%80%93D.M.C." title="Run–D.M.C.">Run–D.M.C.</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> May 15, 1986<br />
+<span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> July 14, 1986</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1985-1986</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a>, <a href="/wiki/Rap_rock" title="Rap rock">rap rock</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>39:46</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Profile_Records" title="Profile Records">Profile</a>/<a href="/wiki/Arista_Records" title="Arista Records">Arista Records</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Russell_Simmons" title="Russell Simmons">Russell Simmons</a>, <a href="/wiki/Rick_Rubin" title="Rick Rubin">Rick Rubin</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Run%E2%80%93D.M.C." title="Run–D.M.C.">Run–D.M.C.</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/King_of_Rock" title="King of Rock">King of Rock</a></i><br />
+(1985)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i>Raising Hell</i><br />
+(1986)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Tougher_Than_Leather" title="Tougher Than Leather">Tougher Than Leather</a></i><br />
+(1988)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Raising Hell</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/My_Adidas" title="My Adidas">My Adidas</a>"</span><br />
+Released: May 29, 1986</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Walk_This_Way#Run.E2.80.93D.M.C._version" title="Walk This Way">Walk This Way</a>"</span><br />
+Released: July 4, 1986</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/You_Be_Illin%27" title="You Be Illin'">You Be Illin'</a>"</span><br />
+Released: October 21, 1986</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/It%27s_Tricky" title="It's Tricky">It's Tricky</a>"</span><br />
+Released: February 8, 1987</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<table class="mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image">
+<div class="center">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/75px-Gnome-mime-sound-openclipart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/100px-Gnome-mime-sound-openclipart.svg.png 2x" data-file-width="160" data-file-height="160" /></div>
+</div>
+</td>
+<td class="mbox-text plainlist" style="line-height:1.1em;">
+<div class="haudio">
+<div style="padding:2px 0;" class="fn"><a href="/wiki/File:Walk_This_Way_(Run-DMC)_sample.ogg" title="File:Walk This Way (Run-DMC) sample.ogg">"Walk This Way"</a></div>
+<div style="padding-right:4px;">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px;height:23px" poster="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="30" data-startoffset="0" data-mwtitle="Walk_This_Way_(Run-DMC)_sample.ogg" data-mwprovider="local"><source src="//upload.wikimedia.org/wikipedia/en/d/d4/Walk_This_Way_%28Run-DMC%29_sample.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (66 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="66282"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/en/d/d4/Walk_This_Way_%28Run-DMC%29_sample.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+<div style="padding:2px 0 0 0;" class="description"><a href="/wiki/Run-D.M.C." title="Run-D.M.C." class="mw-redirect">Run-D.M.C.</a>'s "<a href="/wiki/Walk_This_Way" title="Walk This Way">Walk This Way</a>" from <i>Raising Hell</i></div>
+</div>
+<hr /></td>
+</tr>
+<tr>
+<td colspan="2" class="mbox-text" style="line-height:1.1em;"><span style="font-size:smaller;"><i>Problems playing this file? See <a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">media help</a>.</i></span></td>
+</tr>
+</table>
+<p><i><b>Raising Hell</b></i> is the third album by <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> group <a href="/wiki/Run%E2%80%93D.M.C." title="Run–D.M.C.">Run–D.M.C.</a>. The breakthrough album trumped standing perceptions of commercial viability for hip-hop groups, achieving triple-<a href="/wiki/Platinum_record" title="Platinum record" class="mw-redirect">platinum</a> status and receiving critical attention from quarters that had previously ignored hip hop, dismissing it as a <a href="/wiki/Fad" title="Fad">fad</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Reception"><span class="tocnumber">2</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Track_listing"><span class="tocnumber">3</span> <span class="toctext">Track listing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Deluxe_edition_bonus_tracks"><span class="tocnumber">3.1</span> <span class="toctext">Deluxe edition bonus tracks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Chart_positions"><span class="tocnumber">4</span> <span class="toctext">Chart positions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Album"><span class="tocnumber">4.1</span> <span class="toctext">Album</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Singles"><span class="tocnumber">4.2</span> <span class="toctext">Singles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Vinyl_sleeves_and_labeling"><span class="tocnumber">5</span> <span class="toctext">Vinyl sleeves and labeling</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Raising_Hell_(album)&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Raising Hell</i> features the well-known cover "<a href="/wiki/Walk_This_Way" title="Walk This Way">Walk This Way</a>" featuring <a href="/wiki/Steven_Tyler" title="Steven Tyler">Steven Tyler</a> and <a href="/wiki/Joe_Perry_(musician)" title="Joe Perry (musician)">Joe Perry</a> of <a href="/wiki/Aerosmith" title="Aerosmith">Aerosmith</a>. While the song was not the group's first fusion of <a href="/wiki/Rock_and_roll" title="Rock and roll">rock</a> and hip hop (the group's earlier single "<a href="/wiki/Rock_Box" title="Rock Box">Rock Box</a>" was), it was the first such fusion to make a significant impact on the charts, becoming the first rap song to crack the top 5 of The <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a>. <i>Raising Hell</i> peaked at No.&#160;1 on <a href="/wiki/Billboard_Music_Charts" title="Billboard Music Charts" class="mw-redirect">Billboard</a>'s <a href="/wiki/R%26B" title="R&amp;B" class="mw-redirect">R&amp;B</a>/Hip Hop Album chart as the first hip hop/rap album to do so, and at No.&#160;4 on the Billboard 200.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Raising_Hell_(album)&amp;action=edit&amp;section=2" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a></td>
+<td style="vertical-align:middle">(7.7/10)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/w/index.php?title=The_Daily_Vault&amp;action=edit&amp;redlink=1" class="new" title="The Daily Vault (page does not exist)">The Daily Vault</a></td>
+<td style="vertical-align:middle">(A)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">(A)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Sputnikmusic" title="Sputnikmusic">sputnikmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">A−<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Rhapsody_(online_music_service)" title="Rhapsody (online music service)">Rhapsody</a></td>
+<td style="vertical-align:middle">(Favourable)<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+</table>
+<p>It ranked fourth on <a href="/wiki/Chris_Rock" title="Chris Rock">Chris Rock</a>'s list of the Top 25 Hip-Hop Albums of all time, and the comedian called it "the first great rap album ever".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>In 1998, the album appeared in The Source's 100 Best Rap Albums.</p>
+<p><a href="/wiki/Q_magazine" title="Q magazine"><i>Q</i></a> magazine (12/99, p.&#160;162) - 5 stars out of 5 - "...the apex of pre-<a href="/wiki/Public_Enemy_(group)" title="Public Enemy (group)">Public Enemy</a>, beatbox-based hip hop, a monument of massive, crisp beats plus the genre-bending 'Walk This Way'."</p>
+<p><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)"><i>Vibe</i></a> (12/99, p.&#160;162) - Included in Vibe's 100 Essential Albums of the 20th Century.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p><a href="/wiki/Uncut_(magazine)" title="Uncut (magazine)"><i>Uncut</i></a> (11/03, p.&#160;130) - 4 stars out of 5 - "[An album] that forced the music biz to take rap seriously."</p>
+<p><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> (12/11/03, p.&#160;126) - "[T]he pioneering trio took hip-hop into the upper reaches of the pop charts, introducing mainstream to a new urban thunder: <a href="/wiki/Rap_rock" title="Rap rock">rap rock</a>." (It is the earliest hip-hop album to get a 5-star review from <i>Rolling Stone</i>).</p>
+<p><i><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></i> - 5 stars out of 5 - "...the music was fully realized and thoroughly invigorating, rocking harder and better than any of its rock or rap peers in 1986..."</p>
+<p>In 2003, the album was ranked number 123 on <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> magazine's list of <a href="/wiki/The_500_Greatest_Albums_of_All_Time" title="The 500 Greatest Albums of All Time" class="mw-redirect">the 500 greatest albums of all time</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>In 2006, the album was chosen by <i><a href="/wiki/TIME_(magazine)" title="TIME (magazine)" class="mw-redirect">TIME</a></i> as one of the 100 greatest albums.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> <i><a href="/wiki/Time_Magazine" title="Time Magazine" class="mw-redirect">Time</a></i> named it No.&#160;41 of the 100 best albums of the past fifty years and stated that the album was "rap's first masterpiece".<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<p>In 2012, <a href="/wiki/Slant_Magazine" title="Slant Magazine">Slant Magazine</a> listed the album at No.&#160;65 on its list of "Best Albums of the 1980s".<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<p>In 1987, <a href="/wiki/Soul_Train_Music_Award_for_Best_Rap_-_Single" title="Soul Train Music Award for Best Rap - Single" class="mw-redirect">Soul Train Music Award for Best Rap - Single</a> for "Walk This Way" (jointly awarded to both Run-D.M.C. and Aerosmith)</p>
+<p>Public Enemy's Chuck D considers <i>Raising Hell</i> to be the greatest hip-hop album of all-time, and the reason he chose to sign with Def Jam Records.</p>
+<p>Peter Piper was performed by <a href="/wiki/Justin_Timberlake" title="Justin Timberlake">Justin Timberlake</a> and <a href="/wiki/Jimmy_Fallon" title="Jimmy Fallon">Jimmy Fallon</a> on <a href="/wiki/Late_Night_with_Jimmy_Fallon" title="Late Night with Jimmy Fallon">Late Night with Jimmy Fallon</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Raising_Hell_(album)&amp;action=edit&amp;section=3" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol>
+<li>"Peter Piper"&#160;– 3:25
+<ul>
+<li>Samples "Take Me to Mardi Gras" by <a href="/wiki/Bob_James_(musician)" title="Bob James (musician)">Bob James</a></li>
+</ul>
+</li>
+<li>"<a href="/wiki/It%27s_Tricky" title="It's Tricky">It's Tricky</a>"&#160;– 3:03
+<ul>
+<li>Samples "<a href="/wiki/My_Sharona" title="My Sharona">My Sharona</a>" by <a href="/wiki/The_Knack" title="The Knack">The Knack</a></li>
+</ul>
+</li>
+<li>"<a href="/wiki/My_Adidas" title="My Adidas">My Adidas</a>" (McDaniels/Rubin)&#160;– 2:47</li>
+<li>"<a href="/wiki/Walk_This_Way#Run-D.M.C._version" title="Walk This Way">Walk This Way</a>"&#160;– 5:17
+<ul>
+<li>Features new vocal and guitar parts by <a href="/wiki/Steven_Tyler" title="Steven Tyler">Steven Tyler</a> and <a href="/wiki/Joe_Perry_(musician)" title="Joe Perry (musician)">Joe Perry</a> of <a href="/wiki/Aerosmith" title="Aerosmith">Aerosmith</a> based on their original 1975 recording, as well as a sample of the original drum intro which is used as the song's breakdown.</li>
+</ul>
+</li>
+<li>"Is It Live"&#160;– 3:06</li>
+<li>"Perfection"&#160;– 2:52</li>
+<li>"Hit It Run"&#160;– 3:10
+<ul>
+<li>Samples "Rocket in the Pocket" by <a href="/wiki/Cerrone" title="Cerrone">Cerrone</a></li>
+</ul>
+</li>
+<li>"Raising Hell"&#160;– 5:31</li>
+<li>"<a href="/wiki/You_Be_Illin%27" title="You Be Illin'">You Be Illin'</a>" – 3:26</li>
+<li>"Dumb Girl"&#160;– 3:31</li>
+<li>"Son of Byford"&#160;–&#160;:27</li>
+<li>"Proud to Be Black"&#160;– 3:14</li>
+</ol>
+<h3><span class="mw-headline" id="Deluxe_edition_bonus_tracks">Deluxe edition bonus tracks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Raising_Hell_(album)&amp;action=edit&amp;section=4" title="Edit section: Deluxe edition bonus tracks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ol>
+<li>"My Adidas" (<a href="/wiki/A_cappella" title="A cappella">a cappella</a>)&#160;– 2:32</li>
+<li>"Walk This Way" (demo)&#160;– 5:26</li>
+<li>"Lord of Lyrics" (demo)&#160;– 4:30</li>
+<li>"Raising Hell Radio Tour Spot"&#160;– 0:53</li>
+<li>"Live at the Apollo Raw Vocal Commercial"&#160;– 3:28</li>
+</ol>
+<h2><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Raising_Hell_(album)&amp;action=edit&amp;section=5" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Album">Album</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Raising_Hell_(album)&amp;action=edit&amp;section=6" title="Edit section: Album">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th>Chart (1986)</th>
+<th>Peak<br />
+position</th>
+</tr>
+<tr>
+<td>Canadian <i><a href="/wiki/RPM_(magazine)" title="RPM (magazine)">RPM</a></i> Albums Chart<sup id="cite_ref-Canada_18-0" class="reference"><a href="#cite_note-Canada-18"><span>[</span>18<span>]</span></a></sup></td>
+<td align="center">32</td>
+</tr>
+<tr>
+<td>New Zealand <i><a href="/wiki/Recording_Industry_Association_of_New_Zealand" title="Recording Industry Association of New Zealand" class="mw-redirect">RIANZ</a></i> Album Chart<sup id="cite_ref-NZ_19-0" class="reference"><a href="#cite_note-NZ-19"><span>[</span>19<span>]</span></a></sup></td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a><sup id="cite_ref-UK_20-0" class="reference"><a href="#cite_note-UK-20"><span>[</span>20<span>]</span></a></sup></td>
+<td align="center">41</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-billboard_21-0" class="reference"><a href="#cite_note-billboard-21"><span>[</span>21<span>]</span></a></sup></td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td>US <i>Billboard</i> <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a><sup id="cite_ref-billboard_21-1" class="reference"><a href="#cite_note-billboard-21"><span>[</span>21<span>]</span></a></sup></td>
+<td align="center">1</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Raising_Hell_(album)&amp;action=edit&amp;section=7" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2">Single</th>
+<th colspan="9">Chart positions</th>
+</tr>
+<tr>
+<th scope="col" style="width:3em;font-size:80%;"><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">US</a><br />
+<sup id="cite_ref-billboard_21-2" class="reference"><a href="#cite_note-billboard-21"><span>[</span>21<span>]</span></a></sup></th>
+<th scope="col" style="width:3em;font-size:80%;"><a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">US R&amp;B</a><br />
+<sup id="cite_ref-billboard_21-3" class="reference"><a href="#cite_note-billboard-21"><span>[</span>21<span>]</span></a></sup></th>
+<th scope="col" style="width:3em;font-size:80%;"><a href="/wiki/Hot_Rap_Tracks" title="Hot Rap Tracks" class="mw-redirect">US Rap</a><br />
+<sup id="cite_ref-billboard_21-4" class="reference"><a href="#cite_note-billboard-21"><span>[</span>21<span>]</span></a></sup></th>
+<th scope="col" style="width:3em;font-size:80%;"><a href="/wiki/Hot_Dance_Club_Songs" title="Hot Dance Club Songs">US Dance</a><br />
+<sup id="cite_ref-billboard_21-5" class="reference"><a href="#cite_note-billboard-21"><span>[</span>21<span>]</span></a></sup></th>
+<th scope="col" style="width:3em;font-size:80%;"><a href="/wiki/Dance/Electronic_Singles_Sales" title="Dance/Electronic Singles Sales">US Dance Sales</a><br />
+<sup id="cite_ref-billboard_21-6" class="reference"><a href="#cite_note-billboard-21"><span>[</span>21<span>]</span></a></sup></th>
+<th scope="col" style="width:3em;font-size:80%;"><a href="/wiki/ARIA_Charts" title="ARIA Charts">AUS</a><br />
+<sup id="cite_ref-AUS_22-0" class="reference"><a href="#cite_note-AUS-22"><span>[</span>22<span>]</span></a></sup></th>
+<th scope="col" style="width:3em;font-size:80%;"><a href="/wiki/Canadian_Singles_Chart" title="Canadian Singles Chart">CAN</a><br />
+<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></th>
+<th scope="col" style="width:3em;font-size:80%;"><a href="/wiki/Recording_Industry_Association_of_New_Zealand" title="Recording Industry Association of New Zealand" class="mw-redirect">NZ</a><br />
+<sup id="cite_ref-NZ_19-1" class="reference"><a href="#cite_note-NZ-19"><span>[</span>19<span>]</span></a></sup></th>
+<th scope="col" style="width:3em;font-size:80%;"><a href="/wiki/UK_Singles_Chart" title="UK Singles Chart">UK</a><br />
+<sup id="cite_ref-chartstats-RunDMC_24-0" class="reference"><a href="#cite_note-chartstats-RunDMC-24"><span>[</span>24<span>]</span></a></sup></th>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="3">1986</td>
+<td align="left">"<a href="/wiki/My_Adidas" title="My Adidas">My Adidas</a>"</td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">5</td>
+<td style="text-align:center;">33<sup>1</sup></td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">10</td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">62</td>
+</tr>
+<tr>
+<td align="left">"<a href="/wiki/Walk_This_Way" title="Walk This Way">Walk This Way</a>"</td>
+<td style="text-align:center;">4</td>
+<td style="text-align:center;">8</td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:center;">13</td>
+<td style="text-align:center;">9</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">8<br />
+<sup id="cite_ref-chartstats-RunDMCAero_25-0" class="reference"><a href="#cite_note-chartstats-RunDMCAero-25"><span>[</span>25<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td align="left">"<a href="/wiki/You_Be_Illin%27" title="You Be Illin'">You Be Illin'</a>"</td>
+<td style="text-align:center;">29</td>
+<td style="text-align:center;">12<sup>2</sup></td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">44</td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">42</td>
+</tr>
+<tr>
+<td style="text-align:center;">1987</td>
+<td align="left">"<a href="/wiki/It%27s_Tricky" title="It's Tricky">It's Tricky</a>"</td>
+<td style="text-align:center;">57</td>
+<td style="text-align:center;">21</td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">30</td>
+<td style="text-align:center;">47</td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">–</td>
+<td style="text-align:center;">16</td>
+</tr>
+</table>
+<p><b>Notes:</b></p>
+<ul>
+<li><sup>1</sup> - Charted in 2000 at #33 on the <i>Billboard</i> Hot Rap Singles chart.</li>
+<li><sup>2</sup> - Re-charted in 1987 at #50 on the <i>Billboard</i> Hot R&amp;B/Hip-Hop Singles &amp; Tracks chart.</li>
+</ul>
+<h2><span class="mw-headline" id="Vinyl_sleeves_and_labeling">Vinyl sleeves and labeling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Raising_Hell_(album)&amp;action=edit&amp;section=8" title="Edit section: Vinyl sleeves and labeling">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>There are at least two <a href="/wiki/Color_scheme" title="Color scheme">color schemes</a> for this <a href="/wiki/LP_album" title="LP album" class="mw-redirect">LP</a>. One is a purple front photo with lime green writing and a red back photo with teal writing. Another is a green front photo with rose letters and a teal back photo and orange letters.</li>
+</ul>
+<ul>
+<li>There are some pressings that are mislabeled on both sides as side 2, though the grooves in the <a href="/wiki/Gramophone_record" title="Gramophone record">vinyl</a> are etched correctly.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Raising_Hell_(album)&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/news/story/5940042/48_rundmc">The Immortals - The Greatest Artists of All Time: 48) Run-DMC</a>. By <a href="/wiki/Chuck_D" title="Chuck D">Chuck D</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/369290/run-dmc/chart">"Raising Hell - Run-D.M.C. at Billboard.com"</a><span class="reference-accessdate">. Retrieved 2011-02-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=Raising+Hell+-+Run-D.M.C.+at+Billboard.com&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F369290%2Frun-dmc%2Fchart&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://pitchfork.com/reviews/albums/11816-run-dmc-king-of-rock-raising-hell-tougher-than-leather/">Pitchfork Media Review</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r28228">Allmusic Review</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://dailyvault.com/toc.php5?review=4498">"The Daily Vault Review"</a>. Dailyvault.com. 2006-09-21<span class="reference-accessdate">. Retrieved 2011-12-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=The+Daily+Vault+Review&amp;rft.date=2006-09-21&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fdailyvault.com%2Ftoc.php5%3Freview%3D4498&amp;rft.pub=Dailyvault.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ew.com/ew/gallery/0,,20209755_12,00.html">"Entertainment Weekly Review"</a>. Ew.com. 2011-11-28<span class="reference-accessdate">. Retrieved 2011-12-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=Entertainment+Weekly+Review&amp;rft.date=2011-11-28&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Fgallery%2F0%2C%2C20209755_12%2C00.html&amp;rft.pub=Ew.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.sputnikmusic.com/album.php?reviewid=29215">"sputnikmusic Review"</a>. Sputnikmusic.com. 2009-03-01<span class="reference-accessdate">. Retrieved 2011-12-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=sputnikmusic+Review&amp;rft.date=2009-03-01&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sputnikmusic.com%2Falbum.php%3Freviewid%3D29215&amp;rft.pub=Sputnikmusic.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?id=1195&amp;name=Run-D.M.C">"Robert Christgau Review"</a>. Robertchristgau.com<span class="reference-accessdate">. Retrieved 2011-12-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=Robert+Christgau+Review&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fget_artist.php%3Fid%3D1195%26name%3DRun-D.M.C&amp;rft.pub=Robertchristgau.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rhapsody.com/run-dmc/raising-hell--misc">Rhapsody Review</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since December 2011">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20041107213117/http://www.rollingstone.com/reviews/album/_/id/148182">"Rolling Stone Review"</a>. Rollingstone.com<span class="reference-accessdate">. Retrieved 2011-12-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=Rolling+Stone+Review&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20041107213117%2Fhttp%3A%2F%2Fwww.rollingstone.com%2Freviews%2Falbum%2F_%2Fid%2F148182&amp;rft.pub=Rollingstone.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://rateyourmusic.com/list/tha_flu/chris_rocks_top_25_hip_hop_albums">"Chris Rock's Top 25 Hip Hop Albums"</a>. Rateyourmusic.com<span class="reference-accessdate">. Retrieved 2011-12-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=Chris+Rock%27s+Top+25+Hip+Hop+Albums&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Frateyourmusic.com%2Flist%2Ftha_flu%2Fchris_rocks_top_25_hip_hop_albums&amp;rft.pub=Rateyourmusic.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/productinfo.asp?pid=1110114">"Run-DMC - Raising Hell CD Album"</a>. Cduniverse.com. 1999-06-01<span class="reference-accessdate">. Retrieved 2011-12-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=Run-DMC+-+Raising+Hell+CD+Album&amp;rft.date=1999-06-01&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cduniverse.com%2Fproductinfo.asp%3Fpid%3D1110114&amp;rft.pub=Cduniverse.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/news/story/6598691/120_raising_hell">"News"</a>. Rolling Stone<span class="reference-accessdate">. Retrieved 2011-12-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=News&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fnews%2Fstory%2F6598691%2F120_raising_hell&amp;rft.pub=Rolling+Stone&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web">Light, Alan (2006-11-02). <a rel="nofollow" class="external text" href="http://www.time.com/time/2006/100albums/index.html">"<span style="padding-left:0.2em;">'</span>'TIME.com'' - The All-TIME 100 Albums"</a>. Time.com<span class="reference-accessdate">. Retrieved 2011-12-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.aufirst=Alan&amp;rft.aulast=Light&amp;rft.au=Light%2C+Alan&amp;rft.btitle=%27%26%2339%3BTIME.com%27%26%2339%3B+-+The+All-TIME+100+Albums&amp;rft.date=2006-11-02&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.time.com%2Ftime%2F2006%2F100albums%2Findex.html&amp;rft.pub=Time.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web">Light, Alan (2006-11-02). <a rel="nofollow" class="external text" href="http://www.time.com/time/2006/100albums/0,27693,Raising_Hell,00.html">"Raising Hell"</a>. Time.com<span class="reference-accessdate">. Retrieved 2011-12-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.aufirst=Alan&amp;rft.aulast=Light&amp;rft.au=Light%2C+Alan&amp;rft.btitle=Raising+Hell&amp;rft.date=2006-11-02&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.time.com%2Ftime%2F2006%2F100albums%2F0%2C27693%2CRaising_Hell%2C00.html&amp;rft.pub=Time.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.slantmagazine.com/music/feature/best-albums-of-the-1980s/308/page_4">http://www.slantmagazine.com/music/feature/best-albums-of-the-1980s/308/page_4</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation news">Kung, Michelle (September 30, 2010). <a rel="nofollow" class="external text" href="http://blogs.wsj.com/speakeasy/2010/09/30/justin-timberlake-jimmy-fallon-duet-on-history-of-rap/">"Justin Timberlake and Jimmy Fallon's 'History of Rap' Duet: The Full Set List"</a>. <i>The Wall Street Journal</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.atitle=Justin+Timberlake+and+Jimmy+Fallon%27s+%27History+of+Rap%27+Duet%3A+The+Full+Set+List&amp;rft.aufirst=Michelle&amp;rft.au=Kung%2C+Michelle&amp;rft.aulast=Kung&amp;rft.date=September+30%2C+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fblogs.wsj.com%2Fspeakeasy%2F2010%2F09%2F30%2Fjustin-timberlake-jimmy-fallon-duet-on-history-of-rap%2F&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Canada-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Canada_18-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.collectionscanada.gc.ca/rpm/028020-100.01-e.php?PHPSESSID=sp19smnjn4io5g2nmhli5tdfo5">"RPM Weekly Searchable Database"</a>. Billboard<span class="reference-accessdate">. Retrieved November 19, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=RPM+Weekly+Searchable+Database&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.collectionscanada.gc.ca%2Frpm%2F028020-100.01-e.php%3FPHPSESSID%3Dsp19smnjn4io5g2nmhli5tdfo5&amp;rft.pub=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NZ-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-NZ_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NZ_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://charts.org.nz/showinterpret.asp?interpret=Run+DMC">"Discography Run DMC"</a>. charts.org.nz. Hung Medien<span class="reference-accessdate">. Retrieved May 22, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.atitle=Discography+Run+DMC&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcharts.org.nz%2Fshowinterpret.asp%3Finterpret%3DRun%2BDMC&amp;rft.jtitle=%27%27charts.org.nz%27%27&amp;rft.pub=Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-UK-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-UK_20-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.everyhit.com/">"UK Top 40 Searchable Database"</a>. everyhit.com<span class="reference-accessdate">. Retrieved November 19, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=UK+Top+40+Searchable+Database&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.everyhit.com%2F&amp;rft.pub=everyhit.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-billboard-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-billboard_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-billboard_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-billboard_21-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-billboard_21-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-billboard_21-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-billboard_21-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-billboard_21-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/run-dmc-p121003/charts-awards">"Run-D.M.C. Chart Positions (Allmusic)"</a>. Billbord<span class="reference-accessdate">. Retrieved November 19, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=Run-D.M.C.+Chart+Positions+%28Allmusic%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Frun-dmc-p121003%2Fcharts-awards&amp;rft.pub=Billbord&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AUS-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-AUS_22-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://australian-charts.com/showinterpret.asp?interpret=Run+DMC">"Discography Run DMC"</a>. australian-charts.com. Hung Medien<span class="reference-accessdate">. Retrieved May 22, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.atitle=Discography+Run+DMC&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Faustralian-charts.com%2Fshowinterpret.asp%3Finterpret%3DRun%2BDMC&amp;rft.jtitle=%27%27australian-charts.com%27%27&amp;rft.pub=Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=sp19smnjn4io5g2nmhli5tdfo5&amp;q1=run+dmc&amp;q2=Top+Singles&amp;interval=20">"Results - RPM - Library and Archives Canada"</a>. Collectionscanada.gc.ca<span class="reference-accessdate">. Retrieved 2011-08-11</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=Results+-+RPM+-+Library+and+Archives+Canada&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.collectionscanada.gc.ca%2Frpm%2F028020-110.01-e.php%3FPHPSESSID%3Dsp19smnjn4io5g2nmhli5tdfo5%26q1%3Drun%2Bdmc%26q2%3DTop%2BSingles%26interval%3D20&amp;rft.pub=Collectionscanada.gc.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-chartstats-RunDMC-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-chartstats-RunDMC_24-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/artist/_/run%20dmc">"The Official Charts Company - Run–D.M.C. discography"</a>. The Official Charts Company. 6 May 2013.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=The+Official+Charts+Company+-+Run%E2%80%93D.M.C.+discography&amp;rft.date=6+May+2013&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.theofficialcharts.com%2Fartist%2F_%2Frun%2520dmc&amp;rft.pub=The+Official+Charts+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-chartstats-RunDMCAero-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-chartstats-RunDMCAero_25-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/artist/_/run%20dmcaerosmith">"The Official Charts Company - Run–D.M.C. discography"</a>. The Official Charts Company. 6 May 2013.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaising+Hell+%28album%29&amp;rft.btitle=The+Official+Charts+Company+-+Run%E2%80%93D.M.C.+discography&amp;rft.date=6+May+2013&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.theofficialcharts.com%2Fartist%2F_%2Frun%2520dmcaerosmith&amp;rft.pub=The+Official+Charts+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Raising_Hell_(album)&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.radio3net.ro/dbartists/supersearch/UmFpc2luZyBIZWxsIChQcm9maWxlKQ==/Raising%20Hell%20%28Profile%29"><i>Raising Hell</i></a> (<a href="/wiki/Adobe_Flash" title="Adobe Flash">Adobe Flash</a>) at <a href="/wiki/Radio3Net" title="Radio3Net">Radio3Net</a> (streamed copy where licensed)</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Run%E2%80%93D.M.C." title="Template:Run–D.M.C."><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Run%E2%80%93D.M.C." title="Template talk:Run–D.M.C."><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Run%E2%80%93D.M.C.&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><a href="/wiki/Run%E2%80%93D.M.C." title="Run–D.M.C.">Run–D.M.C.</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><a href="/wiki/Joseph_Simmons" title="Joseph Simmons">DJ Run</a></b></li>
+<li><b><a href="/wiki/Darryl_McDaniels" title="Darryl McDaniels">D.M.C.</a></b></li>
+</ul>
+<ul>
+<li><a href="/wiki/Jam_Master_Jay" title="Jam Master Jay">Jam Master Jay</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Run%E2%80%93D.M.C._(album)" title="Run–D.M.C. (album)">Run–D.M.C.</a></i></li>
+<li><i><a href="/wiki/King_of_Rock" title="King of Rock">King of Rock</a></i></li>
+<li><i><strong class="selflink">Raising Hell</strong></i></li>
+<li><i><a href="/wiki/Tougher_Than_Leather" title="Tougher Than Leather">Tougher Than Leather</a></i></li>
+<li><i><a href="/wiki/Back_from_Hell" title="Back from Hell">Back from Hell</a></i></li>
+<li><i><a href="/wiki/Down_with_the_King_(album)" title="Down with the King (album)">Down with the King</a></i></li>
+<li><i><a href="/wiki/Crown_Royal_(album)" title="Crown Royal (album)">Crown Royal</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Together_Forever:_Greatest_Hits_1983%E2%80%931991" title="Together Forever: Greatest Hits 1983–1991">Together Forever: Greatest Hits 1983–1991</a></i></li>
+<li><i><a href="/wiki/Greatest_Hits_(Run%E2%80%93D.M.C._album)" title="Greatest Hits (Run–D.M.C. album)">Greatest Hits</a></i></li>
+<li><i><a href="/wiki/The_Best_of_Run%E2%80%93DMC" title="The Best of Run–DMC">The Best of Run–DMC</a></i></li>
+<li><i><a href="/wiki/Ultimate_Run%E2%80%93D.M.C." title="Ultimate Run–D.M.C.">Ultimate Run–D.M.C.</a></i></li>
+<li><i><a href="/wiki/High_Profile:_The_Original_Rhymes" title="High Profile: The Original Rhymes">High Profile: The Original Rhymes</a></i></li>
+<li><i><a href="/wiki/Artist_Collection:_Run_DMC" title="Artist Collection: Run DMC">Artist Collection: Run DMC</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Live albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Live_at_Montreux_2001" title="Live at Montreux 2001">Live at Montreux 2001</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/It%27s_Like_That_(Run%E2%80%93D.M.C._song)" title="It's Like That (Run–D.M.C. song)">It's Like That</a>"</li>
+<li>"<a href="/wiki/Sucker_M.C.%27s" title="Sucker M.C.'s">Sucker M.C.'s</a> (Krush-Groove 1)"</li>
+<li>"<a href="/wiki/Hard_Times_(Run%E2%80%93D.M.C._song)" title="Hard Times (Run–D.M.C. song)">Hard Times</a>"</li>
+<li>"<a href="/wiki/Rock_Box" title="Rock Box">Rock Box</a>"</li>
+<li>"30 Days"</li>
+<li>"<a href="/wiki/King_of_Rock_(song)" title="King of Rock (song)">King of Rock</a>"</li>
+<li>"<a href="/wiki/You_Talk_Too_Much_(Run-D.M.C._song)" title="You Talk Too Much (Run-D.M.C. song)">You Talk Too Much</a>"</li>
+<li>"<a href="/wiki/Can_You_Rock_It_Like_This" title="Can You Rock It Like This">Can You Rock It Like This</a>"</li>
+<li>"<a href="/wiki/My_Adidas" title="My Adidas">My Adidas</a>"</li>
+<li>"<a href="/wiki/Walk_This_Way#Run-D.M.C._version" title="Walk This Way">Walk This Way</a>"</li>
+<li>"<a href="/wiki/You_Be_Illin%27" title="You Be Illin'">You Be Illin'</a> "</li>
+<li>"<a href="/wiki/It%27s_Tricky" title="It's Tricky">It's Tricky</a>"</li>
+<li>"<a href="/wiki/Christmas_in_Hollis" title="Christmas in Hollis">Christmas in Hollis</a>"</li>
+<li>"<a href="/wiki/I%27m_Not_Going_Out_Like_That" title="I'm Not Going Out Like That">I'm Not Going Out Like That</a>"</li>
+<li>"<a href="/wiki/Mary,_Mary_(song)" title="Mary, Mary (song)">Mary, Mary</a>"</li>
+<li>"<a href="/wiki/Run%27s_House_(song)" title="Run's House (song)">Run's House</a>"</li>
+<li>"<a href="/wiki/Pause_(Run%E2%80%93D.M.C._song)" title="Pause (Run–D.M.C. song)">Pause</a>"</li>
+<li>"<a href="/wiki/What%27s_It_All_About_(song)" title="What's It All About (song)">What's It All About</a>"</li>
+<li>"<a href="/wiki/Faces_(Run%E2%80%93D.M.C._song)" title="Faces (Run–D.M.C. song)">Faces</a>"</li>
+<li>"<a href="/wiki/Ooh,_Whatcha_Gonna_Do" title="Ooh, Whatcha Gonna Do">Ooh, Whatcha Gonna Do</a>"</li>
+<li>"<a href="/wiki/Down_with_the_King_(song)" title="Down with the King (song)">Down with the King</a>"</li>
+<li>"<a href="/wiki/Mason_(band)#Track_listings_for_select_maxi_singles" title="Mason (band)">Corrected</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Run%E2%80%93D.M.C._discography" title="Run–D.M.C. discography">Discography</a></li>
+<li><i><a href="/wiki/Run%27s_House" title="Run's House">Run's House</a></i></li>
+<li><i><a href="/wiki/Distortion_(Joseph_Simmons_album)" title="Distortion (Joseph Simmons album)">Distortion</a></i></li>
+<li><i><a href="/wiki/Checks_Thugs_and_Rock_n_Roll" title="Checks Thugs and Rock n Roll">Checks Thugs and Rock N Roll</a></i></li>
+<li><a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam</a></li>
+<li><a href="/wiki/Russell_Simmons_Music_Group" title="Russell Simmons Music Group">Russell Simmons Music Group</a></li>
+<li><a href="/wiki/Diggy_Simmons" title="Diggy Simmons">Diggy</a></li>
+<li><a href="/wiki/Together_Forever_Tour" title="Together Forever Tour">Together Forever Tour</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1137
+CPU time usage: 1.856 seconds
+Real time usage: 1.980 seconds
+Preprocessor visited node count: 4088/1000000
+Preprocessor generated node count: 24106/1500000
+Post‐expand include size: 69901/2048000 bytes
+Template argument size: 7819/2048000 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Lua time usage: 0.170/10.000 seconds
+Lua memory usage: 3.46 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:195584-0!*!0!!en!4!* and timestamp 20140601042516 and revision id 611024247
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Raising_Hell_(album)&amp;oldid=611024247">http://en.wikipedia.org/w/index.php?title=Raising_Hell_(album)&amp;oldid=611024247</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Run%E2%80%93D.M.C._albums" title="Category:Run–D.M.C. albums">Run–D.M.C. albums</a></li><li><a href="/wiki/Category:1986_albums" title="Category:1986 albums">1986 albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Rick_Rubin" title="Category:Albums produced by Rick Rubin">Albums produced by Rick Rubin</a></li><li><a href="/wiki/Category:Profile_Records_albums" title="Category:Profile Records albums">Profile Records albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_December_2011" title="Category:Articles with dead external links from December 2011">Articles with dead external links from December 2011</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Raising+Hell+%28album%29&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Raising+Hell+%28album%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Raising_Hell_(album)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Raising_Hell_(album)"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Raising_Hell_(album)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Raising_Hell_(album)&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Raising_Hell_(album)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Raising_Hell_(album)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Raising_Hell_(album)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Raising_Hell_(album)&amp;oldid=611024247" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Raising_Hell_(album)&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q521828" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Raising_Hell_%28album%29&amp;id=611024247" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Raising+Hell+%28album%29">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Raising+Hell+%28album%29&amp;oldid=611024247&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Raising_Hell_(album)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Raising_Hell_(album_de_Run%E2%80%93D.M.C.)" title="Raising Hell (album de Run–D.M.C.) – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Raising_Hell_(Run_DMC)" title="Raising Hell (Run DMC) – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Raising_Hell" title="Raising Hell – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Raising_Hell" title="Raising Hell – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Raising_Hell" title="Raising Hell – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Raising_Hell" title="Raising Hell – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q521828#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 June 2014 at 04:25.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Raising_Hell_(album)" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"mw.PopUpMediaTransform":"loading","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mw.PopUpMediaTransform&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":341,"wgHostname":"mw1068"});
+}</script>
+	</body>
+</html>
+	

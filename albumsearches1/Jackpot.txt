@@ -1,0 +1,749 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+	<title>Lyrics Search chingy jackpot</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Search for lyrics and artists in our massive database of song lyrics!" />
+	<link rel="canonical" href="http://www.songlyrics.com/index.php?section=search&amp;searchW=chingy jackpot" />
+	<meta name="msvalidate.01" content="CF28C9C2E5FDBD5C7CA7F6FE394BD121" />
+	<meta name="robots" content="noydir, noodp" />
+	<meta property="fb:admins" content="31113169,100000933112467,1383859676" />
+	<meta name="fb:app_id" content="1418134321780018" />
+	
+	<link rel="icon" href="http://www.songlyrics.com/favicon.ico" type="image/ico" />
+	<link href="http://www.songlyrics.com/css/global.css" rel="stylesheet" type="text/css" />
+	
+	<script src="http://www.songlyrics.com/js/jquery.min.js" type="text/javascript"></script>
+
+	
+
+	
+	
+
+	<!-- head info -->
+	
+
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+<script type='text/javascript'>
+
+
+
+
+googletag.defineSlot('/1008608/GENERIC_728_ATF', [728, 90], 'div-gpt-ad-1330724804187-2').addService(googletag.pubads());
+googletag.defineSlot('/1008608/GENERIC_160_ATF', [160, 600], 'div-gpt-ad-1330724804187-0').addService(googletag.pubads());
+googletag.defineSlot('/1008608/GENERIC_300_ATF', [300, 250], 'div-gpt-ad-1330724804187-1').addService(googletag.pubads());
+
+
+
+
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
+
+<script type="text/javascript">
+	$(function(){
+		$.superbox();
+	});
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+  $(document).ready(function() {
+	function addMega(){
+	$(this).addClass("hovering");
+	$($(this).find("h2 a")).addClass("hover");
+	}
+	function removeMega(){
+	$(this).removeClass("hovering");
+	$($(this).find("h2 a")).removeClass("hover");
+	}
+  var megaConfig = {
+     interval: 30,
+     sensitivity: 4,
+     over: addMega,
+     timeout: 30,
+     out: removeMega
+  };
+  $("li.mega").hoverIntent(megaConfig)
+  });
+ //]]>
+</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-235369-1']);
+  _gaq.push(['_setDomainName', 'songlyrics.com']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<!-- Quantcast Tag, part 1 -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+</script>
+<!-- End Quantcast tag, part 1 -->
+
+
+
+</head>
+<body  >
+<div id='fb-root'></div>
+<script>
+
+$(window).load(function () {
+	
+			
+
+		setTimeout (function(){
+			$("#jangoPlayer2").attr('src',$("#jangoPlayer2").attr('longdesc'));
+			},3000);
+
+		
+		
+});
+
+
+</script>
+
+<div id="header">
+
+<div id="headernav">
+	<div class="headinner">
+
+		<ul class="menu floatleft">
+			<li class="mega">
+			  <h2><a href="/">Lyrics</a></h2>
+				<div>
+					<p><a href="/top-songs-lyrics.html">Popular Lyrics</a></p>
+					<p><a href="/top100.php">Billboard Hot 100</a></p>
+					<p><a href="/top-upcoming-songs.html">Upcoming Lyrics</a></p>
+					<p><a href="/latestAddedSongs">Recently Added</a></p>
+					<p class="menu-hr"></p>
+					<p><a href="http://www.songlyrics.com/news/top-songs/2011/">Top Lyrics of 2011</a></p>
+					<p><a href="http://www.songlyrics.com/news/top-songs/2010/">Top Lyrics of 2010</a></p>
+					<p><a href="http://www.songlyrics.com/news/top-songs/2009/">Top Lyrics of 2009</a></p>
+					<p><a href="http://www.songlyrics.com/news/top-songs/all-time/">More &raquo;</a></p>
+				</div>
+			</li>
+			<li class="mega">
+			  <h2><a href="/top-artists-lyrics.html">Artists</a></h2>
+				<div>
+					<p><a href="/top-artists-lyrics.html">Popular Artists</a></p>
+					<p><a href="/a/">Artists A-Z</a></p>
+					<p class="menu-hr"></p>
+					<p><a href="/top-albums-lyrics.html">Popular Albums</a></p>
+					<p><a href="/top-upcoming-albums.html">Upcoming Albums</a></p>
+					<p class="menu-hr"></p>
+					<p><a href="/adele-lyrics/">Adele</a></p>
+					<p><a href="/rihanna-lyrics/">Rihanna</a></p>
+					<p><a href="/katy-perry-lyrics/">Katy Perry</a></p>
+					<p><a href="/lady-gaga-lyrics/">Lady Gaga</a></p>
+					<p><a href="/lil-wayne-lyrics/">Lil Wayne</a></p>
+
+				</div>
+			</li>
+			<li class="mega">
+			  <h2><a href="/musicgenres.php">Genres</a></h2>
+				<div>
+					<p><a href="/rock-lyrics.php" title="Rock Lyrics">Rock</a></p>
+					<p><a href="/r-and-b-lyrics.php" title="R&B Lyrics">R&amp;B</a></p>
+					<p><a href="/country-music-lyrics.php" title="Country Lyrics">Country</a></p>
+					<p><a href="/hip-hop-rap-lyrics.php" title="Hip Hop and Rap Lyrics">Hip Hop/Rap</a></p>
+					<p><a href="/pop-lyrics.php" title="Pop Lyrics">Pop</a></p>
+					<p><a href="/christian-lyrics.php" title="Christian Lyrics">Christian</a></p>
+					<p><a href="/dance-lyrics.php" title="Dance Lyrics">Dance</a></p>
+					<p><a href="/latin-lyrics.php" title="Latin Lyrics">Latin</a></p>
+					<p class="menu-hr"></p>
+					<p><a href="/musicgenres.php" title="All Genre Charts">All Genres &raquo;</a></p>
+				</div>
+			</li>
+
+			<li class="mega">
+			  <h2><a href="http://www.songlyrics.com/news/">News</a></h2>
+				<div>
+					<p><a href="http://www.songlyrics.com/news/">All News</a></p>
+					<p><a href="http://www.songlyrics.com/news/category/news-roundup/">Daily Roundup</a></p>
+				</div>
+			</li>
+
+			<li class="mega">
+				<h2><a href="http://www.songlyrics.com/news/album-reviews/">Reviews</a></h2>
+				<div>
+			  	<p><a href="http://www.songlyrics.com/news/album-reviews/">Album Reviews</a></p>
+			  	<p><a href="http://www.songlyrics.com/news/category/song-reviews/">Song Reviews</a></p>
+			  </div>
+			</li>
+
+			<li class="mega">
+			  <h2><a href="http://www.songlyrics.com/news/category/spotlight/">Spotlight</a></h2>
+			</li>
+
+		</ul>
+				<p class="login-menu"><a class="btn" href="http://www.songlyrics.com/member-login.php">Sign In</a><a class="btn" href="http://www.songlyrics.com/member-register.php">Register</a></p>
+				<ul class="menu floatright clearright">
+			<li class="mega">
+				<h2><a href="https://www.facebook.com/SongLyrics">Facebook</a></h2>
+			</li>
+			<li>
+				<h2><a href="http://www.songlyrics.com/news/advertise/">Advertise</a></h2>
+			</li>
+			<li class="lasttab">
+				<h2><a href="http://www.songlyrics.com/news/submit-lyrics/">Submit Lyrics</a></h2>
+			</li>
+		</ul>
+
+
+	</div><!-- end headerinner -->
+</div><!-- end headernav -->
+
+<div class="headinner">
+
+	<a id="logo" href="/" title="Lyrics">Song Lyrics</a>
+
+	<div id="header_search">
+	<form name="searchForm" class="searchForm" method="get" action="/index.php">
+	 <input type="hidden" name="section" value="search" />
+
+	<fieldset>
+		<input type="text" name="searchW" class="searchW input" value="Search artists, albums, and songs" onfocus="if(this.value=='Search artists, albums, and songs')(this.value='');" onblur="if(this.value=='')(this.value='Search artists, albums, and songs');" />
+		<div class="submit-btn"><input type="submit" name="submit" value="Search" class="submit-input-wrapped searchSubmit" /></div>
+	</fieldset>
+	</form>
+	</div>
+
+</div><!-- end headerinner -->
+</div><!-- end header -->
+
+<div id="wrapper">
+
+<div id="fbbox">
+	<div id="fbbox-count">
+		<span id="fbbox-total">
+		55k
+		</span>
+	</div>
+	<a id="fbbox-likebutton" target="_blank" href="https://www.facebook.com/SongLyrics">Like</a>
+</div>
+
+
+<script type="text/javascript">
+<!--
+function autoSearch(event,formObj,$type) {
+  if ((event.which && event.which == 13) || (event.keyCode && event.keyCode == 13)) {
+  	if ($type == 1) {
+  		$('#searchWithinLyrics').val('');
+  	} else {
+  		$('#searchW2').val('');
+  	}
+  	formObj.submit();
+  }
+  return true;
+}
+-->
+</script>
+
+
+<div class="masthead"></div>
+
+<div class="wrapper-inner">
+
+		<div class="topnav">
+		
+			<ul class="breadcrumb">
+				<li class="home"><a href="/" title="Lyrics"><span>Lyrics</span></a></li>
+				<li class="current">Lyrics Search</li>
+			</ul>
+		
+		</div><!-- end topnav -->
+	
+	<div class="coltwo-wide-2">
+											
+					<form method="get" name="searchForm" class="searchForm" action="">
+						<input type="hidden" name="section" value="search" />
+						
+						<input type="text" name="searchW" class="searchW search-wide" value="chingy jackpot" />
+						
+						<div class="submit-btn"><input type="submit" name="submit" value="Search" onclick="javascript:$('#searchWithinLyrics').val('');this.form.submit();" class="submit-input-wrapped searchSubmit" /></div>
+						
+						<div class="listbox filters">
+							<h3 class="listbox-title">Show Results</h3>
+							<ul class="tracklist">
+								<li><input type="checkbox" name="searchIn1" value="artist" checked="checked" />&nbsp; Artist</li>
+								<li><input type="checkbox" name="searchIn2" value="album"  checked="checked"  />&nbsp;  Album</li>
+								<li><input type="checkbox" name="searchIn3" value="song"  checked="checked"  />&nbsp; Song Title</li>
+								<li><input type="checkbox" name="searchIn4" value="lyrics"  checked="checked"  />&nbsp; Within Lyrics</li>
+								<li><input type="checkbox" name="searchIn5" value="phrase"    />&nbsp; Exact Match</li>
+							</ul>
+						</div>
+						
+					</form>
+					
+					<div class="search-results">560 results</div>
+				
+					<div class="clear"></div>
+			
+					<ul class="pagination">
+							
+																								<li class="li_pagination active">1</li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=chingy jackpot&pageNo=2">2</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=chingy jackpot&pageNo=3">3</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=chingy jackpot&pageNo=4">4</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=chingy jackpot&pageNo=5">5</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=chingy jackpot&pageNo=6">6</a></li>
+																																<li class="li_pagination "><a href="">...</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=chingy jackpot&pageNo=28">28</a></li>
+																																<li class="li_pagination next"><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=chingy jackpot&pageNo=2">Next &raquo;</a></li>
+																											
+					</ul>
+			
+																		<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/chingy-jackpot-lyrics/" title="Chingy Jackpot"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/126/chingy/chingy-23841.jpg" width="90" height="90" class="imgserp" alt="Chingy" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/chingy-jackpot-lyrics/" title="Chingy Jackpot">Chingy Jackpot Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">Chingy</a> on album <a href="http://www.songlyrics.com/chingy/miscellaneous/">Miscellaneous</a></p>
+									<p>{This is another Track Star production}
+
+Ohh, ohh, ohh, uhh
+Ohh, ohh, ohh, uhh
+Ohh, ohh, ohh, uhh
+Ohh, ohh, who am I?
+
+Chingy
+  (What's up?)
+Why yo eyes so chinky?
+  (I dunno)
+Is it because you've bee</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/jackpot-back-lyrics/" title="Jackpot Back"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/151/chingy-jackpot-back/chingy-106231-jackpot-back.jpg" width="90" height="90" class="imgserp" alt="CHINGY" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/jackpot-back-lyrics/" title="Jackpot Back">Jackpot Back Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">CHINGY</a> on album <a href="http://www.songlyrics.com/chingy/jackpot-back/">Jackpot Back</a></p>
+									<p>..a nigger don't wanna see this shit
+And I know you nigger don't wanna see nigger shit
+Cause I ... out of control
+Full day!
+
+Heard you niggers swagger that
+Bitch I got my swagger bag
+Hundred pe</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/jackpot-the-pimp-skit-lyrics/" title="Jackpot the Pimp (Skit)"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/126/chingy/chingy-23841.jpg" width="90" height="90" class="imgserp" alt="Chingy" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/jackpot-the-pimp-skit-lyrics/" title="Jackpot the Pimp (Skit)">Jackpot the Pimp (Skit) Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">Chingy</a> on album <a href="http://www.songlyrics.com/chingy/miscellaneous/">Miscellaneous</a></p>
+									<p>Hey wassup! With the ladies and gentlemen this evenin'
+You dig? I'm Jackpot the Pimp steppin' in for a minute screamin at y'all
+You dig? The one that taught the mac how to mac
+And the one that taught </p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/stay-n-da-aurr-lyrics/" title="Stay N Da Aurr"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/151/chingy-jackpot-back/chingy-106231-jackpot-back.jpg" width="90" height="90" class="imgserp" alt="CHINGY" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/stay-n-da-aurr-lyrics/" title="Stay N Da Aurr">Stay N Da Aurr Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">CHINGY</a> on album <a href="http://www.songlyrics.com/chingy/jackpot-back/">Jackpot Back</a></p>
+									<p>[Chingy:]Yeah, what up with it ya'll(powerballin') We come to the end of the powerballin' album I hope you liked it and enjoy it (you know) I'm representing the Git It Boyz This your boy Chingy And ma</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/he-s-herre-lyrics/" title="He's Herre"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/64/chingy-jackpot/chingy-26839-jackpot.jpg" width="90" height="90" class="imgserp" alt="Chingy" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/he-s-herre-lyrics/" title="He's Herre">He's Herre Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">Chingy</a> on album <a href="http://www.songlyrics.com/chingy/jackpot/">Jackpot</a></p>
+									<p>He's here
+He is here
+Is he really?
+
+Don't be discouraged now
+Got it made now
+From the leg down
+He is here
+Is he really?
+Don't be discouraged now
+Got it made now
+Just pray to God, I don't give up
+
+Back</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/juice-lyrics/" title="Juice"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/64/chingy-jackpot/chingy-26839-jackpot.jpg" width="90" height="90" class="imgserp" alt="Chingy" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/juice-lyrics/" title="Juice">Juice Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">Chingy</a> on album <a href="http://www.songlyrics.com/chingy/jackpot/">Jackpot</a></p>
+									<p>Whats up y'all? Its Chingy slot a lot in tha house
+We got jackpot the pimp in the back
+Hey wats up young playas?
+We came here today, to address a certain issue
+That all you young playas need to kno' a</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/holidae-in-lyrics/" title="Holidae In"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/64/chingy-jackpot/chingy-26839-jackpot.jpg" width="90" height="90" class="imgserp" alt="Chingy" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/holidae-in-lyrics/" title="Holidae In">Holidae In Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">Chingy</a> on album <a href="http://www.songlyrics.com/chingy/jackpot/">jackpot</a></p>
+									<p>Bomb ass pussy
+Ma ooh you got that bomb, know you got it
+Ma ooh, you got some bomb ass pussy
+Ma, I know you got that bomb bomb pussy
+
+  (Whachu doin'?)
+Nothing chillin, at the Holidae Inn
+  (Who you w</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/fck-dat-nigga-lyrics/" title="Fck Dat Nigga"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/64/chingy-jackpot/chingy-26839-jackpot.jpg" width="90" height="90" class="imgserp" alt="Chingy" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/fck-dat-nigga-lyrics/" title="Fck Dat Nigga">Fck Dat Nigga Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">Chingy</a> on album <a href="http://www.songlyrics.com/chingy/jackpot/">Jackpot</a></p>
+									<p>man, my momma be trippin like a mothafucka man
+(man, u gotta get the fuck out the crib)
+i know, talkin bout i'm 31 and still livin wit her
+so?
+i know niggaz older than that
+i'm still gettin </p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/one-call-away-lyrics/" title="One Call Away"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/64/chingy-jackpot/chingy-26839-jackpot.jpg" width="90" height="90" class="imgserp" alt="Chingy" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/one-call-away-lyrics/" title="One Call Away">One Call Away Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">Chingy</a> on album <a href="http://www.songlyrics.com/chingy/jackpot/">jackpot</a></p>
+									<p>Ooh, yea yea
+DTP, how we do
+Call you and you can call me
+Whatever you wanna do baby
+
+  (You could roll wit me)
+Give me a call if you wanna come roll with me
+  (If you was my baby)
+I'm only one call aw</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/all-night-lyrics/" title="All Night"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/151/chingy-jackpot-back/chingy-106231-jackpot-back.jpg" width="90" height="90" class="imgserp" alt="CHINGY" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/all-night-lyrics/" title="All Night">All Night Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">CHINGY</a> on album <a href="http://www.songlyrics.com/chingy/jackpot-back/">Jackpot Back</a></p>
+									<p></p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/do-it-with-yo-face-lyrics/" title="Do It With Yo Face"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/151/chingy-jackpot-back/chingy-106231-jackpot-back.jpg" width="90" height="90" class="imgserp" alt="CHINGY" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/do-it-with-yo-face-lyrics/" title="Do It With Yo Face">Do It With Yo Face Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">CHINGY</a> on album <a href="http://www.songlyrics.com/chingy/jackpot-back/">Jackpot Back</a></p>
+									<p></p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/pop-that-lyrics/" title="Pop That "><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/151/chingy-jackpot-back/chingy-106231-jackpot-back.jpg" width="90" height="90" class="imgserp" alt="CHINGY" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/pop-that-lyrics/" title="Pop That ">Pop That  Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">CHINGY</a> on album <a href="http://www.songlyrics.com/chingy/jackpot-back/">Jackpot Back</a></p>
+									<p></p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/she-don-t-know-lyrics/" title="She Don't Know"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/151/chingy-jackpot-back/chingy-106231-jackpot-back.jpg" width="90" height="90" class="imgserp" alt="CHINGY" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/she-don-t-know-lyrics/" title="She Don't Know">She Don't Know Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">CHINGY</a> on album <a href="http://www.songlyrics.com/chingy/jackpot-back/">Jackpot Back</a></p>
+									<p></p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/let-it-go-lyrics/" title="Let It Go"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/151/chingy-jackpot-back/chingy-106231-jackpot-back.jpg" width="90" height="90" class="imgserp" alt="CHINGY" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/let-it-go-lyrics/" title="Let It Go">Let It Go Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">CHINGY</a> on album <a href="http://www.songlyrics.com/chingy/jackpot-back/">Jackpot Back</a></p>
+									<p>Hook:
+born 5, 10, twenties i let it go
+somebody better let her know i let it go
+ups have it ground to the floor lady let it go
+gotta hold lot of money i let it go
+ups, i let it go,ups i let it go</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/swagg-on-it-lyrics/" title="Swagg On It"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/151/chingy-jackpot-back/chingy-106231-jackpot-back.jpg" width="90" height="90" class="imgserp" alt="CHINGY" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/swagg-on-it-lyrics/" title="Swagg On It">Swagg On It Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">CHINGY</a> on album <a href="http://www.songlyrics.com/chingy/jackpot-back/">Jackpot Back</a></p>
+									<p></p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/love-no-hoes-lyrics/" title="Love No Hoes "><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/151/chingy-jackpot-back/chingy-106231-jackpot-back.jpg" width="90" height="90" class="imgserp" alt="CHINGY" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/love-no-hoes-lyrics/" title="Love No Hoes ">Love No Hoes  Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">CHINGY</a> on album <a href="http://www.songlyrics.com/chingy/jackpot-back/">Jackpot Back</a></p>
+									<p></p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/bout-my-paper-lyrics/" title="Bout My Paper"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/151/chingy-jackpot-back/chingy-106231-jackpot-back.jpg" width="90" height="90" class="imgserp" alt="CHINGY" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/bout-my-paper-lyrics/" title="Bout My Paper">Bout My Paper Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">CHINGY</a> on album <a href="http://www.songlyrics.com/chingy/jackpot-back/">Jackpot Back</a></p>
+									<p>Un huh, I'm 'bout my feddi by all means
+Look here I be on a paper chase I'm all about my cheddar I ain't touching the mic if it ain't five Gs or better I plan never to fall short again, I want game W</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/go-lyrics/" title="Go "><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/151/chingy-jackpot-back/chingy-106231-jackpot-back.jpg" width="90" height="90" class="imgserp" alt="CHINGY" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/go-lyrics/" title="Go ">Go  Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">CHINGY</a> on album <a href="http://www.songlyrics.com/chingy/jackpot-back/">Jackpot Back</a></p>
+									<p></p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/i-am-lyrics/" title="I Am "><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/151/chingy-jackpot-back/chingy-106231-jackpot-back.jpg" width="90" height="90" class="imgserp" alt="CHINGY" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/i-am-lyrics/" title="I Am ">I Am  Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">CHINGY</a> on album <a href="http://www.songlyrics.com/chingy/jackpot-back/">Jackpot Back</a></p>
+									<p></p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/chingy/good-up-lyrics/" title="Good Up"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/151/chingy-jackpot-back/chingy-106231-jackpot-back.jpg" width="90" height="90" class="imgserp" alt="CHINGY" /></a>
+								<h3><a href="http://www.songlyrics.com/chingy/good-up-lyrics/" title="Good Up">Good Up Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/chingy-lyrics/">CHINGY</a> on album <a href="http://www.songlyrics.com/chingy/jackpot-back/">Jackpot Back</a></p>
+									<p></p>
+								</div>
+							</div>
+																
+					<ul class="pagination">
+							
+																								<li class="li_pagination active">1</li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=chingy jackpot&pageNo=2">2</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=chingy jackpot&pageNo=3">3</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=chingy jackpot&pageNo=4">4</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=chingy jackpot&pageNo=5">5</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=chingy jackpot&pageNo=6">6</a></li>
+																																<li class="li_pagination "><a href="">...</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=chingy jackpot&pageNo=28">28</a></li>
+																																<li class="li_pagination next"><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=chingy jackpot&pageNo=2">Next &raquo;</a></li>
+																											
+					</ul>
+				
+								
+	</div> <!--end coltwo-center-->
+	
+	<div class="clear"></div>
+
+	<div id="ad-absolute-728">
+	
+			
+		<!-- ToneMedia_GENERIC_728_ATF -->
+		<script type="text/javascript">
+		cf_page_artist = "";
+		cf_page_song = "";
+		cf_adunit_id = "39381380";
+		</script>
+		
+			
+		
+		<!-- Gorilla_SEARCH_728_ATF -->
+		<script type="text/javascript">
+		  if(typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if(typeof(gnm_tile) == 'undefined') gnm_tile=1;
+		  document.write('<scr'+'ipt src="http://n4403ad.doubleclick.net/adj/gn.songlyrics.com1/search;sect=search;mtfInline=true;sz=728x90;dcopt=ist;type=pop;type=int;tile='+(gnm_tile++)+';ord='+gnm_ord+'?" type="text/javascript"></scr'+'ipt>');
+		</script>
+		
+		
+		
+	</div>
+
+</div> <!--end wrapper-inner-->
+
+
+
+
+</div>
+
+<div class="footer">
+<table class="footer-inner">
+<tbody>
+
+<tr>
+
+	<td width="145">
+		<h3>Genres</h3>
+		<ul>
+			<li><a href="/rock-lyrics.php" title="Rock Lyrics">Rock</a></li>
+			<li><a href="/r-and-b-lyrics.php" title="R&B Lyrics">R&amp;B</a></li>
+			<li><a href="/country-music-lyrics.php" title="Country Lyrics">Country</a></li>
+			<li><a href="/hip-hop-rap-lyrics.php" title="Hip Hop and Rap Lyrics">Hip Hop/Rap</a></li>
+			<li><a href="/pop-lyrics.php" title="Pop Lyrics">Pop</a></li>
+			<li><a href="/christian-lyrics.php" title="Christian Lyrics">Christian</a></li>
+		</ul>
+	</td>
+
+	<td width="170">
+		<h3>Top Lyrics</h3>
+		<ul>
+			<li><a href="/top-songs-lyrics.html">Top Songs</a></li>
+			<li><a href="/top-artists-lyrics.html">Top Artists</a></li>
+			<li><a href="/top-albums-lyrics.html">Top Albums</a></li>
+			<li><a href="/top-upcoming-songs.html">Upcoming Songs</a></li>
+			<li><a href="/top-upcoming-albums.html">Upcoming Albums</a></li>
+			<li><a href="/top100.php" title="Billboard Hot 100 Songs">Billboard Hot 100</a></li>
+		</ul>
+	</td>
+
+	<td width="180">
+		<h3>SongLyrics</h3>
+		<ul>
+			<li><a href="http://www.songlyrics.com/news/advertise/" title="Advertise on SongLyrics.com">Advertise on SL</a></li>
+			<li><a href="http://www.songlyrics.com/news/featured-blogs/" title="Featured Blogs">Featured Blogs</a></li>
+			<li><a href="http://www.songlyrics.com/news/contact-us/" title="Contact Us">Contact Us</a></li>
+			<li><a href="http://www.songlyrics.com/news" title="Music News">Music News</a></li>
+			<li><a href="/privacy.php" title="Privacy Policy">Privacy Policy</a></li>
+			<li><a href="/termsconditions.php" title="Terms of Use">Terms of Use</a></li>
+		</ul>
+	</td>
+
+	<td width="210" class="td-footer-last">
+		<h3>Company</h3>
+		<ul>
+			<li class="ftlast-li">Copyright &copy; 2014 SongLyrics</li>
+			<li class="ftlast-li">
+				<ul>
+					<li class="ft-social">Follow us:</li>
+					<li class="ft-social"><a class="ft-fb" href="http://www.facebook.com/SongLyrics" target="_blank" title="SongLyrics on Facebook">Facebook</a></li>
+					<li class="ft-social"><a class="ft-tw" href="http://twitter.com/#!/songlyrics" target="_blank" title="Follow SongLyrics on Twitter">Twitter</a></li>
+				</ul>
+			</li>
+			<li class="ftlast-li">
+			<a href="/about.php">About</a>
+			</li>
+			<!--<li class="ftlast-li">Created in 1.040458 sec</li>-->
+			<li class="ftlast-li">
+				<ul>
+					<li class="ft-logo"><a class="ft-sm" href="http://www.soundmedia.com/" target="_blank" title="Advertise on SongLyrics">SoundMedia</a></li>
+					<li class="ft-logo"><a class="ft-tf" href="http://www.tonemedia.com/" target="_blank" title="ToneMedia Digital Media Platform">ToneMedia</a></li>
+				</ul>
+			</li>
+		</ul>
+	</td>
+
+</tr>
+
+</tbody>
+</table>
+
+<div id="footer-bottom">
+
+	<ul id="footer-artists">
+		<li><h4>Artists:</h4></li>
+		<li><a href="/a/" title="A">A</a></li>
+		<li><a href="/b/" title="B">B</a></li>
+		<li><a href="/c/" title="C">C</a></li>
+		<li><a href="/d/" title="D">D</a></li>
+		<li><a href="/e/" title="E">E</a></li>
+		<li><a href="/f/" title="F">F</a></li>
+		<li><a href="/g/" title="G">G</a></li>
+		<li><a href="/h/" title="H">H</a></li>
+		<li><a href="/i/" title="I">I</a></li>
+		<li><a href="/j/" title="J">J</a></li>
+		<li><a href="/k/" title="K">K</a></li>
+		<li><a href="/l/" title="L">L</a></li>
+		<li><a href="/m/" title="M">M</a></li>
+		<li><a href="/n/" title="N">N</a></li>
+		<li><a href="/o/" title="O">O</a></li>
+		<li><a href="/p/" title="P">P</a></li>
+		<li><a href="/q/" title="Q">Q</a></li>
+		<li><a href="/r/" title="R">R</a></li>
+		<li><a href="/s/" title="S">S</a></li>
+		<li><a href="/t/" title="T">T</a></li>
+		<li><a href="/u/" title="U">U</a></li>
+		<li><a href="/v/" title="V">V</a></li>
+		<li><a href="/w/" title="W">W</a></li>
+		<li><a href="/x/" title="X">X</a></li>
+		<li><a href="/y/" title="Y">Y</a></li>
+		<li><a href="/z/" title="Z">Z</a></li>
+		<li><a href="/0/" title="#">#</a></li>
+	</ul>
+
+</div><!-- end footer-bottom -->
+
+</div><!-- end footer -->
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+
+COMSCORE.beacon({
+	c1: 2,
+	c2: "6772046",
+	c3: "",
+	c4: document.location.href, // Replace this with the page URL that the site is on here, and also enter it into the <noscript> img below
+	c5: "",
+	c6: "",
+	c15: ""
+});
+
+</script>
+
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6772046&c3=&c4=www.songlyrics.com&c5=&c6=&c15=&cj=1" />
+</noscript>
+
+<!-- End comScore Tag -->
+
+<!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">
+
+_qevents.push({
+qacct:"p-f3j8gGpPsQh2-"
+});
+
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-f3j8gGpPsQh2-.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag, part 2 -->
+
+<!-- Begin Po.st Tag -->
+<script type="text/javascript" src="http://i.po.st/share/script/post-widget.js#publisherKey=httpwwwsonglyricscom-700"></script>
+<!-- End Po.st Tag -->
+
+ 
+
+</body>
+</html>

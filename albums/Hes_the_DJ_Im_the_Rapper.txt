@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>He's the DJ, I'm the Rapper - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/He%27s_the_DJ,_I%27m_the_Rapper" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/He%27s_the_DJ,_I%27m_the_Rapper" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"He's_the_DJ,_I'm_the_Rapper","wgTitle":"He's the DJ, I'm the Rapper","wgCurRevisionId":592813977,"wgRevisionId":592813977,"wgArticleId":2559931,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","1988 albums","DJ Jazzy Jeff \u0026 The Fresh Prince albums","Jive Records albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"He's_the_DJ,_I'm_the_Rapper","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2274452"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-He_s_the_DJ_I_m_the_Rapper skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>He's the DJ, I'm the Rapper</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">He's the DJ, I'm the Rapper</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:He%27s_the_DJ.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/He%27s_the_DJ.jpg/220px-He%27s_the_DJ.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/He%27s_the_DJ.jpg/330px-He%27s_the_DJ.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/He%27s_the_DJ.jpg/440px-He%27s_the_DJ.jpg 2x" data-file-width="600" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/DJ_Jazzy_Jeff_%26_The_Fresh_Prince" title="DJ Jazzy Jeff &amp; The Fresh Prince">DJ Jazzy Jeff &amp; The Fresh Prince</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">March 29, 1988</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1987–1988</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a>, <a href="/wiki/Golden_age_hip_hop" title="Golden age hip hop">golden age hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>72:19 (CD)<br />
+85:10 (Vinyl)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Jive_Records" title="Jive Records">Jive</a>/<a href="/wiki/RCA_Records" title="RCA Records">RCA Records</a><br />
+<small>1091-J</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td>Pete Harris, <a href="/wiki/Will_Smith" title="Will Smith">The Fresh Prince</a>, <a href="/wiki/DJ_Jazzy_Jeff" title="DJ Jazzy Jeff">DJ Jazzy Jeff</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/DJ_Jazzy_Jeff_%26_The_Fresh_Prince" title="DJ Jazzy Jeff &amp; The Fresh Prince">DJ Jazzy Jeff &amp; The Fresh Prince</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Rock_the_House_(album)" title="Rock the House (album)">Rock the House</a></i><br />
+(1987)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>He's the DJ, I'm the Rapper</b></i><br />
+(1988)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/And_in_This_Corner..." title="And in This Corner...">And in This Corner...</a></i><br />
+(1989)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>He's the DJ, I'm the Rapper</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Brand_New_Funk" title="Brand New Funk" class="mw-redirect">Brand New Funk</a>"</span><br />
+Released: December 2, 1987</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Parents_Just_Don%27t_Understand" title="Parents Just Don't Understand">Parents Just Don't Understand</a>"</span><br />
+Released: February 17, 1988</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/A_Nightmare_on_My_Street" title="A Nightmare on My Street">A Nightmare on My Street</a>"</span><br />
+Released: August 1, 1988</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">(B−)<sup id="cite_ref-Christgau_2-0" class="reference"><a href="#cite_note-Christgau-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Sputnikmusic" title="Sputnikmusic">Sputnikmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>He's the DJ, I'm the Rapper</b></i> is the second studio album by hip hop duo <a href="/wiki/DJ_Jazzy_Jeff_%26_The_Fresh_Prince" title="DJ Jazzy Jeff &amp; The Fresh Prince">DJ Jazzy Jeff &amp; The Fresh Prince</a>. It was the first <a href="/wiki/Double_album" title="Double album">double album</a> in <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop music</a>, in its original vinyl incarnation.</p>
+<p>The <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA) certified the album triple <a href="/wiki/RIAA_certification" title="RIAA certification">platinum</a> on February 1, 1995.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> In 1998, the album was selected as one of <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> magazine's 100 Best Rap Albums.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Singles"><span class="tocnumber">1</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Track_listings"><span class="tocnumber">2</span> <span class="toctext">Track listings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Original_vinyl_release"><span class="tocnumber">2.1</span> <span class="toctext">Original vinyl release</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#CD_release"><span class="tocnumber">2.2</span> <span class="toctext">CD release</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Samples"><span class="tocnumber">3</span> <span class="toctext">Samples</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Charts"><span class="tocnumber">4</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;action=edit&amp;section=1" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The album's first single, "<a href="/wiki/Brand_New_Funk" title="Brand New Funk" class="mw-redirect">Brand New Funk</a>", was only released promotionally and, thus, failed to achieve any commercial success. However, the album's second single, "<a href="/wiki/Parents_Just_Don%27t_Understand" title="Parents Just Don't Understand">Parents Just Don't Understand</a>", won the first-ever <a href="/wiki/Grammy_Award_for_Best_Rap_Performance" title="Grammy Award for Best Rap Performance">Grammy Award for Best Rap Performance</a> and reached #12 on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> Although the album's third single, "<a href="/wiki/Nightmare_on_My_Street" title="Nightmare on My Street" class="mw-redirect">Nightmare on My Street</a>", which reached #15 on the Billboard Hot 100, was considered for inclusion in the movie <i><a href="/wiki/A_Nightmare_on_Elm_Street_4:_The_Dream_Master" title="A Nightmare on Elm Street 4: The Dream Master">A Nightmare on Elm Street 4: The Dream Master</a></i>, the producers of the film decided against its inclusion. As a result, vinyl pressings of the album contain a disclaimer sticker that says, "[This song] is not part of the soundtrack...and is not authorized, licensed, or affiliated with the <i>Nightmare on Elm Street</i> films."</p>
+<h2><span class="mw-headline" id="Track_listings">Track listings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;action=edit&amp;section=2" title="Edit section: Track listings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Original_vinyl_release">Original vinyl release</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;action=edit&amp;section=3" title="Edit section: Original vinyl release">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/A_Nightmare_on_My_Street" title="A Nightmare on My Street">A Nightmare on My Street</a>" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:08</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Here We Go Again" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:01</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Brand_New_Funk" title="Brand New Funk" class="mw-redirect">Brand New Funk</a>" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:04</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Time to Chill" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:25</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Charlie Mack (First Out of the Limo)" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:46</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"As We Go" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:00</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Parents_Just_Don%27t_Understand" title="Parents Just Don't Understand">Parents Just Don't Understand</a>" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:35</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Pump Up the Bass" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:13</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Let's Get Busy, Baby" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:06</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Another Special Announcement" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:12</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Live at Union Square (November 1986)" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:07</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"D.J. on the Wheels" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:36</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"My Buddy" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:40</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Rhythm Trax-House Party Style" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:39</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"He's the D.J., I'm the Rapper" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:10</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Hip Hop Dancer's Theme" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:48</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"Jazzy's in the House" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:10</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"Human Video Game" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:40</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="CD_release">CD release</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;action=edit&amp;section=4" title="Edit section: CD release">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Nightmare on My Street" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:56</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Here We Go Again" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:01</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Brand New Funk" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:04</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Time to Chill" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:25</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Charlie Mack (First Out of the Limo)" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:46</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"As We Go" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:35</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Parents Just Don't Understand" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:15</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Pump Up the Bass" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:13</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Let's Get Busy, Baby" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:06</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Live at Union Square (November 1986)" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:07</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"D.J. on the Wheels" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:44</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"My Buddy" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:40</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Rhythm Trax (House Party Style)" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:39</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"He's the D.J., I'm the Rapper" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:57</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Hip Hop Dancer's Theme" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:55</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Jazzy's in the House" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:01</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"Human Video Game" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:14</td>
+</tr>
+<tr>
+<td align="right" colspan="3">
+<div style="width: 7.5em; text-align: left; padding-left: 10px; background-color: #eee; margin: 0;"><b>Total length:</b></div>
+</td>
+<td style="padding-right: 10px; text-align: right; background-color: #eee;"><b>72:19</b></td>
+<td class="mbox-empty-cell"></td>
+</tr>
+</table>
+<p>NOTE: The German CD version omitted tracks 16 and 17, and instated the song "Another Special Announcement" as track #10. All selections were the original, full-length versions from the vinyl release. The length was 72:59 mins.</p>
+<h2><span class="mw-headline" id="Samples">Samples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;action=edit&amp;section=5" title="Edit section: Samples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td align="left" valign="top">
+<dl>
+<dt>"Here We Go Again"</dt>
+</dl>
+<ul>
+<li>"<a href="/wiki/Three_(Bob_James_album)" title="Three (Bob James album)">Westchester Lady</a>" by <a href="/wiki/Bob_James_(musician)" title="Bob James (musician)">Bob James</a></li>
+</ul>
+<dl>
+<dt>"Brand New Funk"</dt>
+</dl>
+<ul>
+<li>"<a href="/wiki/Dust_Yourself_Off" title="Dust Yourself Off">Bouncy Lady</a>" by <a href="/wiki/Pleasure_(U.S._band)" title="Pleasure (U.S. band)" class="mw-redirect">Pleasure</a></li>
+<li>"<a href="/wiki/Funky_President_(People_It%27s_Bad)" title="Funky President (People It's Bad)">Funky President (People It's Bad)</a>" by <a href="/wiki/James_Brown" title="James Brown">James Brown</a></li>
+<li>"<a href="/wiki/I_Can%27t_Live_Without_My_Radio" title="I Can't Live Without My Radio">I Can't Live Without My Radio</a>" by <a href="/wiki/LL_Cool_J" title="LL Cool J">LL Cool J</a></li>
+<li>"(Fallin' Like) Dominoes" by <a href="/wiki/Donald_Byrd" title="Donald Byrd">Donald Byrd</a></li>
+</ul>
+<dl>
+<dt>"As We Go"</dt>
+</dl>
+<ul>
+<li>"<a href="/wiki/Survival_of_the_Fittest_(The_Headhunters_album)" title="Survival of the Fittest (The Headhunters album)">God Made Me Funky</a>" by <a href="/wiki/The_Headhunters" title="The Headhunters">The Headhunters</a></li>
+</ul>
+<dl>
+<dt>"Pump Up The Bass"</dt>
+</dl>
+<ul>
+<li>"<a href="/wiki/Funky_Drummer" title="Funky Drummer">Funky Drummer</a>" by <a href="/wiki/James_Brown" title="James Brown">James Brown</a></li>
+</ul>
+<dl>
+<dt>"Time To Chill"</dt>
+</dl>
+<ul>
+<li>"<a href="/wiki/Breezin%27" title="Breezin'">Breezin'</a>" by <a href="/wiki/George_Benson" title="George Benson">George Benson</a></li>
+</ul>
+<dl>
+<dt>"Live At Union Square (November 1986)"</dt>
+</dl>
+<ul>
+<li>"<a href="/wiki/Got_to_Be_Real" title="Got to Be Real">Got to Be Real</a>" by <a href="/wiki/Cheryl_Lynn" title="Cheryl Lynn">Cheryl Lynn</a></li>
+<li>"<a href="/wiki/Apache_(instrumental)" title="Apache (instrumental)">Apache</a>" by <a href="/wiki/Incredible_Bongo_Band" title="Incredible Bongo Band">Incredible Bongo Band</a></li>
+<li>"Dance To The Drummer's Beat" by <a href="/wiki/Herman_Kelly_and_Life" title="Herman Kelly and Life">Herman Kelly and Life</a></li>
+</ul>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;action=edit&amp;section=6" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th align="left">Charts (1988)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></th>
+<th align="left">Peak<br />
+position</th>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a></td>
+<td align="center">68</td>
+</tr>
+<tr>
+<td align="left">U.S. <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a></td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td align="left">U.S. <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a></td>
+<td align="center">5</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r27779">link</a></span></li>
+<li id="cite_note-Christgau-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Christgau_2-0">^</a></b></span> <span class="reference-text"><span class="citation web">Christgau, Robert. <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?id=364">"DJ Jazzy Jeff &amp; The Fresh Prince"</a>. <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHe%27s+the+DJ%2C+I%27m+the+Rapper&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.btitle=DJ+Jazzy+Jeff+%26+The+Fresh+Prince&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fget_artist.php%3Fid%3D364&amp;rft.pub=Robert+Christgau&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.sputnikmusic.com/review/8115/DJ-Jazzy-Jeff-and-the-Fresh-Prince-Hes-the-DJ,-Im-the-Rapper/">http://www.sputnikmusic.com/review/8115/DJ-Jazzy-Jeff-and-the-Fresh-Prince-Hes-the-DJ,-Im-the-Rapper/</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=&amp;artist=DJ%20Jazzy%20Jeff&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2008&amp;sort=Artist&amp;perPage=25">RIAA Searchable Database - "DJ Jazzy Jeff"</a>. Recording Industry Association of America. Accessed November 10, 2008.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Huff, Quentin B. (June 20, 2006). <a rel="nofollow" class="external text" href="http://www.popmatters.com/music/features/060620-djjazzyjeff.shtml">The Globalization of Beats &amp; Rhymes</a>. PopMatters. Accessed November 9, 2008.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Warwick, Neil; Kutner, Jon; Brown, Tony (2004). <i>The Complete Book of the British Charts</i>, p. 561. Omnibus Press. <a href="/wiki/Special:BookSources/1844490580" class="internal mw-magiclink-isbn">ISBN 1-84449-058-0</a>.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r27779/charts-awards">allmusic ((( He's the DJ, I'm the Rapper &gt; Charts &amp; Awards &gt; Billboard Albums )))</a>. Allmusic. Accessed November 9, 2008.</span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:DJ_Jazzy_Jeff_%26_the_Fresh_Prince" title="Template:DJ Jazzy Jeff &amp; the Fresh Prince"><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:DJ_Jazzy_Jeff_%26_the_Fresh_Prince" title="Template talk:DJ Jazzy Jeff &amp; the Fresh Prince"><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:DJ_Jazzy_Jeff_%26_the_Fresh_Prince&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><a href="/wiki/DJ_Jazzy_Jeff_%26_The_Fresh_Prince" title="DJ Jazzy Jeff &amp; The Fresh Prince">DJ Jazzy Jeff &amp; The Fresh Prince</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><a href="/wiki/DJ_Jazzy_Jeff" title="DJ Jazzy Jeff">DJ Jazzy Jeff</a></b></li>
+<li><b><a href="/wiki/Will_Smith" title="Will Smith">The Fresh Prince</a></b></li>
+<li><a href="/wiki/Ready_Rock_C" title="Ready Rock C">Ready Rock C</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Rock_the_House_(album)" title="Rock the House (album)">Rock the House</a></i> (1987)</li>
+<li><i><strong class="selflink">He's the DJ, I'm the Rapper</strong></i> (1988)</li>
+<li><i><a href="/wiki/And_in_This_Corner..." title="And in This Corner...">And in This Corner...</a></i> (1989)</li>
+<li><i><a href="/wiki/Homebase_(album)" title="Homebase (album)">Homebase</a></i> (1991)</li>
+<li><i><a href="/wiki/Code_Red_(DJ_Jazzy_Jeff_%26_the_Fresh_Prince_album)" title="Code Red (DJ Jazzy Jeff &amp; the Fresh Prince album)">Code Red</a></i> (1993)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilation albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Greatest_Hits_(DJ_Jazzy_Jeff_%26_the_Fresh_Prince_album)" title="Greatest Hits (DJ Jazzy Jeff &amp; the Fresh Prince album)">Greatest Hits</a></i> (1998)</li>
+<li><i>Before The Willenium</i> (1999)</li>
+<li><i>Platinum &amp; Gold Collection</i> (2003)</li>
+<li><i>The Very Best of Jazzy Jeff &amp; The Fresh Prince</i> (2006)</li>
+<li><i>The Best of DJ Jazzy Jeff &amp; The Fresh Prince</i> (2010)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Girls_Ain%27t_Nothing_but_Trouble" title="Girls Ain't Nothing but Trouble">Girls Ain't Nothing but Trouble</a>"</li>
+<li>"<a href="/wiki/The_Magnificent_Jazzy_Jeff" title="The Magnificent Jazzy Jeff" class="mw-redirect">The Magnificent Jazzy Jeff</a>"</li>
+<li>"<a href="/wiki/A_Touch_of_Jazz" title="A Touch of Jazz" class="mw-redirect">A Touch of Jazz</a>"</li>
+<li>"<a href="/wiki/Brand_New_Funk" title="Brand New Funk" class="mw-redirect">Brand New Funk</a>"</li>
+<li>"<a href="/wiki/Nightmare_on_My_Street" title="Nightmare on My Street" class="mw-redirect">Nightmare on My Street</a>"</li>
+<li>"<a href="/wiki/Parents_Just_Don%27t_Understand" title="Parents Just Don't Understand">Parents Just Don't Understand</a>"</li>
+<li>"<a href="/wiki/I_Think_I_Can_Beat_Mike_Tyson" title="I Think I Can Beat Mike Tyson">I Think I Can Beat Mike Tyson</a>"</li>
+<li>"<a href="/wiki/Jazzy%27s_Groove" title="Jazzy's Groove" class="mw-redirect">Jazzy's Groove</a>"</li>
+<li>"<a href="/wiki/Yo_Home_to_Bel_Air" title="Yo Home to Bel Air" class="mw-redirect">Yo Home to Bel Air</a>"</li>
+<li>"<a href="/wiki/Summertime_(DJ_Jazzy_Jeff_%26_The_Fresh_Prince_song)" title="Summertime (DJ Jazzy Jeff &amp; The Fresh Prince song)">Summertime</a>"</li>
+<li>"<a href="/wiki/Ring_My_Bell_(DJ_Jazzy_Jeff_%26_The_Fresh_Prince_song)" title="Ring My Bell (DJ Jazzy Jeff &amp; The Fresh Prince song)">Ring My Bell</a>"</li>
+<li>"<a href="/wiki/The_Things_That_U_Do" title="The Things That U Do">The Things That U Do</a>"</li>
+<li>"<a href="/wiki/You_Saw_My_Blinker_(song)" title="You Saw My Blinker (song)" class="mw-redirect">You Saw My Blinker</a>"</li>
+<li>"I Wanna Rock"</li>
+<li>"<a href="/wiki/Boom!_Shake_the_Room" title="Boom! Shake the Room">Boom! Shake the Room</a>"</li>
+<li>"<a href="/wiki/I%27m_Looking_for_the_One_(To_Be_with_Me)" title="I'm Looking for the One (To Be with Me)">I'm Looking for the One (To Be with Me)</a>"</li>
+<li>"<a href="/wiki/Can%27t_Wait_to_Be_with_You" title="Can't Wait to Be with You" class="mw-redirect">Can't Wait to Be with You</a>"</li>
+<li>"<a href="/wiki/Twinkle_Twinkle_(I%27m_Not_a_Star)" title="Twinkle Twinkle (I'm Not a Star)" class="mw-redirect">Twinkle Twinkle (I'm Not a Star)</a>"</li>
+<li>"<a href="/wiki/Lovely_Daze" title="Lovely Daze" class="mw-redirect">Lovely Daze</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1087
+CPU time usage: 1.632 seconds
+Real time usage: 1.788 seconds
+Preprocessor visited node count: 7027/1000000
+Preprocessor generated node count: 30940/1500000
+Post‐expand include size: 72237/2048000 bytes
+Template argument size: 8017/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.070/10.000 seconds
+Lua memory usage: 1.75 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2559931-0!*!0!!en!4!* and timestamp 20140530170014 and revision id 592813977
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;oldid=592813977">http://en.wikipedia.org/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;oldid=592813977</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1988_albums" title="Category:1988 albums">1988 albums</a></li><li><a href="/wiki/Category:DJ_Jazzy_Jeff_%26_The_Fresh_Prince_albums" title="Category:DJ Jazzy Jeff &amp; The Fresh Prince albums">DJ Jazzy Jeff &amp; The Fresh Prince albums</a></li><li><a href="/wiki/Category:Jive_Records_albums" title="Category:Jive Records albums">Jive Records albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=He%27s+the+DJ%2C+I%27m+the+Rapper&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=He%27s+the+DJ%2C+I%27m+the+Rapper" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/He%27s_the_DJ,_I%27m_the_Rapper"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:He%27s_the_DJ,_I%27m_the_Rapper"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/He%27s_the_DJ,_I%27m_the_Rapper" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/He%27s_the_DJ,_I%27m_the_Rapper" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/He%27s_the_DJ,_I%27m_the_Rapper" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;oldid=592813977" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2274452" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=He%27s_the_DJ%2C_I%27m_the_Rapper&amp;id=592813977" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=He%27s+the+DJ%2C+I%27m+the+Rapper">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=He%27s+the+DJ%2C+I%27m+the+Rapper&amp;oldid=592813977&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=He%27s_the_DJ,_I%27m_the_Rapper&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/He%27s_the_DJ,_I%27m_the_Rapper" title="He's the DJ, I'm the Rapper – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/He%27s_the_DJ,_I%27m_the_Rapper" title="He's the DJ, I'm the Rapper – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/He%27s_the_DJ,_I%27m_the_Rapper" title="He's the DJ, I'm the Rapper – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/He%27s_the_DJ,_I%27m_the_Rapper" title="He's the DJ, I'm the Rapper – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q2274452#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 January 2014 at 16:34.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/He%27s_the_DJ,_I%27m_the_Rapper" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":193,"wgHostname":"mw1054"});
+}</script>
+	</body>
+</html>
+	

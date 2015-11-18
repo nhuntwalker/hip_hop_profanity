@@ -1,0 +1,1472 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>2007 in hip hop music - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/2007_in_hip_hop_music" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=2007_in_hip_hop_music&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=2007_in_hip_hop_music&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/2007_in_hip_hop_music" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init%2Cnolanglinks&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2007_in_hip_hop_music","wgTitle":"2007 in hip hop music","wgCurRevisionId":612998612,"wgRevisionId":612998612,"wgArticleId":11169458,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with limited geographic scope from August 2011","2000s in hip hop music","2007 in music"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2007_in_hip_hop_music","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf9/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"447":true,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4609803"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf9/skins/vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2007_in_hip_hop_music skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">2007 in hip hop music</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox nowraplinks" style="width: 300px; text-align: center;">
+<caption><a href="/wiki/2007_in_music" title="2007 in music">2007 in music</a></caption>
+<tr>
+<th>By location</th>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a href="/w/index.php?title=2007_in_Australian_music&amp;action=edit&amp;redlink=1" class="new" title="2007 in Australian music (page does not exist)">Australia</a></li>
+<li><a href="/wiki/2007_in_Canadian_music" title="2007 in Canadian music">Canada</a></li>
+<li><a href="/w/index.php?title=2007_in_European_music&amp;action=edit&amp;redlink=1" class="new" title="2007 in European music (page does not exist)">Europe</a></li>
+<li><a href="/wiki/2007_in_British_music" title="2007 in British music">United Kingdom</a></li>
+<li><a href="/wiki/2007_in_Irish_music" title="2007 in Irish music">Ireland</a></li>
+<li><a href="/w/index.php?title=2007_in_Japanese_music&amp;action=edit&amp;redlink=1" class="new" title="2007 in Japanese music (page does not exist)">Japan</a></li>
+<li><a href="/w/index.php?title=2007_in_New_Zealand_music&amp;action=edit&amp;redlink=1" class="new" title="2007 in New Zealand music (page does not exist)">New Zealand</a></li>
+<li><a href="/w/index.php?title=2007_in_Philippine_music&amp;action=edit&amp;redlink=1" class="new" title="2007 in Philippine music (page does not exist)">Philippines</a></li>
+<li><a href="/w/index.php?title=2007_in_South_Korean_music&amp;action=edit&amp;redlink=1" class="new" title="2007 in South Korean music (page does not exist)">South Korea</a></li>
+<li><a href="/w/index.php?title=2007_in_Swedish_music&amp;action=edit&amp;redlink=1" class="new" title="2007 in Swedish music (page does not exist)">Sweden</a></li>
+<li><a href="/w/index.php?title=2007_in_American_music&amp;action=edit&amp;redlink=1" class="new" title="2007 in American music (page does not exist)">United States</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>By genre</th>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a href="/w/index.php?title=2007_in_alternative_rock&amp;action=edit&amp;redlink=1" class="new" title="2007 in alternative rock (page does not exist)">Alternative</a></li>
+<li><a href="/wiki/2007_in_country_music" title="2007 in country music">country</a></li>
+<li><a href="/wiki/2007_in_classical_music" title="2007 in classical music" class="mw-redirect">classical</a></li>
+<li><a href="/w/index.php?title=2007_in_electropop_music&amp;action=edit&amp;redlink=1" class="new" title="2007 in electropop music (page does not exist)">electropop</a></li>
+<li><a href="/wiki/2007_in_heavy_metal_music" title="2007 in heavy metal music">heavy metal</a></li>
+<li><strong class="selflink">hip-hop</strong></li>
+<li><a href="/w/index.php?title=2007_in_opera&amp;action=edit&amp;redlink=1" class="new" title="2007 in opera (page does not exist)">opera</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>By topic</th>
+</tr>
+<tr>
+<td><a href="/wiki/List_of_2007_albums" title="List of 2007 albums">List of albums released</a></td>
+</tr>
+</table>
+<table class="infobox" style="text-align:center;">
+<tr>
+<th style="font-size:larger;">&#160; &#160; &#160; &#160; &#160; &#160; <a href="/w/index.php?title=List_of_years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="List of years in hip hop music (page does not exist)">List of years in hip hop music</a> &#160; &#160; &#160;&#160; &#160; &#160;</th>
+</tr>
+<tr>
+<td><small><a href="/w/index.php?title=Category:Years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="Category:Years in hip hop music (page does not exist)">...</a>&#160;<a href="/wiki/1997_in_hip_hop_music" title="1997 in hip hop music">1997</a> <sup>.</sup> <a href="/wiki/1998_in_hip_hop_music" title="1998 in hip hop music">1998</a> <sup>.</sup> <a href="/wiki/1999_in_hip_hop_music" title="1999 in hip hop music">1999</a> <sup>.</sup> <a href="/wiki/2000_in_hip_hop_music" title="2000 in hip hop music">2000</a> <sup>.</sup> <a href="/wiki/2001_in_hip_hop_music" title="2001 in hip hop music">2001</a> <sup>.</sup> <a href="/wiki/2002_in_hip_hop_music" title="2002 in hip hop music">2002</a> <sup>.</sup> <a href="/wiki/2003_in_hip_hop_music" title="2003 in hip hop music">2003</a>&#160;<a href="/w/index.php?title=Category:Years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="Category:Years in hip hop music (page does not exist)">...</a></small><br />
+<a href="/wiki/2004_in_hip_hop_music" title="2004 in hip hop music">2004</a> <a href="/wiki/2005_in_hip_hop_music" title="2005 in hip hop music">2005</a> <a href="/wiki/2006_in_hip_hop_music" title="2006 in hip hop music">2006</a> <b>-<strong class="selflink">2007</strong>-</b> <a href="/wiki/2008_in_hip_hop_music" title="2008 in hip hop music">2008</a> <a href="/wiki/2009_in_hip_hop_music" title="2009 in hip hop music">2009</a> <a href="/wiki/2010_in_hip_hop_music" title="2010 in hip hop music">2010</a><br />
+<small><a href="/w/index.php?title=Category:Years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="Category:Years in hip hop music (page does not exist)">...</a>&#160;<a href="/wiki/2011_in_hip_hop_music" title="2011 in hip hop music">2011</a> <sup>.</sup> <a href="/wiki/2012_in_hip_hop_music" title="2012 in hip hop music">2012</a> <sup>.</sup> <a href="/wiki/2013_in_hip_hop_music" title="2013 in hip hop music">2013</a> <sup>.</sup> <a href="/wiki/2014_in_hip_hop_music" title="2014 in hip hop music">2014</a> <sup>.</sup> <a href="/w/index.php?title=2015_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="2015 in hip hop music (page does not exist)">2015</a> <sup>.</sup> <a href="/w/index.php?title=2016_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="2016 in hip hop music (page does not exist)">2016</a> <sup>.</sup> <a href="/w/index.php?title=2017_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="2017 in hip hop music (page does not exist)">2017</a>&#160;<a href="/w/index.php?title=Category:Years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="Category:Years in hip hop music (page does not exist)">...</a></small></td>
+</tr>
+<tr>
+<td><small><a href="/wiki/2007_in_art" title="2007 in art">Art</a> <sup>.</sup> <a href="/wiki/2007_in_archaeology" title="2007 in archaeology">Archaeology</a> <sup>.</sup> <a href="/wiki/2007_in_architecture" title="2007 in architecture">Architecture</a> <sup>.</sup> <a href="/wiki/2007_in_literature" title="2007 in literature">Literature</a> <sup>.</sup> <a href="/wiki/2007_in_music" title="2007 in music">Music</a> <sup>.</sup> <a href="/wiki/2007_in_philosophy" title="2007 in philosophy">Philosophy</a> <sup>.</sup> <a href="/wiki/2007_in_science" title="2007 in science">Science</a> <i><a href="/wiki/Category:2007" title="Category:2007">+...</a></i></small></td>
+</tr>
+</table>
+<p>This article summarizes the events, album releases, and album release dates in <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop music</a> for the year 2007.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Events"><span class="tocnumber">1</span> <span class="toctext">Events</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Albums"><span class="tocnumber">2</span> <span class="toctext">Albums</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Highest_first_week_sales"><span class="tocnumber">3</span> <span class="toctext">Highest first week sales</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Highest_critically_reviewed_albums_.28Metacritic.29"><span class="tocnumber">4</span> <span class="toctext">Highest critically reviewed albums (Metacritic)</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Events">Events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_in_hip_hop_music&amp;action=edit&amp;section=1" title="Edit section: Events">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>In 2007 <a href="/wiki/Cam%27ron" title="Cam'ron">Cam'ron</a> began a feud with <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a>. Both released diss videos which were released onto <a href="/wiki/YouTube" title="YouTube">YouTube</a>, moving hip hop onto the web. It began on Hot 97 when 50 called <a href="/wiki/Koch_Records" title="Koch Records" class="mw-redirect">Koch Records</a> the graveyard, implying that artists who cannot achieve success are not signed by the major record labels and go to the independent labels like Koch, Cam'ron, (who is signed to a major label but his crew and crew members are signed to Koch) took offense to this and phoned into the interview.</li>
+<li>In January 2007, <a href="/wiki/DJ_Drama" title="DJ Drama">DJ Drama</a> was arrested for selling mixtapes, a move which shook the mixtape industry.</li>
+<li>2007 sees the return of <a href="/wiki/Ja_Rule" title="Ja Rule">Ja Rule</a> after a break in his career, partially caused by commercial failure.</li>
+<li>Hip hop album sales continue to fall despite still being a popular genre, as no album goes platinum as of July. This is because hiphop's mainstream popularity is more focusing on singles (particularly the hooks), rather than full-length albums that the customer can download on the internet. An example of this is <a href="/wiki/Mims_(rapper)" title="Mims (rapper)">Mims</a>' <a href="/wiki/This_Is_Why_I%27m_Hot" title="This Is Why I'm Hot">This Is Why I'm Hot</a> being hugely successful, but his album only reaching #4 in the US Charts. <a href="/wiki/T.I." title="T.I.">T.I.</a> has made a platinum certification, so many consider him as well as <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>, <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a>, and <a href="/wiki/Chamillionaire" title="Chamillionaire">Chamillionaire</a> (who all have their albums out in September and have all made notable appearance on the charts before) hope in the resurrection of hip hop sales.</li>
+<li>Kanye West and 50 Cent go head to head both dropping albums on the September 11, 2007. At the time, they were the two biggest selling hip hop artists measured by the success of their previous albums Kanye West's <a href="/wiki/Late_Registration" title="Late Registration">Late Registration</a> (5 million) and 50 Cent's <a href="/wiki/The_Massacre" title="The Massacre">The Massacre</a> (10 million)</li>
+<li>On Sept.18, Kanye West's latest album, <a href="/wiki/Graduation_(Album)" title="Graduation (Album)" class="mw-redirect">Graduation</a> outsells 50 Cent's 2007 production <a href="/wiki/Curtis" title="Curtis">Curtis</a> in first week album sales. Kanye West sold 957,000 copies in the U.S. alone, making it the highest first week seller since 50 Cent's The Massacre pushed 1.14 million in March 2005. 50 Cent sold 691,000 copies in the U.S. during the first week. These are 50's lowest first week sales of his career.</li>
+<li>There were many hip hop albums slated for release this year, though the following were not released in 2007: <a href="/wiki/Nelly" title="Nelly">Nelly</a>'s <i><a href="/wiki/Brass_Knuckles_(album)" title="Brass Knuckles (album)">Brass Knuckles</a></i>, <a href="/wiki/Eminem%27s_sixth_studio_album" title="Eminem's sixth studio album" class="mw-redirect">Eminem's sixth studio album</a>, <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a>'s <i><a href="/wiki/Only_Built_4_Cuban_Linx_II" title="Only Built 4 Cuban Linx II" class="mw-redirect">Only Built 4 Cuban Linx II</a></i>, <a href="/wiki/Lil_Jon" title="Lil Jon">Lil Jon</a>'s <i><a href="/wiki/Crunk_Rock" title="Crunk Rock">Crunk Rock</a></i>, <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>'s <i><a href="/wiki/Detox_(Dr._Dre_album)" title="Detox (Dr. Dre album)" class="mw-redirect">Detox</a></i> and <a href="/wiki/Three_6_Mafia" title="Three 6 Mafia">Three 6 Mafia</a>'s <i><a href="/wiki/Last_2_Walk" title="Last 2 Walk">Last 2 Walk</a></i>.</li>
+<li>One half of <a href="/wiki/UGK" title="UGK">UGK</a> Pimp C died in his hotel room on the 4th of December</li>
+</ul>
+<h2><span class="mw-headline" id="Albums">Albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_in_hip_hop_music&amp;action=edit&amp;section=2" title="Edit section: Albums">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tr>
+<th style="text-align:center; width:100px;">Release Date</th>
+<th style="text-align:center; width:170px;">Artist</th>
+<th style="text-align:center; width:170px;">Album</th>
+<th style="text-align:center; width:170px;">Label</th>
+<th style="text-align:center; width:300px;">Notes</th>
+</tr>
+<tr>
+<td>January 9</td>
+<td><a href="/wiki/Ultramagnetic_MC%27s" title="Ultramagnetic MC's" class="mw-redirect">Ultramagnetic MC's</a></td>
+<td><i><a href="/wiki/The_Best_Kept_Secret_(Ultramagnetic_MCs_album)" title="The Best Kept Secret (Ultramagnetic MCs album)">The Best Kept Secret</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">January 30</td>
+<td><a href="/wiki/Sean_Price" title="Sean Price">Sean Price</a></td>
+<td><i><a href="/wiki/Jesus_Price_Superstar" title="Jesus Price Superstar" class="mw-redirect">Jesus Price Superstar</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 196 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/X-Clan" title="X-Clan" class="mw-redirect">X-Clan</a></td>
+<td><i><a href="/wiki/Return_from_Mecca" title="Return from Mecca">Return from Mecca</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">February 20</td>
+<td><a href="/wiki/Hell_Razah" title="Hell Razah">Hell Razah</a></td>
+<td><i><a href="/wiki/Renaissance_Child" title="Renaissance Child">Renaissance Child</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Jin_(rapper)" title="Jin (rapper)" class="mw-redirect">Jin</a></td>
+<td><i><a href="/wiki/ABC_(Jin_album)" title="ABC (Jin album)">ABC</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>February 26</td>
+<td><a href="/wiki/Hussein_Fatal" title="Hussein Fatal">Hussein Fatal</a> &amp; Hardtimerz</td>
+<td><i>1090 Official</i></td>
+<td></td>
+<td>
+<ul>
+<li>Singles: "I'm Street", "1090 Official"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="4">February 27</td>
+<td><a href="/wiki/B.G._(rapper)" title="B.G. (rapper)">B.G.</a> &amp; <a href="/wiki/Chopper_City_Boyz" title="Chopper City Boyz">Chopper City Boyz</a></td>
+<td><i><a href="/wiki/We_Got_This" title="We Got This">We Got This</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 20 on The Billboard 200</li>
+<li>Singles: "Make Em Mad"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Famous Playaz (<a href="/wiki/Noah23" title="Noah23">Noah23</a> &amp; DS)</td>
+<td><i>Funny Money</i></td>
+<td>Legendary Entertainment, <a href="/wiki/Plague_Language" title="Plague Language" class="mw-redirect">Plague Language</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Gabriel_Teodros" title="Gabriel Teodros">Gabriel Teodros</a></td>
+<td><i><a href="/wiki/Lovework" title="Lovework">Lovework</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Wisemen" title="Wisemen">Wisemen</a></td>
+<td><i><a href="/wiki/Wisemen_Approaching" title="Wisemen Approaching">Wisemen Approaching</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">March 6</td>
+<td><a href="/wiki/Consequence_(rapper)" title="Consequence (rapper)">Consequence</a></td>
+<td><i><a href="/wiki/Don%27t_Quit_Your_Day_Job!" title="Don't Quit Your Day Job!">Don't Quit Your Day Job!</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 113 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Twisted_Black" title="Twisted Black">Twisted Black</a></td>
+<td><i><a href="/wiki/Street_Fame" title="Street Fame">Street Fame</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>March 12</td>
+<td><a href="/wiki/Noah23" title="Noah23">Noah23</a> &amp; Lord Kufu</td>
+<td><i>The Fool</i></td>
+<td>Legendary Entertainment, <a href="/wiki/Plague_Language" title="Plague Language" class="mw-redirect">Plague Language</a></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">March 13</td>
+<td><a href="/wiki/Slim_Thug" title="Slim Thug">Boss Hogg Outlawz</a></td>
+<td><i>Serve &amp; Collect</i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 63 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/8_Ball_%26_MJG" title="8 Ball &amp; MJG" class="mw-redirect">8 Ball &amp; MJG</a></td>
+<td><i><a href="/wiki/Ridin_High" title="Ridin High">Ridin High</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 8 on The Billboard 200</li>
+<li>Singles: "Relax and Take Notes"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Black_Milk" title="Black Milk">Black Milk</a></td>
+<td><i><a href="/wiki/Popular_Demand" title="Popular Demand">Popular Demand</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="6">March 20</td>
+<td><a href="/wiki/Baby_Boy_Da_Prince" title="Baby Boy Da Prince" class="mw-redirect">Baby Boy Da Prince</a></td>
+<td><i><a href="/wiki/Across_the_Water" title="Across the Water">Across the Water</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 26 on The Billboard 200</li>
+<li>Singles: "The Way I Live", "Naw Mean"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Crime_Mob" title="Crime Mob">Crime Mob</a></td>
+<td><i><a href="/wiki/Hated_on_Mostly" title="Hated on Mostly">Hated on Mostly</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at #31 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Rock_Yo_Hips" title="Rock Yo Hips">Rock Yo Hips</a>", "Circles"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Devin_the_Dude" title="Devin the Dude">Devin the Dude</a></td>
+<td><i><a href="/wiki/Waitin%27_to_Inhale" title="Waitin' to Inhale">Waitin' to Inhale</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 30 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/El-P" title="El-P">El-P</a></td>
+<td><i><a href="/wiki/I%27ll_Sleep_When_You%27re_Dead" title="I'll Sleep When You're Dead">I'll Sleep When You're Dead</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 78 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Evidence_(artist)" title="Evidence (artist)" class="mw-redirect">Evidence</a></td>
+<td><i><a href="/wiki/The_Weatherman_LP" title="The Weatherman LP">The Weatherman LP</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Psycho_Les" title="Psycho Les" class="mw-redirect">Psycho Les</a></td>
+<td><i><a href="/wiki/Psycho_Therapy_(The_Soundtrack)" title="Psycho Therapy (The Soundtrack)">Psycho Therapy (The Soundtrack)</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="8">March 27</td>
+<td><a href="/wiki/Tha_Dogg_Pound" title="Tha Dogg Pound">Tha Dogg Pound</a></td>
+<td><i><a href="/wiki/Dogg_Chit" title="Dogg Chit">Dogg Chit</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 77 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Lil_Flip" title="Lil Flip" class="mw-redirect">Lil Flip</a></td>
+<td><i><a href="/wiki/I_Need_Mine" title="I Need Mine">I Need Mine</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 14 on The Billboard 200</li>
+<li>Singles: "What It Do", "Ghetto Mindstate"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Mims_(rapper)" title="Mims (rapper)">Mims</a></td>
+<td><i><a href="/wiki/Music_Is_My_Savior" title="Music Is My Savior">Music Is My Savior</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 4 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/This_Is_Why_I%27m_Hot" title="This Is Why I'm Hot">This Is Why I'm Hot</a>", "<a href="/wiki/Like_This_(Mims_song)" title="Like This (Mims song)">Like This</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Prodigy_(rapper)" title="Prodigy (rapper)">Prodigy</a></td>
+<td><i><a href="/wiki/Return_of_the_Mac" title="Return of the Mac">Return of the Mac</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 32 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Redman_(rapper)" title="Redman (rapper)">Redman</a></td>
+<td><i><a href="/wiki/Red_Gone_Wild" title="Red Gone Wild" class="mw-redirect">Red Gone Wild: Thee Album</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 13 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Rich_Boy" title="Rich Boy">Rich Boy</a></td>
+<td><i><a href="/wiki/Rich_Boy_(album)" title="Rich Boy (album)">Rich Boy</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 3 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Throw_Some_D%27s" title="Throw Some D's">Throw Some D's</a>", "<a href="/wiki/Boy_Looka_Here" title="Boy Looka Here">Boy Looka Here</a>", "Good Things"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Young_Buck" title="Young Buck">Young Buck</a></td>
+<td><i><a href="/wiki/Buck_the_World" title="Buck the World">Buck the World</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 3 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/I_Know_You_Want_Me" title="I Know You Want Me">I Know You Want Me</a>", "<a href="/wiki/Get_Buck" title="Get Buck">Get Buck</a>", "<a href="/wiki/U_Ain%27t_Goin%27_Nowhere" title="U Ain't Goin' Nowhere">U Ain't Goin' Nowhere</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Big Quarters</td>
+<td><i><a href="/wiki/Cost_of_Living" title="Cost of Living" class="mw-redirect">Cost of Living</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">April 3</td>
+<td><a href="/wiki/Paul_Wall" title="Paul Wall">Paul Wall</a></td>
+<td><i><a href="/wiki/Get_Money,_Stay_True" title="Get Money, Stay True">Get Money, Stay True</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 8 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Break_%27Em_Off" title="Break 'Em Off">Break 'Em Off</a>", "<a href="/wiki/I%27m_Throwed" title="I'm Throwed">I'm Throwed</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Phat_Kat" title="Phat Kat">Phat Kat</a></td>
+<td><i><a href="/wiki/Carte_Blanche_(Phat_Kat_album)" title="Carte Blanche (Phat Kat album)">Carte Blanche</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Timbaland" title="Timbaland">Timbaland</a></td>
+<td><i><a href="/wiki/Timbaland_Presents_Shock_Value" title="Timbaland Presents Shock Value" class="mw-redirect">Shock Value</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 5 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Give_It_to_Me_(Timbaland_song)" title="Give It to Me (Timbaland song)">Give It to Me</a>", "<a href="/wiki/The_Way_I_Are" title="The Way I Are">The Way I Are</a>", "<a href="/wiki/Apologize_(song)" title="Apologize (song)">Apologize</a>", "<a href="/wiki/Scream_(Timbaland_song)" title="Scream (Timbaland song)">Scream</a>"</li>
+<li>Certified Platinum</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2">April 10</td>
+<td><a href="/wiki/Brother_Ali" title="Brother Ali">Brother Ali</a></td>
+<td><i><a href="/wiki/The_Undisputed_Truth_(Brother_Ali_album)" title="The Undisputed Truth (Brother Ali album)">The Undisputed Truth</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 69 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Mic_Geronimo" title="Mic Geronimo">Mic Geronimo</a></td>
+<td><i>Alive 9/14/73</i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>April 24</td>
+<td><a href="/wiki/Joell_Ortiz" title="Joell Ortiz">Joell Ortiz</a></td>
+<td><i><a href="/wiki/The_Brick_(Bodega_Chronicles)" title="The Brick (Bodega Chronicles)" class="mw-redirect">The Brick (Bodega Chronicles)</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">May 8</td>
+<td><a href="/wiki/Bone_Thugs-n-Harmony" title="Bone Thugs-n-Harmony">Bone Thugs-n-Harmony</a></td>
+<td><i><a href="/wiki/Strength_%26_Loyalty" title="Strength &amp; Loyalty">Strength &amp; Loyalty</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 2 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/I_Tried_(Bone_Thugs-n-Harmony_song)" title="I Tried (Bone Thugs-n-Harmony song)">I Tried</a>", "<a href="/wiki/Lil_L.O.V.E." title="Lil L.O.V.E." class="mw-redirect">Lil L.O.V.E.</a>"</li>
+<li>Certified Gold</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/DJ_Jazzy_Jeff" title="DJ Jazzy Jeff">DJ Jazzy Jeff</a></td>
+<td><i><a href="/wiki/The_Return_of_the_Magnificent" title="The Return of the Magnificent">The Return of the Magnificent</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Sage_Francis" title="Sage Francis">Sage Francis</a></td>
+<td><i><a href="/wiki/Human_the_Death_Dance" title="Human the Death Dance">Human the Death Dance</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>May 15</td>
+<td><a href="/wiki/Marco_Polo_(producer)" title="Marco Polo (producer)">Marco Polo</a></td>
+<td><i><a href="/wiki/Port_Authority_(album)" title="Port Authority (album)">Port Authority</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">May 22</td>
+<td><a href="/wiki/KRS-One" title="KRS-One">KRS-One</a> &amp; <a href="/wiki/Marley_Marl" title="Marley Marl">Marley Marl</a></td>
+<td><i><a href="/wiki/Hip_Hop_Lives" title="Hip Hop Lives">Hip Hop Lives</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 140 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Young_Jeezy" title="Young Jeezy">Young Jeezy</a> &amp; <a href="/wiki/United_Streets_Dopeboyz_of_America" title="United Streets Dopeboyz of America" class="mw-redirect">USDA</a></td>
+<td><i><a href="/wiki/Young_Jeezy_Presents_USDA:_Cold_Summer" title="Young Jeezy Presents USDA: Cold Summer" class="mw-redirect">Young Jeezy Presents USDA: Cold Summer</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 4 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/White_Girl_(song)" title="White Girl (song)">White Girl</a>", "Corporate Thuggin"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="5">June 12</td>
+<td><a href="/wiki/Blue_Scholars" title="Blue Scholars">Blue Scholars</a></td>
+<td><i><a href="/wiki/Bayani_(album)" title="Bayani (album)">Bayani</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Canibus" title="Canibus">Canibus</a></td>
+<td><i><a href="/wiki/For_Whom_the_Beat_Tolls" title="For Whom the Beat Tolls">For Whom the Beat Tolls</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Cilvaringz" title="Cilvaringz">Cilvaringz</a></td>
+<td><i><a href="/wiki/I_(Cilvaringz_album)" title="I (Cilvaringz album)">I</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/DJ_Khaled" title="DJ Khaled">DJ Khaled</a></td>
+<td><i><a href="/wiki/We_the_Best" title="We the Best">We the Best</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 8 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/We_Takin%27_Over" title="We Takin' Over">We Takin' Over</a>", "<a href="/wiki/I%27m_So_Hood" title="I'm So Hood">I'm So Hood</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Fabolous" title="Fabolous">Fabolous</a></td>
+<td><i><a href="/wiki/From_Nothin%27_to_Somethin%27" title="From Nothin' to Somethin'">From Nothin' to Somethin'</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 2 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Diamonds" title="Diamonds" class="mw-redirect">Diamonds</a>", "<a href="/wiki/Return_of_the_Hustle" title="Return of the Hustle" class="mw-redirect">Return of the Hustle</a>", "<a href="/wiki/Make_Me_Better" title="Make Me Better">Make Me Better</a>", "<a href="/wiki/Baby_Don%27t_Go_(Fabolous_song)" title="Baby Don't Go (Fabolous song)">Baby Don't Go</a>"</li>
+<li>Certified Gold</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1">June 19</td>
+<td><a href="/wiki/Tragedy_Khadafi" title="Tragedy Khadafi">Tragedy Khadafi</a></td>
+<td><i><a href="/wiki/The_Death_of_Tragedy_(Tragedy_Khadafi_album)" title="The Death of Tragedy (Tragedy Khadafi album)">The Death of Tragedy</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>June 26</td>
+<td><a href="/wiki/Pharoahe_Monch" title="Pharoahe Monch">Pharoahe Monch</a></td>
+<td><i><a href="/wiki/Desire_(Pharoahe_Monch_album)" title="Desire (Pharoahe Monch album)">Desire</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 58 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2">July 3</td>
+<td><a href="/wiki/Pastor_Troy" title="Pastor Troy">Pastor Troy</a></td>
+<td><i><a href="/wiki/Tool_Muziq" title="Tool Muziq">Tool Muziq</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 91 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/T.I." title="T.I.">T.I.</a></td>
+<td><i><a href="/wiki/T.I._vs._T.I.P." title="T.I. vs. T.I.P.">T.I. vs. T.I.P.</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 1 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Big_Things_Poppin%27_(Do_It)" title="Big Things Poppin' (Do It)" class="mw-redirect">Big Things Poppin' (Do It)</a>", "<a href="/wiki/You_Know_What_It_Is" title="You Know What It Is">You Know What It Is</a>", "<a href="/wiki/Hurt_(T.I._song)" title="Hurt (T.I. song)">Hurt</a>"</li>
+<li>Certified Platinum</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2">July 17</td>
+<td><a href="/wiki/Danny!" title="Danny!">Danny!</a></td>
+<td><i><a href="/wiki/Danny_Is_Dead" title="Danny Is Dead">Danny Is Dead</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Blu_(rapper)" title="Blu (rapper)">Blu</a> &amp; <a href="/wiki/Exile_(producer)" title="Exile (producer)">Exile</a></td>
+<td><i><a href="/wiki/Below_the_Heavens" title="Below the Heavens">Below the Heavens</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>July 24</td>
+<td><a href="/wiki/Camp_Lo" title="Camp Lo">Camp Lo</a></td>
+<td><i><a href="/wiki/Black_Hollywood" title="Black Hollywood">Black Hollywood</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">July 31</td>
+<td><a href="/wiki/Common_(rapper)" title="Common (rapper)">Common</a></td>
+<td><i><a href="/wiki/Finding_Forever" title="Finding Forever">Finding Forever</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 1 on The Billboard 200</li>
+<li>Singles: "The Game", "The People", "Drivin' Me Wild", "I Want You"</li>
+<li>Certified Gold</li>
+<li>Only chart-topping album of 2007 without a single to chart on <a href="/wiki/The_Billboard_100" title="The Billboard 100" class="mw-redirect">The Billboard 100</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Kia_Shine" title="Kia Shine">Kia Shine</a></td>
+<td><i><a href="/wiki/Due_Season" title="Due Season">Due Season</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 84 on The Billboard 200</li>
+<li>Singles: "Krispy", "WOW"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2">August 7</td>
+<td><a href="/wiki/Plies_(rapper)" title="Plies (rapper)">Plies</a></td>
+<td><i><a href="/wiki/The_Real_Testament" title="The Real Testament">The Real Testament</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 2 on The Billboard 200, selling 96,000 units</li>
+<li>Singles: "<a href="/wiki/Shawty_(song)" title="Shawty (song)">Shawty</a>" &amp; "<a href="/wiki/Hypnotized_(Plies_song)" title="Hypnotized (Plies song)">Hypnotized</a>", "<a href="/wiki/I_Am_The_Club" title="I Am The Club" class="mw-redirect">I Am The Club</a>"</li>
+<li>Certified Gold</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/UGK" title="UGK">UGK</a></td>
+<td><i><a href="/wiki/UGK_(Underground_Kingz)" title="UGK (Underground Kingz)" class="mw-redirect">UGK (Underground Kingz)</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 1 on The Billboard 200</li>
+<li>Singles: "The Game Belongs to Me", "International Players Anthem"</li>
+<li>Certified Gold</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>August 14</td>
+<td><a href="/wiki/WC_(rapper)" title="WC (rapper)">WC</a></td>
+<td><i><a href="/wiki/Guilty_by_Affiliation" title="Guilty by Affiliation">Guilty by Affiliation</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 49 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="3">August 21</td>
+<td><a href="/wiki/Killah_Priest" title="Killah Priest">Killah Priest</a></td>
+<td><i><a href="/wiki/The_Offering" title="The Offering">The Offering</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a></td>
+<td><i><a href="/wiki/One_Man_Band_Man" title="One Man Band Man">One Man Band Man</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 7 on The Billboard 200</li>
+<li>Singles: "It's Me Snitches", "Money in the Bank"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Talib_Kweli" title="Talib Kweli">Talib Kweli</a></td>
+<td><i><a href="/wiki/Eardrum_(album)" title="Eardrum (album)">Eardrum</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 2 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2">August 28</td>
+<td>Strong Arm Steady</td>
+<td><i>Deep Hearted</i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Yung_Joc" title="Yung Joc">Yung Joc</a></td>
+<td><i><a href="/wiki/Hustlenomics" title="Hustlenomics">Hustlenomics</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 3 on The Billboard 200</li>
+<li>Singles: "Coffee Shop", "Bottle Poppin'"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>September 4</td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a> &amp; <a href="/wiki/Romeo_Miller" title="Romeo Miller">Romeo</a></td>
+<td><i><a href="/wiki/Master_P_%26_Romeo:_Hip_Hop_History" title="Master P &amp; Romeo: Hip Hop History" class="mw-redirect">Master P &amp; Romeo: Hip Hop History</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Does not contain "Parental Advisory" sticker</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="3">September 11</td>
+<td><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></td>
+<td><i><a href="/wiki/Curtis_(50_Cent_album)" title="Curtis (50 Cent album)">Curtis</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 2 on The Billboard 200</li>
+<li>Singles:"<a href="/wiki/Straight_to_the_Bank" title="Straight to the Bank">Straight to the Bank</a>", "<a href="/wiki/Amusement_Park" title="Amusement Park" class="mw-redirect">Amusement Park</a>, "<a href="/wiki/I_Get_Money" title="I Get Money">I Get Money</a>", "<a href="/wiki/Ayo_Technology" title="Ayo Technology">Ayo Technology</a>", "<a href="/wiki/I%27ll_Still_Kill" title="I'll Still Kill">I'll Still Kill</a>"</li>
+<li>Certified Platinum</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></td>
+<td><i><a href="/wiki/Graduation_(album)" title="Graduation (album)">Graduation</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 1 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Can%27t_Tell_Me_Nothing" title="Can't Tell Me Nothing">Can't Tell Me Nothing</a>", "<a href="/wiki/Stronger_(Kanye_West_song)" title="Stronger (Kanye West song)">Stronger</a>", "<a href="/wiki/Good_Life_(Kanye_West_song)" title="Good Life (Kanye West song)">Good Life</a>", "<a href="/wiki/Flashing_Lights_(Kayne_West_song)" title="Flashing Lights (Kayne West song)" class="mw-redirect">Flashing Lights</a>", "Homecoming"</li>
+<li>Certified Double Platinum</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Young_Noble" title="Young Noble">Young Noble</a> &amp; <a href="/wiki/Hussein_Fatal" title="Hussein Fatal">Hussein Fatal</a></td>
+<td><i><a href="/wiki/Thug_in_Thug_Out" title="Thug in Thug Out">Thug in Thug Out</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">September 18</td>
+<td><a href="/wiki/Chamillionaire" title="Chamillionaire">Chamillionaire</a></td>
+<td><i><a href="/wiki/Ultimate_Victory" title="Ultimate Victory">Ultimate Victory</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 8 on The Billboard 200</li>
+<li>Does not contain "Parental Advisory" sticker</li>
+<li>Singles: "<a href="/wiki/Hip_Hop_Police" title="Hip Hop Police">Hip Hop Police</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Twista" title="Twista">Twista</a></td>
+<td><i><a href="/wiki/Adrenaline_Rush_2007" title="Adrenaline Rush 2007">Adrenaline Rush 2007</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 10 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Give_It_Up_(Twista_song)" title="Give It Up (Twista song)">Give It Up</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>September 25</td>
+<td><a href="/wiki/Gorilla_Zoe" title="Gorilla Zoe">Gorilla Zoe</a></td>
+<td><i><a href="/wiki/Welcome_to_the_Zoo" title="Welcome to the Zoo">Welcome to the Zoo</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 18 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Hood_Figga" title="Hood Figga">Hood Figga</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2">October 2</td>
+<td><a href="/wiki/Boyz_n_da_Hood" title="Boyz n da Hood">Boyz n da Hood</a></td>
+<td><i><a href="/wiki/Back_Up_n_da_Chevy" title="Back Up n da Chevy">Back Up n da Chevy</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 51 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Everybody_Know_Me" title="Everybody Know Me">Everybody Know Me</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Soulja_Boy_Tell_%27Em" title="Soulja Boy Tell 'Em" class="mw-redirect">Soulja Boy Tell 'Em</a></td>
+<td><i><a href="/wiki/Souljaboytellem.com" title="Souljaboytellem.com">souljaboytellem.com</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 4 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Crank_That_(Soulja_Boy)" title="Crank That (Soulja Boy)">Crank That (Soulja Boy)</a>", "<a href="/wiki/Soulja_Girl" title="Soulja Girl">Soulja Girl</a>", "<a href="/wiki/Yahhh!" title="Yahhh!">Yahhh!</a>", "<a href="/wiki/Let_Me_Get_%27em" title="Let Me Get 'em" class="mw-redirect">Let Me Get 'em</a>", "<a href="/wiki/Donk_(song)" title="Donk (song)">Donk</a>"</li>
+<li>Does not contain "Parental Advisory" sticker</li>
+<li>Certified Platinum</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2">October 9</td>
+<td><a href="/wiki/9th_Wonder" title="9th Wonder">9th Wonder</a></td>
+<td><i><a href="/wiki/The_Dream_Merchant_Vol._2" title="The Dream Merchant Vol. 2">The Dream Merchant Vol. 2</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Y_Society" title="Y Society" class="mw-redirect">Y Society</a></td>
+<td><i><a href="/wiki/Travel_at_Your_Own_Pace" title="Travel at Your Own Pace">Travel at Your Own Pace</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>October 11</td>
+<td><a href="/wiki/Gucci_Mane" title="Gucci Mane">Gucci Mane</a></td>
+<td><i><a href="/wiki/Trap-A-Thon" title="Trap-A-Thon">Trap-A-Thon</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 69 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="4">October 23</td>
+<td><a href="/wiki/Bizarre_(rapper)" title="Bizarre (rapper)">Bizarre</a></td>
+<td><i><a href="/wiki/Blue_Cheese_%26_Coney_Island" title="Blue Cheese &amp; Coney Island">Blue Cheese &amp; Coney Island</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Chris_(rapper)" title="Hurricane Chris (rapper)">Hurricane Chris</a></td>
+<td><i><a href="/wiki/51/50_Ratchet" title="51/50 Ratchet">51/50 Ratchet</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 24 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/A_Bay_Bay" title="A Bay Bay">A Bay Bay</a>", "<a href="/wiki/The_Hand_Clap" title="The Hand Clap">The Hand Clap</a>", "<a href="/wiki/Playas_Rock" title="Playas Rock">Playas Rock</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Little_Brother_(band)" title="Little Brother (band)" class="mw-redirect">Little Brother</a></td>
+<td><i><a href="/wiki/Getback" title="Getback">Getback</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 89 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Shad_(rapper)" title="Shad (rapper)">Shad</a></td>
+<td><i><a href="/wiki/The_Old_Prince" title="The Old Prince">The Old Prince</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>October 30</td>
+<td><a href="/wiki/Playaz_Circle" title="Playaz Circle">Playaz Circle</a></td>
+<td><i><a href="/wiki/Supply_%26_Demand_(Playaz_Circle_album)" title="Supply &amp; Demand (Playaz Circle album)">Supply &amp; Demand</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 27 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Duffle_Bag_Boy" title="Duffle Bag Boy">Duffle Bag Boy</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2">November 6</td>
+<td><a href="/wiki/Cassidy_(rapper)" title="Cassidy (rapper)">Cassidy</a></td>
+<td><i><a href="/wiki/B.A.R.S._The_Barry_Adrian_Reese_Story" title="B.A.R.S. The Barry Adrian Reese Story">B.A.R.S. The Barry Adrian Reese Story</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 10 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/My_Drink_N_My_2_Step" title="My Drink N My 2 Step" class="mw-redirect">My Drink N My 2 Step</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></td>
+<td><i><a href="/wiki/American_Gangster_(album)" title="American Gangster (album)">American Gangster</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 1 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Blue_Magic_(song)" title="Blue Magic (song)">Blue Magic</a>", "<a href="/wiki/Roc_Boys" title="Roc Boys" class="mw-redirect">Roc Boys</a>", "<a href="/wiki/I_Know_(Jay-Z_song)" title="I Know (Jay-Z song)">I Know</a>"</li>
+<li>Certified Platinum</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1">November 12</td>
+<td><a href="/wiki/Noah23" title="Noah23">Noah23</a></td>
+<td><i>Cameo Therapy</i></td>
+<td>Legendary Entertainment, <a href="/wiki/Plague_Language" title="Plague Language" class="mw-redirect">Plague Language</a></td>
+<td></td>
+</tr>
+<tr>
+<td>November 20</td>
+<td><a href="/wiki/Freeway_(rapper)" title="Freeway (rapper)">Freeway</a></td>
+<td><i><a href="/wiki/Free_at_Last_(Freeway_album)" title="Free at Last (Freeway album)">Free at Last</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 42 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Lights_Get_Low" title="Lights Get Low" class="mw-redirect">Lights Get Low</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>November 27</td>
+<td><a href="/wiki/CunninLynguists" title="CunninLynguists">CunninLynguists</a></td>
+<td><i><a href="/wiki/Dirty_Acres" title="Dirty Acres">Dirty Acres</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Received massive press coverage, including Okayplayer.com's "Most Slept On Artist" award.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="5">December 4</td>
+<td><a href="/wiki/DJ_Drama" title="DJ Drama">DJ Drama</a></td>
+<td><i><a href="/wiki/Gangsta_Grillz:_The_Album" title="Gangsta Grillz: The Album">Gangsta Grillz: The Album</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 26 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/5000_Ones" title="5000 Ones">5000 Ones</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ghostface_Killah" title="Ghostface Killah">Ghostface Killah</a></td>
+<td><i><a href="/wiki/The_Big_Doe_Rehab" title="The Big Doe Rehab">The Big Doe Rehab</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 41 on The Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Scarface_(rapper)" title="Scarface (rapper)">Scarface</a></td>
+<td><i><a href="/wiki/Made_(Scarface_album)" title="Made (Scarface album)">Made</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 17 on The Billboard 200</li>
+<li>"<a href="/wiki/Girl_You_Know" title="Girl You Know" class="mw-redirect">Girl You Know</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Styles_P" title="Styles P">Styles P</a></td>
+<td><i><a href="/wiki/Super_Gangster_(Extraordinary_Gentleman)" title="Super Gangster (Extraordinary Gentleman)">Super Gangster (Extraordinary Gentleman)</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 52 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Blow_Ya_Mind" title="Blow Ya Mind">Blow Ya Mind</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Wyclef_Jean" title="Wyclef Jean">Wyclef Jean</a></td>
+<td><i><a href="/wiki/Carnival_Vol._II:_Memoirs_of_an_Immigrant" title="Carnival Vol. II: Memoirs of an Immigrant">Carnival Vol. II: Memoirs of an Immigrant</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 28 on The Billboard 200</li>
+<li>Singles: "<a href="/wiki/Sweetest_Girl_(Dollar_Bill)" title="Sweetest Girl (Dollar Bill)">Sweetest Girl (Dollar Bill)</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="4">December 11</td>
+<td><a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a></td>
+<td><i><a href="/wiki/The_Solution_(Beanie_Sigel_album)" title="The Solution (Beanie Sigel album)">The Solution</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 37 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/All_the_Above_(Beanie_Sigel_song)" title="All the Above (Beanie Sigel song)">All the Above</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Birdman_(rapper)" title="Birdman (rapper)">Birdman</a></td>
+<td><i><a href="/wiki/5_*_Stunna" title="5 * Stunna">5 * Stunna</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 18 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Pop_Bottles" title="Pop Bottles">Pop Bottles</a>", "<a href="/wiki/100_Million" title="100 Million">100 Million</a>", "<a href="/wiki/I_Run_This" title="I Run This">I Run This</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Gucci_Mane" title="Gucci Mane">Gucci Mane</a></td>
+<td><i><a href="/wiki/Back_to_the_Trap_House" title="Back to the Trap House">Back to the Trap House</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 32 at the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a></td>
+<td><i><a href="/wiki/8_Diagrams" title="8 Diagrams">8 Diagrams</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 25 at the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2">December 18</td>
+<td><a href="/wiki/Chingy" title="Chingy">Chingy</a></td>
+<td><i><a href="/wiki/Hate_It_or_Love_It_(album)" title="Hate It or Love It (album)">Hate It or Love It</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 84 at the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Fly_Like_Me" title="Fly Like Me">Fly Like Me</a>", "<a href="/wiki/Gimme_Dat" title="Gimme Dat">Gimme Dat</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Lupe_Fiasco" title="Lupe Fiasco">Lupe Fiasco</a></td>
+<td><i><a href="/wiki/Lupe_Fiasco%27s_The_Cool" title="Lupe Fiasco's The Cool">Lupe Fiasco's The Cool</a></i></td>
+<td></td>
+<td>
+<ul>
+<li>Debuted at No. 14 at the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Superstar" title="Superstar">Superstar</a>", "<a href="/wiki/Hip_Hop_Saved_My_Life" title="Hip Hop Saved My Life">Hip Hop Saved My Life</a>", "<a href="/wiki/Paris,_Tokyo" title="Paris, Tokyo">Paris, Tokyo</a>"</li>
+<li>Certified Gold</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Highest_first_week_sales">Highest first week sales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_in_hip_hop_music&amp;action=edit&amp;section=3" title="Edit section: Highest first week sales">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-globalize" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px;"><img alt="Globe icon." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" width="48" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" data-file-width="350" data-file-height="290" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">The examples and perspective in this section <b>may not represent a <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">worldwide view</a> of the subject</b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=2007_in_hip_hop_music&amp;action=edit">improve this article</a> and discuss the issue on the <a href="/wiki/Talk:2007_in_hip_hop_music" title="Talk:2007 in hip hop music">talk page</a>.</span> <small><i>(August 2011)</i></small></span></td>
+</tr>
+</table>
+<p>As of December 31, 2007.<sup id="cite_ref-Caulfield_1-0" class="reference"><a href="#cite_note-Caulfield-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-Caulfield_1-1" class="reference"><a href="#cite_note-Caulfield-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-Current_5-0" class="reference"><a href="#cite_note-Current-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<table class="wikitable">
+<tr>
+<th style="text-align:center;">Number</th>
+<th style="text-align:center;">Artist</th>
+<th style="text-align:center;">Album</th>
+<th style="text-align:center;">1st week sales</th>
+<th style="text-align:center;">1st week position</th>
+</tr>
+<tr>
+<th style="text-align:center;">1</th>
+<td style="text-align:center;"><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></td>
+<td style="text-align:center;"><i><a href="/wiki/Graduation_(album)" title="Graduation (album)">Graduation</a></i></td>
+<th style="text-align:center;">957,000</th>
+<td style="text-align:center;">#1</td>
+</tr>
+<tr>
+<th style="text-align:center;">2</th>
+<td style="text-align:center;"><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></td>
+<td style="text-align:center;"><i><a href="/wiki/Curtis_(50_Cent_Album)" title="Curtis (50 Cent Album)" class="mw-redirect">Curtis</a></i></td>
+<th style="text-align:center;">697,000</th>
+<td style="text-align:center;">#2</td>
+</tr>
+<tr>
+<th style="text-align:center;">3</th>
+<td style="text-align:center;"><a href="/wiki/T.I." title="T.I.">T.I.</a></td>
+<td style="text-align:center;"><i><a href="/wiki/T.I._vs._T.I.P." title="T.I. vs. T.I.P.">T.I. vs. T.I.P.</a></i></td>
+<th style="text-align:center;">468,000</th>
+<td style="text-align:center;">#1</td>
+</tr>
+<tr>
+<th style="text-align:center;">4</th>
+<td style="text-align:center;"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></td>
+<td style="text-align:center;"><i><a href="/wiki/American_Gangster_(album)" title="American Gangster (album)">American Gangster</a></i></td>
+<th style="text-align:center;">426,000</th>
+<td style="text-align:center;">#1</td>
+</tr>
+<tr>
+<th style="text-align:center;">5</th>
+<td style="text-align:center;"><a href="/wiki/Fabolous" title="Fabolous">Fabolous</a></td>
+<td style="text-align:center;"><i><a href="/wiki/From_Nothin%27_to_Somethin%27" title="From Nothin' to Somethin'">From Nothin' to Somethin'</a></i></td>
+<th style="text-align:center;">159,000</th>
+<td style="text-align:center;">#2</td>
+</tr>
+<tr>
+<th style="text-align:center;">6</th>
+<td style="text-align:center;"><a href="/wiki/Common_(rapper)" title="Common (rapper)">Common</a></td>
+<td style="text-align:center;"><i><a href="/wiki/Finding_Forever" title="Finding Forever">Finding Forever</a></i></td>
+<th style="text-align:center;">158,000</th>
+<td style="text-align:center;">#1</td>
+</tr>
+<tr>
+<th style="text-align:center;">7</th>
+<td style="text-align:center;"><a href="/wiki/Lupe_Fiasco" title="Lupe Fiasco">Lupe Fiasco</a></td>
+<td style="text-align:center;"><i><a href="/wiki/Lupe_Fiasco%27s_The_Cool" title="Lupe Fiasco's The Cool">The Cool</a></i></td>
+<th style="text-align:center;">143,000</th>
+<td style="text-align:center;">#14</td>
+</tr>
+<tr>
+<th style="text-align:center;">8</th>
+<td style="text-align:center;"><a href="/wiki/Young_Buck" title="Young Buck">Young Buck</a></td>
+<td style="text-align:center;"><i><a href="/wiki/Buck_the_World" title="Buck the World">Buck the World</a></i></td>
+<th style="text-align:center;">141,000</th>
+<td style="text-align:center;">#3</td>
+</tr>
+<tr>
+<th style="text-align:center;">9</th>
+<td style="text-align:center;"><a href="/wiki/Timbaland" title="Timbaland">Timbaland</a></td>
+<td style="text-align:center;"><i><a href="/wiki/Shock_Value_(Timbaland_album)" title="Shock Value (Timbaland album)">Shock Value</a></i></td>
+<th style="text-align:center;">138,000</th>
+<td style="text-align:center;">#1</td>
+</tr>
+<tr>
+<th style="text-align:center;">10</th>
+<td style="text-align:center;"><a href="/wiki/Bone_Thugs-N-Harmony" title="Bone Thugs-N-Harmony" class="mw-redirect">Bone Thugs-N-Harmony</a></td>
+<td style="text-align:center;"><i><a href="/wiki/Strength_%26_Loyalty" title="Strength &amp; Loyalty">Strength &amp; Loyalty</a></i></td>
+<th style="text-align:center;">119,000</th>
+<td style="text-align:center;">#2</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Highest_critically_reviewed_albums_.28Metacritic.29">Highest critically reviewed albums (Metacritic)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_in_hip_hop_music&amp;action=edit&amp;section=4" title="Edit section: Highest critically reviewed albums (Metacritic)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align:center;">
+<tr>
+<th scope="col">Number</th>
+<th scope="col">Album</th>
+<th scope="col">Artist</th>
+<th scope="col">Average score</th>
+<th scope="col">Number of reviews</th>
+<th scope="col">Reference</th>
+</tr>
+<tr>
+<th scope="row">1</th>
+<td><i><a href="/wiki/Kala_(album)" title="Kala (album)">Kala</a></i></td>
+<td><a href="/wiki/M.I.A._(artist)" title="M.I.A. (artist)" class="mw-redirect">M.I.A.</a></td>
+<td>87</td>
+<td>37 reviews</td>
+<td><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">2</th>
+<td><i><a href="/wiki/American_Gangster_(album)" title="American Gangster (album)">American Gangster</a></i></td>
+<td><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></td>
+<td>83</td>
+<td>25 reviews</td>
+<td><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">3</th>
+<td><i><a href="/wiki/I%27ll_Sleep_When_You%27re_Dead" title="I'll Sleep When You're Dead">I'll Sleep When You're Dead</a></i></td>
+<td><a href="/wiki/El-P" title="El-P">El-P</a></td>
+<td>80</td>
+<td>32 reviews</td>
+<td><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">4</th>
+<td><i><a href="/wiki/Made_(album)" title="Made (album)" class="mw-redirect">Made</a></i></td>
+<td><a href="/wiki/Scarface_(rapper)" title="Scarface (rapper)">Scarface</a></td>
+<td>80</td>
+<td>7 reviews</td>
+<td><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">5</th>
+<td><i><a href="/wiki/Graduation_(album)" title="Graduation (album)">Graduation</a></i></td>
+<td><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></td>
+<td>79</td>
+<td>32 reviews</td>
+<td><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">6</th>
+<td><i><a href="/wiki/Desire_(Pharoahe_Monch_album)" title="Desire (Pharoahe Monch album)">Desire</a></i></td>
+<td><a href="/wiki/Pharoahe_Monch" title="Pharoahe Monch">Pharoahe Monch</a></td>
+<td>79</td>
+<td>12 reviews</td>
+<td><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">7</th>
+<td><i><a href="/wiki/Red_Gone_Wild:_Thee_Album" title="Red Gone Wild: Thee Album">Red Gone Wild: Thee Album</a></i></td>
+<td><a href="/wiki/Redman_(rapper)" title="Redman (rapper)">Redman</a></td>
+<td>79</td>
+<td>8 reviews</td>
+<td><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">8</th>
+<td><i><a href="/wiki/Maths_%2B_English" title="Maths + English">Maths + English</a></i></td>
+<td><a href="/wiki/Dizzee_Rascal" title="Dizzee Rascal">Dizzee Rascal</a></td>
+<td>78</td>
+<td>19 reviews</td>
+<td><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">9</th>
+<td><i><a href="/wiki/Lupe_Fiasco%27s_The_Cool" title="Lupe Fiasco's The Cool">The Cool</a></i></td>
+<td><a href="/wiki/Lupe_Fiasco" title="Lupe Fiasco">Lupe Fiasco</a></td>
+<td>77</td>
+<td>30 reviews</td>
+<td><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">10</th>
+<td><i><a href="/wiki/The_Big_Doe_Rehab" title="The Big Doe Rehab">The Big Doe Rehab</a></i></td>
+<td><a href="/wiki/Ghostface_Killah" title="Ghostface Killah">Ghostface Killah</a></td>
+<td>77</td>
+<td>29 reviews</td>
+<td><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_in_hip_hop_music&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Previous article: <a href="/wiki/2006_in_hip_hop_music" title="2006 in hip hop music">2006 in hip hop music</a></li>
+<li>Next article: <a href="/wiki/2008_in_hip_hop_music" title="2008 in hip hop music">2008 in hip hop music</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_in_hip_hop_music&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Caulfield-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Caulfield_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Caulfield_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Caulfield, Keith. <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/957659/drake-debuts-at-no-1-on-billboard-200">Drake Debuts At No. 1 On Billboard 200</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. Retrieved on 2010-06-23.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web">Caulfield, Keith (June 30, 2010). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/957567/eminems-recovery-explodes-at-no-1-on-billboard-200-with-741000">"Eminem's 'Recovery' Explodes At No. 1 on Billboard 200 With 741,000"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20100701232735/http://www.billboard.com/articles/news/957567/eminems-recovery-explodes-at-no-1-on-billboard-200-with-741000">Archived</a> from the original on 1 July 2010<span class="reference-accessdate">. Retrieved June 30, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+in+hip+hop+music&amp;rft.atitle=Eminem%27s+%27Recovery%27+Explodes+At+No.+1+on+Billboard+200+With+741%2C000&amp;rft.au=Caulfield%2C+Keith&amp;rft.aufirst=Keith&amp;rft.aulast=Caulfield&amp;rft.date=June+30%2C+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F957567%2Feminems-recovery-explodes-at-no-1-on-billboard-200-with-741000&amp;rft.jtitle=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/articles/news/958939/ludacris-lands-fourth-no-1-album-with-battle-of-the-sexes">http://www.billboard.com/articles/news/958939/ludacris-lands-fourth-no-1-album-with-battle-of-the-sexes</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Caulfield, Keith. <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/957565/eminems-huge-recovery-leads-big-week-on-billboard-200">Eminem's Huge 'Recovery' Leads Big Week On Billboard 200</a>. <i>Billboard</i>. Retrieved on 2010-06-30.</span></li>
+<li id="cite_note-Current-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Current_5-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://current.com/entertainment/music/92367519_wu-massacre-and-e-40-chart-with-albums.htm">Wu Massacre and E-40 Chart with Albums</a>. Current.com. Retrieved on 2010-04-08.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.hitsdailydouble.com/sales/salescht.cgi">http://www.hitsdailydouble.com/sales/salescht.cgi</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.mtv.com/news/articles/1654337/20101215/t_i_.jhtml">http://www.mtv.com/news/articles/1654337/20101215/t_i_.jhtml</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/kala/mia">http://www.metacritic.com/music/kala/mia</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/american-gangster/jay-z">http://www.metacritic.com/music/american-gangster/jay-z</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/ill-sleep-when-youre-dead/el-p">http://www.metacritic.com/music/ill-sleep-when-youre-dead/el-p</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/made/scarface">http://www.metacritic.com/music/made/scarface</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/graduation/kanye-west">http://www.metacritic.com/music/graduation/kanye-west</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/desire/pharoahe-monch">http://www.metacritic.com/music/desire/pharoahe-monch</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/red-gone-wild-thee-album/redman">http://www.metacritic.com/music/red-gone-wild-thee-album/redman</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/maths-+-english/dizzee-rascal">http://www.metacritic.com/music/maths-+-english/dizzee-rascal</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/the-cool/lupe-fiasco">http://www.metacritic.com/music/the-cool/lupe-fiasco</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/the-big-doe-rehab/ghostface-killah">http://www.metacritic.com/music/the-big-doe-rehab/ghostface-killah</a></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1113
+CPU time usage: 1.012 seconds
+Real time usage: 1.072 seconds
+Preprocessor visited node count: 691/1000000
+Preprocessor generated node count: 5208/1500000
+Post‐expand include size: 8971/2048000 bytes
+Template argument size: 681/2048000 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 3/500
+Lua time usage: 0.068/10.000 seconds
+Lua memory usage: 1.24 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11169458-0!*!0!!en!4!* and timestamp 20140615110113 and revision id 612998612
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=2007_in_hip_hop_music&amp;oldid=612998612">http://en.wikipedia.org/w/index.php?title=2007_in_hip_hop_music&amp;oldid=612998612</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2000s_in_hip_hop_music" title="Category:2000s in hip hop music">2000s in hip hop music</a></li><li><a href="/wiki/Category:2007_in_music" title="Category:2007 in music">2007 in music</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_limited_geographic_scope_from_August_2011" title="Category:Articles with limited geographic scope from August 2011">Articles with limited geographic scope from August 2011</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2007+in+hip+hop+music&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2007+in+hip+hop+music" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/2007_in_hip_hop_music"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:2007_in_hip_hop_music"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/2007_in_hip_hop_music" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=2007_in_hip_hop_music&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=2007_in_hip_hop_music&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/2007_in_hip_hop_music" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/2007_in_hip_hop_music" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=2007_in_hip_hop_music&amp;oldid=612998612" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=2007_in_hip_hop_music&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4609803" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=2007_in_hip_hop_music&amp;id=612998612" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=2007+in+hip+hop+music">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=2007+in+hip+hop+music&amp;oldid=612998612&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=2007_in_hip_hop_music&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q4609803#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 June 2014 at 11:01.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/2007_in_hip_hop_music" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":247,"wgHostname":"mw1062"});
+}</script>
+	</body>
+</html>
+	

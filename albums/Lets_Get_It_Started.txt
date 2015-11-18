@@ -1,0 +1,1257 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Let's Get It Started - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Let%27s_Get_It_Started" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Let%27s_Get_It_Started" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Let's_Get_It_Started","wgTitle":"Let's Get It Started","wgCurRevisionId":610482703,"wgRevisionId":610482703,"wgArticleId":1601775,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cite certification used with missing parameters","Singlechart usages for Australia","Singlechart usages for Austria","Singlechart usages for Flanders","Singlechart usages for Wallonia","Singlechart usages for Canada","Singlechart called without song","Singlechart usages for Czech Republic","Singlechart called without artist","Singlechart usages for Denmark","Singlechart usages for France","Singlechart usages for Germany","Singlechart usages for Hungarydance","Singlechart usages for Italy","Singlechart usages for Dutch40","Singlechart usages for New Zealand","Singlechart usages for Swiss","Singlechart usages for UKchartstats","Singlechart usages for Billboardhot100","Singlechart usages for Billboardpopsongs","Singlechart usages for Billboardadultpopsongs","Certification Table Entry usages for Australia","Singles certified platinum by the Australian Recording Industry Association","Certification Table Entry usages for New Zealand","Singles certified gold by Recorded Music NZ","Certification Table Entry usages for United States","Singles certified triple platinum by the Recording Industry Association of America","2003 songs","2004 singles","National Basketball Association music","ABC Sports","Music videos directed by Francis Lawrence","Songs written by will.i.am","The Black Eyed Peas songs","Singles certified gold by the Recording Industry Association of America","Interscope Records singles"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Let's_Get_It_Started","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["pl","ca","en","en-us","es"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2568910"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Let_s_Get_It_Started skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Let's Get It Started</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the <a href="/wiki/The_Black_Eyed_Peas" title="The Black Eyed Peas">The Black Eyed Peas</a> song.  For the <a href="/wiki/MC_Hammer" title="MC Hammer">MC Hammer</a> song &amp; album, see <a href="/wiki/Let%27s_Get_It_Started_(album)" title="Let's Get It Started (album)">Let's Get It Started (album)</a>.</div>
+<table class="infobox vevent" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;background-color:#F0E68C;">"Let's Get It Started"</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:LetsGetItStarted.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9f/LetsGetItStarted.jpg/220px-LetsGetItStarted.jpg" width="220" height="201" srcset="//upload.wikimedia.org/wikipedia/en/9/9f/LetsGetItStarted.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/9/9f/LetsGetItStarted.jpg 2x" data-file-width="300" data-file-height="274" /></a></td>
+</tr>
+<tr class="description">
+<th colspan="2" class="description" style="text-align:center;background-color:#F0E68C;"><a href="/wiki/Single_(music)" title="Single (music)">Single</a>&#160;by <a href="/wiki/The_Black_Eyed_Peas" title="The Black Eyed Peas">The Black Eyed Peas</a></th>
+</tr>
+<tr class="description">
+<th colspan="2" class="description" style="text-align:center;background-color:#F0E68C;">from the album <i><a href="/wiki/Elephunk" title="Elephunk">Elephunk</a></i></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td>June 22, 2004</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Format</th>
+<td><a href="/wiki/CD_single" title="CD single">CD single</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>2002</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a>, <a href="/wiki/Funk" title="Funk">funk</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>3:39 <small>(Radio Edit/"Spike" Mix)</small><br />
+3:35 <small>("Let's Get Retarded")</small><br />
+7:32 <small>(Bonus Track Album Version)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/A%26M_Records" title="A&amp;M Records">A&amp;M</a>, <a href="/wiki/Will.i.am_Music_Group" title="Will.i.am Music Group">will.i.am</a>, <a href="/wiki/Interscope_Records" title="Interscope Records">Interscope</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><span style="white-space: nowrap;"><a href="/wiki/Songwriter" title="Songwriter">Writer(s)</a></span></th>
+<td><a href="/wiki/Will.i.am" title="Will.i.am">William Adams</a>, <a href="/wiki/Apl.de.ap" title="Apl.de.ap">Allan Pineda</a>, <a href="/wiki/Taboo_(rapper)" title="Taboo (rapper)">Jaime Gomez</a>, Terence Yoshiaki, Michael Fratantuno, George Pajon, Jr.</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><span style="white-space: nowrap;"><a href="/wiki/Record_producer" title="Record producer">Producer(s)</a></span></th>
+<td><a href="/wiki/Will.i.am" title="Will.i.am">will.i.am</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color:#F0E68C;"><a href="/wiki/The_Black_Eyed_Peas" title="The Black Eyed Peas">The Black Eyed Peas</a> singles chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width:33%; padding:.2em .1em .2em 0">"<a href="/wiki/Hey_Mama_(The_Black_Eyed_Peas_song)" title="Hey Mama (The Black Eyed Peas song)">Hey Mama</a>"<br />
+(2004)</td>
+<td style="width:33%; padding:.2em .1em">"<b>Let's Get It Started</b>"<br />
+(2004)</td>
+<td style="width:33%; padding:.2em 0 .2em .1em">"<a href="/wiki/Don%27t_Phunk_with_My_Heart" title="Don't Phunk with My Heart">Don't Phunk with My Heart</a>"<br />
+(2005)</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>"<b>Let's Get It Started</b>" is a song by American hip hop group <a href="/wiki/The_Black_Eyed_Peas" title="The Black Eyed Peas">The Black Eyed Peas</a>, released as a single in <a href="/wiki/2004_in_radio" title="2004 in radio">2004</a>. The track was the fourth single released from the band's 2003 album <i><a href="/wiki/Elephunk" title="Elephunk">Elephunk</a></i>, and originally appeared on the album under the title "<b>Let's Get Retarded</b>". This version was included as a bonus track on the 2004 re-issue of the album.</p>
+<p>The album version was originally only re-worked for its use in promotion for the <a href="/wiki/2004_NBA_Playoffs" title="2004 NBA Playoffs">2004 NBA Playoffs</a> on <a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a> in April 2004,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> however the new version was so well-received that it was later given an official single release two months later.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> The song was later included on the soundtrack for the 2006 romantic comedy <i><a href="/wiki/It%27s_a_Boy_Girl_Thing" title="It's a Boy Girl Thing">It's a Boy Girl Thing</a></i>, the 2004 comedy <i><a href="/wiki/Harold_%26_Kumar_Go_to_White_Castle" title="Harold &amp; Kumar Go to White Castle">Harold &amp; Kumar Go to White Castle</a></i> and the 2010 comedy <i><a href="/wiki/Hot_Tub_Time_Machine" title="Hot Tub Time Machine">Hot Tub Time Machine</a></i>. The song is featured during the opening credits of the 2004 motion picture <i><a href="/wiki/Barbershop_2:_Back_in_Business" title="Barbershop 2: Back in Business">Barbershop 2: Back in Business</a></i> (although it is not included in <a href="/wiki/Barbershop_2:_Back_in_Business_(soundtrack)" title="Barbershop 2: Back in Business (soundtrack)">the film's soundtrack album</a>). It was featured in the film <i><a href="/wiki/White_Chicks" title="White Chicks">White Chicks</a></i>. It was used in UK advertisements for the game <i><a href="/wiki/The_Urbz:_Sims_in_the_City" title="The Urbz: Sims in the City">The Urbz: Sims in the City</a></i>. The song was remixed for The Black Eyed Peas' fifth studio album <i><a href="/wiki/The_E.N.D." title="The E.N.D." class="mw-redirect">The E.N.D.</a></i> as "Let's Get Re-Started", it was also featured on their remix album <i><a href="/wiki/The_E.N.D._Summer_2010_Canadian_Invasion_Tour:_Remix_Collection" title="The E.N.D. Summer 2010 Canadian Invasion Tour: Remix Collection" class="mw-redirect">The E.N.D. Summer 2010 Canadian Invasion Tour: Remix Collection</a></i> The chorus was performed by <a href="/wiki/%22Weird_Al%22_Yankovic" title="&quot;Weird Al&quot; Yankovic">"Weird Al" Yankovic</a> in his polka medley "<a href="/wiki/Polkarama" title="Polkarama" class="mw-redirect">Polkarama</a>" from his 2006 album <i><a href="/wiki/Straight_Outta_Lynwood" title="Straight Outta Lynwood">Straight Outta Lynwood</a></i>.</p>
+<p>"Let's Get It Started" won <a href="/wiki/Grammy_Award_for_Best_Rap_Performance_by_a_Duo_or_Group" title="Grammy Award for Best Rap Performance by a Duo or Group">Best Rap Performance by a Duo or Group</a> at the <a href="/wiki/2005_Grammy_Awards" title="2005 Grammy Awards" class="mw-redirect">2005 Grammy Awards</a>, and was also nominated for <a href="/wiki/Grammy_Award_for_Record_of_the_Year" title="Grammy Award for Record of the Year">Record of the Year</a> and <a href="/wiki/Grammy_Award_for_Best_Rap_Song" title="Grammy Award for Best Rap Song">Best Rap Song</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Music_video"><span class="tocnumber">1</span> <span class="toctext">Music video</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Chart_performance"><span class="tocnumber">2</span> <span class="toctext">Chart performance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Charts_and_certifications"><span class="tocnumber">3</span> <span class="toctext">Charts and certifications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Weekly_charts"><span class="tocnumber">3.1</span> <span class="toctext">Weekly charts</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Certifications"><span class="tocnumber">3.2</span> <span class="toctext">Certifications</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Track_listing"><span class="tocnumber">4</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Official_versions"><span class="tocnumber">5</span> <span class="toctext">Official versions</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Personnel"><span class="tocnumber">6</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Music_video">Music video</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=edit&amp;section=1" title="Edit section: Music video">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The music video takes place in a nighttime setting in an urban area. It features The Black Eyed Peas, particularly <a href="/wiki/Will.i.am" title="Will.i.am">will.i.am</a>, performing energetic dances while singing the song, while varying objects in the background (including a grand piano) smash against the ground in real-time, slow and fast motion, and in reverse. The choruses feature the band on stage singing to a large crowd.</p>
+<h2><span class="mw-headline" id="Chart_performance">Chart performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=edit&amp;section=2" title="Edit section: Chart performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Let's Get It Started" was the first song to sell 500,000 downloads in the United States meaning that it was once the best-selling digital song of all time. "Let's Get It Started" has sold 3,058,195 copies as of October 2012.</p>
+<p>The video went to #34 on "MuchMusic's 50 Most Controversial Videos" for its original song title.</p>
+<h2><span class="mw-headline" id="Charts_and_certifications">Charts and certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=edit&amp;section=3" title="Edit section: Charts and certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Weekly_charts">Weekly charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=edit&amp;section=4" title="Edit section: Weekly charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th>Chart (2004–05)</th>
+<th>Peak<br />
+position</th>
+</tr>
+<tr>
+<td>Australia (<a href="/wiki/ARIA_Charts" title="ARIA Charts">ARIA</a>)<sup id="cite_ref-sc_Australia_The_Black_Eyed_Peas_3-0" class="reference"><a href="#cite_note-sc_Australia_The_Black_Eyed_Peas-3"><span>[</span>3<span>]</span></a></sup></td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td>Austria (<a href="/wiki/%C3%963_Austria_Top_40" title="Ö3 Austria Top 40">Ö3 Austria Top 40</a>)<sup id="cite_ref-sc_Austria_The_Black_Eyed_Peas_4-0" class="reference"><a href="#cite_note-sc_Austria_The_Black_Eyed_Peas-4"><span>[</span>4<span>]</span></a></sup></td>
+<td align="center">18</td>
+</tr>
+<tr>
+<td>Belgium (<a href="/wiki/Ultratop" title="Ultratop">Ultratop 50</a> Flanders)<sup id="cite_ref-sc_Flanders_The_Black_Eyed_Peas_5-0" class="reference"><a href="#cite_note-sc_Flanders_The_Black_Eyed_Peas-5"><span>[</span>5<span>]</span></a></sup></td>
+<td align="center">22</td>
+</tr>
+<tr>
+<td>Belgium (<a href="/wiki/Ultratop" title="Ultratop">Ultratop 50</a> Wallonia)<sup id="cite_ref-sc_Wallonia_The_Black_Eyed_Peas_6-0" class="reference"><a href="#cite_note-sc_Wallonia_The_Black_Eyed_Peas-6"><span>[</span>6<span>]</span></a></sup></td>
+<td align="center">24</td>
+</tr>
+<tr>
+<td><a href="/wiki/Brasil_Hot_100_Airplay" title="Brasil Hot 100 Airplay">Brazil Hot 100 Airplay</a><sup id="cite_ref-BBR_7-0" class="reference"><a href="#cite_note-BBR-7"><span>[</span>7<span>]</span></a></sup></td>
+<td align="center">10</td>
+</tr>
+<tr>
+<td>Canada (<a href="/wiki/Canadian_Hot_100" title="Canadian Hot 100">Canadian Hot 100</a>)<sup id="cite_ref-sc_Canada_Black_Eyed_Peas_8-0" class="reference"><a href="#cite_note-sc_Canada_Black_Eyed_Peas-8"><span>[</span>8<span>]</span></a></sup></td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td>Czech Republic (<a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">IFPI</a>)<sup id="cite_ref-sc_Czech_Republic__9-0" class="reference"><a href="#cite_note-sc_Czech_Republic_-9"><span>[</span>9<span>]</span></a></sup></td>
+<td align="center">7</td>
+</tr>
+<tr>
+<td>Denmark (<a href="/wiki/Tracklisten" title="Tracklisten">Tracklisten</a>)<sup id="cite_ref-sc_Denmark_The_Black_Eyed_Peas_10-0" class="reference"><a href="#cite_note-sc_Denmark_The_Black_Eyed_Peas-10"><span>[</span>10<span>]</span></a></sup></td>
+<td align="center">17</td>
+</tr>
+<tr>
+<td>France (<a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">SNEP</a>)<sup id="cite_ref-sc_France_The_Black_Eyed_Peas_11-0" class="reference"><a href="#cite_note-sc_France_The_Black_Eyed_Peas-11"><span>[</span>11<span>]</span></a></sup></td>
+<td align="center">7</td>
+</tr>
+<tr>
+<td>Germany (<a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control AG</a>)<sup id="cite_ref-sc_Germany_Black_Eyed_Peas_12-0" class="reference"><a href="#cite_note-sc_Germany_Black_Eyed_Peas-12"><span>[</span>12<span>]</span></a></sup></td>
+<td align="center">18</td>
+</tr>
+<tr>
+<td>Hungary (<a href="/wiki/Mahasz" title="Mahasz" class="mw-redirect">Dance Top 40</a>)<sup id="cite_ref-sc_Hungarydance__13-0" class="reference"><a href="#cite_note-sc_Hungarydance_-13"><span>[</span>13<span>]</span></a></sup></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td>Italy (<a href="/wiki/Federazione_Industria_Musicale_Italiana" title="Federazione Industria Musicale Italiana">FIMI</a>)<sup id="cite_ref-sc_Italy_The_Black_Eyed_Peas_14-0" class="reference"><a href="#cite_note-sc_Italy_The_Black_Eyed_Peas-14"><span>[</span>14<span>]</span></a></sup></td>
+<td align="center">12</td>
+</tr>
+<tr>
+<td>Netherlands (<a href="/wiki/Dutch_Top_40" title="Dutch Top 40">Dutch Top 40</a>)<sup id="cite_ref-sc_Dutch40__15-0" class="reference"><a href="#cite_note-sc_Dutch40_-15"><span>[</span>15<span>]</span></a></sup></td>
+<td align="center">11</td>
+</tr>
+<tr>
+<td>New Zealand (<a href="/wiki/Recorded_Music_NZ" title="Recorded Music NZ">Recorded Music NZ</a>)<sup id="cite_ref-sc_New_Zealand_The_Black_Eyed_Peas_16-0" class="reference"><a href="#cite_note-sc_New_Zealand_The_Black_Eyed_Peas-16"><span>[</span>16<span>]</span></a></sup></td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td>Switzerland (<a href="/wiki/Swiss_Hitparade" title="Swiss Hitparade">Schweizer Hitparade</a>)<sup id="cite_ref-sc_Swiss_The_Black_Eyed_Peas_17-0" class="reference"><a href="#cite_note-sc_Swiss_The_Black_Eyed_Peas-17"><span>[</span>17<span>]</span></a></sup></td>
+<td align="center">13</td>
+</tr>
+<tr>
+<td>UK Singles (<a href="/wiki/UK_Singles_Chart" title="UK Singles Chart">Official Charts Company</a>)<sup id="cite_ref-sc_UKchartstats_Black_Eyed_Peas_18-0" class="reference"><a href="#cite_note-sc_UKchartstats_Black_Eyed_Peas-18"><span>[</span>18<span>]</span></a></sup></td>
+<td align="center">11</td>
+</tr>
+<tr>
+<td>US <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Hot 100</a><sup id="cite_ref-sc_Billboardhot100_Black_Eyed_Peas_19-0" class="reference"><a href="#cite_note-sc_Billboardhot100_Black_Eyed_Peas-19"><span>[</span>19<span>]</span></a></sup></td>
+<td align="center">21</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Mainstream_Top_40" title="Mainstream Top 40">Mainstream Top 40</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-sc_Billboardpopsongs_Black_Eyed_Peas_20-0" class="reference"><a href="#cite_note-sc_Billboardpopsongs_Black_Eyed_Peas-20"><span>[</span>20<span>]</span></a></sup></td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Adult_Top_40" title="Adult Top 40">Adult Top 40</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-sc_Billboardadultpopsongs_Black_Eyed_Peas_21-0" class="reference"><a href="#cite_note-sc_Billboardadultpopsongs_Black_Eyed_Peas-21"><span>[</span>21<span>]</span></a></sup></td>
+<td align="center">29</td>
+</tr>
+</table>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Certifications">Certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=edit&amp;section=5" title="Edit section: Certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable plainrowheaders">
+<tr>
+<th scope="col">Region</th>
+<th scope="col">Certification</th>
+<th scope="col" data-sort-type="number"><a href="/wiki/List_of_music_recording_certifications" title="List of music recording certifications">Sales/shipments</a></th>
+</tr>
+<tr>
+<th scope="row">Australia (<a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">ARIA</a>)<sup id="cite_ref-AustraliaThe_Black_Eyed_PeasLet.27s_Get_It_StartedsingleCertRef_22-0" class="reference"><a href="#cite_note-AustraliaThe_Black_Eyed_PeasLet.27s_Get_It_StartedsingleCertRef-22"><span>[</span>22<span>]</span></a></sup></th>
+<td>Platinum</td>
+<td>70,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">New Zealand (<a href="/wiki/Recorded_Music_NZ" title="Recorded Music NZ">RMNZ</a>)<sup id="cite_ref-New_ZealandThe_Black_Eyed_PeasLet.27s_Get_It_StartedsingleCertRef_23-0" class="reference"><a href="#cite_note-New_ZealandThe_Black_Eyed_PeasLet.27s_Get_It_StartedsingleCertRef-23"><span>[</span>23<span>]</span></a></sup></th>
+<td>Gold</td>
+<td>7,500<sup>*</sup></td>
+</tr>
+<tr>
+<th scope="row">United States (<a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a>)<sup id="cite_ref-United_StatesThe_Black_Eyed_PeasLet.27s_Get_It_StartedsingleCertRef_24-0" class="reference"><a href="#cite_note-United_StatesThe_Black_Eyed_PeasLet.27s_Get_It_StartedsingleCertRef-24"><span>[</span>24<span>]</span></a></sup></th>
+<td>3× Platinum</td>
+<td>3,097,000<sup>^</sup></td>
+</tr>
+<tr class="sortbottom">
+<td colspan="3">
+<center>
+<p><small><sup>*</sup>sales figures based on certification alone</small><br />
+<small><sup>^</sup>shipments figures based on certification alone</small><br />
+<small><sup>x</sup>unspecified figures based on certification alone</small></p>
+</center>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=edit&amp;section=6" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>CD single</dt>
+</dl>
+<ol>
+<li>"Let's Get It Started"</li>
+<li>"Let's Get It Started" <small>(Party Mix)</small></li>
+<li>"Let's Get It Started" <small>(Spike Mix)</small></li>
+</ol>
+<dl>
+<dt><a href="/wiki/The_Urbz:_Sims_in_the_City" title="The Urbz: Sims in the City">The Urbz</a> Edition – EP</dt>
+</dl>
+<ol>
+<li>"Let's Get It Started" <small>(Spike Mix)</small> – 3:39</li>
+<li>"Ga Ra Ta Da" <small>(<a href="/wiki/Simlish" title="Simlish">Simlish</a> version)</small> – 3:28</li>
+<li>"The Sticky" – 4:39</li>
+<li>"Friddy Dope" <small>(Simlish version)</small> – 3:46</li>
+</ol>
+<dl>
+<dt>UK single</dt>
+</dl>
+<ol>
+<li>"Let's Get It Started"</li>
+<li>"Bridging The Gaps"</li>
+<li>"Let's Get It Started" (Enhanced music video)</li>
+</ol>
+<h2><span class="mw-headline" id="Official_versions">Official versions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=edit&amp;section=7" title="Edit section: Official versions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>"Let's Get It Started" (Current Version)</li>
+<li>"Let's Get It Started" (Radio Edit)</li>
+<li>"Let's Get It Started" (Party Mix)</li>
+<li>"Let's Get It Started" (Spike Mix)</li>
+</ul>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=edit&amp;section=8" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width: 33.33%;" align="left" valign="top">
+<dl>
+<dt>The Black Eyed Peas</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Will.i.am" title="Will.i.am">will.i.am</a> – <a href="/wiki/Singing" title="Singing">vocals</a>, <a href="/wiki/Record_producer" title="Record producer">production</a>, <a href="/wiki/Audio_engineering" title="Audio engineering" class="mw-redirect">engineering</a></li>
+<li><a href="/wiki/Apl.de.ap" title="Apl.de.ap">apl.de.ap</a> – vocals</li>
+<li><a href="/wiki/Fergie_(singer)" title="Fergie (singer)">Fergie</a> – vocals</li>
+<li><a href="/wiki/Taboo_(rapper)" title="Taboo (rapper)">Taboo</a> – vocals</li>
+</ul>
+</td>
+<td style="width: 33.33%;" align="left" valign="top">
+<dl>
+<dt>Additional musicians</dt>
+</dl>
+<ul>
+<li>George Pajon, Jr. – <a href="/wiki/Guitar" title="Guitar">guitar</a></li>
+<li>Mike Fratantuno – <a href="/wiki/Bass_guitar" title="Bass guitar">bass</a></li>
+<li>Terence Yoshiaki – <a href="/wiki/Drum_kit" title="Drum kit">drums</a></li>
+<li>Dante Santiago – <a href="/wiki/Backing_vocalist" title="Backing vocalist">backing vocals</a></li>
+</ul>
+</td>
+<td style="width: 33.33%;" align="left" valign="top">
+<dl>
+<dt>Production personnel</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Ron_Fair" title="Ron Fair">Ron Fair</a> – <a href="/wiki/Executive_producer" title="Executive producer">executive production</a></li>
+<li>Dylan Dresdow – additional vocal engineering</li>
+<li><a href="/wiki/Tony_Maserati" title="Tony Maserati">Tony Maserati</a> – <a href="/wiki/Audio_mixing_(recorded_music)" title="Audio mixing (recorded music)">mixing</a></li>
+<li><a href="/wiki/Brian_Gardner" title="Brian Gardner">Brian Gardner</a> – <a href="/wiki/Audio_mastering" title="Audio mastering">mastering</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1486187/black-eyed-peas-rework-song-nba-ads.jhtml">"For The Record: Quick News On Black Eyed Peas, Xzibit, Nickelback, Nelly Furtado, The Roots, Danger Mouse &amp; More"</a>. MTV. 5 April 2004<span class="reference-accessdate">. Retrieved 11 December 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALet%27s+Get+It+Started&amp;rft.btitle=For+The+Record%3A+Quick+News+On+Black+Eyed+Peas%2C+Xzibit%2C+Nickelback%2C+Nelly+Furtado%2C+The+Roots%2C+Danger+Mouse+%26+More&amp;rft.date=5+April+2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1486187%2Fblack-eyed-peas-rework-song-nba-ads.jhtml&amp;rft.pub=MTV&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1487022/black-eyed-peas-collaborating-with-darkness.jhtml">"Black Eyed Peas To Make Their Own 'Walk This Way' — With The Darkness"</a>. MTV. 14 May 2004<span class="reference-accessdate">. Retrieved 11 December 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALet%27s+Get+It+Started&amp;rft.btitle=Black+Eyed+Peas+To+Make+Their+Own+%27Walk+This+Way%27+%E2%80%94+With+The+Darkness&amp;rft.date=14+May+2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1487022%2Fblack-eyed-peas-collaborating-with-darkness.jhtml&amp;rft.pub=MTV&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-sc_Australia_The_Black_Eyed_Peas-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Australia_The_Black_Eyed_Peas_3-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.australian-charts.com/showitem.asp?interpret=The+Black+Eyed+Peas&amp;titel=Let%27s+Get+It+Started&amp;cat=s">Australian-charts.com – The Black Eyed Peas – Let's Get It Started"</a>. <a href="/wiki/ARIA_Charts" title="ARIA Charts">ARIA Top 50 Singles</a>.</span></li>
+<li id="cite_note-sc_Austria_The_Black_Eyed_Peas-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Austria_The_Black_Eyed_Peas_4-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.austriancharts.at/showitem.asp?interpret=The+Black+Eyed+Peas&amp;titel=Let%27s+Get+It+Started&amp;cat=s">The Black Eyed Peas – Let's Get It Started – Austriancharts.at"</a> (in German). <a href="/wiki/%C3%963_Austria_Top_40" title="Ö3 Austria Top 40">Ö3 Austria Top 40</a>.</span></li>
+<li id="cite_note-sc_Flanders_The_Black_Eyed_Peas-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Flanders_The_Black_Eyed_Peas_5-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.ultratop.be/nl/showitem.asp?interpret=The+Black+Eyed+Peas&amp;titel=Let%27s+Get+It+Started&amp;cat=s">Ultratop.be – The Black Eyed Peas – Let's Get It Started"</a> (in Dutch). <a href="/wiki/Ultratop" title="Ultratop">Ultratop 50</a>.</span></li>
+<li id="cite_note-sc_Wallonia_The_Black_Eyed_Peas-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Wallonia_The_Black_Eyed_Peas_6-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.ultratop.be/fr/showitem.asp?interpret=The+Black+Eyed+Peas&amp;titel=Let%27s+Get+It+Started&amp;cat=s">Ultratop.be – The Black Eyed Peas – Let's Get It Started"</a> (in French). <a href="/wiki/Ultratop" title="Ultratop">Ultratop 50</a>.</span></li>
+<li id="cite_note-BBR-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-BBR_7-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.br.com/pt-br">"billboard"</a>. <a href="/wiki/Billboard_Brasil" title="Billboard Brasil">Billboard Brasil</a><span class="reference-accessdate">. Retrieved September 8, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALet%27s+Get+It+Started&amp;rft.btitle=billboard&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.billboard.br.com%2Fpt-br&amp;rft.pub=Billboard+Brasil&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-sc_Canada_Black_Eyed_Peas-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Canada_Black_Eyed_Peas_8-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/"><b>Illegal name entered <i>Black Eyed Peas</i></b>/Black+Eyed+Peas/chart?f=793 Black Eyed Peas Album &amp; Song Chart History"</a> <a href="/wiki/Canadian_Hot_100" title="Canadian Hot 100">Canadian Hot 100</a> for Black Eyed Peas.</span></li>
+<li id="cite_note-sc_Czech_Republic_-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Czech_Republic_9-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.ifpicr.cz/hitparada/index.php?hitp=R">ČNS IFPI"</a> (in Czech). Hitparáda – Radio Top100 Oficiální. IFPI Czech Republic. <i>Note: insert 201244 into search</i>.</span></li>
+<li id="cite_note-sc_Denmark_The_Black_Eyed_Peas-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Denmark_The_Black_Eyed_Peas_10-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.danishcharts.com/showitem.asp?interpret=The+Black+Eyed+Peas&amp;titel=Let%27s+Get+It+Started&amp;cat=s">Danishcharts.com – The Black Eyed Peas – Let's Get It Started"</a>. <a href="/wiki/Tracklisten" title="Tracklisten">Tracklisten</a>.</span></li>
+<li id="cite_note-sc_France_The_Black_Eyed_Peas-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_France_The_Black_Eyed_Peas_11-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.lescharts.com/showitem.asp?interpret=The+Black+Eyed+Peas&amp;titel=Let%27s+Get+It+Started&amp;cat=s">Lescharts.com – The Black Eyed Peas – Let's Get It Started"</a> (in French). <a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">Les classement single</a>.</span></li>
+<li id="cite_note-sc_Germany_Black_Eyed_Peas-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Germany_Black_Eyed_Peas_12-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://musicline.de/de/chartverfolgung_summary/title/Black+Eyed+Peas/Lets+Get+It+Started/single">Die ganze Musik im Internet: Charts, News, Neuerscheinungen, Tickets, Genres, Genresuche, Genrelexikon, Künstler-Suche, Musik-Suche, Track-Suche, Ticket-Suche – musicline.de"</a> (in German). <a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control Charts</a>. PhonoNet GmbH.</span></li>
+<li id="cite_note-sc_Hungarydance_-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Hungarydance_13-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.mahasz.hu/?menu=slagerlistak&amp;menu2=archivum&amp;lista=dance&amp;ev=2004&amp;het=36&amp;submit_=Keres%E9s">Archívum – Slágerlisták – MAHASZ – Magyar Hanglemezkiadók Szövetsége"</a> (in Hungarian). <a href="/wiki/Association_of_Hungarian_Record_Companies" title="Association of Hungarian Record Companies">Dance Top 40 lista</a>. Magyar Hanglemezkiadók Szövetsége.</span></li>
+<li id="cite_note-sc_Italy_The_Black_Eyed_Peas-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Italy_The_Black_Eyed_Peas_14-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.italiancharts.com/showitem.asp?interpret=The+Black+Eyed+Peas&amp;titel=Let%27s+Get+It+Started&amp;cat=s">Italiancharts.com – The Black Eyed Peas – Let's Get It Started"</a>. <a href="/wiki/Federazione_Industria_Musicale_Italiana" title="Federazione Industria Musicale Italiana">Top Digital Download</a>.</span></li>
+<li id="cite_note-sc_Dutch40_-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Dutch40_15-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.top40.nl/index.aspx?week=11&amp;jaar=2004">Nederlandse Top 40 – week 11, 2004</a>" (in Dutch). <a href="/wiki/Dutch_Top_40" title="Dutch Top 40">Dutch Top 40</a></span></li>
+<li id="cite_note-sc_New_Zealand_The_Black_Eyed_Peas-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_New_Zealand_The_Black_Eyed_Peas_16-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.charts.org.nz/showitem.asp?interpret=The+Black+Eyed+Peas&amp;titel=Let%27s+Get+It+Started&amp;cat=s">Charts.org.nz – The Black Eyed Peas – Let's Get It Started"</a>. <a href="/wiki/Official_New_Zealand_Music_Chart" title="Official New Zealand Music Chart">Top 40 Singles</a>.</span></li>
+<li id="cite_note-sc_Swiss_The_Black_Eyed_Peas-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Swiss_The_Black_Eyed_Peas_17-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.swisscharts.com/showitem.asp?interpret=The+Black+Eyed+Peas&amp;titel=Let%27s+Get+It+Started&amp;cat=s">The Black Eyed Peas – Let's Get It Started – swisscharts.com"</a>. <a href="/wiki/Swiss_Hitparade" title="Swiss Hitparade">Swiss Singles Chart</a>.</span></li>
+<li id="cite_note-sc_UKchartstats_Black_Eyed_Peas-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_UKchartstats_Black_Eyed_Peas_18-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/artist/_/Black%20Eyed%20Peas">Black Eyed Peas"</a> <a href="/wiki/UK_Singles_Chart" title="UK Singles Chart">UK Singles Chart</a>.</span></li>
+<li id="cite_note-sc_Billboardhot100_Black_Eyed_Peas-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardhot100_Black_Eyed_Peas_19-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/"><b>Illegal name entered <i>Black Eyed Peas</i></b>/Black+Eyed+Peas/chart?f=379 Black Eyed Peas Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Hot 100</a> for Black Eyed Peas.</span></li>
+<li id="cite_note-sc_Billboardpopsongs_Black_Eyed_Peas-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardpopsongs_Black_Eyed_Peas_20-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/"><b>Illegal name entered <i>Black Eyed Peas</i></b>/Black+Eyed+Peas/chart?f=381 Black Eyed Peas Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Mainstream_Top_40" title="Mainstream Top 40">Pop Songs</a> for Black Eyed Peas.</span></li>
+<li id="cite_note-sc_Billboardadultpopsongs_Black_Eyed_Peas-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardadultpopsongs_Black_Eyed_Peas_21-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/"><b>Illegal name entered <i>Black Eyed Peas</i></b>/Black+Eyed+Peas/chart?f=343 Black Eyed Peas Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Adult_Top_40" title="Adult Top 40">Adult Pop Songs</a> for Black Eyed Peas.</span></li>
+<li id="cite_note-AustraliaThe_Black_Eyed_PeasLet.27s_Get_It_StartedsingleCertRef-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-AustraliaThe_Black_Eyed_PeasLet.27s_Get_It_StartedsingleCertRef_22-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.aria.com.au/pages/aria-charts-accreditations-singles-2005.htm">"ARIA Charts – Accreditations – 2005 Singles"</a>. <a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">Australian Recording Industry Association</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALet%27s+Get+It+Started&amp;rft.btitle=ARIA+Charts+%E2%80%93+Accreditations+%E2%80%93+2005+Singles&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.aria.com.au%2Fpages%2Faria-charts-accreditations-singles-2005.htm&amp;rft.pub=Australian+Recording+Industry+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-New_ZealandThe_Black_Eyed_PeasLet.27s_Get_It_StartedsingleCertRef-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-New_ZealandThe_Black_Eyed_PeasLet.27s_Get_It_StartedsingleCertRef_23-0">^</a></b></span> <span class="reference-text"><font color="red">THE FIELD id (chart number) MUST BE PROVIDED for NEW ZEALAND CERTIFICATION.</font></span></li>
+<li id="cite_note-United_StatesThe_Black_Eyed_PeasLet.27s_Get_It_StartedsingleCertRef-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-United_StatesThe_Black_Eyed_PeasLet.27s_Get_It_StartedsingleCertRef_24-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?artist=%22Let%27s+Get+It+Started%22">"American single certifications – The Black Eyed Peas – Let's Get It Started"</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALet%27s+Get+It+Started&amp;rft.btitle=American+single+certifications+%E2%80%93+The+Black+Eyed+Peas+%E2%80%93+Let%27s+Get+It+Started&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Fartist%3D%2522Let%2527s%2BGet%2BIt%2BStarted%2522&amp;rft.pub=Recording+Industry+Association+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <i>If necessary, click</i> Advanced<i>, then click</i> Format<i>, then select</i> Single<i>, then click</i> SEARCH</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.metrolyrics.com/lets-get-retarded-lyrics-black-eyed-peas.html">Full lyrics of this song</a> at <a href="/wiki/MetroLyrics" title="MetroLyrics">MetroLyrics</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:The_Black_Eyed_Peas" title="Template:The Black Eyed Peas"><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:The_Black_Eyed_Peas" title="Template talk:The Black Eyed Peas"><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Black_Eyed_Peas&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><a href="/wiki/The_Black_Eyed_Peas" title="The Black Eyed Peas">The Black Eyed Peas</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><a href="/wiki/Will.i.am" title="Will.i.am">will.i.am</a></b></li>
+<li><b><a href="/wiki/Apl.de.ap" title="Apl.de.ap">apl.de.ap</a></b></li>
+<li><b><a href="/wiki/Taboo_(rapper)" title="Taboo (rapper)">Taboo</a></b></li>
+<li><b><a href="/wiki/Fergie_(singer)" title="Fergie (singer)">Fergie</a></b></li>
+</ul>
+<ul>
+<li><a href="/wiki/Kim_Hill_(soul_musician)" title="Kim Hill (soul musician)">Kim Hill</a></li>
+<li>Dante Santiago</li>
+<li>DJ Motiv8</li>
+<li>Mookie Mook</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Category:The_Black_Eyed_Peas_albums" title="Category:The Black Eyed Peas albums">Studio albums</a> and <a href="/wiki/Category:The_Black_Eyed_Peas_songs" title="Category:The Black Eyed Peas songs">singles</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks vcard navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/Behind_the_Front" title="Behind the Front">Behind the Front</a></i> (1998)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Fallin%27_Up/%C2%BFQue_Dices%3F" title="Fallin' Up/¿Que Dices?" class="mw-redirect">Fallin' Up/¿Que Dices?</a>"</li>
+<li>"<a href="/wiki/Joints_%26_Jam" title="Joints &amp; Jam">Joints &amp; Jam</a>"</li>
+<li>"<a href="/wiki/Karma_(The_Black_Eyed_Peas_song)" title="Karma (The Black Eyed Peas song)">Karma</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/Bridging_the_Gap_(Black_Eyed_Peas_album)" title="Bridging the Gap (Black Eyed Peas album)">Bridging the Gap</a></i> (2000)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/BEP_Empire/Get_Original" title="BEP Empire/Get Original">BEP Empire/Get Original</a></li>
+<li>"<a href="/wiki/Weekends_(The_Black_Eyed_Peas_song)" title="Weekends (The Black Eyed Peas song)">Weekends</a>"</li>
+<li>"<a href="/wiki/Request_%2B_Line" title="Request + Line">Request + Line</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/Elephunk" title="Elephunk">Elephunk</a></i> (2003)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Where_Is_the_Love%3F" title="Where Is the Love?">Where Is the Love?</a>"</li>
+<li>"<a href="/wiki/Shut_Up_(The_Black_Eyed_Peas_song)" title="Shut Up (The Black Eyed Peas song)">Shut Up</a>"</li>
+<li>"<a href="/wiki/Hey_Mama_(The_Black_Eyed_Peas_song)" title="Hey Mama (The Black Eyed Peas song)">Hey Mama</a>"</li>
+<li>"<strong class="selflink">Let's Get It Started</strong>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/Monkey_Business_(album)" title="Monkey Business (album)">Monkey Business</a></i> (2005)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Don%27t_Phunk_with_My_Heart" title="Don't Phunk with My Heart">Don't Phunk with My Heart</a>"</li>
+<li>"<a href="/wiki/Don%27t_Lie" title="Don't Lie">Don't Lie</a>"</li>
+<li>"<a href="/wiki/My_Humps" title="My Humps">My Humps</a>"</li>
+<li>"<a href="/wiki/Pump_It" title="Pump It">Pump It</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/The_E.N.D" title="The E.N.D">The E.N.D</a></i> (2009)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Boom_Boom_Pow" title="Boom Boom Pow">Boom Boom Pow</a>"</li>
+<li>"<a href="/wiki/I_Gotta_Feeling" title="I Gotta Feeling">I Gotta Feeling</a>"</li>
+<li>"<a href="/wiki/Meet_Me_Halfway" title="Meet Me Halfway">Meet Me Halfway</a>"</li>
+<li>"<a href="/wiki/Imma_Be" title="Imma Be">Imma Be</a>"</li>
+<li>"<a href="/wiki/Rock_That_Body" title="Rock That Body">Rock That Body</a>"</li>
+<li>"<a href="/wiki/Missing_You_(The_Black_Eyed_Peas_song)" title="Missing You (The Black Eyed Peas song)">Missing You</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/The_Beginning_(The_Black_Eyed_Peas_album)" title="The Beginning (The Black Eyed Peas album)">The Beginning</a></i> (2010)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/The_Time_(Dirty_Bit)" title="The Time (Dirty Bit)">The Time (Dirty Bit)</a>"</li>
+<li>"<a href="/wiki/Just_Can%27t_Get_Enough_(The_Black_Eyed_Peas_song)" title="Just Can't Get Enough (The Black Eyed Peas song)">Just Can't Get Enough</a>"</li>
+<li>"<a href="/wiki/Don%27t_Stop_the_Party_(The_Black_Eyed_Peas_song)" title="Don't Stop the Party (The Black Eyed Peas song)">Don't Stop the Party</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Promotional singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Bebot" title="Bebot">Bebot</a>"</li>
+<li>"<a href="/wiki/Alive_(The_Black_Eyed_Peas_song)" title="Alive (The Black Eyed Peas song)">Alive</a>"</li>
+<li>"<a href="/wiki/Do_It_Like_This" title="Do It Like This" class="mw-redirect">Do It Like This</a>"</li>
+<li>"<a href="/wiki/Light_Up_the_Night_(The_Black_Eyed_Peas_song)" title="Light Up the Night (The Black Eyed Peas song)" class="mw-redirect">Light Up the Night</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Mas_que_Nada#Timeless_version_by_Sergio_Mendes_and_The_Black_Eyed_Peas" title="Mas que Nada">Mas que Nada</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilation albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Renegotiations:_The_Remixes" title="Renegotiations: The Remixes">Renegotiations: The Remixes</a></i></li>
+<li><i><a href="/wiki/The_E.N.D._Summer_2010_Canadian_Invasion_Tour:_Remix_Collection" title="The E.N.D. Summer 2010 Canadian Invasion Tour: Remix Collection" class="mw-redirect">The E.N.D. Summer 2010 Canadian Invasion Tour: Remix Collection</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Video albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Behind_the_Bridge_to_Elephunk" title="Behind the Bridge to Elephunk">Behind the Bridge to Elephunk</a></i></li>
+<li><i><a href="/wiki/Live_from_Sydney_to_Vegas" title="Live from Sydney to Vegas">Live from Sydney to Vegas</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Tours</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Monkey_Business_Tour" title="Monkey Business Tour">Monkey Business Tour</a></li>
+<li><a href="/wiki/Honda_Civic_Tour" title="Honda Civic Tour">Honda Civic Tour</a></li>
+<li><a href="/wiki/Black_Blue_%26_You_Tour" title="Black Blue &amp; You Tour">Black Blue &amp; You Tour</a></li>
+<li><a href="/wiki/The_E.N.D_World_Tour" title="The E.N.D World Tour">The E.N.D World Tour</a></li>
+<li><a href="/wiki/The_Beginning_(concerts)" title="The Beginning (concerts)">The Beginning Massive Stadium Tour</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/The_Black_Eyed_Peas_discography" title="The Black Eyed Peas discography">Discography</a></li>
+<li><a href="/wiki/Atban_Klann" title="Atban Klann">Atban Klann</a></li>
+<li><i><a href="/wiki/The_Black_Eyed_Peas_Experience" title="The Black Eyed Peas Experience">The Black Eyed Peas Experience</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:The_Black_Eyed_Peas" title="Book:The Black Eyed Peas">Book</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:The_Black_Eyed_Peas" title="Category:The Black Eyed Peas">Category</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:NBA_on_ABC" title="Template:NBA on ABC"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:NBA_on_ABC" title="Template talk:NBA on ABC"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:NBA_on_ABC&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><i><a href="/wiki/NBA_on_ABC" title="NBA on ABC">NBA on ABC</a></i></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related programs</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/NBA_Countdown" title="NBA Countdown">NBA Countdown</a></i></li>
+<li><i><a href="/wiki/NBA_Access_with_Ahmad_Rashad" title="NBA Access with Ahmad Rashad">NBA Access with Ahmad Rashad</a></i></li>
+<li><i><a href="/wiki/NBA_Inside_Stuff" title="NBA Inside Stuff">NBA Inside Stuff</a></i></li>
+<li><i><a href="/wiki/ESPN_College_Basketball_on_ABC" title="ESPN College Basketball on ABC">ESPN College Basketball on ABC</a></i></li>
+<li><i><a href="/wiki/Olympics_on_ABC" title="Olympics on ABC">Olympics on ABC</a></i></li>
+</ul>
+</div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/NBA_on_ESPN" title="NBA on ESPN">NBA on ESPN</a></i></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/NBA_on_ESPN_Radio" title="NBA on ESPN Radio">Radio</a></li>
+<li><i><a href="/wiki/NBA_Shootaround" title="NBA Shootaround">NBA Shootaround</a></i></li>
+<li><i><a href="/wiki/NBA_Wednesday" title="NBA Wednesday">NBA Wednesday</a></i></li>
+<li><i><a href="/wiki/NBA_Friday" title="NBA Friday">NBA Friday</a></i></li>
+<li><i><a href="/wiki/WNBA_on_ESPN" title="WNBA on ESPN">WNBA on ESPN</a></i></li>
+<li><a href="/wiki/List_of_NBA_on_ESPN_personalities" title="List of NBA on ESPN personalities">Personalities</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Lore</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Pacers%E2%80%93Pistons_brawl" title="Pacers–Pistons brawl">Pacers–Pistons brawl</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">NBA Drafts</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/2003_NBA_Draft" title="2003 NBA Draft" class="mw-redirect">2003</a></li>
+<li><a href="/wiki/2004_NBA_Draft" title="2004 NBA Draft" class="mw-redirect">2004</a></li>
+<li><a href="/wiki/2005_NBA_Draft" title="2005 NBA Draft" class="mw-redirect">2005</a></li>
+<li><a href="/wiki/2006_NBA_Draft" title="2006 NBA Draft" class="mw-redirect">2006</a></li>
+<li><a href="/wiki/2007_NBA_Draft" title="2007 NBA Draft" class="mw-redirect">2007</a></li>
+<li><a href="/wiki/2008_NBA_Draft" title="2008 NBA Draft" class="mw-redirect">2008</a></li>
+<li><a href="/wiki/2009_NBA_Draft" title="2009 NBA Draft" class="mw-redirect">2009</a></li>
+<li><a href="/wiki/2010_NBA_Draft" title="2010 NBA Draft" class="mw-redirect">2010</a></li>
+<li><a href="/wiki/2011_NBA_Draft" title="2011 NBA Draft" class="mw-redirect">2011</a></li>
+<li><a href="/wiki/2012_NBA_Draft" title="2012 NBA Draft" class="mw-redirect">2012</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">WNBA Finals</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/2003_WNBA_Finals" title="2003 WNBA Finals">2003</a></li>
+<li><a href="/wiki/2004_WNBA_Finals" title="2004 WNBA Finals">2004</a></li>
+<li><a href="/wiki/2005_WNBA_Finals" title="2005 WNBA Finals">2005</a></li>
+<li><a href="/wiki/2006_WNBA_Finals" title="2006 WNBA Finals">2006</a></li>
+<li><a href="/wiki/2007_WNBA_Finals" title="2007 WNBA Finals">2007</a></li>
+<li><a href="/wiki/2008_WNBA_Finals" title="2008 WNBA Finals">2008</a></li>
+<li><a href="/wiki/2009_WNBA_Finals" title="2009 WNBA Finals">2009</a></li>
+<li><a href="/wiki/2010_WNBA_Finals" title="2010 WNBA Finals">2010</a></li>
+<li><a href="/wiki/2011_WNBA_Finals" title="2011 WNBA Finals">2011</a></li>
+<li><a href="/wiki/2012_WNBA_Finals" title="2012 WNBA Finals">2012</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related articles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/National_Basketball_Association_Nielsen_ratings" title="National Basketball Association Nielsen ratings">Ratings</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_NBA_on_ABC_broadcasters" title="List of NBA on ABC broadcasters">Commentators</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/List_of_NBA_All-Star_Game_broadcasters" title="List of NBA All-Star Game broadcasters">All-Star Game</a></li>
+<li><a href="/wiki/List_of_NBA_Finals_broadcasters" title="List of NBA Finals broadcasters">NBA Finals</a></li>
+<li><a href="/wiki/List_of_WNBA_Finals_broadcasters" title="List of WNBA Finals broadcasters">WNBA Finals</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Key figures</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Mike_Breen" title="Mike Breen">Mike Breen</a></li>
+<li><a href="/wiki/Jim_Durham" title="Jim Durham">Jim Durham</a></li>
+<li><a href="/wiki/Bill_Flemming" title="Bill Flemming">Bill Flemming</a></li>
+<li><a href="/wiki/Chet_Forte" title="Chet Forte">Chet Forte</a></li>
+<li><a href="/wiki/Jim_Gordon_(sportscaster)" title="Jim Gordon (sportscaster)">Jim Gordon</a></li>
+<li><a href="/wiki/Curt_Gowdy" title="Curt Gowdy">Curt Gowdy</a></li>
+<li><a href="/wiki/Chuck_Howard" title="Chuck Howard">Chuck Howard</a></li>
+<li><a href="/wiki/Keith_Jackson" title="Keith Jackson">Keith Jackson</a></li>
+<li><a href="/wiki/Mark_Jones_(sportscaster)" title="Mark Jones (sportscaster)">Mark Jones</a></li>
+<li><a href="/wiki/Jim_McKay" title="Jim McKay">Jim McKay</a></li>
+<li><a href="/wiki/Al_Michaels" title="Al Michaels">Al Michaels</a></li>
+<li><a href="/wiki/Brent_Musburger" title="Brent Musburger">Brent Musburger</a></li>
+<li><a href="/wiki/Brad_Nessler" title="Brad Nessler">Brad Nessler</a></li>
+<li><a href="/wiki/John_Saunders_(journalist)" title="John Saunders (journalist)">John Saunders</a></li>
+<li><a href="/wiki/Chris_Schenkel" title="Chris Schenkel">Chris Schenkel</a></li>
+</ul>
+</div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Color commentators</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Greg_Anthony" title="Greg Anthony">Greg Anthony</a></li>
+<li><a href="/wiki/Hubie_Brown" title="Hubie Brown">Hubie Brown</a></li>
+<li><a href="/wiki/Bob_Cousy" title="Bob Cousy">Bob Cousy</a></li>
+<li><a href="/wiki/Sean_Elliott" title="Sean Elliott">Sean Elliott</a></li>
+<li><a href="/wiki/Len_Elmore" title="Len Elmore">Len Elmore</a></li>
+<li><a href="/wiki/Tim_Legler" title="Tim Legler">Tim Legler</a></li>
+<li><a href="/wiki/Mark_Jackson_(basketball)" title="Mark Jackson (basketball)">Mark Jackson</a></li>
+<li><a href="/wiki/Steve_Jones_(basketball)" title="Steve Jones (basketball)">Steve Jones</a></li>
+<li><a href="/wiki/Johnny_Kerr" title="Johnny Kerr">Johnny Kerr</a></li>
+<li><a href="/wiki/Dan_Majerle" title="Dan Majerle">Dan Majerle</a></li>
+<li><a href="/wiki/Jack_Ramsay" title="Jack Ramsay">Jack Ramsay</a></li>
+<li><a href="/wiki/Doc_Rivers" title="Doc Rivers">Doc Rivers</a></li>
+<li><a href="/wiki/Bill_Russell" title="Bill Russell">Bill Russell</a></li>
+<li><a href="/wiki/Tom_Tolbert" title="Tom Tolbert">Tom Tolbert</a></li>
+<li><a href="/wiki/Jack_Twyman" title="Jack Twyman">Jack Twyman</a></li>
+<li><a href="/wiki/Jeff_Van_Gundy" title="Jeff Van Gundy">Jeff Van Gundy</a></li>
+<li><a href="/wiki/Bill_Walton" title="Bill Walton">Bill Walton</a></li>
+<li><a href="/wiki/Jerry_West" title="Jerry West">Jerry West</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Sideline reporters</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/David_Aldridge" title="David Aldridge">David Aldridge</a></li>
+<li><a href="/wiki/Doris_Burke" title="Doris Burke">Doris Burke</a></li>
+<li><a href="/wiki/Howard_Cosell" title="Howard Cosell">Howard Cosell</a></li>
+<li><a href="/wiki/Heather_Cox" title="Heather Cox">Heather Cox</a></li>
+<li><a href="/wiki/Dave_Diles" title="Dave Diles">Dave Diles</a></li>
+<li><a href="/wiki/Mark_Jones_(broadcaster)" title="Mark Jones (broadcaster)" class="mw-redirect">Mark Jones</a></li>
+<li><a href="/wiki/Sal_Masekela" title="Sal Masekela">Sal Masekela</a></li>
+<li><a href="/wiki/Lisa_Salters" title="Lisa Salters">Lisa Salters</a></li>
+<li><a href="/wiki/Michele_Tafoya" title="Michele Tafoya">Michele Tafoya</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Studio hosts</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Dan_Patrick" title="Dan Patrick">Dan Patrick</a></li>
+<li><a href="/wiki/Stuart_Scott" title="Stuart Scott">Stuart Scott</a></li>
+<li><a href="/wiki/Sage_Steele" title="Sage Steele">Sage Steele</a></li>
+<li><a href="/wiki/Hannah_Storm" title="Hannah Storm">Hannah Storm</a></li>
+<li><a href="/wiki/Mike_Tirico" title="Mike Tirico">Mike Tirico</a></li>
+<li><a href="/wiki/Michael_Wilbon" title="Michael Wilbon">Michael Wilbon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Studio anaylsts</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Jon_Barry" title="Jon Barry">Jon Barry</a></li>
+<li><a href="/wiki/Chris_Broussard" title="Chris Broussard">Chris Broussard</a></li>
+<li><a href="/wiki/Avery_Johnson" title="Avery Johnson">Avery Johnson</a></li>
+<li><a href="/wiki/Magic_Johnson" title="Magic Johnson">Magic Johnson</a></li>
+<li><a href="/wiki/George_Karl" title="George Karl">George Karl</a></li>
+<li><a href="/wiki/Scottie_Pippen" title="Scottie Pippen">Scottie Pippen</a></li>
+<li><a href="/wiki/Jalen_Rose" title="Jalen Rose">Jalen Rose</a></li>
+<li><a href="/wiki/Byron_Scott_(basketball)" title="Byron Scott (basketball)" class="mw-redirect">Byron Scott</a></li>
+<li><a href="/wiki/Bill_Simmons" title="Bill Simmons">Bill Simmons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Citadel_Media" title="Citadel Media" class="mw-redirect">ABC Radio</a> announcers</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Marv_Albert" title="Marv Albert">Marv Albert</a></li>
+<li><a href="/wiki/Dave_Barnett" title="Dave Barnett">Dave Barnett</a></li>
+<li><a href="/wiki/Chick_Hearn" title="Chick Hearn">Chick Hearn</a></li>
+<li><a href="/wiki/Rod_Hundley" title="Rod Hundley">Rod Hundley</a></li>
+<li><a href="/wiki/Steve_Jones_(basketball)" title="Steve Jones (basketball)">Steve Jones</a></li>
+<li><a href="/wiki/Fred_Manfra" title="Fred Manfra">Fred Manfra</a></li>
+<li><a href="/wiki/Earl_Monroe" title="Earl Monroe">Earl Monroe</a></li>
+<li><a href="/wiki/Johnny_Most" title="Johnny Most">Johnny Most</a></li>
+<li><a href="/wiki/Oscar_Robertson" title="Oscar Robertson">Oscar Robertson</a></li>
+<li><a href="/wiki/Dick_Vitale" title="Dick Vitale">Dick Vitale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">NBA Finals</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/1965_NBA_Finals" title="1965 NBA Finals">1965</a></li>
+<li><a href="/wiki/1966_NBA_Finals" title="1966 NBA Finals">1966</a></li>
+<li><a href="/wiki/1967_NBA_Finals" title="1967 NBA Finals">1967</a></li>
+<li><a href="/wiki/1968_NBA_Finals" title="1968 NBA Finals">1968</a></li>
+<li><a href="/wiki/1969_NBA_Finals" title="1969 NBA Finals">1969</a></li>
+<li><a href="/wiki/1970_NBA_Finals" title="1970 NBA Finals">1970</a></li>
+<li><a href="/wiki/1971_NBA_Finals" title="1971 NBA Finals">1971</a></li>
+<li><a href="/wiki/1972_NBA_Finals" title="1972 NBA Finals">1972</a></li>
+<li><a href="/wiki/1973_NBA_Finals" title="1973 NBA Finals">1973</a></li>
+<li><a href="/wiki/2003_NBA_Finals" title="2003 NBA Finals">2003</a></li>
+<li><a href="/wiki/2004_NBA_Finals" title="2004 NBA Finals">2004</a></li>
+<li><a href="/wiki/2005_NBA_Finals" title="2005 NBA Finals">2005</a></li>
+<li><a href="/wiki/2006_NBA_Finals" title="2006 NBA Finals">2006</a></li>
+<li><a href="/wiki/2007_NBA_Finals" title="2007 NBA Finals">2007</a></li>
+<li><a href="/wiki/2008_NBA_Finals" title="2008 NBA Finals">2008</a></li>
+<li><a href="/wiki/2009_NBA_Finals" title="2009 NBA Finals">2009</a></li>
+<li><a href="/wiki/2010_NBA_Finals" title="2010 NBA Finals">2010</a></li>
+<li><a href="/wiki/2011_NBA_Finals" title="2011 NBA Finals">2011</a></li>
+<li><a href="/wiki/2012_NBA_Finals" title="2012 NBA Finals">2012</a></li>
+<li><a href="/wiki/2013_NBA_Finals" title="2013 NBA Finals">2013</a></li>
+<li>2014</li>
+<li>2015</li>
+<li>2016</li>
+</ul>
+</div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Citadel_Media" title="Citadel Media" class="mw-redirect">ABC Radio</a>'s coverage</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/1985_NBA_Finals" title="1985 NBA Finals">1985</a></li>
+<li><a href="/wiki/1986_NBA_Finals" title="1986 NBA Finals">1986</a></li>
+<li><a href="/wiki/1987_NBA_Finals" title="1987 NBA Finals">1987</a></li>
+<li><a href="/wiki/1988_NBA_Finals" title="1988 NBA Finals">1988</a></li>
+<li><a href="/wiki/1989_NBA_Finals" title="1989 NBA Finals">1989</a></li>
+<li><a href="/wiki/1990_NBA_Finals" title="1990 NBA Finals">1990</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">All-Star Game</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/1968_NBA_All-Star_Game" title="1968 NBA All-Star Game">1968</a></li>
+<li><a href="/wiki/1969_NBA_All-Star_Game" title="1969 NBA All-Star Game">1969</a></li>
+<li><a href="/wiki/1970_NBA_All-Star_Game" title="1970 NBA All-Star Game">1970</a></li>
+<li><a href="/wiki/1971_NBA_All-Star_Game" title="1971 NBA All-Star Game">1971</a></li>
+<li><a href="/wiki/1972_NBA_All-Star_Game" title="1972 NBA All-Star Game">1972</a></li>
+<li><a href="/wiki/1973_NBA_All-Star_Game" title="1973 NBA All-Star Game">1973</a></li>
+</ul>
+</div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Citadel_Media" title="Citadel Media" class="mw-redirect">ABC Radio</a>'s coverage</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/1985_NBA_All-Star_Game" title="1985 NBA All-Star Game">1985</a></li>
+<li><a href="/wiki/1986_NBA_All-Star_Game" title="1986 NBA All-Star Game">1986</a></li>
+<li><a href="/wiki/1987_NBA_All-Star_Game" title="1987 NBA All-Star Game">1987</a></li>
+<li><a href="/wiki/1988_NBA_All-Star_Game" title="1988 NBA All-Star Game">1988</a></li>
+<li><a href="/wiki/1989_NBA_All-Star_Game" title="1989 NBA All-Star Game">1989</a></li>
+<li><a href="/wiki/1990_NBA_All-Star_Game" title="1990 NBA All-Star Game">1990</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/National_Basketball_Association_music" title="National Basketball Association music">Music</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<strong class="selflink">Let's Get It Started</strong>" (2004)</li>
+<li><a href="/wiki/ABC_(The_Jackson_5_song)" title="ABC (The Jackson 5 song)">"ABC"</a> (2004)</li>
+<li>"<a href="/wiki/Lose_My_Breath" title="Lose My Breath">Lose My Breath</a>" (2005)</li>
+<li>"<a href="/wiki/This_Is_How_a_Heart_Breaks" title="This Is How a Heart Breaks">This Is How a Heart Breaks</a>" (2005)</li>
+<li>"<a href="/wiki/Runnin%27_Down_a_Dream" title="Runnin' Down a Dream">Runnin' Down a Dream</a>" (2006)</li>
+<li>"<a href="/wiki/Right_Now_(Herbie_Mann_song)" title="Right Now (Herbie Mann song)">Right Now</a>" (2007)</li>
+<li>"<a href="/wiki/It_Ends_Tonight" title="It Ends Tonight">It Ends Tonight</a>" (2007)</li>
+<li><a href="/wiki/Nine_Lives_(Def_Leppard_song)" title="Nine Lives (Def Leppard song)" class="mw-redirect">"Nine Lives"</a> (2007)</li>
+<li>"<a href="/wiki/Get_On_Your_Boots" title="Get On Your Boots">Get On Your Boots</a>" (2009)</li>
+<li>"<a href="/wiki/All_I_Want_for_Christmas_Is_You_(Mariah_Carey_song)" title="All I Want for Christmas Is You (Mariah Carey song)" class="mw-redirect">All I Want for Christmas Is You</a>" (2009)</li>
+<li>"<a href="/wiki/Rip_This_Joint" title="Rip This Joint">Rip This Joint</a>" (2010)</li>
+<li>"<a href="/wiki/Oh_Santa!" title="Oh Santa!">Oh Santa!</a>" (2010)</li>
+<li><a href="/wiki/Black_Dog_(song)" title="Black Dog (song)">"Black Dog"</a> (2011)</li>
+<li><a href="/wiki/Timber_(song)" title="Timber (song)">"Timber"</a> (2014)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Lore</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Willis_Reed" title="Willis Reed"><i>"I think we see Willis coming out!"</i></a></li>
+<li><a href="/wiki/National_Basketball_Association_Christmas_games" title="National Basketball Association Christmas games">Christmas Day</a></li>
+</ul>
+</div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/National_Basketball_Association_rivalries" title="National Basketball Association rivalries">Rivalries</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Shaq%E2%80%93Kobe_feud" title="Shaq–Kobe feud">Bryant–O'Neal</a></li>
+<li><a href="/wiki/Lakers%E2%80%93Pistons_rivalry" title="Lakers–Pistons rivalry">Lakers–Pistons</a></li>
+<li><a href="/wiki/Celtics%E2%80%93Lakers_rivalry" title="Celtics–Lakers rivalry">Celtics–Lakers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1181
+CPU time usage: 2.940 seconds
+Real time usage: 3.081 seconds
+Preprocessor visited node count: 21565/1000000
+Preprocessor generated node count: 75087/1500000
+Post‐expand include size: 144764/2048000 bytes
+Template argument size: 16771/2048000 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 4/500
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 2.84 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1601775-0!*!0!!en!4!* and timestamp 20140601173005 and revision id 610482703
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Let%27s_Get_It_Started&amp;oldid=610482703">http://en.wikipedia.org/w/index.php?title=Let%27s_Get_It_Started&amp;oldid=610482703</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Singles_certified_platinum_by_the_Australian_Recording_Industry_Association" title="Category:Singles certified platinum by the Australian Recording Industry Association">Singles certified platinum by the Australian Recording Industry Association</a></li><li><a href="/wiki/Category:Singles_certified_gold_by_Recorded_Music_NZ" title="Category:Singles certified gold by Recorded Music NZ">Singles certified gold by Recorded Music NZ</a></li><li><a href="/wiki/Category:Singles_certified_triple_platinum_by_the_Recording_Industry_Association_of_America" title="Category:Singles certified triple platinum by the Recording Industry Association of America">Singles certified triple platinum by the Recording Industry Association of America</a></li><li><a href="/wiki/Category:2003_songs" title="Category:2003 songs">2003 songs</a></li><li><a href="/wiki/Category:2004_singles" title="Category:2004 singles">2004 singles</a></li><li><a href="/wiki/Category:National_Basketball_Association_music" title="Category:National Basketball Association music">National Basketball Association music</a></li><li><a href="/wiki/Category:ABC_Sports" title="Category:ABC Sports">ABC Sports</a></li><li><a href="/wiki/Category:Music_videos_directed_by_Francis_Lawrence" title="Category:Music videos directed by Francis Lawrence">Music videos directed by Francis Lawrence</a></li><li><a href="/wiki/Category:Songs_written_by_will.i.am" title="Category:Songs written by will.i.am">Songs written by will.i.am</a></li><li><a href="/wiki/Category:The_Black_Eyed_Peas_songs" title="Category:The Black Eyed Peas songs">The Black Eyed Peas songs</a></li><li><a href="/wiki/Category:Singles_certified_gold_by_the_Recording_Industry_Association_of_America" title="Category:Singles certified gold by the Recording Industry Association of America">Singles certified gold by the Recording Industry Association of America</a></li><li><a href="/wiki/Category:Interscope_Records_singles" title="Category:Interscope Records singles">Interscope Records singles</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Cite_certification_used_with_missing_parameters" title="Category:Cite certification used with missing parameters">Cite certification used with missing parameters</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Australia" title="Category:Singlechart usages for Australia">Singlechart usages for Australia</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Austria" title="Category:Singlechart usages for Austria">Singlechart usages for Austria</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Flanders" title="Category:Singlechart usages for Flanders">Singlechart usages for Flanders</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Wallonia" title="Category:Singlechart usages for Wallonia">Singlechart usages for Wallonia</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Canada" title="Category:Singlechart usages for Canada">Singlechart usages for Canada</a></li><li><a href="/wiki/Category:Singlechart_called_without_song" title="Category:Singlechart called without song">Singlechart called without song</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Czech_Republic" title="Category:Singlechart usages for Czech Republic">Singlechart usages for Czech Republic</a></li><li><a href="/wiki/Category:Singlechart_called_without_artist" title="Category:Singlechart called without artist">Singlechart called without artist</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Denmark" title="Category:Singlechart usages for Denmark">Singlechart usages for Denmark</a></li><li><a href="/wiki/Category:Singlechart_usages_for_France" title="Category:Singlechart usages for France">Singlechart usages for France</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Germany" title="Category:Singlechart usages for Germany">Singlechart usages for Germany</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Hungarydance" title="Category:Singlechart usages for Hungarydance">Singlechart usages for Hungarydance</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Italy" title="Category:Singlechart usages for Italy">Singlechart usages for Italy</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Dutch40" title="Category:Singlechart usages for Dutch40">Singlechart usages for Dutch40</a></li><li><a href="/wiki/Category:Singlechart_usages_for_New_Zealand" title="Category:Singlechart usages for New Zealand">Singlechart usages for New Zealand</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Swiss" title="Category:Singlechart usages for Swiss">Singlechart usages for Swiss</a></li><li><a href="/wiki/Category:Singlechart_usages_for_UKchartstats" title="Category:Singlechart usages for UKchartstats">Singlechart usages for UKchartstats</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardhot100" title="Category:Singlechart usages for Billboardhot100">Singlechart usages for Billboardhot100</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardpopsongs" title="Category:Singlechart usages for Billboardpopsongs">Singlechart usages for Billboardpopsongs</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardadultpopsongs" title="Category:Singlechart usages for Billboardadultpopsongs">Singlechart usages for Billboardadultpopsongs</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Australia" title="Category:Certification Table Entry usages for Australia">Certification Table Entry usages for Australia</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_New_Zealand" title="Category:Certification Table Entry usages for New Zealand">Certification Table Entry usages for New Zealand</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_United_States" title="Category:Certification Table Entry usages for United States">Certification Table Entry usages for United States</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Let%27s+Get+It+Started&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Let%27s+Get+It+Started" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Let%27s_Get_It_Started"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Let%27s_Get_It_Started"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Let%27s_Get_It_Started" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Let%27s_Get_It_Started" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Let%27s_Get_It_Started" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;oldid=610482703" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2568910" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Let%27s_Get_It_Started&amp;id=610482703" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Let%27s+Get+It+Started">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Let%27s+Get+It+Started&amp;oldid=610482703&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Let%27s_Get_It_Started&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Let%27s_Get_It_Started" title="Let's Get It Started – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Let%27s_Get_It_Started" title="Let's Get It Started – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Let%27s_Get_It_Started" title="Let's Get It Started – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Let%27s_Get_It_Started_(The_Black_Eyed_Peas)" title="Let's Get It Started (The Black Eyed Peas) – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Let%27s_Get_It_Started" title="Let's Get It Started – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Let%27s_Get_It_Started" title="Let's Get It Started – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Let%E2%80%99s_Get_It_Started" title="Let’s Get It Started – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Let%27s_Get_Retarded" title="Let's Get Retarded – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q2568910#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 May 2014 at 11:55.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Let%27s_Get_It_Started" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":187,"wgHostname":"mw1083"});
+}</script>
+	</body>
+</html>
+	

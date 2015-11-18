@@ -1,0 +1,1833 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Life After Death - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Life_After_Death" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Life_After_Death&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Life_After_Death&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Life_After_Death" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Life_After_Death","wgTitle":"Life After Death","wgCurRevisionId":609399445,"wgRevisionId":609399445,"wgArticleId":195803,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","Articles with hAudio microformats","Certification Table Entry usages for United States","Certification Table Entry usages for United Kingdom","The Notorious B.I.G. albums","1997 albums","Albums published posthumously","Arista Records albums","Bad Boy Records albums","Albums produced by Buckwild","Albums produced by Sean Combs","Albums produced by DJ Clark Kent","Albums produced by DJ Premier","Albums produced by Easy Mo Bee","Albums produced by Havoc","Albums produced by Rza","English-language albums","Recording Industry Association of America Diamond Award albums","Albums certified diamond by the Recording Industry Association of America"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Life_After_Death","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-gb","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q519122"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Life_After_Death skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Life After Death</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other uses, see <a href="/wiki/Life_After_Death_(disambiguation)" title="Life After Death (disambiguation)" class="mw-redirect">Life After Death (disambiguation)</a>.</div>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Life After Death</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:NotoriousB.I.G.LifeAfterDeath.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1c/NotoriousB.I.G.LifeAfterDeath.jpg/220px-NotoriousB.I.G.LifeAfterDeath.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/1/1c/NotoriousB.I.G.LifeAfterDeath.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/1/1c/NotoriousB.I.G.LifeAfterDeath.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">March 25, 1997</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>September 1995 – January 1997</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>109:12</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/D-Dot" title="D-Dot">Deric "D-Dot" Angelettie</a>, <a href="/wiki/The_Hitmen_(production_team)" title="The Hitmen (production team)" class="mw-redirect">Carlos "6 July" Broady</a>, <a href="/wiki/Buckwild" title="Buckwild">Buckwild</a>, <a href="/wiki/Clark_Kent_(producer)" title="Clark Kent (producer)">Clark Kent</a>, <a href="/wiki/Sean_%22Puffy%22_Combs" title="Sean &quot;Puffy&quot; Combs" class="mw-redirect">Sean "Puffy" Combs</a>, <a href="/wiki/DJ_Enuff" title="DJ Enuff">DJ Enuff</a>, <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>, <a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Easy Mo Bee</a>, <a href="/wiki/Havoc_(musician)" title="Havoc (musician)">Havoc</a>, <a href="/wiki/Stevie_J" title="Stevie J">Stevie J</a>, Jiv Poss, <a href="/wiki/Daron_Jones" title="Daron Jones">Daron Jones</a>, <a href="/wiki/Naughty_by_Nature" title="Naughty by Nature">Kay Gee</a>, <a href="/wiki/The_Hitmen_(production_team)" title="The Hitmen (production team)" class="mw-redirect">Ron "Amen-Ra" Lawrence</a>, <a href="/wiki/The_Hitmen_(production_team)" title="The Hitmen (production team)" class="mw-redirect">Nashiem Myrick</a>, <a href="/wiki/Notorious_B.I.G." title="Notorious B.I.G." class="mw-redirect">Notorious B.I.G.</a>, Paragon, <a href="/wiki/RZA" title="RZA" class="mw-redirect">RZA</a>, <a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Ready_to_Die" title="Ready to Die">Ready to Die</a></i><br />
+(1994)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Life After Death</b></i><br />
+(1997)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Born_Again_(The_Notorious_B.I.G._album)" title="Born Again (The Notorious B.I.G. album)">Born Again</a></i><br />
+(1999)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Life After Death</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Hypnotize_(The_Notorious_B.I.G._song)" title="Hypnotize (The Notorious B.I.G. song)">Hypnotize</a>"</span><br />
+Released: April 1, 1997</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Mo_Money_Mo_Problems" title="Mo Money Mo Problems">Mo Money Mo Problems</a>"</span><br />
+Released: July 1, 1997</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Sky%27s_the_Limit_(song)" title="Sky's the Limit (song)">Sky's the Limit</a>"</span><br />
+Released: November 25, 1997</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>Life After Death</b></i> is the second and final <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by American rapper <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a>, released March 25, 1997 on <a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy Records</a>. A <a href="/wiki/Double_album" title="Double album">double album</a>, it was released posthumously following his death on March 9, 1997, a fact reflected in the album's title. It features collaborations with guest artists such as <a href="/wiki/112_(band)" title="112 (band)" class="mw-redirect">112</a>, <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, <a href="/wiki/Lil%27_Kim" title="Lil' Kim">Lil' Kim</a>, <a href="/wiki/Mase" title="Mase">Mase</a>, <a href="/wiki/Bone_Thugs-n-Harmony" title="Bone Thugs-n-Harmony">Bone Thugs-n-Harmony</a>, <a href="/wiki/Too_Short" title="Too Short">Too $hort</a>, <a href="/wiki/Angela_Winbush" title="Angela Winbush">Angela Winbush</a>, <a href="/wiki/Darryl_McDaniels" title="Darryl McDaniels">D.M.C.</a> of <a href="/wiki/Run-D.M.C." title="Run-D.M.C." class="mw-redirect">Run-D.M.C.</a>, <a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a>, <a href="/wiki/The_LOX" title="The LOX" class="mw-redirect">The LOX</a>, and <a href="/wiki/Puff_Daddy" title="Puff Daddy" class="mw-redirect">Puff Daddy</a>. <i>Life After Death</i> exhibits The Notorious B.I.G. further delving into the <a href="/wiki/Mafioso_rap" title="Mafioso rap" class="mw-redirect">mafioso rap</a> subgenre.</p>
+<p><i>Life After Death</i> was released to a significant amount of critical praise and commercial success. In 2000, the album was certified <a href="/wiki/RIAA_certification" title="RIAA certification">diamond</a> in sales by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA), and it has been credited as one of the best-selling rap albums of all time. It also made the largest jump to number one on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart in history, jumping from number 176 to number one in one week. Also, it spent four weeks at number one on the <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a> chart and topped the <a href="/wiki/Billboard_Year-End" title="Billboard Year-End">Billboard Year-End</a> chart as an R&amp;B/Hip-Hop Album for 1997.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>The album was nominated for three <a href="/wiki/Grammy_Awards" title="Grammy Awards" class="mw-redirect">Grammy Awards</a> in 1998, including <a href="/wiki/Grammy_Award_for_Best_Rap_Album" title="Grammy Award for Best Rap Album">Best Rap Album</a>, <a href="/wiki/Grammy_Award_for_Best_Rap_Solo_Performance" title="Grammy Award for Best Rap Solo Performance">Best Rap Solo Performance</a> for its first single "<a href="/wiki/Hypnotize_(The_Notorious_B.I.G._song)" title="Hypnotize (The Notorious B.I.G. song)">Hypnotize</a>", and <a href="/wiki/Grammy_Award_for_Best_Rap_Performance_by_a_Duo_or_Group" title="Grammy Award for Best Rap Performance by a Duo or Group">Best Rap Performance by a Duo or Group</a> for its second single "<a href="/wiki/Mo_Money_Mo_Problems" title="Mo Money Mo Problems">Mo Money Mo Problems</a>". Along with <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a>'s <i><a href="/wiki/Only_Built_4_Cuban_Linx%E2%80%A6" title="Only Built 4 Cuban Linx…" class="mw-redirect">Only Built 4 Cuban Linx…</a></i> (1995), <a href="/wiki/AZ_(rapper)" title="AZ (rapper)">AZ</a>'s <i><a href="/wiki/Doe_Or_Die" title="Doe Or Die" class="mw-redirect">Doe Or Die</a></i> (1995), <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>'s <i><a href="/wiki/Reasonable_Doubt_(album)" title="Reasonable Doubt (album)">Reasonable Doubt</a></i> (1996), and <a href="/wiki/Nas" title="Nas">Nas</a>' <i><a href="/wiki/It_Was_Written" title="It Was Written">It Was Written</a></i> (1996) <i>Life After Death</i> has been considered by music writers as one of the seminal mafioso rap albums, as well as a <a href="/wiki/Landmark" title="Landmark">landmark</a> in hip hop music. In 2003, the album was ranked number 483 on Rolling Stone magazine's list of the 500 greatest albums of all time.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Conception"><span class="tocnumber">1</span> <span class="toctext">Conception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Background"><span class="tocnumber">1.1</span> <span class="toctext">Background</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Feud_references_and_subliminal_disses"><span class="tocnumber">2</span> <span class="toctext">Feud references and subliminal disses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#.22Kick_in_the_Door.22"><span class="tocnumber">2.1</span> <span class="toctext">"Kick in the Door"</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.22Long_Kiss_Goodnight.22"><span class="tocnumber">2.2</span> <span class="toctext">"Long Kiss Goodnight"</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Other_references"><span class="tocnumber">2.3</span> <span class="toctext">Other references</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Reception"><span class="tocnumber">3</span> <span class="toctext">Reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Initial_reaction"><span class="tocnumber">3.1</span> <span class="toctext">Initial reaction</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Retrospect"><span class="tocnumber">3.2</span> <span class="toctext">Retrospect</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Legacy_and_influence"><span class="tocnumber">4</span> <span class="toctext">Legacy and influence</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Track_listing"><span class="tocnumber">5</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Personnel"><span class="tocnumber">6</span> <span class="toctext">Personnel</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Performers"><span class="tocnumber">6.1</span> <span class="toctext">Performers</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Production"><span class="tocnumber">6.2</span> <span class="toctext">Production</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Charts_and_certifications"><span class="tocnumber">7</span> <span class="toctext">Charts and certifications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Weekly_charts"><span class="tocnumber">7.1</span> <span class="toctext">Weekly charts</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Decade-end_charts"><span class="tocnumber">7.2</span> <span class="toctext">Decade-end charts</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Certifications"><span class="tocnumber">7.3</span> <span class="toctext">Certifications</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Chart_procession_and_succession"><span class="tocnumber">7.4</span> <span class="toctext">Chart procession and succession</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Accolades"><span class="tocnumber">7.5</span> <span class="toctext">Accolades</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Conception">Conception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=1" title="Edit section: Conception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=2" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Two and a half years prior to the album's release, The Notorious B.I.G. who had married <a href="/wiki/Faith_Evans" title="Faith Evans">Faith Evans</a>, became East Coast's icon in the East Coast vs. West Coast rivalry and made guest appearances on albums by <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> and <a href="/wiki/Luther_Campbell" title="Luther Campbell">Luke</a> amongst others. The album was originally supposed to be released on <a href="/wiki/Halloween" title="Halloween">Halloween</a> of 1996, but was pushed back to 1997. Two weeks prior to the album's release, The Notorious B.I.G. was shot four times in a drive-by shooting and pronounced dead at Cedars Sinai Hospital in Los Angeles. The album sold 690,000 copies its first week and was certified diamond three years later.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> <sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Feud_references_and_subliminal_disses">Feud references and subliminal disses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=3" title="Edit section: Feud references and subliminal disses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Conflict with other rappers is a major theme shown throughout the album. Many songs on both discs contain subtle references to B.I.G.'s rivals.</p>
+<h3><span class="mw-headline" id=".22Kick_in_the_Door.22">"Kick in the Door"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=4" title="Edit section: &quot;Kick in the Door&quot;">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The track "Kick in the Door" is directed at <a href="/wiki/Nas" title="Nas">Nas</a>, <a href="/wiki/Jeru_the_Damaja" title="Jeru the Damaja">Jeru the Damaja</a>, <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a>, <a href="/wiki/Ghostface_Killah" title="Ghostface Killah">Ghostface Killah</a> and even the track's producer <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>. The subliminal messages had been speculated by listeners and confirmed by artists on several occasions, including <a href="/wiki/XXL_Magazine" title="XXL Magazine" class="mw-redirect">XXL Magazine</a>'s April 2003 edition "The Making of: Life After Death".</p>
+<p>In "The Making of: Life After Death" Nashiem Myrick reveals that the second verse has lines directed at <a href="/wiki/Jeru_the_Damaja" title="Jeru the Damaja">Jeru the Damaja</a> &amp; <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>:<sup id="cite_ref-xxlmag.com_4-0" class="reference"><a href="#cite_note-xxlmag.com-4"><span>[</span>4<span>]</span></a></sup> "Nas said that record was for him, but when Big said, “Son, I’m surprised you run with them/I think they got cum in them, ’cause they nothin’ but dicks,” he was talking about Jeru the Damaja to Premo ’cause Jeru was going at Big and Puff and all them [with the Premier-produced “One Day” in Jeru's album <i><a href="/wiki/Wrath_of_the_Math" title="Wrath of the Math">Wrath of the Math</a></i>]."</p>
+<p>The line "Fuck that, why try, throw bleach in your eye" is a reference to Raekwon's jab on the track "Ice Water" from <i><a href="/wiki/Only_Built_4_Cuban_Linx..." title="Only Built 4 Cuban Linx...">Only Built 4 Cuban Linx...</a></i> where Raekwon raps</p>
+<blockquote>
+<p>That's life, to top it all off, beef for white<br />
+pullin bleach out tryin to throw it in my eyesight<br /></p>
+</blockquote>
+<p>The lines on the final verse are directed at Nas as a reference to Nas challenging The Notorious B.I.G. for the title of King of N.Y.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> in the song "<a href="/wiki/The_Message_(Nas_song)" title="The Message (Nas song)">The Message</a>" from the album <i><a href="/wiki/It_Was_Written" title="It Was Written">It Was Written</a></i> in which Nas raps:</p>
+<blockquote>
+<p>Yo let me let y'all niggaz know one thing<br />
+There's one life, one love, so there can only be one King<br /></p>
+</blockquote>
+<p>Biggie struck back with the lines:</p>
+<blockquote>
+<p>Ain't no other kings in this rap thing<br />
+They siblings, nothing but my chil'ren<br />
+One shot, they disappearin'<br />
+It's ill when MC's used to be on cruddy shit<br />
+Took home Ready to Die, listened, studied shit<br />
+Now they on some money shit, successful out the blue<br /></p>
+</blockquote>
+<p>In "The Making of: Life After Death" article Lil’ Cease explains: "Big talked about Nas a little bit in that shit. It was the King of New York part, the last verse: “This goes out for those that chose to use disrespectful views on the King of NY.” That’s when Nas had that freestyle out, where he was like, “I’ll take the crown off the so-called King and lock it down.” That’s when Big had the cover of The Source, and it said, “The King of New York.”<sup id="cite_ref-xxlmag.com_4-1" class="reference"><a href="#cite_note-xxlmag.com-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Nas has touched on the track on his album <i><a href="/wiki/God%27s_Son" title="God's Son">God's Son</a></i>. Here Nas states:</p>
+<blockquote>
+<p>Y'all don't know about my Biggie wars<br />
+Who you thought "Kick in the Door" was for?<br /></p>
+</blockquote>
+<p>And finally commenting on the whole situation with Ghostface and Raekwon:</p>
+<blockquote>
+<p>BIG was ahead of his time, him and Raekwon my niggaz<br />
+But dig it, they couldn't get along<br />
+That's when Ghostface said it on the Purple Tape<br />
+Bad Boy biting Nas album cover, wait??<br />
+BIG told me Rae was stealing my slang<br />
+And Rae told me out in Shaolin BIG would do the same thing<br /></p>
+</blockquote>
+<h3><span class="mw-headline" id=".22Long_Kiss_Goodnight.22">"Long Kiss Goodnight"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=5" title="Edit section: &quot;Long Kiss Goodnight&quot;">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It was also speculated by many listeners that the song "Long Kiss Goodnight" contains cryptic insults towards <a href="/wiki/2Pac" title="2Pac" class="mw-redirect">2Pac</a> and <a href="/wiki/Death_Row_Records" title="Death Row Records">Death Row Records</a> CEO <a href="/wiki/Suge_Knight" title="Suge Knight">Suge Knight</a>, although at the time it was never confirmed due to the sensitive nature of both rappers' recent deaths.</p>
+<p>However, Lil' Cease, Biggie's cousin and a member of Junior M.A.F.I.A. claimed the following in <a href="/wiki/XXL_Magazine" title="XXL Magazine" class="mw-redirect">XXL Magazine</a>'s April 2003 issue about Long Kiss Goodnight: "That was about ’Pac. He had some shit at the beginning of that though, nobody heard it, on the reel. We had to change it. It was a little too much. I can’t remember what Big said about him, but it was terrible. It couldn’t make it. He didn’t want to do it. He had some fire. But he didn’t want to make it too much. He just wanted to address it and to let nigga know, “I know what’s going on, and I could get wreck if I want to.” Like, “If I really wanted to get on ya niggas, I could.”</p>
+<p><a href="/wiki/P_Diddy" title="P Diddy" class="mw-redirect">Sean Combs</a>, however, denies these claims stating: "Naw, it was just some emcee lyrics. I know people wanna have their imagination, but it was just lyrics. You're hearing it from the horse's mouth. I would tell the truth."<sup id="cite_ref-xxlmag.com_4-2" class="reference"><a href="#cite_note-xxlmag.com-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>In the first verse, the lyric "Laugh Now, Cry Later" is allegedly a reference to two tattoos on 2Pac’s back.<sup id="cite_ref-rapgenius.com_6-0" class="reference"><a href="#cite_note-rapgenius.com-6"><span>[</span>6<span>]</span></a></sup> A line in the first verse is supposedly aimed at Shakur:</p>
+<blockquote>
+<p>When my men bust you just move with such stamina<br />
+Slugs missed ya, <a href="/wiki/I_Ain%27t_Mad_at_Cha" title="I Ain't Mad at Cha">I Ain't Mad at Cha</a> (We Ain't Mad at Cha)<br /></p>
+</blockquote>
+<p>The last 2 verses in particular seem to be directed towards Tupac:</p>
+<blockquote>
+<p>I'm flaming gats, aimin' at these fuckin' maniacs<br />
+Put my name in raps, what part the game is that?<br />
+Like they hustle backwards<br />
+I smoke Backwoods and Dutchies, ya can't touch me<br />
+Try to rush me, slugs go touchy-touchy<br />
+You're bleeding lovely with your spirit above me or beneath me<br />
+Your whole life you live sneaky<br />
+Now you rest eternally, sleepy, you burn when you creep me<br />
+Rest where the worms and the weak be<br /></p>
+</blockquote>
+<blockquote>
+<p>Slugs hit your chest, tap your spine, flat line<br />
+Heard through the grapevine, <a href="/wiki/Prison_rape" title="Prison rape">you got fucked fo' times</a><br />
+Damn that three to nine, fucked you up for real though<br />
+Slugs still slow, as for remorse, we feel no<br /></p>
+</blockquote>
+<p>The lines seem to be making reference to Tupac frequently mentioning Biggie <i>by name</i> in his raps, and allegations spread by <a href="/wiki/Wendy_Williams" title="Wendy Williams">Wendy Williams</a> that he had been raped during his prison term at <a href="/wiki/Rikers_Island" title="Rikers Island">Rikers Island</a>.<sup id="cite_ref-rapgenius.com_6-1" class="reference"><a href="#cite_note-rapgenius.com-6"><span>[</span>6<span>]</span></a></sup> Although some fans have interpreted these lines as references to Shakur's murder, XXL Magazine wrote that the song was most likely recorded before 2Pac's death.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Other_references">Other references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=6" title="Edit section: Other references">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In "Going Back to Cali" the second verse opens up with Biggie's thoughts on the inter-coastal war and his relationship with the West Coast:</p>
+<blockquote>
+<p>If I got to choose a coast I got to choose the East<br />
+I live out there, so don't go there<br />
+But that don't mean a nigga can't rest in the West<br />
+See some nice breasts in the West<br />
+Smoke some nice sess in the West, y'all niggas is a mess<br />
+Thinkin' I'm gon' stop, givin' L.A. props<br />
+All I got is beef with those that violate me<br />
+I shall annihilate thee<br />
+Case closed</p>
+</blockquote>
+<p>In the song "<a href="/wiki/Notorious_Thugs" title="Notorious Thugs" class="mw-redirect">Notorious Thugs</a>", B.I.G. clearly refers to long time nemesis <a href="/wiki/2Pac" title="2Pac" class="mw-redirect">2Pac</a> in the line "so called beef with you-know-who", calling the feud between him and Shakur 'bullshit', while <a href="/wiki/Bone_Thugs-N-Harmony" title="Bone Thugs-N-Harmony" class="mw-redirect">Bone Thugs-N-Harmony</a> (who featured 2Pac on one of their songs the same year) throw jabs at <a href="/wiki/Three_6_Mafia" title="Three 6 Mafia">Three 6 Mafia</a>, <a href="/wiki/Twista" title="Twista">Twista</a>, <a href="/wiki/Crucial_Conflict" title="Crucial Conflict">Crucial Conflict</a> and <a href="/wiki/Do_or_Die_(group)" title="Do or Die (group)">Do or Die</a>.</p>
+<p>The tracks "What's Beef" and "My Downfall", both of which deal with the subject of feuding, as well as "Last Day" and "You're Nobody (Till Somebody Kills You)" are also said to contain apparent jabs aimed at his rivals (including Shakur), even though Biggie stated in a <a href="/wiki/Spin_Magazine" title="Spin Magazine" class="mw-redirect">Spin Magazine</a> interview that the song "You're Nobody (Till Somebody Kills You)" was not directed at Shakur, who at the time had recently been shot.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=7" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Initial_reaction">Initial reaction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=8" title="Edit section: Initial reaction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Birchmeier_9-0" class="reference"><a href="#cite_note-Birchmeier-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">A<sup id="cite_ref-Christgau_10-0" class="reference"><a href="#cite_note-Christgau-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">C+<sup id="cite_ref-Browne_11-0" class="reference"><a href="#cite_note-Browne-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/4 stars"><img alt="4/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Coker_12-0" class="reference"><a href="#cite_note-Coker-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-DeCurtis_13-0" class="reference"><a href="#cite_note-DeCurtis-13"><span>[</span>13<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The Rolling Stone Album Guide</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Hoard_14-0" class="reference"><a href="#cite_note-Hoard-14"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Gonzales_15-0" class="reference"><a href="#cite_note-Gonzales-15"><span>[</span>15<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/4 stars"><img alt="3.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Jones_16-0" class="reference"><a href="#cite_note-Jones-16"><span>[</span>16<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i>Life After Death</i> received positive reviews from contemporary <a href="/wiki/Music_journalism" title="Music journalism">music critics</a>. Jon Pareles of <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> described the album as "flaunting affluence with a leisurely swagger, midtempo grooves and calmly arrogant raps".<sup id="cite_ref-Pareles_17-0" class="reference"><a href="#cite_note-Pareles-17"><span>[</span>17<span>]</span></a></sup> Anthony DeCurtis of <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> magazine called it a "conscious continuation of <i><a href="/wiki/Ready_to_Die" title="Ready to Die">Ready to Die</a></i>", and stated "<i>Life After Death</i> captures crime's undeniable glamour but doesn't stint on the fear, desperation and irretrievable loss that the streets inevitably exact".<sup id="cite_ref-DeCurtis_13-1" class="reference"><a href="#cite_note-DeCurtis-13"><span>[</span>13<span>]</span></a></sup> Cheo Hodari Coker from <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i> wrote that "<i>Life After Death</i> reflects both the dark and the heartfelt sides of the rapper's <a href="/wiki/Gemini_(astrology)" title="Gemini (astrology)">Gemini</a> personality. It's not only a complex testament to who he was in his private life, but also a demonstration of his amazing rhyming ability. In key moments, B.I.G. does a marvelous job of surfing between accessible music fare tailored for the radio, and more challenging material that will be savored by hard-core rap fans who have long admired B.I.G.'s microphone skills. Rarely has a rapper attempted to please so many different audiences and done it so brilliantly".<sup id="cite_ref-Coker_12-1" class="reference"><a href="#cite_note-Coker-12"><span>[</span>12<span>]</span></a></sup> Although David Browne of <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> was un-favorable of the album’s long length, and some of its violent and materialistic content, he commended Notorious B.I.G.’s "bicoastal respect" by working with other hip-hop styles and artists from other regions of the United States.<sup id="cite_ref-Browne_11-1" class="reference"><a href="#cite_note-Browne-11"><span>[</span>11<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Retrospect">Retrospect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=9" title="Edit section: Retrospect">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since its release, <i>Life After Death</i> has received retrospective acclaim from critics. <a href="/wiki/Rob_Sheffield" title="Rob Sheffield">Rob Sheffield</a>, writing in <i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The Rolling Stone Album Guide</a></i> (2004), called it "a <a href="/wiki/Filler_(media)" title="Filler (media)">filler</a>-free two-disc rush of musical bravado" and commented that the Notorious B.I.G.'s voice and lyrics were "deeper" than before.<sup id="cite_ref-Hoard_14-1" class="reference"><a href="#cite_note-Hoard-14"><span>[</span>14<span>]</span></a></sup> <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>’s Jason Birchmeier stated "It may have taken the Notorious B.I.G. a few years to follow up his milestone debut, <i>Ready to Die</i>, with another album, but when he did return with <i>Life After Death</i>, he did so in a huge way. The ambitious album, intended as somewhat of a sequel to <i>Ready to Die</i>, picked up where its predecessor left off".<sup id="cite_ref-Birchmeier_9-1" class="reference"><a href="#cite_note-Birchmeier-9"><span>[</span>9<span>]</span></a></sup> Birchmeier further stated "Over the course of only two albums, he achieved every success imaginable, perhaps none greater than this unabashedly over-reaching success".<sup id="cite_ref-Birchmeier_9-2" class="reference"><a href="#cite_note-Birchmeier-9"><span>[</span>9<span>]</span></a></sup> Evan McGarvey of <a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a> wrote in his review "<i>Life After Death</i> is a grand exercise in personal mythology, narrative sweep, and truly diverse, universal pop excellence. As a double album it is the very definition of cinematic; it essentially perfected the concept and standard in hip-hop ... Sequenced as an unpacking of sorts, the album’s progression from song to song is an essay itself".<sup id="cite_ref-McGarvey_18-0" class="reference"><a href="#cite_note-McGarvey-18"><span>[</span>18<span>]</span></a></sup> In 2013, VIBE named Life After Death the greatest Hip-Hop/R&amp;B album since 1993.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Legacy_and_influence">Legacy and influence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=10" title="Edit section: Legacy and influence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Though released in the wake of B.I.G.'s fatal shooting, <i>Life After Death</i> signaled a stylistic change in <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a> as it crossed over to the commercial mainstream. After the release of <i>Life After Death</i>, <a href="/wiki/Puff_Daddy" title="Puff Daddy" class="mw-redirect">Puff Daddy</a>’s <a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy Records</a> continued to bring pop and gangsta rap closer together: the references to violence and drug dealing remained, as did the entire "gangsta" rhetoric, but the overall production style changed from the previously darker sound to a cleaner, <a href="/wiki/Sampling_(music)" title="Sampling (music)">sample</a>-heavy, more upbeat sound that was directly fashioned for the mainstream pop charts, as seen in the single "Mo Money Mo Problems". The Notorious B.I.G. is often credited with initiating this transition, as he was among the first mainstream rappers to produce albums with a calculated attempt to include both gritty and realistic gangsta narratives as well as more radio-friendly productions. Much of the album is produced by Deric "D-Dot" Angelettie, Carlos "July Six" Broady, Ron "Amen-Ra" Lawrence, and Nashiem Myrick. However, other notable hip-hop producers such as <a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Easy Mo Bee</a>, <a href="/wiki/Havoc_(Mobb_Deep)" title="Havoc (Mobb Deep)" class="mw-redirect">Havoc</a> from <a href="/wiki/Mobb_Deep" title="Mobb Deep">Mobb Deep</a>, <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a> and <a href="/wiki/RZA" title="RZA" class="mw-redirect">RZA</a> from <a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a> contributed beats to the album as well.</p>
+<p>Various artists were specifically influenced by several songs on <i>Life After Death</i>. <a href="/wiki/Evidence_(artist)" title="Evidence (artist)" class="mw-redirect">Evidence</a>'s "Down in New York City" is essentially "Going Back to Cali" from the perspective of a <a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast</a> artist. <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> borrows four bars from "The World Is Filled..." in his song "<a href="/wiki/I_Just_Wanna_Love_U_(Give_It_2_Me)" title="I Just Wanna Love U (Give It 2 Me)">I Just Wanna Love U (Give It 2 Me)</a>", as well as the chorus from his song "Squeeze 1st" from "<a href="/wiki/Hypnotize_(The_Notorious_B.I.G._song)" title="Hypnotize (The Notorious B.I.G. song)">Hypnotize</a>", a line in "The Ruler's Back" from "Kick in the Door" and "You're Nobody ('Til Somebody Kills You)" on "<a href="/wiki/D.O.A._(Death_of_Auto-Tune)" title="D.O.A. (Death of Auto-Tune)">D.O.A. (Death of Auto-Tune)</a>". <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a> borrows the chorus from "Kick in the Door" for his song "Child Support". <a href="/wiki/Monica_(entertainer)" title="Monica (entertainer)" class="mw-redirect">Monica</a> uses the "I Love the Dough" beat and a verse from B.I.G. as featured on 2010's "<a href="/wiki/Everything_to_Me_(Monica_song)" title="Everything to Me (Monica song)">Everything to Me</a>" official remix. On their <a href="/wiki/RCA_Records" title="RCA Records">RCA</a> album, <i><a href="/wiki/Release_Some_Tension" title="Release Some Tension">Release Some Tension</a></i>, R&amp;B trio <a href="/wiki/SWV" title="SWV">SWV</a> sampled the song on as the opening track, "Someone" which features B.I.G's friend Combs which was released five months later. French rapper <a href="/wiki/Rohff" title="Rohff">Rohff</a> named his album "La Vie Avant La Mort" (Life Before Death) (2001) as a tribute to BIG, the album has sold 350,000 copies.</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=11" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Credits adapted from <i>Life After Death</i> liner notes.<sup id="cite_ref-booklet_20-0" class="reference"><a href="#cite_note-booklet-20"><span>[</span>20<span>]</span></a></sup></li>
+</ul>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">Disc One</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Life After Death Intro" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">Christopher Wallace</a></li>
+<li><a href="/wiki/Sean_Combs" title="Sean Combs">Sean Combs</a></li>
+<li><a href="/wiki/Stevie_J" title="Stevie J">Steven Jordan</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Sean "Puffy" Combs</li>
+<li><a href="/wiki/Stevie_J" title="Stevie J">Stevie J.</a></li>
+<li><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a><sup class="reference plainlinks nourlexpansion" id="ref_a"><a href="#endnote_a">[a]</a></sup></li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:39</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Somebody's Gotta Die" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li>Nashiem Myrick</li>
+<li>Carlos Broady</li>
+<li>Combs</li>
+<li><a href="/wiki/The_Dramatics" title="The Dramatics">Anthony Hester</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Myrick</li>
+<li>Carlos "July Six" Broady</li>
+<li>Combs</li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:26</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Hypnotize_(The_Notorious_B.I.G._song)" title="Hypnotize (The Notorious B.I.G. song)">Hypnotize</a>" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li>Combs</li>
+<li><a href="/wiki/D-Dot" title="D-Dot">Deric Angelettie</a></li>
+<li>Ron Lawrence</li>
+<li>Andy Armer</li>
+<li><a href="/wiki/Herb_Alpert" title="Herb Alpert">R. Alpert</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Deric "D-Dot" Angelettie</li>
+<li>Ron "Amen-Ra" Lawrence</li>
+<li>Combs</li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:50</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Kick In the Door" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li><a href="/wiki/Screamin%27_Jay_Hawkins" title="Screamin' Jay Hawkins">Jalacy Hawkins</a></li>
+<li><a href="/wiki/DJ_Premier" title="DJ Premier">Christopher Martin</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;"><a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:47</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Fuck You Tonight" <span style="font-size:85%;">(featuring <a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li><a href="/wiki/Daron_Jones" title="Daron Jones">Daron Jones</a></li>
+<li>Combs</li>
+<li><a href="/wiki/R._Kelly" title="R. Kelly">Robert Kelly</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Jones</li>
+<li>Combs</li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:45</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Last Day" <span style="font-size:85%;">(featuring <a href="/wiki/The_LOX" title="The LOX" class="mw-redirect">The Lox</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li><a href="/wiki/Jadakiss" title="Jadakiss">Jason Phillips</a></li>
+<li><a href="/wiki/Styles_P" title="Styles P">David Styles</a></li>
+<li><a href="/wiki/Havoc_(musician)" title="Havoc (musician)">Kejuan Muchita</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li><a href="/wiki/Havoc_(musician)" title="Havoc (musician)">Havoc</a></li>
+<li>Combs<sup class="reference plainlinks nourlexpansion" id="ref_a"><a href="#endnote_a">[a]</a></sup></li>
+<li>Stevie J.<sup class="reference plainlinks nourlexpansion" id="ref_a"><a href="#endnote_a">[a]</a></sup></li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:19</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"I Love the Dough" <span style="font-size:85%;">(featuring <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> and <a href="/wiki/Angela_Winbush" title="Angela Winbush">Angela Winbush</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li><a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Osten Harvey, Jr.</a></li>
+<li>Winbush</li>
+<li><a href="/wiki/Ren%C3%A9_Moore" title="René Moore">René Moore</a></li>
+<li><a href="/wiki/Jay-Z" title="Jay-Z">Shawn Carter</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;"><a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Easy Mo Bee</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:11</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"What's Beef?" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li>Myrick</li>
+<li>Broady</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Broady</li>
+<li>Myrick</li>
+<li>Paragon<sup class="reference plainlinks nourlexpansion" id="ref_a"><a href="#endnote_a">[a]</a></sup></li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:15</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"B.I.G. Interlude" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li>Angelettie</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>B.I.G.</li>
+<li>Angelettie</li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:48</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Mo_Money_Mo_Problems" title="Mo Money Mo Problems">Mo Money Mo Problems</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Puff_Daddy" title="Puff Daddy" class="mw-redirect">Puff Daddy</a> and <a href="/wiki/Mase" title="Mase">Mase</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li>Combs</li>
+<li>Jordan</li>
+<li><a href="/wiki/Mase" title="Mase">Mason Betha</a></li>
+<li><a href="/wiki/Bernard_Edwards" title="Bernard Edwards">Bernard Edwards</a></li>
+<li><a href="/wiki/Nile_Rodgers" title="Nile Rodgers">Nile Rodgers</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Stevie J.</li>
+<li>Combs</li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:17</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Niggas Bleed" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li>Myrick</li>
+<li>Combs</li>
+</ul>
+<ul>
+<li>Jordan</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Myrick</li>
+<li>Broady</li>
+<li>Combs</li>
+<li>Stevie J.</li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:51</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"I Got a Story to Tell" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li><a href="/wiki/Buckwild" title="Buckwild">Anthony Best</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li><a href="/wiki/Buckwild" title="Buckwild">Buck Wild</a></li>
+<li><a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a><sup class="reference plainlinks nourlexpansion" id="ref_a"><a href="#endnote_a">[a]</a></sup></li>
+<li>Combs<sup class="reference plainlinks nourlexpansion" id="ref_a"><a href="#endnote_a">[a]</a></sup></li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:42</td>
+</tr>
+<tr>
+<td align="right" colspan="4">
+<div style="width: 7.5em; text-align: left; padding-left: 10px; background-color: #eee; margin: 0;"><b>Total length:</b></div>
+</td>
+<td style="padding-right: 10px; text-align: right; background-color: #eee;"><b>49:55</b></td>
+<td class="mbox-empty-cell"></td>
+</tr>
+</table>
+<p><small>(co.) denotes co-producer</small><br /></p>
+<dl>
+<dt><b>Disc one notes</b><sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></dt>
+</dl>
+<ul>
+<li>Tracks 1, 2, 4, 6, 8, 11, 12 are not present on edited versions.</li>
+<li>"Life After Death (Intro)" contains <a href="/wiki/Sampling_(music)" title="Sampling (music)">sample</a> of "<a href="/wiki/Suicidal_Thoughts" title="Suicidal Thoughts" class="mw-redirect">Suicidal Thoughts</a>" by Notorious B.I.G., and "<a href="/wiki/This_Masquerade" title="This Masquerade">This Masquerade</a>" by <a href="/wiki/George_Benson" title="George Benson">George Benson</a>.</li>
+<li>"Somebody's Gotta Die" contains a sample of "In the Rain" by <a href="/wiki/The_Dramatics" title="The Dramatics">The Dramatics</a>.</li>
+<li>"Hypnotize" contains a sample of "Rise" by <a href="/wiki/Herb_Alpert" title="Herb Alpert">Herb Alpert</a>, and an <a href="/wiki/Interpolation_(music)" title="Interpolation (music)">interpolation</a> of "<a href="/wiki/La_Di_Da_Di" title="La Di Da Di">La Di Da Di</a>" by <a href="/wiki/Slick_Rick" title="Slick Rick">Slick Rick</a> &amp; <a href="/wiki/Doug_E._Fresh" title="Doug E. Fresh">Doug E. Fresh</a>.</li>
+<li>"Kick in the Door" contains a sample of "<a href="/wiki/I_Put_A_Spell_On_You" title="I Put A Spell On You" class="mw-redirect">I Put A Spell On You</a>" by <a href="/wiki/Screamin%27_Jay_Hawkins" title="Screamin' Jay Hawkins">Screamin' Jay Hawkins</a>, "Unbelievable" by Notorious B.I.G., "Get Money" by <a href="/wiki/Junior_M.A.F.I.A." title="Junior M.A.F.I.A.">Junior M.A.F.I.A.</a>, "Wash Yo' Ass" by <a href="/wiki/Martin_Lawrence" title="Martin Lawrence">Martin Lawrence</a>, and "Robby, The Cook, And 60 Gallons Of Booze" by Louis &amp; Bebe Barron.</li>
+<li>"I Love the Dough" contains a sample and interpolation of "I Love You More" by <a href="/wiki/Rene_%26_Angela" title="Rene &amp; Angela" class="mw-redirect">Rene &amp; Angela</a>, and "Da Ya Think I'm Sexy?" by <a href="/wiki/Rod_Stewart" title="Rod Stewart">Rod Stewart</a>.</li>
+<li>"What's Beef?" contains a sample of "I'm Glad You're Mine" by <a href="/wiki/Al_Green" title="Al Green">Al Green</a> and "Close To You" by Richard Evans.</li>
+<li>"B.I.G. Interlude" contains a sample of "P.S.K. What Does It Mean?" by <a href="/wiki/Schooly_D" title="Schooly D" class="mw-redirect">Schooly D</a>.</li>
+<li>"Mo Money Mo Problems" contains a sample of "<a href="/wiki/I%27m_Coming_Out" title="I'm Coming Out">I'm Coming Out</a>" by <a href="/wiki/Diana_Ross" title="Diana Ross">Diana Ross</a>.</li>
+<li>"Niggas Bleed" contains a sample of "Hey Who Really Cares" by <a href="/wiki/The_Whispers" title="The Whispers">The Whispers</a>.</li>
+<li>"I Got a Story to Tell" contains a sample of "I'm Glad You're Mine" by <a href="/wiki/Al_Green" title="Al Green">Al Green</a>.</li>
+</ul>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">Disc Two</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Notorious_Thugs" title="Notorious Thugs" class="mw-redirect">Notorious Thugs</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Bone_Thugs-n-Harmony" title="Bone Thugs-n-Harmony">Bone Thugs-n-Harmony</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li><a href="/wiki/Layzie_Bone" title="Layzie Bone">Steven Howse</a></li>
+<li><a href="/wiki/Krayzie_Bone" title="Krayzie Bone">Anthony Henderson</a></li>
+<li><a href="/wiki/Bizzy_Bone" title="Bizzy Bone">Bryon McCane</a></li>
+<li>Combs</li>
+<li>Jordan</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Stevie J.</li>
+<li>Combs</li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:07</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Miss U" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li><a href="/wiki/Naughty_by_Nature" title="Naughty by Nature">Kaygee Gist</a></li>
+<li><a href="/wiki/Lionel_Richie" title="Lionel Richie">Lionel Richie</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;"><a href="/wiki/Naughty_by_Nature" title="Naughty by Nature">Kay-Gee</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:58</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Another" <span style="font-size:85%;">(featuring <a href="/wiki/Lil%27_Kim" title="Lil' Kim">Lil' Kim</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li><a href="/wiki/Lil%27_Kim" title="Lil' Kim">Kimberly Jones</a></li>
+<li>Combs</li>
+<li>Jordan</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Combs</li>
+<li>Stevie J.</li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:15</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Going Back to Cali" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li>Harvey</li>
+<li><a href="/wiki/Roger_Troutman" title="Roger Troutman">Roger Troutman</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">Easy Mo Bee</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:07</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Ten Crack Commandments" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li>Martin</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">DJ Premier</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:24</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Playa Hater" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li>Combs</li>
+<li>Jordan</li>
+<li><a href="/wiki/The_Delfonics" title="The Delfonics">Wilbert Hart</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Combs</li>
+<li>Stevie J.</li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:57</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Nasty Boy" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li>Combs</li>
+<li>Jordan</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Combs</li>
+<li>Stevie J.</li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:26</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Sky%27s_the_Limit_(song)" title="Sky's the Limit (song)">Sky's the Limit</a>" <span style="font-size:85%;">(featuring <a href="/wiki/112_(band)" title="112 (band)" class="mw-redirect">112</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li><a href="/wiki/Clark_Kent_(producer)" title="Clark Kent (producer)">Clark Kent</a></li>
+<li><a href="/wiki/Bobby_Caldwell" title="Bobby Caldwell">Bobby Caldwell</a></li>
+<li><a href="/wiki/Hubert_Eaves_III" title="Hubert Eaves III">Hubert Eaves III</a></li>
+<li><a href="/wiki/D-Train" title="D-Train" class="mw-redirect">James Williams</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">Kent</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:29</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"The World Is Filled..." <span style="font-size:85%;">(featuring <a href="/wiki/Puff_Daddy" title="Puff Daddy" class="mw-redirect">Puff Daddy</a> and <a href="/wiki/Too_Short" title="Too Short">Too $hort</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li>Angelettie</li>
+<li>Combs</li>
+<li>Kit Walker</li>
+<li><a href="/wiki/Too_Short" title="Too Short">Todd Shaw</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Angelettie</li>
+<li>Combs</li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:54</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"My Downfall" <span style="font-size:85%;">(featuring <a href="/wiki/Darryl_McDaniels" title="Darryl McDaniels">DMC</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li>Myrick</li>
+<li>Broady</li>
+<li>Combs</li>
+<li><a href="/wiki/Darryl_McDaniels" title="Darryl McDaniels">Darryl McDaniels</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Broady</li>
+<li>Myrick</li>
+<li>Combs</li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:26</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Long Kiss Goodnight" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li><a href="/wiki/RZA" title="RZA" class="mw-redirect">Robert Diggs</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;"><a href="/wiki/RZA" title="RZA" class="mw-redirect">RZA</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:18</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"You're Nobody (Til Somebody Kills You)" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Wallace</li>
+<li>Combs</li>
+<li>Jordan</li>
+<li><a href="/wiki/Billy_Preston" title="Billy Preston">Billy Preston</a></li>
+<li>Ephram Lopez</li>
+<li><a href="/wiki/Brothers_Johnson" title="Brothers Johnson" class="mw-redirect">George Johnson</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Combs</li>
+<li>Stevie J.</li>
+<li><a href="/wiki/DJ_Enuff" title="DJ Enuff">DJ Enuff</a><sup class="reference plainlinks nourlexpansion" id="ref_a"><a href="#endnote_a">[a]</a></sup></li>
+<li>Jiv Poss<sup class="reference plainlinks nourlexpansion" id="ref_a"><a href="#endnote_a">[a]</a></sup></li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:52</td>
+</tr>
+<tr>
+<td align="right" colspan="4">
+<div style="width: 7.5em; text-align: left; padding-left: 10px; background-color: #eee; margin: 0;"><b>Total length:</b></div>
+</td>
+<td style="padding-right: 10px; text-align: right; background-color: #eee;"><b>59:29</b></td>
+<td class="mbox-empty-cell"></td>
+</tr>
+</table>
+<dl>
+<dt><b>Disc two notes</b></dt>
+</dl>
+<ul>
+<li>Tracks 9 and 11 are not present on edited versions.</li>
+<li>"Notorious Thugs" contains a sample of "More Than Love" by <a href="/wiki/Ohio_Players" title="Ohio Players">Ohio Players</a>.</li>
+<li>"Miss U" contains an interpolation of "Missing You" by Diana Ross.</li>
+<li>"Another" contains a sample and interpolation of "Another Man" by <a href="/wiki/Barbara_Mason" title="Barbara Mason">Barbara Mason</a>.</li>
+<li>"Going Back to Cali" contains a sample of "More Bounce To The Ounce" by <a href="/wiki/Zapp_(band)" title="Zapp (band)">Zapp</a>.</li>
+<li>"Ten Crack Commandments" contains a sample of "Valantra" by <a href="/wiki/Les_McCann" title="Les McCann">Les McCann</a>, and "Shut 'Em Down" by <a href="/wiki/Public_Enemy_(band)" title="Public Enemy (band)" class="mw-redirect">Public Enemy</a>.</li>
+<li>"Playa Hater" contains a sample and interpolation of "Hey! Love" by <a href="/wiki/The_Delfonics" title="The Delfonics">The Delfonics</a>.</li>
+<li>"Nasty Boy" contains a sample of "Cavern" by Liquid Liquid.</li>
+<li>"Sky's the Limit" contains a sample of "My Flame" by <a href="/wiki/Bobby_Caldwell" title="Bobby Caldwell">Bobby Caldwell</a>.</li>
+<li>"The World Is Filled..." contains a sample of "Space Talk" by <a href="/wiki/Asha_Puthli" title="Asha Puthli">Asha Puthli</a>, and "The What" by Notorious B.I.G..</li>
+<li>"My Downfall" contains a sample of "For The Good Times" by Al Green.</li>
+</ul>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=12" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Performers">Performers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=13" title="Edit section: Performers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Notorious_B.I.G." title="Notorious B.I.G." class="mw-redirect">Notorious B.I.G.</a> - writer, performer</li>
+<li><a href="/wiki/Sean_%22Puffy%22_Combs" title="Sean &quot;Puffy&quot; Combs" class="mw-redirect">Sean "Puffy" Combs</a> - featured performer</li>
+<li><a href="/wiki/Lil%27_Kim" title="Lil' Kim">Lil' Kim</a> - featured performer</li>
+<li><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> - featured performer</li>
+<li><a href="/wiki/Too_Short" title="Too Short">Too Short</a> - featured performer</li>
+<li><a href="/wiki/Mase" title="Mase">Mase</a> - featured performer</li>
+<li><a href="/wiki/Bizzy_Bone" title="Bizzy Bone">Bizzy Bone</a> - featured performer</li>
+<li><a href="/wiki/Krayzie_Bone" title="Krayzie Bone">Krayzie Bone</a> - featured performer</li>
+<li><a href="/wiki/Layzie_Bone" title="Layzie Bone">Layzie Bone</a> - featured performer</li>
+<li><a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a> - featured performer</li>
+<li><a href="/wiki/Styles_P" title="Styles P">Styles P</a> - featured performer</li>
+<li><a href="/wiki/Sheek_Louch" title="Sheek Louch">Sheek Louch</a> - featured performer</li>
+<li><a href="/wiki/112_(band)" title="112 (band)" class="mw-redirect">112</a> - featured vocals</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a> - featured vocals</li>
+<li><a href="/wiki/Darryl_McDaniels" title="Darryl McDaniels">DMC</a> - featured vocals</li>
+<li><a href="/wiki/Angela_Winbush" title="Angela Winbush">Angela Winbush</a> - featured vocals</li>
+<li><a href="/wiki/Kelly_Price" title="Kelly Price">Kelly Price</a> - vocals</li>
+<li><a href="/wiki/Total_(band)" title="Total (band)" class="mw-redirect">Pamela Long</a> - vocals</li>
+<li><a href="/wiki/Carl_Thomas_(singer)" title="Carl Thomas (singer)">Carl Thomas</a> - vocals</li>
+<li><a href="/wiki/Faith_Evans" title="Faith Evans">Faith Evans</a> - background vocals</li>
+<li>Karen Anderson - background vocals</li>
+<li>Keanna Henson - background vocals</li>
+<li>Deborah Neeley Rolle - background vocals</li>
+<li>Ron Grant - background vocals</li>
+<li>Michael Ciro - guitar</li>
+<li>Butch Ingram - Writer- publisher</li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=14" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Sean "Puffy" Combs - producer, mixing</li>
+<li>Carlos "6 July" Broady - producer, hammond organ</li>
+<li><a href="/wiki/D-Dot" title="D-Dot">Deric "D-Dot" Angelettie</a>- producer</li>
+<li><a href="/wiki/Stevie_J" title="Stevie J">Stevie J</a> - producer</li>
+<li>Nashiem Myrick- producer</li>
+<li>Ron "Amen-Ra" Lawrence - producer</li>
+<li><a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Easy Mo Bee</a> - producer</li>
+<li><a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a> - producer</li>
+<li><a href="/wiki/Clark_Kent_(producer)" title="Clark Kent (producer)">Clark Kent</a> - producer</li>
+<li><a href="/wiki/RZA" title="RZA" class="mw-redirect">RZA</a> - producer</li>
+<li><a href="/wiki/Havoc_(musician)" title="Havoc (musician)">Havoc</a>- producer</li>
+<li><a href="/wiki/Buckwild" title="Buckwild">Buckwild</a> - producer</li>
+<li><a href="/wiki/Naughty_by_Nature" title="Naughty by Nature">Kay Gee</a> - editor, producer</li>
+<li><a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a> - producer</li>
+<li><a href="/wiki/DJ_Enuff" title="DJ Enuff">DJ Enuff</a> - producer</li>
+<li><a href="/wiki/Daron_Jones" title="Daron Jones">Daron Jones</a> - producer</li>
+<li>Paragon - producer</li>
+<li>Jiv Pos - producer</li>
+<li>Mike Pitts - assistant producer, editor</li>
+<li><a href="/wiki/Michael_Patterson_(producer)" title="Michael Patterson (producer)">Michael Patterson</a> - engineer, mixing</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Charles "Prince Charles" Alexander - engineer, mixing</li>
+<li>Lane Craven - engineer, mixing</li>
+<li><a href="/wiki/Manny_Marroquin" title="Manny Marroquin">Manny Marroquin</a> - engineer</li>
+<li>Camilo Argumedes - engineer</li>
+<li>Stephen Dent - engineer</li>
+<li>Ben Garrison - engineer</li>
+<li>Rasheed Goodlowe - engineer</li>
+<li>Steve Jones - engineer</li>
+<li>Rich July - engineer</li>
+<li>John Meredith - engineer</li>
+<li>Lynn Montrose - engineer</li>
+<li>Axel Niehaus - engineer</li>
+<li>Diana Pedraza - engineer</li>
+<li>Doug Wilson - engineer</li>
+<li><a href="/wiki/Tony_Maserati" title="Tony Maserati">Tony Maserati</a> - mixing</li>
+<li>Paul Logus - mixing</li>
+<li>Eddie Sancho - mixing</li>
+<li>Richard Travali - mixing</li>
+<li>Herb Powers - mastering</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Charts_and_certifications">Charts and certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=15" title="Edit section: Charts and certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Weekly_charts">Weekly charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=16" title="Edit section: Weekly charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th align="left">Chart (1997)</th>
+<th style="text-align:center;">Peak<br />
+position</th>
+</tr>
+<tr>
+<td>Australian Albums (<a href="/wiki/ARIA_Charts" title="ARIA Charts">ARIA</a>)<sup id="cite_ref-ac_Australia_The_Notorious_B.I.G._22-0" class="reference"><a href="#cite_note-ac_Australia_The_Notorious_B.I.G.-22"><span>[</span>22<span>]</span></a></sup></td>
+<td align="center">59</td>
+</tr>
+<tr>
+<td>Belgian Albums (<a href="/wiki/Ultratop" title="Ultratop">Ultratop</a> Flanders)<sup id="cite_ref-ac_Flanders_The_Notorious_B.I.G._23-0" class="reference"><a href="#cite_note-ac_Flanders_The_Notorious_B.I.G.-23"><span>[</span>23<span>]</span></a></sup></td>
+<td align="center">30</td>
+</tr>
+<tr>
+<td><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums</a> (<a href="/wiki/Nielsen_SoundScan" title="Nielsen SoundScan">Nielsen SoundScan</a>)<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td>German Albums (<a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control</a>)<sup id="cite_ref-ac_Germany_The_Notorious_B.I.G._25-0" class="reference"><a href="#cite_note-ac_Germany_The_Notorious_B.I.G.-25"><span>[</span>25<span>]</span></a></sup></td>
+<td align="center">63</td>
+</tr>
+<tr>
+<td>Dutch Albums (<a href="/wiki/MegaCharts" title="MegaCharts">MegaCharts</a>)<sup id="cite_ref-ac_Netherlands_The_Notorious_B.I.G._26-0" class="reference"><a href="#cite_note-ac_Netherlands_The_Notorious_B.I.G.-26"><span>[</span>26<span>]</span></a></sup></td>
+<td align="center">16</td>
+</tr>
+<tr>
+<td>New Zealand Albums (<a href="/wiki/Recorded_Music_NZ" title="Recorded Music NZ">Recorded Music NZ</a>)<sup id="cite_ref-ac_New_Zealand_The_Notorious_B.I.G._27-0" class="reference"><a href="#cite_note-ac_New_Zealand_The_Notorious_B.I.G.-27"><span>[</span>27<span>]</span></a></sup></td>
+<td align="center">28</td>
+</tr>
+<tr>
+<td>Swedish Albums (<a href="/wiki/Sverigetopplistan" title="Sverigetopplistan">Sverigetopplistan</a>)<sup id="cite_ref-ac_Sweden_The_Notorious_B.I.G._28-0" class="reference"><a href="#cite_note-ac_Sweden_The_Notorious_B.I.G.-28"><span>[</span>28<span>]</span></a></sup></td>
+<td align="center">30</td>
+</tr>
+<tr>
+<td>UK Albums (<a href="/wiki/Official_Charts_Company" title="Official Charts Company">OCC</a>)<sup id="cite_ref-ac_UK_Notorious_B.I.G._29-0" class="reference"><a href="#cite_note-ac_UK_Notorious_B.I.G.-29"><span>[</span>29<span>]</span></a></sup></td>
+<td align="center">20</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-ac_Billboard200_The_Notorious_B.I.G._30-0" class="reference"><a href="#cite_note-ac_Billboard200_The_Notorious_B.I.G.-30"><span>[</span>30<span>]</span></a></sup></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-ac_BillboardRandBHipHop_The_Notorious_B.I.G._31-0" class="reference"><a href="#cite_note-ac_BillboardRandBHipHop_The_Notorious_B.I.G.-31"><span>[</span>31<span>]</span></a></sup></td>
+<td align="center">1</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Decade-end_charts">Decade-end charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=17" title="Edit section: Decade-end charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th>Chart (1990–1999)</th>
+<th>Position</th>
+</tr>
+<tr>
+<td>US <i>Billboard</i> 200<sup id="cite_ref-1990sbb_32-0" class="reference"><a href="#cite_note-1990sbb-32"><span>[</span>32<span>]</span></a></sup></td>
+<td style="text-align:center;">96</td>
+</tr>
+</table>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Certifications">Certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=18" title="Edit section: Certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable plainrowheaders">
+<tr>
+<th scope="col">Region</th>
+<th scope="col">Certification</th>
+<th scope="col" data-sort-type="number"><a href="/wiki/List_of_music_recording_certifications" title="List of music recording certifications">Sales/shipments</a></th>
+</tr>
+<tr>
+<td>Canada (<a href="/wiki/CRIA" title="CRIA" class="mw-redirect">CRIA</a>)</td>
+<td>2× Platinum</td>
+<td>200,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">United States (<a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a>)<sup id="cite_ref-United_StatesNotorious_B.I.G.Life_After_DeathalbumCertRef_33-0" class="reference"><a href="#cite_note-United_StatesNotorious_B.I.G.Life_After_DeathalbumCertRef-33"><span>[</span>33<span>]</span></a></sup></th>
+<td>Diamond</td>
+<td>10,000,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">United Kingdom (<a href="/wiki/British_Phonographic_Industry" title="British Phonographic Industry">BPI</a>)<sup id="cite_ref-United_KingdomNotorious_B.I.G.Life_After_DeathalbumCertRef_34-0" class="reference"><a href="#cite_note-United_KingdomNotorious_B.I.G.Life_After_DeathalbumCertRef-34"><span>[</span>34<span>]</span></a></sup></th>
+<td>Platinum</td>
+<td>300,000<sup>^</sup></td>
+</tr>
+<tr class="sortbottom">
+<td colspan="3">
+<center>
+<p><small><sup>*</sup>sales figures based on certification alone</small><br />
+<small><sup>^</sup>shipments figures based on certification alone</small><br />
+<small><sup>x</sup>unspecified figures based on certification alone</small></p>
+</center>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Chart_procession_and_succession">Chart procession and succession</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=19" title="Edit section: Chart procession and succession">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Nine_Lives_(Aerosmith_album)" title="Nine Lives (Aerosmith album)">Nine Lives</a></i> by <a href="/wiki/Aerosmith" title="Aerosmith">Aerosmith</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_1997_(USA)" title="Number-one albums of 1997 (USA)" class="mw-redirect">number-one album</a></b><br />
+April 12 - May 9, 1997</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Share_My_World" title="Share My World">Share My World</a></i> by <a href="/wiki/Mary_J._Blige" title="Mary J. Blige">Mary J. Blige</a></span></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Accolades">Accolades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=20" title="Edit section: Accolades">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><small>The information regarding accolades is adapted from AcclaimedMusic.net<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup> except for lists that are sourced otherwise.</small></li>
+<li><small>(*) signifies unordered lists</small></li>
+</ul>
+<table class="wikitable">
+<tr>
+<th>Publication</th>
+<th>Country</th>
+<th>Accolade</th>
+<th>Year</th>
+<th>Rank</th>
+</tr>
+<tr>
+<td><i><a href="/wiki/About.com" title="About.com">About.com</a></i></td>
+<td><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><i>100 Greatest Hip Hop Albums</i> <sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></td>
+<td>2008</td>
+<td style="text-align:center;">40</td>
+</tr>
+<tr>
+<td><i>About.com</i></td>
+<td>United States</td>
+<td><i>Best Rap Albums of 1997</i><sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></td>
+<td>2008</td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Addicted_to_Noise" title="Addicted to Noise">Addicted to Noise</a></i></td>
+<td>United States</td>
+<td><i>Albums of the Year</i></td>
+<td>1997</td>
+<td style="text-align:center;">7</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i></td>
+<td>United States</td>
+<td><i>The 100 Greatest American Albums of All time</i></td>
+<td>2002</td>
+<td style="text-align:center;">25</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Ego_Trip_(magazine)" title="Ego Trip (magazine)" class="mw-redirect">ego trip</a></i></td>
+<td>United States</td>
+<td><i>Hip Hop's 25 Greatest Albums by Year 1980-98</i></td>
+<td>1999</td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Face" title="Face">Face</a></i></td>
+<td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td><i>Albums of the Year</i></td>
+<td>1997</td>
+<td style="text-align:center;">20</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Fnac" title="Fnac">Fnac</a></i></td>
+<td><a href="/wiki/France" title="France">France</a></td>
+<td><i>The 1000 Best Albums of All Time</i></td>
+<td>2008</td>
+<td style="text-align:center;">858</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Hip_Hop_Connection" title="Hip Hop Connection">Hip Hop Connection</a></i></td>
+<td>United Kingdom</td>
+<td><i>The 100 Greatest Rap Albums 1995-2005</i></td>
+<td>2005</td>
+<td style="text-align:center;">14</td>
+</tr>
+<tr>
+<td><i>Tom Moon</i></td>
+<td>United States</td>
+<td><i><a href="/wiki/1000_Recordings_to_Hear_Before_You_Die" title="1000 Recordings to Hear Before You Die" class="mw-redirect">1000 Recordings to Hear Before You Die</a></i></td>
+<td>2008</td>
+<td style="text-align:center;">*</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/The_New_Nation" title="The New Nation" class="mw-redirect">The New Nation</a></i></td>
+<td>United Kingdom</td>
+<td>Top 100 Albums by Black Artists</td>
+<td>2005</td>
+<td style="text-align:center;">60</td>
+</tr>
+<tr>
+<td><i>OOR Moordlijst</i></td>
+<td><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
+<td><i>Albums of the Year</i></td>
+<td>1997</td>
+<td style="text-align:center;">87</td>
+</tr>
+<tr>
+<td><i>Pure Pop</i></td>
+<td><a href="/wiki/Mexico" title="Mexico">Mexico</a></td>
+<td><i>Albums of the Year</i></td>
+<td>1997</td>
+<td style="text-align:center;">18</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Q_(magazine)" title="Q (magazine)" class="mw-redirect">Q</a></i></td>
+<td>United Kingdom</td>
+<td><i>Albums of the Year</i></td>
+<td>1997</td>
+<td style="text-align:center;">*</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td>United States</td>
+<td><i><a href="/wiki/The_500_Greatest_Albums_of_All_Time" title="The 500 Greatest Albums of All Time" class="mw-redirect">The 500 Greatest Albums of All Time</a></i></td>
+<td>2003</td>
+<td style="text-align:center;">483</td>
+</tr>
+<tr>
+<td><i>Rolling Stone</i></td>
+<td>United States</td>
+<td><i>100 Best Albums of the Nineties</i><sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></td>
+<td>2011</td>
+<td style="text-align:center;">66</td>
+</tr>
+<tr>
+<td><i>Rolling Stone</i></td>
+<td>United States</td>
+<td><i>The Essential Recordings of the 90s</i></td>
+<td>1999</td>
+<td style="text-align:center;">*</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i></td>
+<td>United States</td>
+<td><i>The 100 Best Rap Albums of All Time</i><sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup></td>
+<td>2005</td>
+<td style="text-align:center;">8</td>
+</tr>
+<tr>
+<td><i>The Source</i></td>
+<td>United States</td>
+<td><i>The Critics Top 100 Black Music Albums of All Time</i> <sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup></td>
+<td>2005</td>
+<td style="text-align:center;">60</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Spex_(magazine)" title="Spex (magazine)">Spex</a></i></td>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+<td><i>Albums of the Year</i></td>
+<td>1997</td>
+<td style="text-align:center;">19</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i></td>
+<td>United States</td>
+<td><i>Albums of the Year</i></td>
+<td>1997</td>
+<td style="text-align:center;">7</td>
+</tr>
+<tr>
+<td><i>(various writers)</i></td>
+<td>United States</td>
+<td><i>50 Years of Great Recordings</i></td>
+<td>2005</td>
+<td style="text-align:center;">*</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i></td>
+<td>United States</td>
+<td><i>51 Albums representing a Generation, a Sound and a Movement</i></td>
+<td>2004</td>
+<td style="text-align:center;">*</td>
+</tr>
+<tr>
+<td><i>Vibe</i></td>
+<td>United States</td>
+<td><i>150 Albums That Define the Vibe Era (1992-2007)</i></td>
+<td>2007</td>
+<td style="text-align:center;">*</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Village_Voice" title="Village Voice" class="mw-redirect">Village Voice</a></i></td>
+<td>United States</td>
+<td><i>Albums of the Year</i></td>
+<td>1997</td>
+<td style="text-align:center;">12</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=21" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_best-selling_albums_in_the_United_States" title="List of best-selling albums in the United States">List of best-selling albums in the United States</a></li>
+<li><a href="/wiki/List_of_number-one_albums_of_1997_(U.S.)" title="List of number-one albums of 1997 (U.S.)" class="mw-redirect">List of number-one albums of 1997 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1997_(U.S.)" title="List of number-one R&amp;B albums of 1997 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1997 (U.S.)</a></li>
+<li><a href="/wiki/Billboard_Year-End" title="Billboard Year-End">Billboard Year-End</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=22" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/bbcom/charts/yearend_chart_display.jsp?f=Top+R%26B/Hip-Hop+Albums&amp;g=Year-end+Albums&amp;year=1997">"Information Not Found"</a>. Billboard.com<span class="reference-accessdate">. Retrieved 2012-02-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.btitle=Information+Not+Found&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fbbcom%2Fcharts%2Fyearend_chart_display.jsp%3Ff%3DTop%2BR%2526B%2FHip-Hop%2BAlbums%26g%3DYear-end%2BAlbums%26year%3D1997&amp;rft.pub=Billboard.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2014/03/the-making-of-life-after-death-many-men/">"Check Out How Biggie’s ‘Life After Death’ Was Made"</a>. XXL Magazine<span class="reference-accessdate">. Retrieved 15 April 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.btitle=Check+Out+How+Biggie%E2%80%99s+%E2%80%98Life+After+Death%E2%80%99+Was+Made&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2014%2F03%2Fthe-making-of-life-after-death-many-men%2F&amp;rft.pub=XXL+Magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">. RIAA - Gold &amp; Platinum Database <a rel="nofollow" class="external free" href="http://www.riaa.com/goldandplatinumdata.php?table=tblDiamond">http://www.riaa.com/goldandplatinumdata.php?table=tblDiamond</a><span class="reference-accessdate">. Retrieved 15 April 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Ftable%3DtblDiamond&amp;rft.pub=RIAA+-+Gold+%26+Platinum+Database&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Missing or empty <code>|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-xxlmag.com-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-xxlmag.com_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-xxlmag.com_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-xxlmag.com_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/online/?p=405">"The Making of Life After Death: Many Men"</a>. Xxlmag.Com<span class="reference-accessdate">. Retrieved 2012-02-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.btitle=The+Making+of+Life+After+Death%3A+Many+Men&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fonline%2F%3Fp%3D405&amp;rft.pub=Xxlmag.Com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.king-mag.com/online/?p=5357">"» KING Legacy: Nasir Jones, Part Two"</a>. KING-mag.com. 2008-05-01<span class="reference-accessdate">. Retrieved 2012-02-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.btitle=%C2%BB+KING+Legacy%3A+Nasir+Jones%2C+Part+Two&amp;rft.date=2008-05-01&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.king-mag.com%2Fonline%2F%3Fp%3D5357&amp;rft.pub=KING-mag.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rapgenius.com-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-rapgenius.com_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rapgenius.com_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://rapgenius.com/lyrics/The-notorious-b-i-g/Long-kiss-goodnight">"The Notorious B.I.G. – Long Kiss Goodnight Lyrics"</a>. Rap Genius<span class="reference-accessdate">. Retrieved 2012-02-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.btitle=The+Notorious+B.I.G.+%E2%80%93+Long+Kiss+Goodnight+Lyrics&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Frapgenius.com%2Flyrics%2FThe-notorious-b-i-g%2FLong-kiss-goodnight&amp;rft.pub=Rap+Genius&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/homepage-highlight/2010/11/8-subliminal-diss-records-that-no-one-claims/4/">"8 Subliminal Diss Records That No One Claims"</a>. Xxlmag.Com<span class="reference-accessdate">. Retrieved 2012-02-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.btitle=8+Subliminal+Diss+Records+That+No+One+Claims&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fhomepage-highlight%2F2010%2F11%2F8-subliminal-diss-records-that-no-one-claims%2F4%2F&amp;rft.pub=Xxlmag.Com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation book"><a rel="nofollow" class="external text" href="http://books.google.com/books?id=I4irI6O3Ko8C&amp;pg=RA1-PA68&amp;lpg=RA1-PA68&amp;dq=biggie+spin+magazine&amp;source=bl&amp;ots=5UDdjWWca3&amp;sig=-cWps0osw7sI-4QU9JkAWCobYLQ&amp;hl=en&amp;ei=FuNYTYuFCYT78AaJiKiEBw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=10&amp;sqi=2&amp;ved=0CE4Q6AEwCQ#v=onepage&amp;q=biggie%20spin%20magazine&amp;f=false"><i>SPIN - Google Books</i></a>. Books.google.com<span class="reference-accessdate">. Retrieved 2012-02-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.btitle=SPIN+-+Google+Books&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DI4irI6O3Ko8C%26pg%3DRA1-PA68%26lpg%3DRA1-PA68%26dq%3Dbiggie%2Bspin%2Bmagazine%26source%3Dbl%26ots%3D5UDdjWWca3%26sig%3D-cWps0osw7sI-4QU9JkAWCobYLQ%26hl%3Den%26ei%3DFuNYTYuFCYT78AaJiKiEBw%26sa%3DX%26oi%3Dbook_result%26ct%3Dresult%26resnum%3D10%26sqi%3D2%26ved%3D0CE4Q6AEwCQ%23v%3Donepage%26q%3Dbiggie%2520spin%2520magazine%26f%3Dfalse&amp;rft.pub=Books.google.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Birchmeier-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Birchmeier_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Birchmeier_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Birchmeier_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Birchmeier, Jason. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r256758">"Life After Death - The Notorious B.I.G."</a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>. Retrieved on 2009-11-08.</span></li>
+<li id="cite_note-Christgau-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Christgau_10-0">^</a></b></span> <span class="reference-text">Christgau, Robert. <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=Notorious+B.I.G.">"CG: Notorious B.I.G."</a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>: July 22, 1997. Archived from <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/cg/cgv797-97.php">the original</a> on 2009-11-08. Note: Christgau revised the original rating of (A-) to (A).</span></li>
+<li id="cite_note-Browne-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Browne_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Browne_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Browne, David (April 11, 1997). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,287426,00.html">"Album Review: 'Life After Death' Review"</a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i>. Retrieved on 2009-11-08.</span></li>
+<li id="cite_note-Coker-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Coker_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Coker_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Coker, Cheo Hodari (March 26, 1997). <a rel="nofollow" class="external text" href="http://www.latimes.com/news/local/la-me-biggie26sep97,0,3936707.story">"A memorable 'life' on its own merits"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. Retrieved on 2009-11-08.</span></li>
+<li id="cite_note-DeCurtis-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-DeCurtis_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DeCurtis_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">DeCurtis, Anthony (May 1, 1997). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090514055828/http://www.rollingstone.com/artists/notoriousbig/albums/album/200792/review/6067339/life_after_death">"Notorious B.I.G.: Life After Death&#160;: Music Reviews"</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (archived May 14, 2009). <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.rollingstone.com/artists/notoriousbig/albums/album/200792/review/6067339/life_after_death">the original</a> on 2009-05-14.</span></li>
+<li id="cite_note-Hoard-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hoard_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hoard_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Rob_Sheffield" title="Rob Sheffield">Sheffield, Rob</a> et al. (November 2, 2004). <a href="/wiki/Nathan_Brackett" title="Nathan Brackett">Brackett, Nathan</a>; Hoard, Christian, eds. <a rel="nofollow" class="external text" href="http://books.google.com/books?id=t9eocwUfoSoC&amp;pg=PA592&amp;lpg=PA592&amp;dq=rolling+stone+the+notorious+b.i.g.+album+guide&amp;source=bl&amp;ots=BiMmup4T--&amp;sig=B4NLlPTu1iFffhIBktmVcYAFKIY&amp;hl=en&amp;sa=X&amp;ei=eZrgUO2LGKLZ0wHYi4CQDw&amp;sqi=2&amp;ved=0CFQQ6AEwBg#v=onepage&amp;q=rolling%20stone%20the%20notorious%20b.i.g.%20album%20guide&amp;f=false"><i>The Rolling Stone Album Guide</i></a> (4th ed.). <a href="/wiki/Simon_%26_Schuster" title="Simon &amp; Schuster">Simon &amp; Schuster</a>. p.&#160;592. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0743201698" title="Special:BookSources/0743201698">0743201698</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.aulast=Sheffield%2C+Rob+et+al.&amp;rft.au=Sheffield%2C+Rob+et+al.&amp;rft.btitle=The+Rolling+Stone+Album+Guide&amp;rft.date=November+2%2C+2004&amp;rft.edition=4th&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dt9eocwUfoSoC%26pg%3DPA592%26lpg%3DPA592%26dq%3Drolling%2Bstone%2Bthe%2Bnotorious%2Bb.i.g.%2Balbum%2Bguide%26source%3Dbl%26ots%3DBiMmup4T--%26sig%3DB4NLlPTu1iFffhIBktmVcYAFKIY%26hl%3Den%26sa%3DX%26ei%3DeZrgUO2LGKLZ0wHYi4CQDw%26sqi%3D2%26ved%3D0CFQQ6AEwBg%23v%3Donepage%26q%3Drolling%2520stone%2520the%2520notorious%2520b.i.g.%2520album%2520guide%26f%3Dfalse&amp;rft.isbn=0743201698&amp;rft.pages=592&amp;rft.pub=Simon+%26+Schuster&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Gonzales-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gonzales_15-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Gonzales, Michael A (May 1997). <a rel="nofollow" class="external text" href="http://thimk.files.wordpress.com/2009/11/life-after-death-5-mics.jpg">"Notorious B.I.G., Life After Death...Till Death Do Us Part (Bad Boy/Arista)"</a>. <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> (The Source Enterprises) (92): 79<span class="reference-accessdate">. Retrieved 2011-10-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.atitle=Notorious+B.I.G.%2C+Life+After+Death...Till+Death+Do+Us+Part+%28Bad+Boy%2FArista%29&amp;rft.aufirst=Michael+A&amp;rft.au=Gonzales%2C+Michael+A&amp;rft.aulast=Gonzales&amp;rft.date=May+1997&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fthimk.files.wordpress.com%2F2009%2F11%2Flife-after-death-5-mics.jpg&amp;rft.issue=92&amp;rft.jtitle=The+Source&amp;rft.pages=79&amp;rft.pub=The+Source+Enterprises&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Jones-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jones_16-0">^</a></b></span> <span class="reference-text">Jones, Steve. <a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/USAToday/access/11321257.html?dids=11321257:11321257&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Mar+26%2C+1997&amp;author=Steve+Jones&amp;pub=USA+TODAY&amp;desc='Life+After+Death'+is+a+B.I.G.+classic&amp;pqatl=google">"'Life After Death' is a B.I.G. classic"</a>. <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>: 01.D. March 26, 1997. (Transcription of original review at <a href="/wiki/Talk:Life_After_Death#USA_Today_review" title="Talk:Life After Death">talk page</a>)</span></li>
+<li id="cite_note-Pareles-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pareles_17-0">^</a></b></span> <span class="reference-text">Pareles, Jon (March 30, 1997). <a rel="nofollow" class="external text" href="http://www.nytimes.com/1997/03/30/arts/swaggering-in-death-s-face-till-the-end.html">"Swaggering in Death's Face Till the End"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>. Retrieved on 2009-11-08.</span></li>
+<li id="cite_note-McGarvey-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-McGarvey_18-0">^</a></b></span> <span class="reference-text">McGarvey, Evan (September 11, 2007). <a rel="nofollow" class="external text" href="http://www.stylusmagazine.com/articles/diamond/notorious-big-life-after-death.htm">"Notorious B.I.G. - Life After Death - The Diamond"</a>. <i><a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a></i>. Retrieved on 2009-11-08.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.vibe.com/photo-gallery/greatest-50-albums-since-93/?page=51">http://www.vibe.com/photo-gallery/greatest-50-albums-since-93/?page=51</a></span></li>
+<li id="cite_note-booklet-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-booklet_20-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.rapmusicguide.com/item/11184/Notorious_B.I.G._Life_After_Death.html">[1]</a></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.the-breaks.com/search.php?term=notorious+big&amp;type=6">The Notorious B.I.G. Search</a> <i>the-breaks.com</i>.</span></li>
+<li id="cite_note-ac_Australia_The_Notorious_B.I.G.-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Australia_The_Notorious_B.I.G._22-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.australian-charts.com/showitem.asp?interpret=The+Notorious+B.I.G.&amp;titel=Life+After+Death&amp;cat=a">The Notorious B.I.G. – Life After Death"</a>. Australiancharts.com. Hung Medien. Retrieved October 10, 2013.</span></li>
+<li id="cite_note-ac_Flanders_The_Notorious_B.I.G.-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Flanders_The_Notorious_B.I.G._23-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.ultratop.be/nl/showitem.asp?interpret=The+Notorious+B.I.G.&amp;titel=Life+After+Death&amp;cat=a">The Notorious B.I.G. – Life After Death"</a> (in Dutch). Ultratop.be. Hung Medien. Retrieved October 10, 2013.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/artist/418733/notorious-big/chart?f=335">http://www.billboard.com/artist/418733/notorious-big/chart?f=335</a></span></li>
+<li id="cite_note-ac_Germany_The_Notorious_B.I.G.-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Germany_The_Notorious_B.I.G._25-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://musicline.de/de/chartverfolgung_summary/artist/The+Notorious+B.I.G./?type=longplay">Longplay-Chartverfolgung at Musicline"</a> (in German). Musicline.de. <a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control</a>. Retrieved October 10, 2013.</span></li>
+<li id="cite_note-ac_Netherlands_The_Notorious_B.I.G.-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Netherlands_The_Notorious_B.I.G._26-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.dutchcharts.nl/showitem.asp?interpret=The+Notorious+B.I.G.&amp;titel=Life+After+Death&amp;cat=a">The Notorious B.I.G. – Life After Death"</a> (in Dutch). Dutchcharts.nl. Hung Medien. Retrieved October 10, 2013.</span></li>
+<li id="cite_note-ac_New_Zealand_The_Notorious_B.I.G.-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_New_Zealand_The_Notorious_B.I.G._27-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.charts.org.nz/showitem.asp?interpret=The+Notorious+B.I.G.&amp;titel=Life+After+Death&amp;cat=a">The Notorious B.I.G. – Life After Death"</a>. Charts.org.nz. Hung Medien. Retrieved October 10, 2013.</span></li>
+<li id="cite_note-ac_Sweden_The_Notorious_B.I.G.-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Sweden_The_Notorious_B.I.G._28-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.swedishcharts.com/showitem.asp?interpret=The+Notorious+B.I.G.&amp;titel=Life+After+Death&amp;cat=a">The Notorious B.I.G. – Life After Death"</a>. Swedishcharts.com. Hung Medien. Retrieved October 10, 2013.</span></li>
+<li id="cite_note-ac_UK_Notorious_B.I.G.-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_UK_Notorious_B.I.G._29-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.officialcharts.com/artist/_/Notorious%20B.I.G./">"Notorious B.I.G. | Artist | Official Charts"</a>. <a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a>. The Official Charts Company. Retrieved October 10, 2013.</span></li>
+<li id="cite_note-ac_Billboard200_The_Notorious_B.I.G.-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Billboard200_The_Notorious_B.I.G._30-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/418733/notorious-big/chart?f=305">"The Notorious B.I.G. Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Billboard_200" title="Billboard 200">200</a> for The Notorious B.I.G.. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved October 10, 2013.</span></li>
+<li id="cite_note-ac_BillboardRandBHipHop_The_Notorious_B.I.G.-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_BillboardRandBHipHop_The_Notorious_B.I.G._31-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/418733/notorious-big/chart?f=333">The Notorious B.I.G. Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> for The Notorious B.I.G.. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved October 10, 2013.</span></li>
+<li id="cite_note-1990sbb-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-1990sbb_32-0">^</a></b></span> <span class="reference-text"><span class="citation book">Geoff Mayfield (December 25, 1999). <a rel="nofollow" class="external text" href="http://books.google.com/?id=9w0EAAAAMBAJ&amp;lpg=PP1&amp;pg=RA1-PA4#v=onepage&amp;q&amp;f=false"><i>1999 The Year in Music Totally '90s: Diary of a Decade - The listing of Top Pop Albums of the '90s &amp; Hot 100 Singles of the '90s</i></a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i><span class="reference-accessdate">. Retrieved October 15, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.au=Geoff+Mayfield&amp;rft.aulast=Geoff+Mayfield&amp;rft.btitle=1999+The+Year+in+Music+Totally+%2790s%3A+Diary+of+a+Decade+-+The+listing+of+Top+Pop+Albums+of+the+%2790s+%26+Hot+100+Singles+of+the+%2790s&amp;rft.date=December+25%2C+1999&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D9w0EAAAAMBAJ%26lpg%3DPP1%26pg%3DRA1-PA4%23v%3Donepage%26q%26f%3Dfalse&amp;rft.pub=%27%27Billboard%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-United_StatesNotorious_B.I.G.Life_After_DeathalbumCertRef-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-United_StatesNotorious_B.I.G.Life_After_DeathalbumCertRef_33-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?artist=%22Life+After+Death%22">"American album certifications – Notorious B.I.G. – Life After Death"</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>. January 6, 2000<span class="reference-accessdate">. Retrieved July 2, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.btitle=American+album+certifications+%E2%80%93+Notorious+B.I.G.+%E2%80%93+Life+After+Death&amp;rft.date=January+6%2C+2000&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Fartist%3D%2522Life%2BAfter%2BDeath%2522&amp;rft.pub=Recording+Industry+Association+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <i>If necessary, click</i> Advanced<i>, then click</i> Format<i>, then select</i> Album<i>, then click</i> SEARCH</span></li>
+<li id="cite_note-United_KingdomNotorious_B.I.G.Life_After_DeathalbumCertRef-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-United_KingdomNotorious_B.I.G.Life_After_DeathalbumCertRef_34-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.bpi.co.uk/certified-awards.aspx">"British album certifications – Notorious B.I.G. – Life After Death"</a>. <a href="/wiki/British_Phonographic_Industry" title="British Phonographic Industry">British Phonographic Industry</a><span class="reference-accessdate">. Retrieved September 4, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.btitle=British+album+certifications+%E2%80%93+Notorious+B.I.G.+%E2%80%93+Life+After+Death&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bpi.co.uk%2Fcertified-awards.aspx&amp;rft.pub=British+Phonographic+Industry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <i>Enter</i> Life After Death <i>in the field</i> Search<i>. Select</i> Title <i>in the field</i> Search by<i>. Select</i> album <i>in the field</i> By Format<i>. Click</i> Go</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.acclaimedmusic.net/Current/A1008.htm">"Life After Death"</a>. Acclaimed Music<span class="reference-accessdate">. Retrieved 2012-02-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.btitle=Life+After+Death&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.acclaimedmusic.net%2FCurrent%2FA1008.htm&amp;rft.pub=Acclaimed+Music&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://rap.about.com/od/toppicks/ss/Top100RapAlbums_7.htm">"The Greatest Hip-Hop Albums of all Time - Top 100 Rap/Hip-Hop Albums"</a>. Rap.about.com. 2012-01-26<span class="reference-accessdate">. Retrieved 2012-02-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.btitle=The+Greatest+Hip-Hop+Albums+of+all+Time+-+Top+100+Rap%2FHip-Hop+Albums&amp;rft.date=2012-01-26&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Frap.about.com%2Fod%2Ftoppicks%2Fss%2FTop100RapAlbums_7.htm&amp;rft.pub=Rap.about.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">Adaso, Henry. <a rel="nofollow" class="external text" href="http://rap.about.com/od/top10albums/ss/90sBestRapMusic_8.htm">Best Rap Albums of 1997</a>. about.com. Retrieved 2012-09-04.</span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/lists/100-best-albums-of-the-nineties-20110427/the-notorious-b-i-g-life-after-death-19691231">100 Best Albums of the Nineties</a>. <i>Rolling Stone</i>. Retrieved 2012-09-04.</span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rocklistmusic.co.uk/source.htm">"Rocklist.net...The Source 100 Best Rap Albums &amp; Singles"</a>. Rocklistmusic.co.uk<span class="reference-accessdate">. Retrieved 2012-02-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.btitle=Rocklist.net...The+Source+100+Best+Rap+Albums+%26+Singles&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rocklistmusic.co.uk%2Fsource.htm&amp;rft.pub=Rocklistmusic.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.trevornelson.com/nonflash/top100.asp">"TOP 100"</a>. Trevornelson.Com<span class="reference-accessdate">. Retrieved 2012-02-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALife+After+Death&amp;rft.btitle=TOP+100&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.trevornelson.com%2Fnonflash%2Ftop100.asp&amp;rft.pub=Trevornelson.Com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Life_After_Death&amp;action=edit&amp;section=23" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/Notorious-BIG-The-Life-After-Death/master/57982">Life After Death</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.xxlmag.com/online/?p=405">The Making of <i>Life After Death</i></a> at <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i></li>
+<li><a rel="nofollow" class="external text" href="http://www.stylusmagazine.com/articles/playing_god/the-notorious-big-life-after-death.htm">Playing God: <i>Life After Death</i></a> at <a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:The_Notorious_B.I.G." title="Template:The Notorious B.I.G."><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:The_Notorious_B.I.G." title="Template talk:The Notorious B.I.G."><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Notorious_B.I.G.&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Ready_to_Die" title="Ready to Die">Ready to Die</a></i></li>
+<li><i><strong class="selflink">Life After Death</strong></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Junior M.A.F.I.A.</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Conspiracy_(Junior_M.A.F.I.A._album)" title="Conspiracy (Junior M.A.F.I.A. album)">Conspiracy</a></i></li>
+<li>"<a href="/wiki/Player%27s_Anthem" title="Player's Anthem">Player's Anthem</a>"</li>
+<li>"<a href="/wiki/I_Need_You_Tonight_(Junior_M.A.F.I.A._song)" title="I Need You Tonight (Junior M.A.F.I.A. song)">I Need You Tonight</a>"</li>
+<li>"<a href="/wiki/Get_Money_(Junior_M.A.F.I.A._song)" title="Get Money (Junior M.A.F.I.A. song)">Get Money</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Posthumous albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Born_Again_(The_Notorious_B.I.G._album)" title="Born Again (The Notorious B.I.G. album)">Born Again</a></i></li>
+<li><i><a href="/wiki/Duets:_The_Final_Chapter" title="Duets: The Final Chapter">Duets: The Final Chapter</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Party_and_Bullshit" title="Party and Bullshit">Party and Bullshit</a>"</li>
+<li>"<a href="/wiki/Juicy_(The_Notorious_B.I.G._song)" title="Juicy (The Notorious B.I.G. song)">Juicy</a>"</li>
+<li>"<a href="/wiki/Big_Poppa" title="Big Poppa">Big Poppa</a>" / "<a href="/wiki/Who_Shot_Ya%3F" title="Who Shot Ya?">Who Shot Ya?</a>"</li>
+<li>"<a href="/wiki/One_More_Chance_(The_Notorious_B.I.G._song)" title="One More Chance (The Notorious B.I.G. song)">One More Chance</a>"</li>
+<li>"<a href="/wiki/Hypnotize_(The_Notorious_B.I.G._song)" title="Hypnotize (The Notorious B.I.G. song)">Hypnotize</a>"</li>
+<li>"<a href="/wiki/Mo_Money_Mo_Problems" title="Mo Money Mo Problems">Mo Money Mo Problems</a>"</li>
+<li>"<a href="/wiki/Sky%27s_the_Limit_(song)" title="Sky's the Limit (song)">Sky's the Limit</a>"</li>
+<li>"<a href="/wiki/Notorious_B.I.G._(song)" title="Notorious B.I.G. (song)">Notorious B.I.G.</a>"</li>
+<li>"<a href="/wiki/Dead_Wrong_(song)" title="Dead Wrong (song)">Dead Wrong</a>"</li>
+<li>"<a href="/wiki/Nasty_Girl_(The_Notorious_B.I.G._song)" title="Nasty Girl (The Notorious B.I.G. song)">Nasty Girl</a>"</li>
+<li>"<a href="/wiki/Spit_Your_Game" title="Spit Your Game">Spit Your Game</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Guest singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Flava_in_Ya_Ear" title="Flava in Ya Ear">Flava in Ya Ear - Remix</a>"</li>
+<li>"<a href="/wiki/Can%27t_You_See_(Total_song)" title="Can't You See (Total song)">Can't You See</a>"</li>
+<li>"<a href="/wiki/The_Points" title="The Points">The Points</a>"</li>
+<li>"<a href="/wiki/Runnin%27_(From_tha_Police)" title="Runnin' (From tha Police)" class="mw-redirect">Runnin' (From tha Police)</a>"</li>
+<li>"<a href="/wiki/This_Time_Around_(Michael_Jackson_song)" title="This Time Around (Michael Jackson song)">This Time Around</a>"</li>
+<li>"<a href="/wiki/It%27s_All_About_the_Benjamins" title="It's All About the Benjamins">It's All About the Benjamins</a>"</li>
+<li>"<a href="/wiki/Victory_(Puff_Daddy_song)" title="Victory (Puff Daddy song)">Victory</a>"</li>
+<li>"<a href="/wiki/Runnin%27_(Dying_to_Live)" title="Runnin' (Dying to Live)">Runnin' (Dying to Live)</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Greatest_Hits_(The_Notorious_B.I.G._album)" title="Greatest Hits (The Notorious B.I.G. album)">Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Notorious_(soundtrack)" title="Notorious (soundtrack)">Notorious: Original Motion Picture Soundtrack</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/The_Notorious_B.I.G._discography" title="The Notorious B.I.G. discography">Discography</a></li>
+<li><a href="/wiki/Sean_Combs" title="Sean Combs">Sean Combs</a></li>
+<li><a href="/wiki/Faith_Evans" title="Faith Evans">Faith Evans</a></li>
+<li><a href="/wiki/Junior_M.A.F.I.A." title="Junior M.A.F.I.A.">Junior M.A.F.I.A.</a></li>
+<li><a href="/wiki/Lil%27_Cease" title="Lil' Cease">Lil' Cease</a></li>
+<li><a href="/wiki/The_Commission_(hip_hop)" title="The Commission (hip hop)" class="mw-redirect">The Commission</a></li>
+<li><a href="/wiki/East_Coast%E2%80%93West_Coast_hip_hop_rivalry" title="East Coast–West Coast hip hop rivalry">East Coast-West Coast hip hop rivalry</a></li>
+<li>"<a href="/wiki/I%27ll_Be_Missing_You" title="I'll Be Missing You">I'll Be Missing You</a>"</li>
+<li><i><a href="/wiki/Biggie_%26_Tupac" title="Biggie &amp; Tupac">Biggie &amp; Tupac</a></i></li>
+<li><i><a href="/wiki/Notorious_(2009_film)" title="Notorious (2009 film)">Notorious</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bad_Boy_Records" title="Template:Bad Boy Records"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bad_Boy_Records" title="Template talk:Bad Boy Records"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bad_Boy_Records&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy Records</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Founder</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Sean_Combs" title="Sean Combs">Sean "Diddy" Combs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Artists</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group">Current</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Aasim" title="Aasim">Aasim</a></li>
+<li><a href="/wiki/Cassie_Ventura" title="Cassie Ventura">Cassie</a></li>
+<li><a href="/wiki/French_Montana" title="French Montana">French Montana</a></li>
+<li><a href="/wiki/Janelle_Mon%C3%A1e" title="Janelle Monáe">Janelle Monáe</a></li>
+<li><a href="/wiki/Kalenna_Harper" title="Kalenna Harper">Kalenna Harper</a></li>
+<li><a href="/wiki/Los_(rapper)" title="Los (rapper)">Los</a></li>
+<li><a href="/wiki/Mario_Winans" title="Mario Winans">Mario Winans</a></li>
+<li><a href="/wiki/Machine_Gun_Kelly_(rapper)" title="Machine Gun Kelly (rapper)">Machine Gun Kelly</a></li>
+<li><a href="/wiki/Red_Caf%C3%A9" title="Red Café">Red Café</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Former</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/112_(band)" title="112 (band)" class="mw-redirect">112</a></li>
+<li><a href="/wiki/8Ball_%26_MJG" title="8Ball &amp; MJG">8Ball &amp; MJG</a></li>
+<li><a href="/wiki/Audio_(group)" title="Audio (group)" class="mw-redirect">B5</a></li>
+<li><a href="/wiki/Black_Rob" title="Black Rob">Black Rob</a></li>
+<li><a href="/wiki/Boyz_n_da_Hood" title="Boyz n da Hood">Boyz n da Hood</a></li>
+<li><a href="/wiki/Carl_Thomas_(singer)" title="Carl Thomas (singer)">Carl Thomas</a></li>
+<li><a href="/wiki/Cheri_Dennis" title="Cheri Dennis">Cheri Dennis</a></li>
+<li><a href="/wiki/Craig_Mack" title="Craig Mack">Craig Mack</a></li>
+<li><a href="/wiki/Da_Band" title="Da Band">Da Band</a></li>
+<li><a href="/wiki/Danity_Kane" title="Danity Kane">Danity Kane</a></li>
+<li><a href="/wiki/Day26" title="Day26">Day26</a></li>
+<li><a href="/wiki/Dawn_Richard_(singer)" title="Dawn Richard (singer)">Dawn Richard</a></li>
+<li><a href="/wiki/Diddy_-_Dirty_Money" title="Diddy - Dirty Money" class="mw-redirect">Diddy - Dirty Money</a></li>
+<li><a href="/wiki/Donnie_Klang" title="Donnie Klang">Donnie Klang</a></li>
+<li><a href="/wiki/Dream_(American_group)" title="Dream (American group)">Dream</a></li>
+<li><a href="/wiki/Elephant_Man_(musician)" title="Elephant Man (musician)">Elephant Man</a></li>
+<li><a href="/wiki/Faith_Evans" title="Faith Evans">Faith Evans</a></li>
+<li><a href="/wiki/Fuzzbubble" title="Fuzzbubble">Fuzzbubble</a></li>
+<li><a href="/wiki/Jordan_McCoy" title="Jordan McCoy">Jordan McCoy</a></li>
+<li><a href="/wiki/Gorilla_Zoe" title="Gorilla Zoe">Gorilla Zoe</a></li>
+<li><a href="/wiki/G._Dep" title="G. Dep">G. Dep</a></li>
+<li><a href="/wiki/Lil%27_Cease" title="Lil' Cease">Lil' Cease</a></li>
+<li><a href="/wiki/Liz_Davis_(singer)" title="Liz Davis (singer)" class="mw-redirect">Liz Davis</a></li>
+<li><a href="/wiki/Loon_(rapper)" title="Loon (rapper)">Loon</a></li>
+<li><a href="/wiki/D-Dot" title="D-Dot">The Madd Rapper</a></li>
+<li><a href="/wiki/Mase" title="Mase">Mase</a></li>
+<li><a href="/wiki/New_Edition" title="New Edition">New Edition</a></li>
+<li><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a></li>
+<li><a href="/wiki/Shyne" title="Shyne">Shyne</a></li>
+<li><a href="/wiki/The_Lox" title="The Lox">The LOX</a></li>
+<li><a href="/wiki/Total_(group)" title="Total (group)">Total</a></li>
+<li><a href="/wiki/Yung_Joc" title="Yung Joc">Yung Joc</a></li>
+<li><a href="/wiki/Lil%27_Kim" title="Lil' Kim">Lil' Kim</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Producers</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a></li>
+<li><a href="/wiki/D-Dot" title="D-Dot">D-Dot</a></li>
+<li><a href="/wiki/Daven_%22Prestige%22_Vanderpool" title="Daven &quot;Prestige&quot; Vanderpool">Daven "Prestige" Vanderpool</a></li>
+<li><a href="/wiki/The_Hitmen_(production_team)" title="The Hitmen (production team)" class="mw-redirect">The Hitmen</a></li>
+<li><a href="/wiki/Lil_Jon" title="Lil Jon">Lil Jon</a></li>
+<li><a href="/wiki/Mario_Winans" title="Mario Winans">Mario Winans</a></li>
+<li><a href="/wiki/Sean_Combs" title="Sean Combs">Sean Combs</a></li>
+<li><a href="/wiki/Stevie_J" title="Stevie J">Stevie J</a></li>
+<li><a href="/wiki/Younglord" title="Younglord">Younglord</a></li>
+<li><a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Easy Mo Bee</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Subsidiaries</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Bad_Boy_South" title="Bad Boy South">Bad Boy South</a></li>
+<li><a href="/wiki/Bad_Boy_Latino" title="Bad Boy Latino">Bad Boy Latino</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1011
+CPU time usage: 4.988 seconds
+Real time usage: 5.162 seconds
+Preprocessor visited node count: 14719/1000000
+Preprocessor generated node count: 129188/1500000
+Post‐expand include size: 169350/2048000 bytes
+Template argument size: 35760/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 4/500
+Lua time usage: 0.184/10.000 seconds
+Lua memory usage: 3.16 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:195803-0!*!0!!en!4!* and timestamp 20140531021453 and revision id 609399445
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Life_After_Death&amp;oldid=609399445">http://en.wikipedia.org/w/index.php?title=Life_After_Death&amp;oldid=609399445</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:The_Notorious_B.I.G._albums" title="Category:The Notorious B.I.G. albums">The Notorious B.I.G. albums</a></li><li><a href="/wiki/Category:1997_albums" title="Category:1997 albums">1997 albums</a></li><li><a href="/wiki/Category:Albums_published_posthumously" title="Category:Albums published posthumously">Albums published posthumously</a></li><li><a href="/wiki/Category:Arista_Records_albums" title="Category:Arista Records albums">Arista Records albums</a></li><li><a href="/wiki/Category:Bad_Boy_Records_albums" title="Category:Bad Boy Records albums">Bad Boy Records albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Buckwild" title="Category:Albums produced by Buckwild">Albums produced by Buckwild</a></li><li><a href="/wiki/Category:Albums_produced_by_Sean_Combs" title="Category:Albums produced by Sean Combs">Albums produced by Sean Combs</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Clark_Kent" title="Category:Albums produced by DJ Clark Kent">Albums produced by DJ Clark Kent</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Premier" title="Category:Albums produced by DJ Premier">Albums produced by DJ Premier</a></li><li><a href="/wiki/Category:Albums_produced_by_Easy_Mo_Bee" title="Category:Albums produced by Easy Mo Bee">Albums produced by Easy Mo Bee</a></li><li><a href="/wiki/Category:Albums_produced_by_Havoc" title="Category:Albums produced by Havoc">Albums produced by Havoc</a></li><li><a href="/wiki/Category:Albums_produced_by_Rza" title="Category:Albums produced by Rza">Albums produced by Rza</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li><li><a href="/wiki/Category:Recording_Industry_Association_of_America_Diamond_Award_albums" title="Category:Recording Industry Association of America Diamond Award albums">Recording Industry Association of America Diamond Award albums</a></li><li><a href="/wiki/Category:Albums_certified_diamond_by_the_Recording_Industry_Association_of_America" title="Category:Albums certified diamond by the Recording Industry Association of America">Albums certified diamond by the Recording Industry Association of America</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li><li><a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">Pages with citations having bare URLs</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_United_States" title="Category:Certification Table Entry usages for United States">Certification Table Entry usages for United States</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_United_Kingdom" title="Category:Certification Table Entry usages for United Kingdom">Certification Table Entry usages for United Kingdom</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Life+After+Death&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Life+After+Death" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Life_After_Death"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Life_After_Death"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Life_After_Death" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Life_After_Death&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Life_After_Death&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Life_After_Death" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Life_After_Death" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Life_After_Death&amp;oldid=609399445" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Life_After_Death&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q519122" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Life_After_Death&amp;id=609399445" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Life+After+Death">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Life+After+Death&amp;oldid=609399445&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Life_After_Death&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Life_After_Death" title="Life After Death – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Life_After_Death" title="Life After Death – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Life_After_Death" title="Life After Death – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Life_After_Death" title="Life After Death – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Life_After_Death" title="Life After Death – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/Life_After_Death" title="Life After Death – Georgian" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Life_After_Death" title="Life After Death – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Life_After_Death" title="Life After Death – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%BB%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%87%E3%82%B9" title="ライフ・アフター・デス – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Life_After_Death" title="Life After Death – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Life_After_Death" title="Life After Death – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Life_After_Death" title="Life After Death – Romanian" lang="ro" hreflang="ro">Română</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Life_After_Death_(%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC_The_Notorious_B.I.G.)" title="Life After Death (альбом The Notorious B.I.G.) – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Life_After_Death" title="Life After Death – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Life_After_Death" title="Life After Death – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/Life_After_Death" title="Life After Death – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q519122#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 May 2014 at 16:19.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Life_After_Death" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":298,"wgHostname":"mw1099"});
+}</script>
+	</body>
+</html>
+	

@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Dogg Food - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dogg_Food" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dogg_Food&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Dogg_Food&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Dogg_Food" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dogg_Food","wgTitle":"Dogg Food","wgCurRevisionId":608224913,"wgRevisionId":608224913,"wgArticleId":446870,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","1995 debut albums","Tha Dogg Pound albums","Death Row Records albums","Albums produced by DJ Pooh","Albums produced by Daz Dillinger","Gangsta rap albums","G-funk albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dogg_Food","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q653828"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Dogg_Food skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Dogg Food</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Dogg Food</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:DoggPoundDoggFood.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/DoggPoundDoggFood.jpg/220px-DoggPoundDoggFood.jpg" width="220" height="219" srcset="//upload.wikimedia.org/wikipedia/en/4/41/DoggPoundDoggFood.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/4/41/DoggPoundDoggFood.jpg 2x" data-file-width="301" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Tha_Dogg_Pound" title="Tha Dogg Pound">Tha Dogg Pound</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">October&#160;31,&#160;1995<span style="display:none">&#160;(<span class="bday dtstart published updated">1995-10-31</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1994-1995</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast hip hop</a>, <a href="/wiki/Gangsta_Rap" title="Gangsta Rap" class="mw-redirect">Gangsta Rap</a>, <a href="/wiki/G-Funk" title="G-Funk" class="mw-redirect">G-Funk</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>71:25</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Death_Row_Records" title="Death Row Records">Death Row</a>/<a href="/wiki/Interscope_Records" title="Interscope Records">Interscope</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td>
+<p><a href="/wiki/Dat_Nigga_Daz" title="Dat Nigga Daz" class="mw-redirect">Dat Nigga Daz</a><br />
+<a href="/wiki/DJ_Pooh" title="DJ Pooh">DJ Pooh</a><br />
+<a href="/wiki/Soopafly" title="Soopafly">Soopafly</a><br />
+<a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> (exec.)<br /></p>
+<a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a> (uncredited)<br />
+Emanuel "Porkchop" Dean<br />
+Dave Swang<br />
+Overdose<br />
+<a href="/wiki/Suge_Knight" title="Suge Knight">Suge Knight</a> (exec.)</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Tha_Dogg_Pound" title="Tha Dogg Pound">Tha Dogg Pound</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"></td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Dogg Food</b></i><br />
+(1995)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Dillinger_%26_Young_Gotti" title="Dillinger &amp; Young Gotti">Dillinger &amp; Young Gotti</a></i><br />
+(2001)</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">A<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/4 stars"><img alt="3.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Q_(magazine)" title="Q (magazine)" class="mw-redirect">Q</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Sputnikmusic" title="Sputnikmusic">Sputnikmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>Dogg Food</b></i> is the debut <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by American <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> group <a href="/wiki/Tha_Dogg_Pound" title="Tha Dogg Pound">Tha Dogg Pound</a>. Its controversial lyrics were the subject of <a href="/wiki/Shareholder" title="Shareholder">shareholder</a> protest (the album was supposed to be released in July 1995, as a result of the controversy from <a href="/wiki/Time_Warner" title="Time Warner">Time Warner</a>, the release was delayed for three months). The album spawned two singles -- "Let's Play House" and "New York, New York," featuring <a href="/wiki/Nate_Dogg" title="Nate Dogg">Nate Dogg</a> and <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>, respectively. It landed on the top of the Billboard 200 chart producing a first-week sales of 277,500 albums. Though it eventually sold over 2 million records (2x platinum), Dogg Food did not equal the success of preceding <a href="/wiki/Death_Row_Records" title="Death Row Records">Death Row Records</a> releases (<i><a href="/wiki/The_Chronic" title="The Chronic">The Chronic</a></i> and <i><a href="/wiki/Doggystyle" title="Doggystyle">Doggystyle</a></i>). It is one of the last high-selling and critically acclaimed releases from the label, preceding only <i><a href="/wiki/Tha_Doggfather" title="Tha Doggfather">Tha Doggfather</a></i> and <a href="/wiki/2Pac" title="2Pac" class="mw-redirect">2Pac</a>'s albums as an anticipated album, and is the last album to be "officially" produced under the <a href="/wiki/G-Funk" title="G-Funk" class="mw-redirect">G-Funk</a> (sub-genre) era of hip-hop which was pioneered by <a href="/wiki/Above_the_Law_(group)" title="Above the Law (group)">Above the Law</a>. Though Dr. Dre was Death Row's premier producer, the album was mostly produced by Dat Nigga Daz, Dr. Dre mixed the album; <i>Dogg Food</i> led the way for Daz to become the top in-house producer for Death Row until his departure in the late '90s.</p>
+<p>In the months leading up to the album's release, Kurupt appeared on BETRapCity and announced that "Reality" (a song that features Tray Dee) would be the lead single for the album. However, this song was never released as a single for the album.</p>
+<p>The video for the second single "New York, New York" sparked some controversy when Snoop appeared in the video kicking down buildings throughout New York. This led to a response record by <a href="/wiki/Capone-N-Noreaga" title="Capone-N-Noreaga">Capone-N-Noreaga</a>, <a href="/wiki/Mobb_Deep" title="Mobb Deep">Mobb Deep</a> &amp; <a href="/wiki/Tragedy_Khadafi" title="Tragedy Khadafi">Tragedy Khadafi</a> called "L.A., L.A.", with a music video in which impersonated Dogg Pound members were thrown off the <a href="/wiki/Queensboro_Bridge" title="Queensboro Bridge">Queensboro Bridge</a>. The trailer of the Dogg Pound was also shot at during the process of making the "New York, New York" video. The song is one of three tracks on the album not produced by Daz, as DJ Pooh provided the beat.</p>
+<p>The songs opening track contains a line of disrespect towards rival rap group <a href="/wiki/Bone_Thugs-N-Harmony" title="Bone Thugs-N-Harmony" class="mw-redirect">Bone Thugs-N-Harmony</a>, as Kurupt raps "Ain't Got No Love For No Hoes In Harmony". Picking up from where the beef had previous left off between Dogg Pound mentor Dr. Dre, and Bone mentor <a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a>. This is consistent with most the Death Row releases up to this point, as the Chronic contains the Eazy E disses on tracks 1 and 2, Snoop's Doggystyle contains the Eazy E disses in a conversation (skit) with Daz, and the Murder Was The Case album contains a Ruthless slight in the track "What Would You Do?"</p>
+<p>The track "I Don't Like To Dream About Gettin' Paid" is a remake of an original track recorded by 213 (Snoop, Nate, Warren G) before they were famous, and Nate Dogg appears in the chorus of the track. 213 had two underground songs "I Don't Like To Dream About Gettin' Paid" and "Long Beach is A Mutherfucka" that are still to this day rare and unreleased.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Track_listing"><span class="tocnumber">1</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Chart_positions"><span class="tocnumber">2</span> <span class="toctext">Chart positions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Album"><span class="tocnumber">2.1</span> <span class="toctext">Album</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Singles"><span class="tocnumber">2.2</span> <span class="toctext">Singles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dogg_Food&amp;action=edit&amp;section=1" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Intro" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Dat_Nigga_Daz" title="Dat Nigga Daz" class="mw-redirect">Dat Nigga Daz</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:18</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Dogg Pound Gangstaz" &#160;</td>
+<td style="vertical-align: top;">Dat Nigga Daz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:21</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Respect" <span style="font-size:85%;">(featuring <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, <a href="/wiki/Prince_Ital_Joe" title="Prince Ital Joe">Prince Ital Joe</a>, Nancy Fletcher &amp; Big Pimpin Delemond)</span></td>
+<td style="vertical-align: top;">Dat Nigga Daz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:55</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/New_York,_New_York_(Tha_Dogg_Pound_song)" title="New York, New York (Tha Dogg Pound song)">New York, New York</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Doggy Dogg</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/DJ_Pooh" title="DJ Pooh">DJ Pooh</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:50</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Smooth" <span style="font-size:85%;">(featuring Snoop Doggy Dogg &amp; <a href="/wiki/Val_Young" title="Val Young">Val Young</a>)</span></td>
+<td style="vertical-align: top;">DJ Pooh</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:35</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Cyco-Lic-No (Bitch Azz Niggaz)" <span style="font-size:85%;">(featuring Snoop Doggy Dogg &amp; Mr. Malik)</span></td>
+<td style="vertical-align: top;">Dat Nigga Daz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:55</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Ridin', Slipin' and Slidin'" &#160;</td>
+<td style="vertical-align: top;">Dat Nigga Daz, Dave Swang</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:01</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Big Pimpin' 2" <span style="font-size:85%;">(featuring Big Pimpin' Delemond)</span></td>
+<td style="vertical-align: top;">Dat Nigga Daz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:35</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Let%27s_Play_House_(Tha_Dogg_Pound_song)" title="Let's Play House (Tha Dogg Pound song)">Let's Play House</a>" <span style="font-size:85%;">(featuring Dr. Dre, <a href="/wiki/Michel%27le" title="Michel'le">Michel'le</a> &amp; <a href="/wiki/Nate_Dogg" title="Nate Dogg">Nate Dogg</a>)</span></td>
+<td style="vertical-align: top;">Dat Nigga Daz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:24</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"I Don't Like To Dream About Gettin' Paid" <span style="font-size:85%;">(featuring Nate Dogg)</span></td>
+<td style="vertical-align: top;">Dat Nigga Daz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:15</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Do What I Feel" <span style="font-size:85%;">(featuring <a href="/wiki/The_Lady_of_Rage" title="The Lady of Rage">The Lady of Rage</a>)</span></td>
+<td style="vertical-align: top;">Dat Nigga Daz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:30</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"If We All Fucc" <span style="font-size:85%;">(featuring Snoop Doggy Dogg)</span></td>
+<td style="vertical-align: top;">Dat Nigga Daz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:13</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Some Bomb Azz Pussy" <span style="font-size:85%;">(featuring Snoop Doggy Dogg)</span></td>
+<td style="vertical-align: top;">Dat Nigga Daz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:29</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"A Dogg'z Day Afternoon" <span style="font-size:85%;">(featuring Snoop Doggy Dogg &amp; Nate Dogg)</span></td>
+<td style="vertical-align: top;">Dat Nigga Daz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:45</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Reality" <span style="font-size:85%;">(featuring <a href="/wiki/Tray_Deee" title="Tray Deee">Tray Deee</a>)</span></td>
+<td style="vertical-align: top;">Dat Nigga Daz, Emanuel "Porkchop" Dean</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:16</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"One By One" &#160;</td>
+<td style="vertical-align: top;">Dat Nigga Daz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:09</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"Sooo Much Style" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Soopafly" title="Soopafly">Soopafly</a>, Overdose</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:44</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dogg_Food&amp;action=edit&amp;section=2" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Album">Album</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dogg_Food&amp;action=edit&amp;section=3" title="Edit section: Album">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2">Album</th>
+<th colspan="3">Chart positions</th>
+</tr>
+<tr>
+<th><a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a></th>
+<th>Top R&amp;B/Hip Hop Tip Top Albums</th>
+<th><a href="/wiki/Top_Heatseekers" title="Top Heatseekers">Top Heatseekers</a></th>
+</tr>
+<tr>
+<td>1995</td>
+<td><i>Dogg Food</i></td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">21</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dogg_Food&amp;action=edit&amp;section=4" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2">Song</th>
+<th colspan="4">Chart positions</th>
+</tr>
+<tr>
+<th><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a></th>
+<th><a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a></th>
+<th><a href="/wiki/Hot_Rap_Tracks" title="Hot Rap Tracks" class="mw-redirect">Hot Rap Singles</a></th>
+<th><a href="/wiki/Rhythmic_Top_40" title="Rhythmic Top 40" class="mw-redirect">Rhythmic Top 40</a></th>
+</tr>
+<tr>
+<td rowspan="3">1995</td>
+<td>"Respect"</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">35<sup class="reference" id="ref_sales"><a href="#endnote_sales">[A]</a></sup></td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+</tr>
+<tr>
+<td>"New York, New York"</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">51<sup class="reference" id="ref_sales"><a href="#endnote_sales">[A]</a></sup></td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+</tr>
+<tr>
+<td>"Let's Play House"</td>
+<td style="text-align:center;">45</td>
+<td style="text-align:center;">21</td>
+<td style="text-align:center;">5</td>
+<td style="text-align:center;">30</td>
+</tr>
+</table>
+<ul>
+<li><b>A.</b> <span class="citation wikicite" id="endnote_sales"><b><a href="#ref_sales">^</a></b></span> Peaked only on the <a href="/wiki/Hot_R%26B/Hip-Hop_Airplay" title="Hot R&amp;B/Hip-Hop Airplay">Hot R&amp;B/Hip-Hop Airplay</a> chart.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dogg_Food&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/1995_in_music" title="1995 in music">1995 in music</a></li>
+<li><a href="/wiki/List_of_albums" title="List of albums" class="mw-redirect">List of albums</a></li>
+<li><a href="/wiki/List_of_number-one_albums_of_1995_(U.S.)" title="List of number-one albums of 1995 (U.S.)" class="mw-redirect">List of number-one albums of 1995 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1995_(U.S.)" title="List of number-one R&amp;B albums of 1995 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1995 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dogg_Food&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r226721">Allmusic review</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,299579,00.html">Entertainment Weekly review</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://articles.latimes.com/1995-10-29/entertainment/ca-62418_1_dogg-food">Los Angeles Times review</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/search/xx/music/pid/1631831/a/Dogg+Food.htm">Q review</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sputnikmusic.com/album.php?albumid=36222">Sputnikmusic review</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dogg_Food&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/377303/tha+dogg+pound/chart">Billboard</a></li>
+<li><a rel="nofollow" class="external text" href="http://webcache.googleusercontent.com/search?q=cache:zJ98n38fE_sJ:www.mmguide.musicmatch.com/artist/artist.cgi%3FARTISTID%3D861908+%22Dogg+Pound%22+%22New+York,+New+York%22+-Lyrics+chart&amp;hl=en">MusicMatch</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mvdbase.com/artist.php?last=Dogg%20Pound&amp;first=tha">Music Video Database</a></li>
+</ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Mellon_Collie_and_the_Infinite_Sadness" title="Mellon Collie and the Infinite Sadness">Mellon Collie and the Infinite Sadness</a></i><br />
+by <a href="/wiki/The_Smashing_Pumpkins" title="The Smashing Pumpkins">The Smashing Pumpkins</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_1995_(USA)" title="Number-one albums of 1995 (USA)" class="mw-redirect">number-one album</a></b><br />
+November 18–24, 1995</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Alice_in_Chains_(album)" title="Alice in Chains (album)">Alice in Chains</a></i> by <a href="/wiki/Alice_in_Chains" title="Alice in Chains">Alice in Chains</a></span></td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Tha_Dogg_Pound" title="Template:Tha Dogg Pound"><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Tha_Dogg_Pound" title="Template talk:Tha Dogg Pound"><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Tha_Dogg_Pound&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><a href="/wiki/Tha_Dogg_Pound" title="Tha Dogg Pound">Tha Dogg Pound</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><a href="/wiki/Kurupt" title="Kurupt">Kurupt</a></b> (<a href="/wiki/Kurupt_discography" title="Kurupt discography">discography</a>)</li>
+<li><b><a href="/wiki/Daz_Dillinger" title="Daz Dillinger">Daz Dillinger</a></b> (<a href="/wiki/Daz_Dillinger_discography" title="Daz Dillinger discography">discography</a>)</li>
+</ul>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Nate_Dogg" title="Nate Dogg">Nate Dogg</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Soopafly" title="Soopafly">Soopafly</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Bad_Azz_(rapper)" title="Bad Azz (rapper)">Bad Azz</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/RBX" title="RBX">RBX</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/The_Lady_of_Rage" title="The Lady of Rage">Lady of Rage</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Lil%27_C-Style" title="Lil' C-Style" class="mw-redirect">Lil' C-Style</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Tray_Deee" title="Tray Deee">Tray Deee</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Warren_G" title="Warren G">Warren G</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Goldie_Loc" title="Goldie Loc">Goldie Loc</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Lil%27_Half_Dead" title="Lil' Half Dead" class="mw-redirect">Lil' Half Dead</a></small></li>
+<li><small style="font-size:85%;">Roscoe</small></li>
+<li><small style="font-size:85%;"><a href="/w/index.php?title=Big_Pimpin%27_Delemond&amp;action=edit&amp;redlink=1" class="new" title="Big Pimpin' Delemond (page does not exist)">Big Pimpin'</a></small></li>
+<li><small style="font-size:85%;">Butch Cassidy</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><strong class="selflink">Dogg Food</strong></i></li>
+<li><i><a href="/wiki/Dillinger_%26_Young_Gotti" title="Dillinger &amp; Young Gotti">Dillinger &amp; Young Gotti</a></i></li>
+<li><i><a href="/wiki/Dillinger_%26_Young_Gotti_II:_Tha_Saga_Continuez..." title="Dillinger &amp; Young Gotti II: Tha Saga Continuez...">Dillinger &amp; Young Gotti II: Tha Saga Continuez...</a></i></li>
+<li><i><a href="/wiki/Cali_Iz_Active" title="Cali Iz Active">Cali Iz Active</a></i></li>
+<li><i><a href="/wiki/Dogg_Chit" title="Dogg Chit">Dogg Chit</a></i></li>
+<li><i><a href="/wiki/That_Was_Then,_This_Is_Now_(Tha_Dogg_Pound_album)" title="That Was Then, This Is Now (Tha Dogg Pound album)">That Was Then, This Is Now</a></i></li>
+<li><i><a href="/wiki/100_Wayz" title="100 Wayz">100 Wayz</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilation albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/2002_(Tha_Dogg_Pound_album)" title="2002 (Tha Dogg Pound album)">2002</a></i></li>
+<li><i><a href="/wiki/The_Last_of_Tha_Pound" title="The Last of Tha Pound">The Last of Tha Pound</a></i></li>
+<li><i><a href="/wiki/Keep_on_Ridin" title="Keep on Ridin">Keep on Ridin</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">EPs</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Let%27s_Ryde_2Night_EP" title="Let's Ryde 2Night EP">Let's Ryde 2Night EP</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/What_Would_You_Do_(Tha_Dogg_Pound_song)" title="What Would You Do (Tha Dogg Pound song)">What Would You Do</a>"</li>
+<li>"<a href="/wiki/New_York,_New_York_(Tha_Dogg_Pound_song)" title="New York, New York (Tha Dogg Pound song)">New York, New York</a>"</li>
+<li>"<a href="/wiki/Let%27s_Play_House_(Tha_Dogg_Pound_song)" title="Let's Play House (Tha Dogg Pound song)">Let's Play House</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Tha_Dogg_Pound_discography" title="Tha Dogg Pound discography">Discography</a></li>
+<li><a href="/wiki/D.P.G._Recordz" title="D.P.G. Recordz">D.P.G. Recordz</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1009
+CPU time usage: 2.320 seconds
+Real time usage: 2.405 seconds
+Preprocessor visited node count: 9078/1000000
+Preprocessor generated node count: 62797/1500000
+Post‐expand include size: 59837/2048000 bytes
+Template argument size: 10807/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 2/500
+Lua time usage: 0.069/10.000 seconds
+Lua memory usage: 1.18 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:446870-0!*!0!!en!4!* and timestamp 20140531114748 and revision id 608224913
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Dogg_Food&amp;oldid=608224913">http://en.wikipedia.org/w/index.php?title=Dogg_Food&amp;oldid=608224913</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1995_debut_albums" title="Category:1995 debut albums">1995 debut albums</a></li><li><a href="/wiki/Category:Tha_Dogg_Pound_albums" title="Category:Tha Dogg Pound albums">Tha Dogg Pound albums</a></li><li><a href="/wiki/Category:Death_Row_Records_albums" title="Category:Death Row Records albums">Death Row Records albums</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Pooh" title="Category:Albums produced by DJ Pooh">Albums produced by DJ Pooh</a></li><li><a href="/wiki/Category:Albums_produced_by_Daz_Dillinger" title="Category:Albums produced by Daz Dillinger">Albums produced by Daz Dillinger</a></li><li><a href="/wiki/Category:Gangsta_rap_albums" title="Category:Gangsta rap albums">Gangsta rap albums</a></li><li><a href="/wiki/Category:G-funk_albums" title="Category:G-funk albums">G-funk albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dogg+Food&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dogg+Food" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Dogg_Food"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Dogg_Food"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Dogg_Food" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Dogg_Food&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dogg_Food&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dogg_Food" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dogg_Food" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Dogg_Food&amp;oldid=608224913" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Dogg_Food&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q653828" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Dogg_Food&amp;id=608224913" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dogg+Food">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Dogg+Food&amp;oldid=608224913&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Dogg_Food&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Dogg_Food" title="Dogg Food – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Dogg_Food" title="Dogg Food – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q653828#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 May 2014 at 13:52.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Dogg_Food" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":179,"wgHostname":"mw1211"});
+}</script>
+	</body>
+</html>
+	

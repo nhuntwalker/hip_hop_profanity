@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>The Black Album (Jay-Z album) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Black_Album_(Jay-Z_album)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/The_Black_Album_(Jay-Z_album)" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Black_Album_(Jay-Z_album)","wgTitle":"The Black Album (Jay-Z album)","wgCurRevisionId":605228514,"wgRevisionId":605228514,"wgArticleId":417917,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from February 2012","Articles with hAudio microformats","2003 albums","Albums produced by 9th Wonder","Albums produced by DJ Quik","Albums produced by Eminem","Albums produced by Just Blaze","Albums produced by Kanye West","Albums produced by The Neptunes","Albums produced by Rick Rubin","Albums produced by Timbaland","Def Jam Recordings albums","English-language albums","Jay-Z albums","Roc-A-Fella Records albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Black_Album_(Jay-Z_album)","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2563740"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-The_Black_Album_Jay-Z_album skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>The Black Album</i> (Jay-Z album)</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">The Black Album</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Jay-z-black-album.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4f/Jay-z-black-album.jpg/220px-Jay-z-black-album.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/4/4f/Jay-z-black-album.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/4/4f/Jay-z-black-album.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">November 14, 2003</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>55:32</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella</a>, <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> <small>(exec.)</small>, <a href="/wiki/Damon_Dash" title="Damon Dash">Damon Dash</a> <small>(exec.)</small>, Kareem "Biggs" Burke <small>(exec.)</small>, <a href="/wiki/Just_Blaze" title="Just Blaze">Just Blaze</a>, <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>, <a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a>, <a href="/wiki/Timbaland" title="Timbaland">Timbaland</a>, <a href="/wiki/9th_Wonder" title="9th Wonder">9th Wonder</a>, <a href="/wiki/Eminem" title="Eminem">Eminem</a>, <a href="/wiki/Rick_Rubin" title="Rick Rubin">Rick Rubin</a>, <a href="/wiki/The_Buchanans_(production_team)" title="The Buchanans (production team)">The Buchanans</a>, <a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a>, <a href="/wiki/Luis_Resto_(musician)" title="Luis Resto (musician)">Luis Resto</a>, Aqua, Joseph Weinberger</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/The_Blueprint_2:_The_Gift_%26_The_Curse" title="The Blueprint 2: The Gift &amp; The Curse">The Blueprint 2: The Gift &amp; The Curse</a></i><br />
+(2002)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>The Black Album</b></i><br />
+(2003)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Kingdom_Come_(Jay-Z_album)" title="Kingdom Come (Jay-Z album)">Kingdom Come</a></i><br />
+(2006)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>The Black Album</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Change_Clothes" title="Change Clothes">Change Clothes</a>"</span><br />
+Released: November 11, 2003</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Dirt_Off_Your_Shoulder" title="Dirt Off Your Shoulder" class="mw-redirect">Dirt Off Your Shoulder</a>"</span><br />
+Released: January 13, 2004</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/99_Problems" title="99 Problems">99 Problems</a>"</span><br />
+Released: April 13, 2004</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>The Black Album</b></i> is the eighth studio album by American rapper <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, released November 14, 2003, on <a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella Records</a>. It was promoted as his final studio album, which serves as a recurring theme,<sup id="cite_ref-Tour.C3.A9_1-0" class="reference"><a href="#cite_note-Tour.C3.A9-1"><span>[</span>1<span>]</span></a></sup> although Jay-Z returned to solo recording with <i><a href="/wiki/Kingdom_Come_(Jay-Z_album)" title="Kingdom Come (Jay-Z album)">Kingdom Come</a></i> in 2006.</p>
+<p>The album debuted at number 1 on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart, selling 463,000 copies in its first week.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> <i>The Black Album</i> has sold 3,516,000 original copies in the United States as of July 2013.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> It produced three singles that attained <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> chart success, including <a href="/wiki/Hot_100" title="Hot 100" class="mw-redirect">Hot 100</a> top-ten hits "<a href="/wiki/Change_Clothes" title="Change Clothes">Change Clothes</a>" and "<a href="/wiki/Dirt_Off_Your_Shoulder" title="Dirt Off Your Shoulder" class="mw-redirect">Dirt Off Your Shoulder</a>".</p>
+<p>Upon its release, <i>The Black Album</i> received acclaim from music critics. It was nominated for a <a href="/wiki/Grammy_Award_for_Best_Rap_Album" title="Grammy Award for Best Rap Album">Grammy Award for Best Rap Album</a> at the <a href="/wiki/47th_Grammy_Awards" title="47th Grammy Awards" class="mw-redirect">47th Grammy Awards</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> ultimately losing to <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>'s <i><a href="/wiki/The_College_Dropout" title="The College Dropout">The College Dropout</a></i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> The album was ranked #349 in <a href="/wiki/Rolling_Stone_Magazine" title="Rolling Stone Magazine" class="mw-redirect">Rolling Stone's</a> <a href="/wiki/500_Greatest_Albums_of_All_Time" title="500 Greatest Albums of All Time" class="mw-redirect">list of the 500 greatest albums of all time</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Release_and_promotion"><span class="tocnumber">1</span> <span class="toctext">Release and promotion</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Critical_reception"><span class="tocnumber">2</span> <span class="toctext">Critical reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Accolades"><span class="tocnumber">2.1</span> <span class="toctext">Accolades</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Track_listing"><span class="tocnumber">3</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Charts"><span class="tocnumber">4</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Personnel"><span class="tocnumber">5</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Release_and_promotion">Release and promotion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;action=edit&amp;section=1" title="Edit section: Release and promotion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Jay-Z said the album would have a different producer for each track, and early magazine advertisements listed a series of numbers (representing tracks) and a producer for each number. <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> and <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a> were originally supposed to be among these producers however did not make the final cut.<sup id="cite_ref-complex.com_7-0" class="reference"><a href="#cite_note-complex.com-7"><span>[</span>7<span>]</span></a></sup> The final album did feature a variety of producers, although <a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella</a> producers <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a> and <a href="/wiki/Just_Blaze" title="Just Blaze">Just Blaze</a> produced two tracks each, in addition to the two produced by frequent Jay-Z collaborators <a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a>.</p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;action=edit&amp;section=2" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Bush_8-0" class="reference"><a href="#cite_note-Bush-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">A<sup id="cite_ref-Christgau2_9-0" class="reference"><a href="#cite_note-Christgau2-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">B+<sup id="cite_ref-Drumming_10-0" class="reference"><a href="#cite_note-Drumming-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="2/5 stars"><img alt="2/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Simpson_11-0" class="reference"><a href="#cite_note-Simpson-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Mojo_(magazine)" title="Mojo (magazine)">Mojo</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/NME" title="NME">NME</a></i></td>
+<td style="vertical-align:middle">8/10<sup id="cite_ref-NME_13-0" class="reference"><a href="#cite_note-NME-13"><span>[</span>13<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a></td>
+<td style="vertical-align:middle">8.0/10<sup id="cite_ref-Pitchfork_14-0" class="reference"><a href="#cite_note-Pitchfork-14"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Tour.C3.A9_1-1" class="reference"><a href="#cite_note-Tour.C3.A9-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/4 stars"><img alt="4/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Jones_15-0" class="reference"><a href="#cite_note-Jones-15"><span>[</span>15<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Editors_16-0" class="reference"><a href="#cite_note-Editors-16"><span>[</span>16<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i>The Black Album</i> received acclaim from contemporary music critics; it holds an aggregate score of 84 out 100 at <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>.<sup id="cite_ref-Metacritic_17-0" class="reference"><a href="#cite_note-Metacritic-17"><span>[</span>17<span>]</span></a></sup> According to <i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The Rolling Stone Album Guide</a></i> (2004), <i>The Black Album</i> is "old-school and utterly modern", as it showed Jay-Z "at the top of his game, able to reinvent himself as a rap classicist at the right time, as if to cement his place in hip-hop's legacy for generations to come".<sup id="cite_ref-Hoard_18-0" class="reference"><a href="#cite_note-Hoard-18"><span>[</span>18<span>]</span></a></sup> Steve Jones of <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i> stated, "He enlisted beats from an all-star cast of producers, who come through with top-shelf work. But it's Jigga's trademark lyrical dexterity and diversified deliveries that put him on a level all his own."<sup id="cite_ref-Jones_15-1" class="reference"><a href="#cite_note-Jones-15"><span>[</span>15<span>]</span></a></sup> Dave Simpson of <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i> was less enthusiastic and dismissed the music as "an aural equivalent of that old American favourite, the schmaltzy biopic."<sup id="cite_ref-Simpson_11-1" class="reference"><a href="#cite_note-Simpson-11"><span>[</span>11<span>]</span></a></sup> In his consumer guide for <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>, <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a> gave the album a three-star honorable mention,<sup id="cite_ref-Christgau1_19-0" class="reference"><a href="#cite_note-Christgau1-19"><span>[</span>19<span>]</span></a></sup> indicating "an enjoyable effort consumers attuned to its overriding aesthetic or individual vision may well treasure."<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> He cited "99 Problems" and "My 1st Song" as highlights and quipped, "Raps like a legend in his own time—namely, <a href="/wiki/Elvis_Presley" title="Elvis Presley">Elvis</a> in Vegas".<sup id="cite_ref-Christgau1_19-1" class="reference"><a href="#cite_note-Christgau1-19"><span>[</span>19<span>]</span></a></sup> In a retrospective review, Christgau gave the album an "A", noted how each track benefits from different producers, and wrote of its legacy:</p>
+<blockquote class="templatequote">
+<p>History has vindicated this album. On a meticulously hyped valedictory no one believed would be his actual farewell, the fanfares, ovations, maternal reminiscences, and <a href="/wiki/Vamp_(music)" title="Vamp (music)" class="mw-redirect">vamp</a>-till-ready <a href="/wiki/Shout_out" title="Shout out" class="mw-redirect">shout-outs</a> were overblown at best. But on an album where the biggest rapper of all time announces that he's the biggest rapper of all time, they're prophetic. Bitch about <i><a href="/wiki/Kingdom_Come_(Jay-Z_album)" title="Kingdom Come (Jay-Z album)">Kingdom Come</a></i> and <i><a href="/wiki/American_Gangster_(album)" title="American Gangster (album)">American Gangster</a></i> if you must, but not <i><a href="/wiki/The_Blueprint_3" title="The Blueprint 3">The Blueprint 3</a></i> or <i><a href="/wiki/Watch_the_Throne" title="Watch the Throne">Watch the Throne</a></i>, and not his label presidency, amassed fortune, or close personal relationship with <a href="/wiki/Warren_Buffett" title="Warren Buffett">Warren Buffett</a>. He's got a right to celebrate his autobiography in rhyme because he's on track to become a personage who dwarfs any mere rapper, and not only can he hire the best help dark green can buy, he can make it sing.<sup id="cite_ref-Christgau2_9-1" class="reference"><a href="#cite_note-Christgau2-9"><span>[</span>9<span>]</span></a></sup></p>
+</blockquote>
+<h3><span class="mw-headline" id="Accolades">Accolades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;action=edit&amp;section=3" title="Edit section: Accolades">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a> ranked <i>The Black Album</i> at number 90 on its list of the top 200 albums of the 2000s,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> and <a href="/wiki/Slant_Magazine" title="Slant Magazine">Slant Magazine</a> ranked it number 7 on its list of the Top 100 Albums of the 2000s.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> According to <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>, the album is Jay-Z's top selling album of the 2000s and the 136th highest selling album of the decade in the United States.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup> In 2012 <a href="/wiki/Complex_(magazine)" title="Complex (magazine)">Complex</a> named the album one of the classic albums of the last decade.<sup id="cite_ref-complex.com_7-1" class="reference"><a href="#cite_note-complex.com-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;action=edit&amp;section=4" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Interlude" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Just_Blaze" title="Just Blaze">Just Blaze</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:22</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"December 4th" &#160;</td>
+<td style="vertical-align: top;">Just Blaze</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:32</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/What_More_Can_I_Say" title="What More Can I Say">What More Can I Say</a>" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/The_Buchanans_(production_team)" title="The Buchanans (production team)">The Buchanans</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:55</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Encore_(Jay-Z_song)" title="Encore (Jay-Z song)">Encore</a>" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:11</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Change_Clothes" title="Change Clothes">Change Clothes</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Pharrell_Williams" title="Pharrell Williams">Pharrell</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:18</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Dirt_Off_Your_Shoulder" title="Dirt Off Your Shoulder" class="mw-redirect">Dirt Off Your Shoulder</a>" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Timbaland" title="Timbaland">Timbaland</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:05</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Threat" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/9th_Wonder" title="9th Wonder">9th Wonder</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:05</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Moment of Clarity" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Eminem" title="Eminem">Eminem</a>, <a href="/wiki/Luis_Resto_(musician)" title="Luis Resto (musician)">Luis Resto</a> <small>(co)</small></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:24</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/99_Problems" title="99 Problems">99 Problems</a>" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Rick_Rubin" title="Rick Rubin">Rick Rubin</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:55</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Public Service Announcement (Interlude)" &#160;</td>
+<td style="vertical-align: top;">Just Blaze</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:53</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Justify My Thug" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:05</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Lucifer" &#160;</td>
+<td style="vertical-align: top;">Kanye West</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:12</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Allure" &#160;</td>
+<td style="vertical-align: top;">The Neptunes</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:52</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/My_1st_Song" title="My 1st Song">My 1st Song</a>" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Aqua_(record_producer)" title="Aqua (record producer)">Aqua</a>, Joe "3H" Weinberger</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:45</td>
+</tr>
+</table>
+<dl>
+<dt>Samples</dt>
+</dl>
+<ul>
+<li>"December 4th" contains a sample of "That's How Long" by <a href="/wiki/The_Chi-Lites" title="The Chi-Lites">The Chi-Lites</a>.</li>
+<li>"What More Can I Say" contains a sample of "Something for Nothing" by <a href="/wiki/MFSB" title="MFSB">MFSB</a>.</li>
+<li>"Encore" contains a sample of "<a href="/wiki/I_Will_(The_Beatles_song)" title="I Will (The Beatles song)" class="mw-redirect">I Will</a>" by <a href="/wiki/John_Holt_(singer)" title="John Holt (singer)">John Holt</a>.</li>
+<li>"Threat" contains a sample of "A Woman's Threat" by <a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a>.</li>
+<li>"99 Problems" containss samples of "<a href="/wiki/Long_Red" title="Long Red">Long Red</a>" by <a href="/wiki/Mountain_(band)" title="Mountain (band)">Mountain</a>, "Get Me Back on Time, Engine Number 9" by <a href="/wiki/Wilson_Pickett" title="Wilson Pickett">Wilson Pickett</a>, "The Big Beat" by <a href="/wiki/Billy_Squier" title="Billy Squier">Billy Squier</a>, "99 Problems" by <a href="/wiki/Ice-T" title="Ice-T">Ice-T</a>, "Touched" by <a href="/wiki/UGK" title="UGK">UGK</a> and "<a href="/wiki/Children%27s_Story" title="Children's Story">Children's Story</a>" by <a href="/wiki/Slick_Rick" title="Slick Rick">Slick Rick</a>.</li>
+<li>"Public Service Announcement (Interlude)" contains samples of "No One Can Do It Better" by <a href="/wiki/The_D.O.C." title="The D.O.C.">The D.O.C.</a> and "Seed of Love" by Little Boy Blues.</li>
+<li>"Justify My Thug" contains samples of "<a href="/wiki/Rock_Around_the_Clock" title="Rock Around the Clock">Rock Around the Clock</a>" by <a href="/wiki/Bill_Haley_%26_His_Comets" title="Bill Haley &amp; His Comets">Bill Haley &amp; His Comets</a>, "<a href="/wiki/Rock_Box" title="Rock Box">Rock Box</a>" as performed by <a href="/wiki/Run_DMC" title="Run DMC" class="mw-redirect">Run DMC</a> and "<a href="/wiki/Justify_My_Love" title="Justify My Love">Justify My Love</a>" by <a href="/wiki/Madonna_(entertainer)" title="Madonna (entertainer)">Madonna</a>.</li>
+<li>"Lucifer" contains a sample of "<a href="/wiki/Chase_the_Devil" title="Chase the Devil">Chase the Devil</a>" by <a href="/wiki/Max_Romeo" title="Max Romeo">Max Romeo</a>.</li>
+<li>"My 1st Song" contains a sample of "Tu y Tu Mirar...Yo y Mi Canción" by <a href="/wiki/Los_Angeles_Negros" title="Los Angeles Negros" class="mw-redirect">Los Angeles Negros</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;action=edit&amp;section=5" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th align="left">Chart (2003)</th>
+<th align="center">Peak<br />
+position</th>
+</tr>
+<tr>
+<td align="left">U.S. <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left">U.S. Top R&amp;B/Hip Hop Albums</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left">U.S. Top Rap Albums</td>
+<td align="center">1 <sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></td>
+</tr>
+</table>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Shock%27n_Y%27all" title="Shock'n Y'all">Shock'n Y'all</a></i> by <a href="/wiki/Toby_Keith" title="Toby Keith">Toby Keith</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_2003_(USA)" title="Number-one albums of 2003 (USA)" class="mw-redirect">number-one album</a> (First Run)</b><br />
+November 23, 2003 – November 29, 2003</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i>In the Zone</i> by Britney Spears</span></td>
+</tr>
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/In_the_Zone" title="In the Zone">In the Zone</a></i> by <a href="/wiki/Britney_Spears" title="Britney Spears">Britney Spears</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_2003_(USA)" title="Number-one albums of 2003 (USA)" class="mw-redirect">number-one album</a> (Second Run)</b><br />
+December 7, 2003 – December 13, 2003</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/The_Diary_of_Alicia_Keys" title="The Diary of Alicia Keys">The Diary of Alicia Keys</a></i> by <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a></span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;action=edit&amp;section=6" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Executive Producers: Shawn Carter, <a href="/wiki/Damon_Dash" title="Damon Dash">Damon Dash</a>, Kareem "Biggs" Burke</li>
+<li>A&amp;R Direction: Kyambo "Hip Hop" Joshua</li>
+<li>A&amp;R: Lenny S.</li>
+<li>A&amp;R Direction/Join Venture: Darcell Lawrence</li>
+<li>A&amp;R Administration: Rob Mitchell</li>
+<li>Recording Administration: Rob Mitchell</li>
+<li>Mastering: Tony Dawsey</li>
+<li>Marketing: Shari Bryant, Amber Noble</li>
+<li>Management: <a href="/wiki/Roc-A-Fella" title="Roc-A-Fella" class="mw-redirect">Roc-A-Fella</a> Management</li>
+<li>Art Direction &amp; Design: Robert Sims</li>
+<li>Principal Photography: Jonathan Mannion</li>
+<li>Additional Photography: Lenny "kodak man" Santiago, Walik Goshorn</li>
+<li>Legal Counsel: Michael Guido, Jennifer Justice</li>
+<li>Business Affairs for Roc-A-Fella Records: Michael Seltzer, Ian Allen, Antoinette Trotman, Jeff Kempler</li>
+<li>Sample Clearance Agent: Eric Weissman</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Danger_Mouse_(music_producer)" title="Danger Mouse (music producer)" class="mw-redirect">Danger Mouse</a> – <i><a href="/wiki/The_Grey_Album" title="The Grey Album">The Grey Album</a></i> (2004)</li>
+<li><a href="/wiki/List_of_number-one_albums_of_2003_(U.S.)" title="List of number-one albums of 2003 (U.S.)" class="mw-redirect">List of number-one albums of 2003 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_2003_(U.S.)" title="List of number-one R&amp;B albums of 2003 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 2003 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Tour.C3.A9-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tour.C3.A9_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tour.C3.A9_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Touré. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090401064837/http://www.rollingstone.com/artists/jayz/albums/album/294305/review/6067977/the_black_album">Review: <i>The Black Album</i></a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (archived April 1, 2009). <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. Retrieved on 2009-10-02.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/billboard-200?page=9">"Back In 'Black': Jay-Z Swan Song Bows On Top"</a>. Billboard<span class="reference-accessdate">. Retrieved July 12, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Black+Album+%28Jay-Z+album%29&amp;rft.btitle=Back+In+%27Black%27%3A+Jay-Z+Swan+Song+Bows+On+Top&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fbillboard-200%3Fpage%3D9&amp;rft.pub=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">Paine, Jake. <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.24622/title.hip-hop-album-sales-the-week-ending-7-7-2013/">"Hip Hop Album Sales: The Week Ending 7/7/2013"</a>. HipHop DX<span class="reference-accessdate">. Retrieved July 12, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Black+Album+%28Jay-Z+album%29&amp;rft.aufirst=Jake&amp;rft.aulast=Paine&amp;rft.au=Paine%2C+Jake&amp;rft.btitle=Hip+Hop+Album+Sales%3A+The+Week+Ending+7%2F7%2F2013&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.24622%2Ftitle.hip-hop-album-sales-the-week-ending-7-7-2013%2F&amp;rft.pub=HipHop+DX&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://telepixtvcgi.warnerbros.com/v2/news/0205/11/grammynominees.html">Grammy Award Nominees</a>. Retrieved on 2011.05.10.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cbsnews.com/stories/2005/02/14/in_depth_showbiz/main673822.shtml">Grammy Award Winners. Retrieved on 2011.05.10.</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/lists/500-greatest-albums-of-all-time-20120531/jay-z-the-black-album-20120524">500 Greatest Albums of All Time: Jay-Z, 'The Black Album' | Rolling Stone</a></span></li>
+<li id="cite_note-complex.com-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-complex.com_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-complex.com_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2012/12/25-rap-albums-from-the-past-decade-that-deserve-classic-status/jay-z-the-black-album">"Jay-Z, The Black Album (2003) — 25 Rap Albums From the Past Decade That Deserve Classic Status"</a>. Complex<span class="reference-accessdate">. Retrieved 8 December 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Black+Album+%28Jay-Z+album%29&amp;rft.btitle=Jay-Z%2C+The+Black+Album+%282003%29+%26mdash%3B+25+Rap+Albums+From+the+Past+Decade+That+Deserve+Classic+Status&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2012%2F12%2F25-rap-albums-from-the-past-decade-that-deserve-classic-status%2Fjay-z-the-black-album&amp;rft.pub=Complex&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bush-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bush_8-0">^</a></b></span> <span class="reference-text">Bush, John. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r669515/review">Review: <i>The Black Album</i></a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>. Retrieved on 2009-10-02.</span></li>
+<li id="cite_note-Christgau2-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Christgau2_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Christgau2_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Christgau, Robert</a> (September 9, 2011). <a rel="nofollow" class="external text" href="http://social.entertainment.msn.com/music/blogs/expert-witness-blogpost.aspx?post=44206efe-b141-49c4-a71e-ccff9f589c03">"Jay-Z"</a>. <a href="/wiki/MSN_Music" title="MSN Music">MSN Music</a>. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a><span class="reference-accessdate">. Retrieved September 15, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Black+Album+%28Jay-Z+album%29&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.btitle=Jay-Z&amp;rft.date=September+9%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fsocial.entertainment.msn.com%2Fmusic%2Fblogs%2Fexpert-witness-blogpost.aspx%3Fpost%3D44206efe-b141-49c4-a71e-ccff9f589c03&amp;rft.pub=MSN+Music.+Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Drumming-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Drumming_10-0">^</a></b></span> <span class="reference-text">Drumming, Neil. <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,547664,00.html">Review: <i>The Black Album</i></a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i>. Retrieved on 2009-10-02.</span></li>
+<li id="cite_note-Simpson-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Simpson_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Simpson_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theguardian.com/music/2003/nov/21/popandrock.shopping6">The Guardian review</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation journal"><i><a href="/wiki/Mojo_(magazine)" title="Mojo (magazine)">Mojo</a></i> (London): 104. January 2004.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Black+Album+%28Jay-Z+album%29&amp;rft.date=January+2004&amp;rft.genre=article&amp;rft.jtitle=Mojo&amp;rft.pages=104&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NME-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-NME_13-0">^</a></b></span> <span class="reference-text">Columnist. "<a rel="nofollow" class="external text" href="http://www.nme.com/reviews/name/7268">Review: <i>The Black Album</i></a>". <i><a href="/wiki/NME" title="NME">NME</a></i>: November 22, 2003. (Transcription of original review at <a href="/wiki/Talk:The_Black_Album_(Jay-Z_album)#NME_review" title="Talk:The Black Album (Jay-Z album)">talk page</a>)</span></li>
+<li id="cite_note-Pitchfork-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pitchfork_14-0">^</a></b></span> <span class="reference-text">Staff. <a rel="nofollow" class="external text" href="http://pitchfork.com/reviews/albums/4219-the-black-album/">Review: <i>The Black Album</i></a>. <a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a>. Retrieved on 2009-10-02.</span></li>
+<li id="cite_note-Jones-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Jones_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Jones_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Jones, Steve. <a rel="nofollow" class="external text" href="http://www.usatoday.com/life/music/reviews/rapp_rb/2003-11-16-jay-z-review_x.htm">Review: <i>The Black Album</i></a>. <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>. Retrieved on 2009-10-02.</span></li>
+<li id="cite_note-Editors-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Editors_16-0">^</a></b></span> <span class="reference-text">Editors, The. "<a rel="nofollow" class="external text" href="http://books.google.com/books?id=vSYEAAAAMBAJ&amp;pg=PA120&amp;dq=">Review: <i>The Black Album</i></a>". <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i>: 120. January 2004.</span></li>
+<li id="cite_note-Metacritic-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Metacritic_17-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/artists/jayz/blackalbum/"><i>The Black Album</i> (2003): Reviews</a>. <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>. Retrieved on 2009-10-02.</span></li>
+<li id="cite_note-Hoard-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hoard_18-0">^</a></b></span> <span class="reference-text">Hoard, Christian. "<a rel="nofollow" class="external text" href="http://books.google.com/books?id=t9eocwUfoSoC&amp;pg=PA424&amp;lpg=">Review: <i>The Black Album</i></a>". <i>Rolling Stone</i>: 424–425. November 2, 2004.</span></li>
+<li id="cite_note-Christgau1-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Christgau1_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Christgau1_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Christgau, Robert</a> (January 13, 2004). <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/cg/cgv104-04.php">"Consumer Guide"</a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> (New York: <a href="/wiki/Village_Voice_Media" title="Village Voice Media">Village Voice Media</a>)<span class="reference-accessdate">. Retrieved 2012-08-26</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Black+Album+%28Jay-Z+album%29&amp;rft.atitle=Consumer+Guide&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.date=January+13%2C+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fxg%2Fcg%2Fcgv104-04.php&amp;rft.jtitle=The+Village+Voice&amp;rft.place=New+York&amp;rft.pub=Village+Voice+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation web">Christgau, Robert (2000). <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/bk-cg90/grades-90s.php">"Key to Icons"</a>. Robert Christgau<span class="reference-accessdate">. Retrieved 2012-08-26</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Black+Album+%28Jay-Z+album%29&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.btitle=Key+to+Icons&amp;rft.date=2000&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fxg%2Fbk-cg90%2Fgrades-90s.php&amp;rft.pub=Robert+Christgau&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web">Pitchfork staff (September 30, 2009). <a rel="nofollow" class="external text" href="http://pitchfork.com/features/staff-lists/7708-the-top-200-albums-of-the-2000s-100-51/2/">"The Top 200 Albums of the 2000s: 100–51"</a>. <i><a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a></i><span class="reference-accessdate">. Retrieved October 1, 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Black+Album+%28Jay-Z+album%29&amp;rft.atitle=The+Top+200+Albums+of+the+2000s%3A+100%E2%80%9351&amp;rft.aulast=Pitchfork+staff&amp;rft.au=Pitchfork+staff&amp;rft.date=September+30%2C+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Ffeatures%2Fstaff-lists%2F7708-the-top-200-albums-of-the-2000s-100-51%2F2%2F&amp;rft.jtitle=Pitchfork+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web">Slant staff (February 1, 2010). <a rel="nofollow" class="external text" href="http://www.slantmagazine.com/music/feature/best-of-the-aughts-albums/215/page_10">"The Top 100 Albums of the 2000s: 10–1"</a>. <i><a href="/wiki/Slant_Magazine" title="Slant Magazine">Slant Magazine</a></i><span class="reference-accessdate">. Retrieved March 21, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Black+Album+%28Jay-Z+album%29&amp;rft.atitle=The+Top+100+Albums+of+the+2000s%3A+10%E2%80%931&amp;rft.aulast=Slant+staff&amp;rft.au=Slant+staff&amp;rft.date=February+1%2C+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.slantmagazine.com%2Fmusic%2Ffeature%2Fbest-of-the-aughts-albums%2F215%2Fpage_10&amp;rft.jtitle=Slant+Magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/#/charts-decade-end/billboard-200-albums?year=2009&amp;begin=121&amp;order=position">Decade-end Charts</a>. <i>Billboard</i>. Retrieved on 2010-05-29.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/2006-12-09/rap-albums">Rap Albums&#160;: Dec 09, 2006 | Billboard Chart Archive</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/Jay-Z-The-Black-Album/master/47051">The Black Album</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="http://nymag.com/nymetro/arts/music/pop/reviews/n_9511/">In Brief: Jay-Z</a> at <i><a href="/wiki/New_York_(magazine)" title="New York (magazine)">New York</a></i></li>
+<li><a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9F0CE5DB173AF934A15752C1A9659C8B63">Jay-Z Raps On the Fly Like a Man Set to Die</a> at <i><a href="/wiki/The_New_York_Times" title="The New York Times">New York Times</a></i></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Jay-Z" title="Template:Jay-Z"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Jay-Z" title="Template talk:Jay-Z"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Jay-Z&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/Jay-Z_discography" title="Jay-Z discography">Discography</a></li>
+<li><a href="/wiki/List_of_songs_recorded_by_Jay-Z" title="List of songs recorded by Jay-Z">Songs</a></li>
+<li><a href="/wiki/Jay-Z#Filmography" title="Jay-Z">Films</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Jay-Z" title="List of awards and nominations received by Jay-Z">Awards and nominations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Reasonable_Doubt_(album)" title="Reasonable Doubt (album)">Reasonable Doubt</a></i></li>
+<li><i><a href="/wiki/In_My_Lifetime,_Vol._1" title="In My Lifetime, Vol. 1">In My Lifetime, Vol. 1</a></i></li>
+<li><i><a href="/wiki/Vol._2..._Hard_Knock_Life" title="Vol. 2... Hard Knock Life">Vol. 2... Hard Knock Life</a></i></li>
+<li><i><a href="/wiki/Vol._3..._Life_and_Times_of_S._Carter" title="Vol. 3... Life and Times of S. Carter">Vol. 3... Life and Times of S. Carter</a></i></li>
+<li><i><a href="/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia">The Dynasty: Roc La Familia</a></i></li>
+<li><i><a href="/wiki/The_Blueprint" title="The Blueprint">The Blueprint</a></i></li>
+<li><i><a href="/wiki/The_Blueprint_2:_The_Gift_%26_The_Curse" title="The Blueprint 2: The Gift &amp; The Curse">The Blueprint 2: The Gift &amp; The Curse</a></i></li>
+<li><i><strong class="selflink">The Black Album</strong></i></li>
+<li><i><a href="/wiki/Kingdom_Come_(Jay-Z_album)" title="Kingdom Come (Jay-Z album)">Kingdom Come</a></i></li>
+<li><i><a href="/wiki/American_Gangster_(album)" title="American Gangster (album)">American Gangster</a></i></li>
+<li><i><a href="/wiki/The_Blueprint_3" title="The Blueprint 3">The Blueprint 3</a></i></li>
+<li><i><a href="/wiki/Magna_Carta_Holy_Grail" title="Magna Carta Holy Grail">Magna Carta Holy Grail</a></i></li>
+</ul>
+</div>
+<table cellspacing="0" class="nowraplinks vcard navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE; text-align:center;;">Collaborations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Jay-Z:_Unplugged" title="Jay-Z: Unplugged" class="mw-redirect">Jay-Z: Unplugged</a></i> <small style="font-size:85%;">(with <a href="/wiki/The_Roots" title="The Roots">The Roots</a>)</small></li>
+<li><i><a href="/wiki/The_Best_of_Both_Worlds_(Jay-Z_and_R._Kelly_album)" title="The Best of Both Worlds (Jay-Z and R. Kelly album)">The Best of Both Worlds</a></i> <small style="font-size:85%;">(with <a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a>)</small></li>
+<li><i><a href="/wiki/Unfinished_Business_(Jay-Z_and_R._Kelly_album)" title="Unfinished Business (Jay-Z and R. Kelly album)">Unfinished Business</a></i> <small style="font-size:85%;">(with R. Kelly)</small></li>
+<li><i><a href="/wiki/Collision_Course_(album)" title="Collision Course (album)">Collision Course</a></i> <small style="font-size:85%;">(with <a href="/wiki/Linkin_Park" title="Linkin Park">Linkin Park</a>)</small></li>
+<li><i><a href="/wiki/Watch_the_Throne" title="Watch the Throne">Watch the Throne</a></i> <small style="font-size:85%;">(with <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilation albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Chapter_One:_Greatest_Hits" title="Chapter One: Greatest Hits">Chapter One: Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Blueprint_2.1" title="Blueprint 2.1">Blueprint 2.1</a></i></li>
+<li><i><a href="/wiki/Bring_It_On:_The_Best_of_Jay-Z" title="Bring It On: The Best of Jay-Z">Bring It On: The Best of Jay-Z</a></i></li>
+<li><i><a href="/wiki/Greatest_Hits_(Jay-Z_album)" title="Greatest Hits (Jay-Z album)">Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Jay-Z:_The_Hits_Collection,_Volume_One" title="Jay-Z: The Hits Collection, Volume One">Jay-Z: The Hits Collection, Volume One</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Concert tours</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Unfinished_Business_(R._Kelly_%26_Jay-Z_album)#Best_of_Both_Worlds_tour" title="Unfinished Business (R. Kelly &amp; Jay-Z album)" class="mw-redirect">Best of Both Worlds Tour</a></li>
+<li><a href="/wiki/American_Gangster_(album)#Tour" title="American Gangster (album)">American Gangster Live</a></li>
+<li><a href="/wiki/Heart_of_the_City_Tour" title="Heart of the City Tour">Heart of the City Tour</a></li>
+<li><a href="/wiki/Jay-Z_%26_Ciara_Live" title="Jay-Z &amp; Ciara Live">Jay-Z &amp; Ciara Live</a></li>
+<li><a href="/wiki/Jay-Z_Fall_Tour" title="Jay-Z Fall Tour">Jay-Z Fall Tour</a></li>
+<li><a href="/wiki/The_Blueprint_3_Tour" title="The Blueprint 3 Tour" class="mw-redirect">The Blueprint 3 Tour</a></li>
+<li><a href="/wiki/The_Home_%26_Home_Tour" title="The Home &amp; Home Tour">The Home &amp; Home Tour</a></li>
+<li><a href="/wiki/U2_360_Tour" title="U2 360 Tour" class="mw-redirect">U2 360 Tour</a> <small>(Supporting act)</small></li>
+<li><a href="/wiki/Watch_the_Throne_Tour" title="Watch the Throne Tour">Watch the Throne Tour</a></li>
+<li><a href="/wiki/Legends_of_the_Summer_Stadium_Tour" title="Legends of the Summer Stadium Tour" class="mw-redirect">Legends of the Summer Stadium Tour</a></li>
+<li><a href="/wiki/Magna_Carter_World_Tour" title="Magna Carter World Tour">Magna Carter World Tour</a></li>
+<li><a href="/wiki/On_the_Run_Tour_(Beyonc%C3%A9_and_Jay-Z)" title="On the Run Tour (Beyoncé and Jay-Z)">On the Run Tour</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella Records</a></li>
+<li><a href="/wiki/Roc_Nation" title="Roc Nation">Roc Nation</a></li>
+<li><a href="/wiki/StarRoc" title="StarRoc">StarRoc</a></li>
+<li><a href="/wiki/Takeover_Roc_Nation" title="Takeover Roc Nation">Takeover Roc Nation</a></li>
+<li><a href="/wiki/40/40_Club" title="40/40 Club">40/40 Club</a></li>
+<li><a href="/wiki/Jay-Z%E2%80%93Nas_feud" title="Jay-Z–Nas feud">Jay-Z–Nas feud</a></li>
+<li><a href="/wiki/Beyonc%C3%A9_Knowles" title="Beyoncé Knowles" class="mw-redirect">Beyoncé</a></li>
+<li><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></li>
+<li><a href="/wiki/Rihanna" title="Rihanna">Rihanna</a></li>
+<li><a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam Recordings</a></li>
+<li><i><a href="/wiki/Jaydiohead" title="Jaydiohead">Jaydiohead</a></i></li>
+<li><i><a href="/wiki/Fade_to_Black_(2004_film)" title="Fade to Black (2004 film)">Fade to Black</a></i></li>
+<li><a href="/wiki/Live_Nation" title="Live Nation" class="mw-redirect">Live Nation</a></li>
+<li><a href="/wiki/NBA_2K13" title="NBA 2K13">NBA 2K13</a></li>
+<li><a href="/wiki/Brooklyn_Nets" title="Brooklyn Nets">Brooklyn Nets</a></li>
+<li><a href="/wiki/Budweiser_Made_in_America_Festival" title="Budweiser Made in America Festival">Made in America (festival)</a></li>
+<li><a href="/wiki/Made_in_America_(2013_film)" title="Made in America (2013 film)"><i>Made in America</i> (film)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Jay-Z" title="Book:Jay-Z">Book:Jay-Z</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Jay-Z" title="Category:Jay-Z">Category:Jay-Z</a></b></li>
+<li><b><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Hip_hop" title="Portal:Hip hop">Portal:Hip hop</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1034
+CPU time usage: 2.164 seconds
+Real time usage: 2.310 seconds
+Preprocessor visited node count: 6577/1000000
+Preprocessor generated node count: 37535/1500000
+Post‐expand include size: 85011/2048000 bytes
+Template argument size: 13877/2048000 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Lua time usage: 0.135/10.000 seconds
+Lua memory usage: 2.72 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:417917-0!*!0!!en!4!* and timestamp 20140530140212 and revision id 605228514
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;oldid=605228514">http://en.wikipedia.org/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;oldid=605228514</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2003_albums" title="Category:2003 albums">2003 albums</a></li><li><a href="/wiki/Category:Albums_produced_by_9th_Wonder" title="Category:Albums produced by 9th Wonder">Albums produced by 9th Wonder</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Quik" title="Category:Albums produced by DJ Quik">Albums produced by DJ Quik</a></li><li><a href="/wiki/Category:Albums_produced_by_Eminem" title="Category:Albums produced by Eminem">Albums produced by Eminem</a></li><li><a href="/wiki/Category:Albums_produced_by_Just_Blaze" title="Category:Albums produced by Just Blaze">Albums produced by Just Blaze</a></li><li><a href="/wiki/Category:Albums_produced_by_Kanye_West" title="Category:Albums produced by Kanye West">Albums produced by Kanye West</a></li><li><a href="/wiki/Category:Albums_produced_by_The_Neptunes" title="Category:Albums produced by The Neptunes">Albums produced by The Neptunes</a></li><li><a href="/wiki/Category:Albums_produced_by_Rick_Rubin" title="Category:Albums produced by Rick Rubin">Albums produced by Rick Rubin</a></li><li><a href="/wiki/Category:Albums_produced_by_Timbaland" title="Category:Albums produced by Timbaland">Albums produced by Timbaland</a></li><li><a href="/wiki/Category:Def_Jam_Recordings_albums" title="Category:Def Jam Recordings albums">Def Jam Recordings albums</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li><li><a href="/wiki/Category:Jay-Z_albums" title="Category:Jay-Z albums">Jay-Z albums</a></li><li><a href="/wiki/Category:Roc-A-Fella_Records_albums" title="Category:Roc-A-Fella Records albums">Roc-A-Fella Records albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_February_2012" title="Category:Use mdy dates from February 2012">Use mdy dates from February 2012</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Black+Album+%28Jay-Z+album%29&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Black+Album+%28Jay-Z+album%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/The_Black_Album_(Jay-Z_album)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:The_Black_Album_(Jay-Z_album)"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/The_Black_Album_(Jay-Z_album)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Black_Album_(Jay-Z_album)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Black_Album_(Jay-Z_album)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;oldid=605228514" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2563740" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=The_Black_Album_%28Jay-Z_album%29&amp;id=605228514" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Black+Album+%28Jay-Z+album%29">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=The+Black+Album+%28Jay-Z+album%29&amp;oldid=605228514&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=The_Black_Album_(Jay-Z_album)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/The_Black_Album_(Jay-Z-Album)" title="The Black Album (Jay-Z-Album) – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/The_black_album" title="The black album – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/The_Black_Album_(album_de_Jay-Z)" title="The Black Album (album de Jay-Z) – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/The_Black_Album" title="The Black Album – Galician" lang="gl" hreflang="gl">Galego</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/The_Black_Album_(Jay-Z)" title="The Black Album (Jay-Z) – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/The_Black_Album_(Jay-Z)" title="The Black Album (Jay-Z) – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/The_Black_Album" title="The Black Album – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/The_Black_Album" title="The Black Album – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/The_Black_Album_(Jay-Z_alb%C3%BCm%C3%BC)" title="The Black Album (Jay-Z albümü) – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q2563740#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 April 2014 at 00:46.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/The_Black_Album_(Jay-Z_album)" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":205,"wgHostname":"mw1219"});
+}</script>
+	</body>
+</html>
+	

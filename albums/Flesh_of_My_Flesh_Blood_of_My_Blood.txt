@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Flesh of My Flesh, Blood of My Blood - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Flesh_of_My_Flesh,_Blood_of_My_Blood" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Flesh_of_My_Flesh,_Blood_of_My_Blood" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Flesh_of_My_Flesh,_Blood_of_My_Blood","wgTitle":"Flesh of My Flesh, Blood of My Blood","wgCurRevisionId":609094130,"wgRevisionId":609094130,"wgArticleId":4844087,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from December 2012","Articles with hAudio microformats","1998 albums","DMX (rapper) albums","Albums produced by Dame Grease","Albums produced by Irv Gotti","Albums produced by Swizz Beatz","Horrorcore albums","Ruff Ryders Entertainment albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Flesh_of_My_Flesh,_Blood_of_My_Blood","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1001997"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Flesh_of_My_Flesh_Blood_of_My_Blood skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Flesh of My Flesh, Blood of My Blood</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Flesh of My Flesh, Blood of My Blood</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Flesh_Of_My_Flesh.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flesh_Of_My_Flesh.jpg/220px-Flesh_Of_My_Flesh.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/0/03/Flesh_Of_My_Flesh.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/0/03/Flesh_Of_My_Flesh.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/DMX_(rapper)" title="DMX (rapper)">DMX</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">December 22, 1998</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1998</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hardcore_hip_hop" title="Hardcore hip hop">Hardcore hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>73:02</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Ruff_Ryders_Entertainment" title="Ruff Ryders Entertainment">Ruff Ryders</a>, <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a>, PK, DJ Shok, Dame Grease, <a href="/wiki/Irv_Gotti" title="Irv Gotti">Irv Gotti</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/DMX_(rapper)" title="DMX (rapper)">DMX</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/It%27s_Dark_and_Hell_Is_Hot" title="It's Dark and Hell Is Hot">It's Dark and Hell Is Hot</a></i><br />
+(1998)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Flesh of My Flesh, Blood of My Blood</b></i><br />
+(1998)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/...And_Then_There_Was_X" title="...And Then There Was X">...And Then There Was X</a></i><br />
+(1999)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Flesh of My Flesh, Blood of My Blood</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Slippin%27" title="Slippin'">Slippin'</a>"</span><br />
+Released: November 27, 1998</span></li>
+<li><span class="item"><span class="fn">"No Love 4 Me"</span><br />
+Released: February 1999</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">The Daily Vault</td>
+<td style="vertical-align:middle">B<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">B+<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="(dud)"><img alt="(dud)" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rating-Christgau-dud.svg/17px-Rating-Christgau-dud.svg.png" width="17" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rating-Christgau-dud.svg/26px-Rating-Christgau-dud.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rating-Christgau-dud.svg/34px-Rating-Christgau-dud.svg.png 2x" data-file-width="265" data-file-height="207" /></span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-rs_5-0" class="reference"><a href="#cite_note-rs-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i></td>
+<td style="vertical-align:middle">(favorable)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/4 stars"><img alt="3/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>Flesh of My Flesh, Blood of My Blood</b></i> is the second album released in December 22, 1998 by rapper <a href="/wiki/DMX_(rapper)" title="DMX (rapper)">DMX</a>, six months after his debut album <a href="/wiki/It%27s_Dark_and_Hell_is_Hot" title="It's Dark and Hell is Hot" class="mw-redirect">It's Dark and Hell is Hot</a>.<sup id="cite_ref-rs_5-1" class="reference"><a href="#cite_note-rs-5"><span>[</span>5<span>]</span></a></sup> It entered the charts at number one (and stayed there for 3 consecutive weeks) with 670,000 units shipped in the first week.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> The album eventually went <a href="/wiki/Music_recording_sales_certification" title="Music recording sales certification">3x Platinum</a> in the US.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> He is the second rapper to have two albums released in the same calendar year to debut at number one on <a href="/wiki/Billboard_200" title="Billboard 200">Billboard's Top 200</a>, the first being <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a> with his albums, <i><a href="/wiki/All_Eyez_on_Me" title="All Eyez on Me">All Eyez on Me</a></i> (February 1996) and <i><a href="/wiki/The_Don_Killuminati:_The_7_Day_Theory" title="The Don Killuminati: The 7 Day Theory">The Don Killuminati: The 7 Day Theory</a></i> (November 1996).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Track_listing"><span class="tocnumber">1</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Charts"><span class="tocnumber">2</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;action=edit&amp;section=1" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th align="center">#</th>
+<th align="center">Title</th>
+<th align="center">Producer(s)</th>
+<th align="center">Featured Guest(s)</th>
+<th align="center">Time</th>
+<th align="center">Sample(s)</th>
+</tr>
+<tr>
+<td>1</td>
+<td>My Niggas</td>
+<td><a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a></td>
+<td></td>
+<td>1:27</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Bring Your Whole Crew</td>
+<td>P. Killer Trackz</td>
+<td>P. Killer Trackz</td>
+<td>3:40</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Pac Man</td>
+<td></td>
+<td></td>
+<td>0:56</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Ain't No Way</td>
+<td>Swizz Beatz</td>
+<td></td>
+<td>4:49</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>We Don't Give a Fuck</td>
+<td><a href="/wiki/Irv_Gotti" title="Irv Gotti">Irv Gotti</a>, Rebel</td>
+<td><a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a>, <a href="/wiki/Styles_P" title="Styles P">Styles P</a></td>
+<td>4:07</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Keep Your Shit the Hardest</td>
+<td>Swizz Beatz</td>
+<td><a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a></td>
+<td>4:48</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Coming From</td>
+<td>P. Killer Trackz</td>
+<td><a href="/wiki/Mary_J._Blige" title="Mary J. Blige">Mary J. Blige</a></td>
+<td>5:13</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>It's All Good</td>
+<td>Swizz Beatz</td>
+<td></td>
+<td>4:17</td>
+<td><br />
+• Contains a sample of "Heartbeat" (Taana Gardner)</td>
+</tr>
+<tr>
+<td>9</td>
+<td>The Omen (Damien II)</td>
+<td>Swizz Beatz</td>
+<td><a href="/wiki/Marilyn_Manson" title="Marilyn Manson">Marilyn Manson</a></td>
+<td>4:56</td>
+<td><br />
+• Contains an interpolation of "Damien" (Earl Simmons, Damon Blackman), as performed by <a href="/wiki/DMX_(rapper)" title="DMX (rapper)">DMX</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="/wiki/Slippin%27" title="Slippin'">Slippin'</a></td>
+<td>DJ Shok</td>
+<td></td>
+<td>5:05</td>
+<td><br />
+• Contains a sample of "Moonstreams" (Grover Washington, Jr.), as performed by <a href="/wiki/Grover_Washington,_Jr." title="Grover Washington, Jr.">Grover Washington, Jr.</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td>No Love 4 Me</td>
+<td>Swizz Beatz</td>
+<td><a href="/wiki/Drag-On" title="Drag-On">Drag-On</a>, Swizz Beatz</td>
+<td>4:00</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Dogs for Life</td>
+<td><a href="/wiki/Dame_Grease" title="Dame Grease">Dame Grease</a></td>
+<td></td>
+<td>5:31</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Blackout</td>
+<td>Swizz Beatz</td>
+<td><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, <a href="/wiki/The_L.O.X." title="The L.O.X." class="mw-redirect">The L.O.X.</a></td>
+<td>5:00</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Flesh of My Flesh, Blood of My Blood</td>
+<td>Swizz Beatz</td>
+<td></td>
+<td>4:32</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Heat</td>
+<td>Swizz Beatz</td>
+<td></td>
+<td>4:07</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>Prayer II/Ready to Meet Him</td>
+<td>Swizz Beatz</td>
+<td></td>
+<td>7:24</td>
+<td></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;action=edit&amp;section=2" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th align="left" width="220">Chart (1998)</th>
+<th align="left">Peak<br />
+position</th>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left">U.S. <i><a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a></i></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left">U.S. <i>Billboard</i> <a href="/wiki/Hot_R%26B/Hip-hop_albums" title="Hot R&amp;B/Hip-hop albums" class="mw-redirect">Hot R&amp;B/Hip-hop albums</a></td>
+<td align="center">1</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Number-one_albums_of_1999_(U.S.)" title="Number-one albums of 1999 (U.S.)" class="mw-redirect">Number-one albums of 1999 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1999_(U.S.)" title="List of number-one R&amp;B albums of 1999 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1999 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r383146">Allmusic review</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dailyvault.com/toc.php5?review=1150">The Daily Vault review</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,274074,00.html">Entertainment Weekly review</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=dmx">Robert Christgau Consumer Guide</a></span></li>
+<li id="cite_note-rs-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-rs_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rs_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20071024184710/http://www.rollingstone.com/reviews/album/184367/review/6211550?utm_source=Rhapsody&amp;utm_medium=CDreview">Rolling Stone review</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/productinfo.asp?pid=1085019&amp;style=music">Album reviews at CD Universe</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.google.com/archivesearch?q=dmx+%22blood%22+source%3A%22USA%22+source%3A%22Today%22&amp;btnG=Search+Archives&amp;num=10&amp;hl=en&amp;scoring=a">USA Today review</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since December 2012">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1538163/20060809/dmx.jhtml">22 Ends DMX's Billboard Winning Streak</a><i>MTV</i>. Accessed February 20, 2009.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=&amp;artist=DMX&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2010&amp;sort=Artist&amp;perPage=25">[1]</a></span></li>
+</ol>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Double_Live_(Garth_Brooks_album)" title="Double Live (Garth Brooks album)">Double Live</a></i> by <a href="/wiki/Garth_Brooks" title="Garth Brooks">Garth Brooks</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_1999_(USA)" title="Number-one albums of 1999 (USA)" class="mw-redirect">number-one album</a></b><br />
+January 9–29, 1999</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/...Baby_One_More_Time_(album)" title="...Baby One More Time (album)">...Baby One More Time</a></i> by <a href="/wiki/Britney_Spears" title="Britney Spears">Britney Spears</a></span></td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:DMX" title="Template:DMX"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:DMX" title="Template talk:DMX"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:DMX&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/DMX_(rapper)" title="DMX (rapper)">DMX</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/DMX_discography" title="DMX discography">Discography</a></li>
+<li><a href="/wiki/DMX_(rapper)#Filmography" title="DMX (rapper)">Filmography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/It%27s_Dark_and_Hell_Is_Hot" title="It's Dark and Hell Is Hot">It's Dark and Hell Is Hot</a></i></li>
+<li><i><strong class="selflink">Flesh of My Flesh, Blood of My Blood</strong></i></li>
+<li><i><a href="/wiki/...And_Then_There_Was_X" title="...And Then There Was X">...And Then There Was X</a></i></li>
+<li><i><a href="/wiki/The_Great_Depression_(DMX_album)" title="The Great Depression (DMX album)">The Great Depression</a></i></li>
+<li><i><a href="/wiki/Grand_Champ" title="Grand Champ">Grand Champ</a></i></li>
+<li><i><a href="/wiki/Year_of_the_Dog..._Again" title="Year of the Dog... Again">Year of the Dog... Again</a></i></li>
+<li><i><a href="/wiki/Undisputed_(DMX_album)" title="Undisputed (DMX album)">Undisputed</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Definition_of_X:_The_Pick_of_The_Litter" title="The Definition of X: The Pick of The Litter" class="mw-redirect">The Definition of X: The Pick of The Litter</a></i></li>
+<li><i><a href="/wiki/Playlist_Your_Way_(DMX_album)" title="Playlist Your Way (DMX album)">Playlist Your Way</a></i></li>
+<li><i><a href="/wiki/The_Best_of_DMX" title="The Best of DMX">The Best of DMX</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Soundtracks</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Belly_(soundtrack)" title="Belly (soundtrack)">Belly</a></i></li>
+<li><i><a href="/wiki/Romeo_Must_Die_(soundtrack)" title="Romeo Must Die (soundtrack)" class="mw-redirect">Romeo Must Die</a></i></li>
+<li><i><a href="/wiki/Exit_Wounds_(soundtrack)" title="Exit Wounds (soundtrack)">Exit Wounds</a></i></li>
+<li><i><a href="/wiki/Cradle_2_the_Grave_(soundtrack)" title="Cradle 2 the Grave (soundtrack)">Cradle 2 the Grave</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Get_at_Me_Dog" title="Get at Me Dog">Get at Me Dog</a>"</li>
+<li>"<a href="/wiki/Stop_Being_Greedy" title="Stop Being Greedy">Stop Being Greedy</a>"</li>
+<li>"<a href="/wiki/Ruff_Ryders%27_Anthem" title="Ruff Ryders' Anthem">Ruff Ryders' Anthem</a>"</li>
+<li>"<a href="/wiki/How%27s_It_Goin%27_Down" title="How's It Goin' Down">How's It Goin' Down</a>"</li>
+<li>"<a href="/wiki/Slippin%27" title="Slippin'">Slippin'</a>"</li>
+<li>"No Love 4 Me"</li>
+<li>"It's On"</li>
+<li>"<a href="/wiki/What%27s_My_Name%3F_(DMX_song)" title="What's My Name? (DMX song)">What's My Name?</a>"</li>
+<li>"<a href="/wiki/What_These_Bitches_Want" title="What These Bitches Want">What These Bitches Want</a>"</li>
+<li>"<a href="/wiki/Party_Up_(Up_in_Here)" title="Party Up (Up in Here)">Party Up (Up in Here)</a></li>
+<li>"Do You?"</li>
+<li>"<a href="/wiki/Ain%27t_No_Sunshine" title="Ain't No Sunshine">No Sunshine</a>"</li>
+<li>"<a href="/wiki/We_Right_Here" title="We Right Here">We Right Here</a>"</li>
+<li>"<a href="/wiki/Who_We_Be" title="Who We Be">Who We Be</a>"</li>
+<li>"<a href="/wiki/I_Miss_You_(DMX_song)" title="I Miss You (DMX song)">I Miss You</a>"</li>
+<li>"<a href="/wiki/X_Gon%27_Give_It_to_Ya" title="X Gon' Give It to Ya">X Gon' Give It to Ya</a>"</li>
+<li>"<a href="/wiki/Where_the_Hood_At%3F" title="Where the Hood At?">Where the Hood At?</a>"</li>
+<li>"<a href="/wiki/Get_It_on_the_Floor" title="Get It on the Floor">Get It on the Floor</a>"</li>
+<li>"<a href="/wiki/We_in_Here" title="We in Here">We in Here</a>"</li>
+<li>"<a href="/wiki/Lord_Give_Me_a_Sign" title="Lord Give Me a Sign">Lord Give Me a Sign</a>"</li>
+<li>"<a href="/wiki/Year_of_the_Dog..._Again" title="Year of the Dog... Again">Come Thru' (Move)</a>"</li>
+<li>"<a href="/wiki/I_Don%27t_Dance_(DMX_song)" title="I Don't Dance (DMX song)" class="mw-redirect">I Don't Dance</a>"</li>
+<li>"<a href="/wiki/Head_Up" title="Head Up" class="mw-redirect">Head Up</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/4,_3,_2,_1_(LL_Cool_J_song)" title="4, 3, 2, 1 (LL Cool J song)">4, 3, 2, 1</a>"</li>
+<li>"<a href="/wiki/Money,_Power_%26_Respect_(song)" title="Money, Power &amp; Respect (song)">Money, Power &amp; Respect</a>"</li>
+<li>"<a href="/wiki/Shut_%27em_Down_(Onyx_song)" title="Shut 'em Down (Onyx song)">Shut 'Em Down</a>"</li>
+<li>"<a href="/wiki/Money,_Cash,_Hoes" title="Money, Cash, Hoes">Money, Cash, Hoes</a>"</li>
+<li>"<a href="/wiki/Come_Back_in_One_Piece" title="Come Back in One Piece">Come Back in One Piece</a>"</li>
+<li>"<a href="/wiki/Tear_It_Up_(Yung_Wun_song)" title="Tear It Up (Yung Wun song)">Tear It Up</a>"</li>
+<li>"<a href="/wiki/Touch_It#Remix" title="Touch It">Touch It (Remix)</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other songs</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/24_Hrs._to_Live" title="24 Hrs. to Live">24 Hrs. to Live</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Fontana_Distribution" title="Fontana Distribution">Fontana Distribution</a></li>
+<li><a href="/wiki/Bloodline_Records" title="Bloodline Records">Bloodline Records</a></li>
+<li><a href="/wiki/Ruff_Ryders_Entertainment" title="Ruff Ryders Entertainment">Ruff Ryders Entertainment</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1065
+CPU time usage: 0.656 seconds
+Real time usage: 0.742 seconds
+Preprocessor visited node count: 1893/1000000
+Preprocessor generated node count: 11382/1500000
+Post‐expand include size: 40209/2048000 bytes
+Template argument size: 6262/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.051/10.000 seconds
+Lua memory usage: 1.44 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4844087-0!*!0!!en!4!* and timestamp 20140530212030 and revision id 609094130
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;oldid=609094130">http://en.wikipedia.org/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;oldid=609094130</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1998_albums" title="Category:1998 albums">1998 albums</a></li><li><a href="/wiki/Category:DMX_(rapper)_albums" title="Category:DMX (rapper) albums">DMX (rapper) albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Dame_Grease" title="Category:Albums produced by Dame Grease">Albums produced by Dame Grease</a></li><li><a href="/wiki/Category:Albums_produced_by_Irv_Gotti" title="Category:Albums produced by Irv Gotti">Albums produced by Irv Gotti</a></li><li><a href="/wiki/Category:Albums_produced_by_Swizz_Beatz" title="Category:Albums produced by Swizz Beatz">Albums produced by Swizz Beatz</a></li><li><a href="/wiki/Category:Horrorcore_albums" title="Category:Horrorcore albums">Horrorcore albums</a></li><li><a href="/wiki/Category:Ruff_Ryders_Entertainment_albums" title="Category:Ruff Ryders Entertainment albums">Ruff Ryders Entertainment albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_December_2012" title="Category:Articles with dead external links from December 2012">Articles with dead external links from December 2012</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Flesh+of+My+Flesh%2C+Blood+of+My+Blood&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Flesh+of+My+Flesh%2C+Blood+of+My+Blood" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Flesh_of_My_Flesh,_Blood_of_My_Blood"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Flesh_of_My_Flesh,_Blood_of_My_Blood"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Flesh_of_My_Flesh,_Blood_of_My_Blood" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Flesh_of_My_Flesh,_Blood_of_My_Blood" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Flesh_of_My_Flesh,_Blood_of_My_Blood" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;oldid=609094130" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1001997" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Flesh_of_My_Flesh%2C_Blood_of_My_Blood&amp;id=609094130" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Flesh+of+My+Flesh%2C+Blood+of+My+Blood">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Flesh+of+My+Flesh%2C+Blood+of+My+Blood&amp;oldid=609094130&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Flesh_of_My_Flesh,_Blood_of_My_Blood" title="Flesh of My Flesh, Blood of My Blood – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Flesh_of_My_Flesh,_Blood_of_My_Blood" title="Flesh of My Flesh, Blood of My Blood – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Flesh_of_My_Flesh,_Blood_of_My_Blood" title="Flesh of My Flesh, Blood of My Blood – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Flesh_of_My_Flesh,_Blood_of_My_Blood" title="Flesh of My Flesh, Blood of My Blood – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Flesh_of_My_Flesh,_Blood_of_My_Blood" title="Flesh of My Flesh, Blood of My Blood – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Flesh_of_My_Flesh,_Blood_of_My_Blood" title="Flesh of My Flesh, Blood of My Blood – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Flesh_of_My_Flesh,_Blood_of_My_Blood" title="Flesh of My Flesh, Blood of My Blood – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Flesh_of_My_Flesh,_Blood_of_My_Blood" title="Flesh of My Flesh, Blood of My Blood – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Flesh_of_My_Flesh,_Blood_of_My_Blood" title="Flesh of My Flesh, Blood of My Blood – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q1001997#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 May 2014 at 13:47.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Flesh_of_My_Flesh,_Blood_of_My_Blood" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":205,"wgHostname":"mw1079"});
+}</script>
+	</body>
+</html>
+	

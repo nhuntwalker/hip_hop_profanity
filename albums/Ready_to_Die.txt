@@ -1,0 +1,1291 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Ready to Die - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ready_to_Die" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ready_to_Die&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ready_to_Die&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Ready_to_Die" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cmw.PopUpMediaTransform%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ready_to_Die","wgTitle":"Ready to Die","wgCurRevisionId":610809527,"wgRevisionId":610809527,"wgArticleId":217181,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from December 2012","Good articles","Articles with hAudio microformats","The Notorious B.I.G. albums","1994 debut albums","Bad Boy Records albums","Albums produced by DJ Premier","Albums produced by Easy Mo Bee","Albums produced by Lord Finesse","Albums produced by Sean Combs","Albums produced by Trackmasters","English-language albums","East Coast hip hop albums","Hardcore hip hop albums","Gangsta rap albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ready_to_Die","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q529999"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ready_to_Die skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Ready to Die</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other uses, see <a href="/wiki/Ready_to_Die_(disambiguation)" title="Ready to Die (disambiguation)">Ready to Die (disambiguation)</a>.</div>
+<div class="hatnote">"Suicidal Thoughts" redirects here. For the medical term, see <a href="/wiki/Suicidal_ideation" title="Suicidal ideation">Suicidal ideation</a>.</div>
+<div style="display:none; right:10px;" class="metadata topicon nopopups" id="good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/15px-Symbol_support_vote.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/23px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/30px-Symbol_support_vote.svg.png 2x" data-file-width="180" data-file-height="185" /></a></div>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Ready to Die</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Ready_To_Die.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/97/Ready_To_Die.jpg/220px-Ready_To_Die.jpg" width="220" height="220" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/9/97/Ready_To_Die.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/9/97/Ready_To_Die.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">September 13, 1994</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1993–94; <a href="/wiki/The_Hit_Factory" title="The Hit Factory">The Hit Factory</a>, <a href="/wiki/D%26D_Studios" title="D&amp;D Studios">D&amp;D Studios</a>; <a href="/wiki/New_York_City" title="New York City">New York City</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li><a href="/wiki/East_coast_hip_hop" title="East coast hip hop" class="mw-redirect">East coast hip hop</a></li>
+<li><a href="/wiki/Hardcore_hip_hop" title="Hardcore hip hop">hardcore hip hop</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>68:58</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td>
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Bluez Brothers</li>
+<li><a href="/wiki/Sean_%22Puffy%22_Combs" title="Sean &quot;Puffy&quot; Combs" class="mw-redirect">Sean "Puffy" Combs</a> <small>(also <a href="/wiki/Executive_producer" title="Executive producer">exec.</a>)</small></li>
+<li><a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a></li>
+<li><a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Easy Mo Bee</a></li>
+<li><a href="/wiki/Lord_Finesse" title="Lord Finesse">Lord Finesse</a></li>
+<li><a href="/wiki/Trackmasters" title="Trackmasters">Poke</a></li>
+<li>Darnell Scott</li>
+<li><a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"></td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Ready to Die</b></i><br />
+(1994)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Life_After_Death" title="Life After Death">Life After Death</a></i><br />
+(1997)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Ready to Die</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Juicy_(The_Notorious_B.I.G._song)" title="Juicy (The Notorious B.I.G. song)">Juicy</a>"</span><br />
+Released: August 8, 1994</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Big_Poppa" title="Big Poppa">Big Poppa</a>"</span><br />
+Released: February 20, 1995</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/One_More_Chance_(The_Notorious_B.I.G._song)" title="One More Chance (The Notorious B.I.G. song)">One More Chance</a>"</span><br />
+Released: May 9, 1995</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Warning_(The_Notorious_B.I.G._song)" title="Warning (The Notorious B.I.G. song)" class="mw-redirect">Warning</a>"</span><br />
+Released: 1995</span></li>
+</ol>
+</td>
+</tr>
+<tr>
+<th colspan="3" style="text-align: center; background-color: lightsteelblue">Alternate cover</th>
+</tr>
+<tr>
+<td colspan="3" style="text-align: center"><a href="/wiki/File:ReadyToDieVinyl.jpg" class="image" title="Cover of vinyl release"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/45/ReadyToDieVinyl.jpg/220px-ReadyToDieVinyl.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/4/45/ReadyToDieVinyl.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/4/45/ReadyToDieVinyl.jpg 2x" data-file-width="245" data-file-height="245" /></a>
+<div>Cover of vinyl release</div>
+</td>
+</tr>
+</table>
+<p><i><b>Ready to Die</b></i> is the <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">debut album</a> of American rapper <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a>, released September 13, 1994 on <a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy Records</a>. The label's first release, it features production by Bad Boy founder <a href="/wiki/Sean_Combs" title="Sean Combs">Sean "Puffy" Combs</a>, <a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Easy Mo Bee</a>, <a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a>, <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>, and <a href="/wiki/Lord_Finesse" title="Lord Finesse">Lord Finesse</a>, among others. Recording for the album took place during 1993 to 1994 at <a href="/wiki/The_Hit_Factory" title="The Hit Factory">The Hit Factory</a> and <a href="/wiki/D%26D_Studios" title="D&amp;D Studios">D&amp;D Studios</a> in <a href="/wiki/New_York_City" title="New York City">New York City</a>. The partly autobiographical album tells the story of B.I.G.'s experiences as a young criminal. <i>Ready to Die</i> is his only studio album released during his lifetime; as he was murdered days prior to the release of his second album <i><a href="/wiki/Life_After_Death" title="Life After Death">Life After Death</a></i> (1997).</p>
+<p><i>Ready to Die</i> gained strong reviews on release and became a commercial success, reaching quadruple <a href="/wiki/RIAA_certification" title="RIAA certification">platinum</a> sales. It was significant for revitalizing the <a href="/wiki/East_Coast_hip_hop" title="East Coast hip hop">East Coast hip hop</a> scene, amid <a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast hip hop</a>'s commercial dominance.<sup id="cite_ref-AMG-Bio_1-0" class="reference"><a href="#cite_note-AMG-Bio-1"><span>[</span>1<span>]</span></a></sup> The album's second single, "<a href="/wiki/Big_Poppa" title="Big Poppa">Big Poppa</a>", was nominated for a <a href="/wiki/Grammy_Award_for_Best_Rap_Solo_Performance" title="Grammy Award for Best Rap Solo Performance">Grammy Award for Best Rap Solo Performance</a> at the <a href="/wiki/1996_Grammy_Awards" title="1996 Grammy Awards" class="mw-redirect">1996 Grammy Awards</a>. <i>Ready to Die</i> has been regarded by several music critics as one of the greatest hip-hop albums of all time. In 2003, it was ranked number 133 on <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> magazine's list of <a href="/wiki/The_500_Greatest_Albums_of_All_Time" title="The 500 Greatest Albums of All Time" class="mw-redirect">the 500 greatest albums of all time</a>, making it the third highest hip hop album on the list after <i><a href="/wiki/It_Takes_a_Nation_of_Millions_to_Hold_Us_Back" title="It Takes a Nation of Millions to Hold Us Back">It Takes a Nation of Millions to Hold Us Back</a></i> and <i><a href="/wiki/Raising_Hell_(album)" title="Raising Hell (album)">Raising Hell</a></i>. In 2006, <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i> included it on their list of the 100 greatest albums of all time.<sup id="cite_ref-TIME_2-0" class="reference"><a href="#cite_note-TIME-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background_and_recording"><span class="tocnumber">1</span> <span class="toctext">Background and recording</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Lawsuits_and_sample_removal"><span class="tocnumber">1.1</span> <span class="toctext">Lawsuits and sample removal</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Composition"><span class="tocnumber">2</span> <span class="toctext">Composition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Production"><span class="tocnumber">2.1</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Lyrical_themes"><span class="tocnumber">2.2</span> <span class="toctext">Lyrical themes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Singles"><span class="tocnumber">3</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Reception"><span class="tocnumber">4</span> <span class="toctext">Reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Retrospect"><span class="tocnumber">4.1</span> <span class="toctext">Retrospect</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Track_listing"><span class="tocnumber">5</span> <span class="toctext">Track listing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Samples"><span class="tocnumber">5.1</span> <span class="toctext">Samples</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Personnel"><span class="tocnumber">6</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Charts"><span class="tocnumber">7</span> <span class="toctext">Charts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Album"><span class="tocnumber">7.1</span> <span class="toctext">Album</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Singles_2"><span class="tocnumber">7.2</span> <span class="toctext">Singles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Accolades"><span class="tocnumber">8</span> <span class="toctext">Accolades</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background_and_recording">Background and recording</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=1" title="Edit section: Background and recording">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The album was recorded in <a href="/wiki/New_York_City" title="New York City">New York City</a> (mainly in <a href="/wiki/The_Hit_Factory" title="The Hit Factory">The Hit Factory</a> <a href="/wiki/Recording_studio" title="Recording studio">recording studio</a>) in two stages between 1993 and 1994. In 1994, Biggie was only 21–22 years old when he recorded the album. Biggie was signed to the <a href="/wiki/Uptown_Records" title="Uptown Records">Uptown Records</a> label by <a href="/wiki/A%26R" title="A&amp;R" class="mw-redirect">A&amp;R</a> <a href="/wiki/Sean_%22Puffy%22_Combs" title="Sean &quot;Puffy&quot; Combs" class="mw-redirect">Sean "Puffy" Combs</a> in 1993. The following year Biggie started recording his debut album in New York, after having made numerous guest appearances on label mates' singles the previous year. The first tracks recorded include the album's darker, less radio-friendly content (including "Ready to Die," "Gimme the Loot" and "Things Done Changed"). In these sessions, <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i> magazine describe an "inexperienced, higher-pitched" Biggie sounding "hungry and paranoid".<sup id="cite_ref-xxl_3-0" class="reference"><a href="#cite_note-xxl-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>When executive producer <a href="/wiki/Sean_%22Puffy%22_Combs" title="Sean &quot;Puffy&quot; Combs" class="mw-redirect">Sean "Puffy" Combs</a> was fired from Uptown, Biggie's career hung in limbo, as the album was only partially completed. After a brief period <a href="/wiki/Illicit_drug_trade" title="Illicit drug trade" class="mw-redirect">dealing drugs</a> in <a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a>, Biggie returned to the studio the following year on Combs' new <a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy Records</a> label possessing "a smoother, more confident vocal tone" and completed the album. In this stage, the more commercial-sounding tracks of the album were recorded, including the album's singles. Between the two stages, <i>XXL</i> writes that Biggie moved from writing his lyrics in notebooks to <a href="/wiki/Freestyling" title="Freestyling" class="mw-redirect">freestyling</a> them from memory.<sup id="cite_ref-xxl_3-1" class="reference"><a href="#cite_note-xxl-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>The album was released with a cover depicting an infant resembling the artist, though sporting an <a href="/wiki/Afro" title="Afro">afro</a>, which pertains to the album's concept of the artist's life from birth to his death. It has been listed as among the best album covers in hip hop.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Lawsuits_and_sample_removal">Lawsuits and sample removal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=2" title="Edit section: Lawsuits and sample removal">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On March 24, 2006, <a href="/wiki/Bridgeport_Music" title="Bridgeport Music">Bridgeport Music</a> and <a href="/wiki/Westbound_Records" title="Westbound Records">Westbound Records</a> won a federal lawsuit against <a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy Records</a> for copyright infringement, with a jury deciding that Combs and Bad Boy had illegally used samples for the production of the songs "Ready to Die", "Machine Gun Funk", and "Gimme the Loot".<sup id="cite_ref-HipHopDX_5-0" class="reference"><a href="#cite_note-HipHopDX-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-bryantimes_6-0" class="reference"><a href="#cite_note-bryantimes-6"><span>[</span>6<span>]</span></a></sup> The jury awarded $4.2 million in punitive and direct damages to the two plaintiffs, and federal judge <a href="/wiki/Todd_J._Campbell" title="Todd J. Campbell">Todd Campbell</a> enacted an immediate sales ban on the album and tracks in question.<sup id="cite_ref-bryantimes_6-1" class="reference"><a href="#cite_note-bryantimes-6"><span>[</span>6<span>]</span></a></sup> On appeal, the <a href="/wiki/United_States_Court_of_Appeals_for_the_Sixth_Circuit" title="United States Court of Appeals for the Sixth Circuit">Sixth Circuit</a> found the damages unconstitutionally high and in violation of <a href="/wiki/Due_process" title="Due process">due process</a> and remanded the case, at which point Campbell reduced them by $2.8 million; however, the verdict was upheld.<sup id="cite_ref-exclusiverights_7-0" class="reference"><a href="#cite_note-exclusiverights-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> All versions of the album released since the lawsuit are without the disputed samples.<sup id="cite_ref-iTunes_9-0" class="reference"><a href="#cite_note-iTunes-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>Although a <a href="/wiki/Fair_use" title="Fair use">fair use</a> issue, Combs and Bad Boy never raised the legal concept of the fair use doctrine in their defense.<sup id="cite_ref-exclusiverights_7-1" class="reference"><a href="#cite_note-exclusiverights-7"><span>[</span>7<span>]</span></a></sup> This decision was questioned by some legal experts: Anthony Falzone of the <a href="/wiki/Fair_Use_Project" title="Fair Use Project">Fair Use Project</a> at <a href="/wiki/Stanford_Law_School" title="Stanford Law School">Stanford Law School</a> criticized Combs and Bad Boy for not defending the legality of sampling and suggested that they might have refused to raise such a defense because they feared it could later imperil their control over their own music.<sup id="cite_ref-Falzone_10-0" class="reference"><a href="#cite_note-Falzone-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>On April 2, 2014, <a href="/wiki/Leroy_Hutson" title="Leroy Hutson">Lee Hutson</a> of <a href="/wiki/The_Impressions" title="The Impressions">The Impressions</a> filed a multimillion dollar copyright infringement suit against Combs, Bad Boy Records, and the estate of the late <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">Notorious B.I.G.</a> for copyright infringement, alleging that his song "<a href="/wiki/The_Man!" title="The Man!">Can't Say Enough About Mom</a>" was illegally sampled in the production of the song "The What".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> The estate countersued in turn, claiming the sample as used was short, adapted, and supplemented, and thus subject to fair use,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> a legal tactic not pursued previously.<sup id="cite_ref-Falzone_10-1" class="reference"><a href="#cite_note-Falzone-10"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Composition">Composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=3" title="Edit section: Composition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=4" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The production on the album was mainly handled by <a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Easy Mo Bee</a> and The Hitmen. Cheo H. Coker of <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> depicted the beats as "heavy bottomed and slick, but B.I.G.'s rhymes are the showstoppers. The tracks only enhance them, whether it's the live bass driving a menacing undercurrent or [the] use of bluesy guitar and wah-wah feedback" and that the production is used to "push the rapper to new heights."<sup id="cite_ref-RollingStone94_13-0" class="reference"><a href="#cite_note-RollingStone94-13"><span>[</span>13<span>]</span></a></sup> The production is mainly <a href="/wiki/Sampling_(music)" title="Sampling (music)">sample</a>-based with the samples varying from the <a href="/wiki/Percussion" title="Percussion" class="mw-redirect">percussion</a> of <a href="/wiki/Funk_music" title="Funk music" class="mw-redirect">funk</a> tracks to the vocals of hip hop songs. Steve Huey presented some criticism over the beats, stating that the "deliberate beats do get a little samey, but it hardly matters: this is Biggie's show".<sup id="cite_ref-AMG_14-0" class="reference"><a href="#cite_note-AMG-14"><span>[</span>14<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Lyrical_themes">Lyrical themes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=5" title="Edit section: Lyrical themes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Notorious B.I.G.'s lyrics on the album were generally praised by critics. Many critics applauded his story-telling ability such as Allmusic writer, Steve Huey, who stated "His raps are easy to understand, but his skills are hardly lacking — he has a loose, easy flow and a talent for piling multiple rhymes on top of one another in quick succession". He also went on to mention that his lyrics are "firmly rooted in reality, but play like [a] scene from a movie".<sup id="cite_ref-AMG_14-1" class="reference"><a href="#cite_note-AMG-14"><span>[</span>14<span>]</span></a></sup> <a href="/wiki/Tour%C3%A9" title="Touré">Touré</a>, writing for <i>The New York Times</i>, referred to The Notorious B.I.G., proclaiming that he stood out from other rappers because "his lyrics mix autobiographical details about crime and violence with emotional honesty, telling how he felt while making a living as a drug dealer".<sup id="cite_ref-NYTimes_15-0" class="reference"><a href="#cite_note-NYTimes-15"><span>[</span>15<span>]</span></a></sup> The album is also noted for its dark tone and sinister sense of depression.<sup id="cite_ref-AMG_14-2" class="reference"><a href="#cite_note-AMG-14"><span>[</span>14<span>]</span></a></sup> In the original <i>Rolling Stone</i> review, Cheo H Coker declared that he "maintains a consistent level of tension by juxtaposing emotional highs and lows".<sup id="cite_ref-RollingStone94_13-1" class="reference"><a href="#cite_note-RollingStone94-13"><span>[</span>13<span>]</span></a></sup> "Things Done Changed" was also one of the few hip hop songs in The Norton Anthology of African American Literature.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<p>The lyrics on <i>Ready to Die</i> tend to deal with violence, drug dealing, women, alcohol and <a href="/wiki/Marijuana" title="Marijuana" class="mw-redirect">marijuana</a> use, and other elements of Notorious B.I.G.'s environment. He rapped about these topics in "clear, sparse terms, allowing the lyrics to hit the first time you hear them".<sup id="cite_ref-RollingStone94_13-2" class="reference"><a href="#cite_note-RollingStone94-13"><span>[</span>13<span>]</span></a></sup> The album contains a loose concept starting out with an intro that details his birth, his early childhood, his adolescence and his life at the point of the album's release.<sup id="cite_ref-NYTimes_15-1" class="reference"><a href="#cite_note-NYTimes-15"><span>[</span>15<span>]</span></a></sup> Songs on the album range from homicide narratives ("<a href="/wiki/Warning_(Notorious_B.I.G._song)" title="Warning (Notorious B.I.G. song)" class="mw-redirect">Warning</a>") to braggadocios <a href="/wiki/Battle_rap" title="Battle rap">battle raps</a> ("The What," "Unbelievable"). The final song was "Suicidal Thoughts", a song where The Notorious B.I.G. contemplates and finally commits <a href="/wiki/Suicide" title="Suicide">suicide</a>.</p>
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=6" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image">
+<div class="center">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/75px-Gnome-mime-sound-openclipart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/100px-Gnome-mime-sound-openclipart.svg.png 2x" data-file-width="160" data-file-height="160" /></div>
+</div>
+</td>
+<td class="mbox-text plainlist" style="line-height:1.1em;">
+<div class="haudio">
+<div style="padding:2px 0;" class="fn"><a href="/wiki/File:Notorious_B.I.G._-_Juicy.ogg" title="File:Notorious B.I.G. - Juicy.ogg">"Juicy"</a></div>
+<div style="padding-right:4px;">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px;height:23px" poster="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="29.710022675737" data-startoffset="0" data-mwtitle="Notorious_B.I.G._-_Juicy.ogg" data-mwprovider="local"><source src="//upload.wikimedia.org/wikipedia/en/e/eb/Notorious_B.I.G._-_Juicy.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (66 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="65519"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/en/e/eb/Notorious_B.I.G._-_Juicy.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+<div style="padding:2px 0 0 0;" class="description">The album's <a href="/wiki/Lead_single" title="Lead single">lead single</a> is a <a href="/wiki/Rags_to_riches" title="Rags to riches">rags to riches</a> narrative, with music that <a href="/wiki/Sampling_(music)" title="Sampling (music)">samples</a> <a href="/wiki/Mtume" title="Mtume">Mtume</a>'s 1982 song "<a href="/wiki/Juicy_Fruit_(song)" title="Juicy Fruit (song)">Juicy Fruit</a>".<sup id="cite_ref-Huey_17-0" class="reference"><a href="#cite_note-Huey-17"><span>[</span>17<span>]</span></a></sup></div>
+</div>
+<hr /></td>
+</tr>
+<tr>
+<td colspan="2" class="mbox-text" style="line-height:1.1em;"><span style="font-size:smaller;"><i>Problems playing this file? See <a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">media help</a>.</i></span></td>
+</tr>
+</table>
+<p>Three singles were released from the album: "<a href="/wiki/Juicy_(The_Notorious_B.I.G._song)" title="Juicy (The Notorious B.I.G. song)">Juicy</a>", "<a href="/wiki/Big_Poppa" title="Big Poppa">Big Poppa</a>", "<a href="/wiki/One_More_Chance_(The_Notorious_B.I.G._song)" title="One More Chance (The Notorious B.I.G. song)">One More Chance</a>" and a promotional track: "<a href="/wiki/Warning_(The_Notorious_B.I.G._song)" title="Warning (The Notorious B.I.G. song)" class="mw-redirect">Warning</a>". According to <a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a> the more commercial sound of the singles compared to the rest of the album was a result of encouragement by Combs during the later recording sessions in which they were recorded.<sup id="cite_ref-xxl_3-2" class="reference"><a href="#cite_note-xxl-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>"Juicy" was released as the lead single on August 8, 1994. It peaked at number 27 on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>, number 14 on <a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a> and reached number 3 on the <a href="/wiki/Hot_Rap_Singles" title="Hot Rap Singles" class="mw-redirect">Hot Rap Singles</a>.<sup id="cite_ref-AMG-Singles_18-0" class="reference"><a href="#cite_note-AMG-Singles-18"><span>[</span>18<span>]</span></a></sup> It shipped 500,000 copies in the United States and the RIAA certified it <a href="/wiki/RIAA_certification" title="RIAA certification">Gold</a> on November 8, 1994.<sup id="cite_ref-RIAA-Singles_19-0" class="reference"><a href="#cite_note-RIAA-Singles-19"><span>[</span>19<span>]</span></a></sup> Produced by Combs, it features a prominent sample of "<a href="/wiki/Juicy_Fruit_(song)" title="Juicy Fruit (song)">Juicy Fruit</a>" as performed by <a href="/wiki/James_Mtume" title="James Mtume">James Mtume</a>. Allmusic's Steve Huey stated that, along with the other singles, it was an "upbeat, commercial moment", calling it a "rags-to-riches chronicle".<sup id="cite_ref-AMG_14-3" class="reference"><a href="#cite_note-AMG-14"><span>[</span>14<span>]</span></a></sup> Andrew Kameka, of HipHopDX.com, stated that the song was one of his "greatest and most-revealing songs" and went on to say it was a "Part-autobiography, part-declaration-of-success. It document[s] the star's transition from Brooklyn knucklehead to magazine cover story."<sup id="cite_ref-HipHopDX_5-1" class="reference"><a href="#cite_note-HipHopDX-5"><span>[</span>5<span>]</span></a></sup> Producer <a href="/wiki/Pete_Rock" title="Pete Rock">Pete Rock</a>, who was commissioned to remix the track, alleged that Puffy stole the idea for the original song's beat after hearing it from him during a visit. Rock explained this in an interview with <i><a href="/wiki/Wax_Poetics" title="Wax Poetics">Wax Poetics</a></i>:<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<blockquote class="templatequote">
+<p>I did the original version, didn't get credit for it. They came to my house, heard the beat going on the drum machine, it's the same story. You come downstairs at my crib, you hear music. He heard that shit and the next thing you know it comes out. They had me do a remix, but I tell people, and I will fight it to the end, that I did the original version of that. I'm not mad at anybody, I just want the correct credit.</p>
+</blockquote>
+<p>"Big Poppa" was released as the second single on February 20, 1995 and like the previous single, it was a hit on multiple charts. It reached number six on the <i>Billboard</i> Hot 100, number four on the Hot R&amp;B/Hip-Hop Singles &amp; Tracks and number one on Hot Rap Singles.<sup id="cite_ref-AMG-Singles_18-1" class="reference"><a href="#cite_note-AMG-Singles-18"><span>[</span>18<span>]</span></a></sup> It sold over a million units and the RIAA certified it <a href="/wiki/RIAA_certification" title="RIAA certification">Platinum</a> on May 23, 1995.<sup id="cite_ref-RIAA-Singles_19-1" class="reference"><a href="#cite_note-RIAA-Singles-19"><span>[</span>19<span>]</span></a></sup> Featuring production by Combs and Chucky Thompson of The Hitmen, it samples "<a href="/wiki/Between_the_Sheets_(song)" title="Between the Sheets (song)">Between the Sheets</a>" by <a href="/wiki/The_Isley_Brothers" title="The Isley Brothers">The Isley Brothers</a>. The song was nominated at the <a href="/wiki/Grammy_Awards_of_1996" title="Grammy Awards of 1996" class="mw-redirect">1996 Grammy Awards</a> for <a href="/wiki/Best_Rap_Solo_Performance" title="Best Rap Solo Performance" class="mw-redirect">Best Rap Solo Performance</a>, but lost to <a href="/wiki/Coolio" title="Coolio">Coolio</a>'s "<a href="/wiki/Gangsta%27s_Paradise_(song)" title="Gangsta's Paradise (song)">Gangsta's Paradise</a>". Steve Huey named it an "overweight-lover anthem".<sup id="cite_ref-AMG_14-4" class="reference"><a href="#cite_note-AMG-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>"One More Chance" was released as the third single on June 9, 1995. The single was a <a href="/wiki/Remix" title="Remix">remix</a> of the album track. It was produced by Combs and featured a sample from <a href="/wiki/DeBarge" title="DeBarge">DeBarge</a>'s "Stay With Me". It peaked at number two on the <i>Billboard</i> Hot 100 and reached number one on the Hot R&amp;B/Hip-Hop Singles &amp; Tracks and Hot Rap Singles.<sup id="cite_ref-AMG-Singles_18-2" class="reference"><a href="#cite_note-AMG-Singles-18"><span>[</span>18<span>]</span></a></sup> It sold over a million copies and the RIAA certified it Platinum on July 31, 1995.<sup id="cite_ref-RIAA-Singles_19-2" class="reference"><a href="#cite_note-RIAA-Singles-19"><span>[</span>19<span>]</span></a></sup> Steve Huey labeled it a "graphic sex rap".<sup id="cite_ref-AMG_14-5" class="reference"><a href="#cite_note-AMG-14"><span>[</span>14<span>]</span></a></sup> <i>Rolling Stone</i> writer Cheo H. Coker had a similar view of the song, noting that it was "one of the bawdiest sex raps since <a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a>'s classic, "<a href="/wiki/Talk_Like_Sex" title="Talk Like Sex">Talk Like Sex</a>" and continued, stating it "proves hilarious simply because of B.I.G.'s <a href="/wiki/Dolemite" title="Dolemite">Dolemitelike</a> vulgarity."<sup id="cite_ref-RollingStone94_13-3" class="reference"><a href="#cite_note-RollingStone94-13"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=7" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Huey_17-1" class="reference"><a href="#cite_note-Huey-17"><span>[</span>17<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Sanneh_21-0" class="reference"><a href="#cite_note-Sanneh-21"><span>[</span>21<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">A−<sup id="cite_ref-Christgau_22-0" class="reference"><a href="#cite_note-Christgau-22"><span>[</span>22<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i></td>
+<td style="vertical-align:middle">(favorable)<sup id="cite_ref-Toure_23-0" class="reference"><a href="#cite_note-Toure-23"><span>[</span>23<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Q_(magazine)" title="Q (magazine)" class="mw-redirect">Q</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">RapReviews</td>
+<td style="vertical-align:middle">10/10<sup id="cite_ref-Juon_25-0" class="reference"><a href="#cite_note-Juon-25"><span>[</span>25<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-RollingStone94_13-4" class="reference"><a href="#cite_note-RollingStone94-13"><span>[</span>13<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The Rolling Stone Album Guide</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Hoard_26-0" class="reference"><a href="#cite_note-Hoard-26"><span>[</span>26<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Shortie_27-0" class="reference"><a href="#cite_note-Shortie-27"><span>[</span>27<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a></td>
+<td style="vertical-align:middle">(favorable)<sup id="cite_ref-Murphy_28-0" class="reference"><a href="#cite_note-Murphy-28"><span>[</span>28<span>]</span></a></sup></td>
+</tr>
+</table>
+<p>Upon its release, <i>Ready to Die</i> received critical acclaim from music critics. In his review for <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>, Cheo H. Cocker stated "<i>Ready to Die</i> is the strongest solo rap debut since <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>'s <i><a href="/wiki/Amerikkka%27s_Most_Wanted" title="Amerikkka's Most Wanted" class="mw-redirect">Amerikkka's Most Wanted</a></i>. From the breathtakingly visual moments of his birth to his <a href="/wiki/Kurt_Cobain" title="Kurt Cobain">Cobainesque</a> end in "Suicidal Thoughts," B.I.G. proves a captivating listen. It's difficult to get him out of your head once you sample what he has to offer".<sup id="cite_ref-RollingStone94_13-5" class="reference"><a href="#cite_note-RollingStone94-13"><span>[</span>13<span>]</span></a></sup> <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a> from <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> commented "His sex raps are erotic, his jokes are funny, and his music makes the thug life sound scary rather than luxuriously laid back. When he considers suicide, I not only take him at his word, I actively hope he finds another way".<sup id="cite_ref-Christgau_22-1" class="reference"><a href="#cite_note-Christgau-22"><span>[</span>22<span>]</span></a></sup> <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> wrote "Though drug dealing carries tremendous heroic value with some young urban dwellers, he sacrifices the figure's romantic potential. His raps acknowledge both the excitement of drug dealing and the stress caused by the threat from other dealers, robbers, the police and parents, sometimes one's own. In presenting the downside of that life, <i>Ready to Die</i> offers perhaps the most balanced and honest portrait of the dealer's life of any in hip-hop".</p>
+<p><i><a href="/wiki/Q_(magazine)" title="Q (magazine)" class="mw-redirect">Q</a></i> magazine gave <i>Ready to Die</i> three out of five stars, and stated "the natural rapping, clever use of sound effects and acted dialogue, and concept element (from a baby being born at the start to the fading heartbeat at the end) set this well apart from the average gangsta bragging".<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup> In their original review for <i>Ready to Die</i>, <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> gave it four-and-a-half out of five 'mics', stating "Big weaves tales like a cinematographer, each song is like another scene in his lifestyle. Overall, this package is complete: ridiculous beats, harmonizing honeys, ill sound effects, criminal scenarios, and familiar hooks".<sup id="cite_ref-Shortie_27-1" class="reference"><a href="#cite_note-Shortie-27"><span>[</span>27<span>]</span></a></sup> In 1996, acclaimed <a href="/wiki/Singer-songwriter" title="Singer-songwriter">singer-songwriter</a> <a href="/wiki/Randy_Newman" title="Randy Newman">Randy Newman</a> enthused "It's one of the best records ever made. It's a strange album in that the first cut says, 'Oh, back in the old days was everybody was shootin' everybody… ' and 'Let's stop killing each other', and then the rest of the record is all about people killing each other. It's the damnedest thing; I don't know what the hell he had in mind… It's like when <a href="/wiki/Public_Enemy_(group)" title="Public Enemy (group)">Public Enemy</a> would put out a record and it was noticeably classier than all the other rap stuff at the time."<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Retrospect">Retrospect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=8" title="Edit section: Retrospect">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In retrospect, <i>Ready to Die</i> has been highly acclaimed. In 1998, <i>The Source</i> included it on their 100 Best Rap Albums of All Time list,<sup id="cite_ref-accolades_31-0" class="reference"><a href="#cite_note-accolades-31"><span>[</span>31<span>]</span></a></sup> and in 2002, they re-rated it to the maximum five 'mics'.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup> <i>Rolling Stone</i> has also given acclaim to <i>Ready to Die</i> over the years. In 2003, they ranked it number 133 on their <i><a href="/wiki/500_Greatest_Albums_of_All_Time" title="500 Greatest Albums of All Time" class="mw-redirect">500 Greatest Albums of All Time</a></i> list,<sup id="cite_ref-accolades_31-1" class="reference"><a href="#cite_note-accolades-31"><span>[</span>31<span>]</span></a></sup> and one year later, they re-rated it to five stars.<sup id="cite_ref-Hoard_26-1" class="reference"><a href="#cite_note-Hoard-26"><span>[</span>26<span>]</span></a></sup> In 2011, <i>Rolling Stone</i> also placed it at number eight on their 100 Best Albums of the Nineties list, and described it as "mapping out the sound of '<a href="/wiki/1990s_in_music" title="1990s in music">'90's</a> cool".<sup id="cite_ref-1BAotN_33-0" class="reference"><a href="#cite_note-1BAotN-33"><span>[</span>33<span>]</span></a></sup> Kilian Murphy from <a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a> wrote favorably of the album in a retrospective review, and concluded "Sweet, hypocritical, sensitive, violent, depressed and jubilant; these words could all fittingly describe Big at various points on <i>Ready to Die</i>.<sup id="cite_ref-Murphy_28-1" class="reference"><a href="#cite_note-Murphy-28"><span>[</span>28<span>]</span></a></sup></p>
+<p>Steve Huey from <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">allmusic</a> gave it five stars, stating "The album that reinvented East Coast rap for the gangsta age, <i>Ready to Die</i> made the Notorious B.I.G. a star. Today it's recognized as one of the greatest hardcore rap albums ever recorded, and that's mostly due to Biggie's skill as a storyteller".<sup id="cite_ref-Huey_17-2" class="reference"><a href="#cite_note-Huey-17"><span>[</span>17<span>]</span></a></sup> In 2006, <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i> magazine included it on their 100 Greatest Albums of All Time list, and stated "On <i>Ready to Die</i>, <a href="/wiki/Notorious_B.I.G." title="Notorious B.I.G." class="mw-redirect">Wallace</a> took his street corner experiences and filtered them through his considerable charm. The result was a record that mixed long stretches of menace with romance and lots of humor. No rapper ever made multi-syllabic rhymes sound as smooth".<sup id="cite_ref-TIME_2-1" class="reference"><a href="#cite_note-TIME-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=9" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Intro" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">Christopher Wallace</a>, <a href="/wiki/Sean_Combs" title="Sean Combs">Sean Combs</a></td>
+<td style="vertical-align: top;"><a href="/wiki/Sean_Combs" title="Sean Combs">Sean "Puffy" Combs</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:24</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Things Done Changed" &#160;</td>
+<td style="vertical-align: top;">Wallace, Dominic Owen, Kevin Scott</td>
+<td style="vertical-align: top;">Darnell Scott</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:58</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Gimme the Loot" &#160;</td>
+<td style="vertical-align: top;">Wallace, <a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Osten Harvey</a></td>
+<td style="vertical-align: top;"><a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Easy Mo Bee</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:04</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Machine Gun Funk" &#160;</td>
+<td style="vertical-align: top;">Wallace, Harvey</td>
+<td style="vertical-align: top;">Easy Mo Bee</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:17</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Warning" &#160;</td>
+<td style="vertical-align: top;">Wallace, Harvey</td>
+<td style="vertical-align: top;">Easy Mo Bee</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:40</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Ready to Die" &#160;</td>
+<td style="vertical-align: top;">Wallace, Harvey</td>
+<td style="vertical-align: top;">Easy Mo Bee</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:24</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/One_More_Chance_(The_Notorious_B.I.G._song)" title="One More Chance (The Notorious B.I.G. song)">One More Chance</a>" &#160;</td>
+<td style="vertical-align: top;">Wallace, Norm Glover, Reginald Ellis, <a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a>, Combs</td>
+<td style="vertical-align: top;">Bluez Brothers, <a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a>, Combs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:43</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Fuck Me (interlude)" &#160;</td>
+<td style="vertical-align: top;">Wallace, Combs</td>
+<td style="vertical-align: top;">Combs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:31</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"The What" <span style="font-size:85%;">(featuring <a href="/wiki/Method_Man" title="Method Man">Method Man</a>)</span></td>
+<td style="vertical-align: top;">Wallace, <a href="/wiki/Method_Man" title="Method Man">Clifford Smith</a>, Harvey</td>
+<td style="vertical-align: top;">Easy Mo Bee</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:57</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Juicy_(The_Notorious_B.I.G._song)" title="Juicy (The Notorious B.I.G. song)">Juicy</a>" &#160;</td>
+<td style="vertical-align: top;">Wallace, <a href="/wiki/Pete_Rock" title="Pete Rock">Peter Philips</a>, Combs, <a href="/wiki/Trackmasters" title="Trackmasters">Jean Oliver</a></td>
+<td style="vertical-align: top;"><a href="/wiki/Trackmasters" title="Trackmasters">Poke</a>, Combs (co.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:02</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Everyday Struggle" &#160;</td>
+<td style="vertical-align: top;">Wallace, Glover, Ellis</td>
+<td style="vertical-align: top;">Bluez Brothers</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:19</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Me &amp; My Bitch" &#160;</td>
+<td style="vertical-align: top;">Wallace, Glover, Ellis, Thompson, Combs</td>
+<td style="vertical-align: top;">Bluez Brothers, Chucky Thompson, Combs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:00</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Big_Poppa" title="Big Poppa">Big Poppa</a>" &#160;</td>
+<td style="vertical-align: top;">Wallace, <a href="/wiki/The_Isley_Brothers" title="The Isley Brothers">The Isley Brothers</a></td>
+<td style="vertical-align: top;">Chucky Thompson, Combs (co.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:13</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Respect" &#160;</td>
+<td style="vertical-align: top;">Wallace, <a href="/wiki/Diana_King" title="Diana King">Diana King</a>, Harry Casey</td>
+<td style="vertical-align: top;">Poke, Combs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:21</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Friend of Mine" &#160;</td>
+<td style="vertical-align: top;">Wallace, Harvey</td>
+<td style="vertical-align: top;">Easy Mo Bee</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:28</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Unbelievable" &#160;</td>
+<td style="vertical-align: top;">Wallace, <a href="/wiki/DJ_Premier" title="DJ Premier">Christopher Martin</a></td>
+<td style="vertical-align: top;"><a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:43</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"Suicidal Thoughts" &#160;</td>
+<td style="vertical-align: top;">Wallace, <a href="/wiki/Lord_Finesse" title="Lord Finesse">Robert Hall</a></td>
+<td style="vertical-align: top;"><a href="/wiki/Lord_Finesse" title="Lord Finesse">Lord Finesse</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:50</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">2004 Remaster bonus tracks</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Who_Shot_Ya%3F" title="Who Shot Ya?">Who Shot Ya?</a>" &#160;</td>
+<td style="vertical-align: top;">Wallace, Nashiem Myrick, Combs</td>
+<td style="vertical-align: top;">Nashiem Myrick, Combs (co.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:19</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"Just Playing (Dreams)" &#160;</td>
+<td style="vertical-align: top;">Wallace, Rashad Smith</td>
+<td style="vertical-align: top;">Rashad Smith</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:43</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Samples">Samples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=10" title="Edit section: Samples">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<p><b>Intro</b></p>
+<ul>
+<li>"<a href="/wiki/Superfly_(song)" title="Superfly (song)">Superfly</a>" by <a href="/wiki/Curtis_Mayfield" title="Curtis Mayfield">Curtis Mayfield</a></li>
+<li>"<a href="/wiki/Rapper%27s_Delight" title="Rapper's Delight">Rapper's Delight</a>" by <a href="/wiki/Sugarhill_Gang" title="Sugarhill Gang" class="mw-redirect">Sugarhill Gang</a></li>
+<li>"<a href="/wiki/Top_Billin%27" title="Top Billin'">Top Billin'</a>" by <a href="/wiki/Audio_Two" title="Audio Two">Audio Two</a></li>
+<li>"<a href="/wiki/Doggystyle" title="Doggystyle">Tha Shiznit</a>" by <a href="/wiki/Snoop_Doggy_Dogg" title="Snoop Doggy Dogg" class="mw-redirect">Snoop Doggy Dogg</a></li>
+</ul>
+<p><b>Things Done Changed</b></p>
+<ul>
+<li>"California My Way" by <a href="/wiki/The_Main_Ingredient_(band)" title="The Main Ingredient (band)">The Main Ingredient</a></li>
+<li>"Summer Breeze" by The Main Ingredient</li>
+<li>"The Vapors" by <a href="/wiki/Biz_Markie" title="Biz Markie">Biz Markie</a></li>
+<li>"<a href="/wiki/The_Chronic" title="The Chronic">Lil Ghetto Boy</a>" by <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a></li>
+</ul>
+<p><b>Gimme the Loot</b></p>
+<ul>
+<li>"Coldblooded" by <a href="/wiki/James_Brown" title="James Brown">James Brown</a></li>
+<li>"Singing in the Morning" by <a href="/wiki/Ohio_Players" title="Ohio Players">Ohio Players</a> (Removed following lawsuit.)<sup id="cite_ref-HipHopDX_5-2" class="reference"><a href="#cite_note-HipHopDX-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-bryantimes_6-2" class="reference"><a href="#cite_note-bryantimes-6"><span>[</span>6<span>]</span></a></sup></li>
+<li>"<a href="/wiki/Throw_Ya_Gunz" title="Throw Ya Gunz">Throw Ya Gunz</a>" by <a href="/wiki/Onyx_(group)" title="Onyx (group)">Onyx (group)</a></li>
+<li>"What They Hittin' Foe?" by <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a></li>
+<li>"Just to Get a Rep" by <a href="/wiki/Gang_Starr" title="Gang Starr">Gang Starr</a></li>
+<li>"<a href="/wiki/Scenario_(song)" title="Scenario (song)">Scenario</a>" (Remix) by <a href="/wiki/A_Tribe_Called_Quest" title="A Tribe Called Quest">A Tribe Called Quest</a></li>
+</ul>
+<p><b>Machine Gun Funk</b></p>
+<ul>
+<li>"Something Extra" by <a href="/wiki/Black_Heat" title="Black Heat">Black Heat</a></li>
+<li>"<a href="/wiki/Up_for_the_Down_Stroke_(song)" title="Up for the Down Stroke (song)">Up for the Down Stroke</a>" by <a href="/wiki/The_Horny_Horns" title="The Horny Horns">The Horny Horns</a> (Removed following lawsuit.)<sup id="cite_ref-HipHopDX_5-3" class="reference"><a href="#cite_note-HipHopDX-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-bryantimes_6-3" class="reference"><a href="#cite_note-bryantimes-6"><span>[</span>6<span>]</span></a></sup></li>
+<li>"Chief Rocka" by <a href="/wiki/Lords_of_the_Underground" title="Lords of the Underground">Lords of the Underground</a></li>
+</ul>
+<p><b>Warning</b></p>
+<ul>
+<li>"<a href="/wiki/Walk_On_By_(Dionne_Warwick_song)" title="Walk On By (Dionne Warwick song)" class="mw-redirect">Walk On By</a>" by <a href="/wiki/Isaac_Hayes" title="Isaac Hayes">Isaac Hayes</a></li>
+</ul>
+<p><b>Ready to Die</b></p>
+<ul>
+<li>"Hospital Prelude of Love Theme" by <a href="/wiki/Willie_Hutch" title="Willie Hutch">Willie Hutch</a></li>
+<li>"<a href="/wiki/Yes,_I%27m_Ready" title="Yes, I'm Ready">Yes, I'm Ready</a>" by <a href="/wiki/Barbara_Mason" title="Barbara Mason">Barbara Mason</a></li>
+<li>"Ain't No Half Steppin'" by <a href="/wiki/Big_Daddy_Kane" title="Big Daddy Kane">Big Daddy Kane</a></li>
+<li>"Two to the Head" by <a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a> &amp; DJ Polo</li>
+<li>"Singing in the Morning" by <a href="/wiki/Ohio_Players" title="Ohio Players">Ohio Players</a> (Removed following lawsuit.)<sup id="cite_ref-HipHopDX_5-4" class="reference"><a href="#cite_note-HipHopDX-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-bryantimes_6-4" class="reference"><a href="#cite_note-bryantimes-6"><span>[</span>6<span>]</span></a></sup></li>
+</ul>
+<p><b>One More Chance</b></p>
+<ul>
+<li>"Hydra" by <a href="/wiki/Grover_Washington,_Jr." title="Grover Washington, Jr.">Grover Washington, Jr.</a></li>
+<li>"I Want You Back" by <a href="/wiki/The_Jackson_5" title="The Jackson 5">The Jackson 5</a></li>
+<li>"<a href="/wiki/All_This_Love_(song)" title="All This Love (song)">All This Love</a>" by <a href="/wiki/Debarge" title="Debarge" class="mw-redirect">Debarge</a></li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<p><b>Fuck Me</b></p>
+<ul>
+<li>"<a href="/wiki/Feenin%27" title="Feenin'">Feenin'</a> by <a href="/wiki/Jodeci" title="Jodeci">Jodeci</a></li>
+</ul>
+<p><b>The What</b></p>
+<ul>
+<li>"Can't Say Enough About Mom" by <a href="/wiki/Leroy_Hutson" title="Leroy Hutson">Leroy Hutson</a></li>
+<li>"Overnight Sensation" by <a href="/wiki/Avalanche_(band)" title="Avalanche (band)">Avalanche</a></li>
+</ul>
+<p><b>Juicy</b></p>
+<ul>
+<li>"<a href="/wiki/Juicy_Fruit_(song)" title="Juicy Fruit (song)">Juicy Fruit</a>" by <a href="/wiki/Mtume" title="Mtume">Mtume</a></li>
+</ul>
+<p><b>Everyday Struggle</b></p>
+<ul>
+<li>"Either Way" by <a href="/wiki/Dave_Grusin" title="Dave Grusin">Dave Grusin</a></li>
+</ul>
+<p><b>Big Poppa</b></p>
+<ul>
+<li>"<a href="/wiki/Between_the_Sheets_(song)" title="Between the Sheets (song)">Between the Sheets</a>" by <a href="/wiki/The_Isley_Brothers" title="The Isley Brothers">The Isley Brothers</a></li>
+<li>"Dolly My Baby" by <a href="/wiki/Super_Cat" title="Super Cat">Super Cat</a></li>
+</ul>
+<p><b>Respect</b></p>
+<ul>
+<li>"I Get Lifted" by <a href="/wiki/KC_and_the_Sunshine_Band" title="KC and the Sunshine Band">KC and the Sunshine Band</a></li>
+<li>"Gun Man Tune" by <a href="/wiki/Pan_Head" title="Pan Head">Pan Head</a></li>
+</ul>
+<p><b>Friend of Mine</b></p>
+<ul>
+<li>"The Jam" by <a href="/wiki/Graham_Central_Station" title="Graham Central Station">Graham Central Station</a></li>
+<li>"Seventh Heaven" by <a href="/wiki/Gwen_Guthrie" title="Gwen Guthrie">Gwen Guthrie</a></li>
+<li>"Vicious" by Black Mamba</li>
+</ul>
+<p><b>Unbelievable</b></p>
+<ul>
+<li>"Impeach the President" by The Honey Drippers</li>
+<li>"Remind Me" by <a href="/wiki/Patrice_Rushen" title="Patrice Rushen">Patrice Rushen</a></li>
+<li>"<a href="/wiki/Your_Body%27s_Callin%27" title="Your Body's Callin'">Your Body's Callin'</a> by <a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a></li>
+<li>"The What" by <a href="/wiki/The_Notorious_B.I.G" title="The Notorious B.I.G" class="mw-redirect">The Notorious B.I.G</a></li>
+</ul>
+<p><b>Suicidal Thoughts</b></p>
+<ul>
+<li>"Lonely Fire" by <a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a></li>
+<li>"Outside Love" by Brethren</li>
+</ul>
+<p><b>Who Shot Ya?</b></p>
+<ul>
+<li>"I'm Afraid the Masquerade Is Over" by <a href="/wiki/David_Porter_(musician)" title="David Porter (musician)">David Porter</a></li>
+</ul>
+<p><b>Just Playing (Dreams)</b></p>
+<ul>
+<li>"Blues and Pants" by <a href="/wiki/James_Brown" title="James Brown">James Brown</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=11" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Notorious_B.I.G." title="Notorious B.I.G." class="mw-redirect">Notorious B.I.G.</a> – writer, performer (tracks:1–19)</li>
+<li><a href="/wiki/Sean_%22Puffy%22_Combs" title="Sean &quot;Puffy&quot; Combs" class="mw-redirect">Sean "Puffy" Combs</a> – executive producer, additional vocals, producer (tracks: 1, 7, 8, 10, 12, 13, 14, 18)</li>
+<li><a href="/wiki/Mister_Cee" title="Mister Cee">Mister Cee</a> – associate executive producer</li>
+<li><a href="/wiki/Method_Man" title="Method Man">Method Man</a> – featured performer (track: 9)</li>
+<li><a href="/wiki/Lil%27_Kim" title="Lil' Kim">Lil' Kim</a> – additional performer (tracks: 1, 8, 15)</li>
+<li><a href="/wiki/Total_(band)" title="Total (band)" class="mw-redirect">Total</a> – additional vocals (tracks: 7, 10)</li>
+<li><a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a> – instruments (tracks: 7, 12) / producer (tracks: 7, 12, 13)</li>
+<li>Nashiem Myrick – additional programming (track: 13) / producer (track: 18)</li>
+<li><a href="/wiki/Diana_King" title="Diana King">Diana King</a> – additional vocals (track: 14)</li>
+<li>Sybil Pennix – additional voice (track: 12)</li>
+<li><a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Easy Mo Bee</a> – producer (tracks: 3, 4, 5, 6, 9, 15)</li>
+<li>The Bluez Brothers – producer (tracks: 7, 11, 12)</li>
+<li>Jean "Poke" Oliver – producer (tracks: 10, 14)</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a> – producer (track: 16)</li>
+<li><a href="/wiki/Lord_Finesse" title="Lord Finesse">Lord Finesse</a> – producer (track: 17)</li>
+<li>Darnall Scott – producer (track: 2)</li>
+<li>Rashad Smith – producer (track: 19)</li>
+<li>Bob "Bassy" Brockman – recorder, mixer</li>
+<li>Greg Pinto – recorder, mixer</li>
+<li>Rich Travali – recorder, mixer</li>
+<li>Mario Rodriquez – recorder, mixer</li>
+<li>Charles "Prince" Alexander – recorder, mixer</li>
+<li>Bill Esses – recorder, mixer</li>
+<li>John Wydrycs – recorder</li>
+<li>Norty Cotto – recorder</li>
+<li>Eddie Sancho – mixer</li>
+<li>Butch Bel Air – photography</li>
+<li><a href="/wiki/Gwendolyn_Watts" title="Gwendolyn Watts">Gwendolyn Watts</a> – A&amp;R coordination</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=12" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Album">Album</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=13" title="Edit section: Album">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th align="left">Charts (1994)</th>
+<th align="left">Peak<br />
+position</th>
+</tr>
+<tr>
+<td>French Albums (<a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">SNEP</a>)<sup id="cite_ref-ac_France_The_Notorious_B.I.G._34-0" class="reference"><a href="#cite_note-ac_France_The_Notorious_B.I.G.-34"><span>[</span>34<span>]</span></a></sup></td>
+<td align="center">118</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-ac_Billboard200_The_Notorious_B.I.G._35-0" class="reference"><a href="#cite_note-ac_Billboard200_The_Notorious_B.I.G.-35"><span>[</span>35<span>]</span></a></sup></td>
+<td align="center">15</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-ac_BillboardRandBHipHop_The_Notorious_B.I.G._36-0" class="reference"><a href="#cite_note-ac_BillboardRandBHipHop_The_Notorious_B.I.G.-36"><span>[</span>36<span>]</span></a></sup></td>
+<td align="center">3</td>
+</tr>
+</table>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Singles_2">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=14" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2">Single</th>
+<th colspan="3">Chart positions<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></th>
+</tr>
+<tr>
+<th width="30"><small><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">US</a></small></th>
+<th width="30"><small><a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">US R&amp;B</a></small></th>
+<th width="30"><small><a href="/wiki/Hot_Rap_Tracks" title="Hot Rap Tracks" class="mw-redirect">US Rap</a></small></th>
+</tr>
+<tr>
+<td align="center" rowspan="3">1994</td>
+<td align="left">"Juicy"</td>
+<td align="center">27</td>
+<td align="center">14</td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td align="left">"Big Poppa"</td>
+<td align="center">6</td>
+<td align="center">4</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left">"One More Chance"</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Accolades">Accolades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=15" title="Edit section: Accolades">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><small>The information regarding accolades is adapted from Acclaimedmusic.net,</small><sup id="cite_ref-accolades_31-2" class="reference"><a href="#cite_note-accolades-31"><span>[</span>31<span>]</span></a></sup><small>except for lists that are sourced otherwise.</small></li>
+<li><small>(*) signifies unordered lists</small></li>
+</ul>
+<table class="wikitable">
+<tr>
+<th>Publication</th>
+<th>Country</th>
+<th>Accolade</th>
+<th>Year</th>
+<th>Rank</th>
+</tr>
+<tr>
+<td rowspan="3"><a href="/wiki/About.com" title="About.com">About.com</a></td>
+<td rowspan="4"><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><i>100 Greatest Hip Hop Albums</i><sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></td>
+<td>2008</td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td><i>Best Rap Albums of 1994</i><sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup></td>
+<td>2008</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td><i>10 Essential Hip-Hop Albums</i><sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup></td>
+<td>2008</td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i></td>
+<td><i>500 CDs You Must Own Before You Die</i></td>
+<td>2003</td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td><i>Dance De Lux</i></td>
+<td><a href="/wiki/Spain" title="Spain">Spain</a></td>
+<td><i>The 25 Best Hip-Hop Records</i></td>
+<td>2001</td>
+<td align="center">21</td>
+</tr>
+<tr>
+<td>Robert Dimery</td>
+<td rowspan="3">United States</td>
+<td><i><a href="/wiki/1001_Albums_You_Must_Hear_Before_You_Die" title="1001 Albums You Must Hear Before You Die">1001 Albums You Must Hear Before You Die</a></i></td>
+<td>2005</td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Ego_Trip_(magazine)" title="Ego Trip (magazine)" class="mw-redirect">ego trip</a></i></td>
+<td><i>Hip Hop's 25 Greatest Albums by Year 1980-98</i></td>
+<td>1999</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td><i>The 100 Best Albums from 1983 to 2008</i></td>
+<td>2008</td>
+<td align="center">40</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i></td>
+<td rowspan="3"><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td><i>1000 Albums to Hear Before You Die</i></td>
+<td>2007</td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Mojo_(magazine)" title="Mojo (magazine)">Mojo</a></td>
+<td><i>Mojo 1000, the Ultimate CD Buyers Guide</i></td>
+<td>2001</td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td><i>The Mojo Collection, 3rd and/or 4th Edition</i></td>
+<td>2003</td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td>Tom Moon</td>
+<td rowspan="2">United States</td>
+<td><i>1000 Recordings to Hear Before You Die</i></td>
+<td>2008</td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td><a href="/wiki/MTV" title="MTV">MTV</a></td>
+<td><i>The Greatest Hip-Hop Albums of All Time</i><sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup></td>
+<td>2005</td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td><i>MUZIQ</i></td>
+<td>France</td>
+<td><i>200 Records for a Dream Collection</i></td>
+<td>2007</td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/The_New_Nation" title="The New Nation" class="mw-redirect">The New Nation</a></i></td>
+<td>United Kingdom</td>
+<td><i>Top 100 Albums by Black Artists</i></td>
+<td>2005</td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td><i>Pause &amp; Play</i></td>
+<td rowspan="2">United States</td>
+<td><i>Albums Inducted into a Time Capsule, One Album per Week</i></td>
+<td></td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td><a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a></td>
+<td><i>Top 100 Favorite Records of the 1990s</i></td>
+<td>2003</td>
+<td align="center">32</td>
+</tr>
+<tr>
+<td><i>Pure Pop</i></td>
+<td><a href="/wiki/Mexico" title="Mexico">Mexico</a></td>
+<td><i>Albums of the Year</i></td>
+<td>1994</td>
+<td align="center">18</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Q_(magazine)" title="Q (magazine)" class="mw-redirect">Q</a></i></td>
+<td>United Kingdom</td>
+<td><i>The Ultimate Music Collection</i></td>
+<td>2005</td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td rowspan="3"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td rowspan="3">United States</td>
+<td><i>The Essential Recordings of the 90s</i></td>
+<td>1999</td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/The_500_Greatest_Albums_of_All_Time" title="The 500 Greatest Albums of All Time" class="mw-redirect">The 500 Greatest Albums of All Time</a></i></td>
+<td>2003</td>
+<td align="center">133</td>
+</tr>
+<tr>
+<td><i>100 Best Albums of the Nineties</i><sup id="cite_ref-1BAotN_33-1" class="reference"><a href="#cite_note-1BAotN-33"><span>[</span>33<span>]</span></a></sup></td>
+<td>2011</td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Sounds_(magazine)" title="Sounds (magazine)">Sounds</a></i></td>
+<td>United Kingdom</td>
+<td><i>The 50 Best Albums of the 1990s</i></td>
+<td>2009</td>
+<td align="center">37</td>
+</tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i></td>
+<td rowspan="9">United States</td>
+<td><i>The 100 Best Rap Albums of All Time</i></td>
+<td>1998</td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td><i>The Critics Top 100 Black Music Albums of All Time</i><sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>42<span>]</span></a></sup></td>
+<td>2006</td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td rowspan="3"><i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i></td>
+<td><i>Top 90 Albums of the 90s</i></td>
+<td>1999</td>
+<td align="center">27</td>
+</tr>
+<tr>
+<td><i>Top 100 (+5) Albums of the Last 20 Years</i></td>
+<td>2005</td>
+<td align="center">30</td>
+</tr>
+<tr>
+<td><i>The 125 Best Albums of the Past 25 Years</i></td>
+<td>2010</td>
+<td align="center">43</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i></td>
+<td><i>Top 100 Albums of All Time</i></td>
+<td>2006</td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i></td>
+<td><i>100 Essential Albums of the 20th Century</i></td>
+<td>1999</td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td><i>150 Albums That Define the Vibe Era (1992-2007)</i></td>
+<td>2007</td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Village_Voice" title="Village Voice" class="mw-redirect">Village Voice</a></i></td>
+<td><i>Albums of the Year</i></td>
+<td>1994</td>
+<td align="center">38</td>
+</tr>
+<tr>
+<td><a href="/wiki/VPRO" title="VPRO">VPRO</a></td>
+<td><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
+<td><i>299 Nominations of the Best Album of All Time</i></td>
+<td>2006</td>
+<td align="center">*</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy Records</a></li>
+<li><a href="/wiki/East_Coast_hip_hop" title="East Coast hip hop">East Coast hip hop</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-AMG-Bio-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMG-Bio_1-0">^</a></b></span> <span class="reference-text">Steve Huey. <a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p44889">The Notorious B.I.G. &gt; Biography</a>. Allmusic. Accessed March 17, 2007</span></li>
+<li id="cite_note-TIME-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-TIME_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TIME_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Josh Tyrangiel (November 13, 2006). <a rel="nofollow" class="external text" href="http://entertainment.time.com/2006/11/02/the-all-time-100-albums/#ready-to-die">The All-TIME 100 Albums</a>. <i>Time</i>. Accessed May 13, 2008.</span></li>
+<li id="cite_note-xxl-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-xxl_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-xxl_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-xxl_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Andrea Duncan (March 9, 2006). <a rel="nofollow" class="external text" href="http://xxlmag.com/online/?p=408">"The Making of Ready to Die: Family Business"</a>. <i>XXL</i>. Accessed March 18, 2008.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Sacha Jenkins, Elliott Wilson, Chairman Mao, Gabriel Alvarez &amp; Brent Rollins. <i>ego trip's Book of Rap Lists</i>, New York: St. Martin's Press, 1999, p. 167. <a href="/wiki/Special:BookSources/9780312242985" class="internal mw-magiclink-isbn">ISBN 978-0-312-24298-5</a></span></li>
+<li id="cite_note-HipHopDX-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-HipHopDX_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HipHopDX_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-HipHopDX_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-HipHopDX_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-HipHopDX_5-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation web">J-23 (30 December 2005). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.3780/title.court-after-death-biggie-being-sued">"Court After Death: Biggie Being Sued"</a>. <i>HipHopDX</i>. Cheri Media Group<span class="reference-accessdate">. Retrieved 5 October 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReady+to+Die&amp;rft.atitle=Court+After+Death%3A+Biggie+Being+Sued&amp;rft.au=J-23&amp;rft.aulast=J-23&amp;rft.date=30+December+2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.3780%2Ftitle.court-after-death-biggie-being-sued&amp;rft.jtitle=HipHopDX&amp;rft.pub=Cheri+Media+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bryantimes-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-bryantimes_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bryantimes_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bryantimes_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-bryantimes_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-bryantimes_6-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation news">AP (24 March 2006). <a rel="nofollow" class="external text" href="http://news.google.com/newspapers?id=VvkvAAAAIBAJ&amp;sjid=iUkDAAAAIBAJ&amp;pg=5587%2C2536180">"Judge halts sales of Notorious B.I.G. album after jury finds song snippet used without permission"</a>. <i>The Bryan Times</i><span class="reference-accessdate">. Retrieved 5 October 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReady+to+Die&amp;rft.atitle=Judge+halts+sales+of+Notorious+B.I.G.+album+after+jury+finds+song+snippet+used+without+permission&amp;rft.au=AP&amp;rft.aulast=AP&amp;rft.date=24+March+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.google.com%2Fnewspapers%3Fid%3DVvkvAAAAIBAJ%26sjid%3DiUkDAAAAIBAJ%26pg%3D5587%252C2536180&amp;rft.jtitle=The+Bryan+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-exclusiverights-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-exclusiverights_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-exclusiverights_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20091125140936/http://www.exclusiverights.net/2009/04/westbound-records-awarded-688k-in-punitive-damages-for-notorious-big-sample/">"Westbound Records awarded 688k in punitive damages for Notorious B.I.G. sample"</a>. Exclusive Rights. 13 April 2009<span class="reference-accessdate">. Retrieved 5 October 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReady+to+Die&amp;rft.btitle=Westbound+Records+awarded+688k+in+punitive+damages+for+Notorious+B.I.G.+sample&amp;rft.date=13+April+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20091125140936%2Fhttp%3A%2F%2Fwww.exclusiverights.net%2F2009%2F04%2Fwestbound-records-awarded-688k-in-punitive-damages-for-notorious-big-sample%2F&amp;rft.pub=Exclusive+Rights&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web">Bailey, Jonathan (18 April 2009). <a rel="nofollow" class="external text" href="http://www.badboyblog.com/item/2009/4/18/on-appeal-damages-for-unauthorized-ready-to-die-sample-reduced-by-2-811-477">"04/18: On Appeal, Damages for Unauthorized "Ready to Die" Sample Reduced by $2,811,477"</a>. Bad Boy Blog<span class="reference-accessdate">. Retrieved 5 October 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReady+to+Die&amp;rft.au=Bailey%2C+Jonathan&amp;rft.aufirst=Jonathan&amp;rft.aulast=Bailey&amp;rft.btitle=04%2F18%3A+On+Appeal%2C+Damages+for+Unauthorized+%22Ready+to+Die%22+Sample+Reduced+by+%242%2C811%2C477&amp;rft.date=18+April+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.badboyblog.com%2Fitem%2F2009%2F4%2F18%2Fon-appeal-damages-for-unauthorized-ready-to-die-sample-reduced-by-2-811-477&amp;rft.pub=Bad+Boy+Blog&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-iTunes-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-iTunes_9-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/en/album/ready-to-die-the-remaster/id204669326">"iTunes - Music - Ready to Die - The Remaster by The Notorious B.I.G."</a>. Apple Inc<span class="reference-accessdate">. Retrieved 5 October 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReady+to+Die&amp;rft.btitle=iTunes+-+Music+-+Ready+to+Die+-+The+Remaster+by+The+Notorious+B.I.G.&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fen%2Falbum%2Fready-to-die-the-remaster%2Fid204669326&amp;rft.pub=Apple+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Falzone-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Falzone_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Falzone_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Falzone, Anthony (18 October 2007). <a rel="nofollow" class="external text" href="http://cyberlaw.stanford.edu/node/5581">"Why, Diddy? Why?"</a>. The Center for Internet and Society<span class="reference-accessdate">. Retrieved 5 October 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReady+to+Die&amp;rft.au=Falzone%2C+Anthony&amp;rft.aufirst=Anthony&amp;rft.aulast=Falzone&amp;rft.btitle=Why%2C+Diddy%3F+Why%3F&amp;rft.date=18+October+2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcyberlaw.stanford.edu%2Fnode%2F5581&amp;rft.pub=The+Center+for+Internet+and+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation news">Beekman, Daniel (2 April 2014). <a rel="nofollow" class="external text" href="http://www.nydailynews.com/entertainment/music-arts/b-g-bucks-ripoff-lawsuit-article-1.1743783">"Former Impressions singer Lee Hutson slaps hip-hop mogul Diddy, Bad Boy Entertainment and estate of Notorious B.I.G. with copyright infringement lawsuit"</a>. <i><a href="/wiki/Daily_News_(New_York)" title="Daily News (New York)">Daily News</a></i><span class="reference-accessdate">. Retrieved 8 April 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReady+to+Die&amp;rft.atitle=Former+Impressions+singer+Lee+Hutson+slaps+hip-hop+mogul+Diddy%2C+Bad+Boy+Entertainment+and+estate+of+Notorious+B.I.G.+with+copyright+infringement+lawsuit&amp;rft.au=Beekman%2C+Daniel&amp;rft.aufirst=Daniel&amp;rft.aulast=Beekman&amp;rft.date=2+April+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nydailynews.com%2Fentertainment%2Fmusic-arts%2Fb-g-bucks-ripoff-lawsuit-article-1.1743783&amp;rft.jtitle=Daily+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation news">Gardner, Eriq (1 April 2014). <a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/thr-esq/notorious-big-estate-files-pre-692525">"Notorious B.I.G. Estate Files Pre-emptive Lawsuit Over Song Sample (Exclusive)"</a>. <i>The Hollywood Reporter</i><span class="reference-accessdate">. Retrieved 8 April 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReady+to+Die&amp;rft.atitle=Notorious+B.I.G.+Estate+Files+Pre-emptive+Lawsuit+Over+Song+Sample+%28Exclusive%29&amp;rft.aufirst=Eriq&amp;rft.au=Gardner%2C+Eriq&amp;rft.aulast=Gardner&amp;rft.date=1+April+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Fthr-esq%2Fnotorious-big-estate-files-pre-692525&amp;rft.jtitle=The+Hollywood+Reporter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RollingStone94-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-RollingStone94_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RollingStone94_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-RollingStone94_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-RollingStone94_13-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-RollingStone94_13-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-RollingStone94_13-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Coker, Cleo H. (November 3, 1994). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20090114112549/http://www.rollingstone.com/artists/notoriousbig/albums/album/192664/review/5946007/ready_to_die">"Notorious B.I.G.: Ready To Die&#160;: Music Reviews"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. Archived from the <a rel="nofollow" class="external text" href="http://www.rollingstone.com/artists/notoriousbig/albums/album/192664/review/5946007/ready_to_die">original</a> on January 14, 2009. Retrieved on December 30, 2012.</span></li>
+<li id="cite_note-AMG-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-AMG_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AMG_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AMG_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-AMG_14-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-AMG_14-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-AMG_14-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Steve Huey. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r203800">Ready to Die &gt; Overview</a>. Allmusic. Accessed May 15, 2008.</span></li>
+<li id="cite_note-NYTimes-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYTimes_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYTimes_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Touré (December 18, 1994). <a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9E04E7D81F39F93BA25751C1A962958260">Pop Music; Biggie Smalls, Rap's Man of the Moment</a>. <i>The New York Times</i>. Accessed March 26, 2008.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://books.wwnorton.com/books/detail-contents.aspx?ID=10626">Books.wwnorton.com</a></span></li>
+<li id="cite_note-Huey-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Huey_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Huey_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Huey_17-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Huey, Steve. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r203800">"Ready to Die - The Notorious B.I.G."</a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>. Retrieved on 2009-10-23.</span></li>
+<li id="cite_note-AMG-Singles-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-AMG-Singles_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AMG-Singles_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AMG-Singles_18-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r203800">Ready to Die - Billboard Singles</a>. Allmusic. Accessed May 15, 2008.</span></li>
+<li id="cite_note-RIAA-Singles-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-RIAA-Singles_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RIAA-Singles_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-RIAA-Singles_19-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=&amp;artist=Notorious%20B.I.G.&amp;format=single&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2007&amp;sort=Artist&amp;perPage=25">RIAA Searchable database - Notorious B.I.G. Singles</a>. RIAA. Accessed May 15, 2008.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://peterock.tribe.net/thread/032f66d2-a223-400c-a902-fe166be14676">Wax Poetic interview - Pete Rock - tribe.net</a></span></li>
+<li id="cite_note-Sanneh-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sanneh_21-0">^</a></b></span> <span class="reference-text">Sanneh, Kelefa. <a rel="nofollow" class="external text" href="http://www.blender.com/guide/reissue/52419/ready-to-die.html">"The Notorious B.I.G.: Ready to Die"</a>. <i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i>. Retrieved on 2009-10-31.<sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since December 2012">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-Christgau-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-Christgau_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Christgau_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Christgau, Robert. "<a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=Notorious+B.I.G.">Consumer Guide: <i>Ready to Die</i></a>". <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>: January 17, 1995. Archived from <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/cg/cgv195-95.php">the original</a> on 2009-10-23. Note: Christgau revised the original rating of honorable mention (**) to (A-).</span></li>
+<li id="cite_note-Toure-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Toure_23-0">^</a></b></span> <span class="reference-text">Toure (December 18, 1994). <a rel="nofollow" class="external text" href="http://www.nytimes.com/1994/12/18/arts/pop-music-biggie-smalls-rap-s-man-of-the-moment.html?pagewanted=3&amp;src=pm">"POP MUSIC; Biggie Smalls, Rap's Man of the Moment"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>. Retrieved on 2009-10-23.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Q_(magazine)" title="Q (magazine)" class="mw-redirect">Q</a></i>, December 1994</span></li>
+<li id="cite_note-Juon-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Juon_25-0">^</a></b></span> <span class="reference-text">Juon, Steve 'Flash' (February 13, 2002). <a rel="nofollow" class="external text" href="http://www.rapreviews.com/archive/BTTL_readytodie.html">"Notorious B.I.G.&#160;:: Ready to Die&#160;:: Bad Boy/Artista"</a>. RapReviews. Retrieved on 2009-11-08.</span></li>
+<li id="cite_note-Hoard-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hoard_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hoard_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Hoard, Christian. <a rel="nofollow" class="external text" href="http://books.google.com/books?id=lRgtYCC6OUwC&amp;pg=PA672&amp;dq=#v=onepage&amp;q=notorious%20b.i.g.&amp;f=false">The New Rolling Stone Album Guide</a>. Rolling Stone. Page 592.</span></li>
+<li id="cite_note-Shortie-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-Shortie_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Shortie_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Shortie (October 1994). <a rel="nofollow" class="external text" href="http://pressrewind.files.wordpress.com/2007/03/biggie_source1094.jpg">"The Notorious B.I.G.: Ready to Die"</a>. <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> (New York): 79. <a rel="nofollow" class="external text" href="http://www.webcitation.org/6E7I0chPZ">Archived</a> from the original on February 1, 2013<span class="reference-accessdate">. Retrieved February 1, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReady+to+Die&amp;rft.atitle=The+Notorious+B.I.G.%3A+Ready+to+Die&amp;rft.aulast=Shortie&amp;rft.au=Shortie&amp;rft.date=October+1994&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpressrewind.files.wordpress.com%2F2007%2F03%2Fbiggie_source1094.jpg&amp;rft.jtitle=The+Source&amp;rft.pages=79&amp;rft.place=New+York&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Murphy-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-Murphy_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Murphy_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Murphy, Killian (June 22, 2004). <a rel="nofollow" class="external text" href="http://www.stylusmagazine.com/articles/on_second_thought/notorious-big-ready-to-die.htm">"Notorious BIG - Ready to Die - On Second Thought"</a>. <a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a>. Retrieved on 2009-10-23.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/productinfo.asp?pid=6745145&amp;style=music">"Notorious B.I.G. - Ready to Die CD Album"</a>. <a href="/wiki/CD_Universe" title="CD Universe">CD Universe</a>. Retrieved 2012-06-22.</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Mojo_(magazine)" title="Mojo (magazine)">Mojo</a></i>, January 1996</span></li>
+<li id="cite_note-accolades-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-accolades_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-accolades_31-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-accolades_31-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.acclaimedmusic.net/Current/A921.htm">&lt; Acclaimedmusic.net</a></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">"Got Five on It". <i>The Source</i>. Issue # 150, March 2002. Page 176.</span></li>
+<li id="cite_note-1BAotN-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-1BAotN_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-1BAotN_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/lists/100-best-albums-of-the-nineties-20110427/the-notorious-b-i-g-ready-to-die-19691231">100 Best Albums of the Nineties</a>. <i>Rolling Stone</i>. 2011.</span></li>
+<li id="cite_note-ac_France_The_Notorious_B.I.G.-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_France_The_Notorious_B.I.G._34-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.lescharts.com/showitem.asp?interpret=The+Notorious+B.I.G.&amp;titel=Ready+to+Die&amp;cat=a">The Notorious B.I.G. – Ready to Die"</a>. Lescharts.com. Hung Medien. Retrieved October 11, 2011.</span></li>
+<li id="cite_note-ac_Billboard200_The_Notorious_B.I.G.-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Billboard200_The_Notorious_B.I.G._35-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/418733/notorious-big/chart?f=305">"The Notorious B.I.G. Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Billboard_200" title="Billboard 200">200</a> for The Notorious B.I.G.. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved October 10, 2013.</span></li>
+<li id="cite_note-ac_BillboardRandBHipHop_The_Notorious_B.I.G.-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_BillboardRandBHipHop_The_Notorious_B.I.G._36-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/418733/notorious-big/chart?f=333">The Notorious B.I.G. Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> for The Notorious B.I.G.. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved October 10, 2013.</span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r203800">"Ready to Die - Charts &amp; Awards - Billboard Singles"</a>. allmusic<span class="reference-accessdate">. Retrieved 2009-01-25</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReady+to+Die&amp;rft.btitle=Ready+to+Die+-+Charts+%26+Awards+-+Billboard+Singles&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr203800&amp;rft.pub=allmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://rap.about.com/od/toppicks/ss/Top100RapAlbums_10.htm">Rap.about.com</a></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">Adaso, Henry. <a rel="nofollow" class="external text" href="http://rap.about.com/od/top10albums/ss/90sBestRapMusic_5.htm">Best Rap Albums of 1994</a>. <a href="/wiki/About.com" title="About.com">about.com</a>. Retrieved 2010-07-08.</span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">Adaso, Henry. <a rel="nofollow" class="external text" href="http://rap.about.com/od/top10albums/ss/EssentialAlbums_8.htm">10 Essential Hip-Hop Albums</a>. About.com. Retrieved 2010-09-02.</span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mtv.com/bands/h/hip_hop_week/2005/greatest_albums_0505/index8.jhtml">MTV.com</a></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.trevornelson.com/nonflash/top100.asp">Trevornelson.com</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/Notorious-BIG-The-Ready-To-Die/master/57970">Ready to Die</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.xxlmag.com/online/?p=408">The Making of <i>Ready to Die</i></a> by <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i></li>
+<li><a rel="nofollow" class="external text" href="http://books.google.com/books?id=cy4EAAAAMBAJ&amp;pg=PA42&amp;dq=">Next: The Notorious B.I.G.</a>&#160;— By <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:The_Notorious_B.I.G." title="Template:The Notorious B.I.G."><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:The_Notorious_B.I.G." title="Template talk:The Notorious B.I.G."><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Notorious_B.I.G.&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><strong class="selflink">Ready to Die</strong></i></li>
+<li><i><a href="/wiki/Life_After_Death" title="Life After Death">Life After Death</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Junior M.A.F.I.A.</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Conspiracy_(Junior_M.A.F.I.A._album)" title="Conspiracy (Junior M.A.F.I.A. album)">Conspiracy</a></i></li>
+<li>"<a href="/wiki/Player%27s_Anthem" title="Player's Anthem">Player's Anthem</a>"</li>
+<li>"<a href="/wiki/I_Need_You_Tonight_(Junior_M.A.F.I.A._song)" title="I Need You Tonight (Junior M.A.F.I.A. song)">I Need You Tonight</a>"</li>
+<li>"<a href="/wiki/Get_Money_(Junior_M.A.F.I.A._song)" title="Get Money (Junior M.A.F.I.A. song)">Get Money</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Posthumous albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Born_Again_(The_Notorious_B.I.G._album)" title="Born Again (The Notorious B.I.G. album)">Born Again</a></i></li>
+<li><i><a href="/wiki/Duets:_The_Final_Chapter" title="Duets: The Final Chapter">Duets: The Final Chapter</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Party_and_Bullshit" title="Party and Bullshit">Party and Bullshit</a>"</li>
+<li>"<a href="/wiki/Juicy_(The_Notorious_B.I.G._song)" title="Juicy (The Notorious B.I.G. song)">Juicy</a>"</li>
+<li>"<a href="/wiki/Big_Poppa" title="Big Poppa">Big Poppa</a>" / "<a href="/wiki/Who_Shot_Ya%3F" title="Who Shot Ya?">Who Shot Ya?</a>"</li>
+<li>"<a href="/wiki/One_More_Chance_(The_Notorious_B.I.G._song)" title="One More Chance (The Notorious B.I.G. song)">One More Chance</a>"</li>
+<li>"<a href="/wiki/Hypnotize_(The_Notorious_B.I.G._song)" title="Hypnotize (The Notorious B.I.G. song)">Hypnotize</a>"</li>
+<li>"<a href="/wiki/Mo_Money_Mo_Problems" title="Mo Money Mo Problems">Mo Money Mo Problems</a>"</li>
+<li>"<a href="/wiki/Sky%27s_the_Limit_(song)" title="Sky's the Limit (song)">Sky's the Limit</a>"</li>
+<li>"<a href="/wiki/Notorious_B.I.G._(song)" title="Notorious B.I.G. (song)">Notorious B.I.G.</a>"</li>
+<li>"<a href="/wiki/Dead_Wrong_(song)" title="Dead Wrong (song)">Dead Wrong</a>"</li>
+<li>"<a href="/wiki/Nasty_Girl_(The_Notorious_B.I.G._song)" title="Nasty Girl (The Notorious B.I.G. song)">Nasty Girl</a>"</li>
+<li>"<a href="/wiki/Spit_Your_Game" title="Spit Your Game">Spit Your Game</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Guest singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Flava_in_Ya_Ear" title="Flava in Ya Ear">Flava in Ya Ear - Remix</a>"</li>
+<li>"<a href="/wiki/Can%27t_You_See_(Total_song)" title="Can't You See (Total song)">Can't You See</a>"</li>
+<li>"<a href="/wiki/The_Points" title="The Points">The Points</a>"</li>
+<li>"<a href="/wiki/Runnin%27_(From_tha_Police)" title="Runnin' (From tha Police)" class="mw-redirect">Runnin' (From tha Police)</a>"</li>
+<li>"<a href="/wiki/This_Time_Around_(Michael_Jackson_song)" title="This Time Around (Michael Jackson song)">This Time Around</a>"</li>
+<li>"<a href="/wiki/It%27s_All_About_the_Benjamins" title="It's All About the Benjamins">It's All About the Benjamins</a>"</li>
+<li>"<a href="/wiki/Victory_(Puff_Daddy_song)" title="Victory (Puff Daddy song)">Victory</a>"</li>
+<li>"<a href="/wiki/Runnin%27_(Dying_to_Live)" title="Runnin' (Dying to Live)">Runnin' (Dying to Live)</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Greatest_Hits_(The_Notorious_B.I.G._album)" title="Greatest Hits (The Notorious B.I.G. album)">Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Notorious_(soundtrack)" title="Notorious (soundtrack)">Notorious: Original Motion Picture Soundtrack</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/The_Notorious_B.I.G._discography" title="The Notorious B.I.G. discography">Discography</a></li>
+<li><a href="/wiki/Sean_Combs" title="Sean Combs">Sean Combs</a></li>
+<li><a href="/wiki/Faith_Evans" title="Faith Evans">Faith Evans</a></li>
+<li><a href="/wiki/Junior_M.A.F.I.A." title="Junior M.A.F.I.A.">Junior M.A.F.I.A.</a></li>
+<li><a href="/wiki/Lil%27_Cease" title="Lil' Cease">Lil' Cease</a></li>
+<li><a href="/wiki/The_Commission_(hip_hop)" title="The Commission (hip hop)" class="mw-redirect">The Commission</a></li>
+<li><a href="/wiki/East_Coast%E2%80%93West_Coast_hip_hop_rivalry" title="East Coast–West Coast hip hop rivalry">East Coast-West Coast hip hop rivalry</a></li>
+<li>"<a href="/wiki/I%27ll_Be_Missing_You" title="I'll Be Missing You">I'll Be Missing You</a>"</li>
+<li><i><a href="/wiki/Biggie_%26_Tupac" title="Biggie &amp; Tupac">Biggie &amp; Tupac</a></i></li>
+<li><i><a href="/wiki/Notorious_(2009_film)" title="Notorious (2009 film)">Notorious</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><span id="interwiki-pt-ga"></span></p>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1069
+CPU time usage: 3.228 seconds
+Real time usage: 3.390 seconds
+Preprocessor visited node count: 12474/1000000
+Preprocessor generated node count: 128148/1500000
+Post‐expand include size: 104086/2048000 bytes
+Template argument size: 17012/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 5/500
+Lua time usage: 0.136/10.000 seconds
+Lua memory usage: 2.64 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:217181-0!*!0!!en!4!* and timestamp 20140530163332 and revision id 610809527
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Ready_to_Die&amp;oldid=610809527">http://en.wikipedia.org/w/index.php?title=Ready_to_Die&amp;oldid=610809527</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:The_Notorious_B.I.G._albums" title="Category:The Notorious B.I.G. albums">The Notorious B.I.G. albums</a></li><li><a href="/wiki/Category:1994_debut_albums" title="Category:1994 debut albums">1994 debut albums</a></li><li><a href="/wiki/Category:Bad_Boy_Records_albums" title="Category:Bad Boy Records albums">Bad Boy Records albums</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Premier" title="Category:Albums produced by DJ Premier">Albums produced by DJ Premier</a></li><li><a href="/wiki/Category:Albums_produced_by_Easy_Mo_Bee" title="Category:Albums produced by Easy Mo Bee">Albums produced by Easy Mo Bee</a></li><li><a href="/wiki/Category:Albums_produced_by_Lord_Finesse" title="Category:Albums produced by Lord Finesse">Albums produced by Lord Finesse</a></li><li><a href="/wiki/Category:Albums_produced_by_Sean_Combs" title="Category:Albums produced by Sean Combs">Albums produced by Sean Combs</a></li><li><a href="/wiki/Category:Albums_produced_by_Trackmasters" title="Category:Albums produced by Trackmasters">Albums produced by Trackmasters</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_albums" title="Category:East Coast hip hop albums">East Coast hip hop albums</a></li><li><a href="/wiki/Category:Hardcore_hip_hop_albums" title="Category:Hardcore hip hop albums">Hardcore hip hop albums</a></li><li><a href="/wiki/Category:Gangsta_rap_albums" title="Category:Gangsta rap albums">Gangsta rap albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_December_2012" title="Category:Articles with dead external links from December 2012">Articles with dead external links from December 2012</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ready+to+Die&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ready+to+Die" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ready_to_Die"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ready_to_Die"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ready_to_Die" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ready_to_Die&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ready_to_Die&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ready_to_Die" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ready_to_Die" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Ready_to_Die&amp;oldid=610809527" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Ready_to_Die&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q529999" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Ready_to_Die&amp;id=610809527" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ready+to+Die">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ready+to+Die&amp;oldid=610809527&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Ready_to_Die&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Ready_to_Die" title="Ready to Die – Azerbaijani" lang="az" hreflang="az">Azərbaycanca</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Ready_to_Die" title="Ready to Die – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Ready_to_Die_(%C3%A1lbum_de_Notorious_B.I.G.)" title="Ready to Die (álbum de Notorious B.I.G.) – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A2%D9%85%D8%A7%D8%AF%D9%87_%D8%A8%D8%B1%D8%A7%DB%8C_%D9%85%D8%B1%D8%AF%D9%86" title="آماده برای مردن – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Ready_to_Die" title="Ready to Die – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Ready_to_Die" title="Ready to Die – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Ready_to_Die" title="Ready to Die – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Ready_to_Die" title="Ready to Die – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BB%E3%83%88%E3%82%A5%E3%83%BB%E3%83%80%E3%82%A4" title="レディ・トゥ・ダイ – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Ready_to_Die" title="Ready to Die – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Ready_to_Die_(album_Notoriousa_B.I.G.)" title="Ready to Die (album Notoriousa B.I.G.) – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Ready_to_Die" title="Ready to Die – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Ready_to_Die" title="Ready to Die – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Ready_to_Die" title="Ready to Die – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Ready_to_Die" title="Ready to Die – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Ready_to_Die" title="Ready to Die – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Ready_to_Die" title="Ready to Die – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/Ready_to_Die" title="Ready to Die – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q529999#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 May 2014 at 16:33.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Ready_to_Die" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"mw.PopUpMediaTransform":"loading","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mw.PopUpMediaTransform&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":335,"wgHostname":"mw1083"});
+}</script>
+	</body>
+</html>
+	

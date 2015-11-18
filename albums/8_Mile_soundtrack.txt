@@ -1,0 +1,1120 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Music from and Inspired by the Motion Picture 8 Mile - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Music_from_and_Inspired_by_the_Motion_Picture_8_Mile" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Music_from_and_Inspired_by_the_Motion_Picture_8_Mile" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Music_from_and_Inspired_by_the_Motion_Picture_8_Mile","wgTitle":"Music from and Inspired by the Motion Picture 8 Mile","wgCurRevisionId":608145032,"wgRevisionId":608145032,"wgArticleId":1466276,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Certification Table Entry usages for Australia","Albums certified quadruple platinum by the Australian Recording Industry Association","Certification Table Entry usages for Belgium","Albums certified gold by the Belgian Entertainment Association","Certification Table Entry usages for Canada","Albums certified quintuple platinum by the Canadian Recording Industry Association","Certification Table Entry usages for Denmark","Albums certified platinum by the International Federation of the Phonographic Industry of Denmark","Certification Table Entry usages for Finland","Albums certified gold by Musiikkituottajat","Certification Table Entry usages for France","Albums certified gold by the Syndicat National de l'Édition Phonographique","Certification Table Entry usages for Greece","Albums certified platinum by the International Federation of the Phonographic Industry of Greece","Certification Table Entry usages for Hungary","Albums certified gold by Mahasz","Certification Table Entry usages for Netherlands","Albums certified gold by the Nederlandse Vereniging van Producenten en Importeurs van beeld- en geluidsdragers","Certification Table Entry usages for New Zealand","Albums certified quadruple platinum by Recorded Music NZ","Certification Table Entry usages for Spain","Albums certified platinum by the Productores de Música de España","Certification Table Entry usages for Sweden","Albums certified gold by the International Federation of the Phonographic Industry of Sweden","Certification Table Entry usages for Switzerland","Albums certified platinum by the International Federation of the Phonographic Industry of Switzerland","Certification Table Entry usages for United Kingdom","Albums certified double platinum by the British Phonographic Industry","Certification Table Entry usages for United States","Albums certified multi-platinum by the Recording Industry Association of America","Certification Table Entry usages for Europe","Albums certified double platinum by the International Federation of the Phonographic Industry","Film soundtracks","Songs about Detroit","Hip hop soundtracks","Eminem albums","Albums produced by Eminem","Albums produced by Denaun Porter","Albums produced by DJ Premier","2002 soundtracks","Shady Records soundtracks","Aftermath Entertainment soundtracks","Aftermath Entertainment albums","English-language soundtracks"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Music_from_and_Inspired_by_the_Motion_Picture_8_Mile","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"8_Mile_(soundtrack)","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q274911"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Music_from_and_Inspired_by_the_Motion_Picture_8_Mile skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Music from and Inspired by the Motion Picture 8 Mile</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub">  (Redirected from <a href="/w/index.php?title=8_Mile_(soundtrack)&amp;redirect=no" title="8 Mile (soundtrack)">8 Mile (soundtrack)</a>)</div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: gainsboro;">Music from and Inspired by the Motion Picture 8 Mile</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:8milecover.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/3/39/8milecover.jpg/220px-8milecover.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/3/39/8milecover.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/3/39/8milecover.jpg 2x" data-file-width="300" data-file-height="300" /></a>
+<div>Cover to original soundtrack</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: gainsboro;"><a href="/wiki/Soundtrack_album" title="Soundtrack album">Soundtrack album</a> by <span class="contributor">various artists</span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">October&#160;29,&#160;2002<span style="display:none">&#160;(<span class="bday dtstart published updated">2002-10-29</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>2001-2002</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td><span class="duration"><span class="min">68</span>:<span class="s">13</span></span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Shady_Records" title="Shady Records">Shady</a>, <a href="/wiki/Interscope_Records" title="Interscope Records">Interscope</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr>
+<th colspan="3" style="text-align: center; background-color: gainsboro"><i>More Music from 8 Mile</i> cover</th>
+</tr>
+<tr>
+<td colspan="3" style="text-align: center"><a href="/wiki/File:More_Music_from_8_Mile.jpg" class="image" title="More Music from 8 Mile cover"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/bd/More_Music_from_8_Mile.jpg/220px-More_Music_from_8_Mile.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/b/bd/More_Music_from_8_Mile.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/b/bd/More_Music_from_8_Mile.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="3" style="text-align: center; background: gainsboro;"><a href="/wiki/Eminem" title="Eminem">Eminem</a> compilation chronology</th>
+</tr>
+<tr>
+<td colspan="3" style="text-align: center">
+<table cellspacing="0" cellpadding="0" width="100%" style="background: transparent;">
+<tr style="text-align: center; line-height: 1.4em;">
+<td style="width: 33%; vertical-align: top; padding: 0.2em 0.1em 0.2em 0;"></td>
+<td style="width: 33%; vertical-align: top; padding: 0.2em 0.1em 0.2em 0.1em;"><i><b>Music from and Inspired by the Motion Picture 8 Mile</b></i><br />
+(2002)</td>
+<td style="width: 33%; vertical-align: top; padding: 0.2em 0 0.2em 0.1em;"><i><a href="/wiki/Straight_from_the_Lab" title="Straight from the Lab">Straight from the Lab</a></i><br />
+(2003)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:gainsboro;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Music from and Inspired by the Motion Picture 8 Mile</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Lose_Yourself" title="Lose Yourself">Lose Yourself</a>"</span><br />
+Released: October 22, 2002</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Wanksta" title="Wanksta">Wanksta</a>"</span><br />
+Released: November 6, 2002</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/8_Mile" title="8 Mile">8 Mile</a>"</span><br />
+Released: 2003</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>Music from and Inspired by the Motion Picture 8 Mile</b></i> is the official <a href="/wiki/Soundtrack" title="Soundtrack">soundtrack</a> to the 2002 movie <i><a href="/wiki/8_Mile_(film)" title="8 Mile (film)">8 Mile</a></i>. The album, performed by various artists, was released under Shady Records. It spawned the hit single "<a href="/wiki/Lose_Yourself" title="Lose Yourself">Lose Yourself</a>" by American rapper <a href="/wiki/Eminem" title="Eminem">Eminem</a>, who also stars in the semi-autobiographical movie. The album also spawned a follow up soundtrack, <i><b>More Music from 8 Mile</b></i>, consisting of songs that appear in the film and were released as singles during the film's time setting of 1995. One of the songs was performed by <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a>, who would be the subject of a <a href="/wiki/Tupac:_Resurrection" title="Tupac: Resurrection">documentary</a> with a <a href="/wiki/Tupac:_Resurrection_(soundtrack)" title="Tupac: Resurrection (soundtrack)">soundtrack produced by Eminem</a>, who also produced a <a href="/wiki/Loyal_to_the_Game" title="Loyal to the Game">posthumous album by Tupac</a>. The album also features four songs by the <a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a> and its members, and two songs by <a href="/wiki/Mobb_Deep" title="Mobb Deep">Mobb Deep</a>, who eventually signed to <a href="/wiki/G-Unit_Records" title="G-Unit Records">G-Unit Records</a>, headed by Shady Records artist <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a>. Both albums were also made available in censored versions, removing most of the strong profanity and violent content.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Charts"><span class="tocnumber">1</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Content_and_censorship"><span class="tocnumber">2</span> <span class="toctext">Content and censorship</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Track_listing"><span class="tocnumber">3</span> <span class="toctext">Track listing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#8_Mile"><span class="tocnumber">3.1</span> <span class="toctext"><i>8 Mile</i></span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#More_Music_from_8_Mile"><span class="tocnumber">3.2</span> <span class="toctext"><i>More Music from 8 Mile</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Chart_positions"><span class="tocnumber">4</span> <span class="toctext">Chart positions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Album"><span class="tocnumber">4.1</span> <span class="toctext">Album</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Singles"><span class="tocnumber">4.2</span> <span class="toctext">Singles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Certifications"><span class="tocnumber">5</span> <span class="toctext">Certifications</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=edit&amp;section=1" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The album debuted at number one on the <a href="/wiki/U.S." title="U.S." class="mw-redirect">U.S.</a> <a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a> Albums Chart that year with over 702,000 copies sold and 507,000 sold in the second week also finishing the year as the fifth best-selling album of 2002 with US sales of 3.4 million, despite only two months of release. As of March 2012, it has sold more than 4,854,000 albums.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> It debuted at #1 on the Canadian Albums Chart with sales of 44,500 copies.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> It also reached #1 on the <a href="/wiki/United_Kingdom" title="United Kingdom">UK</a> Compilations Chart <a href="/wiki/Australia" title="Australia">Australian</a> <a href="/wiki/ARIAnet" title="ARIAnet" class="mw-redirect">ARIAnet</a> Albums Chart. It featured Eminem's worldwide chart-topping single, "<a href="/wiki/Lose_Yourself" title="Lose Yourself">Lose Yourself</a>".</p>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf;font-size:120%;">Aggregate scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Metacritic" title="Metacritic">Metacritic</a></td>
+<td>74/100 <sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></td>
+<td style="vertical-align:middle">B− <sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/NME" title="NME">NME</a></td>
+<td style="vertical-align:middle">7/10 <sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">RapReviews.com</td>
+<td style="vertical-align:middle">7.5/10 <sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">411Mania</td>
+<td style="vertical-align:middle">9.0/10 <sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Uncut_(magazine)" title="Uncut (magazine)">Uncut</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Q_Magazine" title="Q Magazine" class="mw-redirect">Q Magazine</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Empire_Magazine" title="Empire Magazine" class="mw-redirect">Empire Magazine</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/NME" title="NME">NME</a></td>
+<td style="vertical-align:middle">9/10<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">HipHopDX</td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Content_and_censorship">Content and censorship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=edit&amp;section=2" title="Edit section: Content and censorship">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The clean version of the <i>8 Mile</i> soundtrack removes most of the profanity and violent content. The only word left uncensored on the soundtrack, is the word "ass" (except on "Places to Go" by 50 Cent, where the word "ass" is used twice, but the word was only censored once). No other words (e.g., "bitch", "shit" and "goddamn") are uncensored on the clean version of "8 Mile". "That's My Nigga Fo' Real", by rapper <a href="/wiki/Young_Zee" title="Young Zee" class="mw-redirect">Young Zee</a>, is listed as "That's My ***** Fo' Real" on the clean version. In "Rap Game" by <a href="/wiki/D12" title="D12">D12</a> featuring 50 Cent in <a href="/wiki/Proof_(rapper)" title="Proof (rapper)">Proof</a>'s verse, the word "shit" is uncensored (even on the clean version), and in Eminem's verse, the words "<a href="/wiki/White_House" title="White House">White House</a>" and "<a href="/wiki/Dick_Cheney" title="Dick Cheney">Cheney</a>" are censored on both edited and explicit versions. In "Rabbit Run" by Eminem, the word "fuck" was uncensored in the clean version of the soundtrack.</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=edit&amp;section=3" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="8_Mile"><i>8 Mile</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=edit&amp;section=4" title="Edit section: 8 Mile">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Lose_Yourself" title="Lose Yourself">Lose Yourself</a>" <span style="font-size:85%;">(<a href="/wiki/Eminem" title="Eminem">Eminem</a>)</span></td>
+<td style="vertical-align: top;">M. Mathers, L. Resto, J. Bass</td>
+<td style="vertical-align: top;">Eminem, J. Bass (add.), Luis Resto (add.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:26</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Love Me" <span style="font-size:85%;">(Eminem/<a href="/wiki/Obie_Trice" title="Obie Trice">Obie Trice</a>/<a href="/wiki/50_Cent" title="50 Cent">50 Cent</a>)</span></td>
+<td style="vertical-align: top;">M. Mathers, L. Resto, O. Trice, 50 Cent</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:30</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"8 Mile" <span style="font-size:85%;">(Eminem)</span></td>
+<td style="vertical-align: top;">M. Mathers, L. Resto</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:00</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Adrenaline Rush" <span style="font-size:85%;">(Obie Trice)</span></td>
+<td style="vertical-align: top;">A. Thelusma, Obie Trice</td>
+<td style="vertical-align: top;"><a href="/wiki/Red_Spyda" title="Red Spyda">Red Spyda</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:48</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Places to Go" <span style="font-size:85%;">(50 Cent)</span></td>
+<td style="vertical-align: top;">C. Jackson, M. Mathers, L. Resto</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:15</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Rap Game" <span style="font-size:85%;">(<a href="/wiki/D12" title="D12">D12</a>/50 Cent)</span></td>
+<td style="vertical-align: top;">V. Carlisle, D. Holton, R. Johnson, M. Mathers, O. Moore, D. Porter, L. Resto</td>
+<td style="vertical-align: top;"><a href="/wiki/Mr._Porter" title="Mr. Porter">Denaun Porter</a>, Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:53</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"8 Miles and Runnin'" <span style="font-size:85%;">(<a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> featuring <a href="/wiki/Freeway_(rapper)" title="Freeway (rapper)">Freeway</a>)</span></td>
+<td style="vertical-align: top;">S. Carter, M. Mathers, L. Pridgen, L. Resto</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:08</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Spit Shine" <span style="font-size:85%;">(<a href="/wiki/Xzibit" title="Xzibit">Xzibit</a>)</span></td>
+<td style="vertical-align: top;">A. Joiner, D. Porter</td>
+<td style="vertical-align: top;">Denaun Porter</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:39</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Time of My Life" <span style="font-size:85%;">(<a href="/wiki/Macy_Gray" title="Macy Gray">Macy Gray</a>)</span></td>
+<td style="vertical-align: top;">M. Elizondo, Macy Gray, D. Ross</td>
+<td style="vertical-align: top;">D. Ross, J. Gamble, <a href="/wiki/Mike_Elizondo" title="Mike Elizondo">Mike Elizondo</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:21</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"U Wanna Be Me" <span style="font-size:85%;">(<a href="/wiki/Nas" title="Nas">Nas</a>)</span></td>
+<td style="vertical-align: top;">N. Jones, C. Thompson</td>
+<td style="vertical-align: top;"><a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a>, <a href="/wiki/Nas" title="Nas">Nas</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:50</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Wanksta" title="Wanksta">Wanksta</a>" <span style="font-size:85%;">(50 Cent)</span></td>
+<td style="vertical-align: top;">C. Jackson</td>
+<td style="vertical-align: top;">John "J-Praize" Freeman<br />
+(mixed by <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:38</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Wasting My Time" <span style="font-size:85%;">(<a href="/wiki/Boomkat" title="Boomkat">Boomkat</a> (<a href="/wiki/Taryn_Manning" title="Taryn Manning">Taryn Manning</a>))</span></td>
+<td style="vertical-align: top;">T. Manning, K. Manning, J. Taylor</td>
+<td style="vertical-align: top;">K. Manning, M. Pradler</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:37</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"R.A.K.I.M." <span style="font-size:85%;">(<a href="/wiki/Rakim" title="Rakim">Rakim</a>)</span></td>
+<td style="vertical-align: top;">W. Griffith, L. E. King, D. Porter</td>
+<td style="vertical-align: top;">Denaun Porter</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:23</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"That's My Nigga fo' Real" <span style="font-size:85%;">(<a href="/wiki/Young_Zee" title="Young Zee" class="mw-redirect">Young Zee</a>)</span></td>
+<td style="vertical-align: top;">D. Battle, D. Ross</td>
+<td style="vertical-align: top;">D. Ross, J. Gamble</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:45</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Battle" <span style="font-size:85%;">(<a href="/wiki/Gang_Starr" title="Gang Starr">Gang Starr</a>)</span></td>
+<td style="vertical-align: top;">J.R. Baxter, P. Chapman, K. Elam, K. Holley, A. Johnson, N. Jones, C. Martin, K. Muchita, S. Moltke, M. Williams</td>
+<td style="vertical-align: top;"><a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>, <a href="/wiki/Guru_(rapper)" title="Guru (rapper)">Guru</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:56</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Rabbit Run" <span style="font-size:85%;">(Eminem)</span></td>
+<td style="vertical-align: top;">M. Mathers, L. Resto</td>
+<td style="vertical-align: top;">Eminem, Luis Resto</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:10</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff"><i>8 Mile: The Special Edition Bonus Disc</i><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Rap_Name" title="Rap Name">Rap Name</a>" <span style="font-size:85%;">(Obie Trice)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:01</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Stimulate" <span style="font-size:85%;">(Eminem)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:03</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/%27Till_I_Collapse" title="'Till I Collapse">'Till I Collapse</a>" <span style="font-size:85%;">(Remix) (50 Cent)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:26</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Gangsta" <span style="font-size:85%;">(<a href="/wiki/Joe_Smith_(basketball)" title="Joe Smith (basketball)">Joe Beast</a>)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Mel-Man" title="Mel-Man">Mel-Man</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:35</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"The Weekend" <span style="font-size:85%;">(Brooklyn)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:05</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"California" <span style="font-size:85%;">(Shaunta)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">Mahogany Music</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:27</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="More_Music_from_8_Mile"><i>More Music from 8 Mile</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=edit&amp;section=5" title="Edit section: More Music from 8 Mile">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 100%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Shook_Ones_(Part_II)" title="Shook Ones (Part II)">Shook Ones (Part II)</a>" <span style="font-size:85%;">(by <a href="/wiki/Mobb_Deep" title="Mobb Deep">Mobb Deep</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:26</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Juicy_(The_Notorious_B.I.G._song)" title="Juicy (The Notorious B.I.G. song)">Juicy</a>" <span style="font-size:85%;">(by <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:11</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Gotta Get Mine" <span style="font-size:85%;">(by <a href="/wiki/MC_Breed" title="MC Breed">MC Breed</a> and <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">2Pac</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:18</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Feel_Me_Flow" title="Feel Me Flow">Feel Me Flow</a>" <span style="font-size:85%;">(by <a href="/wiki/Naughty_by_Nature" title="Naughty by Nature">Naughty by Nature</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:34</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Player%27s_Ball" title="Player's Ball">Player's Ball</a>" <span style="font-size:85%;">(by <a href="/wiki/OutKast" title="OutKast" class="mw-redirect">OutKast</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:53</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Get_Money_(Junior_M.A.F.I.A._song)" title="Get Money (Junior M.A.F.I.A. song)">Get Money</a>" <span style="font-size:85%;">(by <a href="/wiki/Junior_M.A.F.I.A." title="Junior M.A.F.I.A.">Junior M.A.F.I.A.</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:34</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/I%27ll_Be_There_for_You/You%27re_All_I_Need_to_Get_By" title="I'll Be There for You/You're All I Need to Get By">I'll Be There for You/You're All I Need to Get By</a>" <span style="font-size:85%;">(by <a href="/wiki/Method_Man" title="Method Man">Method Man</a> and <a href="/wiki/Mary_J._Blige" title="Mary J. Blige">Mary J. Blige</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:45</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Shimmy_Shimmy_Ya" title="Shimmy Shimmy Ya">Shimmy Shimmy Ya</a>" <span style="font-size:85%;">(by <a href="/wiki/Ol%27_Dirty_Bastard" title="Ol' Dirty Bastard">Ol' Dirty Bastard</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:41</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Bring_the_Pain" title="Bring the Pain">Bring the Pain</a>" <span style="font-size:85%;">(by Method Man)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:09</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/C.R.E.A.M." title="C.R.E.A.M.">C.R.E.A.M.</a>" <span style="font-size:85%;">(by <a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:12</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Runnin%27" title="Runnin'" class="mw-redirect">Runnin'</a>" <span style="font-size:85%;">(by <a href="/wiki/The_Pharcyde" title="The Pharcyde">The Pharcyde</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:56</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Survival_of_the_Fittest_(song)" title="Survival of the Fittest (song)">Survival of the Fittest</a>" <span style="font-size:85%;">(by Mobb Deep)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:43</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=edit&amp;section=6" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Album">Album</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=edit&amp;section=7" title="Edit section: Album">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th scope="col">Year</th>
+<th scope="col">Chart</th>
+<th scope="col">Peak position</th>
+</tr>
+<tr>
+<td rowspan="2">2002</td>
+<td><i>Billboard</i> 200</td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td>Japan <i><a href="/wiki/Oricon" title="Oricon">Oricon</a></i> albums chart<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td rowspan="4">2003</td>
+<td><i>Billboard</i> 200</td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td>Australian <a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">ARIA</a> Albums Chart</td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td><a href="/wiki/IFPI_Greece" title="IFPI Greece">Greek Albums Chart</a><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td>Polish Albums (<a href="/wiki/Polish_Society_of_the_Phonographic_Industry" title="Polish Society of the Phonographic Industry">ZPAV</a>)<sup id="cite_ref-ac_Poland__19-0" class="reference"><a href="#cite_note-ac_Poland_-19"><span>[</span>19<span>]</span></a></sup></td>
+<td align="center">2</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=edit&amp;section=8" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th scope="col">Year</th>
+<th scope="col">Single</th>
+<th scope="col">Chart</th>
+<th scope="col">Peak position</th>
+</tr>
+<tr>
+<td rowspan="4">2002</td>
+<td rowspan="4">"Lose Yourself"</td>
+<td>The Billboard Hot 100</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Mainstream Top 40</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Hot Rap Tracks</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Hot R&amp;B/Hip-Hop Singles</td>
+<td>1</td>
+</tr>
+<tr>
+<td rowspan="4">2003</td>
+<td rowspan="3">"Wanksta"</td>
+<td>The Billboard Hot 100</td>
+<td>13</td>
+</tr>
+<tr>
+<td>Hot Rap Tracks</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Hot R&amp;B/Hip-Hop Singles &amp; Tracks</td>
+<td>4</td>
+</tr>
+<tr>
+<td>"8 Mile..."</td>
+<td>Hot R&amp;B/Hip-Hop Singles</td>
+<td>54</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Certifications">Certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=edit&amp;section=9" title="Edit section: Certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable plainrowheaders">
+<tr>
+<th scope="col">Region</th>
+<th scope="col">Certification</th>
+<th scope="col" data-sort-type="number"><a href="/wiki/List_of_music_recording_certifications" title="List of music recording certifications">Sales/shipments</a></th>
+</tr>
+<tr>
+<th scope="row">Australia (<a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">ARIA</a>)<sup id="cite_ref-AustraliaSoundtrack8_MilealbumCertRef_20-0" class="reference"><a href="#cite_note-AustraliaSoundtrack8_MilealbumCertRef-20"><span>[</span>20<span>]</span></a></sup></th>
+<td>4× Platinum</td>
+<td>280,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">Belgium (<a href="/wiki/Belgian_Entertainment_Association" title="Belgian Entertainment Association">BEA</a>)<sup id="cite_ref-BelgiumOst8_MilealbumCertRef_21-0" class="reference"><a href="#cite_note-BelgiumOst8_MilealbumCertRef-21"><span>[</span>21<span>]</span></a></sup></th>
+<td>Gold</td>
+<td>25,000<sup>*</sup></td>
+</tr>
+<tr>
+<th scope="row">Canada (<a href="/wiki/Music_Canada" title="Music Canada">Music Canada</a>)<sup id="cite_ref-CanadaVarious_Artists8_MilealbumCertRef_22-0" class="reference"><a href="#cite_note-CanadaVarious_Artists8_MilealbumCertRef-22"><span>[</span>22<span>]</span></a></sup></th>
+<td>5× Platinum</td>
+<td>500,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">Denmark (<a href="/wiki/IFPI_Denmark" title="IFPI Denmark">IFPI Denmark</a>)<sup id="cite_ref-DenmarkSOUNDTRACK8_MilealbumCertRef_23-0" class="reference"><a href="#cite_note-DenmarkSOUNDTRACK8_MilealbumCertRef-23"><span>[</span>23<span>]</span></a></sup></th>
+<td>Platinum</td>
+<td>50,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">Finland (<a href="/wiki/Musiikkituottajat_%E2%80%93_IFPI_Finland" title="Musiikkituottajat – IFPI Finland">Musiikkituottajat</a>)<sup id="cite_ref-FinlandSoundtrack8_MilealbumCertRef_24-0" class="reference"><a href="#cite_note-FinlandSoundtrack8_MilealbumCertRef-24"><span>[</span>24<span>]</span></a></sup></th>
+<td>Gold</td>
+<td>21,281<sup id="cite_ref-FinlandSoundtrack8_MilealbumCertRef_24-1" class="reference"><a href="#cite_note-FinlandSoundtrack8_MilealbumCertRef-24"><span>[</span>24<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">France (<a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">SNEP</a>)<sup id="cite_ref-FranceEminemBOF_8_MilealbumCertRef_25-0" class="reference"><a href="#cite_note-FranceEminemBOF_8_MilealbumCertRef-25"><span>[</span>25<span>]</span></a></sup></th>
+<td>Gold</td>
+<td>100,000<sup>*</sup></td>
+</tr>
+<tr>
+<th scope="row">Greece (<a href="/wiki/International_Federation_of_the_Phonographic_Industry_Greece" title="International Federation of the Phonographic Industry Greece" class="mw-redirect">IFPI Greece</a>)<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></th>
+<td>Platinum</td>
+<td>20,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">Hungary (<a href="/wiki/Mahasz" title="Mahasz" class="mw-redirect">Mahasz</a>)<sup id="cite_ref-HungaryFILMZENE8_MilealbumCertRef_27-0" class="reference"><a href="#cite_note-HungaryFILMZENE8_MilealbumCertRef-27"><span>[</span>27<span>]</span></a></sup></th>
+<td>Gold</td>
+<td>10,000<sup>x</sup></td>
+</tr>
+<tr>
+<th scope="row">Netherlands (<a href="/wiki/NVPI" title="NVPI">NVPI</a>)<sup id="cite_ref-NetherlandsEminem8_Mile_O.S.TalbumCertRef_28-0" class="reference"><a href="#cite_note-NetherlandsEminem8_Mile_O.S.TalbumCertRef-28"><span>[</span>28<span>]</span></a></sup></th>
+<td>Gold</td>
+<td>40,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">New Zealand (<a href="/wiki/Recorded_Music_NZ" title="Recorded Music NZ">RMNZ</a>)<sup id="cite_ref-New_ZealandSoundtrack8_MilealbumCertRef_29-0" class="reference"><a href="#cite_note-New_ZealandSoundtrack8_MilealbumCertRef-29"><span>[</span>29<span>]</span></a></sup></th>
+<td>4× Platinum</td>
+<td>60,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">Spain (<a href="/wiki/Productores_de_M%C3%BAsica_de_Espa%C3%B1a" title="Productores de Música de España">PROMUSICAE</a>)<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></th>
+<td>Platinum</td>
+<td>100,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">Sweden (<a href="/wiki/Swedish_Recording_Industry_Association" title="Swedish Recording Industry Association">GLF</a>)<sup id="cite_ref-SwedenEminem8_Mile_SoundtrackalbumCertRef_31-0" class="reference"><a href="#cite_note-SwedenEminem8_Mile_SoundtrackalbumCertRef-31"><span>[</span>31<span>]</span></a></sup></th>
+<td>Gold</td>
+<td>30,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">Switzerland (<a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">IFPI</a> Switzerland)<sup id="cite_ref-SwitzerlandEminem8_MilealbumCertRef_32-0" class="reference"><a href="#cite_note-SwitzerlandEminem8_MilealbumCertRef-32"><span>[</span>32<span>]</span></a></sup></th>
+<td>Platinum</td>
+<td>40,000<sup>x</sup></td>
+</tr>
+<tr>
+<th scope="row">United Kingdom (<a href="/wiki/British_Phonographic_Industry" title="British Phonographic Industry">BPI</a>)<sup id="cite_ref-United_KingdomORIGINAL_SOUNDTRACK8_MilealbumCertRef_33-0" class="reference"><a href="#cite_note-United_KingdomORIGINAL_SOUNDTRACK8_MilealbumCertRef-33"><span>[</span>33<span>]</span></a></sup></th>
+<td>2× Platinum</td>
+<td>600,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">United States (<a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a>)<sup id="cite_ref-United_Statessoundtrack8_MilealbumCertRef_34-0" class="reference"><a href="#cite_note-United_Statessoundtrack8_MilealbumCertRef-34"><span>[</span>34<span>]</span></a></sup></th>
+<td>4× Platinum</td>
+<td>4,000,000<sup>^</sup></td>
+</tr>
+<tr class="sortbottom">
+<th scope="col" colspan="3">Summaries</th>
+</tr>
+<tr>
+<th scope="row">Europe (<a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">IFPI</a>)<sup id="cite_ref-EuropeSoundtrack8_MilealbumCertRef_35-0" class="reference"><a href="#cite_note-EuropeSoundtrack8_MilealbumCertRef-35"><span>[</span>35<span>]</span></a></sup></th>
+<td>2× Platinum</td>
+<td>2,000,000<sup>*</sup></td>
+</tr>
+<tr class="sortbottom">
+<td colspan="3">
+<center>
+<p><small><sup>*</sup>sales figures based on certification alone</small><br />
+<small><sup>^</sup>shipments figures based on certification alone</small><br />
+<small><sup>x</sup>unspecified figures based on certification alone</small></p>
+</center>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web">Grein, Paul (2012-03-16). <a rel="nofollow" class="external text" href="http://music.yahoo.com/blogs/chart-watch/chart-watch-extra-top-albums-last-10-years-181452729.html">"Chart Watch Extra: Top Albums Of Last 10 Years | Chart Watch (NEW) - Yahoo! Music"</a>. Music.yahoo.com<span class="reference-accessdate">. Retrieved 2012-04-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.aufirst=Paul&amp;rft.au=Grein%2C+Paul&amp;rft.aulast=Grein&amp;rft.btitle=Chart+Watch+Extra%3A+Top+Albums+Of+Last+10+Years+%26%23124%3B+Chart+Watch+%28NEW%29+-+Yahoo%21+Music&amp;rft.date=2012-03-16&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmusic.yahoo.com%2Fblogs%2Fchart-watch%2Fchart-watch-extra-top-albums-last-10-years-181452729.html&amp;rft.pub=Music.yahoo.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://jam.canoe.ca/Music/Artists/E/Eminem/2002/11/06/pf-744922.html">"CANOE - JAM! - Eminem's '8 Mile' dethrones The King"</a>. Jam.canoe.ca. 2002-11-06<span class="reference-accessdate">. Retrieved 2011-09-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=CANOE+-+JAM%21+-+Eminem%27s+%278+Mile%27+dethrones+The+King&amp;rft.date=2002-11-06&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fjam.canoe.ca%2FMusic%2FArtists%2FE%2FEminem%2F2002%2F11%2F06%2Fpf-744922.html&amp;rft.pub=Jam.canoe.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/ost/8-mile-eminem">OST Reviews - Metacritic</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r615249">"8 Mile review"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=8+Mile+review&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr615249&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,388445,00.html">8 Mile Review | Music Reviews and News | EW.com</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nme.com/reviews/6839">NME Album Reviews - Eminem/Various Artists&#160;: 'Music From And Inspired By The Motion Picture '8 Mile' - NME.COM</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rapreviews.com/archive/2002_10F_8mile.html">"RapReviews.com review"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=RapReviews.com+review&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rapreviews.com%2Farchive%2F2002_10F_8mile.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.411mania.com/music/album_reviews/86/8-Mile-Soundtrack-Review.htm">411mania.com: Music - 8 Mile Soundtrack Review</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Uncut (01/03, p.124) - 4 stars out of 5 - "...A frighteningly powerful record....It's breathless, furious, and all the things pop too often isn't. The point of Eminem becomes blindingly clear..."</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Q (1/03, p.126) - 4 stars out of 5 - "...It's in a different class to the usual OST fare..."</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Rolling Stone (11/28/02, pp.85-6) - 3 stars out of 5 - "...Eminem is one of the most earnest pop stars around....On 8 MILE, he puts on an astonishing display of lyrical skill..."</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.empireonline.com/reviews/reviewcomplete.asp?SID=8650">Empire's Music From And Inspired By The Motion Picture 8 Mile Soundtrack Review</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/more-music-from-8-mile-mw0002037888">More Music from 8 Mile - Eminem&#160;: Songs, Reviews, Credits, Awards&#160;: AllMusic</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nme.com/reviews/artistKeyname/6919">NME Album Reviews - Various Artists&#160;: More Music from '8 Mile' - NME.COM</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/album-reviews/id.249/title.ost-more-music-from-8-mile">OST - More Music From 8 Mile | Read Hip Hop Reviews, Rap Reviews &amp; Hip Hop Album Reviews | HipHop DX</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.co.uk/8-Mile-Eminem/dp/B00006ZY85/ref=sr_1_3?s=music&amp;ie=UTF8&amp;qid=1325927764&amp;sr=1-3">"8 Mile: Eminem: Amazon.co.uk: Music"</a>. Amazon.co.uk<span class="reference-accessdate">. Retrieved 2012-04-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=8+Mile%3A+Eminem%3A+Amazon.co.uk%3A+Music&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.co.uk%2F8-Mile-Eminem%2Fdp%2FB00006ZY85%2Fref%3Dsr_1_3%3Fs%3Dmusic%26ie%3DUTF8%26qid%3D1325927764%26sr%3D1-3&amp;rft.pub=Amazon.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web">Oricon. <a rel="nofollow" class="external text" href="http://ranking.oricon.co.jp/free_contents/search/detail.asp?itemcd=491129&amp;samecd=1">"８マイル　ミュージック・フロム・アンド・インスパイアード・バイ・ザ・モーション・ピクチャー" [8 Mile: Music from and Inspired by the Motion Picture]</a> (in Japanese)<span class="reference-accessdate">. Retrieved December 30, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.aulast=Oricon&amp;rft.au=Oricon&amp;rft.btitle=%EF%BC%98%E3%83%9E%E3%82%A4%E3%83%AB%E3%80%80%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%E3%83%BB%E3%83%95%E3%83%AD%E3%83%A0%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E3%83%BC%E3%83%89%E3%83%BB%E3%83%90%E3%82%A4%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%94%E3%82%AF%E3%83%81%E3%83%A3%E3%83%BC&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Franking.oricon.co.jp%2Ffree_contents%2Fsearch%2Fdetail.asp%3Fitemcd%3D491129%26samecd%3D1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20030205090308/http://www.ifpi.gr/chart01.htm">"Internet Archive Wayback Machine"</a>. Web.archive.org. 2003-02-05<span class="reference-accessdate">. Retrieved 2012-04-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=Internet+Archive+Wayback+Machine&amp;rft.date=2003-02-05&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20030205090308%2Fhttp%3A%2F%2Fwww.ifpi.gr%2Fchart01.htm&amp;rft.pub=Web.archive.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ac_Poland_-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Poland_19-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://olis.onyx.pl/listy/index.asp?idlisty=130">Oficjalna lista sprzedaży&#160;:: OLIS - Official Retail Sales Chart"</a> (In Polish). <a href="/wiki/Polish_Music_Charts" title="Polish Music Charts">OLiS</a>. <a href="/wiki/Polish_Society_of_the_Phonographic_Industry" title="Polish Society of the Phonographic Industry">Polish Society of the Phonographic Industry</a>.</span></li>
+<li id="cite_note-AustraliaSoundtrack8_MilealbumCertRef-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-AustraliaSoundtrack8_MilealbumCertRef_20-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.aria.com.au/pages/aria-charts-accreditations-albums-2003.htm">"ARIA Charts – Accreditations – 2003 Albums"</a>. <a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">Australian Recording Industry Association</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=ARIA+Charts+%E2%80%93+Accreditations+%E2%80%93+2003+Albums&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.aria.com.au%2Fpages%2Faria-charts-accreditations-albums-2003.htm&amp;rft.pub=Australian+Recording+Industry+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BelgiumOst8_MilealbumCertRef-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-BelgiumOst8_MilealbumCertRef_21-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ultratop.be/nl/certifications.asp?year=2003">"Ultratop − Goud en Platina – 2003"</a>. Ultratop &amp; Hung Medien / hitparade.ch.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=Ultratop+%E2%88%92+Goud+en+Platina+%E2%80%93+2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ultratop.be%2Fnl%2Fcertifications.asp%3Fyear%3D2003&amp;rft.pub=Ultratop+%26+Hung+Medien+%2F+hitparade.ch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CanadaVarious_Artists8_MilealbumCertRef-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-CanadaVarious_Artists8_MilealbumCertRef_22-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.musiccanada.com/GPSearchResult.aspx?st=8+Mile&amp;sa=Various+Artists&amp;smt=0">"Canadian album certifications – Various Artists – 8 Mile"</a>. <a href="/wiki/Music_Canada" title="Music Canada">Music Canada</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=Canadian+album+certifications+%E2%80%93+Various+Artists+%E2%80%93+8+Mile&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.musiccanada.com%2FGPSearchResult.aspx%3Fst%3D8%2BMile%26sa%3DVarious%2BArtists%26smt%3D0&amp;rft.pub=Music+Canada&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-DenmarkSOUNDTRACK8_MilealbumCertRef-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-DenmarkSOUNDTRACK8_MilealbumCertRef_23-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.hitlisterne.dk/default.asp?w=27&amp;y=2003&amp;list=a40">"Danish album certifications – SOUNDTRACK – 8 Mile"</a>. <a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">IFPI</a> Denmark.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=Danish+album+certifications+%E2%80%93+SOUNDTRACK+%E2%80%93+8+Mile&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hitlisterne.dk%2Fdefault.asp%3Fw%3D27%26y%3D2003%26list%3Da40&amp;rft.pub=IFPI+Denmark&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FinlandSoundtrack8_MilealbumCertRef-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-FinlandSoundtrack8_MilealbumCertRef_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FinlandSoundtrack8_MilealbumCertRef_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">The first web page presents the sales figures, the second presents the certification limits:</span>
+<ul>
+<li><span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ifpi.fi/tilastot/artistit/Soundtrack">"Soundtrack"</a> (in Finnish). <a href="/wiki/Musiikkituottajat_%E2%80%93_IFPI_Finland" title="Musiikkituottajat – IFPI Finland">Musiikkituottajat – IFPI Finland</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=Soundtrack&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ifpi.fi%2Ftilastot%2Fartistit%2FSoundtrack&amp;rft.pub=Musiikkituottajat+%E2%80%93+IFPI+Finland&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ifpi.fi/tilastot/kultalevyt/myontamisrajat">"Kultalevyjen myöntämisrajat"</a> (in Finnish). Musiikkituottajat – IFPI Finland.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=Kultalevyjen+my%C3%B6nt%C3%A4misrajat&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ifpi.fi%2Ftilastot%2Fkultalevyt%2Fmyontamisrajat&amp;rft.pub=Musiikkituottajat+%26ndash%3B+IFPI+Finland&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</li>
+<li id="cite_note-FranceEminemBOF_8_MilealbumCertRef-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-FranceEminemBOF_8_MilealbumCertRef_25-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.disqueenfrance.com/fr/pag-259165-CERTIFICATIONS.html?year=2003&amp;type=8">"French album certifications – Eminem – BOF 8 Mile"</a> (in French). <a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">Syndicat National de l'Édition Phonographique</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=French+album+certifications+%E2%80%93+Eminem+%E2%80%93+BOF+8+Mile&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.disqueenfrance.com%2Ffr%2Fpag-259165-CERTIFICATIONS.html%3Fyear%3D2003%26type%3D8&amp;rft.pub=Syndicat+National+de+l%27%C3%89dition+Phonographique&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20030806115611/http://www.ifpi.gr/chart01.htm">"Official IFPI Charts - Top-50 Albums Sales Chart - Week: 6/2005"</a>. <a href="/wiki/IFPI_Greece" title="IFPI Greece">IFPI Greece</a>. Archived from <a rel="nofollow" class="external text" href="http://www.ifpi.gr/charts_en.html">the original</a> on 2003-08-06.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=Official+IFPI+Charts+-+Top-50+Albums+Sales+Chart+-+Week%3A+6%2F2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ifpi.gr%2Fcharts_en.html&amp;rft.pub=IFPI+Greece&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-HungaryFILMZENE8_MilealbumCertRef-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-HungaryFILMZENE8_MilealbumCertRef_27-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.mahasz.hu/?menu=arany_es_platinalemezek&amp;menu2=adatbazis&amp;ev=2003">"Adatbázis – Arany- és platinalemezek – 2003"</a> (in Hungarian). <a href="/wiki/Mahasz" title="Mahasz" class="mw-redirect">Mahasz</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=Adatb%C3%A1zis+%E2%80%93+Arany-+%C3%A9s+platinalemezek+%E2%80%93+2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.mahasz.hu%2F%3Fmenu%3Darany_es_platinalemezek%26menu2%3Dadatbazis%26ev%3D2003&amp;rft.pub=Mahasz&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NetherlandsEminem8_Mile_O.S.TalbumCertRef-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-NetherlandsEminem8_Mile_O.S.TalbumCertRef_28-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ifpi.nl/nvpi/pagina.asp?pagkey=61112&amp;documentid=1237955">"Dutch album certifications – Eminem – 8 Mile O.S.T"</a> (in Dutch). <a href="/wiki/NVPI" title="NVPI">Nederlandse Vereniging van Producenten en Importeurs van beeld- en geluidsdragers</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=Dutch+album+certifications+%E2%80%93+Eminem+%E2%80%93+8+Mile+O.S.T&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ifpi.nl%2Fnvpi%2Fpagina.asp%3Fpagkey%3D61112%26documentid%3D1237955&amp;rft.pub=Nederlandse+Vereniging+van+Producenten+en+Importeurs+van+beeld-+en+geluidsdragers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-New_ZealandSoundtrack8_MilealbumCertRef-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-New_ZealandSoundtrack8_MilealbumCertRef_29-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://rianz.org.nz/rianz/oldchart.asp?chartNum=1363&amp;chartKind=A">"New Zealand album certifications – Soundtrack – 8 Mile"</a>. <a href="/wiki/Recording_Industry_Association_of_New_Zealand" title="Recording Industry Association of New Zealand" class="mw-redirect">Recording Industry Association of New Zealand</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=New+Zealand+album+certifications+%E2%80%93+Soundtrack+%E2%80%93+8+Mile&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Frianz.org.nz%2Frianz%2Foldchart.asp%3FchartNum%3D1363%26chartKind%3DA&amp;rft.pub=Recording+Industry+Association+of+New+Zealand&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://spiceheart.mforos.com/183535/9737389-el-post-de-las-certificaciones-en-espana-todos-los-oros-y-platinos/">"El post de las certificaciones en España: Todos los Oros y Platinos"</a><span class="reference-accessdate">. Retrieved 2014-03-18</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=El+post+de+las+certificaciones+en+Espa%C3%B1a%3A+Todos+los+Oros+y+Platinos&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fspiceheart.mforos.com%2F183535%2F9737389-el-post-de-las-certificaciones-en-espana-todos-los-oros-y-platinos%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-SwedenEminem8_Mile_SoundtrackalbumCertRef-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-SwedenEminem8_Mile_SoundtrackalbumCertRef_31-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ifpi.se/wp-content/uploads/ar-20033.pdf">"Guld- och Platinacertifikat − År 2003"</a> (PDF) (in Swedish). <a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">IFPI</a> Sweden.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=Guld-+och+Platinacertifikat+%E2%88%92+%C3%85r+2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ifpi.se%2Fwp-content%2Fuploads%2Far-20033.pdf&amp;rft.pub=IFPI+Sweden&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-SwitzerlandEminem8_MilealbumCertRef-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-SwitzerlandEminem8_MilealbumCertRef_32-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.swisscharts.com/search_certifications.asp?search=Eminem+8+Mile">"The Official Swiss Charts and Music Community: Awards (Eminem;&#160;'8 Mile')"</a>. Hung Medien.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=The+Official+Swiss+Charts+and+Music+Community%3A+Awards+%28Eminem%3B%26nbsp%3B%278+Mile%27%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.swisscharts.com%2Fsearch_certifications.asp%3Fsearch%3DEminem%2B8%2BMile&amp;rft.pub=Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-United_KingdomORIGINAL_SOUNDTRACK8_MilealbumCertRef-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-United_KingdomORIGINAL_SOUNDTRACK8_MilealbumCertRef_33-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.bpi.co.uk/certified-awards.aspx">"British album certifications – ORIGINAL SOUNDTRACK – 8 Mile"</a>. <a href="/wiki/British_Phonographic_Industry" title="British Phonographic Industry">British Phonographic Industry</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=British+album+certifications+%E2%80%93+ORIGINAL+SOUNDTRACK+%E2%80%93+8+Mile&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bpi.co.uk%2Fcertified-awards.aspx&amp;rft.pub=British+Phonographic+Industry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <i>Enter</i> 8 Mile <i>in the field</i> Search<i>. Select</i> Title <i>in the field</i> Search by<i>. Select</i> album <i>in the field</i> By Format<i>. Click</i> Go</span></li>
+<li id="cite_note-United_Statessoundtrack8_MilealbumCertRef-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-United_Statessoundtrack8_MilealbumCertRef_34-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?artist=%228+Mile%22">"American album certifications – soundtrack – 8 Mile"</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=American+album+certifications+%E2%80%93+soundtrack+%E2%80%93+8+Mile&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Fartist%3D%25228%2BMile%2522&amp;rft.pub=Recording+Industry+Association+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <i>If necessary, click</i> Advanced<i>, then click</i> Format<i>, then select</i> Album<i>, then click</i> SEARCH</span></li>
+<li id="cite_note-EuropeSoundtrack8_MilealbumCertRef-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-EuropeSoundtrack8_MilealbumCertRef_35-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ifpi.org/content/section_news/plat2007.html">"IFPI Platinum Europe Awards – 2007"</a>. <a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">International Federation of the Phonographic Industry</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;rft.btitle=IFPI+Platinum+Europe+Awards+%E2%80%93+2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ifpi.org%2Fcontent%2Fsection_news%2Fplat2007.html&amp;rft.pub=International+Federation+of+the+Phonographic+Industry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.metrolyrics.com/8-mile-lyrics-eminem.html">Full lyrics of this song</a> at <a href="/wiki/MetroLyrics" title="MetroLyrics">MetroLyrics</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Eminem" title="Template:Eminem"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Eminem" title="Template talk:Eminem"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Eminem&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Eminem" title="Eminem">Eminem</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/Eminem_discography" title="Eminem discography">Discography</a></li>
+<li><a href="/wiki/Eminem_production_discography" title="Eminem production discography">Production discography</a></li>
+<li><a href="//commons.wikimedia.org/wiki/Eminem" class="extiw" title="commons:Eminem">Images</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Eminem" title="List of awards and nominations received by Eminem">Awards and nominations</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/D12" title="D12">D12</a></li>
+<li><a href="/wiki/Bad_Meets_Evil" title="Bad Meets Evil">Bad Meets Evil</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Infinite_(Eminem_album)" title="Infinite (Eminem album)">Infinite</a></i></li>
+<li><i><a href="/wiki/The_Slim_Shady_LP" title="The Slim Shady LP">The Slim Shady LP</a></i></li>
+<li><i><a href="/wiki/The_Marshall_Mathers_LP" title="The Marshall Mathers LP">The Marshall Mathers LP</a></i></li>
+<li><i><a href="/wiki/The_Eminem_Show" title="The Eminem Show">The Eminem Show</a></i></li>
+<li><i><a href="/wiki/Encore_(Eminem_album)" title="Encore (Eminem album)">Encore</a></i></li>
+<li><i><a href="/wiki/Relapse_(Eminem_album)" title="Relapse (Eminem album)">Relapse</a></i></li>
+<li><i><a href="/wiki/Recovery_(Eminem_album)" title="Recovery (Eminem album)">Recovery</a></i></li>
+<li><i><a href="/wiki/The_Marshall_Mathers_LP_2" title="The Marshall Mathers LP 2">The Marshall Mathers LP 2</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><strong class="selflink">Music from and Inspired by the Motion Picture 8 Mile</strong></i></li>
+<li><i><a href="/wiki/Straight_from_the_Lab" title="Straight from the Lab">Straight from the Lab</a></i></li>
+<li><i><a href="/wiki/The_Singles_(Eminem_album)" title="The Singles (Eminem album)">The Singles</a></i></li>
+<li><i><a href="/wiki/Curtain_Call:_The_Hits" title="Curtain Call: The Hits">Curtain Call: The Hits</a></i></li>
+<li><i><a href="/wiki/Eminem_Presents:_The_Re-Up" title="Eminem Presents: The Re-Up">Eminem Presents: The Re-Up</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Extended plays</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Steppin%27_onto_the_Scene" title="Steppin' onto the Scene">Steppin' onto the Scene</a></i></li>
+<li><i><a href="/wiki/Still_in_the_Bassmint" title="Still in the Bassmint">Still in the Bassmint</a></i></li>
+<li><i><a href="/wiki/Soul_Intent" title="Soul Intent">Soul Intent</a></i></li>
+<li><i><a href="/wiki/Slim_Shady_EP" title="Slim Shady EP">Slim Shady EP</a></i></li>
+<li><i><a href="/wiki/Hell:_The_Sequel" title="Hell: The Sequel">Hell: The Sequel</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Video albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Up_in_Smoke_Tour#DVD_release" title="Up in Smoke Tour">The Up in Smoke Tour</a></i></li>
+<li><i><a href="/wiki/E_(video)" title="E (video)">E</a></i></li>
+<li><i><a href="/wiki/All_Access_Europe" title="All Access Europe">All Access Europe</a></i></li>
+<li><i><a href="/wiki/Anger_Management_Tour#DVD" title="Anger Management Tour">Eminem Presents: The Anger Management Tour</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Books</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Way_I_Am_(book)" title="The Way I Am (book)">The Way I Am</a></i></li>
+<li><i><a href="/wiki/My_Son_Marshall,_My_Son_Eminem" title="My Son Marshall, My Son Eminem">My Son Marshall, My Son Eminem</a></i></li>
+<li><i><a href="/wiki/Angry_Blonde" title="Angry Blonde">Angry Blonde</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Concert tours</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Up_in_Smoke_Tour" title="Up in Smoke Tour">Up in Smoke Tour</a> <small>(with various artists)</small></li>
+<li><a href="/wiki/Anger_Management_Tour" title="Anger Management Tour">Anger Management Tour</a></li>
+<li><a href="/wiki/The_Recovery_Tour" title="The Recovery Tour">The Recovery Tour</a></li>
+<li><a href="/wiki/The_Home_%26_Home_Tour" title="The Home &amp; Home Tour">The Home &amp; Home Tour</a> <small>(with <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>)</small></li>
+<li><a href="/wiki/Rapture_Tour" title="Rapture Tour">Rapture Tour</a></li>
+<li><a href="/wiki/The_Monster_Tour_(Eminem_and_Rihanna)" title="The Monster Tour (Eminem and Rihanna)">The Monster Tour</a> <small>(with <a href="/wiki/Rihanna" title="Rihanna">Rihanna</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Filmography</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Da_Hip_Hop_Witch" title="Da Hip Hop Witch">Da Hip Hop Witch</a></i></li>
+<li><i><a href="/wiki/Up_in_Smoke_Tour" title="Up in Smoke Tour">Up in Smoke Tour</a></i></li>
+<li><i><a href="/wiki/The_Slim_Shady_Show" title="The Slim Shady Show">The Slim Shady Show</a></i></li>
+<li><i><a href="/wiki/8_Mile_(film)" title="8 Mile (film)">8 Mile</a></i></li>
+<li><i><a href="/wiki/Pauly_Shore_Is_Dead" title="Pauly Shore Is Dead">Pauly Shore Is Dead</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Shady_Records" title="Shady Records">Shady Records</a></li>
+<li><a href="/wiki/Aftermath_Entertainment" title="Aftermath Entertainment">Aftermath Entertainment</a></li>
+<li><a href="/wiki/Interscope_Records" title="Interscope Records">Interscope Records</a></li>
+<li><a href="/wiki/Shade_45" title="Shade 45">Shade 45</a></li>
+<li><a href="/wiki/Bassmint_Productions_(record_label)" title="Bassmint Productions (record label)">Bassmint Productions</a></li>
+<li><a href="/wiki/Paul_Rosenberg_(music_manager)" title="Paul Rosenberg (music manager)">Paul Rosenberg</a></li>
+<li><a href="/wiki/Lose_Yourself_(Entourage)" title="Lose Yourself (Entourage)">"Lose Yourself" (Entourage)</a></li>
+<li><a href="/wiki/List_of_Eminem_feuds" title="List of Eminem feuds">List of feuds</a></li>
+<li><a href="/wiki/Stan_(fan)" title="Stan (fan)">Stan (fan)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Eminem" title="Book:Eminem">Book</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Eminem" title="Category:Eminem">Category</a></b></li>
+<li><b><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Eminem" title="Portal:Eminem">Portal</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1174
+CPU time usage: 3.480 seconds
+Real time usage: 3.629 seconds
+Preprocessor visited node count: 21474/1000000
+Preprocessor generated node count: 120372/1500000
+Post‐expand include size: 204990/2048000 bytes
+Template argument size: 28587/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 2/500
+Lua time usage: 0.137/10.000 seconds
+Lua memory usage: 3.3 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1466276-0!*!0!!en!4!* and timestamp 20140530151543 and revision id 608145032
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;oldid=608145032">http://en.wikipedia.org/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;oldid=608145032</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Albums_certified_quadruple_platinum_by_the_Australian_Recording_Industry_Association" title="Category:Albums certified quadruple platinum by the Australian Recording Industry Association">Albums certified quadruple platinum by the Australian Recording Industry Association</a></li><li><a href="/wiki/Category:Albums_certified_gold_by_the_Belgian_Entertainment_Association" title="Category:Albums certified gold by the Belgian Entertainment Association">Albums certified gold by the Belgian Entertainment Association</a></li><li><a href="/wiki/Category:Albums_certified_quintuple_platinum_by_the_Canadian_Recording_Industry_Association" title="Category:Albums certified quintuple platinum by the Canadian Recording Industry Association">Albums certified quintuple platinum by the Canadian Recording Industry Association</a></li><li><a href="/wiki/Category:Albums_certified_platinum_by_the_International_Federation_of_the_Phonographic_Industry_of_Denmark" title="Category:Albums certified platinum by the International Federation of the Phonographic Industry of Denmark">Albums certified platinum by the International Federation of the Phonographic Industry of Denmark</a></li><li><a href="/wiki/Category:Albums_certified_gold_by_Musiikkituottajat" title="Category:Albums certified gold by Musiikkituottajat">Albums certified gold by Musiikkituottajat</a></li><li><a href="/wiki/Category:Albums_certified_gold_by_the_Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Category:Albums certified gold by the Syndicat National de l'Édition Phonographique">Albums certified gold by the Syndicat National de l'Édition Phonographique</a></li><li><a href="/wiki/Category:Albums_certified_platinum_by_the_International_Federation_of_the_Phonographic_Industry_of_Greece" title="Category:Albums certified platinum by the International Federation of the Phonographic Industry of Greece">Albums certified platinum by the International Federation of the Phonographic Industry of Greece</a></li><li><a href="/wiki/Category:Albums_certified_gold_by_Mahasz" title="Category:Albums certified gold by Mahasz">Albums certified gold by Mahasz</a></li><li><a href="/wiki/Category:Albums_certified_gold_by_the_Nederlandse_Vereniging_van_Producenten_en_Importeurs_van_beeld-_en_geluidsdragers" title="Category:Albums certified gold by the Nederlandse Vereniging van Producenten en Importeurs van beeld- en geluidsdragers">Albums certified gold by the Nederlandse Vereniging van Producenten en Importeurs van beeld- en geluidsdragers</a></li><li><a href="/wiki/Category:Albums_certified_quadruple_platinum_by_Recorded_Music_NZ" title="Category:Albums certified quadruple platinum by Recorded Music NZ">Albums certified quadruple platinum by Recorded Music NZ</a></li><li><a href="/wiki/Category:Albums_certified_platinum_by_the_Productores_de_M%C3%BAsica_de_Espa%C3%B1a" title="Category:Albums certified platinum by the Productores de Música de España">Albums certified platinum by the Productores de Música de España</a></li><li><a href="/wiki/Category:Albums_certified_gold_by_the_International_Federation_of_the_Phonographic_Industry_of_Sweden" title="Category:Albums certified gold by the International Federation of the Phonographic Industry of Sweden">Albums certified gold by the International Federation of the Phonographic Industry of Sweden</a></li><li><a href="/wiki/Category:Albums_certified_platinum_by_the_International_Federation_of_the_Phonographic_Industry_of_Switzerland" title="Category:Albums certified platinum by the International Federation of the Phonographic Industry of Switzerland">Albums certified platinum by the International Federation of the Phonographic Industry of Switzerland</a></li><li><a href="/wiki/Category:Albums_certified_double_platinum_by_the_British_Phonographic_Industry" title="Category:Albums certified double platinum by the British Phonographic Industry">Albums certified double platinum by the British Phonographic Industry</a></li><li><a href="/wiki/Category:Albums_certified_multi-platinum_by_the_Recording_Industry_Association_of_America" title="Category:Albums certified multi-platinum by the Recording Industry Association of America">Albums certified multi-platinum by the Recording Industry Association of America</a></li><li><a href="/wiki/Category:Albums_certified_double_platinum_by_the_International_Federation_of_the_Phonographic_Industry" title="Category:Albums certified double platinum by the International Federation of the Phonographic Industry">Albums certified double platinum by the International Federation of the Phonographic Industry</a></li><li><a href="/wiki/Category:Film_soundtracks" title="Category:Film soundtracks">Film soundtracks</a></li><li><a href="/wiki/Category:Songs_about_Detroit" title="Category:Songs about Detroit">Songs about Detroit</a></li><li><a href="/wiki/Category:Hip_hop_soundtracks" title="Category:Hip hop soundtracks">Hip hop soundtracks</a></li><li><a href="/wiki/Category:Eminem_albums" title="Category:Eminem albums">Eminem albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Eminem" title="Category:Albums produced by Eminem">Albums produced by Eminem</a></li><li><a href="/wiki/Category:Albums_produced_by_Denaun_Porter" title="Category:Albums produced by Denaun Porter">Albums produced by Denaun Porter</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Premier" title="Category:Albums produced by DJ Premier">Albums produced by DJ Premier</a></li><li><a href="/wiki/Category:2002_soundtracks" title="Category:2002 soundtracks">2002 soundtracks</a></li><li><a href="/wiki/Category:Shady_Records_soundtracks" title="Category:Shady Records soundtracks">Shady Records soundtracks</a></li><li><a href="/wiki/Category:Aftermath_Entertainment_soundtracks" title="Category:Aftermath Entertainment soundtracks">Aftermath Entertainment soundtracks</a></li><li><a href="/wiki/Category:Aftermath_Entertainment_albums" title="Category:Aftermath Entertainment albums">Aftermath Entertainment albums</a></li><li><a href="/wiki/Category:English-language_soundtracks" title="Category:English-language soundtracks">English-language soundtracks</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Australia" title="Category:Certification Table Entry usages for Australia">Certification Table Entry usages for Australia</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Belgium" title="Category:Certification Table Entry usages for Belgium">Certification Table Entry usages for Belgium</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Canada" title="Category:Certification Table Entry usages for Canada">Certification Table Entry usages for Canada</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Denmark" title="Category:Certification Table Entry usages for Denmark">Certification Table Entry usages for Denmark</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Finland" title="Category:Certification Table Entry usages for Finland">Certification Table Entry usages for Finland</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_France" title="Category:Certification Table Entry usages for France">Certification Table Entry usages for France</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Greece" title="Category:Certification Table Entry usages for Greece">Certification Table Entry usages for Greece</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Hungary" title="Category:Certification Table Entry usages for Hungary">Certification Table Entry usages for Hungary</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Netherlands" title="Category:Certification Table Entry usages for Netherlands">Certification Table Entry usages for Netherlands</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_New_Zealand" title="Category:Certification Table Entry usages for New Zealand">Certification Table Entry usages for New Zealand</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Spain" title="Category:Certification Table Entry usages for Spain">Certification Table Entry usages for Spain</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Sweden" title="Category:Certification Table Entry usages for Sweden">Certification Table Entry usages for Sweden</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Switzerland" title="Category:Certification Table Entry usages for Switzerland">Certification Table Entry usages for Switzerland</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_United_Kingdom" title="Category:Certification Table Entry usages for United Kingdom">Certification Table Entry usages for United Kingdom</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_United_States" title="Category:Certification Table Entry usages for United States">Certification Table Entry usages for United States</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Europe" title="Category:Certification Table Entry usages for Europe">Certification Table Entry usages for Europe</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Music+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Music+from+and+Inspired+by+the+Motion+Picture+8+Mile" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Music_from_and_Inspired_by_the_Motion_Picture_8_Mile"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Music_from_and_Inspired_by_the_Motion_Picture_8_Mile"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Music_from_and_Inspired_by_the_Motion_Picture_8_Mile" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Music_from_and_Inspired_by_the_Motion_Picture_8_Mile" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Music_from_and_Inspired_by_the_Motion_Picture_8_Mile" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;oldid=608145032" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q274911" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;id=608145032" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Music+from+and+Inspired+by+the+Motion+Picture+8+Mile">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Music+from+and+Inspired+by+the+Motion+Picture+8+Mile&amp;oldid=608145032&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Music_from_and_Inspired_by_the_Motion_Picture_8_Mile&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/8_%D8%A3%D9%85%D9%8A%D8%A7%D9%84_(%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89_%D8%AA%D8%B5%D9%88%D9%8A%D8%B1%D9%8A%D8%A9)" title="8 أميال (موسيقى تصويرية) – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/BSO_8_Mile" title="BSO 8 Mile – Catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/8_Mile_(soundtrack)" title="8 Mile (soundtrack) – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/8_Mile_(soundtrack)" title="8 Mile (soundtrack) – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/8_Mile_(Soundtrack)" title="8 Mile (Soundtrack) – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/8_Mile_(soundtrack)" title="8 Mile (soundtrack) – Greek" lang="el" hreflang="el">Ελληνικά</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/8_Mile_(banda_sonora)" title="8 Mile (banda sonora) – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/8_Mile_Soundtrack" title="8 Mile Soundtrack – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/More_Music_from_8_Mile" title="More Music from 8 Mile – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/Music_from_and_Inspired_by_the_Motion_Picture_8_Mile" title="Music from and Inspired by the Motion Picture 8 Mile – Georgian" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-ku"><a href="//ku.wikipedia.org/wiki/8_Mile_(soundtrack)" title="8 Mile (soundtrack) – Kurdish" lang="ku" hreflang="ku">Kurdî</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Music_from_and_Inspired_by_the_Motion_Picture_8_Mile" title="Music from and Inspired by the Motion Picture 8 Mile – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/8_Mile_(%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF)" title="8 Mile (サウンドトラック) – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/8_Mile_Soundtrack" title="8 Mile Soundtrack – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/8_Mile" title="8 Mile – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/8_Mile_(%C3%A1lbum)" title="8 Mile (álbum) – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/8_Mile_(%D1%81%D0%B0%D1%83%D0%BD%D0%B4%D1%82%D1%80%D0%B5%D0%BA)" title="8 Mile (саундтрек) – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Music_from_and_Inspired_by_the_Motion_Picture_8_Mile" title="Music from and Inspired by the Motion Picture 8 Mile – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/8_Mile_(soundtrack)" title="8 Mile (soundtrack) – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/8_Mile_Soundtrack" title="8 Mile Soundtrack – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-tl"><a href="//tl.wikipedia.org/wiki/8_Mile_Soundtrack" title="8 Mile Soundtrack – Tagalog" lang="tl" hreflang="tl">Tagalog</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/8_Mil_(film_m%C3%BCzi%C4%9Fi_alb%C3%BCm%C3%BC)" title="8 Mil (film müziği albümü) – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/8_Mile" title="8 Mile – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q274911#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 May 2014 at 00:14.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Music_from_and_Inspired_by_the_Motion_Picture_8_Mile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":302,"wgHostname":"mw1065"});
+}</script>
+	</body>
+</html>
+	

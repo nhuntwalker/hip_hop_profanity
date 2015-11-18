@@ -1,0 +1,1223 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Crunk Juice - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Crunk_Juice" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Crunk_Juice&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Crunk_Juice&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Crunk_Juice" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Crunk_Juice","wgTitle":"Crunk Juice","wgCurRevisionId":606205214,"wgRevisionId":606205214,"wgArticleId":1421083,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","2004 albums","Lil Jon \u0026 the East Side Boyz albums","Albums produced by Lil Jon","Albums produced by The Neptunes","Albums produced by Rick Rubin"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Crunk_Juice","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2708091"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Crunk_Juice skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Crunk Juice</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Crunk Juice</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Crunk_juice_album_cover.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/bb/Crunk_juice_album_cover.jpg/220px-Crunk_juice_album_cover.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/b/bb/Crunk_juice_album_cover.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/b/bb/Crunk_juice_album_cover.jpg 2x" data-file-width="240" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Lil_Jon_%26_the_East_Side_Boyz" title="Lil Jon &amp; the East Side Boyz" class="mw-redirect">Lil Jon &amp; the East Side Boyz</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">November 16, 2004 <small>(<a href="/wiki/United_States" title="United States">US</a>)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>2004</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Southern_rap" title="Southern rap" class="mw-redirect">Southern rap</a>, <a href="/wiki/Crunk" title="Crunk">crunk</a>, <a href="/wiki/Hardcore_rap" title="Hardcore rap" class="mw-redirect">hardcore rap</a>, <a href="/wiki/Dirty_rap" title="Dirty rap">dirty rap</a>, <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a>, <a href="/wiki/Rap" title="Rap" class="mw-redirect">rap</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>74:54</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/TVT_Records" title="TVT Records">TVT</a>, <a href="/wiki/BME_Recordings" title="BME Recordings">BME Recordings</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Lil_Jon" title="Lil Jon">Jonathan "Lil Jon" Smith</a> <small>(<a href="/wiki/Executive_producer" title="Executive producer">exec.</a>)</small><br />
+Bryan Leach <small>(exec.)</small><br />
+Rob McDowell <small>(exec.)</small><br />
+Emperor Searcy <small>(exec.)</small><br />
+Vincent "Vince" Phillips <small>(exec.)</small><br />
+Lil Jay<br />
+DJ Flexx<br />
+Scotty Beats<br />
+<a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a><br />
+<a href="/wiki/Rick_Rubin" title="Rick Rubin">Rick Rubin</a><br />
+Michael '5000' Watts</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Lil_Jon_%26_the_East_Side_Boyz" title="Lil Jon &amp; the East Side Boyz" class="mw-redirect">Lil Jon &amp; the East Side Boyz</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Part_II_(Lil_Jon_%26_the_East_Side_Boyz_album)" title="Part II (Lil Jon &amp; the East Side Boyz album)">Part II</a></i><br />
+(2003)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Crunk Juice</b></i><br />
+(2004)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr>
+<th colspan="3" style="text-align: center; background: lightsteelblue;"><a href="/wiki/Lil_Jon" title="Lil Jon">Lil Jon</a> chronology</th>
+</tr>
+<tr>
+<td colspan="3" style="text-align: center">
+<table cellspacing="0" cellpadding="0" width="100%" style="background: transparent;">
+<tr style="text-align: center; line-height: 1.4em;">
+<td style="width: 33%; vertical-align: top; padding: 0.2em 0.1em 0.2em 0;"><i><a href="/wiki/Part_II_(Lil_Jon_%26_the_East_Side_Boyz_album)" title="Part II (Lil Jon &amp; the East Side Boyz album)">Part II</a></i><br />
+(2003)</td>
+<td style="width: 33%; vertical-align: top; padding: 0.2em 0.1em 0.2em 0.1em;"><i><b>Crunk Juice</b></i><br />
+(2004)</td>
+<td style="width: 33%; vertical-align: top; padding: 0.2em 0 0.2em 0.1em;"><i><a href="/wiki/Crunk_Rock" title="Crunk Rock">Crunk Rock</a></i><br />
+(2010)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Crunk Juice</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/What_U_Gon%27_Do" title="What U Gon' Do">What U Gon' Do</a>"</span><br />
+Released: October 2004</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Real_Nigga_Roll_Call" title="Real Nigga Roll Call">Real Nigga Roll Call</a>"</span><br />
+Released: 2004</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Lovers_%26_Friends" title="Lovers &amp; Friends" class="mw-redirect">Lovers &amp; Friends</a>"</span><br />
+Released: November 30, 2004</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Common_Sense_Media" title="Common Sense Media">Common Sense Media</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="2/5 stars"><img alt="2/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">C<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Mojo_(magazine)" title="Mojo (magazine)">Mojo</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-cduniverse_5-0" class="reference"><a href="#cite_note-cduniverse-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/NME" title="NME">NME</a></i></td>
+<td style="vertical-align:middle">(4/10)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/PopMatters" title="PopMatters">PopMatters</a></td>
+<td style="vertical-align:middle">(unfavorable)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i>Prefix Magazine</i></td>
+<td style="vertical-align:middle">(mixed)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">RapReviews</td>
+<td style="vertical-align:middle">(8/10)<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i>The Situation</i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a></i></td>
+<td style="vertical-align:middle">B+<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Uncut_(magazine)" title="Uncut (magazine)">Uncut</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-cduniverse_5-1" class="reference"><a href="#cite_note-cduniverse-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/4 stars"><img alt="3/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>Crunk Juice</b></i> is the fifth <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by <a href="/wiki/United_States_of_America" title="United States of America" class="mw-redirect">American</a> recording artists <a href="/wiki/Lil_Jon_%26_the_East_Side_Boyz" title="Lil Jon &amp; the East Side Boyz" class="mw-redirect">Lil Jon &amp; the East Side Boyz</a>,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> released in November 16, 2004, on <a href="/wiki/TVT_Records" title="TVT Records">TVT</a>/<a href="/wiki/BME_Recordings" title="BME Recordings">BME</a>. The production was handled by own Lil Jon, who also collaborated in the executive production, alongside Bryan Leach, Rob McDowell, Emperor Searcy, <a href="/wiki/Vince_Phillips" title="Vince Phillips">Vince Phillips</a>, and production by Lil Jay of <a href="/wiki/Crime_Mob" title="Crime Mob">Crime Mob</a>, DJ Flexx, Scotty Beats, <a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a>'s <a href="/wiki/Pharrell_Williams" title="Pharrell Williams">Pharrell</a> and <a href="/wiki/Chad_Hugo" title="Chad Hugo">Hugo</a>, and Rick Rubin. The album contains numerous collaborations from rappers and singers, like <a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a>, <a href="/wiki/Ludacris" title="Ludacris">Ludacris</a>, <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>, <a href="/wiki/Usher_(entertainer)" title="Usher (entertainer)">Usher</a>, <a href="/wiki/Bun_B" title="Bun B">Bun B</a> from <a href="/wiki/Underground_Kingz" title="Underground Kingz">UGK</a>, <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a>, <a href="/wiki/Nas" title="Nas">Nas</a>, <a href="/wiki/T.I." title="T.I.">T.I.</a>, the <a href="/wiki/Ying_Yang_Twins" title="Ying Yang Twins">Ying Yang Twins</a> and <a href="/wiki/Pharrell_Williams" title="Pharrell Williams">Pharrell</a> among others. There is a <a href="/wiki/Chopped_and_screwed" title="Chopped and screwed">chopped and screwed</a> version of the album done by DJ Michael "5000" Watts.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> Lil Jon's next solo album, 2010's <a href="/wiki/Crunk_Rock" title="Crunk Rock">Crunk Rock</a>, did not feature the East Side Boyz.</p>
+<p>The Album was Certified 2x Platinum By the RIAA in 2005 for Sales of over 2 Million Copies.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Track_listing"><span class="tocnumber">1</span> <span class="toctext">Track listing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Album"><span class="tocnumber">1.1</span> <span class="toctext">Album</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Bonus_remix_disc"><span class="tocnumber">1.2</span> <span class="toctext">Bonus remix disc</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#DVD"><span class="tocnumber">1.3</span> <span class="toctext">DVD</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Personnel"><span class="tocnumber">2</span> <span class="toctext">Personnel</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Performers"><span class="tocnumber">2.1</span> <span class="toctext">Performers</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Main_performers"><span class="tocnumber">2.1.1</span> <span class="toctext">Main performers</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Featured_guest"><span class="tocnumber">2.1.2</span> <span class="toctext">Featured guest</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Production"><span class="tocnumber">2.2</span> <span class="toctext">Production</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Main_production"><span class="tocnumber">2.2.1</span> <span class="toctext">Main production</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Executive_production"><span class="tocnumber">2.2.2</span> <span class="toctext">Executive production</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Technical"><span class="tocnumber">2.3</span> <span class="toctext">Technical</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#Engineers"><span class="tocnumber">2.3.1</span> <span class="toctext">Engineers</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Supervisors"><span class="tocnumber">2.3.2</span> <span class="toctext">Supervisors</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Sample_clearance"><span class="tocnumber">2.3.3</span> <span class="toctext">Sample clearance</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Mixing_and_mastering"><span class="tocnumber">2.3.4</span> <span class="toctext">Mixing and mastering</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Instrumentation"><span class="tocnumber">2.3.5</span> <span class="toctext">Instrumentation</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Design_and_photography"><span class="tocnumber">2.3.6</span> <span class="toctext">Design and photography</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Chart_positions"><span class="tocnumber">3</span> <span class="toctext">Chart positions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Album_2"><span class="tocnumber">3.1</span> <span class="toctext">Album</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Singles"><span class="tocnumber">3.2</span> <span class="toctext">Singles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=1" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Album">Album</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=2" title="Edit section: Album">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Confirmed by Disco GS.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Crunk Juice" &#160;</td>
+<td style="vertical-align: top;">J. Smith, R. McDowell, S. Norris</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:57</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Get Crunk" <span style="font-size:85%;">(featuring Bo Hagon)</span></td>
+<td style="vertical-align: top;">J. Smith, C. Leonard, R. McDowell, S. Norris</td>
+<td style="vertical-align: top;">Lil Jon, Lil Jay</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:18</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/What_U_Gon%27_Do" title="What U Gon' Do">What U Gon' Do</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Lil_Scrappy" title="Lil Scrappy">Lil Scrappy</a>)</span></td>
+<td style="vertical-align: top;">J. Smith, D. Richardson II, R. McDowell, S. Norris</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:20</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Real_Nigga_Roll_Call" title="Real Nigga Roll Call">Real Nigga Roll Call</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>)</span></td>
+<td style="vertical-align: top;">J. Smith, O.B. Jackson, R. McDowell, S. Norris</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:08</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Bo Hagon's Phone Call" <span style="font-size:85%;">(skit)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:21</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Da Blow" <span style="font-size:85%;">(featuring <a href="/wiki/Gangsta_Boo" title="Gangsta Boo">Gangsta Boo</a>)</span></td>
+<td style="vertical-align: top;">C. Gordon, J. Smith, L. Mitchell, P. Glass, S. Norris, W. Neal</td>
+<td style="vertical-align: top;">Lil Jon, Young Snipe <small>(co.)</small></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:59</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Contract" <span style="font-size:85%;">(featuring <a href="/wiki/Trillville" title="Trillville">Trillville</a>, <a href="/wiki/Jazze_Pha" title="Jazze Pha">Jazze Pha</a> &amp; Pimpin' Ken)</span></td>
+<td style="vertical-align: top;">C.P. Love, D. Prince, J. Smith, J. Glaze, L. Edwards, P. Alexander, S. Norris</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:53</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"E40 Choppin'" <span style="font-size:85%;">(skit)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:41</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"White Meat" <span style="font-size:85%;">(featuring <a href="/wiki/8Ball_%26_MJG" title="8Ball &amp; MJG">8Ball &amp; MJG</a>)</span></td>
+<td style="vertical-align: top;">C.P. Love, J. Smith, M. Goodwin, P. Smith, S. Norris</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:47</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Stop Fuckin' Wit Me" &#160;</td>
+<td style="vertical-align: top;">J. Smith, J. Hanneman, K. King, R. Rubin, T. Araya</td>
+<td style="vertical-align: top;"><a href="/wiki/Rick_Rubin" title="Rick Rubin">Rick Rubin</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:58</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Chris Rock Let's Be Friends" <span style="font-size:85%;">(skit) (featuring <a href="/wiki/Chris_Rock" title="Chris Rock">Chris Rock</a>)</span></td>
+<td style="vertical-align: top;">C. Rock</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:09</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Lovers_and_Friends_(song)" title="Lovers and Friends (song)">Lovers &amp; Friends</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Usher_(entertainer)" title="Usher (entertainer)">Usher</a> &amp; <a href="/wiki/Ludacris" title="Ludacris">Ludacris</a>)</span></td>
+<td style="vertical-align: top;">C. Bridges, J. Smith, M. Sterling, U. Raymond</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:20</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"One Night Stand" <span style="font-size:85%;">(featuring <a href="/wiki/Oobie" title="Oobie" class="mw-redirect">Oobie</a>)</span></td>
+<td style="vertical-align: top;">C. Evans, C.P. Love, J. Smith, L. Linn, LaMarquis Mark Jefferson, S. Norris, T. Sanders</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:33</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Aww Skeet Skeet" <span style="font-size:85%;">(featuring DJ Flexx)</span></td>
+<td style="vertical-align: top;">B. Harley, J. Smith, K. Clagon, R. Brown</td>
+<td style="vertical-align: top;">DJ Flexx, Scotty Beats <small>(co.)</small></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:45</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Chris Rock In da Club" <span style="font-size:85%;">(skit) (featuring Chris Rock)</span></td>
+<td style="vertical-align: top;">C. Rock</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:26</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"In da Club" <span style="font-size:85%;">(featuring <a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a> &amp; <a href="/wiki/Ludacris" title="Ludacris">Ludacris</a>)</span></td>
+<td style="vertical-align: top;">B. Harley, J. Smith, K. Clagon, R. Brown</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:29</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"Bitches Ain't Shit" <span style="font-size:85%;">(featuring <a href="/wiki/Nate_Dogg" title="Nate Dogg">Nate Dogg</a>, <a href="/wiki/Suga_Free" title="Suga Free">Suga Free</a>, <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a> &amp; Oobie)</span></td>
+<td style="vertical-align: top;">C. Broadus, D. Walker, J. Smith, N. Hale, T. Sanders</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:36</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"Chris Rock Get Lower" <span style="font-size:85%;">(skit) (featuring Chris Rock)</span></td>
+<td style="vertical-align: top;">C. Rock</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:33</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"Stick Dat Thang Out (Skeezer)" <span style="font-size:85%;">(featuring <a href="/wiki/Pharrell" title="Pharrell" class="mw-redirect">Pharrell</a> &amp; <a href="/wiki/Ying_Yang_Twins" title="Ying Yang Twins">Ying Yang Twins</a>)</span></td>
+<td style="vertical-align: top;">C. Hugo, D. Holmes, E. Jackson, J. Smith, P. Williams</td>
+<td style="vertical-align: top;"><a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:55</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">20.</td>
+<td style="text-align: left; vertical-align: top;">"Grand Finale" <span style="font-size:85%;">(featuring <a href="/wiki/Bun_B" title="Bun B">Bun B</a>, <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a>, <a href="/wiki/T.I." title="T.I.">T.I.</a>, <a href="/wiki/Nas" title="Nas">Nas</a> &amp; Ice Cube)</span></td>
+<td style="vertical-align: top;">B. Freeman, C. Harris, C.P. Love, J. Smith, LaMarquis Mark Jefferson, N. Jones, O.B. Jackson, J. Phillips</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:48</td>
+</tr>
+</table>
+<ul>
+<li><small>Track 6, contains samples of the remix of "Sippin' &amp; Spinnin' [Remix]", performed by <a href="/wiki/Gangsta_Boo" title="Gangsta Boo">Gangsta Boo</a>, Playa Fly and <a href="/wiki/Bun_B" title="Bun B">Bun B</a>.</small><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></li>
+<li><small>Track 10, contains samples of "Mandatory Suicide" and "Raining Blood", performed by <a href="/wiki/Slayer" title="Slayer">Slayer</a>.</small></li>
+<li><small>Track 12, contains samples of "Lovers and Friends", performed by <a href="/wiki/Michael_Sterling" title="Michael Sterling">Michael Sterling</a>.</small></li>
+<li><small>Track 17, contains samples of "Tonite", performed by <a href="/wiki/Kleeer" title="Kleeer">Kleeer</a>.</small></li>
+<li><small>Early pressings of this album erroneously credited <a href="/wiki/Fat_Joe" title="Fat Joe">Fat Joe</a> (rather than Jadakiss) as one of the rappers in "The Grand Finale."</small></li>
+</ul>
+<h3><span class="mw-headline" id="Bonus_remix_disc">Bonus remix disc</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=3" title="Edit section: Bonus remix disc">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Confirmed by Artist Direct.<sup id="cite_ref-artistdirect.com_18-0" class="reference"><a href="#cite_note-artistdirect.com-18"><span>[</span>18<span>]</span></a></sup></p>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Vivica A. Fox" <span style="font-size:85%;">(Intro) (featuring <a href="/wiki/Vivica_A._Fox" title="Vivica A. Fox">Vivica A. Fox</a>)</span></td>
+<td style="vertical-align: top;">V. Fox</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:19</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/What_U_Gon%27_Do" title="What U Gon' Do">What U Gon' Do</a>" <span style="font-size:85%;">(Jamaica Remix) (featuring <a href="/wiki/Elephant_Man_(musician)" title="Elephant Man (musician)">Elephant Man</a> &amp; <a href="/wiki/Lady_Saw" title="Lady Saw">Lady Saw</a>)</span></td>
+<td style="vertical-align: top;">J. Smith, M. Hall, O. Bryan, S. Norris</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:48</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/What_U_Gon%27_Do" title="What U Gon' Do">What U Gon' Do</a>" <span style="font-size:85%;">(Latino Remix) (featuring <a href="/wiki/Pitbull_(rapper)" title="Pitbull (rapper)">Pitbull</a> &amp; <a href="/wiki/Daddy_Yankee" title="Daddy Yankee">Daddy Yankee</a>)</span></td>
+<td style="vertical-align: top;">A. Perez, J. Smith, S. Norris</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:09</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Lean_Back" title="Lean Back">Lean Back</a>" <span style="font-size:85%;">(Remix) (featuring <a href="/wiki/Fat_Joe" title="Fat Joe">Fat Joe</a>, <a href="/wiki/Mase" title="Mase">Mase</a> &amp; <a href="/wiki/Eminem" title="Eminem">Eminem</a>)</span></td>
+<td style="vertical-align: top;">J. Smith, J. Cartagena, M. Betha, M. Mathers, R. Smith, S. Storch</td>
+<td style="vertical-align: top;">Scott Storch<small>(co)</small></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:08</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Let%27s_Go_(Trick_Daddy_song)" title="Let's Go (Trick Daddy song)">Let's Go</a>" <span style="font-size:85%;">(Remix) (featuring <a href="/wiki/Trick_Daddy" title="Trick Daddy">Trick Daddy</a> &amp; <a href="/wiki/Twista" title="Twista">Twista</a>)</span></td>
+<td style="vertical-align: top;">C. Young, C.C. Mitchell, J. Smith, M. Young</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:24</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Ménage à Trois" <span style="font-size:85%;">(featuring Bo Hagon)</span></td>
+<td style="vertical-align: top;">Chuck Leonard, J. Lewis, J. Smith</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:49</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Gasolina" title="Gasolina">Gasolina</a>" <span style="font-size:85%;">(<a href="/wiki/Dj_Buddha" title="Dj Buddha" class="mw-redirect">DJ Buddha</a> Remix) (featuring Daddy Yankee, Pitbull &amp; <a href="/wiki/N.O.R.E." title="N.O.R.E.">N.O.R.E.</a>)</span></td>
+<td style="vertical-align: top;">A. Perez, J. Smith, R. Ayala, V. Santiago</td>
+<td style="vertical-align: top;"><a href="/wiki/Dj_Buddha" title="Dj Buddha" class="mw-redirect">DJ Buddha</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:44</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Chris Rock Crunk Rock" <span style="font-size:85%;">(Skit) (featuring <a href="/wiki/Chris_Rock" title="Chris Rock">Chris Rock</a>)</span></td>
+<td style="vertical-align: top;">C. Rock</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:24</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Roll Call" <span style="font-size:85%;">(Crunk Rock Remix) (featuring <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>)</span></td>
+<td style="vertical-align: top;">C.P. Love, D. Jenifer, G. Miller, J. Smith, LaMarquis Mark Jefferson, O.B. Jackson, P. Hudson, R. McDowell, S. Norris</td>
+<td style="vertical-align: top;">Lil Jon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:10</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Roll Call" <span style="font-size:85%;">(Edited) (<a href="/wiki/Bad_Brains" title="Bad Brains">Bad Brains</a> Band Remix) (featuring Ice Cube)</span></td>
+<td style="vertical-align: top;">D. Jenifer, G. Miller, J. Smith, O.B. Jackson, P. Hudson, R. McDowell, S. Norris</td>
+<td style="vertical-align: top;">Lil Jon, <a href="/wiki/Bad_Brains" title="Bad Brains">Bad Brains</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:08</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="DVD">DVD</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=4" title="Edit section: DVD">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Confirmed by Artist Direct.<sup id="cite_ref-artistdirect.com_18-1" class="reference"><a href="#cite_note-artistdirect.com-18"><span>[</span>18<span>]</span></a></sup></p>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">Music videos</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 100%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"What U Gon' Do" <span style="font-size:85%;">(Music video)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:50</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Roll Call" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">&#160;</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">Live performances</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Live at</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Confessions_(song)" title="Confessions (song)" class="mw-redirect">Confessions</a>/<a href="/wiki/Yeah!_(Usher_song)" title="Yeah! (Usher song)">Yeah!</a>" <span style="font-size:85%;">(performed by <a href="/wiki/Usher_(entertainer)" title="Usher (entertainer)">Usher</a>, <a href="/wiki/Lil_Jon" title="Lil Jon">Lil Jon</a> and <a href="/wiki/Ludacris" title="Ludacris">Ludacris</a>)</span></td>
+<td style="vertical-align: top;">2004 MTV Video Music Awards</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:52</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Footage video" &#160;</td>
+<td style="vertical-align: top;">2004 MTV Movie Awards</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">&#160;</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Yeah!_(Usher_song)" title="Yeah! (Usher song)">Yeah!</a>" <span style="font-size:85%;">(performed by Usher and Lil Jon, includes footage)</span></td>
+<td style="vertical-align: top;">2004 BET Awards</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">&#160;</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">Extra</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 100%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"BET's How I'm Living" <span style="font-size:85%;">(Interview)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">&#160;</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"The Making of Crunk Juice Album" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">&#160;</td>
+</tr>
+</table>
+<p>Track listing Chopped &amp; Screwed</p>
+<ol>
+<li>Crunk Juice Intro</li>
+<li>What U Gon' Do (featuring Lil Scrappy)</li>
+<li>Get Crunk (featuring Bo Hagan)</li>
+<li>White Meat (featuring 8 Ball &amp; MJG)</li>
+<li>Da Blow (featuring Gangsta Boo)</li>
+<li>Lovers &amp; Friends (featuring Ludacris &amp; Usher)</li>
+<li>One Night Stand (featuring Oobie)</li>
+<li>E40 Choppin</li>
+<li>Contract (featuring Trillville, Jazze Pha &amp; Pimpin' Ken)</li>
+<li>Real Nigga Roll Call (featuring Ice Cube)</li>
+<li>Watts (Intro)</li>
+<li>Stop Fuckin With Me</li>
+<li>Aww Skeet Skeet Intro</li>
+<li>Aww Skeet Skeet (featuring DJ Flexx)</li>
+<li>Chris Rock "Let's Be Friends"</li>
+<li>In Da Club (featuring Ludacris &amp; R. Kelly)</li>
+<li>Bitches Ain't Shit (featuring Snoop Dogg, Nate Dogg, Suga Free &amp; Oobie)</li>
+<li>Grand Finale (featuring Nas, Bun B, T.I. &amp; Ice Cube)</li>
+</ol>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=5" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Confirmed by Artist Direct.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Performers">Performers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=6" title="Edit section: Performers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Main_performers">Main performers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=7" title="Edit section: Main performers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Lil_Jon" title="Lil Jon">Lil Jon</a></li>
+<li>The East Side Boyz: Big Sam and Lil' Bo</li>
+</ul>
+<h4><span class="mw-headline" id="Featured_guest">Featured guest</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=8" title="Edit section: Featured guest">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Bo Hagon</li>
+<li><a href="/wiki/Lil_Scrappy" title="Lil Scrappy">Lil Scrappy</a></li>
+<li><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a></li>
+<li><a href="/wiki/Gangsta_Boo" title="Gangsta Boo">Gangsta Boo</a></li>
+<li><a href="/wiki/Trillville" title="Trillville">Trillville</a></li>
+<li><a href="/wiki/Jazze_Pha" title="Jazze Pha">Jazze Pha</a></li>
+<li>Pimpin' Ken,</li>
+<li><a href="/wiki/8Ball_%26_MJG" title="8Ball &amp; MJG">8Ball &amp; MJG</a>: 8Ball and MJG</li>
+<li><a href="/wiki/Usher_(entertainer)" title="Usher (entertainer)">Usher</a></li>
+<li><a href="/wiki/Ludacris" title="Ludacris">Ludacris</a></li>
+<li><a href="/wiki/Oobie" title="Oobie" class="mw-redirect">Oobie</a></li>
+<li>DJ Flexx</li>
+<li><a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a></li>
+<li><a href="/wiki/Nate_Dogg" title="Nate Dogg">Nate Dogg</a></li>
+<li><a href="/wiki/Suga_Free" title="Suga Free">Suga Free</a></li>
+<li><a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a></li>
+<li><a href="/wiki/Ying_Yang_Twins" title="Ying Yang Twins">Ying Yang Twins</a>: Kaine and D-Roc</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Pharrell" title="Pharrell" class="mw-redirect">Pharrell</a> (Pharrell Williams)</li>
+<li><a href="/wiki/Bun_B" title="Bun B">Bun B</a></li>
+<li><a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a></li>
+<li><a href="/wiki/Nas" title="Nas">Nas</a></li>
+<li><a href="/wiki/T.I." title="T.I.">T.I.</a></li>
+<li><a href="/wiki/Elephant_Man_(musician)" title="Elephant Man (musician)">Elephant Man</a></li>
+<li><a href="/wiki/Lady_Saw" title="Lady Saw">Lady Saw</a></li>
+<li><a href="/wiki/Pitbull_(rapper)" title="Pitbull (rapper)">Pitbull</a></li>
+<li><a href="/wiki/Daddy_Yankee" title="Daddy Yankee">Daddy Yankee</a></li>
+<li><a href="/wiki/Terror_Squad_(group)" title="Terror Squad (group)">Terror Squad</a>: <a href="/wiki/Fat_Joe" title="Fat Joe">Fat Joe</a>, <a href="/wiki/Cool_%26_Dre" title="Cool &amp; Dre">Cool &amp; Dre</a>, <a href="/wiki/DJ_Khaled" title="DJ Khaled">DJ Khaled</a>, K.A.R., Armageddon, <a href="/wiki/Tony_Sunshine" title="Tony Sunshine">Tony Sunshine</a></li>
+<li><a href="/wiki/Ma$e" title="Ma$e" class="mw-redirect">Ma$e</a></li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a></li>
+<li><a href="/wiki/Trick_Daddy" title="Trick Daddy">Trick Daddy</a></li>
+<li><a href="/wiki/Twista" title="Twista">Twista</a></li>
+<li><a href="/wiki/N.O.R.E." title="N.O.R.E.">N.O.R.E.</a></li>
+<li><a href="/wiki/Bad_Brains" title="Bad Brains">Bad Brains</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=9" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Main_production">Main production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=10" title="Edit section: Main production">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Lil_Jon" title="Lil Jon">Jonathan "Lil Jon" Smith</a></li>
+<li><a href="/wiki/Rick_Rubin" title="Rick Rubin">Rick Rubin</a></li>
+<li>DJ Flexx</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a></li>
+<li>Scotty Beats</li>
+<li><a href="/wiki/Crime_Mob" title="Crime Mob">Lil Jay</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Executive_production">Executive production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=11" title="Edit section: Executive production">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Jonathan "Lil Jon" Smith</li>
+<li>Bryan Leach</li>
+<li>Rob McDowell</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Emperor Searcy</li>
+<li><a href="/wiki/Vince_Phillips" title="Vince Phillips">Vince Phillips</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Technical">Technical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=12" title="Edit section: Technical">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Engineers">Engineers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=13" title="Edit section: Engineers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Chris Steinmetz</li>
+<li>DJ Flexx</li>
+<li>Josh Butler</li>
+<li>Andrew Coleman</li>
+<li>Abel Garibaldi</li>
+<li>Wassim Zreik</li>
+<li>Ian Mereness</li>
+<li>Mark Vinten</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Chris_Carmouche" title="Chris Carmouche">Chris Carmouche</a></li>
+<li>Jason Lader</li>
+<li>Brian Sumner</li>
+<li>Gary Fly Assistant</li>
+<li>Stephen Georgiafandis</li>
+<li>Paolo Sheehy</li>
+<li>John Frye</li>
+<li>Warren Bletcher <small>(as.)</small></li>
+</ul>
+</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Supervisors">Supervisors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=14" title="Edit section: Supervisors">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Greg "Frosty" Smith</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>John Frye</li>
+</ul>
+</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Sample_clearance">Sample clearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=15" title="Edit section: Sample clearance">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>Danny Zook</li>
+</ul>
+<h4><span class="mw-headline" id="Mixing_and_mastering">Mixing and mastering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=16" title="Edit section: Mixing and mastering">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Jonathan "Lil Jon" Smith</li>
+<li>Andrew Scheps</li>
+<li>Scotty Beats</li>
+<li>Jason Lader</li>
+<li>John Frye</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Warren Bletcher <small>(as.)</small></li>
+<li>Gary Fly Assistant <small>(as.)</small></li>
+<li><a href="/wiki/Michael_Watts" title="Michael Watts">Michael Watts</a> <small>(Remixing, only Chopped &amp; Screwed Version)</small><sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></li>
+<li>Tom Coyne <small>(mas.)</small></li>
+</ul>
+</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Instrumentation">Instrumentation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=17" title="Edit section: Instrumentation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Guitars: Craig Love</li>
+<li>Keyboards: L-Roc, <a href="/wiki/Scott_Storch" title="Scott Storch">Scott Storch</a></li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Bass: LaMarquis Mark Jefferson</li>
+</ul>
+</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Design_and_photography">Design and photography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=18" title="Edit section: Design and photography">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Design: Benjamin Wheelock</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Photography: Michael Blackwell</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=19" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Album_2">Album</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=20" title="Edit section: Album">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th align="left">Charts (2004)<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></th>
+<th align="left">Peak<br />
+position</th>
+</tr>
+<tr>
+<td align="left">U.S. <i>Billboard</i> 200</td>
+<td style="text-align:center;">3</td>
+</tr>
+<tr>
+<td align="left">UK Albums Top 75</td>
+<td style="text-align:center;">52</td>
+</tr>
+<tr>
+<td align="left">France Albums Top 150</td>
+<td style="text-align:center;">145</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=21" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th>Year</th>
+<th>Song</th>
+<th><small><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Hot 100</a></small></th>
+<th><small><a href="/wiki/Hot_Rap_Tracks" title="Hot Rap Tracks" class="mw-redirect">Hot Rap Tracks</a></small></th>
+<th><small><a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Tracks</a></small></th>
+<th><small><a href="/wiki/UK_Singles_Top_75" title="UK Singles Top 75" class="mw-redirect">UK Singles Top 75</a></small></th>
+<th><small>Germany Singles Top 100</small></th>
+<th><small>New Zealand Top 40</small></th>
+<th><small>Ireland Singles Top 50</small></th>
+<th><small>Australia Singles Top 50</small></th>
+<th><small>Swiss Singles Top 100</small></th>
+</tr>
+<tr>
+<td>2004</td>
+<td>"What U Gon' Do"<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></td>
+<td style="text-align:center;">#22</td>
+<td style="text-align:center;">#8</td>
+<td style="text-align:center;">#13</td>
+<td style="text-align:center;">#38*</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">#93</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+</tr>
+<tr>
+<td>2004</td>
+<td>"Real Nigga Roll Call"<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">#61</td>
+<td style="text-align:center;">#38</td>
+<td style="text-align:center;">#38</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+</tr>
+<tr>
+<td>2004</td>
+<td>"Lovers &amp; Friends"<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></td>
+<td style="text-align:center;">#3</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">#2</td>
+<td style="text-align:center;">#10</td>
+<td style="text-align:center;">#68</td>
+<td style="text-align:center;">#15</td>
+<td style="text-align:center;">#22</td>
+<td style="text-align:center;">#36</td>
+<td style="text-align:center;">#44</td>
+</tr>
+</table>
+<ul>
+<li>In the UK "Real Nigga Roll Call" charted as "Roll Call" together with "What U Gon' Do" as a double A-side single.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit&amp;section=22" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r711479">Allmusic review</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.commonsensemedia.org/music-reviews/crunk-juice">Common Sense Media review</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">Drumming, Neil (2004-11-08). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,767968,00.html">"Crunk Juice Review"</a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i><span class="reference-accessdate">. Retrieved 2012-02-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.au=Drumming%2C+Neil&amp;rft.aufirst=Neil&amp;rft.aulast=Drumming&amp;rft.btitle=Crunk+Juice+Review&amp;rft.date=2004-11-08&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C767968%2C00.html&amp;rft.pub=%27%27Entertainment+Weekly%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.guardian.co.uk/music/2005/jan/21/popandrock.shopping3">The Guardian review</a></span></li>
+<li id="cite_note-cduniverse-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-cduniverse_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cduniverse_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/productinfo.asp?pid=8258376&amp;style=music">Album reviews at CD Universe</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nme.com/reviews/7609">NME review</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.popmatters.com/pm/review/liljon-crunkjuice/">PopMatters review</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.prefixmag.com/reviews/lil-jon-and-the-east-side-boyz/crunk-juice/14086/">Prefix Magazine review</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web">Juon, Steve "Flash" (2004-11-23). <a rel="nofollow" class="external text" href="http://www.rapreviews.com/archive/2004_11_crunkjuice.html">"Lil Jon &amp; the Eastside Boyz&#160;:: Crunk Juice&#160;:: TVT Records"</a>. RapReviews<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.aufirst=Steve+%22Flash%22&amp;rft.au=Juon%2C+Steve+%22Flash%22&amp;rft.aulast=Juon&amp;rft.btitle=Lil+Jon+%26+the+Eastside+Boyz+%3A%3A+Crunk+Juice+%3A%3A+TVT+Records&amp;rft.date=2004-11-23&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rapreviews.com%2Farchive%2F2004_11_crunkjuice.html&amp;rft.pub=RapReviews&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web">Caramanica, Jon (2004-12-15). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071014221204/http://www.rollingstone.com/artists/liljon/albums/album/6627334/review/6660782/crunk_juice">"Lil Jon: Crunk Juice&#160;: Music Reviews"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.rollingstone.com/artists/liljon/albums/album/6627334/review/6660782/crunk_juice">the original</a> on 2007-10-14<span class="reference-accessdate">. Retrieved 2012-02-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.au=Caramanica%2C+Jon&amp;rft.aufirst=Jon&amp;rft.aulast=Caramanica&amp;rft.btitle=Lil+Jon%3A+Crunk+Juice+%3A+Music+Reviews&amp;rft.date=2004-12-15&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fartists%2Fliljon%2Falbums%2Falbum%2F6627334%2Freview%2F6660782%2Fcrunk_juice&amp;rft.pub=%27%27Rolling+Stone%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thesituation.co.uk/reviews/liljon_review.html">The Situation review</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web">Cibula, Matt (2005-01-19). <a rel="nofollow" class="external text" href="http://stylusmagazine.com/reviews/lil-jon-and-the-east-side-boyz/crunk-juice.htm">"Lil Jon and the East Side Boyz - Crunk Juice - Review"</a>. <i><a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a></i><span class="reference-accessdate">. Retrieved 2013-06-18</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.au=Cibula%2C+Matt&amp;rft.aufirst=Matt&amp;rft.aulast=Cibula&amp;rft.btitle=Lil+Jon+and+the+East+Side+Boyz+-+Crunk+Juice+-+Review&amp;rft.date=2005-01-19&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fstylusmagazine.com%2Freviews%2Flil-jon-and-the-east-side-boyz%2Fcrunk-juice.htm&amp;rft.pub=%27%27Stylus+Magazine%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://usatoday30.usatoday.com/life/music/reviews/2004-11-15-listen-up_x.htm">USA Today review</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.com/dp/B00031TX8G/">"Crunk Juice: Lil Jon &amp; East Side Boyz: Music"</a>. Amazon.com<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.btitle=Crunk+Juice%3A+Lil+Jon+%26+East+Side+Boyz%3A+Music&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2Fdp%2FB00031TX8G%2F&amp;rft.pub=Amazon.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.com/dp/B000A1IKIS/">"Crunk Juice: Chopped &amp; Screwed: Lil Jon &amp; East Side Boyz: Music"</a>. Amazon.com<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.btitle=Crunk+Juice%3A+Chopped+%26+Screwed%3A+Lil+Jon+%26+East+Side+Boyz%3A+Music&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2Fdp%2FB000A1IKIS%2F&amp;rft.pub=Amazon.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.discogs.com/release/435504">"Lil Jon &amp; The East Side Boyz – Crunk Juice. Album credits from"</a>. www.discogs.com. 2004-11-16<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.btitle=Lil+Jon+%26+The+East+Side+Boyz+%E2%80%93+Crunk+Juice.+Album+credits+from&amp;rft.date=2004-11-16&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2Frelease%2F435504&amp;rft.pub=www.discogs.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.whosampled.com/sample/view/2398/Lil%20Jon%20and%20The%20East%20Side%20Boyz%20feat.%20Gangsta%20Boo-Da%20Blow_Gangsta%20Boo%20feat.%20Playa%20Fly%20and%20Bun%20B-Sippin'%20%26%20Spinnin'%20(Remix)/">"Lil Jon and The East Side Boyz feat. Gangsta Boo's Da Blow sample of Gangsta Boo feat. Playa Fly and Bun B's Sippin' &amp; Spinnin' (Remix) | WhoSampled –"</a>. Whosampled.com<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.btitle=Lil+Jon+and+The+East+Side+Boyz+feat.+Gangsta+Boo%27s+Da+Blow+sample+of+Gangsta+Boo+feat.+Playa+Fly+and+Bun+B%27s+Sippin%27+%26+Spinnin%27+%28Remix%29+%26%23124%3B+WhoSampled+%E2%80%93&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.whosampled.com%2Fsample%2Fview%2F2398%2FLil%2520Jon%2520and%2520The%2520East%2520Side%2520Boyz%2520feat.%2520Gangsta%2520Boo-Da%2520Blow_Gangsta%2520Boo%2520feat.%2520Playa%2520Fly%2520and%2520Bun%2520B-Sippin%27%2520%2526%2520Spinnin%27%2520%28Remix%29%2F&amp;rft.pub=Whosampled.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-artistdirect.com-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-artistdirect.com_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-artistdirect.com_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.artistdirect.com/nad/store/artist/album/0,,3098091,00.html">"Crunk Juice (Bonus CD &amp; DVD) Tracklist –"</a>. Artistdirect.com<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.btitle=Crunk+Juice+%28Bonus+CD+%26+DVD%29+Tracklist+%E2%80%93&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.artistdirect.com%2Fnad%2Fstore%2Fartist%2Falbum%2F0%2C%2C3098091%2C00.html&amp;rft.pub=Artistdirect.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.artistdirect.com/nad/store/artist/album/0,,3047760,00.html">"Crunk Juice Credits –"</a>. Artistdirect.com<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.btitle=Crunk+Juice+Credits+%E2%80%93&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.artistdirect.com%2Fnad%2Fstore%2Fartist%2Falbum%2F0%2C%2C3047760%2C00.html&amp;rft.pub=Artistdirect.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.artistdirect.com/nad/store/artist/album/0,,3098091,00.html">"Crunk Juice (Bonus CD &amp; DVD) Credits –"</a>. Artistdirect.com<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.btitle=Crunk+Juice+%28Bonus+CD+%26+DVD%29+Credits+%E2%80%93&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.artistdirect.com%2Fnad%2Fstore%2Fartist%2Falbum%2F0%2C%2C3098091%2C00.html&amp;rft.pub=Artistdirect.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.artistdirect.com/nad/store/artist/album/0,,3329647,00.html">"Crunk Juice Chopped &amp; Screwed Credits –"</a>. Artistdirect.com<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.btitle=Crunk+Juice+Chopped+%26+Screwed+Credits+%E2%80%93&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.artistdirect.com%2Fnad%2Fstore%2Fartist%2Falbum%2F0%2C%2C3329647%2C00.html&amp;rft.pub=Artistdirect.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://acharts.us/album/13663">World Chart Positions</a>. aCharts.us. Accessed July 29, 2008.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://acharts.us/song/620">"Chart Position –"</a>. Acharts.us<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.btitle=Chart+Position+%E2%80%93&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Facharts.us%2Fsong%2F620&amp;rft.pub=Acharts.us&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://acharts.us/song/9585">"Chart Position –"</a>. Acharts.us<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.btitle=Chart+Position+%E2%80%93&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Facharts.us%2Fsong%2F9585&amp;rft.pub=Acharts.us&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://acharts.us/song/635">"Chart Position –"</a>. Acharts.us<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrunk+Juice&amp;rft.btitle=Chart+Position+%E2%80%93&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Facharts.us%2Fsong%2F635&amp;rft.pub=Acharts.us&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Lil_Jon" title="Template:Lil Jon"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Lil_Jon" title="Template talk:Lil Jon"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lil_Jon&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Lil_Jon" title="Lil Jon">Lil Jon</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Get_Crunk,_Who_U_Wit:_Da_Album" title="Get Crunk, Who U Wit: Da Album">Get Crunk, Who U Wit: Da Album</a></i></li>
+<li><i><a href="/wiki/We_Still_Crunk!!" title="We Still Crunk!!">We Still Crunk!!</a></i></li>
+<li><i><a href="/wiki/Put_Yo_Hood_Up" title="Put Yo Hood Up">Put Yo Hood Up</a></i></li>
+<li><i><a href="/wiki/Kings_of_Crunk" title="Kings of Crunk">Kings of Crunk</a></i></li>
+<li><i><a href="/wiki/Part_II_(Lil_Jon_%26_the_East_Side_Boyz_album)" title="Part II (Lil Jon &amp; the East Side Boyz album)">Part II</a></i></li>
+<li><i><strong class="selflink">Crunk Juice</strong></i></li>
+<li><i><a href="/wiki/Crunk_Rock" title="Crunk Rock">Crunk Rock</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Get_Low_(song)" title="Get Low (song)">Get Low</a>"</li>
+<li>"<a href="/wiki/What_U_Gon%27_Do" title="What U Gon' Do">What U Gon' Do</a>"</li>
+<li>"<a href="/wiki/Real_Nigga_Roll_Call" title="Real Nigga Roll Call">Real Nigga Roll Call</a>"</li>
+<li>"<a href="/wiki/Lovers_and_Friends_(song)" title="Lovers and Friends (song)">Lovers &amp; Friends</a>"</li>
+<li>"<a href="/wiki/Snap_Yo_Fingers" title="Snap Yo Fingers">Snap Yo Fingers</a>"</li>
+<li>"<a href="/wiki/Act_a_Fool_(Lil_Jon_song)" title="Act a Fool (Lil Jon song)" class="mw-redirect">Act a Fool</a>"</li>
+<li>"<a href="/wiki/I_Do_(Lil_Jon_song)" title="I Do (Lil Jon song)" class="mw-redirect">I Do</a>"</li>
+<li>"<a href="/wiki/Give_It_All_U_Got" title="Give It All U Got">Give It All U Got</a>"</li>
+<li>"<a href="/wiki/Ms._Chocolate" title="Ms. Chocolate">Ms. Chocolate</a>"</li>
+<li>"<a href="/wiki/Hey_(Lil_Jon_song)" title="Hey (Lil Jon song)">Hey</a>"</li>
+<li>"<a href="/wiki/Turn_Down_For_What" title="Turn Down For What" class="mw-redirect">Turn Down For What</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Damn!_(song)" title="Damn! (song)">Damn!</a>"</li>
+<li>"<a href="/wiki/Salt_Shaker_(song)" title="Salt Shaker (song)">Salt Shaker</a>"</li>
+<li>"<a href="/wiki/Shake_That_Monkey" title="Shake That Monkey">Shake That Monkey</a>"</li>
+<li>"<a href="/wiki/Come_Get_Some_(TLC_song)" title="Come Get Some (TLC song)">Come Get Some</a>"</li>
+<li>"<a href="/wiki/Yeah!_(Usher_song)" title="Yeah! (Usher song)">Yeah!</a>"</li>
+<li>"<a href="/wiki/Culo_(song)" title="Culo (song)">Culo</a>"</li>
+<li>"<a href="/wiki/Let%27s_Go_(Trick_Daddy_song)" title="Let's Go (Trick Daddy song)">Let's Go</a>"</li>
+<li>"<a href="/wiki/Real_Gangstaz" title="Real Gangstaz">Real Gangstaz</a>"</li>
+<li>"<a href="/wiki/That%27s_Nasty_(song)" title="That's Nasty (song)">That's Nasty</a>"</li>
+<li>"<a href="/wiki/Toma_(song)" title="Toma (song)">Toma</a>"</li>
+<li>"<a href="/wiki/Girlfight_(song)" title="Girlfight (song)">Girlfight</a>"</li>
+<li>"<a href="/wiki/Okay_(song)" title="Okay (song)">Okay</a>"</li>
+<li>"<a href="/wiki/Bojangles_(song)" title="Bojangles (song)">Bojangles (Remix)</a>"</li>
+<li>"<a href="/wiki/Go_to_Church" title="Go to Church">Go to Church</a>"</li>
+<li>"<a href="/wiki/Gangsta_Gangsta_(Lil_Scrappy_song)" title="Gangsta Gangsta (Lil Scrappy song)" class="mw-redirect">Gangsta Gangsta</a>"</li>
+<li>"<a href="/wiki/The_Anthem_(Pitbull_song)" title="The Anthem (Pitbull song)">The Anthem</a>"</li>
+<li>"<a href="/wiki/Get_Buck_in_Here" title="Get Buck in Here">Get Buck in Here</a>"</li>
+<li>"<a href="/wiki/Krazy_(song)" title="Krazy (song)">Krazy</a>"</li>
+<li>"<a href="/wiki/Let_Me_See_the_Booty" title="Let Me See the Booty">Let Me See the Booty</a>"</li>
+<li>"<a href="/wiki/Patron_Tequila" title="Patron Tequila">Patron Tequila</a>"</li>
+<li>"<a href="/wiki/Shots_(song)" title="Shots (song)">Shots</a>"</li>
+<li>"<a href="/wiki/Do_You_Remember_(Jay_Sean_song)" title="Do You Remember (Jay Sean song)">Do You Remember</a>"</li>
+<li>"<a href="/wiki/Watagatapitusberry" title="Watagatapitusberry">Watagatapitusberry</a>"</li>
+<li>"<a href="/wiki/Turbulence_(song)" title="Turbulence (song)">Turbulence</a>"</li>
+<li>"<a href="/wiki/Hard_White_(Up_in_the_Club)" title="Hard White (Up in the Club)">Hard White (Up in the Club)</a>"</li>
+<li>"<a href="/w/index.php?title=Bobble_(song)&amp;action=edit&amp;redlink=1" class="new" title="Bobble (song) (page does not exist)">Bobble</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Lil_Jon_discography" title="Lil Jon discography">Discography</a></li>
+<li><a href="/wiki/Lil_Jon_production_discography" title="Lil Jon production discography">Production discography</a></li>
+<li><a href="/wiki/BME_Recordings" title="BME Recordings">BME Recordings</a></li>
+<li><a href="/wiki/Crunk_Energy_Drink" title="Crunk Energy Drink">Crunk Energy Drink</a></li>
+<li><a href="/wiki/The_Apprentice_(U.S._season_11)" title="The Apprentice (U.S. season 11)">The Celebrity Apprentice 4</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1145
+CPU time usage: 2.936 seconds
+Real time usage: 3.063 seconds
+Preprocessor visited node count: 15971/1000000
+Preprocessor generated node count: 35635/1500000
+Post‐expand include size: 136663/2048000 bytes
+Template argument size: 23637/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.136/10.000 seconds
+Lua memory usage: 3.3 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1421083-0!*!0!!en!4!* and timestamp 20140530151657 and revision id 606205214
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Crunk_Juice&amp;oldid=606205214">http://en.wikipedia.org/w/index.php?title=Crunk_Juice&amp;oldid=606205214</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2004_albums" title="Category:2004 albums">2004 albums</a></li><li><a href="/wiki/Category:Lil_Jon_%26_the_East_Side_Boyz_albums" title="Category:Lil Jon &amp; the East Side Boyz albums">Lil Jon &amp; the East Side Boyz albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Lil_Jon" title="Category:Albums produced by Lil Jon">Albums produced by Lil Jon</a></li><li><a href="/wiki/Category:Albums_produced_by_The_Neptunes" title="Category:Albums produced by The Neptunes">Albums produced by The Neptunes</a></li><li><a href="/wiki/Category:Albums_produced_by_Rick_Rubin" title="Category:Albums produced by Rick Rubin">Albums produced by Rick Rubin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Crunk+Juice&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Crunk+Juice" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Crunk_Juice"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Crunk_Juice"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Crunk_Juice" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Crunk_Juice&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Crunk_Juice&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Crunk_Juice" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Crunk_Juice" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Crunk_Juice&amp;oldid=606205214" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Crunk_Juice&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2708091" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Crunk_Juice&amp;id=606205214" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Crunk+Juice">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Crunk+Juice&amp;oldid=606205214&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Crunk_Juice&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/Crunk_Juice" title="Crunk Juice – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/Crunk_Juice" title="Crunk Juice – Greek" lang="el" hreflang="el">Ελληνικά</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Crunk_Juice" title="Crunk Juice – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Crunk_Juice" title="Crunk Juice – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Crunk_Juice" title="Crunk Juice – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Crunk_Juice" title="Crunk Juice – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q2708091#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 April 2014 at 17:28.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Crunk_Juice" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":255,"wgHostname":"mw1050"});
+}</script>
+	</body>
+</html>
+	

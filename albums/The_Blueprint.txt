@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>The Blueprint - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Blueprint" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Blueprint&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_Blueprint&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/The_Blueprint" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Blueprint","wgTitle":"The Blueprint","wgCurRevisionId":608755831,"wgRevisionId":608755831,"wgArticleId":518542,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","All articles with unsourced statements","Articles with unsourced statements from July 2012","2001 albums","Jay-Z albums","Albums produced by Bink","Albums produced by Eminem","Albums produced by Just Blaze","Albums produced by Kanye West","Albums produced by Timbaland","Albums produced by Trackmasters","English-language albums","Roc-A-Fella Records albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Blueprint","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["fr-fr","fr","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1088473"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-The_Blueprint skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>The Blueprint</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other uses, see <a href="/wiki/Blueprint_(disambiguation)" title="Blueprint (disambiguation)">Blueprint (disambiguation)</a>.</div>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">The Blueprint</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Jay-z-the-blueprint.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c9/Jay-z-the-blueprint.jpg/220px-Jay-z-the-blueprint.jpg" width="220" height="219" srcset="//upload.wikimedia.org/wikipedia/en/c/c9/Jay-z-the-blueprint.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/c/c9/Jay-z-the-blueprint.jpg 2x" data-file-width="300" data-file-height="298" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">September 11, 2001</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>July 2001; <a href="/wiki/Manhattan_Center" title="Manhattan Center">Manhattan Center Studios</a>, Baseline Studios <small>(<a href="/wiki/New_York,_New_York" title="New York, New York" class="mw-redirect">New York, New York</a>)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>63:52</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella</a>, <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> <small>(exec.)</small>, <a href="/wiki/Damon_Dash" title="Damon Dash">Damon Dash</a> <small>(exec.)</small>, Kareem "Biggs" Burke <small>(exec.)</small>, <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>, <a href="/wiki/Just_Blaze" title="Just Blaze">Just Blaze</a>, <a href="/wiki/Bink_(record_producer)" title="Bink (record producer)">Bink</a>, <a href="/wiki/Timbaland" title="Timbaland">Timbaland</a>, <a href="/wiki/Eminem" title="Eminem">Eminem</a>, <a href="/wiki/Trackmasters" title="Trackmasters">Trackmasters</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia">The Dynasty: Roc La Familia</a></i><br />
+(2000)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>The Blueprint</b></i><br />
+(2001)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/The_Blueprint_2:_The_Gift_%26_The_Curse" title="The Blueprint 2: The Gift &amp; The Curse">The Blueprint 2: The Gift &amp; The Curse</a></i><br />
+(2002)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>The Blueprint</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Izzo_(H.O.V.A.)" title="Izzo (H.O.V.A.)">Izzo (H.O.V.A.)</a>"</span><br />
+Released: August 21, 2001</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Girls,_Girls,_Girls_(Jay-Z_song)" title="Girls, Girls, Girls (Jay-Z song)">Girls, Girls, Girls</a>"</span><br />
+Released: October 2, 2001</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Jigga_That_Nigga" title="Jigga That Nigga">Jigga That Nigga</a>"</span><br />
+Released: January 29, 2002</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Song_Cry" title="Song Cry">Song Cry</a>"</span><br />
+Released: May 8, 2002</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>The Blueprint</b></i> is the sixth <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by American rapper <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, released September 11, 2001 on <a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella Records</a> in the United States. Its release was set a week earlier than initially planned in order to combat <a href="/wiki/Bootleg_recording" title="Bootleg recording">bootlegging</a>. Recording sessions for the album took place during 2001 at <a href="/wiki/Manhattan_Center" title="Manhattan Center">Manhattan Center Studios</a> and Baseline Studios in <a href="/wiki/New_York_City" title="New York City">New York City</a>. Contrasting the radio-friendly sound of Jay-Z's previous work, <i>The Blueprint</i> features <a href="/wiki/Soul_music" title="Soul music">soul</a>-based <a href="/wiki/Sampling_(music)" title="Sampling (music)">sampling</a> and production handled primarily by <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a> and <a href="/wiki/Just_Blaze" title="Just Blaze">Just Blaze</a>.<sup id="cite_ref-Hoard_1-0" class="reference"><a href="#cite_note-Hoard-1"><span>[</span>1<span>]</span></a></sup> At the time of its recording, Jay-Z was awaiting two criminal trials, one for gun possession and another for assault, and had become one of hip hop's most <a href="/wiki/Diss_track" title="Diss track">dissed</a> artists, receiving insults from rappers such as <a href="/wiki/Nas" title="Nas">Nas</a>, <a href="/wiki/Prodigy_(rapper)" title="Prodigy (rapper)">Prodigy</a>, and <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a>.<sup id="cite_ref-Strauss_2-0" class="reference"><a href="#cite_note-Strauss-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Baker_3-0" class="reference"><a href="#cite_note-Baker-3"><span>[</span>3<span>]</span></a></sup> The album is also famous for its producer Kanye West's big breakout as a major producer. Kanye West produced 4 of the 13 tracks on the album, including the iconic track "<a href="/wiki/Izzo_(H.O.V.A.)" title="Izzo (H.O.V.A.)">Izzo (H.O.V.A.)</a>" and the controversial track which included diss lyrics aimed at rappers Nas and Prodigy, <a href="/wiki/Takeover_(song)" title="Takeover (song)">"Takeover"</a>.</p>
+<p>In spite of its release coinciding with the <a href="/wiki/September_11_attacks" title="September 11 attacks">9/11 attacks</a>, <i>The Blueprint</i> sold over 420,000 copies in its opening week,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> becoming Jay-Z's fourth consecutive album to reach number one on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart. It was certified <a href="/wiki/RIAA_certification" title="RIAA certification">double platinum</a> as sales stand at over two million units in the U.S.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> The album received a perfect "XXL" rating from <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i> magazine,<sup id="cite_ref-XXL_7-0" class="reference"><a href="#cite_note-XXL-7"><span>[</span>7<span>]</span></a></sup> while <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> awarded <i>The Blueprint</i> a classic 5 mic rating.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> <i>The Blueprint</i> received universal acclaim from music critics, based on an aggregate score of 88/100 from <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>.<sup id="cite_ref-Reviews_9-0" class="reference"><a href="#cite_note-Reviews-9"><span>[</span>9<span>]</span></a></sup> In 2003, the album was ranked number 464 on <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> magazine's list of <a href="/wiki/The_500_Greatest_Albums_of_All_Time" title="The 500 Greatest Albums of All Time" class="mw-redirect">the 500 greatest albums of all time</a>;<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> in a revised list in 2012, it was ranked number 252.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> In 2010, <a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a> ranked it number 5 on their Top 200 Albums of the 2000s list.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> Sales as of February 2012 stand at 2.7 million.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Blueprint_Lounge_Tour"><span class="tocnumber">2</span> <span class="toctext">Blueprint Lounge Tour</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Reception_and_impact"><span class="tocnumber">3</span> <span class="toctext">Reception and impact</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Accolades"><span class="tocnumber">3.1</span> <span class="toctext">Accolades</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Track_Listing"><span class="tocnumber">4</span> <span class="toctext">Track Listing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Bonus_tracks"><span class="tocnumber">4.1</span> <span class="toctext">Bonus tracks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Personnel"><span class="tocnumber">5</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Chart_history"><span class="tocnumber">6</span> <span class="toctext">Chart history</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Chart_positions"><span class="tocnumber">6.1</span> <span class="toctext">Chart positions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Blueprint&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>The Blueprint</i> was reportedly cut in two weeks, with Jay-Z allegedly writing the lyrics in two days.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>]</sup> At the time, he was awaiting two criminal trials for gun possession and <a href="/wiki/Assault" title="Assault">assault</a>. He was also engaged in feuds with various rappers, in particular <a href="/wiki/Nas" title="Nas">Nas</a> and <a href="/wiki/Mobb_Deep" title="Mobb Deep">Mobb Deep</a> member <a href="/wiki/Prodigy_(rapper)" title="Prodigy (rapper)">Prodigy</a>. In the song "<a href="/wiki/Takeover_(song)" title="Takeover (song)">Takeover</a>", Jay-Z attacks the two <a href="/wiki/Queensbridge" title="Queensbridge" class="mw-redirect">Queensbridge</a> rappers, using a sample of the song "<a href="/wiki/Five_to_One" title="Five to One">Five to One</a>" by <a href="/wiki/The_Doors" title="The Doors">The Doors</a><sup id="cite_ref-XXL_7-1" class="reference"><a href="#cite_note-XXL-7"><span>[</span>7<span>]</span></a></sup> and an interpolation of <a href="/wiki/David_Bowie" title="David Bowie">David Bowie</a>'s "<a href="/wiki/Fame_(David_Bowie_song)" title="Fame (David Bowie song)">Fame</a>".<sup id="cite_ref-Leroy_14-0" class="reference"><a href="#cite_note-Leroy-14"><span>[</span>14<span>]</span></a></sup> On <i>The Blueprint</i>, Jay-Z and his producers used vintage <a href="/wiki/Soul_music" title="Soul music">soul</a> as inspiration, including a vocal <a href="/wiki/Sampling_(music)" title="Sampling (music)">sample</a> on almost every track from such artists as <a href="/wiki/Al_Green" title="Al Green">Al Green</a>, <a href="/wiki/Bobby_Bland" title="Bobby Bland">Bobby "Blue" Bland</a>, <a href="/wiki/David_Ruffin" title="David Ruffin">David Ruffin</a> and <a href="/wiki/The_Jackson_5" title="The Jackson 5">The Jackson 5</a>. Exceptions include "<a href="/wiki/Jigga_That_Nigga" title="Jigga That Nigga">Jigga That Nigga</a>," "Hola Hovito," and "Renegade," a track produced by and featuring the rapper <a href="/wiki/Eminem" title="Eminem">Eminem</a>, and the only track on the album featuring another rapper on verses.</p>
+<h2><span class="mw-headline" id="Blueprint_Lounge_Tour">Blueprint Lounge Tour</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Blueprint&amp;action=edit&amp;section=2" title="Edit section: Blueprint Lounge Tour">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In late August, Jay-Z announced a September–October tour in small venues.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> Because of the <a href="/wiki/September_11_attacks" title="September 11 attacks">September 11 attacks</a>, the first two performances were rescheduled. <a href="/wiki/Chicago" title="Chicago">Chicago</a>, <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a>, and <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a> were subsequently added, and Jay-Z donated a dollar of the cost of every ticket sold from the tour to relief organizations.</p>
+<h2><span class="mw-headline" id="Reception_and_impact">Reception and impact</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Blueprint&amp;action=edit&amp;section=3" title="Edit section: Reception and impact">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Birchmeier_16-0" class="reference"><a href="#cite_note-Birchmeier-16"><span>[</span>16<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">A−<sup id="cite_ref-Christgau_17-0" class="reference"><a href="#cite_note-Christgau-17"><span>[</span>17<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">B−<sup id="cite_ref-Hermes_18-0" class="reference"><a href="#cite_note-Hermes-18"><span>[</span>18<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/NME" title="NME">NME</a></i></td>
+<td style="vertical-align:middle">(8/10)<sup id="cite_ref-Kessler_19-0" class="reference"><a href="#cite_note-Kessler-19"><span>[</span>19<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a></td>
+<td style="vertical-align:middle">(8.7/10)<sup id="cite_ref-Ethan_20-0" class="reference"><a href="#cite_note-Ethan-20"><span>[</span>20<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/PopMatters" title="PopMatters">PopMatters</a></td>
+<td style="vertical-align:middle">(favorable)<sup id="cite_ref-Neal_21-0" class="reference"><a href="#cite_note-Neal-21"><span>[</span>21<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Strauss_2-1" class="reference"><a href="#cite_note-Strauss-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/4 stars"><img alt="4/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Jones_22-0" class="reference"><a href="#cite_note-Jones-22"><span>[</span>22<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Hampton_23-0" class="reference"><a href="#cite_note-Hampton-23"><span>[</span>23<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i></td>
+<td style="vertical-align:middle">(favorable)<sup id="cite_ref-Fields_24-0" class="reference"><a href="#cite_note-Fields-24"><span>[</span>24<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i>The Blueprint</i> contained a unique and balanced blend of soulful samples that had both street credibility and mainstream appeal, thereby garnering praise from all quarters of the hip hop community and receiving special recognition from critics.<sup id="cite_ref-Rabin_25-0" class="reference"><a href="#cite_note-Rabin-25"><span>[</span>25<span>]</span></a></sup> Most consider <i>The Blueprint</i> to be one of Jay-Z's best albums, holding it on a level close to that of his debut, <i><a href="/wiki/Reasonable_Doubt_(album)" title="Reasonable Doubt (album)">Reasonable Doubt</a></i>. Upon its release, <i>The Blueprint</i> was rated as <a href="/wiki/VIBE" title="VIBE" class="mw-redirect">Vibe Magazine</a>'s <i>"Best Album of the year"</i>, and even received a 5 mic (out of 5) rating from <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> (a distinction reserved for hip hop classics).<sup id="cite_ref-The_Source_26-0" class="reference"><a href="#cite_note-The_Source-26"><span>[</span>26<span>]</span></a></sup> <a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a> named it the 2nd best album of 2000-2004. At Metacritic, which assigns a normalized rating out of 100 to reviews from mainstream critics, the album received an average score of 88, which indicates "universal acclaim", based on 12 reviews.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup> The popularity and commercial success of the album established <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a> and <a href="/wiki/Just_Blaze" title="Just Blaze">Just Blaze</a> as two of hip-hop’s most celebrated producers. Furthermore, <i>The Blueprint</i> signaled a major stylistic shift in hip hop production towards a more <a href="/wiki/Soul_music" title="Soul music">Soulcentric</a> and sample-reliant sound, creating a number of imitators who attempted to emulate the album's atmospheric style. Prior to <i>The Blueprint</i>, mainstream hip-hop producers had largely eschewed <a href="/wiki/Music_sampling" title="Music sampling" class="mw-redirect">music sampling</a> in favor of the keyboard-driven <i><a href="/wiki/Timbaland#The_.22Timbaland_sound.22:_1996_-_2000" title="Timbaland">Timbaland sound</a></i> (characterized by a shifting, syncopated rhythm, similar to <a href="/wiki/Samba" title="Samba">samba</a> or <a href="/wiki/Drum_and_bass" title="Drum and bass">jungle music</a>), due to the financial and legal issues associated with copyright laws. <i>The Blueprint</i>, however, revived musical sampling as a common practice in <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop music</a> and dislodged the digital keyboard-driven production style as the dominant sound in hip-hop music.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup> Kanye West would later incorporate some of the production and sampling techniques he used on this album into his own solo albums. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> put it on its end-of-the-decade, "best-of" list, saying, "One of the greatest poets ever to pick up a mic released his magnum opus in 2001. One retirement and one un-retirement later, it's still his finest hour."<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Accolades">Accolades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Blueprint&amp;action=edit&amp;section=4" title="Edit section: Accolades">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dt>Album of the Year</dt>
+</dl>
+<ul>
+<li>Ranked #4 in <i><a href="/wiki/NME" title="NME">NME</a>'</i>s 50 "Albums Of the Year 2001".</li>
+<li>Ranked #5 in <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a>'</i>s "Top 10 of 2001".</li>
+<li>Ranked #7 in <i><a href="/wiki/Spin_magazine" title="Spin magazine" class="mw-redirect">Spin magazine</a>'</i>s "Albums of the Year 2001".</li>
+<li>Ranked #12 in <a href="/wiki/The_Wire_(magazine)" title="The Wire (magazine)"><i>Wire</i> magazine</a>'s "50 Records of the Year 2001".</li>
+</ul>
+<dl>
+<dt>Best Album of the 2000s</dt>
+</dl>
+<ul>
+<li>Ranked #1 in <i><a href="/wiki/Complex_(magazine)" title="Complex (magazine)">Complex magazine</a>'</i>s "The 100 Best Albums of the 2000s".</li>
+<li>Ranked #7 in <a href="/wiki/Stylus_Magazine" title="Stylus Magazine">The Stylus Decade</a>'s "Top 100 Albums of the 2000s".</li>
+<li>Ranked #5 in <a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a>'s "The Top 200 Albums of the 2000s".<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></li>
+</ul>
+<dl>
+<dt>Top Album</dt>
+</dl>
+<ul>
+<li>Ranked #6 in <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a>'</i>s Critics Pick of the decade 1999-2009<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></li>
+<li>Ranked #2 in <a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a>'s "The Top 100 Albums of 2000-04".</li>
+<li>Ranked #5 in <a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a>'s "Top 50 Albums of 2000-2005".</li>
+</ul>
+<dl>
+<dt>Best Album of the Decade</dt>
+</dl>
+<ul>
+<li>Ranked #2 in <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a>'</i>s Best Albums of the Decade.</li>
+<li>Ranked #42 in <a href="/wiki/Paste_(magazine)" title="Paste (magazine)">Paste Magazine</a>'s 50 Best Albums of the Decade.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup></li>
+<li>Ranked #4 in <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> magazine's list of the 100 Best Albums of the Decade in 2009.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></li>
+<li>Ranked #20 in <a href="/wiki/Rhapsody_(online_music_service)" title="Rhapsody (online music service)">Rhapsody</a>'s "100 Best Albums of the Decade" in 2009.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup></li>
+<li>Ranked #8 in <a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a>'s "The Greatest 50 Albums Since '93" in 2013.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup></li>
+</ul>
+<dl>
+<dt>Greatest Album of All Time</dt>
+</dl>
+<ul>
+<li>Ranked #456 in <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> magazine's list of <a href="/wiki/The_500_Greatest_Albums_of_All_Time" title="The 500 Greatest Albums of All Time" class="mw-redirect">the 500 greatest albums of all time</a> in 2003.</li>
+<li>Ranked #252 in <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> magazine's revised list of <a href="/wiki/The_500_Greatest_Albums_of_All_Time" title="The 500 Greatest Albums of All Time" class="mw-redirect">the 500 greatest albums of all time</a> in 2012.</li>
+</ul>
+<h2><span class="mw-headline" id="Track_Listing">Track Listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Blueprint&amp;action=edit&amp;section=5" title="Edit section: Track Listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"The Ruler's Back" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Bink_(record_producer)" title="Bink (record producer)">Bink</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:50</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Takeover_(song)" title="Takeover (song)">Takeover</a>" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:13</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Izzo_(H.O.V.A.)" title="Izzo (H.O.V.A.)">Izzo (H.O.V.A.)</a>" &#160;</td>
+<td style="vertical-align: top;">Kanye West</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:00</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Girls,_Girls,_Girls_(Jay-Z_song)" title="Girls, Girls, Girls (Jay-Z song)">Girls, Girls, Girls</a>" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Just_Blaze" title="Just Blaze">Just Blaze</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:35</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Jigga_That_Nigga" title="Jigga That Nigga">Jigga That Nigga</a>" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Trackmasters" title="Trackmasters">Trackmasters</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:24</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"U Don't Know" &#160;</td>
+<td style="vertical-align: top;">Just Blaze</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:19</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Hola' Hovito" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Timbaland" title="Timbaland">Timbaland</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:33</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Heart of the City (Ain't No Love)" &#160;</td>
+<td style="vertical-align: top;">Kanye West</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:43</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Never Change" &#160;</td>
+<td style="vertical-align: top;">Kanye West</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:59</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Song_Cry" title="Song Cry">Song Cry</a>" &#160;</td>
+<td style="vertical-align: top;">Just Blaze</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:04</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"All I Need" &#160;</td>
+<td style="vertical-align: top;">Bink</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:27</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Renegade_(Jay-Z_song)" title="Renegade (Jay-Z song)">Renegade</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Eminem" title="Eminem">Eminem</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Eminem" title="Eminem">Eminem</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:38</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Blueprint (Momma Loves Me)" &#160;</td>
+<td style="vertical-align: top;">Bink</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:41</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">Hidden bonus tracks</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Breathe Easy (Lyrical Exercise)" &#160;</td>
+<td style="vertical-align: top;">Just Blaze</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:45</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Girls, Girls, Girls (Part 2)" &#160;</td>
+<td style="vertical-align: top;">Kanye West</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:14</td>
+</tr>
+</table>
+<dl>
+<dt>Samples</dt>
+</dl>
+<ul>
+<li>"The Ruler's Back" contains a sample of "If" by <a href="/wiki/Jackie_Moore_(singer)" title="Jackie Moore (singer)">Jackie Moore</a> and an interpolation of "The Ruler's Back" by <a href="/wiki/Slick_Rick" title="Slick Rick">Slick Rick</a>.</li>
+<li>"Takeover" contains samples of "<a href="/wiki/Five_to_One" title="Five to One">Five to One</a>" by <a href="/wiki/The_Doors" title="The Doors">The Doors</a>, "<a href="/wiki/Sound_of_da_Police" title="Sound of da Police">Sound of da Police</a>" by <a href="/wiki/KRS-One" title="KRS-One">KRS-One</a> and an interpolation of "<a href="/wiki/Fame_(David_Bowie_song)" title="Fame (David Bowie song)">Fame</a>" by <a href="/wiki/David_Bowie" title="David Bowie">David Bowie</a>.</li>
+<li>"Izzo (H.O.V.A.)" contains a sample of *"<a href="/wiki/I_Want_You_Back" title="I Want You Back">I Want You Back</a>" by <a href="/wiki/Jackson_5" title="Jackson 5" class="mw-redirect">Jackson 5</a>.</li>
+<li>"Girls, Girls, Girls" contains a sample of "There's Nothing in This World That Can Stop Me from Loving You" by <a href="/wiki/Tom_Brock_(singer)" title="Tom Brock (singer)">Tom Brock</a> and "High Power Rap" by <a href="/wiki/Crash_Crew" title="Crash Crew">Crash Crew</a>.</li>
+<li>"U Don't Know" contains a sample of "I'm Not to Blame" by <a href="/wiki/Bobby_Byrd" title="Bobby Byrd">Bobby Byrd</a>.</li>
+<li>"Heart of the City (Ain't No Love)" contains a sample of "<a href="/wiki/Ain%27t_No_Love_in_the_Heart_of_the_City" title="Ain't No Love in the Heart of the City">Ain't No Love in the Heart of the City</a>" by <a href="/wiki/Bobby_Blue_Bland" title="Bobby Blue Bland" class="mw-redirect">Bobby Blue Bland</a>.</li>
+<li>"Never Change" contains a sample of "Common Man" by <a href="/wiki/David_Ruffin" title="David Ruffin">David Ruffin</a>.</li>
+<li>"Song Cry" contains a sample of "Sounds Like a Love Song" by Bobby Glenn.</li>
+<li>"All I Need" contains a sample of "I Can't Break Away" by <a href="/wiki/Natalie_Cole" title="Natalie Cole">Natalie Cole</a>.</li>
+<li>"Blueprint (Momma Loves Me)" contains a sample of "Free at Last" by <a href="/wiki/Al_Green" title="Al Green">Al Green</a>.</li>
+<li>"Breathe Easy (Lyrical Exercise)" contains a sample of "Got to Find My Own Place" by <a href="/wiki/Stanley_Clarke" title="Stanley Clarke">Stanley Clarke</a>.</li>
+<li>"Girls, Girls, Girls (Part 2)" contains a sample of "Trying Girls Out" by <a href="/wiki/The_Persuaders_(band)" title="The Persuaders (band)" class="mw-redirect">The Persuaders</a>.</li>
+</ul>
+<h3><span class="mw-headline" id="Bonus_tracks">Bonus tracks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Blueprint&amp;action=edit&amp;section=6" title="Edit section: Bonus tracks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As with <i><a href="/wiki/Vol._3..._Life_and_Times_of_S._Carter" title="Vol. 3... Life and Times of S. Carter">Vol. 3... Life and Times of S. Carter</a></i>, Jay-Z put two hidden bonus tracks at the end of the final track. "Blueprint (Momma Loves Me)" is 3:41 by itself. Twenty-five seconds of silence follows after and the bonus track "Breathe Easy (Lyrical Exercise)" begins. That song fades and is immediately followed by "Girls, Girls, Girls (Part 2)". It is reported that the latter song features uncredited vocals by <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a>. The final track as a whole is 12:07. On the <a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a>, however, these bonus tracks are released as separate tracks, thus making the album 15 tracks long.</p>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Blueprint&amp;action=edit&amp;section=7" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Jay-Z - performer, executive producer</li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a> - performer, producer, mixing</li>
+<li>Slick Rick - vocals</li>
+<li>Q-Tip - vocals</li>
+<li>Biz Markie - vocals</li>
+<li>Demme Ulloa - vocals</li>
+<li>Schevise Harrell - vocals</li>
+<li>Lauren Leek - vocals</li>
+<li>Keon Bryce - vocals</li>
+<li>Stephanie Miller - vocals</li>
+<li>Michele Mills - vocals</li>
+<li>Josey Scott - vocals</li>
+<li>Victor Flowers - organ</li>
+<li><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a> - producer, vocals</li>
+<li>Just Blaze - producer</li>
+<li>Bink - producer</li>
+<li>Timbaland - producer</li>
+<li>Poke &amp; Tone - producer</li>
+<li>DJ Head - drum programming</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Damon Dash - executive producer</li>
+<li>Kareem "Biggs" Burke - executive producer</li>
+<li><a href="/wiki/Young_Guru" title="Young Guru">Gimel "Young Guru" Katon</a> - engineer, mixing</li>
+<li>Jimmy Douglas - engineer, mixing</li>
+<li>Rajon Wright - assistant engineer</li>
+<li>Shane Woodley - assistant engineer</li>
+<li>Jason Goldstein - mixing</li>
+<li>Richard Huredia - mixing</li>
+<li>Supa Engineer "Duro" - mixing</li>
+<li>Doug Wilson - mixing</li>
+<li>Tony Vanias - recording director</li>
+<li>Tony Dawsey - mastering</li>
+<li>Lenny S. - A&amp;R</li>
+<li>Rob Mitchell - A&amp;R</li>
+<li>Kyambo Joshua - A&amp;R</li>
+<li>Darcell Lawrence - A&amp;R</li>
+<li>Jason Noto - art direction</li>
+<li>Jonathan Mannion - photography</li>
+<li>Della Valle - images</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Chart_history">Chart history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Blueprint&amp;action=edit&amp;section=8" title="Edit section: Chart history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Blueprint&amp;action=edit&amp;section=9" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<dl>
+<dt>Album</dt>
+</dl>
+<table class="wikitable">
+<tr>
+<th>Chart (2001)<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></th>
+<th>Peak<br />
+position</th>
+</tr>
+<tr>
+<td>Canadian Albums Chart</td>
+<td style="text-align:center;">3</td>
+</tr>
+<tr>
+<td>U.S. <i>Billboard</i> 200</td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td>U.S. Top R&amp;B/Hip Hop Albums</td>
+<td style="text-align:center;">1</td>
+</tr>
+</table>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<dl>
+<dt>Singles</dt>
+</dl>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2">Song</th>
+<th colspan="3">Chart positions</th>
+</tr>
+<tr>
+<th><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a></th>
+<th><a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a></th>
+<th><a href="/wiki/Hot_Rap_Singles" title="Hot Rap Singles" class="mw-redirect">Hot Rap Singles</a></th>
+</tr>
+<tr>
+<td rowspan="2">2001</td>
+<td>"<a href="/wiki/Izzo_(H.O.V.A.)" title="Izzo (H.O.V.A.)">Izzo (H.O.V.A.)</a>"</td>
+<td style="text-align:center;">8</td>
+<td style="text-align:center;">4</td>
+<td style="text-align:center;">7</td>
+</tr>
+<tr>
+<td>"<a href="/wiki/Girls,_Girls,_Girls_(Jay-Z_song)" title="Girls, Girls, Girls (Jay-Z song)">Girls, Girls, Girls</a>"</td>
+<td style="text-align:center;">17</td>
+<td style="text-align:center;">4</td>
+<td style="text-align:center;">9</td>
+</tr>
+<tr>
+<td rowspan="2">2002</td>
+<td>"<a href="/wiki/Jigga_That_Nigga" title="Jigga That Nigga">Jigga That Nigga</a>"</td>
+<td style="text-align:center;">66</td>
+<td style="text-align:center;">27</td>
+<td style="text-align:center;">7</td>
+</tr>
+<tr>
+<td>"<a href="/wiki/Song_Cry" title="Song Cry">Song Cry</a>"</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">45</td>
+<td style="text-align:center;">-</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Toxicity_(album)" title="Toxicity (album)">Toxicity</a></i> by <a href="/wiki/System_of_a_Down" title="System of a Down">System of a Down</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_2001_(U.S.)" title="Number-one albums of 2001 (U.S.)" class="mw-redirect">number one album</a></b><br />
+September 29 – October 19, 2001</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Pain_Is_Love" title="Pain Is Love">Pain Is Love</a></i> by <a href="/wiki/Ja_Rule" title="Ja Rule">Ja Rule</a></span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Blueprint&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Jay-Z_vs._Nas_feud" title="Jay-Z vs. Nas feud" class="mw-redirect">Jay-Z vs. Nas feud</a></li>
+<li><a href="/wiki/List_of_number-one_albums_of_2001_(U.S.)" title="List of number-one albums of 2001 (U.S.)" class="mw-redirect">List of number-one albums of 2001 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_2001_(U.S.)" title="List of number-one R&amp;B albums of 2001 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 2001 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Blueprint&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Hoard-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hoard_1-0">^</a></b></span> <span class="reference-text">Hoard, Christian. "<a rel="nofollow" class="external text" href="http://books.google.com/books?id=t9eocwUfoSoC&amp;pg=PA424&amp;lpg=">Review: <i>The Blueprint</i></a>". <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>: 424–425. November 2, 2004.</span></li>
+<li id="cite_note-Strauss-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Strauss_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Strauss_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Strauss, Neil. <a rel="nofollow" class="external text" href="http://www.webcitation.org/5tANrprl9">Review: <i>The Blueprint</i></a>. <a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a>. Retrieved on 2009-09-05.</span></li>
+<li id="cite_note-Baker-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Baker_3-0">^</a></b></span> <span class="reference-text">Baker, Soren. <a rel="nofollow" class="external text" href="http://articles.latimes.com/2001/sep/16/entertainment/ca-46241">Review: <i>The Blueprint</i></a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. Retrieved on 2009-09-05.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web">Johnson, Craig (September 8, 2011). <a rel="nofollow" class="external text" href="http://articles.cnn.com/2011-09-08/entertainment/jayz.music.september.11_1_jay-z-music-sales-terrorist-attacks">"Why Jay-Z's music still mattered on 9/11"</a>. CNN.com<span class="reference-accessdate">. Retrieved July 2, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blueprint&amp;rft.au=Johnson%2C+Craig&amp;rft.aulast=Johnson%2C+Craig&amp;rft.btitle=Why+Jay-Z%27s+music+still+mattered+on+9%2F11&amp;rft.date=September+8%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Farticles.cnn.com%2F2011-09-08%2Fentertainment%2Fjayz.music.september.11_1_jay-z-music-sales-terrorist-attacks&amp;rft.pub=CNN.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Basham, David (March 29, 2002). <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1453141/20020328/jay_z.jhtml">Got Charts? Jay-Z &amp; R. Kelly, Cornell &amp; Rage: Dynamic Duos — Well, Maybe Not</a>. MTV. Retrieved May 24, 2008.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=The%20Blueprint&amp;artist=&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2008&amp;sort=Artist&amp;perPage=25">RIAA Searchable Database</a>. Recording Industry Association of America. Retrieved May 24, 2008.</span></li>
+<li id="cite_note-XXL-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-XXL_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-XXL_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal"><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a> (2007). "Retrospective: XXL Albums". <i>XXL Magazine, December 2007 issue</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blueprint&amp;rft.atitle=Retrospective%3A+XXL+Albums&amp;rft.aulast=XXL&amp;rft.au=XXL&amp;rft.date=2007&amp;rft.genre=article&amp;rft.jtitle=XXL+Magazine%2C+December+2007+issue&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.listsofbests.com/list/12875">The Source's 5 Mic Albums</a>. ListsofBests. Retrieved on 2009-06-17.</span></li>
+<li id="cite_note-Reviews-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Reviews_9-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/artists/jayz/blueprint">"The Blueprint (2001): Reviews"</a>. <i><a href="/wiki/Metacritic" title="Metacritic">Metacritic</a></i><span class="reference-accessdate">. Retrieved 2009-06-17</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blueprint&amp;rft.atitle=The+Blueprint+%282001%29%3A+Reviews&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.metacritic.com%2Fmusic%2Fartists%2Fjayz%2Fblueprint&amp;rft.jtitle=Metacritic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/news/story/5938174/the_rs_500_greatest_albums_of_all_time/5">RS500: 252 <i>The Blueprint</i></a>. <i>Rolling Stone</i>. Retrieved on 2009-09-15.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.rollingstone.com/music/lists/500-greatest-albums-of-all-time-20120531/jay-z-the-blueprint-19691231">[1]</a>. <i>Rolling Stone</i>. Retrieved on 2009-09-15.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://pitchfork.com/features/staff-lists/7710-the-top-200-albums-of-the-2000s-20-1/2/">The Top 200 Albums of the 2000s: 20-1</a> Pitchfork Media</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web">Grein, Paul (2012-02-29). <a rel="nofollow" class="external text" href="http://music.yahoo.com/blogs/chart-watch/week-ending-feb-26-2012-albums-half-top-160050213.html">"Week Ending Feb. 26, 2012. Albums: Half of the Top 10 | Chart Watch (NEW) - Yahoo Music"</a>. Music.yahoo.com<span class="reference-accessdate">. Retrieved 2014-04-20</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blueprint&amp;rft.aufirst=Paul&amp;rft.au=Grein%2C+Paul&amp;rft.aulast=Grein&amp;rft.btitle=Week+Ending+Feb.+26%2C+2012.+Albums%3A+Half+of+the+Top+10+%26%23124%3B+Chart+Watch+%28NEW%29+-+Yahoo+Music&amp;rft.date=2012-02-29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmusic.yahoo.com%2Fblogs%2Fchart-watch%2Fweek-ending-feb-26-2012-albums-half-top-160050213.html&amp;rft.pub=Music.yahoo.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Leroy-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Leroy_14-0">^</a></b></span> <span class="reference-text">Leroy, Dan. <a rel="nofollow" class="external text" href="http://ca.music.yahoo.com/read/review/12028031">Review: <i>The Blueprint</i></a>. <a href="/wiki/Yahoo!_Music" title="Yahoo! Music">Yahoo! Music</a>. Retrieved on 2009-09-05.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation news">Reid, Shaheem (2001-09-27). <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1448413/20010827/jay_z.jhtml">"Jay-Z Announces Blueprint Lounge Tour Dates"</a>. MTV<span class="reference-accessdate">. Retrieved 2009-09-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blueprint&amp;rft.aufirst=Shaheem&amp;rft.aulast=Reid&amp;rft.au=Reid%2C+Shaheem&amp;rft.btitle=Jay-Z+Announces+Blueprint+Lounge+Tour+Dates&amp;rft.date=2001-09-27&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1448413%2F20010827%2Fjay_z.jhtml&amp;rft.pub=MTV&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Birchmeier-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Birchmeier_16-0">^</a></b></span> <span class="reference-text">Birchmeier, Jason. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r549749">Review: <i>The Blueprint</i></a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>. Retrieved on 2009-09-05.</span></li>
+<li id="cite_note-Christgau-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Christgau_17-0">^</a></b></span> <span class="reference-text"><span class="citation news"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Christgau, Robert</a> (March 12, 2002). <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/cg/cgv302-02.php">"Consumer Guide: 2001 Gets Better"</a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> (New York)<span class="reference-accessdate">. Retrieved July 25, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blueprint&amp;rft.atitle=Consumer+Guide%3A+2001+Gets+Better&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.date=March+12%2C+2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fxg%2Fcg%2Fcgv302-02.php&amp;rft.jtitle=The+Village+Voice&amp;rft.place=New+York&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hermes-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hermes_18-0">^</a></b></span> <span class="reference-text">Hermes, Will. <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,175535,00.html">Review: <i>The Blueprint</i></a>. <a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a>. Retrieved on 2009-09-05. *Note: EW website posts incorrect rating (see <a rel="nofollow" class="external text" href="http://www.metacritic.com/music/artists/jayz/blueprint">Metacritic page</a>)</span></li>
+<li id="cite_note-Kessler-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kessler_19-0">^</a></b></span> <span class="reference-text">Kessler, Ted. "<a rel="nofollow" class="external text" href="http://www.nme.com/reviews/jay-z/5681">Review: <i>The Blueprint</i></a>. <a href="/wiki/NME" title="NME">NME</a>: 41. October 6, 2001. (Transcription of original review at <a href="/wiki/Talk:The_Blueprint#NME_review" title="Talk:The Blueprint">talk page</a>)</span></li>
+<li id="cite_note-Ethan-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ethan_20-0">^</a></b></span> <span class="reference-text">P, Ethan. Reviewed on November 6th, 2001. <a rel="nofollow" class="external text" href="http://pitchfork.com/reviews/albums/4216-the-blueprint/">Review: <i>The Blueprint</i></a>. <a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a>. Retrieved on 2012-09-15.</span></li>
+<li id="cite_note-Neal-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Neal_21-0">^</a></b></span> <span class="reference-text">Neal, Mark Anthony. <a rel="nofollow" class="external text" href="http://www.popmatters.com/music/reviews/j/jayz-blueprint.shtml">Review: <i>The Blueprint</i></a>. <a href="/wiki/PopMatters" title="PopMatters">PopMatters</a>. Retrieved on 2009-09-05.</span></li>
+<li id="cite_note-Jones-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jones_22-0">^</a></b></span> <span class="reference-text">Jones, Steve. <a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/USAToday/access/82004970.html?dids=82004970:82004970&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Sep+25%2C+2001&amp;author=Steve+Jones%3B+Elysa+Gardner%3B+Brian+Mansfield&amp;pub=USA+TODAY&amp;desc=Jay-Z's+'Blueprint'+has+designs+on+chart+dominance&amp;pqatl=google">Review: <i>The Blueprint</i></a>. <a href="/wiki/USA_Today" title="USA Today">USA Today</a>: D.08. September 25, 2001.</span></li>
+<li id="cite_note-Hampton-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hampton_23-0">^</a></b></span> <span class="reference-text">Hampton, Dream. <a rel="nofollow" class="external text" href="http://books.google.com/books?id=vyUEAAAAMBAJ&amp;pg=PA145">Review: <i>The Blueprint</i></a>. <a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a>: 145–146. November 2001.</span></li>
+<li id="cite_note-Fields-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fields_24-0">^</a></b></span> <span class="reference-text">Fields, Curt. <a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/washingtonpost/access/81713104.html?dids=81713104:81713104&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Sep+21%2C+2001&amp;author=&amp;pub=The+Washington+Post&amp;desc=JAY-Z+%22The+Blueprint%22+Roc-A-Fe+...&amp;pqatl=google">Review: <i>The Blueprint</i></a>. <a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a>: T.06. September 21, 2001. (Transcription of original review at <a href="/wiki/Talk:The_Blueprint#The_Washington_Post_review" title="Talk:The Blueprint">talk page</a>)</span></li>
+<li id="cite_note-Rabin-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rabin_25-0">^</a></b></span> <span class="reference-text">Rabin, Nathan. <a rel="nofollow" class="external text" href="http://www.avclub.com/articles/the-blueprint,18425/">Review: <i>The Blueprint</i></a>. <i><a href="/wiki/The_A.V._Club" title="The A.V. Club">The A.V. Club</a></i>. Retrieved on 2009-09-05.</span></li>
+<li id="cite_note-The_Source-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Source_26-0">^</a></b></span> <span class="reference-text"><span class="citation web">Osorio, Kim. <a rel="nofollow" class="external text" href="http://thesource.com/2012/05/14/5micswhogotnext/">"5 Mics: Who Got Next?"</a>. The Source<span class="reference-accessdate">. Retrieved 2012-05-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blueprint&amp;rft.aufirst=Kim&amp;rft.aulast=Osorio&amp;rft.au=Osorio%2C+Kim&amp;rft.btitle=5+Mics%3A+Who+Got+Next%3F&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fthesource.com%2F2012%2F05%2F14%2F5micswhogotnext%2F&amp;rft.pub=The+Source&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/the-blueprint/jay-z">"The Blueprint Reviews"</a>. Metacritic<span class="reference-accessdate">. Retrieved 2014-04-20</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blueprint&amp;rft.btitle=The+Blueprint+Reviews&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.metacritic.com%2Fmusic%2Fthe-blueprint%2Fjay-z&amp;rft.pub=Metacritic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.exclaim.ca/index.asp?layid=22&amp;csid=1&amp;csid1=2325">Exclaim! Canada's Music Authority</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Geier, Thom; Jensen, Jeff; Jordan, Tina; Lyons, Margaret; Markovitz, Adam; Nashawaty, Chris; Pastorek, Whitney; Rice, Lynette; Rottenberg, Josh; Schwartz, Missy; Slezak, Michael; Snierson, Dan; Stack, Tim; Stroup, Kate; Tucker, Ken; Vary, Adam B.; Vozick-Levinson, Simon; Ward, Kate (December 11, 2009), "THE 100 Greatest MOVIES, TV SHOWS, ALBUMS, BOOKS, CHARACTERS, SCENES, EPISODES, SONGS, DRESSES, MUSIC VIDEOS, AND TRENDS THAT ENTERTAINED US OVER THE PAST 10 YEARS". Entertainment Weekly. (1079/1080):74-84</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://pitchfork.com/features/staff-lists/7710-the-top-200-albums-of-the-2000s-20-1/2/">"The Top 200 Albums of the 2000s: 20-1"</a>. <a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a>. 2009-10-02<span class="reference-accessdate">. Retrieved 2009-10-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blueprint&amp;rft.btitle=The+Top+200+Albums+of+the+2000s%3A+20-1&amp;rft.date=2009-10-02&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Ffeatures%2Fstaff-lists%2F7710-the-top-200-albums-of-the-2000s-20-1%2F2%2F&amp;rft.pub=Pitchfork+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/list/266375/billboard-critics-top-20-albums-of-the-decade">Critics' 20 Best Albums of the 2000s</a>, Billboard.com</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation web">Videos, Teen. <a rel="nofollow" class="external text" href="http://www.pastemagazine.com/blogs/lists/2009/11/the-best-albums-of-the-decade.html">"The 50 Best Albums of the Decade (2000-2009)&#160;:: Blogs&#160;:: List of the Day&#160;:: Paste"</a>. Pastemagazine.com<span class="reference-accessdate">. Retrieved 2012-01-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blueprint&amp;rft.aufirst=Teen&amp;rft.aulast=Videos&amp;rft.au=Videos%2C+Teen&amp;rft.btitle=The+50+Best+Albums+of+the+Decade+%282000-2009%29+%3A%3A+Blogs+%3A%3A+List+of+the+Day+%3A%3A+Paste&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.pastemagazine.com%2Fblogs%2Flists%2F2009%2F11%2Fthe-best-albums-of-the-decade.html&amp;rft.pub=Pastemagazine.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/news/story/31248017/100_best_albums_of_the_decade/39">"#4 Jay-Z-The Blueprint"</a> Rolling Stone's 100 Best Albums of the Decade. 9 December 2009. Retrieved 10 December 2009.</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blog.rhapsody.com/2009/12/100-best-pop-albums-of-the-decade-20-11.html">"#20 Jay-Z-The Blueprint"</a> Rhapsody's 100 Best Albums of the Decade. Retrieved 12 January 2010.</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vibe.com/photo-gallery/greatest-50-albums-since-93/?page=44">"#8 Jay-Z-The Blueprint"</a> The Greatest 50 Albums Since '93. Retrieved 18 April 2013.</span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r549749">allmusic ((( The Blueprint &gt; Charts &amp; Awards &gt; Billboard Albums )))</a>. Allmusic. Retrieved May 24, 2008.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Blueprint&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/Jay-Z-The-Blueprint/master/46989">The Blueprint</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><i><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/artists/jayz/blueprint">The Blueprint</a></i> at <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.blender.com/guide/new/50980/blueprint.html">Album Review</a> at <i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i></li>
+<li><a rel="nofollow" class="external text" href="http://www.stylusmagazine.com/reviews/jay-z/the-blueprint.htm">Album review</a> at <a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.acclaimedmusic.net/Current/A1206.htm">Album accolades</a> at acclaimedmusic.net</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Jay-Z" title="Template:Jay-Z"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Jay-Z" title="Template talk:Jay-Z"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Jay-Z&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/Jay-Z_discography" title="Jay-Z discography">Discography</a></li>
+<li><a href="/wiki/List_of_songs_recorded_by_Jay-Z" title="List of songs recorded by Jay-Z">Songs</a></li>
+<li><a href="/wiki/Jay-Z#Filmography" title="Jay-Z">Films</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Jay-Z" title="List of awards and nominations received by Jay-Z">Awards and nominations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Reasonable_Doubt_(album)" title="Reasonable Doubt (album)">Reasonable Doubt</a></i></li>
+<li><i><a href="/wiki/In_My_Lifetime,_Vol._1" title="In My Lifetime, Vol. 1">In My Lifetime, Vol. 1</a></i></li>
+<li><i><a href="/wiki/Vol._2..._Hard_Knock_Life" title="Vol. 2... Hard Knock Life">Vol. 2... Hard Knock Life</a></i></li>
+<li><i><a href="/wiki/Vol._3..._Life_and_Times_of_S._Carter" title="Vol. 3... Life and Times of S. Carter">Vol. 3... Life and Times of S. Carter</a></i></li>
+<li><i><a href="/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia">The Dynasty: Roc La Familia</a></i></li>
+<li><i><strong class="selflink">The Blueprint</strong></i></li>
+<li><i><a href="/wiki/The_Blueprint_2:_The_Gift_%26_The_Curse" title="The Blueprint 2: The Gift &amp; The Curse">The Blueprint 2: The Gift &amp; The Curse</a></i></li>
+<li><i><a href="/wiki/The_Black_Album_(Jay-Z_album)" title="The Black Album (Jay-Z album)">The Black Album</a></i></li>
+<li><i><a href="/wiki/Kingdom_Come_(Jay-Z_album)" title="Kingdom Come (Jay-Z album)">Kingdom Come</a></i></li>
+<li><i><a href="/wiki/American_Gangster_(album)" title="American Gangster (album)">American Gangster</a></i></li>
+<li><i><a href="/wiki/The_Blueprint_3" title="The Blueprint 3">The Blueprint 3</a></i></li>
+<li><i><a href="/wiki/Magna_Carta_Holy_Grail" title="Magna Carta Holy Grail">Magna Carta Holy Grail</a></i></li>
+</ul>
+</div>
+<table cellspacing="0" class="nowraplinks vcard navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE; text-align:center;;">Collaborations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Jay-Z:_Unplugged" title="Jay-Z: Unplugged" class="mw-redirect">Jay-Z: Unplugged</a></i> <small style="font-size:85%;">(with <a href="/wiki/The_Roots" title="The Roots">The Roots</a>)</small></li>
+<li><i><a href="/wiki/The_Best_of_Both_Worlds_(Jay-Z_and_R._Kelly_album)" title="The Best of Both Worlds (Jay-Z and R. Kelly album)">The Best of Both Worlds</a></i> <small style="font-size:85%;">(with <a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a>)</small></li>
+<li><i><a href="/wiki/Unfinished_Business_(Jay-Z_and_R._Kelly_album)" title="Unfinished Business (Jay-Z and R. Kelly album)">Unfinished Business</a></i> <small style="font-size:85%;">(with R. Kelly)</small></li>
+<li><i><a href="/wiki/Collision_Course_(album)" title="Collision Course (album)">Collision Course</a></i> <small style="font-size:85%;">(with <a href="/wiki/Linkin_Park" title="Linkin Park">Linkin Park</a>)</small></li>
+<li><i><a href="/wiki/Watch_the_Throne" title="Watch the Throne">Watch the Throne</a></i> <small style="font-size:85%;">(with <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilation albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Chapter_One:_Greatest_Hits" title="Chapter One: Greatest Hits">Chapter One: Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Blueprint_2.1" title="Blueprint 2.1">Blueprint 2.1</a></i></li>
+<li><i><a href="/wiki/Bring_It_On:_The_Best_of_Jay-Z" title="Bring It On: The Best of Jay-Z">Bring It On: The Best of Jay-Z</a></i></li>
+<li><i><a href="/wiki/Greatest_Hits_(Jay-Z_album)" title="Greatest Hits (Jay-Z album)">Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Jay-Z:_The_Hits_Collection,_Volume_One" title="Jay-Z: The Hits Collection, Volume One">Jay-Z: The Hits Collection, Volume One</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Concert tours</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Unfinished_Business_(R._Kelly_%26_Jay-Z_album)#Best_of_Both_Worlds_tour" title="Unfinished Business (R. Kelly &amp; Jay-Z album)" class="mw-redirect">Best of Both Worlds Tour</a></li>
+<li><a href="/wiki/American_Gangster_(album)#Tour" title="American Gangster (album)">American Gangster Live</a></li>
+<li><a href="/wiki/Heart_of_the_City_Tour" title="Heart of the City Tour">Heart of the City Tour</a></li>
+<li><a href="/wiki/Jay-Z_%26_Ciara_Live" title="Jay-Z &amp; Ciara Live">Jay-Z &amp; Ciara Live</a></li>
+<li><a href="/wiki/Jay-Z_Fall_Tour" title="Jay-Z Fall Tour">Jay-Z Fall Tour</a></li>
+<li><a href="/wiki/The_Blueprint_3_Tour" title="The Blueprint 3 Tour" class="mw-redirect">The Blueprint 3 Tour</a></li>
+<li><a href="/wiki/The_Home_%26_Home_Tour" title="The Home &amp; Home Tour">The Home &amp; Home Tour</a></li>
+<li><a href="/wiki/U2_360_Tour" title="U2 360 Tour" class="mw-redirect">U2 360 Tour</a> <small>(Supporting act)</small></li>
+<li><a href="/wiki/Watch_the_Throne_Tour" title="Watch the Throne Tour">Watch the Throne Tour</a></li>
+<li><a href="/wiki/Legends_of_the_Summer_Stadium_Tour" title="Legends of the Summer Stadium Tour" class="mw-redirect">Legends of the Summer Stadium Tour</a></li>
+<li><a href="/wiki/Magna_Carter_World_Tour" title="Magna Carter World Tour">Magna Carter World Tour</a></li>
+<li><a href="/wiki/On_the_Run_Tour_(Beyonc%C3%A9_and_Jay-Z)" title="On the Run Tour (Beyoncé and Jay-Z)">On the Run Tour</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella Records</a></li>
+<li><a href="/wiki/Roc_Nation" title="Roc Nation">Roc Nation</a></li>
+<li><a href="/wiki/StarRoc" title="StarRoc">StarRoc</a></li>
+<li><a href="/wiki/Takeover_Roc_Nation" title="Takeover Roc Nation">Takeover Roc Nation</a></li>
+<li><a href="/wiki/40/40_Club" title="40/40 Club">40/40 Club</a></li>
+<li><a href="/wiki/Jay-Z%E2%80%93Nas_feud" title="Jay-Z–Nas feud">Jay-Z–Nas feud</a></li>
+<li><a href="/wiki/Beyonc%C3%A9_Knowles" title="Beyoncé Knowles" class="mw-redirect">Beyoncé</a></li>
+<li><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></li>
+<li><a href="/wiki/Rihanna" title="Rihanna">Rihanna</a></li>
+<li><a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam Recordings</a></li>
+<li><i><a href="/wiki/Jaydiohead" title="Jaydiohead">Jaydiohead</a></i></li>
+<li><i><a href="/wiki/Fade_to_Black_(2004_film)" title="Fade to Black (2004 film)">Fade to Black</a></i></li>
+<li><a href="/wiki/Live_Nation" title="Live Nation" class="mw-redirect">Live Nation</a></li>
+<li><a href="/wiki/NBA_2K13" title="NBA 2K13">NBA 2K13</a></li>
+<li><a href="/wiki/Brooklyn_Nets" title="Brooklyn Nets">Brooklyn Nets</a></li>
+<li><a href="/wiki/Budweiser_Made_in_America_Festival" title="Budweiser Made in America Festival">Made in America (festival)</a></li>
+<li><a href="/wiki/Made_in_America_(2013_film)" title="Made in America (2013 film)"><i>Made in America</i> (film)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Jay-Z" title="Book:Jay-Z">Book:Jay-Z</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Jay-Z" title="Category:Jay-Z">Category:Jay-Z</a></b></li>
+<li><b><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Hip_hop" title="Portal:Hip hop">Portal:Hip hop</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1109
+CPU time usage: 2.044 seconds
+Real time usage: 2.181 seconds
+Preprocessor visited node count: 8548/1000000
+Preprocessor generated node count: 59931/1500000
+Post‐expand include size: 84783/2048000 bytes
+Template argument size: 12145/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.110/10.000 seconds
+Lua memory usage: 2.43 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:518542-0!*!0!!en!4!* and timestamp 20140530140112 and revision id 608755831
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=The_Blueprint&amp;oldid=608755831">http://en.wikipedia.org/w/index.php?title=The_Blueprint&amp;oldid=608755831</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2001_albums" title="Category:2001 albums">2001 albums</a></li><li><a href="/wiki/Category:Jay-Z_albums" title="Category:Jay-Z albums">Jay-Z albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Bink" title="Category:Albums produced by Bink">Albums produced by Bink</a></li><li><a href="/wiki/Category:Albums_produced_by_Eminem" title="Category:Albums produced by Eminem">Albums produced by Eminem</a></li><li><a href="/wiki/Category:Albums_produced_by_Just_Blaze" title="Category:Albums produced by Just Blaze">Albums produced by Just Blaze</a></li><li><a href="/wiki/Category:Albums_produced_by_Kanye_West" title="Category:Albums produced by Kanye West">Albums produced by Kanye West</a></li><li><a href="/wiki/Category:Albums_produced_by_Timbaland" title="Category:Albums produced by Timbaland">Albums produced by Timbaland</a></li><li><a href="/wiki/Category:Albums_produced_by_Trackmasters" title="Category:Albums produced by Trackmasters">Albums produced by Trackmasters</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li><li><a href="/wiki/Category:Roc-A-Fella_Records_albums" title="Category:Roc-A-Fella Records albums">Roc-A-Fella Records albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2012" title="Category:Articles with unsourced statements from July 2012">Articles with unsourced statements from July 2012</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Blueprint&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Blueprint" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/The_Blueprint"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:The_Blueprint"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/The_Blueprint" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=The_Blueprint&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=The_Blueprint&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Blueprint" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Blueprint" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=The_Blueprint&amp;oldid=608755831" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=The_Blueprint&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1088473" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=The_Blueprint&amp;id=608755831" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Blueprint">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=The+Blueprint&amp;oldid=608755831&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=The_Blueprint&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/The_Blueprint" title="The Blueprint – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/The_Blueprint" title="The Blueprint – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/The_Blueprint" title="The Blueprint – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/The_Blueprint" title="The Blueprint – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/The_Blueprint" title="The Blueprint – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/The_Blueprint" title="The Blueprint – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/The_Blueprint" title="The Blueprint – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/The_Blueprint" title="The Blueprint – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/The_Blueprint" title="The Blueprint – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/The_Blueprint" title="The Blueprint – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/The_Blueprint" title="The Blueprint – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/The_Blueprint" title="The Blueprint – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q1088473#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 May 2014 at 23:20.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/The_Blueprint" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":213,"wgHostname":"mw1173"});
+}</script>
+	</body>
+</html>
+	

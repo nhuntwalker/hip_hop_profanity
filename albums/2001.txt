@@ -1,0 +1,1042 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>2001 (Dr. Dre album) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/2001_(Dr._Dre_album)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/2001_(Dr._Dre_album)" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cmw.PopUpMediaTransform%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2001_(Dr._Dre_album)","wgTitle":"2001 (Dr. Dre album)","wgCurRevisionId":610554249,"wgRevisionId":610554249,"wgArticleId":1966560,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Good articles","Articles with hAudio microformats","1999 albums","Dr. Dre albums","Aftermath Entertainment albums","Albums certified multi-platinum by the Recording Industry Association of America","Albums produced by Scott Storch","Albums produced by Lord Finesse","Albums produced by Dr. Dre","English-language albums","Albums produced by Mel-Man","Gangsta rap albums","Cannabis music","Sequel albums","G-funk albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2001_(Dr._Dre_album)","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q182280"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2001_Dr_Dre_album skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>2001</i> (Dr. Dre album)</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div style="display:none; right:10px;" class="metadata topicon nopopups" id="good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/15px-Symbol_support_vote.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/23px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/30px-Symbol_support_vote.svg.png 2x" data-file-width="180" data-file-height="185" /></a></div>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">2001</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:DrDre-2001.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/5/56/DrDre-2001.jpg/220px-DrDre-2001.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/5/56/DrDre-2001.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/5/56/DrDre-2001.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">November 16, 1999</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast hip hop</a>, <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a>, <a href="/wiki/G-funk" title="G-funk">G-funk</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>68:01</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Aftermath_Entertainment" title="Aftermath Entertainment">Aftermath</a>, <a href="/wiki/Interscope_Records" title="Interscope Records">Interscope</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> <small>(also <a href="/wiki/Executive_producer#Music" title="Executive producer">exec.</a>)</small>, <a href="/wiki/Mel-Man" title="Mel-Man">Mel-Man</a>, <a href="/wiki/Scott_Storch" title="Scott Storch">Scott Storch</a>, <a href="/wiki/Lord_Finesse" title="Lord Finesse">Lord Finesse</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/The_Chronic" title="The Chronic">The Chronic</a></i><br />
+(1992)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>2001</b></i><br />
+(1999)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Detox_(Dr._Dre_album)" title="Detox (Dr. Dre album)" class="mw-redirect">Detox</a></i><br />
+(TBA)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>2001</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Still_D.R.E." title="Still D.R.E.">Still D.R.E.</a>"</span><br />
+Released: October 13, 1999</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Forgot_About_Dre" title="Forgot About Dre">Forgot About Dre</a>"</span><br />
+Released: January 29, 2000</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/The_Next_Episode" title="The Next Episode">The Next Episode</a>"</span><br />
+Released: July 3, 2000</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/The_Watcher_(Dr._Dre_song)" title="The Watcher (Dr. Dre song)">The Watcher</a>"</span><br />
+Released: February 26, 2001<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>2001</b></i> (also referred to as <i><b>The Chronic 2001</b></i>) is the second <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by American <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> recording artist <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, released on November 16, 1999, by <a href="/wiki/Interscope_Records" title="Interscope Records">Interscope Records</a>. It is the follow-up to his debut album <i><a href="/wiki/The_Chronic" title="The Chronic">The Chronic</a></i> (1992). It was <a href="/wiki/Hip_hop_production" title="Hip hop production">produced</a> primarily by Dr. Dre and <a href="/wiki/Mel-Man" title="Mel-Man">Mel-Man</a>, as well as <a href="/wiki/Lord_Finesse" title="Lord Finesse">Lord Finesse</a>, and features several <a href="/wiki/Guest_appearance" title="Guest appearance">guest contributions</a> from fellow American <a href="/wiki/Rapper" title="Rapper" class="mw-redirect">rappers</a> such as <a href="/wiki/Hittman_(rapper)" title="Hittman (rapper)" class="mw-redirect">Hittman</a>, <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>, <a href="/wiki/Kurupt" title="Kurupt">Kurupt</a>, <a href="/wiki/Xzibit" title="Xzibit">Xzibit</a>, <a href="/wiki/Nate_Dogg" title="Nate Dogg">Nate Dogg</a>, and <a href="/wiki/Eminem" title="Eminem">Eminem</a>. <i>2001</i> exhibits an expansion on his debut's <a href="/wiki/G-funk" title="G-funk">G-funk</a> sound and contains <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a> themes such as violence, promiscuity, drug use, street gangs, and crime.</p>
+<p>The album debuted at number two on the U.S. <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart, selling 516,000 copies in its first week. It produced three singles that attained chart success and has been certified <a href="/wiki/RIAA_certification" title="RIAA certification">sextuple platinum</a> in sales by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a> after sales of six million copies in the United States. Despite mixed criticism toward its gangster-themed lyrics, <i>2001</i> received generally positive reviews from music critics. As of July 2013 the album has sold 7,664,000 copies in the United States.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Recording"><span class="tocnumber">2</span> <span class="toctext">Recording</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Music"><span class="tocnumber">3</span> <span class="toctext">Music</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Production"><span class="tocnumber">3.1</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Lyrics"><span class="tocnumber">3.2</span> <span class="toctext">Lyrics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Singles"><span class="tocnumber">4</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Commercial_performance"><span class="tocnumber">5</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Critical_reception"><span class="tocnumber">6</span> <span class="toctext">Critical reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Accolades"><span class="tocnumber">6.1</span> <span class="toctext">Accolades</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Track_listing"><span class="tocnumber">7</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Personnel"><span class="tocnumber">8</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Charts"><span class="tocnumber">9</span> <span class="toctext">Charts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Weekly_charts"><span class="tocnumber">9.1</span> <span class="toctext">Weekly charts</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Year-end_charts"><span class="tocnumber">9.2</span> <span class="toctext">Year-end charts</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Decade-end_charts"><span class="tocnumber">9.3</span> <span class="toctext">Decade-end charts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Notes"><span class="tocnumber">11</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In an interview with <i>The New York Times</i>, Dr. Dre talked of his motivation to record the album and how he felt that he had to prove himself to fans and media again after doubts arose over his production and rapping ability. These doubts came from the fact that he had not released a solo studio album since <i><a href="/wiki/The_Chronic" title="The Chronic">The Chronic</a></i> (1992). He stated:</p>
+<blockquote class="templatequote">
+<p>For the last couple of years, there's been a lot of talk out on the streets about whether or not I can still hold my own, whether or not I'm still good at producing. That was the ultimate motivation for me. Magazines, word of mouth and rap tabloids were saying I didn't have it any more. What more do I need to do? How many platinum records have I made? O.K., here's the album -- now what do you have to say?<sup id="cite_ref-NYTimes-The-Street-Talk_2-0" class="reference"><a href="#cite_note-NYTimes-The-Street-Talk-2"><span>[</span>2<span>]</span></a></sup></p>
+</blockquote>
+<p>The album was originally intended to be a <a href="/wiki/Mixtape" title="Mixtape">mixtape</a>; with tracks linked through interludes and turntable effects, but was then changed to be set up like a film. Dr. Dre stated, "Everything you hear is planned. It's a movie, with different varieties of situations. So you've got buildups, touching moments, aggressive moments. You've even got a 'Pause for Porno.' It's got everything that a movie needs."<sup id="cite_ref-NYTimes-The-Street-Talk_2-1" class="reference"><a href="#cite_note-NYTimes-The-Street-Talk-2"><span>[</span>2<span>]</span></a></sup> Speaking of how he did not record the album for club or radio play and that he planned the album simply for entertainment with comical aspects throughout, he commented "I'm not trying to send out any messages or anything with this record. I just basically do hard-core hip-hop and try to add a touch of <a href="/wiki/Dark_comedy" title="Dark comedy" class="mw-redirect">dark comedy</a> here and there. A lot of times the media just takes this and tries to make it into something else when it's all entertainment first. You shouldn't take it too seriously."<sup id="cite_ref-NYTimes-The-Street-Talk_2-2" class="reference"><a href="#cite_note-NYTimes-The-Street-Talk-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Recording">Recording</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=2" title="Edit section: Recording">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some of the lyrics on the album used by Dre have been noted to be penned by several ghostwriters. <a href="/wiki/Royce_da_5%279%22" title="Royce da 5'9&quot;">Royce da 5'9"</a> was rumored to be a ghostwriter on the album.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> He was noted for writing the last track, "The Message";<sup id="cite_ref-Interview_4-0" class="reference"><a href="#cite_note-Interview-4"><span>[</span>4<span>]</span></a></sup> however, he is not credited by his legal name or alias in the liner notes. A track he recorded on the album, originally named "The Way I Be Pimpin'", was later retouched as "Xxplosive"; this version has Dr. Dre rapping penned verses by Royce and featured Royce's vocals on the chorus. Royce wrote several tracks such as "The Throne Is Mine" and "Stay In Your Place" which were later cut from the final track list. The tracks have been leaked later on several mixtapes, including <i>Pretox</i>.<sup id="cite_ref-Datpiff_5-0" class="reference"><a href="#cite_note-Datpiff-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>The album's production expanded on that of <i>The Chronic</i>, with new, sparse beats and reduced use of samples which were prominent on his debut album.<sup id="cite_ref-AMG_6-0" class="reference"><a href="#cite_note-AMG-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-EW_7-0" class="reference"><a href="#cite_note-EW-7"><span>[</span>7<span>]</span></a></sup> Co-producer Scott Storch talked of how Dr. Dre used his collaborators during recording sessions: "At the time, I saw Dr. Dre desperately needed something. He needed a fuel injection, and Dre utilized me as the nitrous oxide. He threw me into the mix, and I sort of tapped on a new flavor with my whole piano sound and the strings and orchestration. So I'd be on the keyboards, and Mike [Elizondo] was on the bass guitar, and Dre was on the drum machine."<sup id="cite_ref-RS-ScottStorch_8-0" class="reference"><a href="#cite_note-RS-ScottStorch-8"><span>[</span>8<span>]</span></a></sup> Josh Tyrangiel of <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i> has described the recording process which Dr. Dre employs, stating "Every Dre track begins the same way, with Dre behind a drum machine in a room full of trusted musicians. (They carry beepers. When he wants to work, they work.) He'll program a beat, then ask the musicians to play along; when Dre hears something he likes, he isolates the player and tells him how to refine the sound."<sup id="cite_ref-Time-Dr.Dre_9-0" class="reference"><a href="#cite_note-Time-Dr.Dre-9"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=3" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=4" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The album primarily featured co-production between Dr. Dre and <a href="/wiki/Mel-Man" title="Mel-Man">Mel-Man</a> and was generally well received by critics. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> writer <a href="/wiki/Stephen_Thomas_Erlewine" title="Stephen Thomas Erlewine">Stephen Thomas Erlewine</a> noted that Dr. Dre had expanded on the <a href="/wiki/G-funk" title="G-funk">G-funk</a> beats on his previous album, <i>The Chronic</i>, and stated, "He's pushed himself hard, finding new variations in the formula by adding ominous strings, soulful vocals, and reggae, resulting in fairly interesting recontextualizations" and went on to say, "Sonically, this is first-rate, straight-up gangsta."<sup id="cite_ref-AMG_6-1" class="reference"><a href="#cite_note-AMG-6"><span>[</span>6<span>]</span></a></sup> <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i>’s Tom Sinclair depicted it as "Chilly keyboard motifs gliding across gut-punching bass lines, strings and synths swooping in and out of the mix, naggingly familiar guitar licks providing visceral punctuation".<sup id="cite_ref-EW_7-1" class="reference"><a href="#cite_note-EW-7"><span>[</span>7<span>]</span></a></sup> <i><a href="/wiki/NME" title="NME">NME</a></i> described the production as "patented tectonic funk beats and mournful atmospherics".<sup id="cite_ref-NME_10-0" class="reference"><a href="#cite_note-NME-10"><span>[</span>10<span>]</span></a></sup> <i>PopMatters</i> praised the production, stating that "the hip-hop rhythms are catchy, sometimes in your face, sometimes subtle, but always a fine backdrop for the power of Dre's voice."<sup id="cite_ref-PopMatters_11-0" class="reference"><a href="#cite_note-PopMatters-11"><span>[</span>11<span>]</span></a></sup> <a href="/wiki/Jon_Pareles" title="Jon Pareles">Jon Pareles</a> of <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> mentioned that the beats were "lean and immaculate, each one a pithy combination of beat, rap, melody and strategic silences".<sup id="cite_ref-NYTimes_12-0" class="reference"><a href="#cite_note-NYTimes-12"><span>[</span>12<span>]</span></a></sup> The album marked the beginning of Dr. Dre's collaboration with keyboardist <a href="/wiki/Scott_Storch" title="Scott Storch">Scott Storch</a>, who had previously worked with <a href="/wiki/The_Roots" title="The Roots">The Roots</a> and is credited as a co-writer on several of <i>2001'</i>s tracks, including the hit single "<a href="/wiki/Still_D.R.E." title="Still D.R.E.">Still D.R.E.</a>". Storch would later go on to become a successful producer in his own right, and has been credited as a co-producer with Dr. Dre on some of his productions since.<sup id="cite_ref-ScottStorch_13-0" class="reference"><a href="#cite_note-ScottStorch-13"><span>[</span>13<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Lyrics">Lyrics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=5" title="Edit section: Lyrics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The lyrics on the album received criticism and created some controversy. They include many themes associated with gangsta rap, such as violence, promiscuity, street gangs, drive-by shootings, crime and drug usage. Stephen Thomas Erlewine said that the only subject matter on the album was "violence, drugs, pussy, bitches, dope, guns, and gangsters" and that these themes have become repetitive and unchanged in the last ten years.<sup id="cite_ref-AMG_6-2" class="reference"><a href="#cite_note-AMG-6"><span>[</span>6<span>]</span></a></sup> Critics noted that Dr. Dre had differed from his effort to "clean-up his act" which he tried to establish with his 1996 single, "<a href="/wiki/Been_There,_Done_That" title="Been There, Done That" class="mw-redirect">Been There, Done That</a>" from <i><a href="/wiki/Dr._Dre_Presents...The_Aftermath" title="Dr. Dre Presents...The Aftermath" class="mw-redirect">Dr. Dre Presents...The Aftermath</a></i>.<sup id="cite_ref-NYTimes-The-Street-Talk_2-3" class="reference"><a href="#cite_note-NYTimes-The-Street-Talk-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-EW_7-2" class="reference"><a href="#cite_note-EW-7"><span>[</span>7<span>]</span></a></sup> <i>NME</i> mentioned that the album was full of "pig-headed, punk-dicked, 'bitch'-dissing along with requisite dollops of ho-slapping violence, marijuana-addled bravado and penis-sucking wish fulfilment."<sup id="cite_ref-NME_10-1" class="reference"><a href="#cite_note-NME-10"><span>[</span>10<span>]</span></a></sup> Massey noted that the lyrics were overly explicit but praised his delivery and flow: "His rhymes are quick, his delivery laid back yet full of punch."<sup id="cite_ref-PopMatters_11-1" class="reference"><a href="#cite_note-PopMatters-11"><span>[</span>11<span>]</span></a></sup> The rhymes involve Dr. Dre's return to the forefront of hip hop, which is conveyed in the singles "Still D.R.E." and "Forgot About Dre". Many critics cited the last track, "The Message"; a song dedicated to Dr. Dre's deceased brother, as what the album could have been without the excessively explicit lyrics,<sup id="cite_ref-NME_10-2" class="reference"><a href="#cite_note-NME-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-NYTimes_12-1" class="reference"><a href="#cite_note-NYTimes-12"><span>[</span>12<span>]</span></a></sup> with Massey calling it "downright beautiful" and "a classic of modern rap".<sup id="cite_ref-PopMatters_11-2" class="reference"><a href="#cite_note-PopMatters-11"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=6" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table border="0" style="float:right; font-size:100%; color:black; width:130px;">
+<tr>
+<td>
+<table class="mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image">
+<div class="center">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/75px-Gnome-mime-sound-openclipart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/100px-Gnome-mime-sound-openclipart.svg.png 2x" data-file-width="160" data-file-height="160" /></div>
+</div>
+</td>
+<td class="mbox-text plainlist" style="line-height:1.1em;">
+<div class="haudio">
+<div style="padding:2px 0;" class="fn"><a href="/wiki/File:Dr._Dre_-_Still_D.R.E..ogg" title="File:Dr. Dre - Still D.R.E..ogg">"Still D.R.E."</a></div>
+<div style="padding-right:4px;">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px;height:23px" poster="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="28.283650793651" data-startoffset="0" data-mwtitle="Dr._Dre_-_Still_D.R.E..ogg" data-mwprovider="local"><source src="//upload.wikimedia.org/wikipedia/en/9/94/Dr._Dre_-_Still_D.R.E..ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (68 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="67921"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/en/9/94/Dr._Dre_-_Still_D.R.E..ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+<div style="padding:2px 0 0 0;" class="description">The song exhibits a departure by Dr. Dre from the production style of his previous album, <i>The Chronic</i> (1992).</div>
+</div>
+<hr /></td>
+</tr>
+<tr>
+<td colspan="2" class="mbox-text" style="line-height:1.1em;"><span style="font-size:smaller;"><i>Problems playing this file? See <a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">media help</a>.</i></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>Three singles were released from the album: "<a href="/wiki/Still_D.R.E." title="Still D.R.E.">Still D.R.E.</a>", "<a href="/wiki/Forgot_About_Dre" title="Forgot About Dre">Forgot About Dre</a>" and "<a href="/wiki/The_Next_Episode" title="The Next Episode">The Next Episode</a>". Other tracks "<a href="/wiki/Fuck_You_(Dr._Dre_song)" title="Fuck You (Dr. Dre song)" class="mw-redirect">Fuck You</a>", "Let's Get High", "<a href="/wiki/What%27s_the_Difference_(song)" title="What's the Difference (song)" class="mw-redirect">What's the Difference</a>" and "Xxplosive" were not officially released as singles but received some radio airplay which resulted in them charting in the <a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a>.<sup id="cite_ref-AMG-Singles_14-0" class="reference"><a href="#cite_note-AMG-Singles-14"><span>[</span>14<span>]</span></a></sup> "Still D.R.E." was released as the lead single in October 1999. It peaked at number 93 on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>, number 32 on the <a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a> and reached number 11 on the <a href="/wiki/Hot_Rap_Singles" title="Hot Rap Singles" class="mw-redirect">Hot Rap Singles</a>.<sup id="cite_ref-AMG-Singles_14-1" class="reference"><a href="#cite_note-AMG-Singles-14"><span>[</span>14<span>]</span></a></sup> It reached number six on the UK single charts in March 2000.<sup id="cite_ref-everyHit_15-0" class="reference"><a href="#cite_note-everyHit-15"><span>[</span>15<span>]</span></a></sup> The song was nominated at the <a href="/wiki/Grammy_Awards_of_2000" title="Grammy Awards of 2000" class="mw-redirect">2000 Grammy Awards</a> for <a href="/wiki/Best_Rap_Performance_by_a_Duo_or_Group" title="Best Rap Performance by a Duo or Group" class="mw-redirect">Best Rap Performance by a Duo or Group</a>, but lost to <a href="/wiki/The_Roots" title="The Roots">The Roots</a> and <a href="/wiki/Erykah_Badu" title="Erykah Badu">Erykah Badu</a>'s "You Got Me".<sup id="cite_ref-Grammy_16-0" class="reference"><a href="#cite_note-Grammy-16"><span>[</span>16<span>]</span></a></sup></p>
+<p>"Forgot About Dre" was released as the second single in 2000 and like the previous single, it was a hit on multiple charts. It reached number 25 on the <i>Billboard</i> Hot 100, number 14 on the Hot R&amp;B/Hip-Hop Singles &amp; Tracks and number 3 on the <a href="/wiki/Rhythmic_Top_40" title="Rhythmic Top 40" class="mw-redirect">Rhythmic Top 40</a>.<sup id="cite_ref-AMG-Singles_14-2" class="reference"><a href="#cite_note-AMG-Singles-14"><span>[</span>14<span>]</span></a></sup> It reached number seven on the UK single charts in June 2000.<sup id="cite_ref-everyHit_15-1" class="reference"><a href="#cite_note-everyHit-15"><span>[</span>15<span>]</span></a></sup> The accompanying music video won the <a href="/wiki/MTV_Video_Music_Award_for_Best_Rap_Video" title="MTV Video Music Award for Best Rap Video">MTV Video Music Award for Best Rap Video</a> in 2000. The song won Dr. Dre and Eminem <a href="/wiki/Best_Rap_Performance_by_a_Duo_or_Group" title="Best Rap Performance by a Duo or Group" class="mw-redirect">Best Rap Performance by a Duo or Group</a> at the <a href="/wiki/Grammy_Awards_of_2001" title="Grammy Awards of 2001" class="mw-redirect">2001 Grammy Awards</a>.<sup id="cite_ref-Grammy_16-1" class="reference"><a href="#cite_note-Grammy-16"><span>[</span>16<span>]</span></a></sup> "The Next Episode" was released as the third and final single in 2000. It peaked at number 23 on the <i>Billboard</i> Hot 100, number 11 on the Hot R&amp;B/Hip-Hop Singles &amp; Tracks and number 2 on the Rhythmic Top 40.<sup id="cite_ref-AMG-Singles_14-3" class="reference"><a href="#cite_note-AMG-Singles-14"><span>[</span>14<span>]</span></a></sup> It peaked at number three on UK single charts in February 2001.<sup id="cite_ref-everyHit_15-2" class="reference"><a href="#cite_note-everyHit-15"><span>[</span>15<span>]</span></a></sup> It was nominated at the <a href="/wiki/Grammy_Awards_of_2001" title="Grammy Awards of 2001" class="mw-redirect">2001 Grammy Awards</a> for <a href="/wiki/Best_Rap_Performance_by_a_Duo_or_Group" title="Best Rap Performance by a Duo or Group" class="mw-redirect">Best Rap Performance by a Duo or Group</a>, but the award went to another single from the same album to Dr. Dre and Eminem for "Forgot about Dre".<sup id="cite_ref-Grammy_16-2" class="reference"><a href="#cite_note-Grammy-16"><span>[</span>16<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=7" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The album debuted at number two on the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart with first-week sales of 516,000 copies.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> It also entered at number one on <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i><span style="padding-left:0.1em;">'</span>s <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a> chart.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> The album was successful in Canada where it reached number two on the charts.<sup id="cite_ref-CanadianCharts_19-0" class="reference"><a href="#cite_note-CanadianCharts-19"><span>[</span>19<span>]</span></a></sup> The record was mildly successful in Europe, reaching number 4 in the UK, number 7 in Ireland, number 15 in France, number 17 in the Netherlands and number 26 in Norway. It peaked at number 11 on the New Zealand album chart.<sup id="cite_ref-NZCharts_20-0" class="reference"><a href="#cite_note-NZCharts-20"><span>[</span>20<span>]</span></a></sup> At the end of 2000, the album was number five on the Billboard Year-End Top Albums and number one on the Billboard Year-End Top R&amp;B/Hip-Hop Albums chart.<sup id="cite_ref-Billboard200YearEnd_21-0" class="reference"><a href="#cite_note-Billboard200YearEnd-21"><span>[</span>21<span>]</span></a></sup><sup id="cite_ref-BillboardHotR.26BYearEnd_22-0" class="reference"><a href="#cite_note-BillboardHotR.26BYearEnd-22"><span>[</span>22<span>]</span></a></sup> It re-entered the charts in 2003, peaking on the UK Albums Top 75 at number 61 and on the Ireland Albums Top 75 at number 30.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup> By October 2011, the album had sold 7.5 million copies in the United States,<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup> and it was certified 6x <a href="/wiki/RIAA_certification" title="RIAA certification">Platinum</a> by the <a href="/wiki/RIAA" title="RIAA" class="mw-redirect">RIAA</a> on November 21, 2000.<sup id="cite_ref-RIAA-2001_25-0" class="reference"><a href="#cite_note-RIAA-2001-25"><span>[</span>25<span>]</span></a></sup> It is Dr. Dre's best selling album, as his previous album, <i>The Chronic</i>, was certified 5x Platinum.<sup id="cite_ref-RIAA-TheChronic_26-0" class="reference"><a href="#cite_note-RIAA-TheChronic-26"><span>[</span>26<span>]</span></a></sup> As of July 3, 2013, the album has sold 7,664,000 copies in the US.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=8" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-AMG_6-3" class="reference"><a href="#cite_note-AMG-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">C<sup id="cite_ref-Christgau_28-0" class="reference"><a href="#cite_note-Christgau-28"><span>[</span>28<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">A−<sup id="cite_ref-EW_7-3" class="reference"><a href="#cite_note-EW-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/4 stars"><img alt="3.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/NME" title="NME">NME</a></i></td>
+<td style="vertical-align:middle">6/10<sup id="cite_ref-NME_10-3" class="reference"><a href="#cite_note-NME-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/PopMatters" title="PopMatters">PopMatters</a></td>
+<td style="vertical-align:middle">8/10<sup id="cite_ref-PopMatters_11-3" class="reference"><a href="#cite_note-PopMatters-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The Rolling Stone Album Guide</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Hoard_30-0" class="reference"><a href="#cite_note-Hoard-30"><span>[</span>30<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i></td>
+<td style="vertical-align:middle">7/10<sup id="cite_ref-Tate_32-0" class="reference"><a href="#cite_note-Tate-32"><span>[</span>32<span>]</span></a></sup></td>
+</tr>
+</table>
+<p>The album received generally positive reviews from music critics. <a href="/wiki/Stephen_Thomas_Erlewine" title="Stephen Thomas Erlewine">Stephen Thomas Erlewine</a> of <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> stated, "<i>2001</i> isn't as consistent or striking as <i><a href="/wiki/The_Slim_Shady_LP" title="The Slim Shady LP">Slim Shady</a></i>, but the music is always brimming with character."<sup id="cite_ref-AMG_6-4" class="reference"><a href="#cite_note-AMG-6"><span>[</span>6<span>]</span></a></sup> <i>Entertainment Weekly'</i>s Tom Sinclair praised the production, calling it "uncharacteristically sparse sound" from Dr. Dre and that it was as "addictive as it was back when over 3&#160;million record buyers got hooked on <i><a href="/wiki/The_Chronic" title="The Chronic">The Chronic</a></i> and Snoop Dogg's Dre-produced <i><a href="/wiki/Doggystyle" title="Doggystyle">Doggystyle</a></i>" and went on to commend Dr. Dre, stating, "If any rap producer deserves the title "composer", it's he."<sup id="cite_ref-EW_7-4" class="reference"><a href="#cite_note-EW-7"><span>[</span>7<span>]</span></a></sup> <i>NME</i> mentioned that Dr. Dre didn't expand the genre, but it was "powerful enough in parts, but not clever enough to give Will Smith the fear".<sup id="cite_ref-NME_10-4" class="reference"><a href="#cite_note-NME-10"><span>[</span>10<span>]</span></a></sup> <a href="/wiki/PopMatters" title="PopMatters">PopMatters</a> writer Chris Massey declared that "Musically, <i>2001</i> is about as close to brilliant as any one gangsta rap album might possibly get."<sup id="cite_ref-PopMatters_11-4" class="reference"><a href="#cite_note-PopMatters-11"><span>[</span>11<span>]</span></a></sup> <a href="/wiki/Christopher_John_Farley" title="Christopher John Farley">Christopher John Farley</a> of <i>Time</i> stated that "The beats are fresh and involving, and Dre's collaborations with Eminem and Snoop Dogg have ferocity and wit."<sup id="cite_ref-Time_33-0" class="reference"><a href="#cite_note-Time-33"><span>[</span>33<span>]</span></a></sup> Although he was ambivalent towards the album's subject matter and guest rappers, <a href="/wiki/Greg_Tate" title="Greg Tate">Greg Tate</a> of <i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i> was pleasantly surprised by "the most memorable MC'ing on this album com[ing] from Dre himself, Eminem notwithstanding" and stated, "Whatever one's opinion of the sexual politics and gun lust of Dre's canon, his ongoing commitment to formal excellence and sonic innovation in this art form may one day earn him a place next to <a href="/wiki/George_Clinton_(musician)" title="George Clinton (musician)">George Clinton</a>, if not <a href="/wiki/Stevie_Wonder" title="Stevie Wonder">Stevie Wonder</a>, <a href="/wiki/Duke_Ellington" title="Duke Ellington">Duke Ellington</a>, or <a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a>."<sup id="cite_ref-Tate_32-1" class="reference"><a href="#cite_note-Tate-32"><span>[</span>32<span>]</span></a></sup></p>
+<p>In a negative review, <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a> of <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> panned Dr. Dre's misogynistic lyrics and stated, "It's a New Millennium, but he's Still S.L.I.M.E. ... For an hour, with time out for some memorable Eminem tracks, Dre degrades women every way he can think of, all of which involve his dick."<sup id="cite_ref-Christgau_28-1" class="reference"><a href="#cite_note-Christgau-28"><span>[</span>28<span>]</span></a></sup> Allmusic's Erlewine talked of how the number of guest rappers affected the album, and questioned his reasons for collaborating with "pedestrian rappers". He claimed that "the album suffers considerably as a result [of these collaborations]". Erlewine criticized the lyrics, which he said were repetitive and full of "gangsta clichés".<sup id="cite_ref-AMG_6-5" class="reference"><a href="#cite_note-AMG-6"><span>[</span>6<span>]</span></a></sup> Sinclair mentioned similar views of the lyrics, calling them "filthy", but noted "none of [this] should diminish Dre's achievement".<sup id="cite_ref-EW_7-5" class="reference"><a href="#cite_note-EW-7"><span>[</span>7<span>]</span></a></sup> <i>NME</i> spoke of how the lyrics were too explicit, stating, "As the graphic grooves stretch out, littered with gunfire, bombings and 'copters over Compton, and the bitch-beating baton is handed from Knock-Turnal to Kurupt, <i>2001</i> reaches gangsta-rap parody-level with too many tracks coming off like porno-Wu outtakes."<sup id="cite_ref-NME_10-5" class="reference"><a href="#cite_note-NME-10"><span>[</span>10<span>]</span></a></sup> Massey referred to the lyrics as a "caricature of an ethos [rather] than a reflection of any true prevailing beliefs."<sup id="cite_ref-PopMatters_11-5" class="reference"><a href="#cite_note-PopMatters-11"><span>[</span>11<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Accolades">Accolades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=9" title="Edit section: Accolades">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In its March 2006 issue, <i><a href="/wiki/Hip_Hop_Connection" title="Hip Hop Connection">Hip Hop Connection</a></i> ranked <i>2001</i> number 10 on its list of the 100 Best Albums (1995–2005) in hip hop.<sup id="cite_ref-HHC_34-0" class="reference"><a href="#cite_note-HHC-34"><span>[</span>34<span>]</span></a></sup> In a 2007 issue, <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i> gave the album a retrospective rating of "XXL", their maximum score.<sup id="cite_ref-XXL_35-0" class="reference"><a href="#cite_note-XXL-35"><span>[</span>35<span>]</span></a></sup> In <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i><span style="padding-left:0.1em;">'</span>s <i>The Immortals - The Greatest Artists of All Time</i>, where Dr. Dre was listed at number 54, <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a> talked of how the track "Xxplosive" inspired him: "'Xxplosive', off <i>2001</i>, that's [where] I got my entire sound from—if you listen to the track, it's got a soul beat, but it's done with those heavy Dre drums. Listen to 'This Can't Be Life,' a track I did for Jay-Z's <i><a href="/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia">Dynasty</a></i> album, and then listen to 'Xxplosive'. It's a direct bite."<sup id="cite_ref-RS-Immortals_36-0" class="reference"><a href="#cite_note-RS-Immortals-36"><span>[</span>36<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=10" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>All songs produced by <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> and <a href="/wiki/Mel-Man" title="Mel-Man">Mel-Man</a>, except "The Message" produced by <a href="/wiki/Lord_Finesse" title="Lord Finesse">Lord Finesse</a>.</li>
+</ul>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Lolo" <span style="font-size:85%;">(intro) (featuring <a href="/wiki/Xzibit" title="Xzibit">Xzibit</a> and <a href="/wiki/Tray_Deee" title="Tray Deee">Tray-Dee</a>)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:40</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/The_Watcher_(Dr._Dre_song)" title="The Watcher (Dr. Dre song)">The Watcher</a>" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Dr._Dre" title="Dr. Dre">Andre Young</a>, <a href="/wiki/Nas" title="Nas">Nasir Jones</a>, <a href="/wiki/Eminem" title="Eminem">Marshall Mathers</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:26</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Fuck You" <span style="font-size:85%;">(featuring <a href="/wiki/Devin_the_Dude" title="Devin the Dude">Devin the Dude</a> and <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>)</span></td>
+<td style="vertical-align: top;">Young, <a href="/wiki/Hittman" title="Hittman">Brian Bailey</a>, <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Calvin Broadus</a>, <a href="/wiki/Devin_the_Dude" title="Devin the Dude">Devin Copeland</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:25</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Still_D.R.E." title="Still D.R.E.">Still D.R.E.</a>" <span style="font-size:85%;">(featuring Snoop Dogg)</span></td>
+<td style="vertical-align: top;">Young, <a href="/wiki/Mel-Man" title="Mel-Man">Melvin Bradford</a>, <a href="/wiki/Scott_Storch" title="Scott Storch">Scott Storch</a>, <a href="/wiki/Jay-Z" title="Jay-Z">Shawn Carter</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:30</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Big Ego's" <span style="font-size:85%;">(featuring <a href="/wiki/Hittman_(rapper)" title="Hittman (rapper)" class="mw-redirect">Hittman</a>)</span></td>
+<td style="vertical-align: top;">Young, Bailey, Bradford, Storch, <a href="/wiki/The_D.O.C." title="The D.O.C.">Tracy Curry</a>, Richard Bembery</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:57</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Xxplosive" title="Xxplosive">Xxplosive</a>" <span style="font-size:85%;">(featuring Hittman, <a href="/wiki/Kurupt" title="Kurupt">Kurupt</a>, <a href="/wiki/Nate_Dogg" title="Nate Dogg">Nate Dogg</a> and Six-Two)</span></td>
+<td style="vertical-align: top;">Young, Bailey, <a href="/wiki/Kurupt" title="Kurupt">Ricardo Brown</a>, Craig Longmiles, <a href="/wiki/Nate_Dogg" title="Nate Dogg">Nathaniel Hale</a>, <a href="/wiki/Chris_%22The_Glove%22_Taylor" title="Chris &quot;The Glove&quot; Taylor">Chris Taylor</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:35</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"What's the Difference" <span style="font-size:85%;">(featuring <a href="/wiki/Eminem" title="Eminem">Eminem</a> and Xzibit)</span></td>
+<td style="vertical-align: top;">Bradford, <a href="/wiki/Eminem" title="Eminem">Marshall Mathers</a>, Bembery, <a href="/wiki/Xzibit" title="Xzibit">Alvin Joiner</a>, Stefan Harris</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:04</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Bar One" <span style="font-size:85%;">(featuring Traci Nelson, Ms. Roq and <a href="/wiki/Eddie_Griffin" title="Eddie Griffin">Eddie Griffin</a>)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:51</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Light Speed" <span style="font-size:85%;">(featuring Hittman)</span></td>
+<td style="vertical-align: top;">Young, Bailey, Brown</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:40</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Forgot_About_Dre" title="Forgot About Dre">Forgot About Dre</a>" <span style="font-size:85%;">(featuring Eminem)</span></td>
+<td style="vertical-align: top;">Young, Brown, Mathers</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:42</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/The_Next_Episode" title="The Next Episode">The Next Episode</a>" <span style="font-size:85%;">(featuring Snoop Dogg, Kurupt and Nate Dogg)</span></td>
+<td style="vertical-align: top;">Young, Brown, Bailey, Bradford, Broadus</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:41</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Let's Get High" <span style="font-size:85%;">(featuring Hittman, Kurupt and Ms. Roq)</span></td>
+<td style="vertical-align: top;">Young, Bailey, Mathers, Brown, Racquel Weaver</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:27</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Bitch Niggaz" <span style="font-size:85%;">(featuring Snoop Dogg, Hittman and Six-Two)</span></td>
+<td style="vertical-align: top;">Bailey, Bradford, Broadus, Longmiles</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:13</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"The Car Bomb" <span style="font-size:85%;">(featuring <a href="/wiki/Mel-Man" title="Mel-Man">Mel-Man</a> and Charis Henry)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:00</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Murder Ink" <span style="font-size:85%;">(featuring Hittman and Ms. Roq)</span></td>
+<td style="vertical-align: top;">Young, Bailey, Weaver</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:28</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Ed-Ucation" <span style="font-size:85%;">(featuring <a href="/wiki/Eddie_Griffin" title="Eddie Griffin">Eddie Griffin</a>)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:32</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"Some L.A. Niggaz" <span style="font-size:85%;">(featuring <a href="/wiki/Defari" title="Defari">DeFari</a>, Hittman, Xzibit, <a href="/wiki/Knoc-turn%27al" title="Knoc-turn'al">Knoc-Turn'al</a>, Time Bomb, <a href="/wiki/King_Tee" title="King Tee">King T</a>, <a href="/wiki/MC_Ren" title="MC Ren">MC Ren</a> and <a href="/wiki/Kokane" title="Kokane">Kokane</a>)</span></td>
+<td style="vertical-align: top;">Young, Bailey, Joiner, Duane Johnson, <a href="/wiki/Knoc-turn%27al" title="Knoc-turn'al">Royal Harbor</a>, Marquese Holder, <a href="/wiki/King_Tee" title="King Tee">Roger McBride</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:25</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"Pause 4 Porno" <span style="font-size:85%;">(featuring <a href="/wiki/Jake_Steed" title="Jake Steed">Jake Steed</a>)</span></td>
+<td style="vertical-align: top;">Laylaw &amp; Aaron Harris</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:32</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"Housewife" <span style="font-size:85%;">(featuring Kurupt and Hittman)</span></td>
+<td style="vertical-align: top;">Young, Bailey, Bradford, Brown, Curry</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:02</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">20.</td>
+<td style="text-align: left; vertical-align: top;">"Ackrite" <span style="font-size:85%;">(featuring Hittman)</span></td>
+<td style="vertical-align: top;">Young, Bailey, Bradford</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:39</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">21.</td>
+<td style="text-align: left; vertical-align: top;">"Bang Bang" <span style="font-size:85%;">(featuring Knoc-Turn'al and Hittman)</span></td>
+<td style="vertical-align: top;">Young, Bailey, Mathers, Harbor</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:42</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">22.</td>
+<td style="text-align: left; vertical-align: top;">"The Message" <span style="font-size:85%;">(featuring <a href="/wiki/Mary_J._Blige" title="Mary J. Blige">Mary J. Blige</a> and <a href="/wiki/Gerrell_Gaddis" title="Gerrell Gaddis" class="mw-redirect">Rell</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Royce_da_5%279%22" title="Royce da 5'9&quot;">Ryan Montgomery</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:30</td>
+</tr>
+</table>
+<dl>
+<dt><b>Sample credits</b><sup id="cite_ref-foo_37-0" class="reference"><a href="#cite_note-foo-37"><span>[</span>37<span>]</span></a></sup><sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></dt>
+</dl>
+<ul>
+<li>"Lolo (Intro)" contains samples of "Deep Note" by <a href="/wiki/James_A._Moorer" title="James A. Moorer">James A. Moorer</a>.</li>
+<li>"Fuck You" contains samples of "Telephone" by <a href="/wiki/Diana_Ross" title="Diana Ross">Diana Ross</a>.</li>
+<li>"Big Ego's" contains samples of "Theme from <i><a href="/wiki/The_Persuaders!" title="The Persuaders!">The Persuaders!</a></i>" by <a href="/wiki/John_Barry_(composer)" title="John Barry (composer)">John Barry</a> and "<a href="/wiki/Love_Don%27t_Live_Here_Anymore" title="Love Don't Live Here Anymore">Love Don't Live Here Anymore</a>" by <a href="/wiki/Rose_Royce" title="Rose Royce">Rose Royce</a>.</li>
+<li>"Xxplosive" contains samples of "Bumpy's Lament" by <a href="/wiki/Isaac_Hayes" title="Isaac Hayes">Isaac Hayes</a> and interpolates "Ain't No Fun (If the Homies Can't Have None)" by <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>.</li>
+<li>"What's the Difference" contains samples of "<a href="/wiki/Parce_Que_Tu_Crois" title="Parce Que Tu Crois">Parce Que Tu Crois</a>" by <a href="/wiki/Charles_Aznavour" title="Charles Aznavour">Charles Aznavour</a>.</li>
+<li>"Bar One (Skit)" contains samples of "Poundin'" by <a href="/wiki/Cannonball_Adderley" title="Cannonball Adderley">Cannonball Adderley</a>.</li>
+<li>"Light Speed" contains samples of "I'm Still #1" by Boogie Down Productions.</li>
+<li>"Forgot About Dre" contains samples of "The Climb" by <a href="/wiki/No_Doubt" title="No Doubt">No Doubt</a> and "Compton's in the House (Remix)" by <a href="/wiki/N.W.A" title="N.W.A">N.W.A</a>.</li>
+<li>"The Next Episode" contains replayed elements of "The Edge" by <a href="/wiki/David_McCallum" title="David McCallum">David McCallum</a>.</li>
+<li>"Let's Get High" contains samples of "Backstrokin'" by <a href="/wiki/The_Fatback_Band" title="The Fatback Band" class="mw-redirect">The Fatback Band</a> and "High" by <a href="/wiki/Skyy_(band)" title="Skyy (band)">Skyy</a>.</li>
+<li>"Bitch Niggaz" contains samples of "<a href="/wiki/Top_Billin%27" title="Top Billin'">Top Billin'</a>" by <a href="/wiki/Audio_Two" title="Audio Two">Audio Two</a>.</li>
+<li>"The Car Bomb (Skit)" contains samples of "Time Is Passing" by <a href="/wiki/Sun_(R%26B_band)" title="Sun (R&amp;B band)">Sun</a>.</li>
+<li>"Murder Ink" contains samples of "Halloween Theme" by <a href="/wiki/John_Carpenter" title="John Carpenter">John Carpenter</a>.</li>
+<li>"Ed-Ucation (Skit)" contains samples of "Diamonds Are Forever" by <a href="/wiki/Franck_Pourcel" title="Franck Pourcel">Franck Pourcel</a>.</li>
+<li>"Housewife" interpolates "<a href="/wiki/Bitches_Ain%27t_Shit" title="Bitches Ain't Shit">Bitches Ain't Shit</a>" by Dr. Dre and "<a href="/wiki/Rapper%27s_Delight" title="Rapper's Delight">Rapper's Delight</a>" by <a href="/wiki/The_Sugarhill_Gang" title="The Sugarhill Gang">The Sugarhill Gang</a>.</li>
+</ul>
+<dl>
+<dt><b>Additional Notes</b></dt>
+</dl>
+<ul>
+<li>"The Watcher" contains additional vocals from "<a href="/wiki/Eminem" title="Eminem">Eminem</a>" and Knock-Turn'al</li>
+</ul>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=11" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>&#160;– executive producer, performer, producer, mixer</li>
+<li><a href="/wiki/Mel-Man" title="Mel-Man">Mel-Man</a>&#160;– performer, producer</li>
+<li><a href="/wiki/Lord_Finesse" title="Lord Finesse">Lord Finesse</a>&#160;– producer</li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a>&#160;– performer, vocals, writer</li>
+<li><a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>&#160;– performer, vocals</li>
+<li><a href="/wiki/Hittman_(rapper)" title="Hittman (rapper)" class="mw-redirect">Hittman</a>&#160;– performer, writer</li>
+<li><a href="/wiki/Xzibit" title="Xzibit">Xzibit</a>&#160;– performer</li>
+<li><a href="/wiki/Kurupt" title="Kurupt">Kurupt</a>&#160;– performer, vocals</li>
+<li>Ms. Roq&#160;– performer</li>
+<li><a href="/wiki/Devin_the_Dude" title="Devin the Dude">Devin the Dude</a>&#160;– performer, vocals</li>
+<li><a href="/wiki/Nate_Dogg" title="Nate Dogg">Nate Dogg</a>&#160;– performer</li>
+<li>Six-Two&#160;– performer</li>
+<li><a href="/wiki/Royce_da_5%279%22" title="Royce da 5'9&quot;">Royce da 5'9"</a>&#160;– writer</li>
+<li><a href="/wiki/MC_Ren" title="MC Ren">MC Ren</a>&#160;– vocals</li>
+<li><a href="/wiki/Tommy_Chong" title="Tommy Chong">Tommy Chong</a>&#160;– vocals</li>
+<li><a href="/wiki/Knoc-turn%27al" title="Knoc-turn'al">Knoc-turn'al</a>&#160;– performer, vocals</li>
+<li><a href="/wiki/Defari" title="Defari">Defari</a>&#160;– performer</li>
+<li>Time Bomb&#160;– performer</li>
+<li><a href="/wiki/King_Tee" title="King Tee">King Tee</a>&#160;– performer</li>
+<li><a href="/wiki/Kokane" title="Kokane">Kokane</a>&#160;– performer</li>
+<li><a href="/wiki/Mary_J._Blige" title="Mary J. Blige">Mary J. Blige</a>&#160;– performer</li>
+<li>Rell&#160;– performer</li>
+<li><a href="/wiki/Jake_Steed" title="Jake Steed">Jake Steed</a>&#160;– performer</li>
+<li><a href="/wiki/Eddie_Griffin" title="Eddie Griffin">Eddie Griffin</a>&#160;– performer</li>
+<li>Charis Henry&#160;– collage concept, performer</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Ian Sanchez&#160;– performer</li>
+<li>Colin Wolfe&#160;– bass</li>
+<li><a href="/wiki/Mike_Elizondo" title="Mike Elizondo">Mike Elizondo</a>&#160;– bass</li>
+<li>Preston Crumo&#160;– bass</li>
+<li>Sean Cruse&#160;– guitar</li>
+<li>Camara Kambon&#160;– keyboards</li>
+<li><a href="/wiki/Scott_Storch" title="Scott Storch">Scott Storch</a>&#160;– keyboards</li>
+<li><a href="/wiki/Jason_Hann" title="Jason Hann">Jason Hann</a>&#160;– percussion</li>
+<li>Taku Hirano&#160;– percussion</li>
+<li>DJ Pen&#160;– scratches</li>
+<li>Larry Chatman&#160;– production manager</li>
+<li>Kirdis G. Tucker&#160;– Aftermath product manager</li>
+<li>Charles "Big Chuck" Stanton&#160;– A&amp;R director</li>
+<li>Mike Lynn&#160;– A&amp;R director</li>
+<li>Damon "Bing" Chatman&#160;– Aftermath project coordinator</li>
+<li>Michelle Thomas&#160;– Interscope product manager</li>
+<li>Andrew Van Meter&#160;– Interscope production coordinator</li>
+<li>Ekaterina Kenney&#160;– Interscope photo shoot coordinator</li>
+<li>Richard "Segal" Huredia&#160;– collage photographer, engineer</li>
+<li>Brian "Big Bass" Gardner&#160;– masterer</li>
+<li>Paul Foley&#160;– album editor</li>
+<li>Stan Musilik&#160;– photographer</li>
+<li>Donn Thompson&#160;– photographer</li>
+<li>Jason Clark&#160;– art director, designer</li>
+<li><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>&#160;– writer</li>
+<li><a href="/wiki/Nas" title="Nas">Nas</a>&#160;– writer</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=12" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Weekly_charts">Weekly charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=13" title="Edit section: Weekly charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th>Year</th>
+<th>Charts</th>
+<th>Peak<br />
+position</th>
+</tr>
+<tr>
+<td rowspan="4" style="text-align:center;">1999</td>
+<td>Dutch Albums Chart<sup id="cite_ref-NZCharts_20-1" class="reference"><a href="#cite_note-NZCharts-20"><span>[</span>20<span>]</span></a></sup></td>
+<td style="text-align:center;">17</td>
+</tr>
+<tr>
+<td><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Top 100</a><sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup></td>
+<td style="text-align:center;">4</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-AMG-Charts_40-0" class="reference"><a href="#cite_note-AMG-Charts-40"><span>[</span>40<span>]</span></a></sup></td>
+<td style="text-align:center;">2</td>
+</tr>
+<tr>
+<td>US <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a><sup id="cite_ref-AMG-Charts_40-1" class="reference"><a href="#cite_note-AMG-Charts-40"><span>[</span>40<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td rowspan="7" style="text-align:center;">2000</td>
+<td>Belgian Albums Chart (Flanders)<sup id="cite_ref-NZCharts_20-2" class="reference"><a href="#cite_note-NZCharts-20"><span>[</span>20<span>]</span></a></sup></td>
+<td style="text-align:center;">13</td>
+</tr>
+<tr>
+<td><a href="/wiki/Belgian_Albums_Chart" title="Belgian Albums Chart" class="mw-redirect">Belgian Albums Chart</a> (Wallonia)<sup id="cite_ref-NZCharts_20-3" class="reference"><a href="#cite_note-NZCharts-20"><span>[</span>20<span>]</span></a></sup></td>
+<td style="text-align:center;">36</td>
+</tr>
+<tr>
+<td><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a><sup id="cite_ref-CanadianCharts_19-1" class="reference"><a href="#cite_note-CanadianCharts-19"><span>[</span>19<span>]</span></a></sup></td>
+<td style="text-align:center;">2</td>
+</tr>
+<tr>
+<td><a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">France Albums Chart</a><sup id="cite_ref-NZCharts_20-4" class="reference"><a href="#cite_note-NZCharts-20"><span>[</span>20<span>]</span></a></sup></td>
+<td style="text-align:center;">15</td>
+</tr>
+<tr>
+<td>New Zealand Albums Chart<sup id="cite_ref-NZCharts_20-5" class="reference"><a href="#cite_note-NZCharts-20"><span>[</span>20<span>]</span></a></sup></td>
+<td style="text-align:center;">11</td>
+</tr>
+<tr>
+<td><a href="/wiki/VG-lista" title="VG-lista">Norway Albums Chart</a><sup id="cite_ref-NZCharts_20-6" class="reference"><a href="#cite_note-NZCharts-20"><span>[</span>20<span>]</span></a></sup></td>
+<td style="text-align:center;">26</td>
+</tr>
+<tr>
+<td><a href="/wiki/Swiss_Music_Charts" title="Swiss Music Charts" class="mw-redirect">Swiss Music Charts</a><sup id="cite_ref-NZCharts_20-7" class="reference"><a href="#cite_note-NZCharts-20"><span>[</span>20<span>]</span></a></sup></td>
+<td style="text-align:center;">50</td>
+</tr>
+<tr>
+<td style="text-align:center;">2001</td>
+<td><a href="/wiki/Irish_Albums_Chart" title="Irish Albums Chart">Ireland Albums Top 75</a><sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup></td>
+<td style="text-align:center;">7</td>
+</tr>
+<tr>
+<td style="text-align:center;">2011</td>
+<td>US <i>Billboard</i> <a href="/wiki/Top_Pop_Catalog_Albums" title="Top Pop Catalog Albums">Top Catalog Albums</a><sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>42<span>]</span></a></sup></td>
+<td style="text-align:center;">32</td>
+</tr>
+</table>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Year-end_charts">Year-end charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=14" title="Edit section: Year-end charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th scope="col">Chart (2000)</th>
+<th scope="col">Position</th>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>43<span>]</span></a></sup></td>
+<td style="text-align:center;">5</td>
+</tr>
+<tr>
+<td>US <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a><sup id="cite_ref-44" class="reference"><a href="#cite_note-44"><span>[</span>44<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Decade-end_charts">Decade-end charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=15" title="Edit section: Decade-end charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th scope="col">Chart (2000s)</th>
+<th scope="col">Position</th>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-45" class="reference"><a href="#cite_note-45"><span>[</span>45<span>]</span></a></sup></td>
+<td style="text-align:center;">17</td>
+</tr>
+<tr>
+<td>US <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a><sup id="cite_ref-46" class="reference"><a href="#cite_note-46"><span>[</span>46<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em;">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px;">
+<tr valign="middle">
+<td style="text-align:center;"><a href="/wiki/File:Loudspeaker-crystal-theme.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Loudspeaker-crystal-theme.svg/28px-Loudspeaker-crystal-theme.svg.png" width="28" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Loudspeaker-crystal-theme.svg/42px-Loudspeaker-crystal-theme.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Loudspeaker-crystal-theme.svg/56px-Loudspeaker-crystal-theme.svg.png 2x" data-file-width="128" data-file-height="128" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="/wiki/Portal:Hip_hop" title="Portal:Hip hop">Hip hop portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1999_(U.S.)" title="List of number-one R&amp;B albums of 1999 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1999 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_2000_(U.S.)" title="List of number-one R&amp;B albums of 2000 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 2000 (U.S.)</a></li>
+<li><a href="/wiki/Billboard_Year-End" title="Billboard Year-End"><i>Billboard</i> Year-End</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=17" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.fr/The-Watcher-Dr-Dre/dp/B00005A7BQ/ref=sr_1_1?s=music&amp;ie=UTF8&amp;qid=1337247113&amp;sr=1-1">"The Watcher: Dr. Dre, Dr Dre and Eminem: Amazon.fr: Musique"</a>. Amazon.fr<span class="reference-accessdate">. Retrieved 2012-11-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.btitle=The+Watcher%3A+Dr.+Dre%2C+Dr+Dre+and+Eminem%3A+Amazon.fr%3A+Musique&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.fr%2FThe-Watcher-Dr-Dre%2Fdp%2FB00005A7BQ%2Fref%3Dsr_1_1%3Fs%3Dmusic%26ie%3DUTF8%26qid%3D1337247113%26sr%3D1-1&amp;rft.pub=Amazon.fr&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NYTimes-The-Street-Talk-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYTimes-The-Street-Talk_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYTimes-The-Street-Talk_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NYTimes-The-Street-Talk_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-NYTimes-The-Street-Talk_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Jon Pareles (November 14, 1999). <a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9805E6DF103AF937A25752C1A96F958260">The Street Talk, He Says, Is a Bum Rap</a>. <i>The New York Times</i>. Accessed May 25, 2008.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Soren Baker (October 29, 2002). <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1458381/10282002/royce_da_59.jhtml">Royce Da 5'9" Isn't Eminem's Shadow</a>. MTV. Accessed July 22, 2007.</span></li>
+<li id="cite_note-Interview-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Interview_4-0">^</a></b></span> <span class="reference-text">Selina Thompson. <a rel="nofollow" class="external text" href="http://www.thesituation.co.uk/us_interviews/royce_da59/royce_da.html">Royce Da 5'9 Interview</a>. The Situation. Accessed June 12, 2008.</span></li>
+<li id="cite_note-Datpiff-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Datpiff_5-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Dr-Dre-Pretox-CD-1-mid1553.html">Dr. Dre - Pretox CD 1</a>. DatPiff.com. Accessed May 12, 2008.</span></li>
+<li id="cite_note-AMG-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-AMG_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AMG_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AMG_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-AMG_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-AMG_6-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-AMG_6-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Stephen Thomas Erlewine. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r441973">2001 &gt; Overview</a>. Allmusic. Accessed May 21, 2008.</span></li>
+<li id="cite_note-EW-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-EW_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EW_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EW_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-EW_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-EW_7-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-EW_7-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Tom Sinclair (November 15, 1999). "<a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,64367,00.html">Music Review - 2001 (1999)</a>". <i>Entertainment Weekly</i>. Accessed May 21, 2008.</span></li>
+<li id="cite_note-RS-ScottStorch-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-RS-ScottStorch_8-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/news/story/10699242/scott_storchs_outrageous_fortune/print">Scott Storch's Outrageous Fortune</a>. <i>Rolling Stone</i> (June 29, 2006). Accessed May 25, 2008.</span></li>
+<li id="cite_note-Time-Dr.Dre-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Time-Dr.Dre_9-0">^</a></b></span> <span class="reference-text">Josh Tyrangiel (September 15, 2001). <a rel="nofollow" class="external text" href="http://www.time.com/time/musicgoesglobal/na/mdre.html">In the Doctor's House</a>. <i>Time</i>. Accessed May 25, 2008.</span></li>
+<li id="cite_note-NME-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-NME_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NME_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NME_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-NME_10-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-NME_10-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-NME_10-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.nme.com/reviews/dr-dre/1608">Album Reviews - 2001</a>". <i>NME</i>. November 18, 1999. Accessed May 21, 2008. <a rel="nofollow" class="external text" href="http://www.webcitation.org/5glwjkFVw">Archived</a> 2009-05-14.</span></li>
+<li id="cite_note-PopMatters-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-PopMatters_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PopMatters_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-PopMatters_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-PopMatters_11-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-PopMatters_11-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-PopMatters_11-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Chris Massey. "<a rel="nofollow" class="external text" href="http://www.popmatters.com/pm/review/drdre-2001">Dr. Dre: 2001</a>". PopMatters. Accessed May 21, 2008.</span></li>
+<li id="cite_note-NYTimes-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYTimes_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYTimes_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Jon Pareles (November 14, 1999). <a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9F03E6DF103AF937A25752C1A96F958260&amp;sec=&amp;spon=&amp;pagewanted=all">Music; Still Tough, Still Authentic. Still Relevant?</a>. <i>The New York Times</i>. Accessed May 25, 2008.</span></li>
+<li id="cite_note-ScottStorch-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-ScottStorch_13-0">^</a></b></span> <span class="reference-text">Jason Birchmeier. <a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p129040">Scott Storch &gt; Biography</a>. Allmusic. Accessed May 24, 2008.</span></li>
+<li id="cite_note-AMG-Singles-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-AMG-Singles_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AMG-Singles_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AMG-Singles_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-AMG-Singles_14-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/2001-r441973/charts-awards/billboard-single"><i>2001</i> - Billboard Singles</a>. Allmusic. Accessed May 24, 2008.</span></li>
+<li id="cite_note-everyHit-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-everyHit_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-everyHit_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-everyHit_15-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.everyhit.com/searchsec.php">UK Top 40 Hit Database</a>. everyHit.com. Accessed May 24, 2008. Note: User must define search parameters, i.e., "Dr Dre".</span></li>
+<li id="cite_note-Grammy-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Grammy_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Grammy_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Grammy_16-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.grammy.com/GRAMMY_Awards/Winners/Results.aspx">Grammy Searchable database</a>. Grammy. Accessed May 24, 2008. Note: User must define search parameters, i.e., "Dr. Dre"</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Columnist. <a rel="nofollow" class="external text" href="http://www.billboard.com/news/korn-is-cream-of-new-chart-crop-949805.story#/news/korn-is-cream-of-new-chart-crop-949805.story">Korn Is Cream Of New Chart Crop</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. Retrieved on 2010-05-12.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/1999-12-04/r-b-hip-hop-albums">R&amp;B/Hip-Hop Albums - Week of December 04, 1999</a>. <i>Billboard</i>. Retrieved on 2010-05-12.</span></li>
+<li id="cite_note-CanadianCharts-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-CanadianCharts_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CanadianCharts_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&amp;file_num=nlc008388.9708&amp;type=1&amp;interval=50&amp;PHPSESSID=c6btf3r8hs459qqt5ln3o3dcv5">"Top Albums/CDs - Volume 70, No. 15, February 21, 2000"</a>. <i><a href="/wiki/RPM_(magazine)" title="RPM (magazine)">RPM</a></i><span class="reference-accessdate">. Retrieved 2010-10-11</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.btitle=Top+Albums%2FCDs+-+Volume+70%2C+No.+15%2C+February+21%2C+2000&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.collectionscanada.gc.ca%2Frpm%2F028020-119.01-e.php%3F%26file_num%3Dnlc008388.9708%26type%3D1%26interval%3D50%26PHPSESSID%3Dc6btf3r8hs459qqt5ln3o3dcv5&amp;rft.pub=%27%27RPM%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NZCharts-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-NZCharts_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NZCharts_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NZCharts_20-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-NZCharts_20-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-NZCharts_20-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-NZCharts_20-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-NZCharts_20-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-NZCharts_20-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://charts.org.nz/showitem.asp?interpret=Dr%2E+Dre&amp;titel=2001&amp;cat=a">Dr. Dre - <i>2001</i></a>. NewZealandCharts. Accessed March 10, 2011.</span></li>
+<li id="cite_note-Billboard200YearEnd-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Billboard200YearEnd_21-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/year-end/2000/the-billboard-200">The Billboard 200 2000</a>. <i>Billboard</i>. Accessed May 25, 2008.</span></li>
+<li id="cite_note-BillboardHotR.26BYearEnd-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-BillboardHotR.26BYearEnd_22-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/bbcom/charts/yearend_chart_display.jsp?f=Top+R%26B%2FHip-Hop+Albums&amp;g=Year-end+Albums&amp;year=2000">Top R&amp;B/Hip-Hop Albums 2000</a>. <i>Billboard</i>. Accessed May 25, 2008.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://acharts.us/album/16420">Dr. Dre - <i>2001</i> Music Charts</a>. aCharts. Accessed May 25, 2008.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/chart-beat/466402/ask-billboard-j-cole-helps-bring-rbhip-hop-back-to-no-1">"Dr. Dre: 'Detox' Due In 'November Or December'"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. July 23, 2007.</span></li>
+<li id="cite_note-RIAA-2001-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-RIAA-2001_25-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=2001&amp;artist=Dr.%20Dre&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2007&amp;sort=Artist&amp;perPage=25">RIAA Searchable database - <i>2001</i></a>. Recording Industry Association of America. Accessed May 25, 2008.</span></li>
+<li id="cite_note-RIAA-TheChronic-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-RIAA-TheChronic_26-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=The%20Chronic&amp;artist=Dr.%20Dre&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2007&amp;sort=Artist&amp;perPage=25">RIAA Searchable database - <i>The Chronic</i></a>. Recording Industry Association of America. Accessed May 25, 2008.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation web">Paine, Jake. <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.24539/title.hip-hop-album-sales-the-week-ending-6-30-2013">"Hip Hop Album Sales: The Week Ending 6/30/2013"</a>. HipHop DX<span class="reference-accessdate">. Retrieved July 12, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.aufirst=Jake&amp;rft.aulast=Paine&amp;rft.au=Paine%2C+Jake&amp;rft.btitle=Hip+Hop+Album+Sales%3A+The+Week+Ending+6%2F30%2F2013&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.24539%2Ftitle.hip-hop-album-sales-the-week-ending-6-30-2013&amp;rft.pub=HipHop+DX&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Christgau-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-Christgau_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Christgau_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Christgau, Robert. "<a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/cg/cgv201-01.php">Consumer Guide</a>". <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>: February 6, 2001. Archived from <a rel="nofollow" class="external text" href="http://www.villagevoice.com/2001-02-06/music/pazz-jop-preview/http">the original</a> on 2009-08-12. Accessed 2009-08-14.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Calendar Writers (December 2, 1999). "<a rel="nofollow" class="external text" href="http://articles.latimes.com/1999/dec/02/entertainment/ca-39531?pg=1">Listen Up, Elves!</a>". <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. Retrieved on 2009-07-11.</span></li>
+<li id="cite_note-Hoard-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hoard_30-0">^</a></b></span> <span class="reference-text">Hoard, Christian (ed.). "<a rel="nofollow" class="external text" href="http://books.google.com/books?id=lRgtYCC6OUwC&amp;pg=PA249&amp;dq=">The Rolling Stone Album Guide</a>". <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>: 249. November 2, 2004. Portions posted at <span class="citation web"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/artists/dr-dre/albumguide">"Dr. Dre: Album Guide"</a>. <i>Rolling Stone</i><span class="reference-accessdate">. Retrieved 2012-09-08</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.btitle=Dr.+Dre%3A+Album+Guide&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fartists%2Fdr-dre%2Falbumguide&amp;rft.pub=%27%27Rolling+Stone%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation journal"><a rel="nofollow" class="external text" href="http://www.flickr.com/search/?q=Dr.+Dre+2001+The+Source&amp;m=text">"Dr. Dre 2001"</a>. <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> (January 2000): pp.185–6. <a rel="nofollow" class="external text" href="http://www.webcitation.org/5iStKQlwZ">Archived</a> from the original on 2009-07-22<span class="reference-accessdate">. Retrieved 2009-07-12</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.atitle=Dr.+Dre+2001&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.flickr.com%2Fsearch%2F%3Fq%3DDr.%2BDre%2B2001%2BThe%2BSource%26m%3Dtext&amp;rft.issue=January+2000&amp;rft.jtitle=The+Source&amp;rft.pages=pp.185-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Tate-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tate_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tate_32-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal"><a href="/wiki/Greg_Tate" title="Greg Tate">Tate, Greg</a> (January 2000). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=f_2Hb3bIqaQC&amp;pg=PA119#v=onepage&amp;q&amp;f=false">"Dr. Dre 2001"</a>. <i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i> (Vibe/Spin Ventures) <b>16</b> (1): 119–120<span class="reference-accessdate">. Retrieved 2012-08-11</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.atitle=Dr.+Dre+2001&amp;rft.aufirst=Greg&amp;rft.aulast=Tate&amp;rft.au=Tate%2C+Greg&amp;rft.date=January+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Df_2Hb3bIqaQC%26pg%3DPA119%23v%3Donepage%26q%26f%3Dfalse&amp;rft.issue=1&amp;rft.jtitle=Spin&amp;rft.pages=119-120&amp;rft.pub=Vibe%2FSpin+Ventures&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=16" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Time-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-Time_33-0">^</a></b></span> <span class="reference-text">Christopher John Farley (November 29, 1999). "<a rel="nofollow" class="external text" href="http://www.time.com/time/magazine/article/0,9171,992729,00.html">Music: Dr. Dre 2001</a>". <i>Time</i> (Subscription only). Accessed May 21, 2008.</span></li>
+<li id="cite_note-HHC-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-HHC_34-0">^</a></b></span> <span class="reference-text">Staff. "<a rel="nofollow" class="external text" href="http://rateyourmusic.com/list/senor_spagnole/hip_hop_connections_100_best_albums_1995_2005/">100 Best Album (1995–2005)</a>". <i><a href="/wiki/Hip_Hop_Connection" title="Hip Hop Connection">Hip Hop Connection</a></i>: Issue #198. March 2006. Accessed 2009-08-14. <a rel="nofollow" class="external text" href="http://www.webcitation.org/5j5HQFQXo">Archived</a> 2009-08-16.</span></li>
+<li id="cite_note-XXL-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-XXL_35-0">^</a></b></span> <span class="reference-text"><span class="citation journal"><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a> (2007). "Retrospective: XXL Albums". <i>XXL Magazine, December 2007 issue</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.atitle=Retrospective%3A+XXL+Albums&amp;rft.aulast=XXL&amp;rft.au=XXL&amp;rft.date=2007&amp;rft.genre=article&amp;rft.jtitle=XXL+Magazine%2C+December+2007+issue&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RS-Immortals-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-RS-Immortals_36-0">^</a></b></span> <span class="reference-text">Kanye West (April 7, 2005). <a rel="nofollow" class="external text" href="http://www.rollingstone.com/artists/drdre/articles/story/7235469/the_immortals__the_greatest_artists_of_all_time_54_dr_dre">The Immortals - The Greatest Artists of All Time</a>. <i>Rolling Stone</i>. Accessed May 21, 2008.</span></li>
+<li id="cite_note-foo-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-foo_37-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dr-dre.com/info/chronic2001.php#15"><i>The Chronic 2001</i>: Credits</a>. RapBasement.com. Retrieved on 2010-10-09.</span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.whosampled.com/artist/Dr.%20Dre/?sp=4">Dr. Dre's Sample-Based Music</a>. WhoSampled.com. Retrieved on 2011-01-09.</span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/artist/_/dr.%20dre">"Dr. Dre"</a>. <i><a href="/wiki/The_Official_Charts_Company" title="The Official Charts Company" class="mw-redirect">The Official Charts Company</a></i>. 1999-11-27<span class="reference-accessdate">. Retrieved 2011-03-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.atitle=Dr.+Dre&amp;rft.date=1999-11-27&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.theofficialcharts.com%2Fartist%2F_%2Fdr.%2520dre&amp;rft.jtitle=The+Official+Charts+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AMG-Charts-40"><span class="mw-cite-backlink">^ <a href="#cite_ref-AMG-Charts_40-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AMG-Charts_40-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r441973/charts-awards"><i>2001</i> - Billboard Albums</a>. Allmusic. Accessed March 10, 2011.</span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&amp;ct=240002&amp;arch=t&amp;lyr=2001&amp;year=2001&amp;week=11">"Top 75 Artist Album, Week Ending 15 March 2001"</a>. <i>GFK Chart-Track</i>. 2001-03-15<span class="reference-accessdate">. Retrieved 2011-03-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.atitle=Top+75+Artist+Album%2C+Week+Ending+15+March+2001&amp;rft.date=2001-03-15&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.chart-track.co.uk%2Findex.jsp%3Fc%3Dp%252Fmusicvideo%252Fmusic%252Farchive%252Findex_test.jsp%26ct%3D240002%26arch%3Dt%26lyr%3D2001%26year%3D2001%26week%3D11&amp;rft.jtitle=GFK+Chart-Track&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/301270/dr-dre/chart">"2001 - Dr. Dre"</a>. <i>Billboard</i>. 2011-03-19. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20110330060213/http://www.billboard.com/artist/301270/dr-dre/chart">Archived</a> from the original on 30 March 2011<span class="reference-accessdate">. Retrieved 2011-03-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.atitle=2001+-+Dr.+Dre&amp;rft.date=2011-03-19&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F301270%2Fdr-dre%2Fchart&amp;rft.jtitle=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20061020154002/http://www.billboard.com/charts/year-end/2000/the-billboard-200">"Year-end Charts: The Billboard 200"</a>. <i>Billboard</i>. Archived from <a rel="nofollow" class="external text" href="http://www.billboard.com/charts/year-end/2000/the-billboard-200">the original</a> on 2006-10-20<span class="reference-accessdate">. Retrieved 2011-03-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.atitle=Year-end+Charts%3A+The+Billboard+200&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fyear-end%2F2000%2Fthe-billboard-200&amp;rft.jtitle=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20061020162652/http://www.billboard.com/bbcom/charts/yearend_chart_display.jsp?f=Top+R%26B/Hip-Hop+Albums&amp;g=Year-end+Albums&amp;year=2000">"Year-end Charts: Top R&amp;B/Hip-Hop Albums"</a>. <i>Billboard</i>. Archived from <a rel="nofollow" class="external text" href="http://www.billboard.com/bbcom/charts/yearend_chart_display.jsp?f=Top+R%26B/Hip-Hop+Albums&amp;g=Year-end+Albums&amp;year=2000">the original</a> on 2006-10-20<span class="reference-accessdate">. Retrieved 2011-03-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.atitle=Year-end+Charts%3A+Top+R%26B%2FHip-Hop+Albums&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fbbcom%2Fcharts%2Fyearend_chart_display.jsp%3Ff%3DTop%2BR%2526B%2FHip-Hop%2BAlbums%26g%3DYear-end%2BAlbums%26year%3D2000&amp;rft.jtitle=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/301270/dr-dre/chart">"Best of the 2000s: Billboard 200 Albums"</a>. <i>Billboard</i>. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20101210111551/http://www.billboard.com/charts/1999-04-10/r-b-hip-hop-albums">Archived</a> from the original on 10 December 2010<span class="reference-accessdate">. Retrieved 2011-01-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.atitle=Best+of+the+2000s%3A+Billboard+200+Albums&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F301270%2Fdr-dre%2Fchart&amp;rft.jtitle=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/features/best-of-the-2000s-1004051233.story#/../../charts-decade-end/r-b-hip-hop-albums?year=2009">"Best of the 2000s: R&amp;B/Hip-Hop Albums"</a>. <i>Billboard</i>. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20101210050054/http://www.billboard.com/articles/news/266473/best-of-the-2000s-the-decade-in-charts-and-more">Archived</a> from the original on 10 December 2010<span class="reference-accessdate">. Retrieved 2011-01-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.atitle=Best+of+the+2000s%3A+R%26B%2FHip-Hop+Albums&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Ffeatures%2Fbest-of-the-2000s-1004051233.story%23%2F..%2F..%2Fcharts-decade-end%2Fr-b-hip-hop-albums%3Fyear%3D2009&amp;rft.jtitle=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation book"><a href="/wiki/Nathan_Brackett" title="Nathan Brackett">Nathan Brackett</a>, Christian Hoard (2004). <i><a href="/wiki/Rolling_Stone_Album_Guide" title="Rolling Stone Album Guide" class="mw-redirect">The New Rolling Stone Album Guide</a></i>. Completely Revised and Updated 4th Edition. Simon and Schuster. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7432-0169-8" title="Special:BookSources/0-7432-0169-8">0-7432-0169-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2001+%28Dr.+Dre+album%29&amp;rft.aulast=Nathan+Brackett%2C+Christian+Hoard&amp;rft.au=Nathan+Brackett%2C+Christian+Hoard&amp;rft.btitle=The+New+Rolling+Stone+Album+Guide&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-7432-0169-8&amp;rft.pub=Simon+and+Schuster&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/master/33886">2001</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a> (list of releases)</li>
+<li><a rel="nofollow" class="external text" href="http://www.acclaimedmusic.net/Current/A3770.htm">Accolades: <i>2001</i></a> at Acclaimed Music</li>
+<li><a rel="nofollow" class="external text" href="http://www.sputnikmusic.com/album.php?albumid=6875">Staff Review</a> at <a href="/wiki/Sputnikmusic" title="Sputnikmusic">Sputnikmusic</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Dr._Dre" title="Template:Dr. Dre"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Dr._Dre" title="Template talk:Dr. Dre"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Dr._Dre&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/Dr._Dre_discography" title="Dr. Dre discography">Discography</a></li>
+<li><a href="/wiki/Dr._Dre_production_discography" title="Dr. Dre production discography">Production discography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Chronic" title="The Chronic">The Chronic</a></i></li>
+<li><i><strong class="selflink">2001</strong></i></li>
+<li><i><a href="/wiki/Detox_(Dr._Dre_album)" title="Detox (Dr. Dre album)" class="mw-redirect">Detox</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilation albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Concrete_Roots" title="Concrete Roots">Concrete Roots</a></i></li>
+<li><i><a href="/wiki/First_Round_Knock_Out" title="First Round Knock Out">First Round Knock Out</a></i></li>
+<li><i><a href="/wiki/Back_%27n_the_Day" title="Back 'n the Day">Back 'n the Day</a></i></li>
+<li><i><a href="/wiki/Dr._Dre_Presents_the_Aftermath" title="Dr. Dre Presents the Aftermath">Dr. Dre Presents the Aftermath</a></i></li>
+<li><i><a href="/wiki/Chronicle:_Best_of_the_Works" title="Chronicle: Best of the Works">Chronicle: Best of the Works</a></i></li>
+<li><i><a href="/wiki/Chronicles:_Death_Row_Classics" title="Chronicles: Death Row Classics">Chronicles: Death Row Classics</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Deep_Cover_(song)" title="Deep Cover (song)">Deep Cover</a>"</li>
+<li>"<a href="/wiki/Nuthin%27_but_a_%27G%27_Thang" title="Nuthin' but a 'G' Thang">Nuthin' but a 'G' Thang</a>"</li>
+<li>"<a href="/wiki/Fuck_wit_Dre_Day_(And_Everybody%27s_Celebratin%27)" title="Fuck wit Dre Day (And Everybody's Celebratin')">Fuck wit Dre Day</a>"</li>
+<li>"<a href="/wiki/Let_Me_Ride" title="Let Me Ride">Let Me Ride</a>"</li>
+<li>"<a href="/wiki/Natural_Born_Killaz" title="Natural Born Killaz">Natural Born Killaz</a>"</li>
+<li>"<a href="/wiki/Keep_Their_Heads_Ringin%27" title="Keep Their Heads Ringin'">Keep Their Heads Ringin'</a>"</li>
+<li>"<a href="/wiki/Been_There,_Done_That" title="Been There, Done That" class="mw-redirect">Been There, Done That</a>"</li>
+<li>"<a href="/wiki/Zoom_(Dr._Dre_song)" title="Zoom (Dr. Dre song)">Zoom</a>"</li>
+<li>"<a href="/wiki/Still_D.R.E." title="Still D.R.E.">Still D.R.E.</a>"</li>
+<li>"<a href="/wiki/Forgot_About_Dre" title="Forgot About Dre">Forgot About Dre</a>"</li>
+<li>"<a href="/wiki/The_Next_Episode" title="The Next Episode">The Next Episode</a>"</li>
+<li>"<a href="/wiki/The_Watcher_(Dr._Dre_song)" title="The Watcher (Dr. Dre song)">The Watcher</a>"</li>
+<li>"<a href="/wiki/Bad_Intentions" title="Bad Intentions">Bad Intentions</a>"</li>
+<li>"<a href="/wiki/The_Wash_(song)" title="The Wash (song)">The Wash</a>"</li>
+<li>"<a href="/wiki/Kush_(song)" title="Kush (song)">Kush</a>"</li>
+<li>"<a href="/wiki/I_Need_a_Doctor" title="I Need a Doctor">I Need a Doctor</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/We%27re_All_in_the_Same_Gang" title="We're All in the Same Gang">We're All in the Same Gang</a>"</li>
+<li>"<a href="/wiki/Funky_Flute" title="Funky Flute" class="mw-redirect">Funky Flute</a>"</li>
+<li>"<a href="/wiki/Let%27s_Play_House_(Tha_Dogg_Pound_song)" title="Let's Play House (Tha Dogg Pound song)">Let's Play House</a>"</li>
+<li>"<a href="/wiki/California_Love" title="California Love">California Love</a>"</li>
+<li>"<a href="/wiki/No_Diggity" title="No Diggity">No Diggity</a>"</li>
+<li>"<a href="/wiki/Ghetto_Fabulous_(song)" title="Ghetto Fabulous (song)">Ghetto Fabulous</a>"</li>
+<li>"<a href="/wiki/Guilty_Conscience" title="Guilty Conscience">Guilty Conscience</a>"</li>
+<li>"<a href="/wiki/Hello_(Ice_Cube_song)" title="Hello (Ice Cube song)">Hello</a>"</li>
+<li>"<a href="/wiki/Just_Be_a_Man_About_It" title="Just Be a Man About It">Just Be a Man About It</a>"</li>
+<li>"<a href="/wiki/The_Knoc_(song)" title="The Knoc (song)" class="mw-redirect">The Knoc</a>"</li>
+<li>"<a href="/wiki/Symphony_in_X_Major" title="Symphony in X Major">Symphony in X Major</a>"</li>
+<li>"<a href="/wiki/Encore_(Eminem_song)" title="Encore (Eminem song)">Encore</a>"</li>
+<li>"<a href="/wiki/Crack_a_Bottle" title="Crack a Bottle">Crack a Bottle</a>"</li>
+<li>"<a href="/wiki/Old_Time%27s_Sake" title="Old Time's Sake">Old Time's Sake</a>"</li>
+<li>"<a href="/wiki/Hell_Breaks_Loose" title="Hell Breaks Loose">Hell Breaks Loose</a>"</li>
+<li>"<a href="/wiki/The_Recipe_(song)" title="The Recipe (song)">The Recipe</a>"</li>
+<li>"<a href="/wiki/New_Day_(50_Cent_song)" title="New Day (50 Cent song)">New Day</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other songs</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Bitches_Ain%27t_Shit" title="Bitches Ain't Shit">Bitches Ain't Shit</a>"</li>
+<li>"<a href="/wiki/Fuck_You_(Dr._Dre_song)" title="Fuck You (Dr. Dre song)" class="mw-redirect">Fuck You</a>"</li>
+<li>"<a href="/wiki/Xxplosive" title="Xxplosive">Xxplosive</a>"</li>
+<li>"<a href="/wiki/What%27s_the_Difference_(song)" title="What's the Difference (song)" class="mw-redirect">What's the Difference</a>"</li>
+<li>"<a href="/wiki/Let%27s_Get_High" title="Let's Get High" class="mw-redirect">Let's Get High</a>"</li>
+<li>"<a href="/wiki/Put_It_on_Me" title="Put It on Me" class="mw-redirect">Put It on Me</a>"</li>
+<li>"<a href="/wiki/3_Kings_(Rick_Ross_song)" title="3 Kings (Rick Ross song)" class="mw-redirect">3 Kings</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Death_Row_Records" title="Death Row Records">Death Row Records</a></li>
+<li><a href="/wiki/Aftermath_Entertainment" title="Aftermath Entertainment">Aftermath Entertainment</a></li>
+<li><a href="/wiki/G-funk" title="G-funk">G-funk</a></li>
+<li><i><a href="/wiki/The_Wash_(film)" title="The Wash (film)">The Wash</a></i></li>
+<li><a href="/wiki/N.W.A" title="N.W.A">N.W.A</a></li>
+<li><a href="/wiki/World_Class_Wreckin%27_Cru" title="World Class Wreckin' Cru">World Class Wreckin' Cru</a></li>
+<li><a href="/wiki/Beats_Electronics" title="Beats Electronics">Beats Electronics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1066
+CPU time usage: 2.952 seconds
+Real time usage: 3.091 seconds
+Preprocessor visited node count: 10962/1000000
+Preprocessor generated node count: 65940/1500000
+Post‐expand include size: 103845/2048000 bytes
+Template argument size: 16112/2048000 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Lua time usage: 0.150/10.000 seconds
+Lua memory usage: 2.9 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1966560-0!*!0!!en!4!* and timestamp 20140530155208 and revision id 610554249
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=2001_(Dr._Dre_album)&amp;oldid=610554249">http://en.wikipedia.org/w/index.php?title=2001_(Dr._Dre_album)&amp;oldid=610554249</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1999_albums" title="Category:1999 albums">1999 albums</a></li><li><a href="/wiki/Category:Dr._Dre_albums" title="Category:Dr. Dre albums">Dr. Dre albums</a></li><li><a href="/wiki/Category:Aftermath_Entertainment_albums" title="Category:Aftermath Entertainment albums">Aftermath Entertainment albums</a></li><li><a href="/wiki/Category:Albums_certified_multi-platinum_by_the_Recording_Industry_Association_of_America" title="Category:Albums certified multi-platinum by the Recording Industry Association of America">Albums certified multi-platinum by the Recording Industry Association of America</a></li><li><a href="/wiki/Category:Albums_produced_by_Scott_Storch" title="Category:Albums produced by Scott Storch">Albums produced by Scott Storch</a></li><li><a href="/wiki/Category:Albums_produced_by_Lord_Finesse" title="Category:Albums produced by Lord Finesse">Albums produced by Lord Finesse</a></li><li><a href="/wiki/Category:Albums_produced_by_Dr._Dre" title="Category:Albums produced by Dr. Dre">Albums produced by Dr. Dre</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Mel-Man" title="Category:Albums produced by Mel-Man">Albums produced by Mel-Man</a></li><li><a href="/wiki/Category:Gangsta_rap_albums" title="Category:Gangsta rap albums">Gangsta rap albums</a></li><li><a href="/wiki/Category:Cannabis_music" title="Category:Cannabis music">Cannabis music</a></li><li><a href="/wiki/Category:Sequel_albums" title="Category:Sequel albums">Sequel albums</a></li><li><a href="/wiki/Category:G-funk_albums" title="Category:G-funk albums">G-funk albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2001+%28Dr.+Dre+album%29&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2001+%28Dr.+Dre+album%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/2001_(Dr._Dre_album)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:2001_(Dr._Dre_album)"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/2001_(Dr._Dre_album)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/2001_(Dr._Dre_album)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/2001_(Dr._Dre_album)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;oldid=610554249" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q182280" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=2001_%28Dr._Dre_album%29&amp;id=610554249" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=2001+%28Dr.+Dre+album%29">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=2001+%28Dr.+Dre+album%29&amp;oldid=610554249&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=2001_(Dr._Dre_album)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/2001_(%D0%B0%D0%BB%D0%B1%D1%83%D0%BC)" title="2001 (албум) – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/2001_(%C3%A0lbum)" title="2001 (àlbum) – Catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/2001_(album)" title="2001 (album) – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/2001_(album)" title="2001 (album) – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/2001_(Album)" title="2001 (Album) – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/2001_(%C3%A1lbum)" title="2001 (álbum) – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DB%B2%DB%B0%DB%B0%DB%B1_(%D8%A2%D9%84%D8%A8%D9%88%D9%85)" title="۲۰۰۱ (آلبوم) – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/2001_(album)" title="2001 (album) – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/2001_(album)" title="2001 (album) – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/2001_(%D7%90%D7%9C%D7%91%D7%95%D7%9D)" title="2001 (אלבום) – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/2001_(%E1%83%90%E1%83%9A%E1%83%91%E1%83%9D%E1%83%9B%E1%83%98)" title="2001 (ალბომი) – Georgian" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-sw"><a href="//sw.wikipedia.org/wiki/2001_(albamu)" title="2001 (albamu) – Swahili" lang="sw" hreflang="sw">Kiswahili</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/2001_(album)" title="2001 (album) – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/2001_(album)" title="2001 (album) – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/2001_(album)" title="2001 (album) – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/2001_(%C3%A1lbum)" title="2001 (álbum) – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/2001_(%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC)" title="2001 (альбом) – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/2001_(Dr._Dre_album)" title="2001 (Dr. Dre album) – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/2001_(albumi)" title="2001 (albumi) – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/2001_(musikalbum)" title="2001 (musikalbum) – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-tl"><a href="//tl.wikipedia.org/wiki/2001_(album)" title="2001 (album) – Tagalog" lang="tl" hreflang="tl">Tagalog</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/2001_(alb%C3%BCm)" title="2001 (albüm) – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q182280#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 May 2014 at 21:57.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/2001_(Dr._Dre_album)" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"mw.PopUpMediaTransform":"loading","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mw.PopUpMediaTransform&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":232,"wgHostname":"mw1212"});
+}</script>
+	</body>
+</html>
+	

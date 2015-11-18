@@ -1,0 +1,881 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>D12 World - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/D12_World" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=D12_World&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=D12_World&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/D12_World" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"D12_World","wgTitle":"D12 World","wgCurRevisionId":591724326,"wgRevisionId":591724326,"wgArticleId":641894,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Articles with album ratings that need to be turned into prose","2004 albums","D12 albums","Shady Records albums","Albums produced by Dr. Dre","Albums produced by Kanye West","Albums produced by Hi-Tek","Albums produced by Denaun Porter","Albums produced by Eminem","Albums produced by Mike Elizondo","Albums certified platinum by the Recording Industry Association of Japan","English-language albums","Horrorcore albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"D12_World","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q621073"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-D12_World skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>D12 World</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">D12 World</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:D12_World.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/da/D12_World.jpg/220px-D12_World.jpg" width="220" height="220" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/d/da/D12_World.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/d/da/D12_World.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/D12" title="D12">D12</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">April 27, 2004</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>2003-2004</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>77:49</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Language</th>
+<td class="category">English</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Shady_Records" title="Shady Records">Shady</a>, <a href="/wiki/Interscope_Records" title="Interscope Records">Interscope</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Eminem" title="Eminem">Eminem</a> <small>(<a href="/wiki/Executive_producer#Music" title="Executive producer">exec.</a>)</small><br />
+<a href="/wiki/Kon_Artis" title="Kon Artis" class="mw-redirect">Mr. Porter</a>, <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, <a href="/wiki/Mike_Elizondo" title="Mike Elizondo">Mike Elizondo</a>, <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>, <a href="/wiki/Hi-Tek" title="Hi-Tek">Hi-Tek</a>, <a href="/wiki/Red_Spyda" title="Red Spyda">Red Spyda</a>, <a href="/wiki/Trackboyz" title="Trackboyz">Trackboyz</a>, Witt &amp; Pep, <a href="/wiki/Luis_Resto_(musician)" title="Luis Resto (musician)">Luis Resto</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/D12" title="D12">D12</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Devil%27s_Night_(album)" title="Devil's Night (album)">Devil's Night</a></i><br />
+(2001)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>D12 World</b></i><br />
+(2004)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>D12 World</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/My_Band" title="My Band">My Band</a>"</span><br />
+Released: March 14, 2004</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/How_Come" title="How Come">How Come</a>"</span><br />
+Released: June 8, 2004</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf;font-size:120%;">Aggregate scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Metacritic" title="Metacritic">Metacritic</a></td>
+<td>(58/100)<sup id="cite_ref-Meta_1-0" class="reference"><a href="#cite_note-Meta-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="(choice cut)"><img alt="(choice cut)" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scissors_icon_black.svg/17px-Scissors_icon_black.svg.png" width="17" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scissors_icon_black.svg/26px-Scissors_icon_black.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scissors_icon_black.svg/34px-Scissors_icon_black.svg.png 2x" data-file-width="100" data-file-height="60" /></span><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">B+<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/HipHopDX" title="HipHopDX">HipHopDX</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/PopMatters" title="PopMatters">PopMatters</a></td>
+<td style="vertical-align:middle">6/10<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i></td>
+<td style="vertical-align:middle">B-<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a></td>
+<td style="vertical-align:middle">F<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>D12 World</b></i> is the second <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by <a href="/wiki/Detroit_hip_hop" title="Detroit hip hop" class="mw-redirect">Detroit hip hop</a> <a href="/wiki/Music_ensemble" title="Music ensemble" class="mw-redirect">group</a> <a href="/wiki/D12" title="D12">D12</a>, released on April 27, 2004. The album sold 544,000 copies in its first week on the U.S. Billboard 200.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> The album is the last D12 album to feature <a href="/wiki/Proof_(rapper)" title="Proof (rapper)">Proof</a> before his death in 2006, and the second D12 album to feature "Bugz" on a track.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Reception"><span class="tocnumber">2</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Track_listing"><span class="tocnumber">3</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Personnel"><span class="tocnumber">4</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Chart_positions"><span class="tocnumber">5</span> <span class="toctext">Chart positions</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=D12_World&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In memory of <a href="/wiki/Bugz" title="Bugz" class="mw-redirect">Bugz</a>, who was killed prior to a concert on May 21, 1999, the group recorded the track "Good Die Young" in memory of him. The album also includes a song entitled "Bugz '97", which is a 1997 recording of Bugz, originally taken from the song "Desperados". The album was often overshadowed by Eminem's massive success, and as such, the band toured without him for promotion of the album. At the time, Eminem was busy recording <i><a href="/wiki/Encore_(Eminem_album)" title="Encore (Eminem album)">Encore</a></i>. Although shadowed by <a href="/wiki/Eminem" title="Eminem">Eminem</a>'s success, members <a href="/wiki/Bizarre_(rapper)" title="Bizarre (rapper)">Bizarre</a> and <a href="/wiki/Proof_(rapper)" title="Proof (rapper)">Proof</a> managed to prevail with mildly successful solo careers following <i>D12 World</i>, with the releases of <i><a href="/wiki/Hannicap_Circus" title="Hannicap Circus">Hannicap Circus</a></i> and <i><a href="/wiki/Searching_for_Jerry_Garcia" title="Searching for Jerry Garcia">Searching for Jerry Garcia</a></i> in 2005. Before the album's release, "6 in the Morning" was featured on Eminem's 2003 <a href="/wiki/Mixtape" title="Mixtape">mixtape</a> <i><a href="/wiki/Straight_from_the_Lab" title="Straight from the Lab">Straight from the Lab</a></i> and was entitled "Come On In".</p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=D12_World&amp;action=edit&amp;section=2" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>D12 World</i> debuted at the top of the U.S., U.K., Irish, Canadian and NZ album charts. It debuted at number 2 in Germany and Australia, and also in the top 5 in Switzerland, Norway and Australia. It debuted in the top 10 in Sweden, Denmark, France, Belgium and the Netherlands. It sold over 500,000 records in its first week of release in the United States alone. "<a href="/wiki/My_Band" title="My Band">My Band</a>", the first single, also has been successful reaching number one in Australia and the U.S. rhythmic top 40, top 5 in the U.K. and Germany and top 10 on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a>. Upon release, D12 World received mixed to positive reviews from critics. At Metacritic, which assigns a normalized rating out of 100 to reviews from mainstream critics, the album received an average score of 58, based on 13 reviews, which indicates "mixed or average reviews."<sup id="cite_ref-Meta_1-1" class="reference"><a href="#cite_note-Meta-1"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=D12_World&amp;action=edit&amp;section=3" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Git Up" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Eminem" title="Eminem">M. Mathers</a>, <a href="/wiki/Luis_Resto_(musician)" title="Luis Resto (musician)">L. Resto</a>, Steve King, O. Moore, <a href="/wiki/Kuniva" title="Kuniva" class="mw-redirect">V. Carlisle</a></td>
+<td style="vertical-align: top;"><a href="/wiki/Eminem" title="Eminem">Eminem</a>, <a href="/wiki/Luis_Resto_(musician)" title="Luis Resto (musician)">Luis Resto</a> (add.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:03</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Loyalty" <span style="font-size:85%;">(featuring <a href="/wiki/Obie_Trice" title="Obie Trice">Obie Trice</a>)</span></td>
+<td style="vertical-align: top;">M. Mathers, L. Resto, <a href="/wiki/Denaun_Porter" title="Denaun Porter" class="mw-redirect">D. Porter</a>, <a href="/wiki/Obie_Trice" title="Obie Trice">O. Trice</a>, O. Moore, <a href="/wiki/Proof_(rapper)" title="Proof (rapper)">D. Holton</a>, V. Carlisle, <a href="/wiki/Bizarre_(rapper)" title="Bizarre (rapper)">R. Johnson</a></td>
+<td style="vertical-align: top;">Eminem, Luis Resto (add.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:54</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Just Like U" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Hi-Tek" title="Hi-Tek">T. Cottrell</a>, R. Johnson</td>
+<td style="vertical-align: top;"><a href="/wiki/Hi-Tek" title="Hi-Tek">Hi-Tek</a>, Eminem &amp; Luis Resto (add.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:31</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"I'll Be Damned" &#160;</td>
+<td style="vertical-align: top;">D. Porter, O. Moore, R. Johnson, V. Carlisle</td>
+<td style="vertical-align: top;"><a href="/wiki/Mr._Porter" title="Mr. Porter">Mr. Porter</a>, Eminem &amp; Luis Resto (add.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:21</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Dude" <span style="font-size:85%;">(skit)</span></td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:14</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/My_Band" title="My Band">My Band</a>" &#160;</td>
+<td style="vertical-align: top;">D. Porter, O. Moore, D. Holton, V. Carlisle, R. Johnson, M. Mathers, L. Resto, S. King</td>
+<td style="vertical-align: top;">Eminem, Luis Resto (add.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:58</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"U R the One" &#160;</td>
+<td style="vertical-align: top;">D. Porter, M. Richardson, <a href="/wiki/Mike_Elizondo" title="Mike Elizondo">M. Elizondo</a>, O. Moore, R. Johnson, D. Holton, V. Carlisle</td>
+<td style="vertical-align: top;">Mr. Porter</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:19</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"6 in the Morning" &#160;</td>
+<td style="vertical-align: top;">M. Mathers, L. Resto, D. Porter, O. Moore, V. Carlisle</td>
+<td style="vertical-align: top;">Eminem, Luis Resto (add.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:38</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/How_Come" title="How Come">How Come</a>" &#160;</td>
+<td style="vertical-align: top;">M. Mathers, D. Porter, D. Holton, D. Moore, B. Johnson</td>
+<td style="vertical-align: top;">Witt &amp; Pep</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:09</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Leave Dat Boy Alone" &#160;</td>
+<td style="vertical-align: top;">M. Mathers, L. Resto, <a href="/wiki/Red_Spyda" title="Red Spyda">A. Thelusma</a>, O. Moore, D. Porter, V. Carlisle</td>
+<td style="vertical-align: top;"><a href="/wiki/Red_Spyda" title="Red Spyda">Red Spyda</a>, Eminem &amp; Luis Resto (add.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:23</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Get My Gun" &#160;</td>
+<td style="vertical-align: top;">M. Mathers, L. Resto, S. King, O. Moore, V. Carlisle, D. Holton, D. Porter, R. Johnson</td>
+<td style="vertical-align: top;">Eminem, Luis Resto (add.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:34</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Bizarre" <span style="font-size:85%;">(skit)</span></td>
+<td style="vertical-align: top;">R. Johnson, Eminem</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:21</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Bitch" &#160;</td>
+<td style="vertical-align: top;">M. Mathers, L. Resto, D. Porter, O. Moore, D. Holton, V. Carlisle, R. Johnson</td>
+<td style="vertical-align: top;">Eminem, Luis Resto (add.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:56</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Steve's Coffee House" <span style="font-size:85%;">(skit)</span></td>
+<td style="vertical-align: top;">S. Berman, M. Mathers</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:51</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"D-12 World" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Kanye_West" title="Kanye West">K. West</a>, D. Porter, R. Johnson, O. Moore, V. Carlisle, D. Holton</td>
+<td style="vertical-align: top;"><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:10</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"40 Oz." &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Trackboyz" title="Trackboyz">M. Williams, J. Kent</a>, M. Mathers, R. Johnson, V. Carlisle, D. Holton</td>
+<td style="vertical-align: top;"><a href="/wiki/Trackboyz" title="Trackboyz">Trackboyz</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:02</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"Commercial Break" <span style="font-size:85%;">(featuring <a href="/wiki/Young_Zee" title="Young Zee" class="mw-redirect">Young Zee</a>)</span></td>
+<td style="vertical-align: top;">D. Porter, Young Zee</td>
+<td style="vertical-align: top;">Mr. Porter</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:12</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"American Psycho II" <span style="font-size:85%;">(featuring <a href="/wiki/B-Real" title="B-Real">B-Real</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Dr._Dre" title="Dr. Dre">A. Young</a>, M. Elizondo, <a href="/wiki/B-Real" title="B-Real">L. Freese</a>, O. Moore, V. Carlisle, R. Johnson, M. Mathers</td>
+<td style="vertical-align: top;"><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, <a href="/wiki/Mike_Elizondo" title="Mike Elizondo">Mike Elizondo</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:44</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"Bugz '97" <span style="font-size:85%;">(skit) (performed by Bugz)</span></td>
+<td style="vertical-align: top;">K. Pitts, M. Mathers</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:05</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">20.</td>
+<td style="text-align: left; vertical-align: top;">"Good Die Young" &#160;</td>
+<td style="vertical-align: top;">D. Porter, S. Rivers, R. Johnson, V. Carlisle, D. Holton, O. Moore, <a href="/wiki/J._R._Rotem" title="J. R. Rotem" class="mw-redirect">J. R. Rotem</a>, <a href="/wiki/Paul_Williams_(songwriter)" title="Paul Williams (songwriter)">P. Williams</a></td>
+<td style="vertical-align: top;">Mr. Porter, Ess Man (co.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:56</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">21.</td>
+<td style="text-align: left; vertical-align: top;">"Keep Talkin" &#160;</td>
+<td style="vertical-align: top;">M. Mathers, O. Moore, T. Martinez, G. Hughes, V. Carlisle, R. Johnson, D. Holton, M. Moore</td>
+<td style="vertical-align: top;">Night &amp; Day, Eminem &amp; Luis Resto (add.)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:28</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff"><i>Special Edition Bonus Disc</i><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Barbershop" &#160;</td>
+<td style="vertical-align: top;">M. Mathers, O. Moore, G. Hughes, V. Carlisle, R. Johnson, D. Holton, M. Moore</td>
+<td style="vertical-align: top;"><a href="/wiki/Mr._Porter" title="Mr. Porter">Mr. Porter</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:23</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Slow Your Roll" &#160;</td>
+<td style="vertical-align: top;">M. Mathers, O. Moore, G. Hughes, V. Carlisle, R. Johnson, D. Holton, M. Moore</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:25</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff"><i>Deluxe Edition Bonus DVD</i><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 100%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Making of the Album/Behind the Scenes" <span style="font-size:85%;">(Featurette)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">29:14</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"My Band" <span style="font-size:85%;">(Uncensored Music Video)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:44</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"40 Oz." <span style="font-size:85%;">(Uncensored Music Video)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:02</td>
+</tr>
+</table>
+<p><b>Notes</b></p>
+<ul>
+<li>The skit "Bugz" is taken from the song "Desperados", performed by Eminem, Proof, Bugz &amp; The Almighty Dreadknaughts.</li>
+<li>The song "Just Like U" doesn't appear on the clean version of the album.</li>
+<li>The song "Barbershop" can be found on the <a href="/wiki/Barbershop_2:_Back_in_Business" title="Barbershop 2: Back in Business">Barbershop 2: Back in Business</a> soundtrack.</li>
+<li>The song "Just Like U" contains a sample from "Sir Galahad" by <a href="/wiki/Rick_Wakeman" title="Rick Wakeman">Rick Wakeman</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=D12_World&amp;action=edit&amp;section=4" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>B-Real – Guest Appearance</li>
+<li>Steve Baughman – Mixing</li>
+<li>Rondell Beene – Skit</li>
+<li>Bizarre – Skit</li>
+<li>Joe Borges – Assistant</li>
+<li>Bugz – Skit</li>
+<li>Tony Campana – Engineer</li>
+<li>Richard Castro – Skit</li>
+<li>Larry Chatman – Project Coordinator</li>
+<li>Mike "Chav" Chavarria – Engineer</li>
+<li>D12 – Group</li>
+<li>Dr. Dre – Producer, Mixing</li>
+<li>Mike Elizondo – Keyboards</li>
+<li>Eminem – Producer, Executive Producer, Mixing, Skit</li>
+<li>Essman – Producer</li>
+<li>50 Cent – Skit</li>
+<li>Brian "Big Bass" Gardener – Mastering</li>
+<li>Marcus Heisser – A&amp;R</li>
+<li>Richard Hunt – Engineer</li>
+<li>Steven King – Bass, Guitar, Engineer, Mixing, Skit</li>
+<li>Kuniva – Skit</li>
+<li>Marc Labelle – A&amp;R</li>
+<li>Tracy McNew – A&amp;R</li>
+<li>Riggs Morales – A&amp;R</li>
+<li>Night and Day – Producer</li>
+<li>Red Spyda – Keyboards, Producer</li>
+<li>Luis Resto – Keyboards, Producer</li>
+<li>Michael Strange – Engineer</li>
+<li>Obie Trice – Guest Appearance</li>
+<li>Sacha Waldman – Photography</li>
+<li>Young Zee – Skit</li>
+<li>Kanye West – Producer</li>
+<li>Paul Williams - Songwriter</li>
+<li>J.R. Rotem - Songwriter</li>
+</ul>
+<h2><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=D12_World&amp;action=edit&amp;section=5" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tr>
+<th align="left">Charts (2004)<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></th>
+<th align="left">Peak<br />
+position</th>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/ARIA_Charts" title="ARIA Charts">Australian Albums Chart</a></td>
+<td align="center">2<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Media_Control_Charts" title="Media Control Charts">Austrian Albums Chart</a></td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Media_Control_Charts" title="Media Control Charts">Swedish Albums Chart</a></td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Ultratop" title="Ultratop">Belgian Albums Chart</a> (Flanders)</td>
+<td align="center">9</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Danish_Albums_Chart" title="Danish Albums Chart" class="mw-redirect">Danish Albums Chart</a></td>
+<td style="text-align:center;">6</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/MegaCharts" title="MegaCharts">Dutch Albums Chart</a></td>
+<td align="center">9</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">French Albums Chart</a></td>
+<td align="center">9</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Media_Control_Charts" title="Media Control Charts">German Albums Chart</a></td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Irish_Albums_Chart" title="Irish Albums Chart">Irish Albums Chart</a></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Recording_Industry_Association_of_New_Zealand" title="Recording Industry Association of New Zealand" class="mw-redirect">New Zealand Albums Chart</a></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/VG-lista" title="VG-lista">Norwegian Albums Chart</a></td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Swiss_Music_Charts" title="Swiss Music Charts" class="mw-redirect">Swiss Albums Chart</a></td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left">US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left">US <i>Billboard</i> <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">R&amp;B/Hip-Hop Albums</a></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left">US <i>Billboard</i> <a href="/wiki/Top_Rap_Albums" title="Top Rap Albums" class="mw-redirect">Rap Albums</a></td>
+<td align="center">1</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=D12_World&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Meta-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Meta_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Meta_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/d12-world/critic-reviews">Metacritic reviews</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r688616">Allmusic review</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=D12">Robert Christgau review</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,628831,00.html">Entertainment Weekly review</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.guardian.co.uk/music/2004/may/14/popandrock.shopping3?INTCMP=SRCH">The Guardian review</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/album-reviews/id.401/title.d12-d12-world">HipHopDX review</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.popmatters.com/pm/review/d12-world/">PopMatters review</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071130020404/http://www.rollingstone.com/artists/d12/albums/album/5243634/review/5993565/d12_world">Rolling Stone review</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (archived November 30, 2007)</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://books.google.mk/books?id=UAUQ04BGfpUC&amp;pg=PA103&amp;dq=d12+world+spin+review&amp;hl=en&amp;sa=X&amp;ei=gpDeUuemJMH8ywOY7IKAAQ&amp;redir_esc=y#v=onepage&amp;q=d12%20world%20spin%20review&amp;f=false">Spin review</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.stylusmagazine.com/reviews/d12/d12-world.htm">Stylus magazine review</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/productinfo.asp?pid=6717461&amp;style=music&amp;fulldesc=T">Vibe review</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allbusiness.com/retail-trade/miscellaneous-retail-retail-stores-not/4653902-1.html">"D12's Opening Sales Rate Retail Raves"</a><span class="reference-accessdate">. Retrieved December 11, 2001</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AD12+World&amp;rft.btitle=D12%27s+Opening+Sales+Rate+Retail+Raves&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allbusiness.com%2Fretail-trade%2Fmiscellaneous-retail-retail-stores-not%2F4653902-1.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation book"><a rel="nofollow" class="external text" href="http://books.google.com/books?id=xRAEAAAAMBAJ&amp;lpg=PA68&amp;ots=y5Fyp78TKH&amp;dq=the%20eminem%20show%20%22first%20time%22%20%22lyrics%22%20%22included%22&amp;pg=PA68#v=onepage&amp;q=the%20eminem%20show%20%22first%20time%22%20%22lyrics%22%20%22included%22&amp;f=false"><i>Billboard</i></a>. Google Books<span class="reference-accessdate">. Retrieved December 11, 2001</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AD12+World&amp;rft.btitle=Billboard&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DxRAEAAAAMBAJ%26lpg%3DPA68%26ots%3Dy5Fyp78TKH%26dq%3Dthe%2520eminem%2520show%2520%2522first%2520time%2522%2520%2522lyrics%2522%2520%2522included%2522%26pg%3DPA68%23v%3Donepage%26q%3Dthe%2520eminem%2520show%2520%2522first%2520time%2522%2520%2522lyrics%2522%2520%2522included%2522%26f%3Dfalse&amp;rft.pub=Google+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.amazon.co.uk/D12-World-D-12/dp/B00020QIKY/ref=sr_1_1?s=music&amp;ie=UTF8&amp;qid=1327392305&amp;sr=1-1">D12 World: Amazon.co.uk: Music</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.amazon.co.uk/D12-World/dp/tracks/B0001Z53CY/ref=dp_tracks_all_1#disc_1">D12 World: Amazon.co.uk: Music</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://acharts.us/album/13350">"D12 World ratings"</a><span class="reference-accessdate">. Retrieved December 11, 2001</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AD12+World&amp;rft.btitle=D12+World+ratings&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Facharts.us%2Falbum%2F13350&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.australian-charts.com/weekchart.asp?cat=a&amp;year=2004&amp;date=20040523">"Australian charts"</a>. <a href="/wiki/ARIA_Charts" title="ARIA Charts">ARIA Charts</a>. May 5, 2004.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AD12+World&amp;rft.btitle=Australian+charts&amp;rft.date=May+5%2C+2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.australian-charts.com%2Fweekchart.asp%3Fcat%3Da%26year%3D2004%26date%3D20040523&amp;rft.pub=ARIA+Charts&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=D12_World&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external autonumber" href="http://www.allmusic.com/album/d12-world-r688616/review">[1]</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/d12-world"><i>D12 World</i></a> at <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a></li>
+</ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Confessions_(2004_album)" title="Confessions (2004 album)" class="mw-redirect">Confessions</a></i> by <a href="/wiki/Usher_(entertainer)" title="Usher (entertainer)">Usher</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_2004_(USA)" title="Number-one albums of 2004 (USA)" class="mw-redirect">number-one album</a></b><br />
+May 9, 2004 – May 15, 2004</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Confessions_(2004_album)" title="Confessions (2004 album)" class="mw-redirect">Confessions</a></i> by <a href="/wiki/Usher_(entertainer)" title="Usher (entertainer)">Usher</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Greatest_Hits_(Guns_N%27_Roses_album)" title="Greatest Hits (Guns N' Roses album)">Greatest Hits</a></i> by <a href="/wiki/Guns_N%27_Roses" title="Guns N' Roses">Guns N' Roses</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/List_of_number-one_albums_(UK)" title="List of number-one albums (UK)" class="mw-redirect">UK number one album</a></b><br />
+May 8, 2004 – May 14, 2004</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Greatest_Hits_(Guns_N%27_Roses_album)" title="Greatest Hits (Guns N' Roses album)">Greatest Hits</a></i> by <a href="/wiki/Guns_N%27_Roses" title="Guns N' Roses">Guns N' Roses</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Anastacia_(album)" title="Anastacia (album)">Anastacia</a></i> by <a href="/wiki/Anastacia" title="Anastacia">Anastacia</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b>Australian <a href="/wiki/ARIA_Charts" title="ARIA Charts">ARIA Albums Chart</a> <a href="/wiki/Number-one_albums_of_2004_(Australia)" title="Number-one albums of 2004 (Australia)" class="mw-redirect">number-one album</a></b><br />
+May 3, 2004 – May 9, 2004</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Michael_Bubl%C3%A9_(album)" title="Michael Bublé (album)">Michael Bublé</a></i> by <a href="/wiki/Michael_Bubl%C3%A9" title="Michael Bublé">Michael Bublé</a></span></td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:D12" title="Template:D12"><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:D12" title="Template talk:D12"><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:D12&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><a href="/wiki/D12" title="D12">D12</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><a href="/wiki/Eminem" title="Eminem">Eminem</a></b></li>
+<li><b><a href="/wiki/Bizarre_(rapper)" title="Bizarre (rapper)">Bizarre</a></b></li>
+<li><b>Kuniva</b></li>
+<li><b>Swifty McVay</b></li>
+<li><b>Fuzz Scoota</b></li>
+</ul>
+<ul>
+<li>Bugz</li>
+<li><a href="/wiki/Proof_(rapper)" title="Proof (rapper)">Proof</a></li>
+<li><a href="/wiki/Mr._Porter" title="Mr. Porter">Mr. Porter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Devil%27s_Night_(album)" title="Devil's Night (album)">Devil's Night</a></i></li>
+<li><i><strong class="selflink">D12 World</strong></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Shit_on_You" title="Shit on You">Shit on You</a>"</li>
+<li>"<a href="/wiki/Purple_Pills" title="Purple Pills">Purple Pills</a>"</li>
+<li>"<a href="/wiki/Ain%27t_Nuttin%27_But_Music" title="Ain't Nuttin' But Music">Ain't Nuttin' But Music</a>"</li>
+<li>"<a href="/wiki/Fight_Music" title="Fight Music">Fight Music</a>"</li>
+<li>"<a href="/wiki/My_Band" title="My Band">My Band</a>"</li>
+<li>"<a href="/wiki/How_Come" title="How Come">How Come</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/D12_discography" title="D12 discography">Discography</a></li>
+<li><a href="/wiki/Shady_Records" title="Shady Records">Shady Records</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1003
+CPU time usage: 2.452 seconds
+Real time usage: 2.571 seconds
+Preprocessor visited node count: 10578/1000000
+Preprocessor generated node count: 56324/1500000
+Post‐expand include size: 88235/2048000 bytes
+Template argument size: 16625/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.103/10.000 seconds
+Lua memory usage: 1.94 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:641894-0!*!0!!en!4!* and timestamp 20140531182825 and revision id 591724326
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=D12_World&amp;oldid=591724326">http://en.wikipedia.org/w/index.php?title=D12_World&amp;oldid=591724326</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2004_albums" title="Category:2004 albums">2004 albums</a></li><li><a href="/wiki/Category:D12_albums" title="Category:D12 albums">D12 albums</a></li><li><a href="/wiki/Category:Shady_Records_albums" title="Category:Shady Records albums">Shady Records albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Dr._Dre" title="Category:Albums produced by Dr. Dre">Albums produced by Dr. Dre</a></li><li><a href="/wiki/Category:Albums_produced_by_Kanye_West" title="Category:Albums produced by Kanye West">Albums produced by Kanye West</a></li><li><a href="/wiki/Category:Albums_produced_by_Hi-Tek" title="Category:Albums produced by Hi-Tek">Albums produced by Hi-Tek</a></li><li><a href="/wiki/Category:Albums_produced_by_Denaun_Porter" title="Category:Albums produced by Denaun Porter">Albums produced by Denaun Porter</a></li><li><a href="/wiki/Category:Albums_produced_by_Eminem" title="Category:Albums produced by Eminem">Albums produced by Eminem</a></li><li><a href="/wiki/Category:Albums_produced_by_Mike_Elizondo" title="Category:Albums produced by Mike Elizondo">Albums produced by Mike Elizondo</a></li><li><a href="/wiki/Category:Albums_certified_platinum_by_the_Recording_Industry_Association_of_Japan" title="Category:Albums certified platinum by the Recording Industry Association of Japan">Albums certified platinum by the Recording Industry Association of Japan</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li><li><a href="/wiki/Category:Horrorcore_albums" title="Category:Horrorcore albums">Horrorcore albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_with_album_ratings_that_need_to_be_turned_into_prose" title="Category:Articles with album ratings that need to be turned into prose">Articles with album ratings that need to be turned into prose</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=D12+World&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=D12+World" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/D12_World"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:D12_World"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/D12_World" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=D12_World&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=D12_World&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/D12_World" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/D12_World" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=D12_World&amp;oldid=591724326" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=D12_World&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q621073" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=D12_World&amp;id=591724326" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=D12+World">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=D12+World&amp;oldid=591724326&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=D12_World&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/D12_World" title="D12 World – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/D12_World" title="D12 World – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/D12_World" title="D12 World – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/D12_World" title="D12 World – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/D12_World" title="D12 World – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AF%D9%86%DB%8C%D8%A7%DB%8C_%D8%AF%DB%8C%DB%B1%DB%B2" title="دنیای دی۱۲ – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/D12_World" title="D12 World – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/D12_World" title="D12 World – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/D12_World" title="D12 World – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/D12%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89" title="D12ワールド – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/D12_World" title="D12 World – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/D12_World" title="D12 World – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/D12_World" title="D12 World – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/D12_World" title="D12 World – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/D12_World" title="D12 World – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/D12_World" title="D12 World – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q621073#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 January 2014 at 15:24.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/D12_World" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":204,"wgHostname":"mw1214"});
+}</script>
+	</body>
+</html>
+	

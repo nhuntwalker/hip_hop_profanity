@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>No Way Out (album) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/No_Way_Out_(album)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=No_Way_Out_(album)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=No_Way_Out_(album)&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/No_Way_Out_(album)" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"No_Way_Out_(album)","wgTitle":"No Way Out (album)","wgCurRevisionId":608325855,"wgRevisionId":608325855,"wgArticleId":2558340,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Sean Combs albums","1997 debut albums","Bad Boy Records albums","Grammy Award for Best Rap Album"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"No_Way_Out_(album)","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2282581"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-No_Way_Out_album skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>No Way Out</i> (album)</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">No Way Out</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:No_Way_Out_album.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a3/No_Way_Out_album.jpg/220px-No_Way_Out_album.jpg" width="220" height="221" srcset="//upload.wikimedia.org/wikipedia/en/a/a3/No_Way_Out_album.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/a/a3/No_Way_Out_album.jpg 2x" data-file-width="299" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Sean_Combs" title="Sean Combs">Puff Daddy</a> &amp; <a href="/wiki/Bad_Boy_Entertainment" title="Bad Boy Entertainment" class="mw-redirect">the Family</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">July 22, 1997</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1996–97</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop" title="Hip hop">Hip hop</a>, <a href="/wiki/East_Coast_hip_hop" title="East Coast hip hop">East Coast hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>77:52</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Sean_%22Puffy%22_Combs" title="Sean &quot;Puffy&quot; Combs" class="mw-redirect">Sean "Puffy" Combs</a> <small>(<a href="/wiki/Executive_producer#Music" title="Executive producer">exec.</a>)</small>, <a href="/wiki/Notorious_B.I.G." title="Notorious B.I.G." class="mw-redirect">Christopher Wallace</a> <small>(exec.)</small>, <a href="/wiki/Deric_Angelettie" title="Deric Angelettie" class="mw-redirect">Deric "D-Dot" Angelettie</a> <small>(exec.)</small>, <a href="/wiki/The_Hitmen_(production_team)" title="The Hitmen (production team)" class="mw-redirect">The Hitmen</a> <small>(including Deric "D-Dot" Angelettie, <a href="/wiki/Stevie_J" title="Stevie J">Steven "Stevie J" Jordan</a>, Ron "Amen-Ra" Lawrence, Nashiem Myrick, Carlos "6 July" Broady, Jeffery "J-Dub" Walker, &amp; Yogi)</small>, Black Jeruz, <a href="/wiki/Big_Jaz" title="Big Jaz" class="mw-redirect">Big Jaz</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Sean_Combs" title="Sean Combs">Puff Daddy</a> &amp; <a href="/wiki/Bad_Boy_Entertainment" title="Bad Boy Entertainment" class="mw-redirect">the Family</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"></td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>No Way Out</b></i><br />
+(1997)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Forever_(Puff_Daddy_album)" title="Forever (Puff Daddy album)">Forever</a></i><br />
+(1999)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>No Way Out</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Can%27t_Nobody_Hold_Me_Down" title="Can't Nobody Hold Me Down">Can't Nobody Hold Me Down</a>"</span><br />
+Released: February 11, 1997</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/I%27ll_Be_Missing_You" title="I'll Be Missing You">I'll Be Missing You</a>"</span><br />
+Released: May 27, 1997</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/It%27s_All_About_the_Benjamins" title="It's All About the Benjamins">It's All About the Benjamins</a>"</span><br />
+Released: August 12, 1997</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Been_Around_the_World" title="Been Around the World">Been Around the World</a>"</span><br />
+Released: December 2, 1997</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Victory_(Puff_Daddy_song)" title="Victory (Puff Daddy song)">Victory</a>"</span><br />
+Released: March 17, 1998</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>No Way Out</b></i> is the debut studio album by American hip-hop artist <a href="/wiki/Sean_Combs" title="Sean Combs">Puff Daddy</a>, released on July 22, 1997 through record label <a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy Records</a>. The label also receives official crediting on the album as "The Family", and the album's guest appearances are largely made up of the label's artists. Production is largely handled by Puff Daddy (real name Sean Combs) and various members of production group The Hitmen. The album, executively produced by Combs himself, <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a> and <a href="/wiki/Deric_Angelettie" title="Deric Angelettie" class="mw-redirect">Deric "D-Dot" Angelettie</a> of The Hitmen, is predominantly rap-based, although it features generally introspective content, largely focused on close friend <a href="/wiki/The_Notorious_B.I.G.#March_1997_shooting_and_death" title="The Notorious B.I.G.">The Notorious B.I.G.'s killing</a> on March 9, 1997: however, the album features several more aggressive and positive songs recorded before the shooting. Originally titled <i>Hell Up in Harlem</i>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> the album underwent several changes after the death of his close friend emotionally affected Combs, who postponed the album in order to record several of the album's more emotional songs.</p>
+<p>Upon its release, <i>No Way Out</i> was a significant commercial success, particularly in the United States where it reached number one on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> in its first week of release, selling 561,000 copies. It also produced five commercially successful singles, the most successful of these being the worldwide hit "<a href="/wiki/I%27ll_Be_Missing_You" title="I'll Be Missing You">I'll Be Missing You</a>", a tribute song aimed at The Notorious B.I.G., which became the first rap song ever to debut at number one on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>, and remained at the top of the chart for eleven consecutive weeks, whilst topping several other charts worldwide. The other four singles, the <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a> hits "<a href="/wiki/Can%27t_Nobody_Hold_Me_Down" title="Can't Nobody Hold Me Down">Can't Nobody Hold Me Down</a>", "<a href="/wiki/It%27s_All_About_the_Benjamins" title="It's All About the Benjamins">It's All About the Benjamins</a>", "<a href="/wiki/Been_Around_the_World" title="Been Around the World">Been Around the World</a>" and "<a href="/wiki/Victory_(Puff_Daddy_song)" title="Victory (Puff Daddy song)">Victory</a>", were also commercially successful, and all except the latter peaked in the top two positions of the <i>Billboard</i> Hot 100.</p>
+<p>The album also received generally mixed to positive reviews from music critics, who generally wrote positively about its emotional feel and its production, but were divided in their reviews towards Puff Daddy's rapping and songwriting. On September 7, 2000, the album was certified septuple platinum by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> for sales of 7,000,000+ copies:<sup id="cite_ref-RIAA_2-0" class="reference"><a href="#cite_note-RIAA-2"><span>[</span>2<span>]</span></a></sup> to date, it remains Combs' most commercially successful album. The album earned Combs five nominations at the <a href="/wiki/40th_Grammy_Awards" title="40th Grammy Awards" class="mw-redirect">40th Grammy Awards</a> in 1998, winning the <a href="/wiki/Grammy_Award_for_Best_Rap_Album" title="Grammy Award for Best Rap Album">Grammy Award for Best Rap Album</a>.<sup id="cite_ref-Grammy1998_3-0" class="reference"><a href="#cite_note-Grammy1998-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background_and_recording"><span class="tocnumber">1</span> <span class="toctext">Background and recording</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Track_listing"><span class="tocnumber">2</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personnel"><span class="tocnumber">3</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Charts_and_certifications"><span class="tocnumber">4</span> <span class="toctext">Charts and certifications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Charts"><span class="tocnumber">4.1</span> <span class="toctext">Charts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background_and_recording">Background and recording</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=No_Way_Out_(album)&amp;action=edit&amp;section=1" title="Edit section: Background and recording">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When asked about the meaning behind the album’s name, Puff Daddy said it was because after The Notorious B.I.G.’s death on March 9 earlier in the year, he felt that there was “No Way Out” of the way things were. The album was filled with some of the emotions Puff Daddy felt in mourning his close friend the Notorious B.I.G. In the song “Is This the End?” Puff Daddy talks about experiencing the drive-by in Los Angeles that took his friend's life. The album was originally titled <i>Hell Up in Harlem</i> until <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a>'s death. The album topped the album charts in the US with 561,000 units sold in its first week of release, debuting at #1. On September 23, 1997, <i>No Way Out</i> was number one on Jet Magazine’s top 20 albums. The album topped music charts as number one for 6 months after its initial release. The album won the 1998 <a href="/wiki/Grammy_Award" title="Grammy Award">Grammy Award</a> for Best Rap Album. Alongside the album's Grammy, one of the album's hits, "It's All About the Benjamins" won the Viewer's Choice Award at the MTV Video Music Awards in September 1998. On September 7, 2000 the RIAA certified the album 7× multi-Platinum.</p>
+<p>At the end of the 1998, out of the 10 songs to reach number one of the <i>Billboard</i> Hot 100 list, four of these belonged to Bad Boy Records, Puff Daddy's record label which released his album. Out of the 52 weeks of the year, Bad Boy Records had a hit at number one for 22 weeks. The album had two <i>Billboard</i> Hot 100 number-one singles, "<a href="/wiki/Can%27t_Nobody_Hold_Me_Down" title="Can't Nobody Hold Me Down">Can't Nobody Hold Me Down</a>" and "<a href="/wiki/I%27ll_Be_Missing_You" title="I'll Be Missing You">I'll Be Missing You</a>", and two number two singles, "<a href="/wiki/Been_Around_the_World" title="Been Around the World">Been Around the World</a>" and "<a href="/wiki/It%27s_All_About_the_Benjamins" title="It's All About the Benjamins">It's All About the Benjamins</a>". The longest reign of any of the label's four hits was the hit "I'll Be Missing You", which topped the charts for 11 weeks. The inspiration for the album's hit "I'll Be Missing You" comes from The Police's 1983 hit "<a href="/wiki/Every_Breath_You_Take" title="Every Breath You Take">Every Breath You Take</a>". A year after the praise at both award ceremonies, Puff Daddy's success led him to be named as one of <i>Forbes</i><span style="padding-left:0.1em;">'</span> 40 highest-paid entertainers alongside southern rapper Master P, and Oprah Winfrey. In the music video of "Been Around the World" Puff Daddy romances actress <a href="/wiki/Jennifer_Lopez" title="Jennifer Lopez">Jennifer Lopez</a> in a fictional storyline. The video began to spread rumors of the two celebrities being in a very serious relationship. Furthermore, the music video for "<a href="/wiki/Victory_(Puff_Daddy_song)" title="Victory (Puff Daddy song)">Victory</a>" is one of the <a href="/wiki/List_of_most_expensive_music_videos" title="List of most expensive music videos">most expensive videos ever</a> made.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> A song titled "No Way Out" by Puff Daddy appears on the soundtrack to the film <i><a href="/wiki/Money_Talks" title="Money Talks">Money Talks</a></i>, but is not included on the album.</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=No_Way_Out_(album)&amp;action=edit&amp;section=2" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>All tracks except "Young G's" were produced by members of Bad Boy Records' in house production team, <a href="/wiki/The_Hitmen_(production_team)" title="The Hitmen (production team)" class="mw-redirect">The Hitmen</a>.</p>
+<table class="wikitable">
+<tr>
+<th style="text-align:center;">#</th>
+<th style="text-align:center;" width="width">Title</th>
+<th style="text-align:center;" width="width">Length</th>
+<th style="text-align:center;" width="width">Featured artists</th>
+<th style="text-align:center;" width="width">Producer(s)</th>
+<th style="text-align:center;" width="width">Samples and interpolations</th>
+</tr>
+<tr>
+<td>1</td>
+<td>"No Way Out" <small>(Intro)</small></td>
+<td>1:22</td>
+<td></td>
+<td><a href="/wiki/Stevie_J" title="Stevie J">Steven "Stevie J" Jordan</a> for <a href="/wiki/The_Hitmen_(production_team)" title="The Hitmen (production team)" class="mw-redirect">The Hitmen</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>"<a href="/wiki/Victory_(Puff_Daddy_song)" title="Victory (Puff Daddy song)">Victory</a>"</td>
+<td>4:56</td>
+<td><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a> &amp; <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a></td>
+<td><a href="/wiki/Sean_Combs" title="Sean Combs">Sean "Puffy" Combs</a> &amp; Steven "Stevie J" Jordan for The Hitmen</td>
+<td>
+<ul>
+<li>"Going the Distance" by <a href="/wiki/Bill_Conti" title="Bill Conti">Bill Conti</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>"<a href="/wiki/Been_Around_the_World" title="Been Around the World">Been Around the World</a>"</td>
+<td>5:25</td>
+<td><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a> &amp; <a href="/wiki/Mase" title="Mase">Mase</a></td>
+<td>Sean "Puffy" Combs, <a href="/wiki/Deric_Angelettie" title="Deric Angelettie" class="mw-redirect">Deric "D-Dot" Angelettie</a>, &amp; Ron "Amen-Ra" Lawrence for The Hitmen</td>
+<td>
+<ul>
+<li>"<a href="/wiki/Let%27s_Dance_(David_Bowie_song)" title="Let's Dance (David Bowie song)">Let's Dance</a>" by <a href="/wiki/David_Bowie" title="David Bowie">David Bowie</a></li>
+<li>"Feeling Good" by <a href="/wiki/Roy_Ayers" title="Roy Ayers">Roy Ayers</a> (remix only)</li>
+<li>"<a href="/wiki/All_Around_the_World_(Lisa_Stansfield_song)" title="All Around the World (Lisa Stansfield song)">All Around the World</a>" by <a href="/wiki/Lisa_Stansfield" title="Lisa Stansfield">Lisa Stansfield</a> (interpolation)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>"What You Gonna Do?"</td>
+<td>4:55</td>
+<td></td>
+<td>Sean "Puffy" Combs, Ron "Amen-Ra" Lawrence, &amp; Nashiem Myrick for The Hitmen</td>
+<td>
+<ul>
+<li>"It's Over" by <a href="/wiki/Eddie_Holman" title="Eddie Holman">Eddie Holman</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>"Don't Stop What You're Doing"</td>
+<td>3:58</td>
+<td><a href="/wiki/Lil%27_Kim" title="Lil' Kim">Lil' Kim</a> &amp; <a href="/wiki/Kelly_Price" title="Kelly Price">Kelly Price</a></td>
+<td>Sean "Puffy" Combs &amp; Ron "Amen-Ra" Lawrence for The Hitmen</td>
+<td>
+<ul>
+<li>"Don't Stop the Music" by <a href="/wiki/Yarbrough_and_Peoples" title="Yarbrough and Peoples">Yarbrough and Peoples</a></li>
+<li>"You Haven't Done Nothin'" by <a href="/wiki/Stevie_Wonder" title="Stevie Wonder">Stevie Wonder</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>6</td>
+<td>"If I Should Die Tonight" <small>(Interlude)</small></td>
+<td>2:59</td>
+<td><a href="/wiki/Carl_Thomas_(singer)" title="Carl Thomas (singer)">Carl Thomas</a></td>
+<td>Sean "Puffy" Combs &amp; Jeffery "J-Dub" Walker for The Hitmen</td>
+<td>
+<ul>
+<li>"If I Should Die Tonight" by <a href="/wiki/Marvin_Gaye" title="Marvin Gaye">Marvin Gaye</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>7</td>
+<td>"Do You Know?"</td>
+<td>6:06</td>
+<td><a href="/wiki/Kelly_Price" title="Kelly Price">Kelly Price</a></td>
+<td>Sean "Puffy" Combs &amp; Deric "D-Dot" Angelettie for The Hitmen</td>
+<td>
+<ul>
+<li>"Concentrate" by The Gaturs</li>
+<li>"Theme from Mahogany (Do You Know Where You're Going to)" by <a href="/wiki/Diana_Ross" title="Diana Ross">Diana Ross</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>8</td>
+<td>"Young G's"</td>
+<td>5:25</td>
+<td><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a> &amp; <a href="/wiki/Kelly_Price" title="Kelly Price">Kelly Price</a></td>
+<td>Rashad Smith</td>
+<td>
+<ul>
+<li>"On the Hill" by Oliver Sain</li>
+<li>"Little Ghetto Boy" by <a href="/wiki/Donny_Hathaway" title="Donny Hathaway">Donny Hathaway</a> (interpolation)</li>
+<li>"Vapors" by <a href="/wiki/Biz_Markie" title="Biz Markie">Biz Markie</a></li>
+<li>"Unbelievable" by <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>9</td>
+<td>"I Love You Baby"</td>
+<td>4:03</td>
+<td><a href="/wiki/Black_Rob" title="Black Rob">Black Rob</a></td>
+<td>Sean "Puffy" Combs &amp; Ron "Amen-Ra" Lawrence for The Hitmen</td>
+<td>
+<ul>
+<li>"Xtabay (Lure Of The Unknown Love)" by <a href="/wiki/Yma_Sumac" title="Yma Sumac">Yma Sumac</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>10</td>
+<td>"<a href="/wiki/It%27s_All_About_the_Benjamins" title="It's All About the Benjamins">It's All About the Benjamins <small><b>(Remix)</b></small></a>"</td>
+<td>4:38</td>
+<td><a href="/wiki/The_L.O.X." title="The L.O.X." class="mw-redirect">The L.O.X.</a>, <a href="/wiki/Lil%27_Kim" title="Lil' Kim">Lil' Kim</a> &amp; <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a></td>
+<td>Sean "Puffy" Combs &amp; Deric "D-Dot" Angelettie for The Hitmen</td>
+<td>
+<ul>
+<li>"I Did It For Love" by <a href="/wiki/Love_Unlimited_Orchestra" title="Love Unlimited Orchestra" class="mw-redirect">Love Unlimited Orchestra</a></li>
+<li>"It's Great to Be Here" by <a href="/wiki/The_Jackson_5" title="The Jackson 5">The Jackson 5</a> (remix only)</li>
+<li>"Jungle Boogie" by Kool &amp; The Gang</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>11</td>
+<td>"<a href="/wiki/Pain_(Puff_Daddy_song)" title="Pain (Puff Daddy song)">Pain</a>"</td>
+<td>5:08</td>
+<td><a href="/wiki/Carl_Thomas_(singer)" title="Carl Thomas (singer)">Carl Thomas</a></td>
+<td>Sean "Puffy" Combs &amp; Nashiem Myrick for The Hitmen</td>
+<td>
+<ul>
+<li>"Let's Stay Together" by <a href="/wiki/Roberta_Flack" title="Roberta Flack">Roberta Flack</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>12</td>
+<td>"Is This the End?"</td>
+<td>4:34</td>
+<td><a href="/wiki/Carl_Thomas_(singer)" title="Carl Thomas (singer)">Carl Thomas</a>, <a href="/wiki/Ginuwine" title="Ginuwine">Ginuwine</a> &amp; <a href="/wiki/Twista" title="Twista">Twista</a></td>
+<td>Sean "Puffy" Combs &amp; Steven "Stevie J" Jordan for The Hitmen</td>
+<td>
+<ul>
+<li>"<a href="/wiki/Is_This_the_End" title="Is This the End">Is This the End</a>" by <a href="/wiki/New_Edition" title="New Edition">New Edition</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>13</td>
+<td>"I Got the Power"</td>
+<td>4:05</td>
+<td><a href="/wiki/The_L.O.X." title="The L.O.X." class="mw-redirect">The L.O.X.</a></td>
+<td>Sean "Puffy" Combs for The Hitmen &amp; <a href="/wiki/Big_Jaz" title="Big Jaz" class="mw-redirect">Big Jaz</a></td>
+<td>
+<ul>
+<li>"Don't Wanna Come Back" by <a href="/wiki/Mother%27s_Finest" title="Mother's Finest">Mother's Finest</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>14</td>
+<td>"Friend"</td>
+<td>6:37</td>
+<td><a href="/wiki/Foxy_Brown_(rapper)" title="Foxy Brown (rapper)">Foxy Brown</a> &amp; Simone Hines</td>
+<td>Sean "Puffy" Combs &amp; Steven "Stevie J" Jordan for The Hitmen</td>
+<td>
+<ul>
+<li>"Person to Person" by <a href="/wiki/Average_White_Band" title="Average White Band">Average White Band</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>15</td>
+<td>"Señorita"</td>
+<td>4:07</td>
+<td></td>
+<td>Sean "Puffy" Combs &amp; Yogi for The Hitmen</td>
+<td>
+<ul>
+<li>"Little Lady Maria" by <a href="/wiki/Ohio_Players" title="Ohio Players">Ohio Players</a></li>
+<li>"No Me Conviene" by <a href="/wiki/La_India" title="La India">La India</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>16</td>
+<td>"<a href="/wiki/I%27ll_Be_Missing_You" title="I'll Be Missing You">I'll Be Missing You</a>"</td>
+<td>5:43</td>
+<td><a href="/wiki/Faith_Evans" title="Faith Evans">Faith Evans</a> &amp; <a href="/wiki/112_(band)" title="112 (band)" class="mw-redirect">112</a></td>
+<td>Sean "Puffy" Combs &amp; Steven "Stevie J" Jordan for The Hitmen</td>
+<td>
+<ul>
+<li>"<a href="/wiki/Every_Breath_You_Take" title="Every Breath You Take">Every Breath You Take</a>" by <a href="/wiki/The_Police" title="The Police">The Police</a></li>
+<li>"Adagio for Strings" by <a href="/wiki/Samuel_Barber" title="Samuel Barber">Samuel Barber</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>17</td>
+<td>"<a href="/wiki/Can%27t_Nobody_Hold_Me_Down" title="Can't Nobody Hold Me Down">Can't Nobody Hold Me Down</a>"</td>
+<td>3:51</td>
+<td><a href="/wiki/Mase" title="Mase">Mase</a></td>
+<td>Sean "Puffy" Combs, Carlos "6 July" Broady, &amp; Nashiem Myrick for The Hitmen</td>
+<td>
+<ul>
+<li>"<a href="/wiki/Break_My_Stride" title="Break My Stride">Break My Stride</a>" by <a href="/wiki/Matthew_Wilder" title="Matthew Wilder">Matthew Wilder</a> (interpolation)</li>
+<li>"<a href="/wiki/The_Message_(Grandmaster_Flash_and_the_Furious_Five_song)" title="The Message (Grandmaster Flash and the Furious Five song)">The Message</a>" by <a href="/wiki/Grandmaster_Flash_and_The_Furious_Five" title="Grandmaster Flash and The Furious Five" class="mw-redirect">Grandmaster Flash and The Furious Five</a></li>
+<li>"<a href="/wiki/Atomic_Dog" title="Atomic Dog">Atomic Dog</a>" by <a href="/wiki/George_Clinton_(funk_musician)" title="George Clinton (funk musician)" class="mw-redirect">George Clinton</a></li>
+<li>"Big Beat" by <a href="/wiki/Billy_Squier" title="Billy Squier">Billy Squier</a></li>
+<li>"<a href="/wiki/Rock_with_You_(Michael_Jackson_song)" title="Rock with You (Michael Jackson song)">Rock With You</a>" by <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=No_Way_Out_(album)&amp;action=edit&amp;section=3" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Credits for <i>No Way Out</i> adapted from <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Charles "Prince Charles" Alexander - mixing</li>
+<li>Deric "D-Dot" Angelettie - associate executive producer, composer, producer</li>
+<li>Lorrenn Argumendes - assistant engineer</li>
+<li>Michael Benabib - photography</li>
+<li>Carlos "6 July" Broady - producer</li>
+<li>Sean "Puffy" Combs - engineer, mixing, producer, executive producer</li>
+<li>Bill Conti - composer</li>
+<li>Lane Craven - engineer, mixing</li>
+<li>Stephen Dent - engineer, programming</li>
+<li>John Eaton - engineer</li>
+<li>Jay Garfield - producer</li>
+<li>Rasheed Goodlowe - assistant engineer</li>
+<li>J-Dub - producer</li>
+<li>Stevie J. - piano, producer, programming</li>
+<li>Jazz - producer</li>
+<li>Steve Jones - assistant engineer</li>
+<li>S. Jordan - composer</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Michael Lavine - photography</li>
+<li>Ron "Amen-Ra" Lawrence - producer</li>
+<li>Ron Lawrence - composer</li>
+<li>Al Machera - engineer</li>
+<li>Tony Maserati - mixing</li>
+<li>John Meredith - assistant engineer</li>
+<li>Lynn Montrose - assistant engineer</li>
+<li>Nasheim Myrick - producer</li>
+<li>Axel Niehaus - engineer</li>
+<li>Michael Patterson - engineer, mixing</li>
+<li>Diana Pedraza - engineer</li>
+<li>Herb Powers - mastering</li>
+<li>Kelly Price - vocals</li>
+<li>Christopher Wallace - executive producer</li>
+<li>Doug Wilson - engineer</li>
+<li>Yogi - producer</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Charts_and_certifications">Charts and certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=No_Way_Out_(album)&amp;action=edit&amp;section=4" title="Edit section: Charts and certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=No_Way_Out_(album)&amp;action=edit&amp;section=5" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable plainrowheaders">
+<tr>
+<th scope="col">Chart (1997)</th>
+<th scope="col">Peak<br />
+position</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/ARIA_Charts" title="ARIA Charts">Australian Albums Chart</a><sup id="cite_ref-AUSalbum_6-0" class="reference"><a href="#cite_note-AUSalbum-6"><span>[</span>6<span>]</span></a></sup></th>
+<td style="text-align:center;">17</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Ultratop" title="Ultratop">Belgian Albums Chart</a> (Flanders)<sup id="cite_ref-BELalbum1_7-0" class="reference"><a href="#cite_note-BELalbum1-7"><span>[</span>7<span>]</span></a></sup></th>
+<td style="text-align:center;">9</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Ultratop" title="Ultratop">Belgian Albums Chart</a> (Wallonia)<sup id="cite_ref-BELalbum2_8-0" class="reference"><a href="#cite_note-BELalbum2-8"><span>[</span>8<span>]</span></a></sup></th>
+<td style="text-align:center;">24</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a><sup id="cite_ref-US200_9-0" class="reference"><a href="#cite_note-US200-9"><span>[</span>9<span>]</span></a></sup></th>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/MegaCharts" title="MegaCharts">Dutch Albums Chart</a><sup id="cite_ref-NLalbum_10-0" class="reference"><a href="#cite_note-NLalbum-10"><span>[</span>10<span>]</span></a></sup></th>
+<td style="text-align:center;">6</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">French Albums Chart</a><sup id="cite_ref-FRAalbum_11-0" class="reference"><a href="#cite_note-FRAalbum-11"><span>[</span>11<span>]</span></a></sup></th>
+<td style="text-align:center;">18</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Official_New_Zealand_Music_Chart" title="Official New Zealand Music Chart">New Zealand Albums Chart</a><sup id="cite_ref-NZalbum_12-0" class="reference"><a href="#cite_note-NZalbum-12"><span>[</span>12<span>]</span></a></sup></th>
+<td style="text-align:center;">12</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></th>
+<td style="text-align:center;">8</td>
+</tr>
+<tr>
+<th scope="row">US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-US200_9-1" class="reference"><a href="#cite_note-US200-9"><span>[</span>9<span>]</span></a></sup></th>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<th scope="row">US <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-US200_9-2" class="reference"><a href="#cite_note-US200-9"><span>[</span>9<span>]</span></a></sup></th>
+<td style="text-align:center;">1</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=No_Way_Out_(album)&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_albums_of_1997_(U.S.)" title="List of number-one albums of 1997 (U.S.)" class="mw-redirect">List of number-one albums of 1997 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1997_(U.S.)" title="List of number-one R&amp;B albums of 1997 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1997 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=No_Way_Out_(album)&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/features/2007/08/puff-daddy/">"Puff Daddy (1997 Man of the Year)"</a>. XXLmag.com. 8 August 2007<span class="reference-accessdate">. Retrieved 16 July 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANo+Way+Out+%28album%29&amp;rft.btitle=Puff+Daddy+%281997+Man+of+the+Year%29&amp;rft.date=8+August+2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Ffeatures%2F2007%2F08%2Fpuff-daddy%2F&amp;rft.pub=XXLmag.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RIAA-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-RIAA_2-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?table=SEARCH_RESULTS&amp;artist=Diddy&amp;format=&amp;go=Search&amp;perPage=50">"Diddy searchable database"</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a><span class="reference-accessdate">. Retrieved 16 July 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANo+Way+Out+%28album%29&amp;rft.btitle=Diddy+searchable+database&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Ftable%3DSEARCH_RESULTS%26artist%3DDiddy%26format%3D%26go%3DSearch%26perPage%3D50&amp;rft.pub=Recording+Industry+Association+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Grammy1998-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Grammy1998_3-0">^</a></b></span> <span class="reference-text"><span class="citation news">Strauss, Neil (January 7, 1998). <a rel="nofollow" class="external text" href="http://www.nytimes.com/1998/01/07/arts/grammy-nominations-yield-surprises-including-newcomer-s-success.html?pagewanted=2">"Grammy Nominations Yield Surprises, Including Newcomer's Success"</a>. <i>The New York Times</i> (The New York Times Company). p.&#160;2<span class="reference-accessdate">. Retrieved 16 July 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANo+Way+Out+%28album%29&amp;rft.atitle=Grammy+Nominations+Yield+Surprises%2C+Including+Newcomer%27s+Success&amp;rft.aufirst=Neil&amp;rft.aulast=Strauss&amp;rft.au=Strauss%2C+Neil&amp;rft.date=January+7%2C+1998&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F1998%2F01%2F07%2Farts%2Fgrammy-nominations-yield-surprises-including-newcomer-s-success.html%3Fpagewanted%3D2&amp;rft.jtitle=The+New+York+Times&amp;rft.pages=2&amp;rft.pub=The+New+York+Times+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.soyouwanna.com/site/toptens/musicvideos/musicvideos3.html">"SoYouWanna know the ten most expensive music videos? - Videos 4 - 2"</a>. Soyouwanna.com<span class="reference-accessdate">. Retrieved 2012-03-03</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANo+Way+Out+%28album%29&amp;rft.btitle=SoYouWanna+know+the+ten+most+expensive+music+videos%3F+-+Videos+4+-+2&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.soyouwanna.com%2Fsite%2Ftoptens%2Fmusicvideos%2Fmusicvideos3.html&amp;rft.pub=Soyouwanna.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r299695/credits">"No Way Out &gt; Puff Daddy &amp; The Family &gt; Credits"</a>. <i><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></i>. <a href="/wiki/Macrovision" title="Macrovision" class="mw-redirect">Macrovision</a><span class="reference-accessdate">. Retrieved 16 July 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANo+Way+Out+%28album%29&amp;rft.atitle=No+Way+Out+%3E+Puff+Daddy+%26+The+Family+%3E+Credits&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr299695%2Fcredits&amp;rft.jtitle=Allmusic&amp;rft.pub=Macrovision&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AUSalbum-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-AUSalbum_6-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://australian-charts.com/showitem.asp?interpret=Puff+Daddy+%26+The+Family&amp;titel=No+Way+Out&amp;cat=a">"Puff Daddy &amp; The Family - No Way Out"</a>. <i>australian-charts.com</i>. Hung Medien<span class="reference-accessdate">. Retrieved 17 July 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANo+Way+Out+%28album%29&amp;rft.atitle=Puff+Daddy+%26+The+Family+-+No+Way+Out&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Faustralian-charts.com%2Fshowitem.asp%3Finterpret%3DPuff%2BDaddy%2B%2526%2BThe%2BFamily%26titel%3DNo%2BWay%2BOut%26cat%3Da&amp;rft.jtitle=australian-charts.com&amp;rft.pub=Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BELalbum1-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-BELalbum1_7-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ultratop.be/nl/showitem.asp?interpret=Puff+Daddy+%26+The+Family&amp;titel=No+Way+Out&amp;cat=a">"Puff Daddy &amp; The Family - No Way Out"</a>. <i>ultratop.be</i>. Hung Medien<span class="reference-accessdate">. Retrieved 17 July 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANo+Way+Out+%28album%29&amp;rft.atitle=Puff+Daddy+%26+The+Family+-+No+Way+Out&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ultratop.be%2Fnl%2Fshowitem.asp%3Finterpret%3DPuff%2BDaddy%2B%2526%2BThe%2BFamily%26titel%3DNo%2BWay%2BOut%26cat%3Da&amp;rft.jtitle=ultratop.be&amp;rft.pub=Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BELalbum2-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-BELalbum2_8-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ultratop.be/fr/showitem.asp?interpret=Puff+Daddy+%26+The+Family&amp;titel=No+Way+Out&amp;cat=a">"Puff Daddy &amp; The Family - No Way Out"</a>. <i>ultratop.be</i>. Hung Medien<span class="reference-accessdate">. Retrieved 17 July 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANo+Way+Out+%28album%29&amp;rft.atitle=Puff+Daddy+%26+The+Family+-+No+Way+Out&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ultratop.be%2Ffr%2Fshowitem.asp%3Finterpret%3DPuff%2BDaddy%2B%2526%2BThe%2BFamily%26titel%3DNo%2BWay%2BOut%26cat%3Da&amp;rft.jtitle=ultratop.be&amp;rft.pub=Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-US200-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-US200_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-US200_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-US200_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://allmusic.com/artist/p214335/charts-awards/billboard-albums">"Diddy - Charts &amp; Awards - Billboard Albums"</a>. <i><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></i>. <a href="/wiki/Macrovision" title="Macrovision" class="mw-redirect">Macrovision</a><span class="reference-accessdate">. Retrieved 17 July 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANo+Way+Out+%28album%29&amp;rft.atitle=Diddy+-+Charts+%26+Awards+-+Billboard+Albums&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fallmusic.com%2Fartist%2Fp214335%2Fcharts-awards%2Fbillboard-albums&amp;rft.jtitle=Allmusic&amp;rft.pub=Macrovision&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NLalbum-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-NLalbum_10-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://dutchcharts.nl/showitem.asp?interpret=Puff+Daddy+%26+The+Family&amp;titel=No+Way+Out&amp;cat=a">"Puff Daddy &amp; The Family - No Way Out"</a>. <i>dutchcharts.nl</i>. Hung Medien<span class="reference-accessdate">. Retrieved 17 July 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANo+Way+Out+%28album%29&amp;rft.atitle=Puff+Daddy+%26+The+Family+-+No+Way+Out&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fdutchcharts.nl%2Fshowitem.asp%3Finterpret%3DPuff%2BDaddy%2B%2526%2BThe%2BFamily%26titel%3DNo%2BWay%2BOut%26cat%3Da&amp;rft.jtitle=dutchcharts.nl&amp;rft.pub=Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FRAalbum-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-FRAalbum_11-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://lescharts.com/showitem.asp?interpret=Puff+Daddy+%26+The+Family&amp;titel=No+Way+Out&amp;cat=a">"Puff Daddy &amp; The Family - No Way Out"</a>. <i>lescharts.com</i>. Hung Medien<span class="reference-accessdate">. Retrieved 17 July 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANo+Way+Out+%28album%29&amp;rft.atitle=Puff+Daddy+%26+The+Family+-+No+Way+Out&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flescharts.com%2Fshowitem.asp%3Finterpret%3DPuff%2BDaddy%2B%2526%2BThe%2BFamily%26titel%3DNo%2BWay%2BOut%26cat%3Da&amp;rft.jtitle=lescharts.com&amp;rft.pub=Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NZalbum-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-NZalbum_12-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://charts.org.nz/showitem.asp?interpret=Puff+Daddy+%26+The+Family&amp;titel=No+Way+Out&amp;cat=a">"Puff Daddy &amp; The Family - No Way Out"</a>. <i>charts.org.nz</i>. Hung Medien<span class="reference-accessdate">. Retrieved 17 July 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANo+Way+Out+%28album%29&amp;rft.atitle=Puff+Daddy+%26+The+Family+-+No+Way+Out&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcharts.org.nz%2Fshowitem.asp%3Finterpret%3DPuff%2BDaddy%2B%2526%2BThe%2BFamily%26titel%3DNo%2BWay%2BOut%26cat%3Da&amp;rft.jtitle=charts.org.nz&amp;rft.pub=Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://archive.is/u75j">"Puff Daddy And The Family - No Way Out"</a>. <i>Chart Stats</i>. <a href="/wiki/The_Official_Charts_Company" title="The Official Charts Company" class="mw-redirect">The Official Charts Company</a>. Archived from <a rel="nofollow" class="external text" href="http://www.chartstats.com/release.php?release=47403">the original</a> on 30 July 2012<span class="reference-accessdate">. Retrieved 17 July 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANo+Way+Out+%28album%29&amp;rft.atitle=Puff+Daddy+And+The+Family+-+No+Way+Out&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.chartstats.com%2Frelease.php%3Frelease%3D47403&amp;rft.jtitle=Chart+Stats&amp;rft.pub=The+Official+Charts+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=No_Way_Out_(album)&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://gnextinc.com/bbo/lyrics/nowaycd.html">No Way Out</a> - P Diddy Lyrics</li>
+</ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Men_in_Black:_The_Album" title="Men in Black: The Album">Men in Black: The Album</a></i> by Various artists<br />
+<i>The Art of War</i> by Bone Thugs N Harmony<br />
+<i>The Dance</i> by Fleetwood Mac</span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_1997_(USA)" title="Number-one albums of 1997 (USA)" class="mw-redirect">number-one album</a></b><br />
+August 16–23, 1997<br />
+August 30 - September 13, 1997<br />
+September 19–23, 1997</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/The_Art_of_War_(Bone_Thugs-n-Harmony_album)" title="The Art of War (Bone Thugs-n-Harmony album)">The Art of War</a></i> by <a href="/wiki/Bone_Thugs_N_Harmony" title="Bone Thugs N Harmony" class="mw-redirect">Bone Thugs N Harmony</a><br />
+<i><a href="/wiki/The_Dance_(Fleetwood_Mac_album)" title="The Dance (Fleetwood Mac album)">The Dance</a></i> by <a href="/wiki/Fleetwood_Mac" title="Fleetwood Mac">Fleetwood Mac</a><br />
+<i><a href="/wiki/Ghetto_D" title="Ghetto D">Ghetto D</a></i> by <a href="/wiki/Master_P" title="Master P">Master P</a></span></td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sean_Combs" title="Template:Sean Combs"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sean_Combs" title="Template talk:Sean Combs"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sean_Combs&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Sean_Combs" title="Sean Combs">Sean Combs</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/Sean_Combs_discography" title="Sean Combs discography">Discography</a></li>
+<li><a href="/wiki/Sean_Combs#Accolades" title="Sean Combs">Accolades</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><strong class="selflink">No Way Out</strong></i></li>
+<li><i><a href="/wiki/Forever_(Puff_Daddy_album)" title="Forever (Puff Daddy album)">Forever</a></i></li>
+<li><i><a href="/wiki/The_Saga_Continues..." title="The Saga Continues...">The Saga Continues...</a></i></li>
+<li><i><a href="/wiki/Press_Play_(album)" title="Press Play (album)">Press Play</a></i></li>
+<li><i><a href="/wiki/Last_Train_to_Paris" title="Last Train to Paris">Last Train to Paris</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Remix albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/We_Invented_the_Remix" title="We Invented the Remix">We Invented the Remix</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Can%27t_Nobody_Hold_Me_Down" title="Can't Nobody Hold Me Down">Can't Nobody Hold Me Down</a>"</li>
+<li>"<a href="/wiki/I%27ll_Be_Missing_You" title="I'll Be Missing You">I'll Be Missing You</a>"</li>
+<li>"<a href="/wiki/It%27s_All_About_the_Benjamins" title="It's All About the Benjamins">It's All About the Benjamins</a>"</li>
+<li>"<a href="/wiki/Been_Around_the_World" title="Been Around the World">Been Around the World</a>"</li>
+<li>"<a href="/wiki/Victory_(Puff_Daddy_song)" title="Victory (Puff Daddy song)">Victory</a>"</li>
+<li>"<a href="/wiki/Come_with_Me_(Puff_Daddy_song)" title="Come with Me (Puff Daddy song)">Come with Me</a>"</li>
+<li>"P.E. 2000"</li>
+<li>"<a href="/wiki/Satisfy_You" title="Satisfy You">Satisfy You</a>"</li>
+<li>"Do You Like It...Do You Want It"</li>
+<li>"Best Friends"</li>
+<li>"Let's Get It"</li>
+<li>"<a href="/wiki/Bad_Boy_for_Life" title="Bad Boy for Life">Bad Boy for Life</a>"</li>
+<li>"Diddy"</li>
+<li>"<a href="/wiki/I_Need_a_Girl_(Part_One)" title="I Need a Girl (Part One)">I Need a Girl (Part 1)</a>"</li>
+<li>"<a href="/wiki/I_Need_a_Girl_(Part_Two)" title="I Need a Girl (Part Two)">I Need a Girl (Part 2)</a>"</li>
+<li>"Special Delivery <small style="font-size:85%;"><b>(Remix)</b></small>"</li>
+<li>"<a href="/wiki/Come_to_Me_(Diddy_song)" title="Come to Me (Diddy song)">Come to Me</a>"</li>
+<li>"<a href="/wiki/Tell_Me_(Diddy_song)" title="Tell Me (Diddy song)">Tell Me</a>"</li>
+<li>"<a href="/wiki/Last_Night_(Diddy_song)" title="Last Night (Diddy song)">Last Night</a>"</li>
+<li>"<a href="/wiki/Press_Play_(album)" title="Press Play (album)">Through the Pain (She Told Me)</a>"</li>
+<li>"<a href="/wiki/Last_Train_to_Paris" title="Last Train to Paris">Angels</a>"</li>
+<li>"<a href="/wiki/Diddy_%E2%80%93_Dirty_Money" title="Diddy – Dirty Money">Love Come Down</a>"</li>
+<li>"<a href="/wiki/Hello_Good_Morning" title="Hello Good Morning">Hello Good Morning</a>"</li>
+<li>"<a href="/wiki/Loving_You_No_More" title="Loving You No More">Loving You No More</a>"</li>
+<li>"<a href="/wiki/Coming_Home_(Diddy_%E2%80%93_Dirty_Money_song)" title="Coming Home (Diddy – Dirty Money song)">Coming Home</a>"</li>
+<li>"Your Love"</li>
+<li>"<a href="/wiki/Ass_on_the_Floor" title="Ass on the Floor">Ass on the Floor</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/No_Time_(Lil%27_Kim_song)" title="No Time (Lil' Kim song)">No Time</a>"</li>
+<li>"Someone"</li>
+<li>"<a href="/wiki/Mo_Money_Mo_Problems" title="Mo Money Mo Problems">Mo Money Mo Problems</a>"</li>
+<li>"<a href="/wiki/Honey_(Mariah_Carey_song)" title="Honey (Mariah Carey song)">Honey</a>"</li>
+<li>"<a href="/wiki/Lookin%27_at_Me" title="Lookin' at Me">Lookin' at Me</a>"</li>
+<li>"<a href="/wiki/All_Night_Long_(Faith_Evans_song)" title="All Night Long (Faith Evans song)">All Night Long</a>"</li>
+<li>"<a href="/wiki/Hate_Me_Now" title="Hate Me Now">Hate Me Now</a>"</li>
+<li>"<a href="/wiki/Notorious_B.I.G._(song)" title="Notorious B.I.G. (song)">Notorious B.I.G.</a>"</li>
+<li>"<a href="/wiki/Son_of_a_Gun_(I_Betcha_Think_This_Song_Is_About_You)" title="Son of a Gun (I Betcha Think This Song Is About You)">Son of a Gun</a>"</li>
+<li>"<a href="/wiki/Show_Stopper" title="Show Stopper">Show Stopper</a>"</li>
+<li>"No More Drama"</li>
+<li>"<a href="/wiki/Pass_the_Courvoisier,_Part_II" title="Pass the Courvoisier, Part II">Pass the Courvoisier, Part II</a>"</li>
+<li>"Trade It All (Part 2)"</li>
+<li>"<a href="/wiki/Bump,_Bump,_Bump" title="Bump, Bump, Bump">Bump, Bump, Bump</a>"</li>
+<li>"<a href="/wiki/I_Do_(Wanna_Get_Close_to_You)" title="I Do (Wanna Get Close to You)">I Do (Wanna Get Close to You)</a>"</li>
+<li>"<a href="/wiki/Shake_Ya_Tailfeather" title="Shake Ya Tailfeather">Shake Ya Tailfeather</a>"</li>
+<li>"<a href="/wiki/I_Don%27t_Wanna_Know_(Mario_Winans_song)" title="I Don't Wanna Know (Mario Winans song)">I Don't Wanna Know</a>"</li>
+<li>"<a href="/wiki/Nasty_Girl_(The_Notorious_B.I.G._song)" title="Nasty Girl (The Notorious B.I.G. song)">Nasty Girl</a>"</li>
+<li>"<a href="/wiki/Take_You_There_(Donnie_Klang_song)" title="Take You There (Donnie Klang song)">Take You There</a>"</li>
+<li>"<a href="/wiki/Imma_Put_It_on_Her" title="Imma Put It on Her">Imma Put It on Her</a>"</li>
+<li>"<a href="/wiki/Must_Be_Love" title="Must Be Love">Must Be Love</a>"</li>
+<li>"<a href="/wiki/Better_on_the_Other_Side" title="Better on the Other Side">Better on the Other Side</a></li>
+<li>"<a href="/wiki/All_I_Do_Is_Win#Remix" title="All I Do Is Win">All I Do Is Win <small style="font-size:85%;"><b>(Remix)</b></small></a>"</li>
+<li>"I’m on You"</li>
+<li>"<a href="/wiki/Someone_to_Love_Me_(Naked)" title="Someone to Love Me (Naked)">Someone to Love Me (Naked)</a>"</li>
+<li>"<a href="/wiki/Scream_%26_Shout" title="Scream &amp; Shout">Scream &amp; Shout (Remix)</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy Records</a></li>
+<li><a href="/wiki/Sean_John" title="Sean John">Sean John</a></li>
+<li><a href="/wiki/P._Diddy%27s_Starmaker" title="P. Diddy's Starmaker">P. Diddy's Starmaker</a></li>
+<li><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a></li>
+<li><a href="/wiki/I_Want_to_Work_for_Diddy" title="I Want to Work for Diddy">I Want to Work for Diddy</a></li>
+<li><i><a href="/wiki/A_Raisin_in_the_Sun_(2008_film)" title="A Raisin in the Sun (2008 film)">A Raisin in the Sun</a></i></li>
+<li><a href="/wiki/Diddy_%E2%80%93_Dirty_Money" title="Diddy – Dirty Money">Diddy – Dirty Money</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1042
+CPU time usage: 0.924 seconds
+Real time usage: 1.011 seconds
+Preprocessor visited node count: 1571/1000000
+Preprocessor generated node count: 8393/1500000
+Post‐expand include size: 54760/2048000 bytes
+Template argument size: 5699/2048000 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Lua time usage: 0.106/10.000 seconds
+Lua memory usage: 3.12 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2558340-0!*!0!!en!4!* and timestamp 20140530165340 and revision id 608325855
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=No_Way_Out_(album)&amp;oldid=608325855">http://en.wikipedia.org/w/index.php?title=No_Way_Out_(album)&amp;oldid=608325855</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sean_Combs_albums" title="Category:Sean Combs albums">Sean Combs albums</a></li><li><a href="/wiki/Category:1997_debut_albums" title="Category:1997 debut albums">1997 debut albums</a></li><li><a href="/wiki/Category:Bad_Boy_Records_albums" title="Category:Bad Boy Records albums">Bad Boy Records albums</a></li><li><a href="/wiki/Category:Grammy_Award_for_Best_Rap_Album" title="Category:Grammy Award for Best Rap Album">Grammy Award for Best Rap Album</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=No+Way+Out+%28album%29&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=No+Way+Out+%28album%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/No_Way_Out_(album)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:No_Way_Out_(album)"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/No_Way_Out_(album)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=No_Way_Out_(album)&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=No_Way_Out_(album)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/No_Way_Out_(album)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/No_Way_Out_(album)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=No_Way_Out_(album)&amp;oldid=608325855" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=No_Way_Out_(album)&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2282581" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=No_Way_Out_%28album%29&amp;id=608325855" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=No+Way+Out+%28album%29">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=No+Way+Out+%28album%29&amp;oldid=608325855&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=No_Way_Out_(album)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/No_Way_Out" title="No Way Out – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/No_Way_Out_(album_de_Puff_Daddy)" title="No Way Out (album de Puff Daddy) – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/No_Way_Out_(Puff_Daddy_%26_the_Family)" title="No Way Out (Puff Daddy &amp; the Family) – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/No_Way_Out_(%E1%83%9E%E1%83%90%E1%83%A4_%E1%83%93%E1%83%94%E1%83%93%E1%83%98%E1%83%A1_%E1%83%90%E1%83%9A%E1%83%91%E1%83%9D%E1%83%9B%E1%83%98)" title="No Way Out (პაფ დედის ალბომი) – Georgian" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/No_Way_Out_(%C3%A1lbum)" title="No Way Out (álbum) – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q2282581#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 May 2014 at 03:56.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/No_Way_Out_(album)" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":191,"wgHostname":"mw1188"});
+}</script>
+	</body>
+</html>
+	

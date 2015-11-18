@@ -1,0 +1,912 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Big Willie Style - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Big_Willie_Style" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Big_Willie_Style&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Big_Willie_Style&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Big_Willie_Style" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Big_Willie_Style","wgTitle":"Big Willie Style","wgCurRevisionId":608815968,"wgRevisionId":608815968,"wgArticleId":2374587,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","1997 debut albums","Will Smith albums","Albums produced by L.E.S.","Albums produced by Trackmasters","Columbia Records albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Big_Willie_Style","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q859525"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Big_Willie_Style skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Big Willie Style</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Big Willie Style</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:WillSmith-BigWillieStyle.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/bb/WillSmith-BigWillieStyle.jpg/220px-WillSmith-BigWillieStyle.jpg" width="220" height="219" srcset="//upload.wikimedia.org/wikipedia/en/b/bb/WillSmith-BigWillieStyle.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/b/bb/WillSmith-BigWillieStyle.jpg 2x" data-file-width="301" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Will_Smith" title="Will Smith">Will Smith</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">November 25, 1997</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1996-1997;<br />
+<a href="/wiki/Pacifique_Recording_Studios" title="Pacifique Recording Studios">Pacifique Recording Studios</a><br />
+(North Hollywood, California)<br />
+<a href="/wiki/The_Hit_Factory" title="The Hit Factory">The Hit Factory</a><br />
+(<a href="/wiki/New_York_City,_New_York" title="New York City, New York" class="mw-redirect">New York City, New York</a>)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop" title="Hip hop">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>54:14</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Columbia_Records" title="Columbia Records">Columbia</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Andreao_Heard" title="Andreao Heard">Andreao "Fanatic" Heard</a>, <a href="/wiki/L.E.S._(producer)" title="L.E.S. (producer)" class="mw-redirect">L.E.S.</a>, <a href="/wiki/A_Touch_of_Jazz" title="A Touch of Jazz" class="mw-redirect">Keith Pelzer</a>, <a href="/wiki/Trackmasters" title="Trackmasters">Poke &amp; Tone</a>, <a href="/wiki/Valvin_Roane" title="Valvin Roane">Valvin Roane</a>, <a href="/wiki/Somethin%27_for_the_People" title="Somethin' for the People">Sauce</a>, <a href="/wiki/DJ_Jazzy_Jeff" title="DJ Jazzy Jeff">Jeff Townes</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Will_Smith" title="Will Smith">Will Smith</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"></td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Big Willie Style</b></i><br />
+(1997)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Willennium" title="Willennium">Willennium</a></i><br />
+(1999)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Big Willie Style</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Men_in_Black_(song)" title="Men in Black (song)">Men in Black</a>"</span><br />
+Released: June 16, 1997</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Just_Cruisin%27" title="Just Cruisin'">Just Cruisin'</a>"</span><br />
+Released: December 1, 1997</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Gettin%27_Jiggy_wit_It" title="Gettin' Jiggy wit It">Gettin' Jiggy wit It</a>"</span><br />
+Released: January 27, 1998</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Just_the_Two_of_Us_(Will_Smith_song)" title="Just the Two of Us (Will Smith song)">Just the Two of Us</a>"</span><br />
+Released: July 20, 1998</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Miami_(Will_Smith_song)" title="Miami (Will Smith song)">Miami</a>"</span><br />
+Released: November 23, 1998</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">(C−)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="(choice cut)"><img alt="(choice cut)" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scissors_icon_black.svg/17px-Scissors_icon_black.svg.png" width="17" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scissors_icon_black.svg/26px-Scissors_icon_black.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scissors_icon_black.svg/34px-Scissors_icon_black.svg.png 2x" data-file-width="100" data-file-height="60" /></span><sup id="cite_ref-Christgau_3-0" class="reference"><a href="#cite_note-Christgau-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>Big Willie Style</b></i> is the debut solo album recorded by <a href="/wiki/Will_Smith" title="Will Smith">Will Smith</a>, after spending most of his career as the latter half of <a href="/wiki/DJ_Jazzy_Jeff_%26_the_Fresh_Prince" title="DJ Jazzy Jeff &amp; the Fresh Prince" class="mw-redirect">DJ Jazzy Jeff &amp; the Fresh Prince</a> and on the hit TV series, <i><a href="/wiki/The_Fresh_Prince_of_Bel-Air" title="The Fresh Prince of Bel-Air">The Fresh Prince of Bel-Air</a></i>. The album was released on <a href="/wiki/Columbia_Records" title="Columbia Records">Columbia Records</a> in the <a href="/wiki/United_States" title="United States">United States</a> on November 25, 1997 and featured a total of four hit singles – "<a href="/wiki/Men_in_Black_(song)" title="Men in Black (song)">Men in Black</a>" (released earlier in the year on the soundtrack for the <a href="/wiki/Men_in_Black_(film)" title="Men in Black (film)">movie of the same name</a>), "<a href="/wiki/Gettin%27_Jiggy_wit_It" title="Gettin' Jiggy wit It">Gettin' Jiggy wit It</a>", "<a href="/wiki/Miami_(Will_Smith_song)" title="Miami (Will Smith song)">Miami</a>" and "Just the Two of Us", a <a href="/wiki/Cover_version" title="Cover version">cover</a> of the <a href="/wiki/Grover_Washington,_Jr." title="Grover Washington, Jr.">Grover Washington, Jr.</a> and <a href="/wiki/Bill_Withers" title="Bill Withers">Bill Withers</a> <a href="/wiki/Just_the_Two_of_Us_(Grover_Washington,_Jr._song)" title="Just the Two of Us (Grover Washington, Jr. song)">song of the same name</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Track_listing"><span class="tocnumber">2</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Liner_notes"><span class="tocnumber">3</span> <span class="toctext">Liner notes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Personnel"><span class="tocnumber">4</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Charts"><span class="tocnumber">5</span> <span class="toctext">Charts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#End_of_decade_charts"><span class="tocnumber">5.1</span> <span class="toctext">End of decade charts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Willie_Style&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first single from the album "Men in Black", was not released in the U.S. as a physical single, and was therefore unable to chart in Billboard. "Men in Black" enjoyed a worldwide release, and reached No. 1 in many countries. The song spent an entire month at the top of the UK singles charts, becoming the 6th biggest hit single there in 1997. The follow-up, "<a href="/wiki/Gettin%27_Jiggy_wit_It" title="Gettin' Jiggy wit It">Gettin' Jiggy wit It</a>" was a big hit, spending two weeks at No. 1 on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a> from March 14, 1998 to March 28, 1998, Smith's first No. 1 hit in his homeland. The track became a Top 5 elsewhere.</p>
+<p>As a fourth single, "Just the Two of Us" was released in July 1998, and was another big hit, reaching No. 2 in the UK and making the U.S. Top 20. The final single was "Miami", accompanied by an expensive, ambitious music video, and released in November 1998. The track also made an impressive performance in the charts, reaching No. 3 in the UK and No. 17 in the U.S. In the U.S., the album debuted at No. 31 and then began to lose position until "Gettin' Jiggy wit It" was released, rising to No. 10. Then the album began to fall again, but, in the wake of the release of the very well received "Just the Two of Us", the album reached a new peak position of No. 8, where it spent three weeks.</p>
+<p>In the U.S., <i>Big Willie Style</i> spent a total of seven weeks on the Top 10, 69 weeks on the Top 40 and 99 weeks on the whole <a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a>. The album was eventually certified 9x Platinum by <a href="/wiki/RIAA" title="RIAA" class="mw-redirect">RIAA</a> on July 20, 2000, denoting 9 million shipments in the U.S alone. Meanwhile, the album debuted in the UK charts at No. 63 and then fell positions very quickly, but it gained new chart power with the release of "Gettin' Jiggy Wit It", reaching No. 11 in March 1998. Then the album began to fall again on the list, but was revitalised several times in 1998 following the subsequent single releases.</p>
+<p>In late January 1999, in the wake of the release of the final single "Miami", the album finally reached its peak position of No. 9, and then began its final fall on the charts. This unusual chart run from the album materialized on just one week on the Top 10, 38 weeks on the Top 40 but a total of an impressive 108 weeks on the UK albums charts, making 3 re-entries on it. Worldwide sales are over 14 million, making it one of the best-selling rap albums of all time.</p>
+<p>Smith won two <a href="/wiki/Grammy_Award" title="Grammy Award">Grammy Awards</a> in the <a href="/wiki/Best_Rap_Solo_Performance" title="Best Rap Solo Performance" class="mw-redirect">Best Rap Solo Performance</a> category for the songs "<a href="/wiki/Men_in_Black_(song)" title="Men in Black (song)">Men in Black</a>", in 1997, and "Gettin' Jiggy wit It", in 1998, making him the only artist in history to receive two Grammys from this category for two songs from the same album.</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Willie_Style&amp;action=edit&amp;section=2" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Credits adapted from liner notes<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> and <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Intro" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:51</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Y'all Know" &#160;</td>
+<td style="vertical-align: top;">Will Smith, <a href="/wiki/Andreao_Heard" title="Andreao Heard">Andreao "Fanatic" Heard</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:57</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Gettin%27_Jiggy_wit_It" title="Gettin' Jiggy wit It">Gettin' Jiggy wit It</a>" &#160;</td>
+<td style="vertical-align: top;">Will Smith, <a href="/wiki/Nile_Rodgers" title="Nile Rodgers">Nile Rodgers</a>, Samuel J. Barnes, <a href="/wiki/Bernard_Edwards" title="Bernard Edwards">Bernard Edwards</a>, Joe Robinson</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:47</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Candy" <span style="font-size:85%;">(featuring <a href="/wiki/Larry_Blackmon" title="Larry Blackmon">Larry Blackmon</a> and <a href="/wiki/Cameo_(band)" title="Cameo (band)">Cameo</a>)</span></td>
+<td style="vertical-align: top;">Will Smith, <a href="/wiki/Ryan_Toby" title="Ryan Toby">Ryan Toby</a>, Larry Blackmon, Tomi Jenkins</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:56</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Chasing Forever" &#160;</td>
+<td style="vertical-align: top;">Will Smith, <a href="/wiki/Nas" title="Nas">Nasir Jones</a>, <a href="/wiki/Kenny_Greene" title="Kenny Greene">Kenny Greene</a>, <a href="/wiki/Stevie_Wonder" title="Stevie Wonder">Stevie Wonder</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:15</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Keith B-Real I (Interlude)" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:07</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Don't Say Nothin'" &#160;</td>
+<td style="vertical-align: top;">Will Smith, Ryan Toby, Keith Pelzer</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:22</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Miami_(Will_Smith_song)" title="Miami (Will Smith song)">Miami</a>" &#160;</td>
+<td style="vertical-align: top;">Will Smith, Ryan Toby, Samuel J. Barnes, <a href="/wiki/Dynasty_(band)" title="Dynasty (band)">William Shelby</a>, <a href="/wiki/Lakeside_(band)" title="Lakeside (band)">Stephen Shockley</a>, <a href="/wiki/Leon_Sylvers_III" title="Leon Sylvers III">Leon Sylvers III</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:17</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Yes Yes Y'all" <span style="font-size:85%;">(featuring <a href="/wiki/Camp_Lo" title="Camp Lo">Camp Lo</a>)</span></td>
+<td style="vertical-align: top;">Will Smith, <a href="/wiki/Nasir_Jones" title="Nasir Jones" class="mw-redirect">Nasir Jones</a>, <a href="/wiki/Ronald_Isley" title="Ronald Isley">Ronald Isley</a>, <a href="/wiki/Rudolph_Isley" title="Rudolph Isley">Rudolph Isley</a>, <a href="/wiki/O%27Kelly_Isley" title="O'Kelly Isley" class="mw-redirect">O'Kelly Isley</a>, <a href="/wiki/Marvin_Isley" title="Marvin Isley">Marvin Isley</a>, <a href="/wiki/Ernie_Isley" title="Ernie Isley">Ernie Isley</a>, <a href="/wiki/Chris_Jasper" title="Chris Jasper">Chris Jasper</a>, Oliver Scott, <a href="/wiki/The_Gap_Band" title="The Gap Band">Ronnie Wilson</a>, Joe Robinson</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:23</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"I Loved You" &#160;</td>
+<td style="vertical-align: top;">Will Smith, Ryan Toby, Valvin Roane, Keith Pelzer, Joe Farrell</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:12</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Keith B-Real II (Interlude)" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:30</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"It's All Good" &#160;</td>
+<td style="vertical-align: top;">Will Smith, Jeff Townes, <a href="/wiki/Carvin_%26_Ivan_(Karma_Productions)" title="Carvin &amp; Ivan (Karma Productions)">Carvin Haggins</a>, Bernard Edwards, Nile Rodgers</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:04</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Just_The_Two_Of_Us_(Will_Smith_song)" title="Just The Two Of Us (Will Smith song)" class="mw-redirect">Just the Two of Us</a>" &#160;</td>
+<td style="vertical-align: top;">Will Smith, Bill Withers, William Salter, Ralph MacDonald</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:15</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Keith B-Real III (Interlude)" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:54</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Big Willie Style" <span style="font-size:85%;">(featuring <a href="/wiki/Lisa_Lopes" title="Lisa Lopes">Left Eye</a>)</span></td>
+<td style="vertical-align: top;">Will Smith, Timothy Riley, Lisa Lopes, <a href="/wiki/Maurice_White" title="Maurice White">Maurice White</a>, Wayne L. Vaughn, Wanda Vaughn</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:35</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Men_in_Black_(song)" title="Men in Black (song)">Men in Black</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Coko" title="Coko">Coko</a>)</span></td>
+<td style="vertical-align: top;">Will Smith, Patrice Rushen, Terry McFadden, <a href="/wiki/Freddie_Washington_(bassist)" title="Freddie Washington (bassist)">Fred Washington</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:45</td>
+</tr>
+<tr>
+<td align="right" colspan="3">
+<div style="width: 7.5em; text-align: left; padding-left: 10px; background-color: #eee; margin: 0;"><b>Total length:</b></div>
+</td>
+<td style="padding-right: 10px; text-align: right; background-color: #eee;"><b>54:14</b></td>
+<td class="mbox-empty-cell"></td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">Bonus Track on Some Editions</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Just_Cruisin%27" title="Just Cruisin'">Just Cruisin'</a>" &#160;</td>
+<td style="vertical-align: top;">Will Smith, Nasir Jones, Kenneth Stover</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:59</td>
+</tr>
+</table>
+<dl>
+<dt>Sample credits</dt>
+</dl>
+<ul>
+<li>"Gettin' Jiggy Wit It" - Contains a sample of "He's the Greatest Dancer" by <a href="/wiki/Sister_Sledge" title="Sister Sledge">Sister Sledge</a></li>
+<li>"Candy" - Contains a sample of "Candy" by <a href="/wiki/Cameo_(band)" title="Cameo (band)">Cameo</a></li>
+<li>"Chasing Forever" - Contains a sample of "Ribbon in the Sky" by <a href="/wiki/Stevie_Wonder" title="Stevie Wonder">Stevie Wonder</a></li>
+<li>"Don't Say Nothin'" - Contains a sample of "I Know You Got Soul" by <a href="/wiki/Eric_B._%26_Rakim" title="Eric B. &amp; Rakim">Eric B. &amp; Rakim</a></li>
+<li>"Miami" - Contains a sample of "And the Beat Goes On" by <a href="/wiki/The_Whispers" title="The Whispers">The Whispers</a></li>
+<li>"Yes Yes Y'all" - Contains a sample of "Yearning for Your Love" by <a href="/wiki/The_Gap_Band" title="The Gap Band">The Gap Band</a></li>
+<li>"I Loved You" - Contains a sample of "Upon This Rock" by <a href="/wiki/Joe_Farrell" title="Joe Farrell">Joe Farrell</a></li>
+<li>"It's All Good" - Contains a sample of "Good Times" by <a href="/wiki/Chic_(band)" title="Chic (band)">Chic</a></li>
+<li>"Just the Two of Us" - Contains a sample of "Just the Two of Us" by <a href="/wiki/Grover_Washington,_Jr." title="Grover Washington, Jr.">Grover Washington, Jr.</a> and <a href="/wiki/Bill_Withers" title="Bill Withers">Bill Withers</a></li>
+<li>"Big Willie Style" - Contains a sample of "Something Special" by <a href="/wiki/Earth,_Wind_%26_Fire" title="Earth, Wind &amp; Fire">Earth, Wind &amp; Fire</a></li>
+<li>"Men in Black" - Contains a sample of "Forget Me Nots" by <a href="/wiki/Patrice_Rushen" title="Patrice Rushen">Patrice Rushen</a></li>
+</ul>
+<h2><span class="mw-headline" id="Liner_notes">Liner notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Willie_Style&amp;action=edit&amp;section=3" title="Edit section: Liner notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following are the lines written by Smith available on the booklet from the album.<sup id="cite_ref-ReferenceA_7-0" class="reference"><a href="#cite_note-ReferenceA-7"><span>[</span>7<span>]</span></a></sup></p>
+<table class="cquote" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
+<tr>
+<td width="20" valign="top" style="border:none; color:#B2B7F2;font-size:35px;font-family: 'Times New Roman', serif; font-weight: bold; text-align: left; padding: 10px 10px;">“</td>
+<td valign="top" style="border: none; padding: 4px 10px;"><i><b>It's always hard when the time comes to do the "thank yous."</b></i> <i>I always manage to forget somebody and then I see them on the street somewhere and they scream, "I gave you the best years of my life, and</i> no <i>thanks is the thanks I get!" So in the interest of time, space on the back of this album, and the avoidance of public ridicule, first and foremost, I would like to thank God. I would like to thank Mom Mom, Daddy O, GiGi and my entire family. Like the African proverb goes, "It takes a village to raise a child," and I've been raised by a couple of villages full of people too innumerable to name. But to all of my friends, and all the "villagers" that have helped me, not only with this album, but with my career and life in general — you know who you are.</i> <i><b>And I want you to know that I'm very clear that no one becomes "The Big Williest" by themselves.</b></i> <i>And to <a href="/wiki/Trey_Smith_(Will_Smith)" title="Trey Smith (Will Smith)" class="mw-redirect">Trey</a> and <a href="/wiki/Jada_Pinkett_Smith" title="Jada Pinkett Smith">Jada</a>, I live, love and work, every second of every day, hoping to make you proud of who I am. I love you.</i></td>
+<td width="20" valign="bottom" style="border: none; color: #B2B7F2; font-size: 35px; font-family: 'Times New Roman', serif; font-weight: bold; text-align: right; padding: 10px 10px;">”</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Willie_Style&amp;action=edit&amp;section=4" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Credits adapted from liner notes.<sup id="cite_ref-ReferenceA_7-1" class="reference"><a href="#cite_note-ReferenceA-7"><span>[</span>7<span>]</span></a></sup></p>
+<ul>
+<li><a href="/wiki/Jamie_Foxx" title="Jamie Foxx">Jamie Foxx</a> - uncredited vocals ("Keith B-Real" interludes)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></li>
+<li>Poke and Tone - drum programming, production, recording engineer</li>
+<li>L.E.S. - drum programming, production</li>
+<li>Lamar "Kern" Brantley - bass</li>
+<li>David Foreman - guitar</li>
+<li>Timothy "Tyme" Riley - keyboards</li>
+<li>DJ Jazzy Jeff - scratches, production, recording engineer</li>
+<li>Keith Winfield - keyboards</li>
+<li>Ryan Toby - vocals, co-production</li>
+<li>Valvin Roane - vocals, production</li>
+<li>Kenny Greene - background vocals</li>
+<li><a href="/wiki/Somethin%27_for_the_People" title="Somethin' for the People">Jeff "Fuzzy" Young</a> - vocals</li>
+<li><a href="/wiki/Trisha_Covington" title="Trisha Covington">Trisha Covington</a> - background vocals</li>
+<li><a href="/wiki/Trey_Lorenz" title="Trey Lorenz">Trey Lorenz</a> - background vocals</li>
+<li>Tia Mintze - background vocals</li>
+<li><a href="/wiki/Ken_Duro_Ifill" title="Ken Duro Ifill">Ken Duro Ifill</a> - recording engineer, mixing</li>
+<li>Rich Travali - mixing</li>
+<li>Keith Pelzer - production, recording engineer</li>
+<li><a href="/wiki/Rob_Chiarelli" title="Rob Chiarelli">Rob Chiarelli</a> - drum programming, mixing</li>
+<li>Curtis "Sauce" Wilson - keyboards, drum programming</li>
+<li>Herb Powers, Jr. - mastering</li>
+</ul>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Willie_Style&amp;action=edit&amp;section=5" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Album</b></p>
+<table border="1" cellspacing="0" cellpadding="2" width="60%">
+<tr>
+<th align="left">Year</th>
+<th align="left">Chart</th>
+<th align="left">Position</th>
+</tr>
+<tr>
+<td align="left">1997</td>
+<td align="left">The Billboard 200</td>
+<td align="left">8</td>
+</tr>
+<tr>
+<td align="left">1997</td>
+<td align="left">Top R&amp;B/Hip-Hop Albums</td>
+<td align="left">9</td>
+</tr>
+<tr>
+<td align="left">1997</td>
+<td align="left">Top Canadian Albums</td>
+<td align="left">14</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">UK Albums Chart</td>
+<td align="left">9</td>
+</tr>
+</table>
+<p><b>Singles</b></p>
+<table border="1" cellspacing="0" cellpadding="2" width="60%">
+<tr>
+<th align="left">Year</th>
+<th align="left">Single</th>
+<th align="left">Chart</th>
+<th align="left">Position</th>
+</tr>
+<tr>
+<td align="left">1997</td>
+<td align="left">"Gettin' Jiggy Wit It"</td>
+<td align="left">Rhythmic Top 40</td>
+<td align="left">5</td>
+</tr>
+<tr>
+<td align="left">1997</td>
+<td align="left">"Men in Black"</td>
+<td align="left">Hot Latin Tracks</td>
+<td align="left">39</td>
+</tr>
+<tr>
+<td align="left">1997</td>
+<td align="left">"Men in Black"</td>
+<td align="left">Latin Pop Airplay</td>
+<td align="left">7</td>
+</tr>
+<tr>
+<td align="left">1997</td>
+<td align="left">"Men in Black"</td>
+<td align="left">Latin Tropical/Salsa Airplay</td>
+<td align="left">13</td>
+</tr>
+<tr>
+<td align="left">1997</td>
+<td align="left">"Men in Black"</td>
+<td align="left">Rhythmic Top 40</td>
+<td align="left">1</td>
+</tr>
+<tr>
+<td align="left">1997</td>
+<td align="left">"Men in Black"</td>
+<td align="left">Top 40 Mainstream</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Gettin' Jiggy Wit It"</td>
+<td align="left">Hot Latin Tracks</td>
+<td align="left">37</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Gettin' Jiggy Wit It"</td>
+<td align="left">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</td>
+<td align="left">6</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Gettin' Jiggy Wit It"</td>
+<td align="left">Hot Rap Singles</td>
+<td align="left">1</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Gettin' Jiggy Wit It"</td>
+<td align="left">Latin Pop Airplay</td>
+<td align="left">17</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Gettin' Jiggy Wit It"</td>
+<td align="left">Latin Tropical/Salsa Airplay</td>
+<td align="left">16</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Gettin' Jiggy Wit It"</td>
+<td align="left">The Billboard Hot 100</td>
+<td align="left">1</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Gettin' Jiggy Wit It"</td>
+<td align="left">Top 40 Mainstream</td>
+<td align="left">5</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Just the Two of Us"</td>
+<td align="left">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</td>
+<td align="left">17</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Just the Two of Us"</td>
+<td align="left">Hot Rap Singles</td>
+<td align="left">1</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Just the Two of Us"</td>
+<td align="left">Rhythmic Top 40</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Just the Two of Us"</td>
+<td align="left">The Billboard Hot 100</td>
+<td align="left">20</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Just the Two of Us"</td>
+<td align="left">Top 40 Mainstream</td>
+<td align="left">6</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Miami"</td>
+<td align="left">Rhythmic Top 40</td>
+<td align="left">4</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Miami"</td>
+<td align="left">The Billboard Hot 100</td>
+<td align="left">17</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Miami"</td>
+<td align="left">Top 40 Mainstream</td>
+<td align="left">7</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Miami"</td>
+<td align="left">Top 40 Tracks</td>
+<td align="left">6</td>
+</tr>
+<tr>
+<td align="left">1998</td>
+<td align="left">"Miami"</td>
+<td align="left">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</td>
+<td align="left">73</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="End_of_decade_charts">End of decade charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Willie_Style&amp;action=edit&amp;section=6" title="Edit section: End of decade charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th>Chart (1990–1999)</th>
+<th>Position</th>
+</tr>
+<tr>
+<td>U.S. <i>Billboard</i> 200<sup id="cite_ref-1990sbb_9-0" class="reference"><a href="#cite_note-1990sbb-9"><span>[</span>9<span>]</span></a></sup></td>
+<td style="text-align:center;">39</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Willie_Style&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.allmusic.com/album/r328872">http://www.allmusic.com/album/r328872</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ew.com/ew/article/0,,63479,00.html">http://www.ew.com/ew/article/0,,63479,00.html</a></span></li>
+<li id="cite_note-Christgau-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Christgau_3-0">^</a></b></span> <span class="reference-text"><span class="citation web">Christgau, Robert. <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=will+smith">"Will Smith"</a>. <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABig+Willie+Style&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.btitle=Will+Smith&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fget_artist.php%3Fname%3Dwill%2Bsmith&amp;rft.pub=Robert+Christgau&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://web.archive.org/web/20070217012411/http://www.rollingstone.com/artists/willsmith/albums/album/89302/review/6068062/big_willie_style">http://web.archive.org/web/20070217012411/http://www.rollingstone.com/artists/willsmith/albums/album/89302/review/6068062/big_willie_style</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Will Smith - Big Willie Style, Columbia Records. CK 68683</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web">Smith, Will. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/big-willie-style-mw0000029659">"Big Willie Style"</a>. <i>studio album</i>. allmusic<span class="reference-accessdate">. Retrieved 2014-03-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABig+Willie+Style&amp;rft.atitle=Big+Willie+Style&amp;rft.aufirst=Will&amp;rft.aulast=Smith&amp;rft.au=Smith%2C+Will&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fbig-willie-style-mw0000029659&amp;rft.jtitle=studio+album&amp;rft.pub=allmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ReferenceA-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Will Smith - Big Willie Style. Columbia Records. CK 68683</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.22254/title.jamie-foxx-says-being-called-the-n-word-growing-up-prepared-him-for-django-unchained">"Jamie Foxx Says Being Called The N-Word Growing Up Prepared Him For "Django Unchained<span style="padding-right:0.2em;">"</span>"</a>. <i>interview</i>. hiphopdx.com<span class="reference-accessdate">. Retrieved 2014-03-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABig+Willie+Style&amp;rft.atitle=Jamie+Foxx+Says+Being+Called+The+N-Word+Growing+Up+Prepared+Him+For+%22Django+Unchained%22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.22254%2Ftitle.jamie-foxx-says-being-called-the-n-word-growing-up-prepared-him-for-django-unchained&amp;rft.jtitle=interview&amp;rft.pub=hiphopdx.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-1990sbb-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-1990sbb_9-0">^</a></b></span> <span class="reference-text"><span class="citation book">Geoff Mayfield (December 25, 1999). <a rel="nofollow" class="external text" href="http://books.google.co.kr/books?id=9w0EAAAAMBAJ&amp;lpg=PP1&amp;lr&amp;rview=1&amp;pg=RA1-PA4#v=onepage&amp;q&amp;f=false"><i>1999 The Year in Music Totally '90s: Diary of a Decade - The listing of Top Pop Albums of the '90s &amp; Hot 100 Singles of the '90s</i></a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i><span class="reference-accessdate">. Retrieved October 15, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABig+Willie+Style&amp;rft.au=Geoff+Mayfield&amp;rft.aulast=Geoff+Mayfield&amp;rft.btitle=1999+The+Year+in+Music+Totally+%2790s%3A+Diary+of+a+Decade+-+The+listing+of+Top+Pop+Albums+of+the+%2790s+%26+Hot+100+Singles+of+the+%2790s&amp;rft.date=December+25%2C+1999&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.co.kr%2Fbooks%3Fid%3D9w0EAAAAMBAJ%26lpg%3DPP1%26lr%26rview%3D1%26pg%3DRA1-PA4%23v%3Donepage%26q%26f%3Dfalse&amp;rft.pub=%27%27Billboard%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Will_Smith" title="Template:Will Smith"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Will_Smith" title="Template talk:Will Smith"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Will_Smith&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Will_Smith" title="Will Smith">Will Smith</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><strong class="selflink">Big Willie Style</strong></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Men_in_Black_(song)" title="Men in Black (song)">Men in Black</a>"</li>
+<li>"<a href="/wiki/Just_Cruisin%27" title="Just Cruisin'">Just Cruisin'</a>"</li>
+<li>"<a href="/wiki/Gettin%27_Jiggy_wit_It" title="Gettin' Jiggy wit It">Gettin' Jiggy wit It</a>"</li>
+<li>"<a href="/wiki/Just_the_Two_of_Us_(Will_Smith_song)" title="Just the Two of Us (Will Smith song)">Just the Two of Us</a>"</li>
+<li>"<a href="/wiki/Miami_(Will_Smith_song)" title="Miami (Will Smith song)">Miami</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/Willennium" title="Willennium">Willennium</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Wild_Wild_West_(Will_Smith_song)" title="Wild Wild West (Will Smith song)">Wild Wild West</a>"</li>
+<li>"<a href="/wiki/Will_2K" title="Will 2K">Will 2K</a>"</li>
+<li>"<a href="/wiki/Freakin%27_It" title="Freakin' It">Freakin' It</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/Born_to_Reign" title="Born to Reign">Born to Reign</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Black_Suits_Comin%27_(Nod_Ya_Head)" title="Black Suits Comin' (Nod Ya Head)">Black Suits Comin' (Nod Ya Head)</a>"</li>
+<li>"1000 Kisses"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/Lost_and_Found_(Will_Smith_album)" title="Lost and Found (Will Smith album)">Lost and Found</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Switch_(song)" title="Switch (song)">Switch</a>"</li>
+<li>"<a href="/wiki/Party_Starter" title="Party Starter">Party Starter</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i>Before the Willenium</i></li>
+<li><i><a href="/wiki/Greatest_Hits_(Will_Smith_album)" title="Greatest Hits (Will Smith album)">Greatest Hits</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Kiss_the_Sky_(Tatyana_Ali_album)" title="Kiss the Sky (Tatyana Ali album)">Kiss the Sky</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"Boy You Knock Me Out" <small style="font-size:85%;">(with <a href="/wiki/Tatyana_Ali" title="Tatyana Ali">Tatyana Ali</a>)</small></li>
+<li>"<a href="/wiki/Hey_Sexy_Lady" title="Hey Sexy Lady">Hey Sexy Lady</a>" (Remix) <small style="font-size:85%;">(with <a href="/wiki/Shaggy_(musician)" title="Shaggy (musician)">Shaggy</a> and <a href="/wiki/Sean_Paul" title="Sean Paul">Sean Paul</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Promotional singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"So Fresh"</li>
+<li>"La Fiesta"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Will_Smith_discography" title="Will Smith discography">Discography</a></li>
+<li><a href="/wiki/Will_Smith_filmography" title="Will Smith filmography">Filmography</a></li>
+<li><a href="/wiki/DJ_Jazzy_Jeff_%26_The_Fresh_Prince" title="DJ Jazzy Jeff &amp; The Fresh Prince">DJ Jazzy Jeff &amp; The Fresh Prince</a></li>
+<li><a href="/wiki/Jada_Pinkett_Smith" title="Jada Pinkett Smith">Jada Pinkett Smith</a></li>
+<li><a href="/wiki/Willow_Smith" title="Willow Smith">Willow Smith</a></li>
+<li><a href="/wiki/Jaden_Smith" title="Jaden Smith">Jaden Smith</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1035
+CPU time usage: 1.716 seconds
+Real time usage: 1.801 seconds
+Preprocessor visited node count: 6587/1000000
+Preprocessor generated node count: 31680/1500000
+Post‐expand include size: 72561/2048000 bytes
+Template argument size: 11029/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 1.94 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2374587-0!*!0!!en!4!* and timestamp 20140530163729 and revision id 608815968
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Big_Willie_Style&amp;oldid=608815968">http://en.wikipedia.org/w/index.php?title=Big_Willie_Style&amp;oldid=608815968</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1997_debut_albums" title="Category:1997 debut albums">1997 debut albums</a></li><li><a href="/wiki/Category:Will_Smith_albums" title="Category:Will Smith albums">Will Smith albums</a></li><li><a href="/wiki/Category:Albums_produced_by_L.E.S." title="Category:Albums produced by L.E.S.">Albums produced by L.E.S.</a></li><li><a href="/wiki/Category:Albums_produced_by_Trackmasters" title="Category:Albums produced by Trackmasters">Albums produced by Trackmasters</a></li><li><a href="/wiki/Category:Columbia_Records_albums" title="Category:Columbia Records albums">Columbia Records albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Big+Willie+Style&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Big+Willie+Style" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Big_Willie_Style"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Big_Willie_Style"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Big_Willie_Style" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Big_Willie_Style&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Big_Willie_Style&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Big_Willie_Style" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Big_Willie_Style" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Big_Willie_Style&amp;oldid=608815968" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Big_Willie_Style&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q859525" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Big_Willie_Style&amp;id=608815968" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Big+Willie+Style">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Big+Willie+Style&amp;oldid=608815968&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Big_Willie_Style&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Big_Willie_Style" title="Big Willie Style – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Big_Willie_Style" title="Big Willie Style – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Big_Willie_Style" title="Big Willie Style – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Big_Willie_Style" title="Big Willie Style – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Big_Willie_Style" title="Big Willie Style – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/Big_Willie_Style" title="Big Willie Style – Georgian" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Big_Willie_Style" title="Big Willie Style – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Big_Willie_Style" title="Big Willie Style – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q859525#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 May 2014 at 10:22.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Big_Willie_Style" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":162,"wgHostname":"mw1021"});
+}</script>
+	</body>
+</html>
+	

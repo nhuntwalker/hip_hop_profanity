@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Ghetto D - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ghetto_D" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ghetto_D&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ghetto_D&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Ghetto_D" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init%2Cnolanglinks&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ghetto_D","wgTitle":"Ghetto D","wgCurRevisionId":609602889,"wgRevisionId":609602889,"wgArticleId":5807067,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from April 2008","All articles needing additional references","Articles with hAudio microformats","Master P albums","1997 albums","No Limit Records albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ghetto_D","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5556518"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ghetto_D skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Ghetto D</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px;"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Ghetto_D&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2008)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Ghetto D</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Masterp11.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/04/Masterp11.jpeg/220px-Masterp11.jpeg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/0/04/Masterp11.jpeg 1.5x, //upload.wikimedia.org/wikipedia/en/0/04/Masterp11.jpeg 2x" data-file-width="240" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Master_P" title="Master P">Master P</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">September 2, 1997</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1996–97</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop" title="Hip hop">Hip hop</a>, <a href="/wiki/Southern_Hip_Hop" title="Southern Hip Hop" class="mw-redirect">Southern Hip Hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>79:28</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/No_Limit_Records" title="No Limit Records">No Limit Records</a>/<a href="/wiki/Priority_Records" title="Priority Records">Priority</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a> <small>(<a href="/wiki/Executive_producer" title="Executive producer">exec.</a>)<br />
+<a href="/wiki/Beats_By_the_Pound" title="Beats By the Pound" class="mw-redirect">Beats By the Pound</a> (exec.)<br />
+Randy Jefferson, K-Lou, Dez</small></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Master_P" title="Master P">Master P</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Ice_Cream_Man_(album)" title="Ice Cream Man (album)">Ice Cream Man</a></i><br />
+(1996)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Ghetto D</b></i><br />
+(1997)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/MP_Da_Last_Don" title="MP Da Last Don" class="mw-redirect">MP Da Last Don</a></i><br />
+(1998)</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">B<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">RapReviews</td>
+<td style="vertical-align:middle">(7.5/10)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">C+<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>Ghetto D</b></i> is the sixth <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by American <a href="/wiki/Rapper" title="Rapper" class="mw-redirect">rapper</a> <a href="/wiki/Master_P" title="Master P">Master P</a>, released on September 2, 1997<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> on <a href="/wiki/No_Limit_Records" title="No Limit Records">No Limit Records</a>.In the first week it sold 260,000 copies in the US.</p>
+<p><br /></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Controversy"><span class="tocnumber">2</span> <span class="toctext">Controversy</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Chart_performance"><span class="tocnumber">3</span> <span class="toctext">Chart performance</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Track_listing"><span class="tocnumber">4</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#2007_-_10th_Anniversary_Edition"><span class="tocnumber">5</span> <span class="toctext">2007 - 10th Anniversary Edition</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Samples"><span class="tocnumber">6</span> <span class="toctext">Samples</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Charts"><span class="tocnumber">7</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Singles"><span class="tocnumber">8</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ghetto_D&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Originally slated to be titled as <i>Ghetto Dope</i>, the name was shortened to the current title before the release due to the drug reference in the aforementioned title. The album would be one of Master P's biggest albums.</p>
+<h2><span class="mw-headline" id="Controversy">Controversy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ghetto_D&amp;action=edit&amp;section=2" title="Edit section: Controversy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The original album cover, which depicted a crack addict sitting on a curb and smoking from a glass pipe, was recalled from store shelves. It was promptly replaced by the collage style cover.</p>
+<h2><span class="mw-headline" id="Chart_performance">Chart performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ghetto_D&amp;action=edit&amp;section=3" title="Edit section: Chart performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The album became the biggest-selling of Master P's career, peaking at #1 on the <a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a> and <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a> charts. It was mainly on the strength of the three singles released; "I Miss My Homies" (US #11), "Make 'Em Say Uhh!" (US #7), and "Burbons and Lacs" (US #3) all became hit singles in the years 1997 and 1998. "Gangstas Need Love" samples <a href="/wiki/Diana_Ross" title="Diana Ross">Diana Ross</a>'s hit single "<a href="/wiki/Missing_You_(Diana_Ross_song)" title="Missing You (Diana Ross song)">Missing You</a>", while "I Miss My Homies" samples <a href="/wiki/The_O%27Jays" title="The O'Jays">The O'Jays</a>' song "Brandy" from the album <i><a href="/wiki/So_Full_of_Love" title="So Full of Love">So Full of Love</a></i>. "<a href="/wiki/Make_%27Em_Say_Uhh!" title="Make 'Em Say Uhh!">Make 'Em Say Uhh!</a>", is ranked at #36 on <a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a>'s list of the "50 Worst Songs Ever", <a rel="nofollow" class="external autonumber" href="http://www.blender.com/lists/61412/the50worstsongseverwatchlistenandcringe.html?p=3">[1]</a> and at #60 on the list of the 100 Worst Songs Ever by Matthew Wilkening of <a href="/wiki/AOL_Radio" title="AOL Radio">AOL Radio</a>. <a rel="nofollow" class="external autonumber" href="http://www.aolradioblog.com/2010/09/11/100-worst-songs-ever-part-three-of-five/">[2]</a> In 2008, it ranked #94 on VH1's 100 Greatest Songs of Hip Hop. "Here We Go", featuring <a href="/wiki/Fiend_(rapper)" title="Fiend (rapper)">Fiend</a> and <a href="/wiki/Mystikal" title="Mystikal">Mystikal</a>, was a b-side, released on the "<a href="/wiki/I_Miss_My_Homies" title="I Miss My Homies">I Miss My Homies</a>" single. The album was certified 3x Platinum on August 4, 2006, with 3,185,221 copies sold, according to <a href="/wiki/SoundScan" title="SoundScan" class="mw-redirect">SoundScan</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ghetto_D&amp;action=edit&amp;section=4" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>#</th>
+<th>Title</th>
+<th>Featured Performers</th>
+<th>Length</th>
+</tr>
+<tr>
+<td>1.</td>
+<td>"Ghetto D"</td>
+<td><a href="/wiki/Silkk_The_Shocker" title="Silkk The Shocker" class="mw-redirect">Silkk The Shocker</a>, <a href="/wiki/C-Murder" title="C-Murder">C-Murder</a></td>
+<td>4:37</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>"Let's Get Em"</td>
+<td><a href="/wiki/Mystikal" title="Mystikal">Mystikal</a>, <a href="/wiki/Silkk_The_Shocker" title="Silkk The Shocker" class="mw-redirect">Silkk The Shocker</a></td>
+<td>5:48</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>"<a href="/wiki/I_Miss_My_Homies" title="I Miss My Homies">I Miss My Homies</a>"</td>
+<td><a href="/wiki/Pimp-C" title="Pimp-C" class="mw-redirect">Pimp-C</a>, <a href="/wiki/Silkk_The_Shocker" title="Silkk The Shocker" class="mw-redirect">Silkk The Shocker</a>, <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a>, <a href="/wiki/Odell_(producer)" title="Odell (producer)" class="mw-redirect">Odell</a></td>
+<td>5:25</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>"We Riders"</td>
+<td><a href="/wiki/Mac_(rapper)" title="Mac (rapper)">Mac</a></td>
+<td>3:58</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>"Throw 'Em Up"</td>
+<td><a href="/wiki/Kane_and_Abel" title="Kane and Abel">Kane and Abel</a></td>
+<td>3:22</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>"Tryin' 2 Do Something"</td>
+<td><a href="/wiki/Fiend_(rapper)" title="Fiend (rapper)">Fiend</a>, <a href="/wiki/Mac_(rapper)" title="Mac (rapper)">Mac</a> <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+<td>3:24</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>"Plan B"</td>
+<td><a href="/wiki/Mia_X" title="Mia X">Mia X</a></td>
+<td>3:50</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>"Weed &amp; Money"</td>
+<td><a href="/wiki/Silkk_The_Shocker" title="Silkk The Shocker" class="mw-redirect">Silkk The Shocker</a></td>
+<td>4:04</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>"Captain Kirk"</td>
+<td><a href="/wiki/Fiend_(rapper)" title="Fiend (rapper)">Fiend</a>, <a href="/wiki/Silkk_The_Shocker" title="Silkk The Shocker" class="mw-redirect">Silkk The Shocker</a>, <a href="/wiki/Mystikal" title="Mystikal">Mystikal</a></td>
+<td>5:05</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>"Stop Hatin'"</td>
+<td><a href="/wiki/Fiend_(rapper)" title="Fiend (rapper)">Fiend</a>, <a href="/wiki/Silkk_The_Shocker" title="Silkk The Shocker" class="mw-redirect">Silkk The Shocker</a>, <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+<td>5:04</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>"Eyes On Your Enemies"</td>
+<td><a href="/wiki/Silkk_The_Shocker" title="Silkk The Shocker" class="mw-redirect">Silkk The Shocker</a>, <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+<td>3:29</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>"<a href="/wiki/Make_%27Em_Say_Uhh!" title="Make 'Em Say Uhh!">Make 'Em Say Uhh!</a>"</td>
+<td><a href="/wiki/Fiend_(rapper)" title="Fiend (rapper)">Fiend</a>, <a href="/wiki/Silkk_The_Shocker" title="Silkk The Shocker" class="mw-redirect">Silkk The Shocker</a> <a href="/wiki/Mia_X" title="Mia X">Mia X</a>, <a href="/wiki/Mystikal" title="Mystikal">Mystikal</a></td>
+<td>5:06</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>"Going Through Somethangs"</td>
+<td><a href="/wiki/Big_Ed" title="Big Ed">Big Ed</a>, <a href="/wiki/Mr._Serv-On" title="Mr. Serv-On">Mr. Serv-On</a></td>
+<td>4:41</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>"Only Time Will Tell"</td>
+<td><a href="/wiki/Mac_(rapper)" title="Mac (rapper)">Mac</a>, <a href="/wiki/Sons_of_Funk" title="Sons of Funk">Sons of Funk</a></td>
+<td>4:08</td>
+</tr>
+<tr>
+<td>15.</td>
+<td>"After Dollars, No Cents"</td>
+<td><a href="/wiki/Silkk_The_Shocker" title="Silkk The Shocker" class="mw-redirect">Silkk The Shocker</a></td>
+<td>3:34</td>
+</tr>
+<tr>
+<td>16.</td>
+<td>"Gangstas Need Love"</td>
+<td><a href="/wiki/Silkk_The_Shocker" title="Silkk The Shocker" class="mw-redirect">Silkk The Shocker</a></td>
+<td>4:07</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>"Pass Me Da Green"</td>
+<td></td>
+<td>3:05</td>
+</tr>
+<tr>
+<td>18.</td>
+<td>"Come and Get Some"</td>
+<td><a href="/wiki/C-Murder" title="C-Murder">C-Murder</a>, <a href="/wiki/Prime_Suspects" title="Prime Suspects">Prime Suspects</a></td>
+<td>2:31</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>"Bourbons and Lacs"</td>
+<td><a href="/wiki/Silkk_The_Shocker" title="Silkk The Shocker" class="mw-redirect">Silkk The Shocker</a>, Lil Gotti, <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+<td>4:09</td>
+</tr>
+</table>
+<p>It should be noted that <a href="/wiki/Silkk_The_Shocker" title="Silkk The Shocker" class="mw-redirect">Silkk The Shocker</a> makes the most guest appearances (eleven) on the album.</p>
+<h2><span class="mw-headline" id="2007_-_10th_Anniversary_Edition">2007 - 10th Anniversary Edition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ghetto_D&amp;action=edit&amp;section=5" title="Edit section: 2007 - 10th Anniversary Edition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol>
+<li>Weed &amp; Hennesey (feat. <a href="/wiki/C-Murder" title="C-Murder">C-Murder</a> &amp; <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a>)</li>
+<li>Scream</li>
+<li>Playa 4 Life (feat. <a href="/wiki/Rappin%27_4-Tay" title="Rappin' 4-Tay">Rappin' 4-Tay</a>)</li>
+<li>Make 'Em Say Ugh! (Instrumental)</li>
+</ol>
+<h2><span class="mw-headline" id="Samples">Samples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ghetto_D&amp;action=edit&amp;section=6" title="Edit section: Samples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>"Bourbons and Lacs"
+<ul>
+<li>"<a href="/wiki/Sexual_Healing" title="Sexual Healing">Sexual Healing</a>" by <a href="/wiki/Marvin_Gaye" title="Marvin Gaye">Marvin Gaye</a></li>
+</ul>
+</li>
+<li>"Gangstas Need Love"
+<ul>
+<li>"Missing You" by <a href="/wiki/Diana_Ross" title="Diana Ross">Diana Ross</a></li>
+</ul>
+</li>
+<li>"Ghetto D"
+<ul>
+<li>"<a href="/wiki/Eric_B._Is_President" title="Eric B. Is President">Eric B. Is President</a>" by <a href="/wiki/Eric_B._%26_Rakim" title="Eric B. &amp; Rakim">Eric B. &amp; Rakim</a></li>
+</ul>
+</li>
+<li>"I Miss My Homies"
+<ul>
+<li>"Brandy" by The <a href="/wiki/O%27Jays" title="O'Jays" class="mw-redirect">O'Jays</a></li>
+</ul>
+</li>
+<li>"Make Em' Say Uhh!"
+<ul>
+<li>"<a href="/wiki/Apache" title="Apache">Apache</a>" by <a href="/wiki/Sugarhill_Gang" title="Sugarhill Gang" class="mw-redirect">Sugarhill Gang</a></li>
+<li>"Funkbox Party" by <a href="/w/index.php?title=The_Masterdon_Committee&amp;action=edit&amp;redlink=1" class="new" title="The Masterdon Committee (page does not exist)">The Masterdon Committee</a></li>
+</ul>
+</li>
+<li>Pass Me da Green
+<ul>
+<li>"Intro and Main Title" by Fred Myrow and Malcolm Seagrave</li>
+</ul>
+</li>
+<li>"Stop Hatin'"
+<ul>
+<li>"Rumors" by Timex Social Club</li>
+</ul>
+</li>
+<li>"Tryin' 2 Do Something"
+<ul>
+<li>"<a href="/wiki/For_the_Love_of_You" title="For the Love of You">For the Love of You</a> (Part 1 &amp; 2)" by <a href="/wiki/The_Isley_Brothers" title="The Isley Brothers">The Isley Brothers</a></li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ghetto_D&amp;action=edit&amp;section=7" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Year</th>
+<th>Chart (1997)</th>
+<th>Position</th>
+</tr>
+<tr>
+<td>1997</td>
+<td>US Billboard 200</td>
+<td align="center">1</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ghetto_D&amp;action=edit&amp;section=8" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>I Miss My Homies</b></p>
+<table class="wikitable">
+<tr>
+<th align="left">Chart</th>
+<th align="left">Position</th>
+</tr>
+<tr>
+<td align="left">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</td>
+<td align="center">16</td>
+</tr>
+<tr>
+<td align="left">Hot Rap Singles</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td align="left">Billboard Hot 100</td>
+<td align="center">25</td>
+</tr>
+</table>
+<p><b>Make Em Say Uhh</b></p>
+<table class="wikitable">
+<tr>
+<th align="left">Chart</th>
+<th align="left">Position</th>
+</tr>
+<tr>
+<td align="left">Hot Rap Singles</td>
+<td align="center">11</td>
+</tr>
+<tr>
+<td align="left">Hot Dance Music/Maxi SIngles Sales</td>
+<td align="center">11</td>
+</tr>
+<tr>
+<td align="left">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td align="left">Rhythmic Top 40</td>
+<td align="center">30</td>
+</tr>
+<tr>
+<td align="left">Billboard Hot 100</td>
+<td align="center">16</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ghetto_D&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_albums_of_1997_(U.S.)" title="List of number-one albums of 1997 (U.S.)" class="mw-redirect">List of number-one albums of 1997 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1997_(U.S.)" title="List of number-one R&amp;B albums of 1997 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1997 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ghetto_D&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.artistdirect.com/nad/store/artist/album/0,,301658,00.html">Official Track Listing</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ghetto_D&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r308192">Allmusic review</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,289476,00.html">Entertainment Weekly review</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rapreviews.com/archive/BTTL_masterPghettoD.html">RapReviews review</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?id=902&amp;name=Master+P.">Robert Christgau review</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://musikgeist.org/release/25140/">"Ghetto D"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGhetto+D&amp;rft.btitle=Ghetto+D&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmusikgeist.org%2Frelease%2F25140%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.wordofsouth.com/myblock/archive/index.php/t-25640.html">http://www.wordofsouth.com/myblock/archive/index.php/t-25640.html</a></span></li>
+</ol>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/No_Way_Out_(album)" title="No Way Out (album)">No Way Out</a></i> by <a href="/wiki/Sean_Combs" title="Sean Combs">Puff Daddy</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_1997_(USA)" title="Number-one albums of 1997 (USA)" class="mw-redirect">number-one album</a></b><br />
+September 9–12, 1997</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/You_Light_Up_My_Life:_Inspirational_Songs" title="You Light Up My Life: Inspirational Songs">You Light Up My Life: Inspirational Songs</a></i><br />
+by <a href="/wiki/LeAnn_Rimes" title="LeAnn Rimes">LeAnn Rimes</a></span></td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Master_P" title="Template:Master P"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Master_P&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Master P (page does not exist)"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Master_P&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Master_P" title="Master P">Master P</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Get_Away_Clean" title="Get Away Clean">Get Away Clean</a></i></li>
+<li><i><a href="/wiki/Mama%27s_Bad_Boy" title="Mama's Bad Boy">Mama's Bad Boy</a></i></li>
+<li><i><a href="/wiki/The_Ghettos_Tryin_to_Kill_Me!" title="The Ghettos Tryin to Kill Me!">The Ghettos Tryin to Kill Me!</a></i></li>
+<li><i><a href="/wiki/99_Ways_to_Die_(album)" title="99 Ways to Die (album)">99 Ways to Die</a></i></li>
+<li><i><a href="/wiki/Ice_Cream_Man_(album)" title="Ice Cream Man (album)">Ice Cream Man</a></i></li>
+<li><i><strong class="selflink">Ghetto D</strong></i></li>
+<li><i><a href="/wiki/MP_da_Last_Don" title="MP da Last Don">MP da Last Don</a></i></li>
+<li><i><a href="/wiki/Only_God_Can_Judge_Me" title="Only God Can Judge Me">Only God Can Judge Me</a></i></li>
+<li><i><a href="/wiki/Ghetto_Postage" title="Ghetto Postage">Ghetto Postage</a></i></li>
+<li><i><a href="/wiki/Game_Face" title="Game Face">Game Face</a></i></li>
+<li><i><a href="/wiki/Good_Side,_Bad_Side_(Master_P_album)" title="Good Side, Bad Side (Master P album)">Good Side, Bad Side</a></i></li>
+<li><i><a href="/wiki/Ghetto_Bill" title="Ghetto Bill">Ghetto Bill</a></i></li>
+<li><i><a href="/wiki/The_Gift_(Master_P_album)" title="The Gift (Master P album)">The Gift</a></i></li>
+<li><i><a href="/w/index.php?title=Ice_Cream_Man_2_(Master_P_album)&amp;action=edit&amp;redlink=1" class="new" title="Ice Cream Man 2 (Master P album) (page does not exist)">Ice Cream Man 2</a></i></li>
+<li><i><a href="/w/index.php?title=Boss_of_All_Bosses_(Master_P_album)&amp;action=edit&amp;redlink=1" class="new" title="Boss of All Bosses (Master P album) (page does not exist)">Boss of All Bosses</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Independent albums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Living_Legend:_Certified_D-Boy" title="Living Legend: Certified D-Boy">Living Legend: Certified D-Boy</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Soundtrack albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/I%27m_Bout_It_(soundtrack)" title="I'm Bout It (soundtrack)">I'm Bout It</a></i></li>
+<li><i><a href="/wiki/I_Got_the_Hook_Up_(soundtrack)" title="I Got the Hook Up (soundtrack)">I Got the Hook Up</a></i></li>
+<li><i><a href="/wiki/Foolish_(soundtrack)" title="Foolish (soundtrack)">Foolish</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Collaboration albums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Hip_Hop_History" title="Hip Hop History">Hip Hop History</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilation Albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/West_Coast_Bad_Boyz,_Vol._1:_Anotha_Level_of_the_Game" title="West Coast Bad Boyz, Vol. 1: Anotha Level of the Game">West Coast Bad Boyz, Vol. 1: Anotha Level of the Game</a></i></li>
+<li><i><a href="/wiki/West_Coast_Bad_Boyz:_High_fo_Xmas" title="West Coast Bad Boyz: High fo Xmas">West Coast Bad Boyz: High fo Xmas</a></i></li>
+<li><i><a href="/wiki/Down_South_Hustlers:_Bouncin%27_and_Swingin%27" title="Down South Hustlers: Bouncin' and Swingin'">Down South Hustlers: Bouncin' and Swingin'</a></i></li>
+<li><i><a href="/wiki/West_Coast_Bad_Boyz_II" title="West Coast Bad Boyz II">West Coast Bad Boyz II</a></i></li>
+<li><i><a href="/wiki/Mean_Green:_Major_Players_Compilation" title="Mean Green: Major Players Compilation" class="mw-redirect">Mean Green: Major Players Compilation</a></i></li>
+<li><i><a href="/wiki/We_Can%27t_Be_Stopped_(No_Limit_Records_album)" title="We Can't Be Stopped (No Limit Records album)">We Can't Be Stopped</a></i></li>
+<li><i><a href="/wiki/Who_U_Wit%3F" title="Who U Wit?">Who U Wit?</a></i></li>
+<li><i><a href="/wiki/West_Coast_Bad_Boyz,_Vol._3:_Poppin%27_Collars" title="West Coast Bad Boyz, Vol. 3: Poppin' Collars">West Coast Bad Boyz, Vol. 3: Poppin' Collars</a></i></li>
+<li><i><a href="/wiki/Remix_Classics" title="Remix Classics">Remix Classics</a></i></li>
+<li><i><a href="/wiki/The_Best_of_Master_P" title="The Best of Master P">The Best of Master P</a></i></li>
+<li><i><a href="/wiki/The_Ultimate_Master_P" title="The Ultimate Master P">The Ultimate Master P</a></i></li>
+<li><i><a href="/wiki/America%27s_Most_Luved_Bad_Guy" title="America's Most Luved Bad Guy">America's Most Luved Bad Guy</a></i></li>
+<li><i><a href="/wiki/Featuring...Master_P" title="Featuring...Master P">Featuring...Master P</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Mr._Ice_Cream_Man" title="Mr. Ice Cream Man">Mr. Ice Cream Man</a>"</li>
+<li>"<a href="/wiki/I_Miss_My_Homies" title="I Miss My Homies">I Miss My Homies</a>"</li>
+<li>"<a href="/wiki/Make_%27Em_Say_Uhh!" title="Make 'Em Say Uhh!">Make 'Em Say Uhh!</a>"</li>
+<li>"<a href="/wiki/I_Need_Dubs" title="I Need Dubs">I Need Dubs</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Collaboration singles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Hoody_Hooo" title="Hoody Hooo">Hoody Hooo</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Just_Be_Straight_with_Me" title="Just Be Straight with Me">Just Be Straight with Me</a>"</li>
+<li>"<a href="/wiki/Let%27s_Ride_(Montell_Jordan_song)" title="Let's Ride (Montell Jordan song)">Let's Ride</a>"</li>
+<li>"<a href="/wiki/Lay_Low" title="Lay Low">Lay Low</a>"</li>
+<li>"<a href="/wiki/2-Way" title="2-Way">2-Way</a>"</li>
+<li>"<a href="/wiki/Choppa_Style" title="Choppa Style">Choppa Style</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related Articles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Master_P_discography" title="Master P discography">Discography</a></li>
+<li><a href="/wiki/No_Limit_Records" title="No Limit Records">No Limit Records</a></li>
+<li><a href="/wiki/TRU_(group)" title="TRU (group)">TRU</a></li>
+<li><a href="/wiki/504_Boyz" title="504 Boyz">504 Boyz</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1049
+CPU time usage: 0.852 seconds
+Real time usage: 0.933 seconds
+Preprocessor visited node count: 1386/1000000
+Preprocessor generated node count: 9923/1500000
+Post‐expand include size: 37877/2048000 bytes
+Template argument size: 3894/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.116/10.000 seconds
+Lua memory usage: 1.69 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5807067-0!*!0!!en!4!* and timestamp 20140530221847 and revision id 609602889
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Ghetto_D&amp;oldid=609602889">http://en.wikipedia.org/w/index.php?title=Ghetto_D&amp;oldid=609602889</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Master_P_albums" title="Category:Master P albums">Master P albums</a></li><li><a href="/wiki/Category:1997_albums" title="Category:1997 albums">1997 albums</a></li><li><a href="/wiki/Category:No_Limit_Records_albums" title="Category:No Limit Records albums">No Limit Records albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2008" title="Category:Articles needing additional references from April 2008">Articles needing additional references from April 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ghetto+D&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ghetto+D" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ghetto_D"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ghetto_D"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ghetto_D" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ghetto_D&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ghetto_D&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ghetto_D" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ghetto_D" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Ghetto_D&amp;oldid=609602889" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Ghetto_D&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q5556518" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Ghetto_D&amp;id=609602889" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ghetto+D">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ghetto+D&amp;oldid=609602889&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Ghetto_D&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q5556518#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 May 2014 at 00:57.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Ghetto_D" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":177,"wgHostname":"mw1173"});
+}</script>
+	</body>
+</html>
+	

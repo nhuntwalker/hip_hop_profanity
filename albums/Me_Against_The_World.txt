@@ -1,0 +1,1170 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Me Against the World - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Me_Against_the_World" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Me_Against_the_World&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Me_Against_the_World&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Me_Against_the_World" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Me_Against_the_World","wgTitle":"Me Against the World","wgCurRevisionId":610314299,"wgRevisionId":610314299,"wgArticleId":217174,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Good articles","Articles with hAudio microformats","All articles with unsourced statements","Articles with unsourced statements from November 2012","1995 albums","Albums produced by Easy Mo Bee","Albums produced by Johnny \"J\"","Albums produced by Soulshock and Karlin","Amaru Entertainment albums","Atlantic Records albums","Interscope Records albums","Jive Records albums","Tupac Shakur albums","Albums certified multi-platinum by the Recording Industry Association of America","Gangsta rap albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Me_Against_the_World","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Me_Against_The_World","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q637860"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Me_Against_the_World skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Me Against the World</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Me_Against_The_World&amp;redirect=no" title="Me Against The World">Me Against The World</a>)</div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the 2Pac album.  For chapter 7 of The Emo Diaries series, see <a href="/wiki/Me_Against_the_World_(compilation_album)" title="Me Against the World (compilation album)">Me Against the World (compilation album)</a>.</div>
+<div style="display:none; right:10px;" class="metadata topicon nopopups" id="good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/15px-Symbol_support_vote.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/23px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/30px-Symbol_support_vote.svg.png 2x" data-file-width="180" data-file-height="185" /></a></div>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Me Against the World</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Meagainsttheworldcover.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/3/3d/Meagainsttheworldcover.jpg/220px-Meagainsttheworldcover.jpg" width="220" height="221" srcset="//upload.wikimedia.org/wikipedia/en/3/3d/Meagainsttheworldcover.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/3/3d/Meagainsttheworldcover.jpg 2x" data-file-width="299" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/2Pac" title="2Pac" class="mw-redirect">2Pac</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">March 14, 1995</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>Early 1993 - November 1994</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Gangsta_rap" title="Gangsta rap">Gangsta rap</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>65:57</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Out Da Gutta</a>, <a href="/wiki/Amaru_Entertainment" title="Amaru Entertainment">Amaru</a>, <a href="/wiki/Interscope_Records" title="Interscope Records">Interscope</a>, <a href="/wiki/Atlantic_Records" title="Atlantic Records">Atlantic</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Easy Mo Bee</a>, Sam Bostic, D-Flizno Production Squad, Brian G, <a href="/wiki/Shock_G" title="Shock G">Shock G</a>, <a href="/wiki/Johnny_%22J%22" title="Johnny &quot;J&quot;">Johnny "J"</a>, Mike Mosley, <a href="/wiki/Tony_Pizarro" title="Tony Pizarro">Tony Pizarro</a>, <a href="/wiki/Soulshock_%26_Karlin" title="Soulshock &amp; Karlin" class="mw-redirect">Soulshock &amp; Karlin</a>, Le-morrious "Funky Drummer" Tyler, Moe Z.M.D.</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/2Pac" title="2Pac" class="mw-redirect">2Pac</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Thug_Life:_Volume_1" title="Thug Life: Volume 1">Thug Life: Volume 1</a></i><br />
+(1994)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Me Against the World</b></i><br />
+(1995)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/All_Eyez_on_Me" title="All Eyez on Me">All Eyez on Me</a></i><br />
+(1996)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Me Against the World</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Dear_Mama" title="Dear Mama">Dear Mama</a>"</span><br />
+Released: February 21, 1995</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/So_Many_Tears" title="So Many Tears">So Many Tears</a>"</span><br />
+Released: June 13, 1995</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Temptations_(song)" title="Temptations (song)">Temptations</a>"</span><br />
+Released: August 29, 1995</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>Me Against the World</b></i> is the third <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by <a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Hip_hop" title="Hip hop">hip hop</a> artist <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a>. It was released March 14, 1995 on the <a href="/wiki/Interscope_Records" title="Interscope Records">Interscope Records</a> label. The album was composed of un-used tracks from the Thug Life era, and from other studio sessions from 1993 to 1994. It was his impending prison sentence, troubles with the police and Shakur being poor, which many believe might have contributed to Shakur's artistic re-emergence on record, as his material is believed by Steve Huey of <i><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></i> to have become markedly more "confessional", "reflective", and "soul-baring".<sup id="cite_ref-AllmusOvrvw_2-0" class="reference"><a href="#cite_note-AllmusOvrvw-2"><span>[</span>2<span>]</span></a></sup></p>
+<p><i>Me Against the World</i>, released while Shakur was imprisoned, made an immediate impact on the charts, debuting at number one on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>. This made Shakur the first artist to have an album debut at number one on <i>Billboard</i> 200 while serving time in prison. The album served as one of Shakur's most positively reviewed albums, with many calling it the magnum opus of his career, and is considered one of the greatest and most influential hip hop albums of all-time.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> <i>Me Against the World</i> won best rap album at the <a href="/wiki/1996_Soul_Train_Music_Awards" title="1996 Soul Train Music Awards">1996 Soul Train Music Awards</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> It achieved double platinum status and has sold 3,524,567 copies in the United States as of 2011.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Recording_and_production"><span class="tocnumber">2</span> <span class="toctext">Recording and production</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Composition"><span class="tocnumber">3</span> <span class="toctext">Composition</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Singles"><span class="tocnumber">4</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Critical_reception"><span class="tocnumber">5</span> <span class="toctext">Critical reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Accolades"><span class="tocnumber">5.1</span> <span class="toctext">Accolades</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Commercial_performance"><span class="tocnumber">6</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Track_listing"><span class="tocnumber">7</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Chart_history"><span class="tocnumber">8</span> <span class="toctext">Chart history</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Chart_positions"><span class="tocnumber">8.1</span> <span class="toctext">Chart positions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Personnel"><span class="tocnumber">9</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1992, <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a> was already a success in the <a href="/wiki/Hip_hop" title="Hip hop">hip hop</a> industry, with two <a href="/wiki/RIAA_certification#Singles" title="RIAA certification">gold-certified</a> singles that reached the top twenty on the pop charts ("<a href="/wiki/I_Get_Around_(2Pac_song)" title="I Get Around (2Pac song)" class="mw-redirect">I Get Around</a>", "<a href="/wiki/Keep_Ya_Head_Up" title="Keep Ya Head Up">Keep Ya Head Up</a>"), and a <a href="/wiki/RIAA_certification#Albums" title="RIAA certification">platinum-selling</a> <a href="/wiki/Sophomore" title="Sophomore">sophomore</a> album that would peak just inside the top twenty-five of the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> (<i><a href="/wiki/Strictly_4_My_N.I.G.G.A.Z." title="Strictly 4 My N.I.G.G.A.Z." class="mw-redirect">Strictly 4 My N.I.G.G.A.Z.</a></i>).<sup id="cite_ref-2PacRIAAStats_6-0" class="reference"><a href="#cite_note-2PacRIAAStats-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> However, the 22-year-old artist had a series of incidents and charges of breaking the law. In the summer of 1993, Shakur was charged for assaulting director <a href="/wiki/Hughes_brothers" title="Hughes brothers">Allen Hughes</a> while filming <i><a href="/wiki/Menace_II_Society" title="Menace II Society">Menace II Society</a></i>; Shakur was later sentenced to fifteen days in jail. Later, in October 1993, Shakur was charged with shooting two off-duty police officers in <a href="/wiki/Atlanta" title="Atlanta">Atlanta</a>, though the charges would eventually be dismissed. In November, Shakur and two members of his entourage were charged with sexually assaulting a female fan, for which they were found guilty and sentenced to 4.5 years in jail.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> According to Shakur, the album was made to show the hip hop audience his respect for the art form. Lyrically, Shakur intentionally tried to make the album more personal and reflective than his previous efforts.<sup id="cite_ref-TRBook-166_9-0" class="reference"><a href="#cite_note-TRBook-166-9"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Recording_and_production">Recording and production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit&amp;section=2" title="Edit section: Recording and production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The musical production on the album was considered by several music critics to be the best on any of <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Shakur</a>'s albums up to that point in his career. Steve "Flash" Juon at RapReviews gave the production on the album a perfect 10 of 10 rating, particularly praising tracks like "<a href="/wiki/So_Many_Tears" title="So Many Tears">So Many Tears</a>" and "<a href="/wiki/Temptations_(song)" title="Temptations (song)">Temptations</a>".<sup id="cite_ref-RpRvwsBTTL_10-0" class="reference"><a href="#cite_note-RpRvwsBTTL-10"><span>[</span>10<span>]</span></a></sup> <a href="/wiki/Jon_Pareles" title="Jon Pareles">Jon Pareles</a> of the <i><a href="/wiki/The_New_York_Times" title="The New York Times">New York Times</a></i> remarked that the production had a "fatalistic calm, in a commercial mold". He compared the album's production and synthesized hooks to that of <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>'s <a href="/wiki/G-funk" title="G-funk">G-funk</a> style, stating that "while 2Pac doesn't sing, other voices do, providing smooth melody".<sup id="cite_ref-NYTReview_11-0" class="reference"><a href="#cite_note-NYTReview-11"><span>[</span>11<span>]</span></a></sup> James Bernard at <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> was not quite as enthusiastic about the album's production, remarking that Shakur's "vocals are buried deep in the mix. That's a shame—if they were more in-your-face, the lackluster beats might be less noticeable." <sup id="cite_ref-EWReview_12-0" class="reference"><a href="#cite_note-EWReview-12"><span>[</span>12<span>]</span></a></sup> The album's recording sessions took place at ten different studios, while it was mastered at <a href="/wiki/Bernie_Grundman_Mastering" title="Bernie Grundman Mastering" class="mw-redirect">Bernie Grundman Mastering</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> Although the album was originally released on Interscope. <a href="/wiki/Amaru_Entertainment" title="Amaru Entertainment">Amaru Entertainment</a>, the label owned by Shakur's mother <a href="/wiki/Afeni_Shakur" title="Afeni Shakur">Afeni Shakur</a>, has since released the album twice.<sup id="cite_ref-full_discogs_14-0" class="reference"><a href="#cite_note-full_discogs-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Composition">Composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit&amp;section=3" title="Edit section: Composition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<blockquote class="templatequote">
+<p>It was like a <a href="/wiki/Blues" title="Blues">blues</a> record. It was down-home. It was all my fears, all the things I just couldn't sleep about. Everybody thought I was living so well and doing so good that I wanted to explain it. And it took a whole album to get it all out. I get to tell my innermost, darkest secrets I tell my own personal problems.<sup id="cite_ref-TRBook-166_9-1" class="reference"><a href="#cite_note-TRBook-166-9"><span>[</span>9<span>]</span></a></sup></p>
+<div class="templatequotecite">——Tupac Shakur</div>
+</blockquote>
+<p>Some of the album's main themes concern the loss of innocence, <a href="/wiki/Paranoia" title="Paranoia">paranoia</a>, and occasional <a href="/wiki/Self-loathing" title="Self-loathing" class="mw-redirect">self-loathing</a>.<sup id="cite_ref-AllmusOvrvw_2-1" class="reference"><a href="#cite_note-AllmusOvrvw-2"><span>[</span>2<span>]</span></a></sup> Much attention is paid to subjects such as the pain of urban survival.<sup id="cite_ref-RpRvwsBTTL_10-1" class="reference"><a href="#cite_note-RpRvwsBTTL-10"><span>[</span>10<span>]</span></a></sup> Not all of the music deals with such extremely bleak subject matter, however. Some tracks, such as "Old School", lean more to the nostalgic, though somewhat bittersweet side in Shakur's remembrance of his youth and the early days of hip hop music.<sup id="cite_ref-AllmusOvrvw_2-2" class="reference"><a href="#cite_note-AllmusOvrvw-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-RpRvwsBTTL_10-2" class="reference"><a href="#cite_note-RpRvwsBTTL-10"><span>[</span>10<span>]</span></a></sup> The album is also well known for the more sensitive tracks "<a href="/wiki/Dear_Mama" title="Dear Mama">Dear Mama</a>" and "Can U Get Away", which are both directed towards and reveal Shakur's devotion to the women he loves. On "Dear Mama", Shakur pays tribute to and expresses his undying affection for his own mother, continuously reminding her that though his actions might sometimes seem to state otherwise, "you are appreciated".<sup id="cite_ref-RpRvwsBTTL_10-3" class="reference"><a href="#cite_note-RpRvwsBTTL-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> On the track "Can U Get Away", Shakur attempts to impress a <a href="/wiki/Lisa_Lopes" title="Lisa Lopes">woman</a> who has managed to gain his affections, away from the woman's <a href="/wiki/Domestic_violence" title="Domestic violence">abusive relationship</a>. Four of the most eerie and revered tracks on the album are "If I Die 2Nite", "Lord Knows" "Outlaw" which directly references the shooting that Tupac went through before it happened, and "Fuck The World" Throughout the entirety of the album Shakur employs various poetical deliveries, ranging from <a href="/wiki/Alliteration" title="Alliteration">alliteration</a> ("If I Die 2Nite"), to the use of paired <a href="/wiki/Couplet" title="Couplet">couplets</a> ("Lord Knows").<sup id="cite_ref-RpRvwsBTTL_10-4" class="reference"><a href="#cite_note-RpRvwsBTTL-10"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit&amp;section=4" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"<a href="/wiki/Dear_Mama" title="Dear Mama">Dear Mama</a>" was released as the album's first single in February 1995, along with the track "Old School" as the <a href="/wiki/A-side_and_B-side" title="A-side and B-side">B-side</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> "Dear Mama" would be the album's most successful single, topping the <a href="/wiki/Hot_Rap_Tracks" title="Hot Rap Tracks" class="mw-redirect">Hot Rap Singles</a> chart, and peaking at the ninth spot on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>.<sup id="cite_ref-BllbrdSnglsAllmsc_18-0" class="reference"><a href="#cite_note-BllbrdSnglsAllmsc-18"><span>[</span>18<span>]</span></a></sup> The single was certified platinum in July 1995,<sup id="cite_ref-2PacRIAAStats_6-1" class="reference"><a href="#cite_note-2PacRIAAStats-6"><span>[</span>6<span>]</span></a></sup> and later placed at number 51 on the <a href="/wiki/Billboard_Year-End_Hot_100_singles_of_1995" title="Billboard Year-End Hot 100 singles of 1995">year-end charts</a>.</p>
+<p>The second single, "<a href="/wiki/So_Many_Tears" title="So Many Tears">So Many Tears</a>", was released in June, four months after the first single.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> The single would reach the number six spot on the Hot Rap Singles chart, and the 44th on the <i>Billboard</i> Hot 100.<sup id="cite_ref-BllbrdSnglsAllmsc_18-1" class="reference"><a href="#cite_note-BllbrdSnglsAllmsc-18"><span>[</span>18<span>]</span></a></sup></p>
+<p>"<a href="/wiki/Temptations_(song)" title="Temptations (song)">Temptations</a>", released in August, was the third and final single from the album.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> The single would be the least successful of the three released, but still did fairly well on the charts, reaching number 68 on the <i>Billboard</i> Hot 100, 35 on the <a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a>, and 13 on the Hot Rap Singles charts.<sup id="cite_ref-BllbrdSnglsAllmsc_18-2" class="reference"><a href="#cite_note-BllbrdSnglsAllmsc-18"><span>[</span>18<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit&amp;section=5" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-AllmusOvrvw_2-3" class="reference"><a href="#cite_note-AllmusOvrvw-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">C+<sup id="cite_ref-Christgau_21-0" class="reference"><a href="#cite_note-Christgau-21"><span>[</span>21<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">B−<sup id="cite_ref-EWReview_12-1" class="reference"><a href="#cite_note-EWReview-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i></td>
+<td style="vertical-align:middle">favorable<sup id="cite_ref-NYTReview_11-1" class="reference"><a href="#cite_note-NYTReview-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">RapReviews</td>
+<td style="vertical-align:middle">10/10<sup id="cite_ref-RpRvwsBTTL_10-5" class="reference"><a href="#cite_note-RpRvwsBTTL-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-RSReview_22-0" class="reference"><a href="#cite_note-RSReview-22"><span>[</span>22<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The Rolling Stone Album Guide</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-RSguide_23-0" class="reference"><a href="#cite_note-RSguide-23"><span>[</span>23<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> (1995)</td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i>The Source</i> (2002)</td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></td>
+</tr>
+</table>
+<p>In a contemporary review, Cheo H. Coker at <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> called the album Shakur's best and said it was "by and large a work of pain, anger and burning desperation — [it] is the first time 2Pac has taken the conflicting forces tugging at his psyche head-on".<sup id="cite_ref-RSReview_22-1" class="reference"><a href="#cite_note-RSReview-22"><span>[</span>22<span>]</span></a></sup> <a href="/wiki/Jon_Pareles" title="Jon Pareles">Jon Pareles</a>, writing in <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>, called Shakur the "<a href="/wiki/St._Augustine_of_Hippo" title="St. Augustine of Hippo" class="mw-redirect">St. Augustine</a> of gangster rap" due to his ambivalence towards the behavior and nature of the gangster lifestyle.<sup id="cite_ref-NYTReview_11-2" class="reference"><a href="#cite_note-NYTReview-11"><span>[</span>11<span>]</span></a></sup> In a negative review, <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a> of <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> felt that Shakur is "witless" when dealing with fundamental hip hop themes of persecution and accused him of "self-pity", saying that "the subtext of his persecution complex is his self-regard".<sup id="cite_ref-Christgau_21-1" class="reference"><a href="#cite_note-Christgau-21"><span>[</span>21<span>]</span></a></sup></p>
+<p>In a retrospective review, <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> editor Steve Huey dubbed the album "[Shakur's] most thematically consistent, least self-contradicting work", and stated, "it may not be his definitive album, but it just might be his best".<sup id="cite_ref-AllmusOvrvw_2-4" class="reference"><a href="#cite_note-AllmusOvrvw-2"><span>[</span>2<span>]</span></a></sup> Steve "Flash" Juon of RapReview seemed to feel differently, remarking that the album "is not only the quintessential Shakur album, but one of the most important rap albums released in the 1990s as a whole".<sup id="cite_ref-RpRvwsBTTL_10-6" class="reference"><a href="#cite_note-RpRvwsBTTL-10"><span>[</span>10<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Accolades">Accolades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit&amp;section=6" title="Edit section: Accolades">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the <a href="/wiki/38th_Grammy_Awards" title="38th Grammy Awards" class="mw-redirect">38th Grammy Awards</a>, in 1996, <i>Me Against the World</i> was nominated for <a href="/wiki/Grammy_Award_for_Best_Rap_Album" title="Grammy Award for Best Rap Album">Best Rap Album</a> and the single "Dear Mama" was nominated for <a href="/wiki/Grammy_Award_for_Best_Rap_Solo_Performance" title="Grammy Award for Best Rap Solo Performance">Best Rap Solo Performance</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup> In 2008, the <a href="/wiki/National_Association_of_Recording_Merchandisers" title="National Association of Recording Merchandisers" class="mw-redirect">National Association of Recording Merchandisers</a>, in conjunction with the <a href="/wiki/Rock_and_Roll_Hall_of_Fame" title="Rock and Roll Hall of Fame">Rock and Roll Hall of Fame</a>, recognized <i>Me Against the World</i> as one of the "most influential and popular albums", ranking it number 170 on a list of 200 other albums by artists of various musical genres.<sup id="cite_ref-RH200_28-0" class="reference"><a href="#cite_note-RH200-28"><span>[</span>28<span>]</span></a></sup></p>
+<p><small>&#160;•  The information regarding accolades is adapted from Acclaimedmusic.net,</small><sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup> <small>except for lists that are sourced otherwise.</small><br />
+<small>&#160;•  (*) signifies unordered lists</small></p>
+<table class="wikitable">
+<tr>
+<th>Publication</th>
+<th>Country</th>
+<th>Accolade</th>
+<th>Year</th>
+<th style="text-align:center;">Rank</th>
+</tr>
+<tr>
+<td><i><a href="/wiki/New_Nation" title="New Nation">New Nation</a></i></td>
+<td><a href="/wiki/United_Kingdom" title="United Kingdom">UK</a></td>
+<td><i>Top 100 Albums by Black Artists</i></td>
+<td></td>
+<td style="text-align:center;">49</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i></td>
+<td rowspan="7"><a href="/wiki/USA" title="USA" class="mw-redirect">USA</a></td>
+<td><i>500 CDs You Must Own Before You Die</i></td>
+<td>2003</td>
+<td style="text-align:center;">*</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Ego_Trip_(magazine)" title="Ego Trip (magazine)" class="mw-redirect">Ego Trip</a></i></td>
+<td><i>Hip Hop's 25 Greatest Albums by Year 1980–98</i></td>
+<td>1999</td>
+<td style="text-align:center;">7</td>
+</tr>
+<tr>
+<td><i>Nude as the News</i></td>
+<td><i>The 100 Most Compelling Albums of the 90s</i></td>
+<td>1999</td>
+<td style="text-align:center;">47</td>
+</tr>
+<tr>
+<td><i>Pause &amp; Play</i></td>
+<td><i>Albums Inducted into a Time Capsule, One Album per Week</i></td>
+<td></td>
+<td style="text-align:center;">*</td>
+</tr>
+<tr>
+<td>Robert Dimery</td>
+<td><i>1001 Albums You Must Hear Before You Die</i></td>
+<td>2005</td>
+<td style="text-align:center;">*</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i></td>
+<td><i>The 100 Best Rap Albums of All Time</i></td>
+<td>1998</td>
+<td style="text-align:center;">*</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/About.com" title="About.com">About.com</a></i></td>
+<td><i>The Greatest Hip-Hop Albums of All Time</i><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></td>
+<td></td>
+<td style="text-align:center;">12</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit&amp;section=7" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The album debuted at the number one spot on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart with 240,000 copies sold in the first week, and became certified double platinum by the end of the year.<sup id="cite_ref-BllbrdAlbms_31-0" class="reference"><a href="#cite_note-BllbrdAlbms-31"><span>[</span>31<span>]</span></a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup> Likewise, it also debuted at number one on the <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a> chart, thus giving 2Pac the first number one album on both R&amp;B and Pop charts.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup> While Shakur was in prison, the album over-took <a href="/wiki/Bruce_Springsteen" title="Bruce Springsteen">Bruce Springsteen</a>'s <i><a href="/wiki/Greatest_Hits_(Bruce_Springsteen_album)" title="Greatest Hits (Bruce Springsteen album)">Greatest Hits</a></i> as the best-selling album in the United States, a feat which he took pride in.<sup id="cite_ref-TRBook-166_9-2" class="reference"><a href="#cite_note-TRBook-166-9"><span>[</span>9<span>]</span></a></sup> Shakur became the first artist to have a number one album while serving a prison sentence.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2012)">citation needed</span></a></i>]</sup> As of 2013, the album has been certified gold in the UK.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit&amp;section=8" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>All lyrics by Tupac.</p>
+<table class="wikitable">
+<tr>
+<th>#</th>
+<th>Title</th>
+<th>Time</th>
+<th>Producer(s)</th>
+<th>Performer(s)</th>
+<th>Sample(s)</th>
+</tr>
+<tr>
+<td>1</td>
+<td>"Intro"</td>
+<td>1:40</td>
+<td><a href="/wiki/Tony_Pizarro" title="Tony Pizarro">Tony Pizarro</a></td>
+<td>Sarah Diamond, Debby Hambrick, Jay Jensen, Jill Jones, Dan O'Leary</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>"If I Die 2Nite"</td>
+<td>4:01</td>
+<td><a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Easy Mo Bee</a></td>
+<td><a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a></td>
+<td>
+<ul>
+<li>"Tonight is the Night" - Betty Wright</li>
+<li>"Deep Cover" - Dr. Dre ft. Snoop Doggy Dogg</li>
+<li>"Tonight" - Kleeer</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>"Me Against the World"</td>
+<td>4:40</td>
+<td><a href="/wiki/Soulshock_%26_Karlin" title="Soulshock &amp; Karlin" class="mw-redirect">Soulshock &amp; Karlin</a></td>
+<td>Shakur, <a href="/wiki/Outlawz" title="Outlawz">Dramacydal</a>, Puff Johnson</td>
+<td>
+<ul>
+<li>"Walk on By" - Isaac Hayes</li>
+<li>"Inside my Love" - Minnie Riperton</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>"<a href="/wiki/So_Many_Tears" title="So Many Tears">So Many Tears</a>"</td>
+<td>3:59</td>
+<td>Shock G</td>
+<td>Shakur, <a href="/wiki/Shock_G" title="Shock G">Shock G</a>, <a href="/wiki/Stretch" title="Stretch">Stretch</a></td>
+<td>
+<ul>
+<li>"That Girl" - Stevie Wonder</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>"<a href="/wiki/Temptations_(song)" title="Temptations (song)">Temptations</a>"</td>
+<td>5:00</td>
+<td>Easy Mo Bee</td>
+<td>Shakur</td>
+<td>
+<ul>
+<li>"Computer Love" - Zapp</li>
+<li>"Watch Yo Nuggets" - Redman ft. Eric Sermon</li>
+<li>"Sing a Simple Song" - Sly &amp; the Family Stone</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>6</td>
+<td>"Young Niggaz"</td>
+<td>4:53</td>
+<td>Le-morrious "Funky Drummer" Tyler, Moe Z.M.D.</td>
+<td>Shakur, Keilla, Moe ZMD</td>
+<td>
+<ul>
+<li>"She's Strange" - Cameo</li>
+<li>"Sing a Simple Song" - Sly &amp; the Family Stone</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>7</td>
+<td>"Heavy in the Game"</td>
+<td>4:23</td>
+<td>Sam Bostic, Mike Mosley</td>
+<td>Shakur, Lady Levi, <a href="/wiki/Richie_Rich_(rapper)" title="Richie Rich (rapper)">Richie Rich</a>, Ebony Foster</td>
+<td>
+<ul>
+<li>Contains an interpolation of "Just Be Good to Me" - S.O.S Band</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>8</td>
+<td>"Lord Knows"</td>
+<td>4:31</td>
+<td>Brian G</td>
+<td>Shakur, Natasha Walker, G-Money, Kim Armstrong, Keilla, Kenyatta</td>
+<td>
+<ul>
+<li>"All I Ask" - Blackbyrds</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>9</td>
+<td>"<a href="/wiki/Dear_Mama" title="Dear Mama">Dear Mama</a>"</td>
+<td>4:40</td>
+<td>Tony Pizarro</td>
+<td>Shakur, Sweet Franklin, Reggie Green</td>
+<td>
+<ul>
+<li>"Sadie" - Spinners</li>
+<li>"In My Wildest Dreams" - Joe Sample</li>
+<li>Has an interpolation of 2Pac - "<a href="/wiki/Runnin%27_From_tha_Police" title="Runnin' From tha Police" class="mw-redirect">Runnin' From tha Police</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>10</td>
+<td>"It Ain't Easy"</td>
+<td>4:53</td>
+<td>Tony Pizarro</td>
+<td>Shakur</td>
+<td>
+<ul>
+<li>"Float On" - The Floaters</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>11</td>
+<td>"Can U Get Away"</td>
+<td>5:45</td>
+<td>Mike Mosley</td>
+<td>Shakur, Anya Pinto</td>
+<td>
+<ul>
+<li>"Happy Feelin's" - Maze ft. Frank Beverly</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>12</td>
+<td>"Old School"</td>
+<td>4:40</td>
+<td>Soulshock</td>
+<td>Shakur</td>
+<td>
+<ul>
+<li>"We Share" - Soul Searchers</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>13</td>
+<td>"Fuck the World"</td>
+<td>4:13</td>
+<td><a href="/wiki/Shock_G" title="Shock G">Shock G</a></td>
+<td>Shakur, Shock G</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>"Death Around the Corner"</td>
+<td>4:07</td>
+<td><a href="/wiki/Johnny_%22J%22" title="Johnny &quot;J&quot;">Johnny "J"</a></td>
+<td>Shakur</td>
+<td>
+<ul>
+<li>"Winter Sadness" - Kool &amp; the Gang</li>
+<li>Contains excerpts from "American Me" and "The Untouchables"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>15</td>
+<td>"Outlaw"</td>
+<td>4:32</td>
+<td>Moe Z.M.D.</td>
+<td>Shakur, Dramacydal, Rah-Rah</td>
+<td>
+<ul>
+<li>Interpolation of "Murder Was the Case (DeathAfterVisualizingEternity)" - Snoop Doggy Dogg ft. Dat Nigga Daz</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Chart_history">Chart history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit&amp;section=9" title="Edit section: Chart history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit&amp;section=10" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<dl>
+<dt>Album</dt>
+</dl>
+<table class="wikitable">
+<tr>
+<th>Chart (1995)</th>
+<th style="text-align:center;">Peak<br />
+position</th>
+</tr>
+<tr>
+<td>Deutsch Albums Chart<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup></td>
+<td style="text-align:center;">23</td>
+</tr>
+<tr>
+<td>Swedish Albums Chart<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></td>
+<td style="text-align:center;">40</td>
+</tr>
+<tr>
+<td>U.S. <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-BllbrdAlbms_31-1" class="reference"><a href="#cite_note-BllbrdAlbms-31"><span>[</span>31<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td>U.S. <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a><sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+</table>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<dl>
+<dt>Singles</dt>
+</dl>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2">Single</th>
+<th colspan="11">Peak positions<small><sup id="cite_ref-BllbrdSnglsAllmsc_18-3" class="reference"><a href="#cite_note-BllbrdSnglsAllmsc-18"><span>[</span>18<span>]</span></a></sup></small></th>
+</tr>
+<tr>
+<th style="width:6em;font-size:90%;line-height:1.3">U.S. <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a></th>
+<th style="width:6em;font-size:90%;line-height:1.3">U.S. <a href="/wiki/Hot_Dance_Singles_Sales" title="Hot Dance Singles Sales" class="mw-redirect">Hot Dance Music/Maxi-Singles Sales</a></th>
+<th style="width:6em;font-size:90%;line-height:1.3">U.S. <a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a></th>
+<th style="width:6em;font-size:90%;line-height:1.3">U.S. <a href="/wiki/Hot_Rap_Tracks" title="Hot Rap Tracks" class="mw-redirect">Hot Rap Singles</a></th>
+<th style="width:6em;font-size:90%;line-height:1.3">U.S. <a href="/wiki/Rhythmic_contemporary" title="Rhythmic contemporary">Rhythmic Top 40</a></th>
+</tr>
+<tr>
+<td rowspan="3">1995</td>
+<td>"<a href="/wiki/Dear_Mama" title="Dear Mama">Dear Mama</a>"</td>
+<td style="text-align:center;">9</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">16</td>
+</tr>
+<tr>
+<td>"<a href="/wiki/So_Many_Tears" title="So Many Tears">So Many Tears</a>"</td>
+<td style="text-align:center;">44</td>
+<td style="text-align:center;">41</td>
+<td style="text-align:center;">21</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<td>"<a href="/wiki/Temptations_(song)" title="Temptations (song)">Temptations</a>"</td>
+<td style="text-align:center;">68</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">35</td>
+<td style="text-align:center;">13</td>
+<td style="text-align:center;">—</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Greatest_Hits_(Bruce_Springsteen_album)" title="Greatest Hits (Bruce Springsteen album)">Greatest Hits</a></i> by <a href="/wiki/Bruce_Springsteen" title="Bruce Springsteen">Bruce Springsteen</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/List_of_Billboard_200_number-one_albums_of_1995" title="List of Billboard 200 number-one albums of 1995">number-one album</a></b><br />
+April 1–28, 1995</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/The_Lion_King_(soundtrack)" title="The Lion King (soundtrack)"><i>The Lion King</i> soundtrack</a> by Various artists</span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit&amp;section=11" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Credits for <i>Me Against the World</i> adapted from <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a><sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup> and from the album liner notes.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup></p>
+<ul>
+<li>Art Director: Eric Altenburger</li>
+<li>Co-Producers: DF Master Tee, Ezi Cut, Jay-B, Moses, Jill Rose</li>
+<li>Designer: Eric Altenburger</li>
+<li>Engineers: Paul Arnold, Kevin "KD" Davis, Jay Lean, Eric Lynch, Bob Morris, Tim Nitz, Tony Pizarro, Mike Schlesinger</li>
+<li>Guitar: Ronnie Vann</li>
+<li>Mixing Engineers: Paul Arnold, Kevin "KD" Davis, Jeff Griffin, Jay Lean, Tony Pizarro, SoulShock</li>
+<li>Performers: Dramacydal, Richie Rich</li>
+<li>Producers: Easy Mo Bee, Sam Bostic, D-Flizno Production Squad, Brian G, Shock G, Johnny "J", Karlin, Mike Mosley, Tony Pizarro, SoulShock, Le-morrious "Funky Drummer" Tyler, Moe Z.M.D.</li>
+<li>Vocals: Tupac Shakur, Kim Armstrong, <a href="/wiki/Eboni_Foster" title="Eboni Foster" class="mw-redirect">Eboni Foster</a>, Reggie Green, Puff Johnson, Jill Rose, Richard Serrell, Natasha Walker</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em;">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px;">
+<tr valign="middle">
+<td style="text-align:center;"><a href="/wiki/File:Loudspeaker-crystal-theme.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Loudspeaker-crystal-theme.svg/28px-Loudspeaker-crystal-theme.svg.png" width="28" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Loudspeaker-crystal-theme.svg/42px-Loudspeaker-crystal-theme.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Loudspeaker-crystal-theme.svg/56px-Loudspeaker-crystal-theme.svg.png 2x" data-file-width="128" data-file-height="128" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="/wiki/Portal:Hip_hop" title="Portal:Hip hop">Hip hop portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/List_of_number-one_albums_of_1995_(U.S.)" title="List of number-one albums of 1995 (U.S.)" class="mw-redirect">List of number-one albums of 1995 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1995_(U.S.)" title="List of number-one R&amp;B albums of 1995 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1995 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Footnotes</dt>
+</dl>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation book">Talevski, Nick (2006). <i>Rock Obituaries - Knocking On Heaven's Door</i>. <a href="/wiki/Music_Sales_Group" title="Music Sales Group">Omnibus Press</a>. p.&#160;187. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-8460-9091-2" title="Special:BookSources/978-1-8460-9091-2">978-1-8460-9091-2</a>. "Nicknamed Kadafi, rapper Yafeu Fula (...) appeared on the massive-selling gangsta-rap albums, Me Against The World and All Eyez On Me."</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.aufirst=Nick&amp;rft.aulast=Talevski&amp;rft.au=Talevski%2C+Nick&amp;rft.btitle=Rock+Obituaries+-+Knocking+On+Heaven%27s+Door&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-1-8460-9091-2&amp;rft.pages=187&amp;rft.pub=Omnibus+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AllmusOvrvw-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-AllmusOvrvw_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AllmusOvrvw_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AllmusOvrvw_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-AllmusOvrvw_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-AllmusOvrvw_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Huey, Steve. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r209232">"Me Against the World Overview at Allmusic"</a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a><span class="reference-accessdate">. Retrieved 2009-03-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.aufirst=Steve&amp;rft.au=Huey%2C+Steve&amp;rft.aulast=Huey&amp;rft.btitle=Me+Against+the+World+Overview+at+Allmusic&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr209232&amp;rft.pub=Allmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://atlantapost.com/2010/09/16/tupacs-album-sales-and-his-persisting-legacy56988/">"Remebering Tupac: His Musical Legacy and His Top Selling Albums"</a>. The Atlanta Post. September 17, 2010<span class="reference-accessdate">. Retrieved 2011-08-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=Remebering+Tupac%3A+His+Musical+Legacy+and+His+Top+Selling+Albums&amp;rft.date=September+17%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fatlantapost.com%2F2010%2F09%2F16%2Ftupacs-album-sales-and-his-persisting-legacy56988%2F&amp;rft.pub=The+Atlanta+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">See <a href="/wiki/1996_Soul_Train_Music_Awards#Best_Rap_Album" title="1996 Soul Train Music Awards">1996 Soul Train Music Awards#Best Rap Album</a>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2011/09/tupac-month-2pacs-discography/#2">"Tupac Month: 2Pac’s Discography"</a><span class="reference-accessdate">. Retrieved May 27, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=Tupac+Month%3A+2Pac%E2%80%99s+Discography&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2011%2F09%2Ftupac-month-2pacs-discography%2F%232&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2PacRIAAStats-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-2PacRIAAStats_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2PacRIAAStats_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=&amp;artist=2%20Pac&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2009&amp;sort=Artist&amp;perPage=25">"RIAA - Gold &amp; Platinum - May 13, 2009&#160;: Search Results - 2 Pac"</a>. <i><a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a></i><span class="reference-accessdate">. Retrieved 2009-05-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=RIAA+-+Gold+%26+Platinum+-+May+13%2C+2009+%3A+Search+Results+-+2+Pac&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Fresultpage%3D1%26table%3DSEARCH_RESULTS%26action%3D%26title%3D%26artist%3D2%2520Pac%26format%3D%26debutLP%3D%26category%3D%26sex%3D%26releaseDate%3D%26requestNo%3D%26type%3D%26level%3D%26label%3D%26company%3D%26certificationDate%3D%26awardDescription%3D%26catalogNo%3D%26aSex%3D%26rec_id%3D%26charField%3D%26gold%3D%26platinum%3D%26multiPlat%3D%26level2%3D%26certDate%3D%26album%3D%26id%3D%26after%3D%26before%3D%26startMonth%3D1%26endMonth%3D1%26startYear%3D1958%26endYear%3D2009%26sort%3DArtist%26perPage%3D25&amp;rft.pub=%27%27RIAA%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r168663">"allmusic ((( Strictly 4 My N.I.G.G.A.Z. &gt; Charts &amp; Awards &gt; Billboard Singles )))"</a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a><span class="reference-accessdate">. Retrieved 2009-05-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=allmusic+%28%28%28+Strictly+4+My+N.I.G.G.A.Z.+%3E+Charts+%26+Awards+%3E+Billboard+Singles+%29%29%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr168663&amp;rft.pub=Allmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p50051/biography">"allmusic ((( 2Pac &gt; Biography )))"</a>. Allmusic<span class="reference-accessdate">. Retrieved 2009-05-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=allmusic+%28%28%28+2Pac+%3E+Biography+%29%29%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Fp50051%2Fbiography&amp;rft.pub=Allmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-TRBook-166-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-TRBook-166_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TRBook-166_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-TRBook-166_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Ali, Hoye, 166.</span></li>
+<li id="cite_note-RpRvwsBTTL-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-RpRvwsBTTL_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RpRvwsBTTL_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-RpRvwsBTTL_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-RpRvwsBTTL_10-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-RpRvwsBTTL_10-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-RpRvwsBTTL_10-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-RpRvwsBTTL_10-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Juon, Steve 'Flash'. <a rel="nofollow" class="external text" href="http://www.rapreviews.com/archive/BTTL_meagainst.html">"2Pac&#160;:: Me Against the World&#160;:: Interscope"</a>. RapReviews<span class="reference-accessdate">. Retrieved 2009-03-20</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.aufirst=Steve+%27Flash%27&amp;rft.au=Juon%2C+Steve+%27Flash%27&amp;rft.aulast=Juon&amp;rft.btitle=2Pac+%3A%3A+Me+Against+the+World+%3A%3A+Interscope&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rapreviews.com%2Farchive%2FBTTL_meagainst.html&amp;rft.pub=RapReviews&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NYTReview-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYTReview_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYTReview_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NYTReview_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation news">Pareles, Jon (1995-04-09). <a rel="nofollow" class="external text" href="http://www.nytimes.com/1995/04/09/arts/recordings-view-confessions-of-a-rapper-who-done-wrong.html?scp=1&amp;sq=Me%20Against%20the%20World&amp;st=cse">"RECORDINGS VIEW; Confession of a Rapper Who Done Wrong - The New York Times"</a>. The New York Times<span class="reference-accessdate">. Retrieved 2009-03-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.aufirst=Jon&amp;rft.aulast=Pareles&amp;rft.au=Pareles%2C+Jon&amp;rft.btitle=RECORDINGS+VIEW%3B+Confession+of+a+Rapper+Who+Done+Wrong+-+The+New+York+Times&amp;rft.date=1995-04-09&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F1995%2F04%2F09%2Farts%2Frecordings-view-confessions-of-a-rapper-who-done-wrong.html%3Fscp%3D1%26sq%3DMe%2520Against%2520the%2520World%26st%3Dcse&amp;rft.pub=The+New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-EWReview-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-EWReview_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EWReview_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">James Bernard (1995-03-17). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,296404,00.html">"2Pac (<i>Me Against the World</i>) Review"</a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i><span class="reference-accessdate">. Retrieved 2012-10-12</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.au=James+Bernard&amp;rft.aulast=James+Bernard&amp;rft.btitle=2Pac+%28%27%27Me+Against+the+World%27%27%29+Review&amp;rft.date=1995-03-17&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C296404%2C00.html&amp;rft.pub=%27%27Entertainment+Weekly%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.discogs.com/2Pac-Me-Against-The-World/release/1383107">"2Pac - Me Against The World (Vinyl, Album) at Discogs"</a>. Discogs.com<span class="reference-accessdate">. Retrieved 2010-10-31</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=2Pac+-+Me+Against+The+World+%28Vinyl%2C+Album%29+at+Discogs&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2F2Pac-Me-Against-The-World%2Frelease%2F1383107&amp;rft.pub=Discogs.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-full_discogs-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-full_discogs_14-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.discogs.com/2Pac-Me-Against-The-World/master/84798">"2Pac - Me Against The World at Discogs"</a>. Discogs.com<span class="reference-accessdate">. Retrieved 2010-10-31</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=2Pac+-+Me+Against+The+World+at+Discogs&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2F2Pac-Me-Against-The-World%2Fmaster%2F84798&amp;rft.pub=Discogs.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation book">Guy, Jasmine (2005-02-01). <i>Afeni Shakur: Evolution of a Revolutionary</i> (Paperback). Atria. p.&#160;193. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7434-7054-0" title="Special:BookSources/0-7434-7054-0">0-7434-7054-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.aufirst=Jasmine&amp;rft.au=Guy%2C+Jasmine&amp;rft.aulast=Guy&amp;rft.btitle=Afeni+Shakur%3A+Evolution+of+a+Revolutionary&amp;rft.date=2005-02-01&amp;rft.genre=book&amp;rft.isbn=0-7434-7054-0&amp;rft.pages=193&amp;rft.pub=Atria&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ohhla.com/anonymous/2_pac/matworld/dearmama.2pc.txt">"<span style="padding-left:0.2em;">"</span>Me Against the World" lyrics at OHHLA.com"</a>. OHHLA.com<span class="reference-accessdate">. Retrieved 2009-03-20</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=%22Me+Against+the+World%22+lyrics+at+OHHLA.com&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ohhla.com%2Fanonymous%2F2_pac%2Fmatworld%2Fdearmama.2pc.txt&amp;rft.pub=OHHLA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r225253">"Dear Mama (US Single #1) at Allmusic"</a>. Allmusic<span class="reference-accessdate">. Retrieved 2009-03-20</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=Dear+Mama+%28US+Single+%231%29+at+Allmusic&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr225253&amp;rft.pub=Allmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BllbrdSnglsAllmsc-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-BllbrdSnglsAllmsc_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BllbrdSnglsAllmsc_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BllbrdSnglsAllmsc_18-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BllbrdSnglsAllmsc_18-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/me-against-the-world-r209232/charts-awards/billboard-single">"Me Against the World - 2Pac"</a>. AllMusic. 1995-03-14<span class="reference-accessdate">. Retrieved 2010-11-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=Me+Against+the+World+-+2Pac&amp;rft.date=1995-03-14&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fme-against-the-world-r209232%2Fcharts-awards%2Fbillboard-single&amp;rft.pub=AllMusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r225255">"So Many Tears (EP) at Allmusic"</a>. Allmusic<span class="reference-accessdate">. Retrieved 2009-03-22</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=So+Many+Tears+%28EP%29+at+Allmusic&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr225255&amp;rft.pub=Allmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r335055">"Temptations (CD/Cassette Single) at Allmusic"</a>. Allmusic<span class="reference-accessdate">. Retrieved 2009-03-22</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=Temptations+%28CD%2FCassette+Single%29+at+Allmusic&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr335055&amp;rft.pub=Allmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Christgau-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Christgau_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Christgau_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Christgau, Robert</a> (June 6, 1995). <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/cg/cgv595-95.php">"Consumer Guide"</a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> (New York)<span class="reference-accessdate">. Retrieved April 18, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.atitle=Consumer+Guide&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.date=June+6%2C+1995&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fxg%2Fcg%2Fcgv595-95.php&amp;rft.jtitle=The+Village+Voice&amp;rft.place=New+York&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RSReview-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-RSReview_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RSReview_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Coker, Cheo H. (1995-03-10). <a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/albumreviews/me-against-the-world-19980202">"2Pac: Me Against The World"</a>. Rolling Stone. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20071223111616/http://www.rollingstone.com/artists/tupacshakur/albums/album/219703/review/6067996/me_against_the_world">Archived</a> from the original on 2007-12-23<span class="reference-accessdate">. Retrieved 2008-02-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.au=Coker%2C+Cheo+H.&amp;rft.aufirst=Cheo+H.&amp;rft.aulast=Coker&amp;rft.btitle=2Pac%3A+Me+Against+The+World&amp;rft.date=1995-03-10&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Falbumreviews%2Fme-against-the-world-19980202&amp;rft.pub=Rolling+Stone&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RSguide-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-RSguide_23-0">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Greg_Tate" title="Greg Tate">Tate, Greg</a> et al. (November 2, 2004). <a href="/wiki/Nathan_Brackett" title="Nathan Brackett">Brackett, Nathan</a>; Hoard, Christian, eds. <a rel="nofollow" class="external text" href="http://books.google.com/books?id=t9eocwUfoSoC&amp;pg=PA830#v=onepage&amp;q&amp;f=false"><i>The New Rolling Stone Album Guide</i></a> (4th ed.). <a href="/wiki/Simon_%26_Schuster" title="Simon &amp; Schuster">Simon &amp; Schuster</a>. pp.&#160;830–832. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0743201698" title="Special:BookSources/0743201698">0743201698</a><span class="reference-accessdate">. Retrieved December 17, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.aulast=Tate%2C+Greg+et+al.&amp;rft.au=Tate%2C+Greg+et+al.&amp;rft.btitle=The+New+Rolling+Stone+Album+Guide&amp;rft.date=November+2%2C+2004&amp;rft.edition=4th&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dt9eocwUfoSoC%26pg%3DPA830%23v%3Donepage%26q%26f%3Dfalse&amp;rft.isbn=0743201698&amp;rft.pages=830-832&amp;rft.pub=Simon+%26+Schuster&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation journal"><i>The Source</i>: 79. April 1995.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.date=April+1995&amp;rft.genre=article&amp;rft.jtitle=The+Source&amp;rft.pages=79&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Kazeem (August 4, 2010). "<a rel="nofollow" class="external text" href="http://www.webcitation.org/5vCiRXG4F">The Complete List Of 5 Mic Hip-Hop Classics</a>". <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i>. Retrieved on 2010-12-23.</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation news">Strauss, Neil (January 5, 1996). <a rel="nofollow" class="external text" href="http://select.nytimes.com/gst/abstract.html?res=F10F1EFB395D0C768CDDA80894DE494D81">"New Faces in Grammy Nominations"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> (<a href="/wiki/The_New_York_Times_Company" title="The New York Times Company">The New York Times Company</a>)<span class="reference-accessdate">. Retrieved October 22, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.atitle=New+Faces+in+Grammy+Nominations&amp;rft.aufirst=Neil&amp;rft.aulast=Strauss&amp;rft.au=Strauss%2C+Neil&amp;rft.date=January+5%2C+1996&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fselect.nytimes.com%2Fgst%2Fabstract.html%3Fres%3DF10F1EFB395D0C768CDDA80894DE494D81&amp;rft.jtitle=The+New+York+Times&amp;rft.pub=The+New+York+Times+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rockonthenet.com/grammy/rapperf.htm">"Grammy Awards: Best Rap Solo Performance"</a>. Rock On The Net<span class="reference-accessdate">. Retrieved 2010-11-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=Grammy+Awards%3A+Best+Rap+Solo+Performance&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rockonthenet.com%2Fgrammy%2Frapperf.htm&amp;rft.pub=Rock+On+The+Net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RH200-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-RH200_28-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20080802040323re_/www.rockhall.com/pressroom/definitive-200/">"Rock and Roll Hall of Fame - Definitive 200"</a>. <i><a href="/wiki/Rock_and_Roll_Hall_of_Fame" title="Rock and Roll Hall of Fame">RockHall.com</a></i><span class="reference-accessdate">. Retrieved 2009-03-20</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=Rock+and+Roll+Hall+of+Fame+-+Definitive+200&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20080802040323re_%2Fwww.rockhall.com%2Fpressroom%2Fdefinitive-200%2F&amp;rft.pub=%27%27RockHall.com%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.acclaimedmusic.net/Current/A1612.htm">"Me Against the World at AcclaimedMusic.net"</a>. Acclaimed Music<span class="reference-accessdate">. Retrieved 2009-03-22</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=Me+Against+the+World+at+AcclaimedMusic.net&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.acclaimedmusic.net%2FCurrent%2FA1612.htm&amp;rft.pub=Acclaimed+Music&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation web">Adaso, Henry. <a rel="nofollow" class="external text" href="http://rap.about.com/od/toppicks/ss/Top100RapAlbums_9.htm">"The Greatest Hip-Hop Albums of All Time"</a>. About.com<span class="reference-accessdate">. Retrieved 2010-11-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.au=Adaso%2C+Henry&amp;rft.aulast=Adaso%2C+Henry&amp;rft.btitle=The+Greatest+Hip-Hop+Albums+of+All+Time&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Frap.about.com%2Fod%2Ftoppicks%2Fss%2FTop100RapAlbums_9.htm&amp;rft.pub=About.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BllbrdAlbms-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-BllbrdAlbms_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BllbrdAlbms_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/431886/2pac/chart">"Me Against the World - 2Pac"</a>. <i>Billboard</i>. Retrieved 2010-11-02.</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=Me%20Against%20the%20World&amp;artist=2%20Pac&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2009&amp;sort=Artist&amp;perPage=25">"RIAA - Gold &amp; Platinum - May 13, 2009 - Search Results - Me Against the World"</a>. RIAA<span class="reference-accessdate">. Retrieved 2009-03-15</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=RIAA+-+Gold+%26+Platinum+-+May+13%2C+2009+-+Search+Results+-+Me+Against+the+World&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Fresultpage%3D1%26table%3DSEARCH_RESULTS%26action%3D%26title%3DMe%2520Against%2520the%2520World%26artist%3D2%2520Pac%26format%3D%26debutLP%3D%26category%3D%26sex%3D%26releaseDate%3D%26requestNo%3D%26type%3D%26level%3D%26label%3D%26company%3D%26certificationDate%3D%26awardDescription%3D%26catalogNo%3D%26aSex%3D%26rec_id%3D%26charField%3D%26gold%3D%26platinum%3D%26multiPlat%3D%26level2%3D%26certDate%3D%26album%3D%26id%3D%26after%3D%26before%3D%26startMonth%3D1%26endMonth%3D1%26startYear%3D1958%26endYear%3D2009%26sort%3DArtist%26perPage%3D25&amp;rft.pub=RIAA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/charts/1995-04-01/r-b-hip-hop-albums">http://www.billboard.com/charts/1995-04-01/r-b-hip-hop-albums</a></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.bpi.co.uk/certified-awards.aspx">http://www.bpi.co.uk/certified-awards.aspx</a></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://musicline.de/de/chartverfolgung_summary/title/2Pac/Me+Against+The+World/longplay">"musicline.de - 2 Pac - Me Against The World"</a>. musicline.de<span class="reference-accessdate">. Retrieved 2009-05-30</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=musicline.de+-+2+Pac+-+Me+Against+The+World&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmusicline.de%2Fde%2Fchartverfolgung_summary%2Ftitle%2F2Pac%2FMe%2BAgainst%2BThe%2BWorld%2Flongplay&amp;rft.pub=musicline.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://swedishcharts.com/showitem.asp?interpret=2+Pac&amp;titel=Me+Against+The+World&amp;cat=a">"swedishcharts.com - 2 Pac - Me Against The World"</a>. SwedishCharts.com<span class="reference-accessdate">. Retrieved 2009-05-30</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=swedishcharts.com+-+2+Pac+-+Me+Against+The+World&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fswedishcharts.com%2Fshowitem.asp%3Finterpret%3D2%2BPac%26titel%3DMe%2BAgainst%2BThe%2BWorld%26cat%3Da&amp;rft.pub=SwedishCharts.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/me-against-the-world-r209232/charts-awards/billboard-album">"Me Against the World - 2Pac"</a>. AllMusic. 1995-03-14<span class="reference-accessdate">. Retrieved 2010-11-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=Me+Against+the+World+-+2Pac&amp;rft.date=1995-03-14&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fme-against-the-world-r209232%2Fcharts-awards%2Fbillboard-album&amp;rft.pub=AllMusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r209232/credits">"Me Against the World: Credits at Allmusic"</a>. Allmusic<span class="reference-accessdate">. Retrieved 2009-01-23</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=Me+Against+the+World%3A+Credits+at+Allmusic&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr209232%2Fcredits&amp;rft.pub=Allmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation AV media notes"><i>Me Against the World</i> (CD). 2Pac. Amaru/Jive/Interscope/Atlantic. 1995.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMe+Against+the+World&amp;rft.btitle=Me+Against+the+World&amp;rft.date=1995&amp;rft.genre=book&amp;rft.pub=Amaru%2FJive%2FInterscope%2FAtlantic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<dl>
+<dt>Bibliography</dt>
+</dl>
+<div class="refbegin" style="">
+<ul>
+<li>Ali, Karolyn; Hoye, Jacob. <i>Tupac: Resurrection 1971 - 1996.</i> New York: <a href="/wiki/Simon_%26_Schuster" title="Simon &amp; Schuster">Atria Books</a>, 2003. <a href="/wiki/Special:BookSources/0743474341" class="internal mw-magiclink-isbn">ISBN 0-7434-7434-1</a>.</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r209232"><i>Me Against the World</i></a> at <a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Tupac_Shakur" title="Template:Tupac Shakur"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Tupac_Shakur" title="Template talk:Tupac Shakur"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Tupac_Shakur&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Tupac_Shakur_discography#Studio_albums" title="Tupac Shakur discography">Studio albums</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/2Pacalypse_Now" title="2Pacalypse Now">2Pacalypse Now</a></i></li>
+<li><i><a href="/wiki/Strictly_4_My_N.I.G.G.A.Z." title="Strictly 4 My N.I.G.G.A.Z." class="mw-redirect">Strictly 4 My N.I.G.G.A.Z.</a></i></li>
+<li><i><a href="/wiki/Thug_Life:_Volume_1" title="Thug Life: Volume 1">Thug Life: Volume 1</a></i></li>
+<li><i><strong class="selflink">Me Against the World</strong></i></li>
+<li><i><a href="/wiki/All_Eyez_on_Me" title="All Eyez on Me">All Eyez on Me</a></i></li>
+<li><i><a href="/wiki/The_Don_Killuminati:_The_7_Day_Theory" title="The Don Killuminati: The 7 Day Theory">The Don Killuminati: The 7 Day Theory</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Posthumous albums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me)">R U Still Down? (Remember Me)</a></i></li>
+<li><i><a href="/wiki/Still_I_Rise_(album)" title="Still I Rise (album)">Still I Rise</a></i></li>
+<li><i><a href="/wiki/Until_the_End_of_Time_(Tupac_Shakur_album)" title="Until the End of Time (Tupac Shakur album)">Until the End of Time</a></i></li>
+<li><i><a href="/wiki/Better_Dayz" title="Better Dayz">Better Dayz</a></i></li>
+<li><i><a href="/wiki/Loyal_to_the_Game" title="Loyal to the Game">Loyal to the Game</a></i></li>
+<li><i><a href="/wiki/Pac%27s_Life" title="Pac's Life">Pac's Life</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Tupac_Shakur_discography#Live_albums" title="Tupac Shakur discography">Live albums</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/2Pac_Live" title="2Pac Live">2Pac Live</a></i></li>
+<li><i><a href="/wiki/Live_at_the_House_of_Blues_(Tupac_Shakur_album)" title="Live at the House of Blues (Tupac Shakur album)">Live at the House of Blues</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Tupac_Shakur_discography#Compilation_albums" title="Tupac Shakur discography">Compilation albums</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Greatest_Hits_(Tupac_Shakur_album)" title="Greatest Hits (Tupac Shakur album)">Greatest Hits</a></i></li>
+<li><i><a href="/wiki/The_Rose_That_Grew_from_Concrete" title="The Rose That Grew from Concrete">The Rose That Grew from Concrete</a></i></li>
+<li><i><a href="/wiki/The_Prophet:_The_Best_of_the_Works" title="The Prophet: The Best of the Works">The Prophet: The Best of the Works</a></i></li>
+<li><i><a href="/wiki/Nu-Mixx_Klazzics" title="Nu-Mixx Klazzics">Nu-Mixx Klazzics</a></i></li>
+<li><i><a href="/wiki/Tupac:_Resurrection_(soundtrack)" title="Tupac: Resurrection (soundtrack)">Tupac: Resurrection</a></i></li>
+<li><i><a href="/wiki/The_Rose,_Vol._2" title="The Rose, Vol. 2">The Rose, Vol. 2</a></i></li>
+<li><i><a href="/wiki/The_Prophet_Returns" title="The Prophet Returns">The Prophet Returns</a></i></li>
+<li><i><a href="/wiki/Beginnings:_The_Lost_Tapes_1988%E2%80%931991" title="Beginnings: The Lost Tapes 1988–1991">Beginnings: The Lost Tapes 1988–1991</a></i></li>
+<li><i><a href="/wiki/Nu-Mixx_Klazzics_Vol._2" title="Nu-Mixx Klazzics Vol. 2">Nu-Mixx Klazzics Vol. 2</a></i></li>
+<li><i><a href="/wiki/Best_of_2Pac" title="Best of 2Pac">Best of 2Pac</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Nothing_but_Trouble_(soundtrack)" title="Nothing but Trouble (soundtrack)"><i>Nothing But Trouble</i> (soundtrack)</a></li>
+<li><a href="/wiki/Juice_(soundtrack)" title="Juice (soundtrack)"><i>Juice</i> (soundtrack)</a></li>
+<li><a href="/wiki/Poetic_Justice_(soundtrack)" title="Poetic Justice (soundtrack)"><i>Poetic Justice</i> (soundtrack)</a></li>
+<li><a href="/wiki/Above_the_Rim_(soundtrack)" title="Above the Rim (soundtrack)"><i>Above the Rim</i> (soundtrack)</a></li>
+<li><a href="/wiki/Gridlock%27d_(soundtrack)" title="Gridlock'd (soundtrack)"><i>Gridlock'd</i> (soundtrack)</a></li>
+<li><a href="/wiki/Gang_Related_(soundtrack)" title="Gang Related (soundtrack)"><i>Gang Related</i> (soundtrack)</a></li>
+<li><i><a href="/wiki/A_2Pac_Tribute:_Dare_2_Struggle" title="A 2Pac Tribute: Dare 2 Struggle">A 2Pac Tribute: Dare 2 Struggle</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Extended plays</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Makaveli_%26_Dillinger_Don%27t_Go_2_Sleep" title="Makaveli &amp; Dillinger Don't Go 2 Sleep">Makaveli &amp; Dillinger Don't Go 2 Sleep</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Tupac_Shakur_discography#Singles" title="Tupac Shakur discography">Singles</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Brenda%27s_Got_a_Baby" title="Brenda's Got a Baby">Brenda's Got a Baby</a>"</li>
+<li>"<a href="/wiki/If_My_Homie_Calls" title="If My Homie Calls">If My Homie Calls</a>"</li>
+<li>"<a href="/wiki/Trapped_(Tupac_Shakur_song)" title="Trapped (Tupac Shakur song)">Trapped</a>"</li>
+<li>"<a href="/wiki/Holler_If_Ya_Hear_Me" title="Holler If Ya Hear Me">Holler If Ya Hear Me</a>"</li>
+<li>"<a href="/wiki/I_Get_Around_(Tupac_Shakur_song)" title="I Get Around (Tupac Shakur song)">I Get Around</a>"</li>
+<li>"<a href="/wiki/Keep_Ya_Head_Up" title="Keep Ya Head Up">Keep Ya Head Up</a>"</li>
+<li>"<a href="/wiki/Papa%27z_Song" title="Papa'z Song">Papa'z Song</a>"</li>
+<li>"<a href="/wiki/Cradle_to_the_Grave" title="Cradle to the Grave">Cradle to the Grave</a>"</li>
+<li>"<a href="/wiki/Dear_Mama" title="Dear Mama">Dear Mama</a>"</li>
+<li>"<a href="/wiki/So_Many_Tears" title="So Many Tears">So Many Tears</a>"</li>
+<li>"<a href="/wiki/Temptations_(song)" title="Temptations (song)">Temptations</a>"</li>
+<li>"<a href="/wiki/California_Love" title="California Love">California Love</a>"</li>
+<li>"<a href="/wiki/2_of_Amerikaz_Most_Wanted" title="2 of Amerikaz Most Wanted">2 of Amerikaz Most Wanted</a>"</li>
+<li>"<a href="/wiki/How_Do_U_Want_It" title="How Do U Want It">How Do U Want It</a>"</li>
+<li>"<a href="/wiki/All_Bout_U_(2Pac_Song)" title="All Bout U (2Pac Song)" class="mw-redirect">All Bout U</a>"</li>
+<li>"<a href="/wiki/I_Ain%27t_Mad_at_Cha" title="I Ain't Mad at Cha">I Ain't Mad at Cha</a>"</li>
+<li>"<a href="/wiki/Life_Goes_On_(Tupac_Shakur_song)" title="Life Goes On (Tupac Shakur song)" class="mw-redirect">Life Goes On</a>"</li>
+<li>"<a href="/wiki/Toss_It_Up" title="Toss It Up">Toss It Up</a>"</li>
+<li>"<a href="/wiki/To_Live_%26_Die_in_L.A._(song)" title="To Live &amp; Die in L.A. (song)">To Live &amp; Die in LA</a>"</li>
+<li>"<a href="/wiki/Hail_Mary_(song)" title="Hail Mary (song)" class="mw-redirect">Hail Mary</a>"</li>
+<li>* "<a href="/wiki/Wanted_Dead_or_Alive_(Tupac_Shakur_song)" title="Wanted Dead or Alive (Tupac Shakur song)">Wanted Dead or Alive</a>"</li>
+<li>"<a href="/wiki/Made_Niggaz" title="Made Niggaz">Made Niggaz</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Posthumous singles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/I_Wonder_If_Heaven_Got_a_Ghetto" title="I Wonder If Heaven Got a Ghetto">I Wonder If Heaven Got a Ghetto</a>"</li>
+<li>"<a href="/wiki/Do_for_Love" title="Do for Love">Do for Love</a>"</li>
+<li>"<a href="/wiki/Changes_(Tupac_Shakur_song)" title="Changes (Tupac Shakur song)">Changes</a>"</li>
+<li>"<a href="/wiki/Unconditional_Love_(Tupac_Shakur_song)" title="Unconditional Love (Tupac Shakur song)">Unconditional Love</a>"</li>
+<li>"<a href="/wiki/Baby_Don%27t_Cry_(Keep_Ya_Head_Up_II)" title="Baby Don't Cry (Keep Ya Head Up II)">Baby Don't Cry (Keep Ya Head Up II)</a>"</li>
+<li>"<a href="/wiki/Who_Do_U_Believe_In" title="Who Do U Believe In">Who Do U Believe In</a>"</li>
+<li>"<a href="/wiki/Until_the_End_of_Time_(Tupac_Shakur_song)" title="Until the End of Time (Tupac Shakur song)">Until the End of Time</a>"</li>
+<li>"<a href="/wiki/Letter_2_My_Unborn" title="Letter 2 My Unborn">Letter 2 My Unborn</a>"</li>
+<li>"<a href="/wiki/Thugz_Mansion" title="Thugz Mansion">Thugz Mansion</a>"</li>
+<li>"<a href="/wiki/Still_Ballin%27_(Tupac_Shakur_song)" title="Still Ballin' (Tupac Shakur song)">Still Ballin'</a>"</li>
+<li>"<a href="/wiki/Runnin%27_(Dying_to_Live)" title="Runnin' (Dying to Live)">Runnin' (Dying to Live)</a>"</li>
+<li>"<a href="/wiki/One_Day_at_a_Time_(Em%27s_Version)" title="One Day at a Time (Em's Version)">One Day at a Time (Em's Version)</a>"</li>
+<li>"<a href="/wiki/Thugs_Get_Lonely_Too" title="Thugs Get Lonely Too">Thugs Get Lonely Too</a>"</li>
+<li>"<a href="/wiki/Ghetto_Gospel" title="Ghetto Gospel">Ghetto Gospel</a>"</li>
+<li>"<a href="/wiki/Untouchable_(Tupac_Shakur_song)" title="Untouchable (Tupac Shakur song)">Untouchable</a>"</li>
+<li>"<a href="/wiki/Pac%27s_Life_(song)" title="Pac's Life (song)">Pac's Life</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other songs</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/I_Don%27t_Give_a_Fuck" title="I Don't Give a Fuck">I Don't Give a Fuck</a>"</li>
+<li>"<a href="/wiki/Runnin%27_(From_tha_Police)" title="Runnin' (From tha Police)" class="mw-redirect">Runnin' (From tha Police)</a>"</li>
+<li>"<a href="/wiki/Hit_%27Em_Up" title="Hit 'Em Up">Hit 'Em Up</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Tupac_Shakur_discography#As_featured_artist" title="Tupac Shakur discography">Featured singles</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Smile_(Scarface_song)" title="Smile (Scarface song)">Smile</a>"</li>
+<li>"<a href="/wiki/Playa_Cardz_Right" title="Playa Cardz Right">Playa Cardz Right</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Books</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Rose_That_Grew_from_Concrete_(book)" title="The Rose That Grew from Concrete (book)">The Rose That Grew from Concrete</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Tupac_Shakur#Filmography" title="Tupac Shakur">Filmography</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Nothing_but_Trouble_(1991_film)" title="Nothing but Trouble (1991 film)">Nothing but Trouble</a></i></li>
+<li><i><a href="/wiki/Juice_(film)" title="Juice (film)">Juice</a></i></li>
+<li><i><a href="/wiki/Poetic_Justice_(1993_film)" title="Poetic Justice (1993 film)" class="mw-redirect">Poetic Justice</a></i></li>
+<li><i><a href="/wiki/Above_the_Rim" title="Above the Rim">Above the Rim</a></i></li>
+<li><i><a href="/wiki/Bullet_(1996_film)" title="Bullet (1996 film)">Bullet</a></i></li>
+<li><i><a href="/wiki/Gridlock%27d" title="Gridlock'd">Gridlock'd</a></i></li>
+<li><i><a href="/wiki/Gang_Related_(film)" title="Gang Related (film)" class="mw-redirect">Gang Related</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Tupac_Shakur#Documentaries" title="Tupac Shakur">Documentaries</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Biggie_%26_Tupac" title="Biggie &amp; Tupac">Biggie &amp; Tupac</a></i></li>
+<li><i><a href="/wiki/Tupac:_Resurrection" title="Tupac: Resurrection">Tupac: Resurrection</a></i></li>
+<li><i><a href="/wiki/Tupac:_Assassination" title="Tupac: Assassination">Tupac: Assassination</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Outlawz" title="Outlawz">Outlawz</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Yaki_Kadafi" title="Yaki Kadafi">Yaki Kadafi</a></li>
+<li><a href="/wiki/Kastro_(Outlawz)" title="Kastro (Outlawz)">Kastro</a></li>
+<li><a href="/wiki/Napoleon_(rapper)" title="Napoleon (rapper)">Napoleon</a></li>
+<li><a href="/wiki/E.D.I._Mean" title="E.D.I. Mean">E.D.I. Mean</a></li>
+<li><a href="/wiki/Hussein_Fatal" title="Hussein Fatal">Hussein Fatal</a></li>
+<li><a href="/wiki/Big_Syke" title="Big Syke">Mussolini</a></li>
+<li><a href="/wiki/Mopreme_Shakur" title="Mopreme Shakur">Komani</a></li>
+<li><a href="/wiki/Young_Noble" title="Young Noble">Young Noble</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Tupac_Shakur_discography" title="Tupac Shakur discography">Discography</a></li>
+<li><a href="/wiki/Outlawz" title="Outlawz">Outlawz</a></li>
+<li><a href="/wiki/Digital_Underground" title="Digital Underground">Digital Underground</a></li>
+<li><a href="/wiki/Afeni_Shakur" title="Afeni Shakur">Afeni Shakur</a></li>
+<li><a href="/wiki/Assata_Shakur" title="Assata Shakur">Assata Shakur</a></li>
+<li><a href="/wiki/Mopreme_Shakur" title="Mopreme Shakur">Mopreme Shakur</a></li>
+<li><a href="/wiki/Mutulu_Shakur" title="Mutulu Shakur">Mutulu Shakur</a></li>
+<li><a href="/wiki/East_Coast-West_Coast_hip_hop_rivalry" title="East Coast-West Coast hip hop rivalry" class="mw-redirect">East Coast-West Coast hip hop rivalry</a></li>
+<li><a href="/wiki/Makaveli_Branded_Clothing" title="Makaveli Branded Clothing">Makaveli Branded Clothing</a></li>
+<li><a href="/wiki/Niccol%C3%B2_Machiavelli" title="Niccolò Machiavelli">Niccolò Machiavelli</a></li>
+<li><a href="/wiki/Orlando_Anderson" title="Orlando Anderson">Orlando Anderson</a></li>
+<li><a href="/wiki/Tupac_Amaru_Shakur_Center_for_the_Arts" title="Tupac Amaru Shakur Center for the Arts">Tupac Amaru Shakur Center for the Arts</a></li>
+<li><a href="/wiki/Billy_Garland_(Ex_Black_Panther)" title="Billy Garland (Ex Black Panther)" class="mw-redirect">Billy Garland</a></li>
+<li><a href="/wiki/Kadafi_(Outlawz)" title="Kadafi (Outlawz)" class="mw-redirect">Kadafi</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Tupac_Shakur" title="List of awards and nominations received by Tupac Shakur">List of awards and nominations received by Tupac Shakur</a></li>
+<li><a href="/wiki/Murder_of_Tupac_Shakur" title="Murder of Tupac Shakur">Murder of Tupac Shakur</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1015
+CPU time usage: 2.248 seconds
+Real time usage: 2.382 seconds
+Preprocessor visited node count: 4518/1000000
+Preprocessor generated node count: 21679/1500000
+Post‐expand include size: 117207/2048000 bytes
+Template argument size: 11290/2048000 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Lua time usage: 0.233/10.000 seconds
+Lua memory usage: 3.82 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:217174-0!*!0!!en!4!* and timestamp 20140531022149 and revision id 610314299
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Me_Against_the_World&amp;oldid=610314299">http://en.wikipedia.org/w/index.php?title=Me_Against_the_World&amp;oldid=610314299</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1995_albums" title="Category:1995 albums">1995 albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Easy_Mo_Bee" title="Category:Albums produced by Easy Mo Bee">Albums produced by Easy Mo Bee</a></li><li><a href="/wiki/Category:Albums_produced_by_Johnny_%22J%22" title="Category:Albums produced by Johnny &quot;J&quot;">Albums produced by Johnny &quot;J&quot;</a></li><li><a href="/wiki/Category:Albums_produced_by_Soulshock_and_Karlin" title="Category:Albums produced by Soulshock and Karlin">Albums produced by Soulshock and Karlin</a></li><li><a href="/wiki/Category:Amaru_Entertainment_albums" title="Category:Amaru Entertainment albums">Amaru Entertainment albums</a></li><li><a href="/wiki/Category:Atlantic_Records_albums" title="Category:Atlantic Records albums">Atlantic Records albums</a></li><li><a href="/wiki/Category:Interscope_Records_albums" title="Category:Interscope Records albums">Interscope Records albums</a></li><li><a href="/wiki/Category:Jive_Records_albums" title="Category:Jive Records albums">Jive Records albums</a></li><li><a href="/wiki/Category:Tupac_Shakur_albums" title="Category:Tupac Shakur albums">Tupac Shakur albums</a></li><li><a href="/wiki/Category:Albums_certified_multi-platinum_by_the_Recording_Industry_Association_of_America" title="Category:Albums certified multi-platinum by the Recording Industry Association of America">Albums certified multi-platinum by the Recording Industry Association of America</a></li><li><a href="/wiki/Category:Gangsta_rap_albums" title="Category:Gangsta rap albums">Gangsta rap albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2012" title="Category:Articles with unsourced statements from November 2012">Articles with unsourced statements from November 2012</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Me+Against+the+World&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Me+Against+the+World" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Me_Against_the_World"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Me_Against_the_World"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Me_Against_the_World" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Me_Against_the_World&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Me_Against_the_World&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Me_Against_the_World" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Me_Against_the_World" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Me_Against_the_World&amp;oldid=610314299" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Me_Against_the_World&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q637860" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Me_Against_the_World&amp;id=610314299" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Me+Against+the+World">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Me+Against+the+World&amp;oldid=610314299&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Me_Against_the_World&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%85%D9%86_%D8%AF%D8%B1_%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1_%D8%AF%D9%86%DB%8C%D8%A7" title="من در برابر دنیا – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Georgian" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-sw"><a href="//sw.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Swahili" lang="sw" hreflang="sw">Kiswahili</a></li>
+													<li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Latvian" lang="lv" hreflang="lv">Latviešu</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%B2%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89" title="ミー・アゲインスト・ザ・ワールド – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Romanian" lang="ro" hreflang="ro">Română</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/Me_Against_The_World" title="Me Against The World – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/Me_Against_the_World" title="Me Against the World – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q637860#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 May 2014 at 07:29.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Me_Against_the_World" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":230,"wgHostname":"mw1188"});
+}</script>
+	</body>
+</html>
+	

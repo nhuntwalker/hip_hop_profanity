@@ -1,0 +1,1007 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Stankonia - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Stankonia" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Stankonia&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Stankonia&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Stankonia" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cmw.PopUpMediaTransform%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stankonia","wgTitle":"Stankonia","wgCurRevisionId":610733791,"wgRevisionId":610733791,"wgArticleId":1036528,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using citations with accessdate and no URL","Pages using web citations with no URL","Use mdy dates from April 2013","Articles with hAudio microformats","Good articles","2000 albums","Outkast albums","LaFace Records albums","Albums produced by Organized Noize","Grammy Award for Best Rap Album"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stankonia","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["bg-bg","bg"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q378166"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Stankonia skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Stankonia</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Stankonia</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:OutKast_-_Stankonia.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0b/OutKast_-_Stankonia.JPG/220px-OutKast_-_Stankonia.JPG" width="220" height="222" srcset="//upload.wikimedia.org/wikipedia/en/0/0b/OutKast_-_Stankonia.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/0/0b/OutKast_-_Stankonia.JPG 2x" data-file-width="306" data-file-height="309" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Outkast" title="Outkast">OutKast</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">October 31, 2000</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1999-2000<br />
+Stankonia Recording<br />
+<a href="/wiki/Atlanta" title="Atlanta">Atlanta</a>, <a href="/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a>, U.S.</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>73:07</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/LaFace_Records" title="LaFace Records">LaFace</a>, <a href="/wiki/Arista_Records" title="Arista Records">Arista</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td>Earthtone III, <a href="/wiki/Organized_Noize" title="Organized Noize">Organized Noize</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Outkast" title="Outkast">OutKast</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Aquemini" title="Aquemini">Aquemini</a></i><br />
+(1998)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Stankonia</b></i><br />
+(2000)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below">Speakerboxxx/The Love Below</a></i><br />
+(2003)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Stankonia</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/B.O.B_(song)" title="B.O.B (song)">B.O.B</a>"</span><br />
+Released: September 19, 2000</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Ms._Jackson" title="Ms. Jackson">Ms. Jackson</a>"</span><br />
+Released: January 2, 2001</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/So_Fresh,_So_Clean" title="So Fresh, So Clean">So Fresh, So Clean</a>"</span><br />
+Released: March 13, 2001</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>Stankonia</b></i> is the fourth <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by American <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> duo <a href="/wiki/Outkast" title="Outkast">OutKast</a>, released October 31, 2000 on <a href="/wiki/La_Face_Records" title="La Face Records" class="mw-redirect">La Face Records</a>. The group's previous release, <i><a href="/wiki/Aquemini" title="Aquemini">Aquemini</a></i> (1998), played a significant role in introducing <a href="/wiki/Southern_hip-hop" title="Southern hip-hop" class="mw-redirect">Southern hip-hop</a> to other areas of the United States. In the spring of 1999, OutKast began working on <i>Stankonia</i> in the duo's recently purchased Atlanta recording facility, Stankonia Studios. The band's ownership of the studio allowed for less time constraints and subsequently, more musical experimentation. <i>Stankonia</i> features appearances from many local Atlanta musicians whom the group discovered while visiting clubs in the city.</p>
+<p>On <i>Stankonia</i>, the duo hoped to create a chaotic musical aesthetic, and incorporated a diverse array of musical genres, including <a href="/wiki/Drum_and_bass" title="Drum and bass">drum and bass</a>, <a href="/wiki/Gospel_music" title="Gospel music">gospel</a>, <a href="/wiki/Rock_music" title="Rock music">rock</a>, <a href="/wiki/Salsa_music" title="Salsa music">salsa</a>, <a href="/wiki/Funk" title="Funk">funk</a>, and <a href="/wiki/Psychedelic_music" title="Psychedelic music">psychedelia</a>. Recording sessions became difficult as <a href="/wiki/Andr%C3%A9_3000" title="André 3000">André 3000</a> wished to abandon his rapping vocal style in favor of a more melodic technique, an approach to which <a href="/wiki/Big_Boi" title="Big Boi">Big Boi</a> and other producers were unaccustomed. In order to maintain musical cohesion with Big Boi and continue his musical evolution, André 3000 incorporated both techniques on <i>Stankonia</i>. Lyrically, the duo touches upon topics such as politics, misogyny, and personal introspection in an irreverent manner.</p>
+<p>The album debuted at number two on the U.S. <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart, selling over 530,000 copies the first week. <i>Stankonia</i> received universal acclaim from music critics and holds an aggregate score of 95 out of 100 at <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>. The album produced three singles, "<a href="/wiki/B.O.B_(song)" title="B.O.B (song)">B.O.B</a>", "<a href="/wiki/Ms._Jackson" title="Ms. Jackson">Ms. Jackson</a>", and "<a href="/wiki/So_Fresh,_So_Clean" title="So Fresh, So Clean">So Fresh, So Clean</a>"; "Ms. Jackson" became the group's first single to reach number one on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>. At the <a href="/wiki/44th_Grammy_Awards" title="44th Grammy Awards" class="mw-redirect">2002 Grammy Awards</a>, OutKast won <a href="/wiki/Grammy_Award_for_Best_Rap_Album" title="Grammy Award for Best Rap Album">Best Rap Album</a> for <i>Stankonia</i> and <a href="/wiki/Grammy_Award_for_Best_Rap_Performance_by_a_Duo_or_Group" title="Grammy Award for Best Rap Performance by a Duo or Group">Best Rap Performance by a Duo or Group</a> for "Ms. Jackson". In 2003, the album was ranked number 359 on <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> magazine's list of <a href="/wiki/The_500_Greatest_Albums_of_All_Time" title="The 500 Greatest Albums of All Time" class="mw-redirect">the 500 greatest albums of all time</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Recording"><span class="tocnumber">2</span> <span class="toctext">Recording</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Composition"><span class="tocnumber">3</span> <span class="toctext">Composition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Music_and_style"><span class="tocnumber">3.1</span> <span class="toctext">Music and style</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Lyrics"><span class="tocnumber">3.2</span> <span class="toctext">Lyrics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Commercial_performance"><span class="tocnumber">4</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Critical_reception"><span class="tocnumber">5</span> <span class="toctext">Critical reception</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Legacy_and_influence"><span class="tocnumber">6</span> <span class="toctext">Legacy and influence</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Track_listing"><span class="tocnumber">7</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Charts"><span class="tocnumber">8</span> <span class="toctext">Charts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Weekly_charts"><span class="tocnumber">8.1</span> <span class="toctext">Weekly charts</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Certifications"><span class="tocnumber">8.2</span> <span class="toctext">Certifications</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Personnel"><span class="tocnumber">9</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Notes"><span class="tocnumber">10.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Bibliography"><span class="tocnumber">10.2</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Flag_of_Stankonia.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_Stankonia.svg/220px-Flag_of_Stankonia.svg.png" width="220" height="116" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_Stankonia.svg/330px-Flag_of_Stankonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_Stankonia.svg/440px-Flag_of_Stankonia.svg.png 2x" data-file-width="1235" data-file-height="650" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Flag_of_Stankonia.svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+The flag that is featured on the album cover of <i>Stankonia</i>.</div>
+</div>
+</div>
+<p>OutKast's 1998 album <i><a href="/wiki/Aquemini" title="Aquemini">Aquemini</a></i> received extremely positive reviews from music critics, and expanded the group's musical diversity and experimentation. The record received the coveted five out of five "mic"-rating from <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i>, and is credited with opening up <a href="/wiki/Southern_hip_hop" title="Southern hip hop">Southern hip hop</a> to other areas in the United States.<sup id="cite_ref-Westhoff112_1-0" class="reference"><a href="#cite_note-Westhoff112-1"><span>[</span>1<span>]</span></a></sup> <a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a> member <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a>, who collaborated on the song "Skew It on the Bar-B" from <i>Aquemini</i>, recalled, "Before that, the South just wasn't played in New York. But that song was hot, the flows was crazy. The cycle changed. It really opened up the door for Southern rappers."<sup id="cite_ref-Westhoff112_1-1" class="reference"><a href="#cite_note-Westhoff112-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>In March 1998, <a href="/wiki/Andr%C3%A9_3000" title="André 3000">André 3000</a> and <a href="/wiki/Big_Boi" title="Big Boi">Big Boi</a> purchased a studio off Northside Drive in <a href="/wiki/Atlanta" title="Atlanta">Atlanta</a> which had formerly belonged to <a href="/wiki/R%26B" title="R&amp;B" class="mw-redirect">R&amp;B</a> singer <a href="/wiki/Bobby_Brown" title="Bobby Brown">Bobby Brown</a>.<sup id="cite_ref-Steps_2-0" class="reference"><a href="#cite_note-Steps-2"><span>[</span>2<span>]</span></a></sup> The studio had sentimental value for the duo, as it was the first place the two had ever recorded vocals together, on a remix of <a href="/wiki/TLC_(band)" title="TLC (band)" class="mw-redirect">TLC</a>'s "<a href="/wiki/What_About_Your_Friends" title="What About Your Friends">What About Your Friends</a>" (1992).<sup id="cite_ref-Sentimental_3-0" class="reference"><a href="#cite_note-Sentimental-3"><span>[</span>3<span>]</span></a></sup> The two named the studio "Stankonia", a word created by André 3000 as a combination of the words "stank", a slang synonym for "funky", and "Plutonia", the title of a poster in his bedroom depicting a futuristic city.<sup id="cite_ref-Steps_2-1" class="reference"><a href="#cite_note-Steps-2"><span>[</span>2<span>]</span></a></sup> He explained, "Stankonia is this place I imagined where you can open yourself up and be free to express anything".<sup id="cite_ref-Poet.2FPlaya_4-0" class="reference"><a href="#cite_note-Poet.2FPlaya-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Recording">Recording</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=2" title="Edit section: Recording">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The recording of <i>Stankonia</i> began in spring of 1999 and lasted for about a year.<sup id="cite_ref-Steps_2-2" class="reference"><a href="#cite_note-Steps-2"><span>[</span>2<span>]</span></a></sup> Owning a studio helped the band expand creatively, as the duo did not need to worry about time constraints that would occur with a rented studio.<sup id="cite_ref-Sentimental_3-1" class="reference"><a href="#cite_note-Sentimental-3"><span>[</span>3<span>]</span></a></sup> André 3000 observed, "You can sit there and fuck with just a kick and a snare all day long if you want to&#160;... You're not working on the clock. Really, you're just working on your mind."<sup id="cite_ref-Sentimental_3-2" class="reference"><a href="#cite_note-Sentimental-3"><span>[</span>3<span>]</span></a></sup> Big Boi spent the majority of the recording time in the studio, while André 3000 worked at home, creating beats and experimenting with an <a href="/wiki/Acoustic_guitar" title="Acoustic guitar">acoustic guitar</a>.<sup id="cite_ref-Steps_2-3" class="reference"><a href="#cite_note-Steps-2"><span>[</span>2<span>]</span></a></sup> One song that came from a jam session on the guitar was "<a href="/wiki/Ms._Jackson" title="Ms. Jackson">Ms. Jackson</a>", the album's second single.<sup id="cite_ref-Steps_2-4" class="reference"><a href="#cite_note-Steps-2"><span>[</span>2<span>]</span></a></sup> André 3000 also created song lyrics by writing words on the walls of his home: "I had planned to paint my house anyway; writing on the walls was just something I would do."<sup id="cite_ref-100greatest_5-0" class="reference"><a href="#cite_note-100greatest-5"><span>[</span>5<span>]</span></a></sup> One stray lyric on his wall eventually developed into "Gasoline Dreams".<sup id="cite_ref-100greatest_5-1" class="reference"><a href="#cite_note-100greatest-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Much of the album was formulated during "vibe sessions" in which the group and producers would visit clubs in downtown Atlanta, select performers they saw, and invite them to the studio.<sup id="cite_ref-Mojo_6-0" class="reference"><a href="#cite_note-Mojo-6"><span>[</span>6<span>]</span></a></sup> They would then "sit around, smoke a few, drink a few", and create ideas for new songs.<sup id="cite_ref-Mojo_6-1" class="reference"><a href="#cite_note-Mojo-6"><span>[</span>6<span>]</span></a></sup> However, recording sessions became difficult as André 3000 grew tired of rapping on songs, which made Big Boi and the producers uneasy about how the music would sound.<sup id="cite_ref-Steps_2-5" class="reference"><a href="#cite_note-Steps-2"><span>[</span>2<span>]</span></a></sup> To maintain musical cohesion with Big Boi while continuing to expand his vocal palette, André decided to combine rapping with <a href="/wiki/Soul_music" title="Soul music">soul</a>-inspired crooning, which had a major influence on <i>Stankonia'</i>s sound.<sup id="cite_ref-Steps_2-6" class="reference"><a href="#cite_note-Steps-2"><span>[</span>2<span>]</span></a></sup> "Snappin &amp; Trappin'" features a guest appearance from then-unknown rapper <a href="/wiki/Killer_Mike" title="Killer Mike">Killer Mike</a>. The rapper noted that while working with OutKast, he used the opportunity to try to "compete" with the duo to improve his rapping skills.<sup id="cite_ref-killermike_7-0" class="reference"><a href="#cite_note-killermike-7"><span>[</span>7<span>]</span></a></sup> Big Boi was impressed with Killer Mike's abilities, noting, "When I first heard him spit, his voice was just so commanding. He's a very intelligent guy."<sup id="cite_ref-killermike_7-1" class="reference"><a href="#cite_note-killermike-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Composition">Composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=3" title="Edit section: Composition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Music_and_style">Music and style</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=4" title="Edit section: Music and style">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image">
+<div class="center">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/75px-Gnome-mime-sound-openclipart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/100px-Gnome-mime-sound-openclipart.svg.png 2x" data-file-width="160" data-file-height="160" /></div>
+</div>
+</td>
+<td class="mbox-text plainlist" style="line-height:1.1em;">
+<div class="haudio">
+<div style="padding:2px 0;" class="fn"><a href="/wiki/File:Outkast-bob.ogg" title="File:Outkast-bob.ogg">"B.O.B. (Bombs Over Baghdad)"</a></div>
+<div style="padding-right:4px;">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px;height:23px" poster="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="29.281065759637" data-startoffset="0" data-mwtitle="Outkast-bob.ogg" data-mwprovider="local"><source src="//upload.wikimedia.org/wikipedia/en/b/b9/Outkast-bob.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (65 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="64829"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/en/b/b9/Outkast-bob.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+<div style="padding:2px 0 0 0;" class="description">The song "B.O.B. (Bombs Over Baghdad)" contains elements of <a href="/wiki/Drum_and_bass" title="Drum and bass">drum and bass</a> music in addition to combining guitars, organs, and gospel vocals. André 3000 and Big Boi's raps keep pace with the quick-tempo of the track.</div>
+</div>
+<hr /></td>
+</tr>
+<tr>
+<td colspan="2" class="mbox-text" style="line-height:1.1em;"><span style="font-size:smaller;"><i>Problems playing this file? See <a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">media help</a>.</i></span></td>
+</tr>
+</table>
+<p>While OutKast's previous albums were considered to be laid-back, mellow efforts, <i>Stankonia</i> contains faster, more high-energy tempos, partially to reflect the "chaotic times" at the turn of the 21st century.<sup id="cite_ref-Braves_8-0" class="reference"><a href="#cite_note-Braves-8"><span>[</span>8<span>]</span></a></sup> The group took note of new, harder drugs hitting the hip-hop scene and teenagers using <a href="/wiki/Ecstasy_(drug)" title="Ecstasy (drug)" class="mw-redirect">ecstasy</a>, <a href="/wiki/Cocaine" title="Cocaine">cocaine</a>, and <a href="/wiki/Methamphetamine" title="Methamphetamine">methamphetamine</a>.<sup id="cite_ref-Braves_8-1" class="reference"><a href="#cite_note-Braves-8"><span>[</span>8<span>]</span></a></sup> Big Boi reflected, "Niggas living this life at a fast speed don't know what's going on around them. If you live fast, you gonna come out of here real fast, so the music need to show that."<sup id="cite_ref-Braves_8-2" class="reference"><a href="#cite_note-Braves-8"><span>[</span>8<span>]</span></a></sup> While recording <i>Stankonia</i>, the band refrained from listening to hip-hop, "That music was starting to sound real comfortable. There wasn't any adventure to it."<sup id="cite_ref-Moon569_9-0" class="reference"><a href="#cite_note-Moon569-9"><span>[</span>9<span>]</span></a></sup> Instead, the duo drew influence from musicians such as <a href="/wiki/Jimi_Hendrix" title="Jimi Hendrix">Jimi Hendrix</a>, <a href="/wiki/Chuck_Berry" title="Chuck Berry">Chuck Berry</a>, <a href="/wiki/Little_Richard" title="Little Richard">Little Richard</a>, and <a href="/wiki/Prince_(musician)" title="Prince (musician)">Prince</a>.<sup id="cite_ref-Crazy_Horse183_10-0" class="reference"><a href="#cite_note-Crazy_Horse183-10"><span>[</span>10<span>]</span></a></sup> However, the band refrained from producing a <a href="/wiki/Retro_style" title="Retro style">throwback</a> sound with the record and instead hoped to utilize these influences in a modern, experimental fashion.<sup id="cite_ref-Electric_11-0" class="reference"><a href="#cite_note-Electric-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>On <i>Stankonia</i>, OutKast experimented with a wide variety of musical genres. According to M. Matos of <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i>, <i>Stankonia</i> "turned the South's predominantly reclined hip-hop sound into something freaky and menacing."<sup id="cite_ref-100greatest_5-2" class="reference"><a href="#cite_note-100greatest-5"><span>[</span>5<span>]</span></a></sup> "B.O.B" features "jittery <a href="/wiki/Drum_and_bass" title="Drum and bass">drum'n'bass</a> rhythms" and has been classified as a "stylistic tour de force" combining "Hendrix-ian" guitars, organs, and <a href="/wiki/Gospel_music" title="Gospel music">gospel</a> vocals.<sup id="cite_ref-Wang133_12-0" class="reference"><a href="#cite_note-Wang133-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-Allmusicrev_13-0" class="reference"><a href="#cite_note-Allmusicrev-13"><span>[</span>13<span>]</span></a></sup> On the track, André 3000 and Big Boi employ a "frantic" flow in order to keep pace with the song's high-speed tempo, which runs at 155 beats per minute.<sup id="cite_ref-thedish_14-0" class="reference"><a href="#cite_note-thedish-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-Hess465_15-0" class="reference"><a href="#cite_note-Hess465-15"><span>[</span>15<span>]</span></a></sup> "Humble Mumble" is a <a href="/wiki/Salsa_music" title="Salsa music">salsa</a>-influenced track that evolves into a club groove, while "Ms. Jackson" "marries early Prince with late <a href="/wiki/P-Funk" title="P-Funk">P-funk</a>".<sup id="cite_ref-Braves_8-3" class="reference"><a href="#cite_note-Braves-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-Mold_16-0" class="reference"><a href="#cite_note-Mold-16"><span>[</span>16<span>]</span></a></sup> The smooth melodies of "I'll Call Before I Come" have also been likened to Prince.<sup id="cite_ref-Sentimental_3-3" class="reference"><a href="#cite_note-Sentimental-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-RSguide_17-0" class="reference"><a href="#cite_note-RSguide-17"><span>[</span>17<span>]</span></a></sup> "Gasoline Dreams" has been classified as a "gritty rock scorcher" comparable to the work of <a href="/wiki/Public_Enemy_(group)" title="Public Enemy (group)">Public Enemy</a>.<sup id="cite_ref-Crazy_Horse183_10-1" class="reference"><a href="#cite_note-Crazy_Horse183-10"><span>[</span>10<span>]</span></a></sup> David Bry of <i>Vibe</i> detected a "polished 80's pimp strut" in "So Fresh, So Clean" and an "appreciative, fat-ass bounce" in "We Luv Deez Hoes".<sup id="cite_ref-Best_Group_18-0" class="reference"><a href="#cite_note-Best_Group-18"><span>[</span>18<span>]</span></a></sup> The album ends with three <a href="/wiki/Psychedelic_music" title="Psychedelic music">psychedelic</a>-influenced tracks, "Toilet Tisha", "Slum Beautiful", and "Stankonia (Stank Love)".<sup id="cite_ref-Best_Group_18-1" class="reference"><a href="#cite_note-Best_Group-18"><span>[</span>18<span>]</span></a></sup> "Stankonia (Stank Love)" has also been described as an "homage of sorts" to gospel choirs and '60s <a href="/wiki/Doo-wop" title="Doo-wop">doo-wop</a> groups.<sup id="cite_ref-Brev_19-0" class="reference"><a href="#cite_note-Brev-19"><span>[</span>19<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Lyrics">Lyrics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=5" title="Edit section: Lyrics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Paul Lester of <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i> described OutKast's lyrical style on the album by saying, "They are, in a way, post-hip-hop, combining <a href="/wiki/PM_Dawn" title="PM Dawn" class="mw-redirect">PM Dawn</a>'s kooky confections with the <a href="/wiki/Pharcyde" title="Pharcyde" class="mw-redirect">Pharcyde</a>'s hallucinatory whimsy, <a href="/wiki/Public_Enemy_(group)" title="Public Enemy (group)">Public Enemy</a>'s hardline politicking with <a href="/wiki/De_La_Soul" title="De La Soul">De La Soul</a>'s cartoon dementia, to fashion something vital and new."<sup id="cite_ref-Rhyme_20-0" class="reference"><a href="#cite_note-Rhyme-20"><span>[</span>20<span>]</span></a></sup> The album commonly features the words "stank" and "smell" in their <a href="/wiki/Blues" title="Blues">blues</a> definition to mean "low-down, blunt, pungent: a measure of authenticity".<sup id="cite_ref-Tucker_21-0" class="reference"><a href="#cite_note-Tucker-21"><span>[</span>21<span>]</span></a></sup> The group often incorporates <a href="/wiki/Word_play" title="Word play">word play</a> into the lyrics, including references to the "<a href="/wiki/Underground_Railroad" title="Underground Railroad">underground smellroad</a>" and chants of "I stank I can, I stank I can", an allusion to <i><a href="/wiki/The_Little_Engine_That_Could" title="The Little Engine That Could">The Little Engine That Could</a></i>.<sup id="cite_ref-Tucker_21-1" class="reference"><a href="#cite_note-Tucker-21"><span>[</span>21<span>]</span></a></sup> The song "Red Velvet" discusses the materialistic nature of the hip-hop scene.<sup id="cite_ref-Rhyme_20-1" class="reference"><a href="#cite_note-Rhyme-20"><span>[</span>20<span>]</span></a></sup> "Humble Mumble" addresses critics who make negative assumptions about hip-hop based on preconceived notions; André 3000 raps in the song: "I met a critic/I made her shit her draws/She said hip-hop was only guns and alcohol/I said oh hell naw/but it's that too/You can't discriminate cause you done read a book or two."<sup id="cite_ref-Boyd59_22-0" class="reference"><a href="#cite_note-Boyd59-22"><span>[</span>22<span>]</span></a></sup></p>
+<p>Much of the album discusses the status of women in the South, and contrasts with the <a href="/wiki/Misogyny_in_hip_hop_culture" title="Misogyny in hip hop culture">misogynistic attitudes common in hip-hop music</a>. In his book <i>Classic Material: The Hip-Hop Album Guide</i>, Oliver Wang writes that songs such as "Slum Beautiful" and "Toilet Tisha" "reimagine 'round the way girls, not only as just more than one-dimensional accessories, but as objects of affection with lives and concerns that are worth exploring."<sup id="cite_ref-Wang133_12-1" class="reference"><a href="#cite_note-Wang133-12"><span>[</span>12<span>]</span></a></sup> In "Toilet Tisha", the duo empathizes with suicidal pregnant teenagers.<sup id="cite_ref-Rhyme_20-2" class="reference"><a href="#cite_note-Rhyme-20"><span>[</span>20<span>]</span></a></sup> "Ms. Jackson" is dedicated to the mother of a mother of an out of wedlock child, which André 3000 refers to as "the baby's mama's mamas".<sup id="cite_ref-Sentimental_3-4" class="reference"><a href="#cite_note-Sentimental-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Allmusicrev_13-1" class="reference"><a href="#cite_note-Allmusicrev-13"><span>[</span>13<span>]</span></a></sup> The song was inspired by his relationship with singer <a href="/wiki/Erykah_Badu" title="Erykah Badu">Erykah Badu</a>, the mother of his child, Seven, and serves as an apology to her mother for causing her daughter pain.<sup id="cite_ref-Screen_23-0" class="reference"><a href="#cite_note-Screen-23"><span>[</span>23<span>]</span></a></sup> "I'll Call Before I Come" discusses the members putting a woman's sexual needs before their own.<sup id="cite_ref-iceage_24-0" class="reference"><a href="#cite_note-iceage-24"><span>[</span>24<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=6" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:167px;"><a href="/wiki/File:OutKast_2001.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/OutKast_2001.jpg/165px-OutKast_2001.jpg" width="165" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/OutKast_2001.jpg/247px-OutKast_2001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/OutKast_2001.jpg/330px-OutKast_2001.jpg 2x" data-file-width="960" data-file-height="1280" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:OutKast_2001.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Outkast performing in promotion of <i>Stankonia</i> at the <a href="/wiki/Area_Festival" title="Area Festival">Area Festival</a> in 2001</div>
+</div>
+</div>
+<p><i>Stankonia</i> debuted at number two on the <i>Billboard</i> Top 200 album chart and was certified <a href="/wiki/RIAA_certification" title="RIAA certification">gold</a> by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA) within its first week of release.<sup id="cite_ref-iceage_24-1" class="reference"><a href="#cite_note-iceage-24"><span>[</span>24<span>]</span></a></sup> It also reached number two on the <i>Billboard</i> R&amp;B/Hip-Hop albums chart, remaining on the chart for 45 weeks.<sup id="cite_ref-bbcharts_25-0" class="reference"><a href="#cite_note-bbcharts-25"><span>[</span>25<span>]</span></a></sup> By February 2002, the album has sold 3.79 million copies, according to <a href="/wiki/Nielsen_SoundScan" title="Nielsen SoundScan">Nielsen SoundScan</a>.<sup id="cite_ref-Basham_26-0" class="reference"><a href="#cite_note-Basham-26"><span>[</span>26<span>]</span></a></sup> On November 3, 2003, <i>Stankonia</i> was certified quadruple platinum, for shipments of four million copies.<sup id="cite_ref-RIAA_cert_27-0" class="reference"><a href="#cite_note-RIAA_cert-27"><span>[</span>27<span>]</span></a></sup> In Canada, the album peaked at number four, and was certified double platinum by the <a href="/wiki/Canadian_Recording_Industry_Association" title="Canadian Recording Industry Association" class="mw-redirect">Canadian Recording Industry Association</a> on September 23, 2003 for shipments of over 200,000 units.<sup id="cite_ref-bbcharts_25-1" class="reference"><a href="#cite_note-bbcharts-25"><span>[</span>25<span>]</span></a></sup><sup id="cite_ref-CanadianCert_28-0" class="reference"><a href="#cite_note-CanadianCert-28"><span>[</span>28<span>]</span></a></sup> The record also became a top ten hit in Germany, Finland, and Norway, reaching the number six, number eight, and number eight spots on the countries' official charts, respectively.<sup id="cite_ref-germanycharts_29-0" class="reference"><a href="#cite_note-germanycharts-29"><span>[</span>29<span>]</span></a></sup><sup id="cite_ref-finchart_30-0" class="reference"><a href="#cite_note-finchart-30"><span>[</span>30<span>]</span></a></sup><sup id="cite_ref-norchart_31-0" class="reference"><a href="#cite_note-norchart-31"><span>[</span>31<span>]</span></a></sup></p>
+<p>The lead single released from <i>Stankonia</i>, "B.O.B", peaked at number 69 on the R&amp;B/Hip-Hop songs chart.<sup id="cite_ref-BOBcharts_32-0" class="reference"><a href="#cite_note-BOBcharts-32"><span>[</span>32<span>]</span></a></sup> However, the single was banned from many urban Top 40 radio stations due to its title and the subject matter it was assumed to have.<sup id="cite_ref-Hess465_15-1" class="reference"><a href="#cite_note-Hess465-15"><span>[</span>15<span>]</span></a></sup> On February 3, 2001, "Ms. Jackson" topped the R&amp;B/Hip-Hop songs chart, and then on February 17, the single also reached number one on the Hot 100, remaining on the chart for 22 weeks.<sup id="cite_ref-jacksoncharts_33-0" class="reference"><a href="#cite_note-jacksoncharts-33"><span>[</span>33<span>]</span></a></sup> The song also reached number 13 on the <i>Billboard</i> Pop Songs chart, as well as number three on the magazine's Radio Songs chart.<sup id="cite_ref-jacksoncharts_33-1" class="reference"><a href="#cite_note-jacksoncharts-33"><span>[</span>33<span>]</span></a></sup> The third single, "So Fresh, So Clean", peaked at number 30 on the Hot 100, and stayed on the chart for 20 weeks.<sup id="cite_ref-sofreshcharts_34-0" class="reference"><a href="#cite_note-sofreshcharts-34"><span>[</span>34<span>]</span></a></sup> The single also peaked at number ten on the <i>Billboard</i> R&amp;B/Hip-Hop songs chart, and number 24 on the Radio songs chart.<sup id="cite_ref-sofreshcharts_34-1" class="reference"><a href="#cite_note-sofreshcharts-34"><span>[</span>34<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=7" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Huey_35-0" class="reference"><a href="#cite_note-Huey-35"><span>[</span>35<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">A<sup id="cite_ref-Christgau_36-0" class="reference"><a href="#cite_note-Christgau-36"><span>[</span>36<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">A<sup id="cite_ref-Tucker_21-2" class="reference"><a href="#cite_note-Tucker-21"><span>[</span>21<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/4 stars"><img alt="4/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Latimes_37-0" class="reference"><a href="#cite_note-Latimes-37"><span>[</span>37<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Mojo_(magazine)" title="Mojo (magazine)">Mojo</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Mojoreview_38-0" class="reference"><a href="#cite_note-Mojoreview-38"><span>[</span>38<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/NME" title="NME">NME</a></i></td>
+<td style="vertical-align:middle">9/10<sup id="cite_ref-Bardowell_39-0" class="reference"><a href="#cite_note-Bardowell-39"><span>[</span>39<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Q_(magazine)" title="Q (magazine)" class="mw-redirect">Q</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Qmag_40-0" class="reference"><a href="#cite_note-Qmag-40"><span>[</span>40<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Brackett_41-0" class="reference"><a href="#cite_note-Brackett-41"><span>[</span>41<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Sputnikmusic" title="Sputnikmusic">Sputnikmusic</a></td>
+<td style="vertical-align:middle">4.5/5<sup id="cite_ref-Arp_42-0" class="reference"><a href="#cite_note-Arp-42"><span>[</span>42<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/URB_(magazine)" title="URB (magazine)">URB</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-URB_43-0" class="reference"><a href="#cite_note-URB-43"><span>[</span>43<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i>Stankonia</i> received universal acclaim from contemporary <a href="/wiki/Music_journalism" title="Music journalism">music critics</a>. At <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>, which assigns a <a href="/wiki/Standard_score" title="Standard score">normalized</a> rating out of 100 to reviews from mainstream critics, the album received an <a href="/wiki/Weighted_mean" title="Weighted mean" class="mw-redirect">average</a> score of 95, based on 20 reviews.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44"><span>[</span>44<span>]</span></a></sup> Derek A. Bardowell of <i><a href="/wiki/NME" title="NME">NME</a></i> noted that with <i>Stankonia</i>, OutKast "hit that rare balance of creative eccentricity and mass appeal" and wrote that the album contains "eternal qualities that will unravel in time on an emotional, intellectual and spiritual level."<sup id="cite_ref-Bardowell_39-1" class="reference"><a href="#cite_note-Bardowell-39"><span>[</span>39<span>]</span></a></sup> <a href="/wiki/Nathan_Brackett" title="Nathan Brackett">Nathan Brackett</a> of <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> called the record "one of the best albums of the year" noting that all of the tracks contain "a down-home generosity and accessibility" and that "even the most street-oriented songs have some sort of commentary in them."<sup id="cite_ref-Brackett_41-1" class="reference"><a href="#cite_note-Brackett-41"><span>[</span>41<span>]</span></a></sup> Tony Green of <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> praised OutKast's "feel for sonics and structure" and stated, "they've moved toward harder, darker textures, in service of song designs that are often disarmingly subtle."<sup id="cite_ref-Green_45-0" class="reference"><a href="#cite_note-Green-45"><span>[</span>45<span>]</span></a></sup> Steve Huey of <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> commented that, "given the variety of moods, it helps that the album is broken up by brief, usually humorous interludes, which serve as a sort of reset button. It takes a few listens to pull everything together, but given the immense scope, it's striking how few weak tracks there are".<sup id="cite_ref-Huey_35-1" class="reference"><a href="#cite_note-Huey-35"><span>[</span>35<span>]</span></a></sup> Aishah Hight of <a href="/wiki/PopMatters" title="PopMatters">PopMatters</a> stated, "Within <i>Stankonia</i>, Outkast successfully presented a southern perspective of life, liberty, and the pursuit of happiness. But on the surface, phat beats and pure funk should suffice."<sup id="cite_ref-Hight_46-0" class="reference"><a href="#cite_note-Hight-46"><span>[</span>46<span>]</span></a></sup> <i><a href="/wiki/Alternative_Press" title="Alternative Press">Alternative Press</a></i> commented that "experienced, acclaimed groups rarely make albums as bold and confrontational as <i>Stankonia</i>, because they have too much to lose", but felt that "OutKast don't care", writing that they "coalesced the political and societal challenges of hip hop's past into what is one of the genre's most artistically unorthodox releases so far."<sup id="cite_ref-AlternativePress_47-0" class="reference"><a href="#cite_note-AlternativePress-47"><span>[</span>47<span>]</span></a></sup></p>
+<p><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a> of <i>The Village Voice</i> observed "more bounce-to-the-ounce and less molasses in the jams, more delight and less braggadocio in the raps", and opinined that Big Boi and André 3000's "realism and high spirits drive each other higher".<sup id="cite_ref-Christgau_36-1" class="reference"><a href="#cite_note-Christgau-36"><span>[</span>36<span>]</span></a></sup> <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i><span style="padding-left:0.1em;">'</span>s <a href="/wiki/Ken_Tucker" title="Ken Tucker">Ken Tucker</a> wrote that "<i>Stankonia</i> reeks of artful ambition rendered with impeccable skill" and described OutKast as "endlessly good-humored and imaginative even when dealing with the most grim and mind-deadening facets of ghetto life."<sup id="cite_ref-Tucker_21-3" class="reference"><a href="#cite_note-Tucker-21"><span>[</span>21<span>]</span></a></sup> <a href="/wiki/Yahoo!_Music" title="Yahoo! Music">Yahoo! Music</a>'s Soren Baker commented that "Dre and Big Boi again reinvent themselves, this time as <a href="/wiki/Parliament_(band)" title="Parliament (band)">Parliament</a>-inspired musicians who specialize on male-female relationships, boasting, and out-there lyrics."<sup id="cite_ref-Baker_48-0" class="reference"><a href="#cite_note-Baker-48"><span>[</span>48<span>]</span></a></sup> Baker concluded in his review, "With another nearly flawless album, OutKast arguably solidifies their reputation as one of the best hip-hop groups of all time."<sup id="cite_ref-Baker_48-1" class="reference"><a href="#cite_note-Baker-48"><span>[</span>48<span>]</span></a></sup> The <i>Los Angeles Times</i> opined that "the record's most interesting moments are gorgeous Prince-style soul."<sup id="cite_ref-Latimes_37-1" class="reference"><a href="#cite_note-Latimes-37"><span>[</span>37<span>]</span></a></sup> <a href="/wiki/Jon_Pareles" title="Jon Pareles">Jon Pareles</a> of <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> wrote that "OutKast's music savors the viscous propulsion of funk, with raps and tunes that never ignore the body and its instinctive desires ... Yet OutKast -- taking cues from a band it obviously reveres, Parliament-Funkadelic -- never forgets that bodies are attached to minds."<sup id="cite_ref-Pareles_49-0" class="reference"><a href="#cite_note-Pareles-49"><span>[</span>49<span>]</span></a></sup> <i><a href="/wiki/URB_(magazine)" title="URB (magazine)">URB</a></i> called the album "a complex tome that enmeshes contemporary hip-hop values with a timeless Southern soul, while pushing the envelope damn near off the table."<sup id="cite_ref-URB_43-1" class="reference"><a href="#cite_note-URB-43"><span>[</span>43<span>]</span></a></sup> <i><a href="/wiki/Mojo_(magazine)" title="Mojo (magazine)">Mojo</a></i> called it "hip hop with the power to convert even the most reactionary nonbelievers."<sup id="cite_ref-Mojoreview_38-1" class="reference"><a href="#cite_note-Mojoreview-38"><span>[</span>38<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Legacy_and_influence">Legacy and influence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=8" title="Edit section: Legacy and influence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sensation_White_08.03.2008_015.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sensation_White_08.03.2008_015.jpg/220px-Sensation_White_08.03.2008_015.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sensation_White_08.03.2008_015.jpg/330px-Sensation_White_08.03.2008_015.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sensation_White_08.03.2008_015.jpg/440px-Sensation_White_08.03.2008_015.jpg 2x" data-file-width="1600" data-file-height="1200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sensation_White_08.03.2008_015.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+With the release of <i>Stankonia</i>, OutKast became the first hip-hop group to openly acknowledge <a href="/wiki/Rave" title="Rave">rave culture</a> as an influence.</div>
+</div>
+</div>
+<p><i>Stankonia</i> has received many accolades and appeared on many magazines' "best of" lists; in his book <i>Dirty South</i>, author Ben Westhoff noted that the album appeared on "every critical best-list worth mentioning."<sup id="cite_ref-Westhoff112_1-2" class="reference"><a href="#cite_note-Westhoff112-1"><span>[</span>1<span>]</span></a></sup> At the <a href="/wiki/44th_Grammy_Awards" title="44th Grammy Awards" class="mw-redirect">2002 Grammy Awards</a>, OutKast won <a href="/wiki/Grammy_Award_for_Best_Rap_Album" title="Grammy Award for Best Rap Album">Best Rap Album</a> for <i>Stankonia</i> and <a href="/wiki/Grammy_Award_for_Best_Rap_Performance_by_a_Duo_or_Group" title="Grammy Award for Best Rap Performance by a Duo or Group">Best Rap Performance by a Duo or Group</a> for "Ms. Jackson".<sup id="cite_ref-Hess465_15-2" class="reference"><a href="#cite_note-Hess465-15"><span>[</span>15<span>]</span></a></sup> Despite OutKast's being expected favorites, <a href="/wiki/Grammy_Awards" title="Grammy Awards" class="mw-redirect">The Recording Academy</a> instead chose the 2000 soundtrack album <i><a href="/wiki/O_Brother,_Where_Art_Thou%3F_(soundtrack)" title="O Brother, Where Art Thou? (soundtrack)">O Brother, Where Art Thou?</a></i> for <a href="/wiki/Grammy_Award_for_Album_of_the_Year" title="Grammy Award for Album of the Year">Album of the Year</a>.<sup id="cite_ref-Basham_26-1" class="reference"><a href="#cite_note-Basham-26"><span>[</span>26<span>]</span></a></sup> Before the group's nominations, much of the hip-hop community felt that rappers were not being awarded enough attention from The Recording Academy.<sup id="cite_ref-nolonger_50-0" class="reference"><a href="#cite_note-nolonger-50"><span>[</span>50<span>]</span></a></sup> However, the album's musical diversity allowed the band to reach a wider audience and was credited for opening the Academy up to more hip-hop musicians.<sup id="cite_ref-nolonger_50-1" class="reference"><a href="#cite_note-nolonger-50"><span>[</span>50<span>]</span></a></sup></p>
+<p>In 2006, <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i> named <i>Stankonia</i> as one of the 100 best albums of all time.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51"><span>[</span>51<span>]</span></a></sup> <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> ranked the album number 16 on the magazine's list of the 100 Best Albums of the 2000s.<sup id="cite_ref-100best_52-0" class="reference"><a href="#cite_note-100best-52"><span>[</span>52<span>]</span></a></sup> In 2009, <a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a> ranked <i>Stankonia</i> number 13 on its list of the top 200 albums of the 2000s, and <a href="/wiki/Rhapsody_(online_music_service)" title="Rhapsody (online music service)">Rhapsody</a> ranked it at number 2 on its "100 Best Albums of the Decade" list.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53"><span>[</span>53<span>]</span></a></sup><sup id="cite_ref-54" class="reference"><a href="#cite_note-54"><span>[</span>54<span>]</span></a></sup> Rhapsody also ranked the album number 6 on its "Hip-Hop's Best Albums of the Decade" list.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55"><span>[</span>55<span>]</span></a></sup> <i>Vibe</i> ranked the record at number 23 on its list of the "100 Greatest Albums from 1985 to 2005".<sup id="cite_ref-100greatest_5-3" class="reference"><a href="#cite_note-100greatest-5"><span>[</span>5<span>]</span></a></sup> <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> put it on its end-of-the-decade "best-of" list, saying, "With hummable hits ('Ms. Jackson') and out-there experiments ('B.O.B.'), the rap duo gave us all a visa to the funky if fictional land of Stankonia in 2000."<sup id="cite_ref-56" class="reference"><a href="#cite_note-56"><span>[</span>56<span>]</span></a></sup> <i><a href="/wiki/Q_magazine" title="Q magazine">Q</a></i> listed <i>Stankonia</i> as one of the best 50 albums of 2001.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57"><span>[</span>57<span>]</span></a></sup></p>
+<p>With <i>Stankonia</i>, OutKast became the first hip-hop act to openly acknowledge <a href="/wiki/Rave" title="Rave">rave culture</a> as an influence.<sup id="cite_ref-Reynolds333_58-0" class="reference"><a href="#cite_note-Reynolds333-58"><span>[</span>58<span>]</span></a></sup> During the late 1990s, rappers tended to embrace slow, laid-back beats in their productions. On several tracks on <i>Stankonia</i>, the group employed faster, more chaotic tempos to reflect rave culture and the introduction of new drugs such as ecstasy into the hip-hop scene.<sup id="cite_ref-Reynolds333_58-1" class="reference"><a href="#cite_note-Reynolds333-58"><span>[</span>58<span>]</span></a></sup> Boston-based DJ <a href="/wiki/Armand_Van_Helden" title="Armand Van Helden">Armand Van Helden</a> recalls, "In the nineties, the bpms in hip-hop got slower and the clubs were moody&#160;... it just kind of dragged. I really missed that kind of hands-in-the-air shit."<sup id="cite_ref-Reynolds333_58-2" class="reference"><a href="#cite_note-Reynolds333-58"><span>[</span>58<span>]</span></a></sup> A remix of "B.O.B" created by <a href="/wiki/Rage_Against_The_Machine" title="Rage Against The Machine" class="mw-redirect">Rage Against The Machine</a>'s <a href="/wiki/Zack_de_la_Rocha" title="Zack de la Rocha">Zack de la Rocha</a> received airplay on alternative radio stations, expanding the group's fanbase beyond hip-hop and urban listeners.<sup id="cite_ref-Pride_59-0" class="reference"><a href="#cite_note-Pride-59"><span>[</span>59<span>]</span></a></sup> Despite containing anti-war sentiments, "B.O.B" became popular amongst American troops deployed in Afghanistan.<sup id="cite_ref-Westhoff112_1-3" class="reference"><a href="#cite_note-Westhoff112-1"><span>[</span>1<span>]</span></a></sup> While working on her acclaimed album <i><a href="/wiki/The_ArchAndroid" title="The ArchAndroid">The ArchAndroid</a></i> (2010), American <a href="/wiki/R%26B" title="R&amp;B" class="mw-redirect">R&amp;B</a> singer <a href="/wiki/Janelle_Mon%C3%A1e" title="Janelle Monáe">Janelle Monáe</a> cited <i>Stankonia'</i>s experimental nature as an influence.<sup id="cite_ref-Lewis_60-0" class="reference"><a href="#cite_note-Lewis-60"><span>[</span>60<span>]</span></a></sup> Rapper <a href="/wiki/Pill_(rapper)" title="Pill (rapper)">Pill</a> also acknowledged <i>Stankonia</i>, and particularly the production of Organized Noize, as an inspiration: "The sounds, the instrumentation of the samples, the different horns—everything about the tracks were great to me."<sup id="cite_ref-Pillcomplex_61-0" class="reference"><a href="#cite_note-Pillcomplex-61"><span>[</span>61<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=9" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Intro" &#160;</td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:09</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Gasoline Dreams" <span style="font-size:85%;">(featuring <a href="/wiki/Khujo" title="Khujo">Khujo</a>)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:34</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"I'm Cool" <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:42</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/So_Fresh,_So_Clean" title="So Fresh, So Clean">So Fresh, So Clean</a>" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Organized_Noize" title="Organized Noize">Organized Noize</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:00</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Ms._Jackson" title="Ms. Jackson">Ms. Jackson</a>" &#160;</td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:30</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Snappin' &amp; Trappin'" <span style="font-size:85%;">(featuring <a href="/wiki/Killer_Mike" title="Killer Mike">Killer Mike</a> and J-Sweet)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:19</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"D.F." <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:27</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Spaghetti Junction" &#160;</td>
+<td style="vertical-align: top;">Organized Noize</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:57</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Kim &amp; Cookie" <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:12</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"I'll Call Before I Come" <span style="font-size:85%;">(featuring <a href="/wiki/Gangsta_Boo" title="Gangsta Boo">Gangsta Boo</a> and Eco)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:18</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/B.O.B_(song)" title="B.O.B (song)">B.O.B</a>" &#160;</td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:04</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Xplosion" <span style="font-size:85%;">(featuring <a href="/wiki/B-Real" title="B-Real">B-Real</a>)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:08</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Good Hair" <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:14</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"We Luv Deez Hoez" <span style="font-size:85%;">(featuring Backbone and <a href="/wiki/Big_Gipp" title="Big Gipp">Big Gipp</a>)</span></td>
+<td style="vertical-align: top;">Organized Noize</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:10</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Humble Mumble" <span style="font-size:85%;">(featuring <a href="/wiki/Erykah_Badu" title="Erykah Badu">Erykah Badu</a>)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:50</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Drinkin' Again" <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:24</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"?" &#160;</td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:28</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"Red Velvet" &#160;</td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:52</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"Cruisin' in the ATL" <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:19</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">20.</td>
+<td style="text-align: left; vertical-align: top;">"Gangsta Shit" <span style="font-size:85%;">(featuring <a href="/wiki/Slimm_Calhoun" title="Slimm Calhoun">Slimm Calhoun</a>, <a href="/wiki/BlackOwned_C-Bone" title="BlackOwned C-Bone">Blackowned C-Bone</a> and <a href="/wiki/Goodie_Mob" title="Goodie Mob">T-Mo</a>)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:41</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">21.</td>
+<td style="text-align: left; vertical-align: top;">"Toilet Tisha" &#160;</td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:24</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">22.</td>
+<td style="text-align: left; vertical-align: top;">"Slum Beautiful" <span style="font-size:85%;">(featuring <a href="/wiki/Cee_Lo_Green" title="Cee Lo Green" class="mw-redirect">Cee Lo Green</a>)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:07</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">23.</td>
+<td style="text-align: left; vertical-align: top;">"Pre-Nump" <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:27</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">24.</td>
+<td style="text-align: left; vertical-align: top;">"Stankonia (Stanklove)" <span style="font-size:85%;">(featuring <a href="/wiki/Big_Rube" title="Big Rube">Big Rube</a> and <a href="/wiki/Sleepy_Brown" title="Sleepy Brown">Sleepy Brown</a>)</span></td>
+<td style="vertical-align: top;">Earthtone III</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:51</td>
+</tr>
+</table>
+<p><b>Notes:</b></p>
+<ul>
+<li>Earthtone III is a production team consisting of OutKast and <a href="/wiki/David_%22Mr._DJ%22_Sheats" title="David &quot;Mr. DJ&quot; Sheats" class="mw-redirect">David "Mr. DJ" Sheats</a>.</li>
+<li>"So Fresh, So Clean" contains a sample of "Before the Night is Over" by <a href="/wiki/Joe_Simon_(musician)" title="Joe Simon (musician)">Joe Simon</a>.</li>
+<li>"Ms. Jackson" contains a sample of "Strawberry Letter #23" by <a href="/wiki/The_Brothers_Johnson" title="The Brothers Johnson">The Brothers Johnson</a>.</li>
+<li>"We Luv Deez Hoez" contains a sample of "Worldwide" by <a href="/wiki/Allen_Toussaint" title="Allen Toussaint">Allen Toussaint</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=10" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Weekly_charts">Weekly charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=11" title="Edit section: Weekly charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable plainrowheaders">
+<tr>
+<th align="left">Chart (2000)</th>
+<th align="left">Peak<br />
+position</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/ARIA_Charts" title="ARIA Charts">Australian Albums Chart</a><sup id="cite_ref-aus_62-0" class="reference"><a href="#cite_note-aus-62"><span>[</span>62<span>]</span></a></sup></th>
+<td style="text-align:center;">33</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">Austrian Albums Chart</a><sup id="cite_ref-63" class="reference"><a href="#cite_note-63"><span>[</span>63<span>]</span></a></sup></th>
+<td style="text-align:center;">16</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Ultratop" title="Ultratop">Belgian Albums Chart</a><sup id="cite_ref-64" class="reference"><a href="#cite_note-64"><span>[</span>64<span>]</span></a></sup></th>
+<td style="text-align:center;">25</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Tracklisten" title="Tracklisten">Danish Albums Chart</a><sup id="cite_ref-65" class="reference"><a href="#cite_note-65"><span>[</span>65<span>]</span></a></sup></th>
+<td style="text-align:center;">17</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/MegaCharts" title="MegaCharts">Dutch Albums Chart</a><sup id="cite_ref-66" class="reference"><a href="#cite_note-66"><span>[</span>66<span>]</span></a></sup></th>
+<td style="text-align:center;">20</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/The_Official_Finnish_Charts" title="The Official Finnish Charts">Finnish Albums Chart</a><sup id="cite_ref-finchart_30-1" class="reference"><a href="#cite_note-finchart-30"><span>[</span>30<span>]</span></a></sup></th>
+<td style="text-align:center;">8</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">French Albums Chart</a><sup id="cite_ref-67" class="reference"><a href="#cite_note-67"><span>[</span>67<span>]</span></a></sup></th>
+<td style="text-align:center;">26</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Media_Control_Charts" title="Media Control Charts">German Albums Chart</a><sup id="cite_ref-germanycharts_29-1" class="reference"><a href="#cite_note-germanycharts-29"><span>[</span>29<span>]</span></a></sup></th>
+<td style="text-align:center;">6</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Recording_Industry_Association_of_New_Zealand" title="Recording Industry Association of New Zealand" class="mw-redirect">New Zealand Albums Chart</a><sup id="cite_ref-68" class="reference"><a href="#cite_note-68"><span>[</span>68<span>]</span></a></sup></th>
+<td style="text-align:center;">17</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/VG-lista" title="VG-lista">Norwegian Albums Chart</a><sup id="cite_ref-norchart_31-1" class="reference"><a href="#cite_note-norchart-31"><span>[</span>31<span>]</span></a></sup></th>
+<td style="text-align:center;">8</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Swiss_Music_Charts" title="Swiss Music Charts" class="mw-redirect">Swiss Albums Chart</a><sup id="cite_ref-69" class="reference"><a href="#cite_note-69"><span>[</span>69<span>]</span></a></sup></th>
+<td style="text-align:center;">14</td>
+</tr>
+<tr>
+<th scope="row">U.S. <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-bbcharts_25-2" class="reference"><a href="#cite_note-bbcharts-25"><span>[</span>25<span>]</span></a></sup></th>
+<td style="text-align:center;">2</td>
+</tr>
+<tr>
+<th scope="row">U.S. Top R&amp;B/Hip Hop Albums<sup id="cite_ref-bbcharts_25-3" class="reference"><a href="#cite_note-bbcharts-25"><span>[</span>25<span>]</span></a></sup></th>
+<td style="text-align:center;">2</td>
+</tr>
+<tr>
+<th scope="row">Top Canadian Albums<sup id="cite_ref-bbcharts_25-4" class="reference"><a href="#cite_note-bbcharts-25"><span>[</span>25<span>]</span></a></sup></th>
+<td style="text-align:center;">4</td>
+</tr>
+</table>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Certifications">Certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=12" title="Edit section: Certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th scope="col">Country</th>
+<th scope="col"><a href="/wiki/List_of_music_recording_certifications" title="List of music recording certifications">Certification</a></th>
+</tr>
+<tr>
+<td><a href="/wiki/Canada" title="Canada">Canada</a></td>
+<td style="text-align:center;">2× Platinum<sup id="cite_ref-CanadianCert_28-1" class="reference"><a href="#cite_note-CanadianCert-28"><span>[</span>28<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/United_States" title="United States">United States</a></td>
+<td style="text-align:center;">4× Platinum<sup id="cite_ref-RIAA_cert_27-1" class="reference"><a href="#cite_note-RIAA_cert-27"><span>[</span>27<span>]</span></a></sup></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=13" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<p><b>OutKast:</b></p>
+<ul>
+<li><a href="/wiki/Big_Boi" title="Big Boi">Big Boi</a> (Antwan Patton) – <a href="/wiki/Singing" title="Singing">vocals</a>, <a href="/wiki/Record_producer" title="Record producer">production</a></li>
+<li><a href="/wiki/Andr%C3%A9_3000" title="André 3000">André 3000</a> (Andre Benjamin) – vocals, <a href="/wiki/Synthesiser" title="Synthesiser" class="mw-redirect">synthesisers</a>, production</li>
+<li><a href="/wiki/Mr._DJ" title="Mr. DJ">Mr. DJ</a> (David Sheats) – production</li>
+</ul>
+<p><b>Guest performers</b></p>
+<ul>
+<li><a href="/wiki/Sleepy_Brown" title="Sleepy Brown">Sleepy Brown</a></li>
+<li><a href="/wiki/Khujo_Goodie" title="Khujo Goodie" class="mw-redirect">Khujo Goodie</a></li>
+<li><a href="/wiki/Killer_Mike" title="Killer Mike">Killer Mike</a></li>
+<li>J-Sweet</li>
+<li><a href="/wiki/Gangsta_Boo" title="Gangsta Boo">Gangsta Boo</a></li>
+<li>Eco</li>
+<li>B-Real (of <a href="/wiki/Cypress_Hill" title="Cypress Hill">Cypress Hill</a>)</li>
+<li><a href="/wiki/Erykah_Badu" title="Erykah Badu">Erykah Badu</a></li>
+<li>Backbone</li>
+<li><a href="/wiki/Big_Gipp" title="Big Gipp">Big Gipp</a></li>
+<li>Slimm Calhoun</li>
+<li>C-Bone</li>
+<li>T-Mo Goodie</li>
+<li><a href="/wiki/Cee-Lo_Green" title="Cee-Lo Green" class="mw-redirect">Cee-Lo Green</a></li>
+<li>Big Rube</li>
+<li><a href="/wiki/Joi_(singer)" title="Joi (singer)">Joi</a></li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<p><b>Instrumentalists:</b></p>
+<ul>
+<li>Donnie Mathis – <a href="/wiki/Guitar" title="Guitar">guitar</a></li>
+<li>David "Whild" Brown – guitar</li>
+<li>Jason Freeman – <a href="/wiki/Horn_(instrument)" title="Horn (instrument)">horns</a></li>
+<li>Jerry Freeman – horns</li>
+<li>Sleepy Brown – <a href="/wiki/Piano" title="Piano">piano</a>, synthesised bass</li>
+<li>Marvin "Chanz" Parkman – piano, keyboards</li>
+<li>Earthtone III &amp; Organized Noize – keyboards</li>
+<li>Preston Crump – <a href="/wiki/Bass_guitar" title="Bass guitar">bass guitar</a>, synthesized bass</li>
+<li>Aaron Mills – bass guitar</li>
+<li>Robert Grister – bass guitar</li>
+<li>Dookie Blossumgame – bass guitar</li>
+<li>Victor Alexander – drums</li>
+</ul>
+<p><b>Other people:</b></p>
+<ul>
+<li>Rosalin Heard – backing vocals</li>
+<li>Paul Douglas-Feddon – backing vocals</li>
+<li><a href="/wiki/Myrna_%22Screechy_Peach%22_Crenshaw" title="Myrna &quot;Screechy Peach&quot; Crenshaw" class="mw-redirect">Myrna "Screechy Peach" Crenshaw</a> – backing vocals</li>
+<li>Cutmaster Swiff – cuts</li>
+<li><a href="/wiki/Michael_Lavine" title="Michael Lavine">Michael Lavine</a> – photography</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=15" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist columns references-column-count references-column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Westhoff112-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Westhoff112_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Westhoff112_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Westhoff112_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Westhoff112_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Westhoff, 2011. p. 112</span></li>
+<li id="cite_note-Steps-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Steps_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Steps_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Steps_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Steps_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Steps_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Steps_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Steps_2-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><span class="citation news">"Steps to success OutKast's hard work and careful cultivation of an audience have led to unprecedented Grammy nominations". <i><a href="/wiki/The_Atlanta_Journal-Constitution" title="The Atlanta Journal-Constitution">The Atlanta Journal-Constitution</a></i>. February 26, 2002.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Steps+to+success+OutKast%27s+hard+work+and+careful+cultivation+of+an+audience+have+led+to+unprecedented+Grammy+nominations&amp;rft.date=February+26%2C+2002&amp;rft.genre=article&amp;rft.jtitle=The+Atlanta+Journal-Constitution&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code>|accessdate=</code> requires <code>|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Sentimental-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sentimental_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sentimental_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Sentimental_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Sentimental_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Sentimental_3-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Bry, David (December 2000). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=7icEAAAAMBAJ&amp;pg=PA142&amp;dq=stankonia&amp;hl=en&amp;sa=X&amp;ei=wz_6T7jsHqmC2gXDpdDKDA&amp;ved=0CDoQ6AEwAjgK#v=onepage&amp;q=stankonia&amp;f=false">"Sentimental Journey"</a>. <i>Vibe</i>. Bob Guccione Jr<span class="reference-accessdate">. Retrieved July 8, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Sentimental+Journey&amp;rft.au=Bry%2C+David&amp;rft.aufirst=David&amp;rft.aulast=Bry&amp;rft.date=December+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D7icEAAAAMBAJ%26pg%3DPA142%26dq%3Dstankonia%26hl%3Den%26sa%3DX%26ei%3Dwz_6T7jsHqmC2gXDpdDKDA%26ved%3D0CDoQ6AEwAjgK%23v%3Donepage%26q%3Dstankonia%26f%3Dfalse&amp;rft.jtitle=Vibe&amp;rft.pub=Bob+Guccione+Jr.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Poet.2FPlaya-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Poet.2FPlaya_4-0">^</a></b></span> <span class="reference-text"><span class="citation news">Murray, Sonia (October 30, 2000). "The poet and the playa: OutKast makes sweet music". <i><a href="/wiki/The_Atlanta_Journal-Constitution" title="The Atlanta Journal-Constitution">The Atlanta Journal-Constitution</a></i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=The+poet+and+the+playa%3A+OutKast+makes+sweet+music&amp;rft.aufirst=Sonia&amp;rft.aulast=Murray&amp;rft.au=Murray%2C+Sonia&amp;rft.date=October+30%2C+2000&amp;rft.genre=article&amp;rft.jtitle=The+Atlanta+Journal-Constitution&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code>|accessdate=</code> requires <code>|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-100greatest-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-100greatest_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-100greatest_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-100greatest_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-100greatest_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://books.google.com/books?id=p6-UYTO7l1MC&amp;pg=PA78&amp;dq=stankonia+gasoline+dreams&amp;hl=en&amp;sa=X&amp;ei=RU76T8nkG-Xg2AWN4ci_Bg&amp;ved=0CGAQ6AEwCA#v=onepage&amp;q=stankonia%20gasoline%20dreams&amp;f=false">"100 Greatest Albums, 1985-now: Stankonia"</a>. <i>Spin</i>. Bob Guccione, Jr. July 2005<span class="reference-accessdate">. Retrieved July 8, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=100+Greatest+Albums%2C+1985-now%3A+Stankonia&amp;rft.date=July+2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dp6-UYTO7l1MC%26pg%3DPA78%26dq%3Dstankonia%2Bgasoline%2Bdreams%26hl%3Den%26sa%3DX%26ei%3DRU76T8nkG-Xg2AWN4ci_Bg%26ved%3D0CGAQ6AEwCA%23v%3Donepage%26q%3Dstankonia%2520gasoline%2520dreams%26f%3Dfalse&amp;rft.jtitle=Spin&amp;rft.pub=Bob+Guccione%2C+Jr.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Mojo-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mojo_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mojo_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://books.google.com/books?id=AVQbF9lTBwgC&amp;pg=PA681&amp;dq=stankonia&amp;hl=en&amp;sa=X&amp;ei=2TD6T_TmHIWy2QWe8aDWBg&amp;ved=0CDwQ6AEwAg#v=onepage&amp;q=stankonia&amp;f=false">"Outkast - Stankonia"</a>. <i>The Mojo Collection: 4th Edition</i><span class="reference-accessdate">. Retrieved July 8, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Outkast+-+Stankonia&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DAVQbF9lTBwgC%26pg%3DPA681%26dq%3Dstankonia%26hl%3Den%26sa%3DX%26ei%3D2TD6T_TmHIWy2QWe8aDWBg%26ved%3D0CDwQ6AEwAg%23v%3Donepage%26q%3Dstankonia%26f%3Dfalse&amp;rft.jtitle=The+Mojo+Collection%3A+4th+Edition&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-killermike-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-killermike_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-killermike_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Hsu, Hua (January 2003). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=vyYEAAAAMBAJ&amp;pg=PA61&amp;dq=outkast+stankonia+snappin&amp;hl=en&amp;sa=X&amp;ei=EHb8T5-wLcWI8gGQjvGVBQ&amp;ved=0CEYQ6AEwBA#v=onepage&amp;q=outkast%20stankonia%20snappin&amp;f=false">"Killer Mike: By the Book"</a>. <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i>. Vibe Media Group<span class="reference-accessdate">. Retrieved July 10, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Killer+Mike%3A+By+the+Book&amp;rft.aufirst=Hua&amp;rft.au=Hsu%2C+Hua&amp;rft.aulast=Hsu&amp;rft.date=January+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DvyYEAAAAMBAJ%26pg%3DPA61%26dq%3Doutkast%2Bstankonia%2Bsnappin%26hl%3Den%26sa%3DX%26ei%3DEHb8T5-wLcWI8gGQjvGVBQ%26ved%3D0CEYQ6AEwBA%23v%3Donepage%26q%3Doutkast%2520stankonia%2520snappin%26f%3Dfalse&amp;rft.jtitle=Vibe&amp;rft.pub=Vibe+Media+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Braves-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Braves_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Braves_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Braves_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Braves_8-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Caramanica, Jon (November 2000). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=5CoEAAAAMBAJ&amp;pg=PA44&amp;dq=atliens&amp;hl=en&amp;sa=X&amp;ei=Cij6T9SXPIji2gXl7Jm2Bg&amp;ved=0CDYQ6AEwATge#v=onepage&amp;q=atliens&amp;f=false">"Atlanta's Braves"</a>. <i>CMJ New Music Monthly</i><span class="reference-accessdate">. Retrieved July 8, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Atlanta%27s+Braves&amp;rft.au=Caramanica%2C+Jon&amp;rft.aufirst=Jon&amp;rft.aulast=Caramanica&amp;rft.date=November+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D5CoEAAAAMBAJ%26pg%3DPA44%26dq%3Datliens%26hl%3Den%26sa%3DX%26ei%3DCij6T9SXPIji2gXl7Jm2Bg%26ved%3D0CDYQ6AEwATge%23v%3Donepage%26q%3Datliens%26f%3Dfalse&amp;rft.jtitle=CMJ+New+Music+Monthly&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Moon569-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Moon569_9-0">^</a></b></span> <span class="reference-text">Moon, 2008. p. 569</span></li>
+<li id="cite_note-Crazy_Horse183-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Crazy_Horse183_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Crazy_Horse183_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Crazy Horse, p. 183</span></li>
+<li id="cite_note-Electric-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Electric_11-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://books.google.com/books?id=yCUEAAAAMBAJ&amp;pg=PA88&amp;dq=stankonia+platinum&amp;hl=en&amp;sa=X&amp;ei=hdf7T_bGO-WC2wXgqrz_Bg&amp;ved=0CEEQ6AEwAw#v=onepage&amp;q&amp;f=false">"Electric Warriors"</a>. <i>Vibe</i>. Vibe Media Group. February 2002<span class="reference-accessdate">. Retrieved July 10, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Electric+Warriors&amp;rft.date=February+2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DyCUEAAAAMBAJ%26pg%3DPA88%26dq%3Dstankonia%2Bplatinum%26hl%3Den%26sa%3DX%26ei%3Dhdf7T_bGO-WC2wXgqrz_Bg%26ved%3D0CEEQ6AEwAw%23v%3Donepage%26q%26f%3Dfalse&amp;rft.jtitle=Vibe&amp;rft.pub=Vibe+Media+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Wang133-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wang133_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wang133_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Wang, 2003. p. 133</span></li>
+<li id="cite_note-Allmusicrev-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Allmusicrev_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Allmusicrev_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Huey, Steve. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/stankonia-mw0000252371">"Stankonia - Outkast - Review"</a>. <i>Allmusic</i>. Rovi Corporation<span class="reference-accessdate">. Retrieved July 8, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Stankonia+-+Outkast+-+Review&amp;rft.aufirst=Steve&amp;rft.au=Huey%2C+Steve&amp;rft.aulast=Huey&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fstankonia-mw0000252371&amp;rft.jtitle=Allmusic&amp;rft.pub=Rovi+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-thedish-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-thedish_14-0">^</a></b></span> <span class="reference-text"><span class="citation web">Kim, Hyun (October 2000). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=yicEAAAAMBAJ&amp;pg=PA172&amp;dq=outkast+frantic&amp;hl=en&amp;sa=X&amp;ei=A8T7T7aCJ6jO2gXWp4HqBg&amp;ved=0CDQQ6AEwAA#v=onepage&amp;q=outkast%20frantic&amp;f=false">"The dish on the latest cuts: Outkast's "B.O.B<span style="padding-right:0.2em;">"</span>"</a>. <i>Vibe</i>. Vibe Media Group<span class="reference-accessdate">. Retrieved July 9, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=The+dish+on+the+latest+cuts%3A+Outkast%27s+%22B.O.B%22&amp;rft.aufirst=Hyun&amp;rft.au=Kim%2C+Hyun&amp;rft.aulast=Kim&amp;rft.date=October+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DyicEAAAAMBAJ%26pg%3DPA172%26dq%3Doutkast%2Bfrantic%26hl%3Den%26sa%3DX%26ei%3DA8T7T7aCJ6jO2gXWp4HqBg%26ved%3D0CDQQ6AEwAA%23v%3Donepage%26q%3Doutkast%2520frantic%26f%3Dfalse&amp;rft.jtitle=Vibe&amp;rft.pub=Vibe+Media+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hess465-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hess465_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hess465_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Hess465_15-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Hess, 2007. p. 465</span></li>
+<li id="cite_note-Mold-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mold_16-0">^</a></b></span> <span class="reference-text"><span class="citation web">Kenon, Marci (September 23, 2000). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=0RAEAAAAMBAJ&amp;pg=PA38&amp;dq=stankonia+humble+mumble&amp;hl=en&amp;sa=X&amp;ei=5VL6T6q6FKjW2AXvooHQBg&amp;ved=0CDcQ6AEwADgK#v=onepage&amp;q=stankonia%20humble%20mumble&amp;f=false">"Outkast Breaks Hip-Hop Mold"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a><span class="reference-accessdate">. Retrieved July 8, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Outkast+Breaks+Hip-Hop+Mold&amp;rft.aufirst=Marci&amp;rft.au=Kenon%2C+Marci&amp;rft.aulast=Kenon&amp;rft.date=September+23%2C+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D0RAEAAAAMBAJ%26pg%3DPA38%26dq%3Dstankonia%2Bhumble%2Bmumble%26hl%3Den%26sa%3DX%26ei%3D5VL6T6q6FKjW2AXvooHQBg%26ved%3D0CDcQ6AEwADgK%23v%3Donepage%26q%3Dstankonia%2520humble%2520mumble%26f%3Dfalse&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RSguide-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-RSguide_17-0">^</a></b></span> <span class="reference-text">Brackett, Nathan. Hoard, Christian. p. 610</span></li>
+<li id="cite_note-Best_Group-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Best_Group_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Best_Group_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Bry, David (January 2002). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=xiUEAAAAMBAJ&amp;pg=PA76&amp;dq=stankonia+we+luv&amp;hl=en&amp;sa=X&amp;ei=0Vv6T8WeHYP42QXbz8DzBg&amp;ved=0CD8Q6AEwAw#v=onepage&amp;q=stankonia%20we%20luv&amp;f=false">"Best Group: Outkast"</a>. <i>Vibe</i>. Vibe Media Group<span class="reference-accessdate">. Retrieved July 8, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Best+Group%3A+Outkast&amp;rft.au=Bry%2C+David&amp;rft.aufirst=David&amp;rft.aulast=Bry&amp;rft.date=January+2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DxiUEAAAAMBAJ%26pg%3DPA76%26dq%3Dstankonia%2Bwe%2Bluv%26hl%3Den%26sa%3DX%26ei%3D0Vv6T8WeHYP42QXbz8DzBg%26ved%3D0CD8Q6AEwAw%23v%3Donepage%26q%3Dstankonia%2520we%2520luv%26f%3Dfalse&amp;rft.jtitle=Vibe&amp;rft.pub=Vibe+Media+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Brev-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brev_19-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://books.google.com/books?id=uRAEAAAAMBAJ&amp;pg=PA25&amp;dq=stankonia+humble+mumble&amp;hl=en&amp;sa=X&amp;ei=5VL6T6q6FKjW2AXvooHQBg&amp;ved=0CD8Q6AEwAjgK#v=onepage&amp;q=stankonia%20humble%20mumble&amp;f=false">"Stankonia - Review"</a>. <i>Billboard</i>. Prometheus Global Media. November 4, 2000<span class="reference-accessdate">. Retrieved July 8, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Stankonia+-+Review&amp;rft.date=November+4%2C+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DuRAEAAAAMBAJ%26pg%3DPA25%26dq%3Dstankonia%2Bhumble%2Bmumble%26hl%3Den%26sa%3DX%26ei%3D5VL6T6q6FKjW2AXvooHQBg%26ved%3D0CD8Q6AEwAjgK%23v%3Donepage%26q%3Dstankonia%2520humble%2520mumble%26f%3Dfalse&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Rhyme-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rhyme_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rhyme_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Rhyme_20-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Lester, Paul (May 18, 2001). "PARTNERS IN RHYME: One of them is a blonde-wigged, teetotal vegetarian who reads Pushkin. The other breeds pitbulls in his spare time. Together they have been called the 'greatest living hip-hop act'. Paul Lester hits the road with OutKast". <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=PARTNERS+IN+RHYME%3A+One+of+them+is+a+blonde-wigged%2C+teetotal+vegetarian+who+reads+Pushkin.+The+other+breeds+pitbulls+in+his+spare+time.+Together+they+have+been+called+the+%27greatest+living+hip-hop+act%27.+Paul+Lester+hits+the+road+with+OutKast&amp;rft.aufirst=Paul&amp;rft.aulast=Lester&amp;rft.au=Lester%2C+Paul&amp;rft.date=May+18%2C+2001&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Missing or empty <code>|url=</code> (<a href="/wiki/Help:CS1_errors#cite_web_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Tucker-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tucker_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tucker_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Tucker_21-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Tucker_21-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Tucker, Ken (November 3, 2000). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,278376,00.html">"Stankonia Review"</a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i>. Time Inc<span class="reference-accessdate">. Retrieved October 10, 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Stankonia+Review&amp;rft.aufirst=Ken&amp;rft.aulast=Tucker&amp;rft.au=Tucker%2C+Ken&amp;rft.date=November+3%2C+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C278376%2C00.html&amp;rft.jtitle=Entertainment+Weekly&amp;rft.pub=Time+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Boyd59-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-Boyd59_22-0">^</a></b></span> <span class="reference-text">Boyd, 2003. p. 59</span></li>
+<li id="cite_note-Screen-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Screen_23-0">^</a></b></span> <span class="reference-text"><span class="citation web">Johnson, Jr., Billy (November 2000). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=-CcEAAAAMBAJ&amp;pg=PA164&amp;dq=ms.+jackson+erykah+badu&amp;hl=en&amp;sa=X&amp;ei=zVf6T_mHNeTI2AXYvtXzBg&amp;ved=0CEsQ6AEwAw#v=onepage&amp;q=ms.%20jackson%20erykah%20badu&amp;f=false">"Talk Video: Ms. Jackson"</a>. <i>Vibe</i>. Vibe Media Group<span class="reference-accessdate">. Retrieved July 8, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Talk+Video%3A+Ms.+Jackson&amp;rft.aufirst=Billy&amp;rft.au=Johnson%2C+Jr.%2C+Billy&amp;rft.aulast=Johnson%2C+Jr.&amp;rft.date=November+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D-CcEAAAAMBAJ%26pg%3DPA164%26dq%3Dms.%2Bjackson%2Berykah%2Bbadu%26hl%3Den%26sa%3DX%26ei%3DzVf6T_mHNeTI2AXYvtXzBg%26ved%3D0CEsQ6AEwAw%23v%3Donepage%26q%3Dms.%2520jackson%2520erykah%2520badu%26f%3Dfalse&amp;rft.jtitle=Vibe&amp;rft.pub=Vibe+Media+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-iceage-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-iceage_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-iceage_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Jenkins, Sacha (March 2001). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=YzBMbiDVcKoC&amp;pg=PA85&amp;dq=stankonia&amp;hl=en&amp;sa=X&amp;ei=2TD6T_TmHIWy2QWe8aDWBg&amp;ved=0CGIQ6AEwCQ#v=onepage&amp;q=stankonia&amp;f=false">"The End of the Ice Age?"</a>. <i>Spin</i>. Bob Guccione, Jr<span class="reference-accessdate">. Retrieved July 8, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=The+End+of+the+Ice+Age%3F&amp;rft.aufirst=Sacha&amp;rft.au=Jenkins%2C+Sacha&amp;rft.aulast=Jenkins&amp;rft.date=March+2001&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DYzBMbiDVcKoC%26pg%3DPA85%26dq%3Dstankonia%26hl%3Den%26sa%3DX%26ei%3D2TD6T_TmHIWy2QWe8aDWBg%26ved%3D0CGIQ6AEwCQ%23v%3Donepage%26q%3Dstankonia%26f%3Dfalse&amp;rft.jtitle=Spin&amp;rft.pub=Bob+Guccione%2C+Jr.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bbcharts-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-bbcharts_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bbcharts_25-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bbcharts_25-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-bbcharts_25-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-bbcharts_25-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/321442/outkast/chart">"Chart History: Outkast - Stankonia"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved July 11, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Chart+History%3A+Outkast+-+Stankonia&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F321442%2Foutkast%2Fchart&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Basham-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-Basham_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Basham_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Basham, David (February 28, 2002). <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1452682/got-charts-o-brother-sales-boost-likely.jhtml">"Got Charts? Expect 'O Brother' Sales Boost After Unexpected Win"</a>. <i>MTV News</i>. Viacom<span class="reference-accessdate">. Retrieved July 12, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Got+Charts%3F+Expect+%27O+Brother%27+Sales+Boost+After+Unexpected+Win&amp;rft.au=Basham%2C+David&amp;rft.aufirst=David&amp;rft.aulast=Basham&amp;rft.date=February+28%2C+2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1452682%2Fgot-charts-o-brother-sales-boost-likely.jhtml&amp;rft.jtitle=MTV+News&amp;rft.pub=Viacom&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RIAA_cert-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-RIAA_cert_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RIAA_cert_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?artist=%22Stankonia%22">"Gold &amp; Platinum RIAA Certifications 2003"</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>. November 3, 2003<span class="reference-accessdate">. Retrieved July 10, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Gold+%26+Platinum+RIAA+Certifications+2003&amp;rft.date=November+3%2C+2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Fartist%3D%2522Stankonia%2522&amp;rft.pub=Recording+Industry+Association+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CanadianCert-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-CanadianCert_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CanadianCert_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.musiccanada.com/GPSearchResult.aspx?st=&amp;ica=False&amp;sa=Outkast&amp;sl=&amp;smt=0&amp;sat=-1&amp;ssb=Artist">"Gold &amp; Platinum Certification - Outkast"</a>. <a href="/wiki/Canadian_Recording_Industry_Association" title="Canadian Recording Industry Association" class="mw-redirect">Canadian Recording Industry Association</a><span class="reference-accessdate">. Retrieved May 19, 2007</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Gold+%26+Platinum+Certification+-+Outkast&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.musiccanada.com%2FGPSearchResult.aspx%3Fst%3D%26ica%3DFalse%26sa%3DOutkast%26sl%3D%26smt%3D0%26sat%3D-1%26ssb%3DArtist&amp;rft.pub=Canadian+Recording+Industry+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-germanycharts-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-germanycharts_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-germanycharts_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.charts.de/album.asp?artist=OutKast&amp;title=Stankonia&amp;country=de">"Chartverfolgung / Outkast / Longplay"</a> (in German). <a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control</a>. PhonoNet GmbH<span class="reference-accessdate">. Retrieved August 22, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Chartverfolgung+%2F+Outkast+%2F+Longplay&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.charts.de%2Falbum.asp%3Fartist%3DOutKast%26title%3DStankonia%26country%3Dde&amp;rft.pub=Media+Control.+PhonoNet+GmbH&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-finchart-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-finchart_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-finchart_30-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://finnishcharts.com/showitem.asp?interpret=OutKast&amp;titel=Stankonia&amp;cat=a">"Outkast – Stankonia"</a> (in Dutch). <a href="/wiki/The_Official_Finnish_Charts" title="The Official Finnish Charts">The Official Finnish Charts</a>. Hung Medien<span class="reference-accessdate">. Retrieved August 18, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Outkast+%E2%80%93+Stankonia&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffinnishcharts.com%2Fshowitem.asp%3Finterpret%3DOutKast%26titel%3DStankonia%26cat%3Da&amp;rft.pub=The+Official+Finnish+Charts.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-norchart-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-norchart_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-norchart_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://norwegiancharts.com/showitem.asp?interpret=OutKast&amp;titel=Stankonia&amp;cat=a">"Outkast – Stankonia"</a> (in French). <a href="/wiki/VG-lista" title="VG-lista">VG-lista</a>. Hung Medien<span class="reference-accessdate">. Retrieved August 18, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Outkast+%E2%80%93+Stankonia&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnorwegiancharts.com%2Fshowitem.asp%3Finterpret%3DOutKast%26titel%3DStankonia%26cat%3Da&amp;rft.pub=VG-lista.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BOBcharts-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-BOBcharts_32-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/321442/outkast/chart">"Chart History: Outkast - B.O.B"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved July 11, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Chart+History%3A+Outkast+-+B.O.B&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F321442%2Foutkast%2Fchart&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-jacksoncharts-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-jacksoncharts_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-jacksoncharts_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/321442/outkast/chart">"Chart History: Outkast - Ms. Jackson"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved July 11, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Chart+History%3A+Outkast+-+Ms.+Jackson&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F321442%2Foutkast%2Fchart&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-sofreshcharts-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-sofreshcharts_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sofreshcharts_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/321442/outkast/chart">"Chart History: Outkast - So Fresh, So Clean"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved July 11, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Chart+History%3A+Outkast+-+So+Fresh%2C+So+Clean&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F321442%2Foutkast%2Fchart&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Huey-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-Huey_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Huey_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Huey, Steve. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r483677">"Stankonia - OutKast"</a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>. Retrieved on March 31, 2010.</span></li>
+<li id="cite_note-Christgau-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-Christgau_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Christgau_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Christgau, Robert</a> (December 5, 2000). <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/cg/cgv1100-00.php">"Consumer Guide: Getting Bizzy"</a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> (New York)<span class="reference-accessdate">. Retrieved April 5, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Consumer+Guide%3A+Getting+Bizzy&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.date=December+5%2C+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fxg%2Fcg%2Fcgv1100-00.php&amp;rft.jtitle=The+Village+Voice&amp;rft.place=New+York&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Latimes-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-Latimes_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Latimes_37-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://articles.latimes.com/2000/nov/30/entertainment/ca-59075/2">"Record Rack"</a>. <i>Los Angeles Times</i> (Tribune Company). November 30, 2000<span class="reference-accessdate">. Retrieved July 11, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Record+Rack&amp;rft.date=November+30%2C+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F2000%2Fnov%2F30%2Fentertainment%2Fca-59075%2F2&amp;rft.jtitle=Los+Angeles+Times&amp;rft.pub=Tribune+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Mojoreview-38"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mojoreview_38-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mojoreview_38-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">"Review: Stankonia". <i><a href="/wiki/Mojo_(magazine)" title="Mojo (magazine)">Mojo</a></i> (London): 107. August 2001.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Review%3A+Stankonia&amp;rft.date=August+2001&amp;rft.genre=article&amp;rft.jtitle=Mojo&amp;rft.pages=107&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bardowell-39"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bardowell_39-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bardowell_39-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bardowell, Derek A. "<a rel="nofollow" class="external text" href="http://www.nme.com/reviews/outkast/3412">Album Reviews - Stankonia</a>". <i><a href="/wiki/NME" title="NME">NME</a></i>: 41. November 18, 2000.</span></li>
+<li id="cite_note-Qmag-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-Qmag_40-0">^</a></b></span> <span class="reference-text"><span class="citation journal">"Review: Stankonia". <i><a href="/wiki/Q_(magazine)" title="Q (magazine)" class="mw-redirect">Q</a></i> (London): 114. January 2001.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Review%3A+Stankonia&amp;rft.date=January+2001&amp;rft.genre=article&amp;rft.jtitle=Q&amp;rft.pages=114&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Brackett-41"><span class="mw-cite-backlink">^ <a href="#cite_ref-Brackett_41-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Brackett_41-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Brackett, Nathan (October 26, 2000). <a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/albumreviews/stankonia-20001026">"Outkast: Stankonia&#160;: Music Reviews"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20071012184415/http://www.rollingstone.com/artists/outkast/albums/album/302328/review/6067606/stankonia">Archived</a> from the original on October 12, 2007<span class="reference-accessdate">. Retrieved May 16, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Outkast%3A+Stankonia+%3A+Music+Reviews&amp;rft.au=Brackett%2C+Nathan&amp;rft.aufirst=Nathan&amp;rft.aulast=Brackett&amp;rft.date=October+26%2C+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Falbumreviews%2Fstankonia-20001026&amp;rft.jtitle=Rolling+Stone&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Arp-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-Arp_42-0">^</a></b></span> <span class="reference-text">Arp, Louis (January 16, 2005). <a rel="nofollow" class="external text" href="http://www.sputnikmusic.com/review/1460/Outkast-Stankonia/">"Outkast - Stankonia (album review 4)"</a>. <a href="/wiki/Sputnikmusic" title="Sputnikmusic">Sputnikmusic</a>. Retrieved on October 10, 2009.</span></li>
+<li id="cite_note-URB-43"><span class="mw-cite-backlink">^ <a href="#cite_ref-URB_43-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-URB_43-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">"Review: Stankonia". <i><a href="/wiki/URB_(magazine)" title="URB (magazine)">URB</a></i> (<a href="/wiki/Raymond_Roker" title="Raymond Roker">Raymond Roker</a>) <b>10</b> (79): 134. November 2000.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Review%3A+Stankonia&amp;rft.date=November+2000&amp;rft.genre=article&amp;rft.issue=79&amp;rft.jtitle=URB&amp;rft.pages=134&amp;rft.pub=Raymond+Roker&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/stankonia/outkast">"Stankonia Reviews"</a>. <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a><span class="reference-accessdate">. Retrieved April 5, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Stankonia+Reviews&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.metacritic.com%2Fmusic%2Fstankonia%2Foutkast&amp;rft.pub=Metacritic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Green-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-Green_45-0">^</a></b></span> <span class="reference-text">Green, Tony (October 31, 2000). <a rel="nofollow" class="external text" href="http://www.villagevoice.com/2000-10-31/music/make-my-crunk-the-p-funk/1">"Make My Crunk the P-Funk"</a>. <i>The Village Voice</i>. Retrieved on October 10, 2009.</span></li>
+<li id="cite_note-Hight-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hight_46-0">^</a></b></span> <span class="reference-text">Hight, Aishah. <a rel="nofollow" class="external text" href="http://www.popmatters.com/pm/review/outkast-stankonia/">"Outkast - Stankonia"</a>. <a href="/wiki/PopMatters" title="PopMatters">PopMatters</a>. Retrieved on October 10, 2009.</span></li>
+<li id="cite_note-AlternativePress-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-AlternativePress_47-0">^</a></b></span> <span class="reference-text"><span class="citation journal">"Review: Stankonia". <i><a href="/wiki/Alternative_Press" title="Alternative Press">Alternative Press</a></i> (Cleveland): 108. December 2000.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Review%3A+Stankonia&amp;rft.date=December+2000&amp;rft.genre=article&amp;rft.jtitle=Alternative+Press&amp;rft.pages=108&amp;rft.place=Cleveland&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Baker-48"><span class="mw-cite-backlink">^ <a href="#cite_ref-Baker_48-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Baker_48-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Baker, Soren. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20060925105559/http://ca.music.yahoo.com/read/review/12053892">"Outkast Reviews on Yahoo! Music"</a>. <a href="/wiki/Yahoo!_Music" title="Yahoo! Music">Yahoo! Music</a>. <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a><span class="reference-accessdate">. Retrieved May 16, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.au=Baker%2C+Soren&amp;rft.aufirst=Soren&amp;rft.aulast=Baker&amp;rft.btitle=Outkast+Reviews+on+Yahoo%21+Music&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20060925105559%2Fhttp%3A%2F%2Fca.music.yahoo.com%2Fread%2Freview%2F12053892&amp;rft.pub=Yahoo%21+Music.+Yahoo%21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Pareles-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pareles_49-0">^</a></b></span> <span class="reference-text">Pareles, Jon. (October 29, 2000) <a rel="nofollow" class="external text" href="http://www.nytimes.com/2000/10/29/arts/music-rappers-turn-dialectic-into-a-conversation.html">"MUSIC; Rappers Turn Dialectic Into a Conversation"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>. (The New York Times Company). Retrieved on October 10, 2009.</span></li>
+<li id="cite_note-nolonger-50"><span class="mw-cite-backlink">^ <a href="#cite_ref-nolonger_50-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nolonger_50-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Jones, Steve (February 11, 2002). <a rel="nofollow" class="external text" href="http://www.usatoday.com/life/music/grammy2002/2002-02-12-rap.htm">"Hip-hop no longer a Grammy outcast"</a>. <i>USA Today</i><span class="reference-accessdate">. Retrieved July 12, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Hip-hop+no+longer+a+Grammy+outcast&amp;rft.aufirst=Steve&amp;rft.au=Jones%2C+Steve&amp;rft.aulast=Jones&amp;rft.date=February+11%2C+2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.usatoday.com%2Flife%2Fmusic%2Fgrammy2002%2F2002-02-12-rap.htm&amp;rft.jtitle=USA+Today&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.time.com/time/2006/100albums/index.html">"All-Time 100 Albums"</a>. <i>Time</i> (Time Warner, Inc.). November 2, 2006.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=All-Time+100+Albums&amp;rft.date=November+2%2C+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.time.com%2Ftime%2F2006%2F100albums%2Findex.html&amp;rft.jtitle=Time&amp;rft.pub=Time+Warner%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-100best-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-100best_52-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/lists/100-best-albums-of-the-2000s-20110718/outkast-stankonia-19691231">"100 Best Albums of the 2000s: Outkast, 'Stankonia<span style="padding-right:0.2em;">'</span>"</a>. <i>Rolling Stone</i><span class="reference-accessdate">. Retrieved February 18, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=100+Best+Albums+of+the+2000s%3A+Outkast%2C+%27Stankonia%27&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Flists%2F100-best-albums-of-the-2000s-20110718%2Foutkast-stankonia-19691231&amp;rft.jtitle=Rolling+Stone&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://pitchfork.com/features/staff-lists/7710-the-top-200-albums-of-the-2000s-20-1/1/">The Top 200 Albums of the 2000s: 13) <i>Stankonia</i></a>. <a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a>. Retrieved on October 10, 2010.</span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blog.rhapsody.com/2009/12/100-best-pop-albums-of-the-decade-10-1.html">"Rhapsody's 100 Best Albums of the Decade"</a> Retrieved January 12, 2010.</span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blog.rhapsody.com/2009/10/hiphopdecade.html">"Hip-Hop's Best Albums of the Decade"</a> Retrieved January 12, 2010.</span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text">Geier, Thom; Jensen, Jeff; Jordan, Tina; Lyons, Margaret; Markovitz, Adam; Nashawaty, Chris; Pastorek, Whitney; Rice, Lynette; Rottenberg, Josh; Schwartz, Missy; Slezak, Michael; Snierson, Dan; Stack, Tim; Stroup, Kate; Tucker, Ken; Vary, Adam B.; Vozick-Levinson, Simon; Ward, Kate (December 11, 2009), "THE 100 Greatest MOVIES, TV SHOWS, ALBUMS, BOOKS, CHARACTERS, SCENES, EPISODES, SONGS, DRESSES, MUSIC VIDEOS, AND TRENDS THAT ENTERTAINED US OVER THE PAST 10 YEARS". <i>Entertainment Weekly</i>. (1079/1080):74-84</span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><span class="citation news">"The Best 50 Albums of 2001". <i>Q</i>. December 2001. pp.&#160;60–65.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=The+Best+50+Albums+of+2001&amp;rft.date=December+2001&amp;rft.genre=article&amp;rft.jtitle=Q&amp;rft.pages=60-65&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Reynolds333-58"><span class="mw-cite-backlink">^ <a href="#cite_ref-Reynolds333_58-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Reynolds333_58-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Reynolds333_58-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Reynolds, 2007. p. 333</span></li>
+<li id="cite_note-Pride-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pride_59-0">^</a></b></span> <span class="reference-text"><span class="citation web">Brunner, Rob (November 10, 2000). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,278443,00.html">"The Pride of Funkenstein"</a>. <i>Entertainment Weekly</i>. Time Warner<span class="reference-accessdate">. Retrieved July 12, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=The+Pride+of+Funkenstein&amp;rft.au=Brunner%2C+Rob&amp;rft.aufirst=Rob&amp;rft.aulast=Brunner&amp;rft.date=November+10%2C+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C278443%2C00.html&amp;rft.jtitle=Entertainment+Weekly&amp;rft.pub=Time+Warner&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Lewis-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lewis_60-0">^</a></b></span> <span class="reference-text"><span class="citation web">Lewis, Pete. <a rel="nofollow" class="external text" href="http://www.bluesandsoul.com/feature/554/janelle_monae_funky_sensation/">"Janelle Monáe: Funky Sensation"</a>. <i><a href="/wiki/Blues_%26_Soul" title="Blues &amp; Soul">Blues &amp; Soul</a></i><span class="reference-accessdate">. Retrieved July 10, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Janelle+Mon%C3%A1e%3A+Funky+Sensation&amp;rft.aufirst=Pete&amp;rft.aulast=Lewis&amp;rft.au=Lewis%2C+Pete&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bluesandsoul.com%2Ffeature%2F554%2Fjanelle_monae_funky_sensation%2F&amp;rft.jtitle=Blues+%26+Soul&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Pillcomplex-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pillcomplex_61-0">^</a></b></span> <span class="reference-text"><span class="citation web">Complex Staff (May 12, 2010). <a rel="nofollow" class="external text" href="http://www.complex.com/music/2010/05/pill-on-the-influence-of-organized-noize">"Pill On The Influence Of Organized Noize"</a>. <i><a href="/wiki/Complex_(magazine)" title="Complex (magazine)">Complex</a></i><span class="reference-accessdate">. Retrieved July 10, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.atitle=Pill+On+The+Influence+Of+Organized+Noize&amp;rft.au=Complex+Staff&amp;rft.aulast=Complex+Staff&amp;rft.date=May+12%2C+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2010%2F05%2Fpill-on-the-influence-of-organized-noize&amp;rft.jtitle=Complex&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-aus-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-aus_62-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://australian-charts.com/showitem.asp?interpret=OutKast&amp;titel=Stankonia&amp;cat=a">"Outkast – Stankonia"</a>. <a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">Australian Recording Industry Association</a>. Hung Medien<span class="reference-accessdate">. Retrieved July 12, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Outkast+%E2%80%93+Stankonia&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Faustralian-charts.com%2Fshowitem.asp%3Finterpret%3DOutKast%26titel%3DStankonia%26cat%3Da&amp;rft.pub=Australian+Recording+Industry+Association.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://austriancharts.at/showitem.asp?interpret=OutKast&amp;titel=Stankonia&amp;cat=a">"Outkast – Stankonia"</a> (in German). <a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">IFPI Austria</a>. Hung Medien<span class="reference-accessdate">. Retrieved August 18, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Outkast+%E2%80%93+Stankonia&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Faustriancharts.at%2Fshowitem.asp%3Finterpret%3DOutKast%26titel%3DStankonia%26cat%3Da&amp;rft.pub=IFPI+Austria.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ultratop.be/nl/showitem.asp?interpret=OutKast&amp;titel=Stankonia&amp;cat=a">"Outkast – Stankonia"</a> (in French). <a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">IFPI Belgium</a>. Hung Medien<span class="reference-accessdate">. Retrieved August 18, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Outkast+%E2%80%93+Stankonia&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ultratop.be%2Fnl%2Fshowitem.asp%3Finterpret%3DOutKast%26titel%3DStankonia%26cat%3Da&amp;rft.pub=IFPI+Belgium.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-65">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://danishcharts.com/showitem.asp?interpret=OutKast&amp;titel=Stankonia&amp;cat=a">"Outkast – Stankonia"</a>. <a href="/wiki/Tracklisten" title="Tracklisten">Tracklisten</a>. Hung Medien<span class="reference-accessdate">. Retrieved August 18, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Outkast+%E2%80%93+Stankonia&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fdanishcharts.com%2Fshowitem.asp%3Finterpret%3DOutKast%26titel%3DStankonia%26cat%3Da&amp;rft.pub=Tracklisten.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-66">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://dutchcharts.nl/showitem.asp?interpret=OutKast&amp;titel=Stankonia&amp;cat=a">"Outkast – Stankonia"</a> (in Dutch). <a href="/wiki/MegaCharts" title="MegaCharts">MegaCharts</a>. Hung Medien<span class="reference-accessdate">. Retrieved August 18, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Outkast+%E2%80%93+Stankonia&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fdutchcharts.nl%2Fshowitem.asp%3Finterpret%3DOutKast%26titel%3DStankonia%26cat%3Da&amp;rft.pub=MegaCharts.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://lescharts.com/showitem.asp?interpret=OutKast&amp;titel=Stankonia&amp;cat=a">"Outkast – Stankonia"</a> (in French). <a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">Syndicat National de l'Édition Phonographique</a>. Hung Medien<span class="reference-accessdate">. Retrieved August 18, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Outkast+%E2%80%93+Stankonia&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Flescharts.com%2Fshowitem.asp%3Finterpret%3DOutKast%26titel%3DStankonia%26cat%3Da&amp;rft.pub=Syndicat+National+de+l%27%C3%89dition+Phonographique.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://charts.org.nz/showitem.asp?interpret=OutKast&amp;titel=Stankonia&amp;cat=a">"Outkast – Stankonia"</a>. <a href="/wiki/Recording_Industry_Association_of_New_Zealand" title="Recording Industry Association of New Zealand" class="mw-redirect">Recording Industry Association of New Zealand</a>. Hung Medien<span class="reference-accessdate">. Retrieved August 21, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Outkast+%E2%80%93+Stankonia&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcharts.org.nz%2Fshowitem.asp%3Finterpret%3DOutKast%26titel%3DStankonia%26cat%3Da&amp;rft.pub=Recording+Industry+Association+of+New+Zealand.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://hitparade.ch/showitem.asp?interpret=OutKast&amp;titel=Stankonia&amp;cat=a">"Outkast – Stankonia"</a> (in German). <a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control</a>. Hung Medien<span class="reference-accessdate">. Retrieved August 22, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Outkast+%E2%80%93+Stankonia&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fhitparade.ch%2Fshowitem.asp%3Finterpret%3DOutKast%26titel%3DStankonia%26cat%3Da&amp;rft.pub=Media+Control.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=16" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><span class="citation book">Boyd, Todd, ed. (2003). <i>The New H.N.I.C.: The Death of Civil Rights and the Reign of Hip Hop</i>. NYU Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8147-9895-9" title="Special:BookSources/978-0-8147-9895-9">978-0-8147-9895-9</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=The+New+H.N.I.C.%3A+The+Death+of+Civil+Rights+and+the+Reign+of+Hip+Hop&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=978-0-8147-9895-9&amp;rft.pub=NYU+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Brackett, Nathan, ed. (2004). <i>The New Rolling Stone Album Guide: Completely Revised and Updated 4th Edition</i>. Fireside Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7432-0169-8" title="Special:BookSources/0-7432-0169-8">0-7432-0169-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=The+New+Rolling+Stone+Album+Guide%3A+Completely+Revised+and+Updated+4th+Edition&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-7432-0169-8&amp;rft.pub=Fireside+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Crazy Horse, Kandia, ed. (2004). <i>Rip It Up: The Black Experience in Rock 'n Roll</i>. Palgrave Macmillan. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4039-6243-0" title="Special:BookSources/978-1-4039-6243-0">978-1-4039-6243-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Rip+It+Up%3A+The+Black+Experience+in+Rock+%27n+Roll&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=978-1-4039-6243-0&amp;rft.pub=Palgrave+Macmillan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Hess, Mickey, ed. (2007). <i>Icons of Hip Hop: An Encyclopedia of the Movement, Music, and Culture</i>. <a href="/wiki/ABC-CLIO" title="ABC-CLIO">ABC-CLIO</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-313-33903-1" title="Special:BookSources/0-313-33903-1">0-313-33903-1</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Icons+of+Hip+Hop%3A+An+Encyclopedia+of+the+Movement%2C+Music%2C+and+Culture&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=0-313-33903-1&amp;rft.pub=ABC-CLIO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Moon, Tom, ed. (2008). <i>1,000 Recordings to Hear Before You Die: A Listener's Life List</i>. Workman Publishing Company, Inc.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=1%2C000+Recordings+to+Hear+Before+You+Die%3A+A+Listener%27s+Life+List&amp;rft.date=2008&amp;rft.genre=book&amp;rft.pub=Workman+Publishing+Company%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Reynold, Simon, ed. (2007). <i>Bring the Noise: 20 Years of Writing About Hip Rock &amp; Hip-Hop</i>. Faber &amp; Faber.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Bring+the+Noise%3A+20+Years+of+Writing+About+Hip+Rock+%26+Hip-Hop&amp;rft.date=2007&amp;rft.genre=book&amp;rft.pub=Faber+%26+Faber&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book"><a href="/w/index.php?title=Oliver_Wang&amp;action=edit&amp;redlink=1" class="new" title="Oliver Wang (page does not exist)">Wang, Oliver</a>, ed. (May 1, 2003). <i>Classic Material: The Hip-Hop Album Guide</i>. <a href="/wiki/ECW_Press" title="ECW Press">ECW Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-55022-561-8" title="Special:BookSources/1-55022-561-8">1-55022-561-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.btitle=Classic+Material%3A+The+Hip-Hop+Album+Guide&amp;rft.date=May+1%2C+2003&amp;rft.genre=book&amp;rft.isbn=1-55022-561-8&amp;rft.pub=ECW+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Westhoff, Ben (May 1, 2011). <i>Dirty South: OutKast, Lil Wayne, Soulja Boy, and the Southern Rappers Who Reinvented Hip-Hop</i>. <a href="/wiki/Chicago_Review_Press" title="Chicago Review Press">Chicago Review Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56976-606-1" title="Special:BookSources/1-56976-606-1">1-56976-606-1</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStankonia&amp;rft.aufirst=Ben&amp;rft.aulast=Westhoff&amp;rft.au=Westhoff%2C+Ben&amp;rft.btitle=Dirty+South%3A+OutKast%2C+Lil+Wayne%2C+Soulja+Boy%2C+and+the+Southern+Rappers+Who+Reinvented+Hip-Hop&amp;rft.date=May+1%2C+2011&amp;rft.genre=book&amp;rft.isbn=1-56976-606-1&amp;rft.pub=Chicago+Review+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stankonia&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/OutKast-Stankonia/master/26124">Stankonia</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/stankonia"><i>Stankonia</i></a> at <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.stylusmagazine.com/articles/playing_god/outkast-stankonia.htm">Playing God: Stankonia</a> at <a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a></li>
+<li><a rel="nofollow" class="external text" href="http://mikerush.prosite.com/37215/gallery">Graphic Designer, J. Michael Rush</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Outkast" title="Template:Outkast"><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Outkast" title="Template talk:Outkast"><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Outkast&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><a href="/wiki/Outkast" title="Outkast">OutKast</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><a href="/wiki/Andr%C3%A9_3000" title="André 3000">André 3000</a></b></li>
+<li><b><a href="/wiki/Big_Boi" title="Big Boi">Big Boi</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Southernplayalisticadillacmuzik" title="Southernplayalisticadillacmuzik">Southernplayalisticadillacmuzik</a></i> (1994)</li>
+<li><i><a href="/wiki/ATLiens" title="ATLiens">ATLiens</a></i> (1996)</li>
+<li><i><a href="/wiki/Aquemini" title="Aquemini">Aquemini</a></i> (1998)</li>
+<li><i><strong class="selflink">Stankonia</strong></i> (2000)</li>
+<li><i><a href="/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below">Speakerboxxx/The Love Below</a></i> (2003)</li>
+<li><i><a href="/wiki/Idlewild_(Outkast_album)" title="Idlewild (Outkast album)">Idlewild</a></i> (2006)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Big_Boi_and_Dre_Present..._OutKast" title="Big Boi and Dre Present... OutKast" class="mw-redirect">Big Boi and Dre Present... OutKast</a></i> (2001)</li>
+<li><i><a href="/wiki/Sir_Lucious_Left_Foot:_The_Son_of_Chico_Dusty" title="Sir Lucious Left Foot: The Son of Chico Dusty">Sir Lucious Left Foot: The Son of Chico Dusty</a></i> (2010)</li>
+<li><i><a href="/wiki/Vicious_Lies_and_Dangerous_Rumors" title="Vicious Lies and Dangerous Rumors">Vicious Lies and Dangerous Rumors</a></i> (2012)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Player%27s_Ball" title="Player's Ball">Player's Ball</a>"</li>
+<li>"<a href="/wiki/Southernplayalisticadillacmuzik_(song)" title="Southernplayalisticadillacmuzik (song)">Southernplayalisticadillacmuzik</a>"</li>
+<li>"<a href="/wiki/Git_Up,_Git_Out" title="Git Up, Git Out">Git Up, Git Out</a>"</li>
+<li>"<a href="/wiki/Elevators_(Me_%26_You)" title="Elevators (Me &amp; You)">Elevators (Me &amp; You)</a>"</li>
+<li>"<a href="/wiki/ATLiens_(song)" title="ATLiens (song)">ATLiens</a>"</li>
+<li>"<a href="/wiki/Jazzy_Belle" title="Jazzy Belle">Jazzy Belle</a>"</li>
+<li>"<a href="/wiki/Rosa_Parks_(song)" title="Rosa Parks (song)">Rosa Parks</a>"</li>
+<li>"<a href="/wiki/Skew_It_on_the_Bar-B" title="Skew It on the Bar-B">Skew It on the Bar-B</a>"</li>
+<li>"<a href="/wiki/Da_Art_of_Storytellin%27_(Pt._1)" title="Da Art of Storytellin' (Pt. 1)">Da Art of Storytellin' (Pt. 1)</a>"</li>
+<li>"<a href="/wiki/B.O.B_(song)" title="B.O.B (song)">B.O.B</a>"</li>
+<li>"<a href="/wiki/Ms._Jackson" title="Ms. Jackson">Ms. Jackson</a>"</li>
+<li>"<a href="/wiki/So_Fresh,_So_Clean" title="So Fresh, So Clean">So Fresh, So Clean</a>"</li>
+<li>"<a href="/wiki/The_Whole_World" title="The Whole World">The Whole World</a>"</li>
+<li>"<a href="/wiki/Land_of_a_Million_Drums" title="Land of a Million Drums">Land of a Million Drums</a>"</li>
+<li>"<a href="/wiki/Hey_Ya!" title="Hey Ya!">Hey Ya!</a>"</li>
+<li>"<a href="/wiki/The_Way_You_Move" title="The Way You Move">The Way You Move</a>"</li>
+<li>"<a href="/wiki/Roses_(Outkast_song)" title="Roses (Outkast song)">Roses</a>"</li>
+<li>"<a href="/wiki/Ghetto_Musick_/_Prototype" title="Ghetto Musick / Prototype">Ghetto Musick / Prototype</a>"</li>
+<li>"<a href="/wiki/Mighty_O" title="Mighty O">Mighty O</a>"</li>
+<li>"<a href="/wiki/Morris_Brown_(song)" title="Morris Brown (song)">Morris Brown</a>"</li>
+<li>"<a href="/wiki/Idlewild_Blue_(Don%27tchu_Worry_%27Bout_Me)" title="Idlewild Blue (Don'tchu Worry 'Bout Me)">Idlewild Blue (Don'tchu Worry 'Bout Me)</a>"</li>
+<li>"<a href="/wiki/Hollywood_Divorce" title="Hollywood Divorce">Hollywood Divorce</a>"</li>
+<li>"<a href="/wiki/The_Train_(song)" title="The Train (song)">The Train</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Gone_Be_Fine" title="Gone Be Fine">Gone Be Fine</a>"</li>
+<li>"<a href="/wiki/International_Players_Anthem_(I_Choose_You)" title="International Players Anthem (I Choose You)">International Players Anthem (I Choose You)</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Outkast_discography" title="Outkast discography">Discography</a></li>
+<li><a href="/wiki/Organized_Noize" title="Organized Noize">Organized Noize</a></li>
+<li><a href="/wiki/Dungeon_Family" title="Dungeon Family">Dungeon Family</a></li>
+<li><a href="/wiki/Mr._DJ" title="Mr. DJ">Mr. DJ</a></li>
+<li><a href="/wiki/The_Skinny_(album)" title="The Skinny (album)" class="mw-redirect">The Skinny</a></li>
+<li><a href="/wiki/Idlewild_(film)" title="Idlewild (film)">Idlewild</a></li>
+<li><a href="/wiki/Bryan_Barber" title="Bryan Barber">Bryan Barber</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div style="display:none; right:10px;" class="metadata topicon nopopups" id="good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/15px-Symbol_support_vote.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/23px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/30px-Symbol_support_vote.svg.png 2x" data-file-width="180" data-file-height="185" /></a></div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1015
+CPU time usage: 3.636 seconds
+Real time usage: 3.794 seconds
+Preprocessor visited node count: 10721/1000000
+Preprocessor generated node count: 49954/1500000
+Post‐expand include size: 161174/2048000 bytes
+Template argument size: 13449/2048000 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Lua time usage: 0.302/10.000 seconds
+Lua memory usage: 3.39 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1036528-0!*!0!!en!4!* and timestamp 20140531053238 and revision id 610733791
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Stankonia&amp;oldid=610733791">http://en.wikipedia.org/w/index.php?title=Stankonia&amp;oldid=610733791</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2000_albums" title="Category:2000 albums">2000 albums</a></li><li><a href="/wiki/Category:Outkast_albums" title="Category:Outkast albums">Outkast albums</a></li><li><a href="/wiki/Category:LaFace_Records_albums" title="Category:LaFace Records albums">LaFace Records albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Organized_Noize" title="Category:Albums produced by Organized Noize">Albums produced by Organized Noize</a></li><li><a href="/wiki/Category:Grammy_Award_for_Best_Rap_Album" title="Category:Grammy Award for Best Rap Album">Grammy Award for Best Rap Album</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Pages_using_web_citations_with_no_URL" title="Category:Pages using web citations with no URL">Pages using web citations with no URL</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_April_2013" title="Category:Use mdy dates from April 2013">Use mdy dates from April 2013</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stankonia&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stankonia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Stankonia"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Stankonia"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Stankonia" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Stankonia&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Stankonia&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Stankonia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Stankonia" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Stankonia&amp;oldid=610733791" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Stankonia&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q378166" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Stankonia&amp;id=610733791" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Stankonia">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Stankonia&amp;oldid=610733791&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Stankonia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Stankonia" title="Stankonia – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Stankonia" title="Stankonia – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Stankonia" title="Stankonia – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Stankonia" title="Stankonia – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Stankonia" title="Stankonia – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Stankonia" title="Stankonia – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Stankonia" title="Stankonia – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Stankonia" title="Stankonia – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q378166#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 May 2014 at 02:53.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Stankonia" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"mw.PopUpMediaTransform":"loading","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mw.PopUpMediaTransform&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":196,"wgHostname":"mw1184"});
+}</script>
+	</body>
+</html>
+	

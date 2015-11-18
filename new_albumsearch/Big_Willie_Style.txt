@@ -1,0 +1,817 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+	<title>Lyrics Search will smith big willie style</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Search for lyrics and artists in our massive database of song lyrics!" />
+	<link rel="canonical" href="http://www.songlyrics.com/index.php?section=search&amp;searchW=will smith big willie style" />
+	<meta name="msvalidate.01" content="CF28C9C2E5FDBD5C7CA7F6FE394BD121" />
+	<meta name="robots" content="noydir, noodp" />
+	<meta property="fb:admins" content="31113169,100000933112467,1383859676" />
+	<meta name="fb:app_id" content="1418134321780018" />
+	
+	<link rel="icon" href="http://www.songlyrics.com/favicon.ico" type="image/ico" />
+	<link href="http://www.songlyrics.com/css/global.css" rel="stylesheet" type="text/css" />
+	
+	<script src="http://www.songlyrics.com/js/jquery.min.js" type="text/javascript"></script>
+
+	
+
+	
+	
+
+	<!-- head info -->
+	
+
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+<script type='text/javascript'>
+
+
+
+
+googletag.defineSlot('/1008608/GENERIC_728_ATF', [728, 90], 'div-gpt-ad-1330724804187-2').addService(googletag.pubads());
+googletag.defineSlot('/1008608/GENERIC_160_ATF', [160, 600], 'div-gpt-ad-1330724804187-0').addService(googletag.pubads());
+googletag.defineSlot('/1008608/GENERIC_300_ATF', [300, 250], 'div-gpt-ad-1330724804187-1').addService(googletag.pubads());
+
+
+
+
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
+
+<script type="text/javascript">
+	$(function(){
+		$.superbox();
+	});
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+  $(document).ready(function() {
+	function addMega(){
+	$(this).addClass("hovering");
+	$($(this).find("h2 a")).addClass("hover");
+	}
+	function removeMega(){
+	$(this).removeClass("hovering");
+	$($(this).find("h2 a")).removeClass("hover");
+	}
+  var megaConfig = {
+     interval: 30,
+     sensitivity: 4,
+     over: addMega,
+     timeout: 30,
+     out: removeMega
+  };
+  $("li.mega").hoverIntent(megaConfig)
+  });
+ //]]>
+</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-235369-1']);
+  _gaq.push(['_setDomainName', 'songlyrics.com']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<!-- Quantcast Tag, part 1 -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+</script>
+<!-- End Quantcast tag, part 1 -->
+
+
+
+</head>
+<body  >
+<div id='fb-root'></div>
+<script>
+
+$(window).load(function () {
+	
+			
+
+		setTimeout (function(){
+			$("#jangoPlayer2").attr('src',$("#jangoPlayer2").attr('longdesc'));
+			},3000);
+
+		
+		
+});
+
+
+</script>
+
+<div id="header">
+
+<div id="headernav">
+	<div class="headinner">
+
+		<ul class="menu floatleft">
+			<li class="mega">
+			  <h2><a href="/">Lyrics</a></h2>
+				<div>
+					<p><a href="/top-songs-lyrics.html">Popular Lyrics</a></p>
+					<p><a href="/top100.php">Billboard Hot 100</a></p>
+					<p><a href="/top-upcoming-songs.html">Upcoming Lyrics</a></p>
+					<p><a href="/latestAddedSongs">Recently Added</a></p>
+					<p class="menu-hr"></p>
+					<p><a href="http://www.songlyrics.com/news/top-songs/2011/">Top Lyrics of 2011</a></p>
+					<p><a href="http://www.songlyrics.com/news/top-songs/2010/">Top Lyrics of 2010</a></p>
+					<p><a href="http://www.songlyrics.com/news/top-songs/2009/">Top Lyrics of 2009</a></p>
+					<p><a href="http://www.songlyrics.com/news/top-songs/all-time/">More &raquo;</a></p>
+				</div>
+			</li>
+			<li class="mega">
+			  <h2><a href="/top-artists-lyrics.html">Artists</a></h2>
+				<div>
+					<p><a href="/top-artists-lyrics.html">Popular Artists</a></p>
+					<p><a href="/a/">Artists A-Z</a></p>
+					<p class="menu-hr"></p>
+					<p><a href="/top-albums-lyrics.html">Popular Albums</a></p>
+					<p><a href="/top-upcoming-albums.html">Upcoming Albums</a></p>
+					<p class="menu-hr"></p>
+					<p><a href="/adele-lyrics/">Adele</a></p>
+					<p><a href="/rihanna-lyrics/">Rihanna</a></p>
+					<p><a href="/katy-perry-lyrics/">Katy Perry</a></p>
+					<p><a href="/lady-gaga-lyrics/">Lady Gaga</a></p>
+					<p><a href="/lil-wayne-lyrics/">Lil Wayne</a></p>
+
+				</div>
+			</li>
+			<li class="mega">
+			  <h2><a href="/musicgenres.php">Genres</a></h2>
+				<div>
+					<p><a href="/rock-lyrics.php" title="Rock Lyrics">Rock</a></p>
+					<p><a href="/r-and-b-lyrics.php" title="R&B Lyrics">R&amp;B</a></p>
+					<p><a href="/country-music-lyrics.php" title="Country Lyrics">Country</a></p>
+					<p><a href="/hip-hop-rap-lyrics.php" title="Hip Hop and Rap Lyrics">Hip Hop/Rap</a></p>
+					<p><a href="/pop-lyrics.php" title="Pop Lyrics">Pop</a></p>
+					<p><a href="/christian-lyrics.php" title="Christian Lyrics">Christian</a></p>
+					<p><a href="/dance-lyrics.php" title="Dance Lyrics">Dance</a></p>
+					<p><a href="/latin-lyrics.php" title="Latin Lyrics">Latin</a></p>
+					<p class="menu-hr"></p>
+					<p><a href="/musicgenres.php" title="All Genre Charts">All Genres &raquo;</a></p>
+				</div>
+			</li>
+
+			<li class="mega">
+			  <h2><a href="http://www.songlyrics.com/news/">News</a></h2>
+				<div>
+					<p><a href="http://www.songlyrics.com/news/">All News</a></p>
+					<p><a href="http://www.songlyrics.com/news/category/news-roundup/">Daily Roundup</a></p>
+				</div>
+			</li>
+
+			<li class="mega">
+				<h2><a href="http://www.songlyrics.com/news/album-reviews/">Reviews</a></h2>
+				<div>
+			  	<p><a href="http://www.songlyrics.com/news/album-reviews/">Album Reviews</a></p>
+			  	<p><a href="http://www.songlyrics.com/news/category/song-reviews/">Song Reviews</a></p>
+			  </div>
+			</li>
+
+			<li class="mega">
+			  <h2><a href="http://www.songlyrics.com/news/category/spotlight/">Spotlight</a></h2>
+			</li>
+
+		</ul>
+				<p class="login-menu"><a class="btn" href="http://www.songlyrics.com/member-login.php">Sign In</a><a class="btn" href="http://www.songlyrics.com/member-register.php">Register</a></p>
+				<ul class="menu floatright clearright">
+			<li class="mega">
+				<h2><a href="https://www.facebook.com/SongLyrics">Facebook</a></h2>
+			</li>
+			<li>
+				<h2><a href="http://www.songlyrics.com/news/advertise/">Advertise</a></h2>
+			</li>
+			<li class="lasttab">
+				<h2><a href="http://www.songlyrics.com/news/submit-lyrics/">Submit Lyrics</a></h2>
+			</li>
+		</ul>
+
+
+	</div><!-- end headerinner -->
+</div><!-- end headernav -->
+
+<div class="headinner">
+
+	<a id="logo" href="/" title="Lyrics">Song Lyrics</a>
+
+	<div id="header_search">
+	<form name="searchForm" class="searchForm" method="get" action="/index.php">
+	 <input type="hidden" name="section" value="search" />
+
+	<fieldset>
+		<input type="text" name="searchW" class="searchW input" value="Search artists, albums, and songs" onfocus="if(this.value=='Search artists, albums, and songs')(this.value='');" onblur="if(this.value=='')(this.value='Search artists, albums, and songs');" />
+		<div class="submit-btn"><input type="submit" name="submit" value="Search" class="submit-input-wrapped searchSubmit" /></div>
+	</fieldset>
+	</form>
+	</div>
+
+</div><!-- end headerinner -->
+</div><!-- end header -->
+
+<div id="wrapper">
+
+<div id="fbbox">
+	<div id="fbbox-count">
+		<span id="fbbox-total">
+		55k
+		</span>
+	</div>
+	<a id="fbbox-likebutton" target="_blank" href="https://www.facebook.com/SongLyrics">Like</a>
+</div>
+
+
+<script type="text/javascript">
+<!--
+function autoSearch(event,formObj,$type) {
+  if ((event.which && event.which == 13) || (event.keyCode && event.keyCode == 13)) {
+  	if ($type == 1) {
+  		$('#searchWithinLyrics').val('');
+  	} else {
+  		$('#searchW2').val('');
+  	}
+  	formObj.submit();
+  }
+  return true;
+}
+-->
+</script>
+
+
+<div class="masthead"></div>
+
+<div class="wrapper-inner">
+
+		<div class="topnav">
+		
+			<ul class="breadcrumb">
+				<li class="home"><a href="/" title="Lyrics"><span>Lyrics</span></a></li>
+				<li class="current">Lyrics Search</li>
+			</ul>
+		
+		</div><!-- end topnav -->
+	
+	<div class="coltwo-wide-2">
+											
+					<form method="get" name="searchForm" class="searchForm" action="">
+						<input type="hidden" name="section" value="search" />
+						
+						<input type="text" name="searchW" class="searchW search-wide" value="will smith big willie style" />
+						
+						<div class="submit-btn"><input type="submit" name="submit" value="Search" onclick="javascript:$('#searchWithinLyrics').val('');this.form.submit();" class="submit-input-wrapped searchSubmit" /></div>
+						
+						<div class="listbox filters">
+							<h3 class="listbox-title">Show Results</h3>
+							<ul class="tracklist">
+								<li><input type="checkbox" name="searchIn1" value="artist" checked="checked" />&nbsp; Artist</li>
+								<li><input type="checkbox" name="searchIn2" value="album"  checked="checked"  />&nbsp;  Album</li>
+								<li><input type="checkbox" name="searchIn3" value="song"  checked="checked"  />&nbsp; Song Title</li>
+								<li><input type="checkbox" name="searchIn4" value="lyrics"  checked="checked"  />&nbsp; Within Lyrics</li>
+								<li><input type="checkbox" name="searchIn5" value="phrase"    />&nbsp; Exact Match</li>
+							</ul>
+						</div>
+						
+					</form>
+					
+					<div class="search-results">1000 results</div>
+				
+					<div class="clear"></div>
+			
+					<ul class="pagination">
+							
+																								<li class="li_pagination active">1</li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=will smith big willie style&pageNo=2">2</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=will smith big willie style&pageNo=3">3</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=will smith big willie style&pageNo=4">4</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=will smith big willie style&pageNo=5">5</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=will smith big willie style&pageNo=6">6</a></li>
+																																<li class="li_pagination "><a href="">...</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=will smith big willie style&pageNo=50">50</a></li>
+																																<li class="li_pagination next"><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=will smith big willie style&pageNo=2">Next &raquo;</a></li>
+																											
+					</ul>
+			
+																		<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/big-willie-style-lyrics/" title="Big Willie Style"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/big-willie-style-lyrics/" title="Big Willie Style">Big Willie Style Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>{This one goes out to all the big Willies}
+
+Big Will the high roller
+Strolling through with an entourage
+Hard to camouflage when you livin' this large
+I be smooth like Debarge with a five car gar</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/smith-will/big-willie-style-lyrics/" title="Big Willie Style"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/102/smith-will-big-willie-style/smith-will-15912-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Smith Will" /></a>
+								<h3><a href="http://www.songlyrics.com/smith-will/big-willie-style-lyrics/" title="Big Willie Style">Big Willie Style Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/smith-will-lyrics/">Smith Will</a> on album <a href="http://www.songlyrics.com/smith-will/big-willie-style/">Big Willie Style</a></p>
+									<p>Smith Will
+Big Willie Style
+Big Willie Style
+Verse 1: Will Smith
+
+big Will the high roller
+strolling through with an entoruage
+hard to camaflouge when you livin' this large
+I be smooth like d</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/tlc/big-willie-style-lyrics/" title="Big Willie Style"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/204/tlc/tlc-9894.jpg" width="90" height="90" class="imgserp" alt="TLC" /></a>
+								<h3><a href="http://www.songlyrics.com/tlc/big-willie-style-lyrics/" title="Big Willie Style">Big Willie Style Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/tlc-lyrics/">TLC</a> on album <a href="http://www.songlyrics.com/tlc/miscellaneous/">Miscellaneous</a></p>
+									<p>TLC
+Miscellaneous
+Big Willie Style
+Will Smith & Left Eye
+(appears on the album Big Willie Style and the Wild Wild West single)
+
+
+
+Unhh....ha ha...
+This one goes out to all the Big Willies...
+
+</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/intro-lyrics/" title="Intro"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/intro-lyrics/" title="Intro">Intro Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>Good evening ladies and gentleman
+I'm Mia Pittson
+I'm standing in front of the historic Manns Chinese Theatre
+Where thousands, literally thousands of fans, journalists, and well-wishers have</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/keith-b-real-iii-interlude-lyrics/" title="Keith B-Real III (Interlude)"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/keith-b-real-iii-interlude-lyrics/" title="Keith B-Real III (Interlude)">Keith B-Real III (Interlude) Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>Excuse me, I know him, I know him, excuse me, Will
+Charlie, get this boy up out of here
+I know, I know, I know, hold up
+Just give me one second, man
+
+Keith, what man
+When I look back at this I r</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/gettin-jiggy-wit-it-lyrics/" title="Gettin' Jiggy Wit It"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/gettin-jiggy-wit-it-lyrics/" title="Gettin' Jiggy Wit It">Gettin' Jiggy Wit It Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>Bring it, woo
+Uh, uh, uh, uh
+Ha, ha, ha, ha
+What, what, what, what
+Ha, ha, ha, ha, uh
+
+On your mark, ready, set, let's go
+Dance floor pro, I know you know
+I go psycho when my new joint hit
+Ju</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/candy-lyrics/" title="Candy"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/candy-lyrics/" title="Candy">Candy Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>Will Smith
+Miscellaneous
+Candy
+Excuse me Miss, can we chat for a second 
+I'd ask how you doin', but you fine I reckon 
+Wait, do you have a man, cause I aint' into home-wreckin 
+No?. .Aiight cool</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/y-all-know-lyrics/" title="Y'All Know"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/y-all-know-lyrics/" title="Y'All Know">Y'All Know Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>Uh there we go
+Let me go and jig this thing on out
+Go ahead baby you got it
+Big Will raising the roof, raising the roof
+Show him how to do it Will
+
+Observe the high roller
+Mic controller
+Numbe</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/keith-b-real-ii-interlude-lyrics/" title="Keith B-Real II (Interlude)"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/keith-b-real-ii-interlude-lyrics/" title="Keith B-Real II (Interlude)">Keith B-Real II (Interlude) Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>Yeah, this is Keith B Rizzeal
+Looks like this brother Will Smith is just avoiding me
+But I will not be ignored, you understand
+
+Excuse me, Will, Will one more question, my brother
+Look I see you </p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/don-t-say-nothin-lyrics/" title="Don't Say Nothin'"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/don-t-say-nothin-lyrics/" title="Don't Say Nothin'">Don't Say Nothin' Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>Yo, when I released my first single back in like '86
+  (Jus don't, uh, uh)
+People was like oh you know that's popcorn and you know they weak
+  (Jus don't, uh, uh)
+You know then I mess around, I go</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/keith-b-real-i-interlude-lyrics/" title="Keith B-Real I (Interlude)"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/keith-b-real-i-interlude-lyrics/" title="Keith B-Real I (Interlude)">Keith B-Real I (Interlude) Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>I am Keith B-Real, story breaker, keeping it real
+Here I'm in some Chinese mans theater
+And this brother is keeping it real damn ridiculous
+This is belemptious, we go people up here
+
+Posing as sl</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/ali-tatyana/boy-you-knock-me-out-big-willie-style-lyrics/" title="Boy You Knock Me Out (Big Willie Style)"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/254/ali-tatyana/ali-tatyana-2294.jpg" width="90" height="90" class="imgserp" alt="Ali Tatyana" /></a>
+								<h3><a href="http://www.songlyrics.com/ali-tatyana/boy-you-knock-me-out-big-willie-style-lyrics/" title="Boy You Knock Me Out (Big Willie Style)">Boy You Knock Me Out (Big Willie Style) Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/ali-tatyana-lyrics/">Ali Tatyana</a> on album <a href="http://www.songlyrics.com/ali-tatyana/miscellaneous/">Miscellaneous</a></p>
+									<p>Ali Tatyana
+Miscellaneous
+Boy You Knock Me Out (Big Willie Style)
+VERSE 1:
+From the moment that I saw you babe, all I think about is loving you.
+Every time that you are near, I just can't help b</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/yes-yes-y-all-lyrics/" title="Yes Yes Y'All"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/yes-yes-y-all-lyrics/" title="Yes Yes Y'All">Yes Yes Y'All Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>Yes
+Get the start of the new jiggyness
+With the track masters
+Camp Lo and
+Willie
+Gon' give it to ya
+Know what I mean
+Lot of macaronis here
+Check it out for all the
+Tenderonis
+Ah, ha, ha
+Lik</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/i-loved-you-lyrics/" title="I Loved You"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/i-loved-you-lyrics/" title="I Loved You">I Loved You Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>I thought you was the one hon' yeah when I met you at the freak nit
+Whoever thought you'd be the type to creep and keep secrets
+My friends said don't sleep but I did so now I'm reapin'
+The seeds th</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/just-the-two-of-us-lyrics/" title="Just The Two Of Us"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/just-the-two-of-us-lyrics/" title="Just The Two Of Us">Just The Two Of Us Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>Just the two of us, yeah
+Just the two of us
+Just the two of us
+
+From the first time the doctor placed you in my arms
+I knew I'd meet death 'fore I'd let you meet harm
+Although questions arose in</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/miami-lyrics/" title="Miami"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/miami-lyrics/" title="Miami">Miami Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>Yeah, yeah, yeah, yeah
+Miami, south beach bringing the heat
+Can y'all feel that, can y'all feel that
+Check it out
+
+Here I am in the place where I 'com let go
+But Miami the place and the sun set </p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/chasing-forever-lyrics/" title="Chasing Forever"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/chasing-forever-lyrics/" title="Chasing Forever">Chasing Forever Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>Yeow, so fo' ever
+Oh forever, forever, forever, yeah
+Oh
+Chasin' forever
+
+Early mornin' wake up
+Gently with the caress on your hand
+And that kimono that I bought you on my trip to Japan
+Sunshin</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/men-in-black-lyrics/" title="Men In Black"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/men-in-black-lyrics/" title="Men In Black">Men In Black Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>Ooh
+Here come the Men In Black
+It's the MIB's, uh, here come the MIB's
+Here come the Men In Black
+(Men In Black)
+They won't let you remember
+
+Nah nah nah
+The good guys dress in black, remember</p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/will-smith/it-s-all-good-lyrics/" title="It's All Good"><img src="http://cdn1.songlyricscom.netdna-cdn.com/album_covers/70/will-smith-big-willie-style/will-smith-43675-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Will Smith" /></a>
+								<h3><a href="http://www.songlyrics.com/will-smith/it-s-all-good-lyrics/" title="It's All Good">It's All Good Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/will-smith-lyrics/">Will Smith</a> on album <a href="http://www.songlyrics.com/will-smith/big-willie-style/">Big Willie Style</a></p>
+									<p>It's all good pop the bubbly life is lovely
+All sun no rain, no strain can't complain
+Pass hell pain, but Lord Kumbaya
+Now, I boom shaka laka laka boo ahh ahh
+I got the good life, no strife, real </p>
+								</div>
+							</div>
+													<div class="serpresult">
+								<a href="http://www.songlyrics.com/smith-will/y-all-know-lyrics/" title="Y'all Know"><img src="http://cdn2.songlyricscom.netdna-cdn.com/album_covers/102/smith-will-big-willie-style/smith-will-15912-big-willie-style.jpg" width="90" height="90" class="imgserp" alt="Smith Will" /></a>
+								<h3><a href="http://www.songlyrics.com/smith-will/y-all-know-lyrics/" title="Y'all Know">Y'all Know Lyrics</a></h3>
+								<div class="serpdesc-2">
+									<p>by <a href="http://www.songlyrics.com/smith-will-lyrics/">Smith Will</a> on album <a href="http://www.songlyrics.com/smith-will/big-willie-style/">Big Willie Style</a></p>
+									<p>Smith Will
+Big Willie Style
+Y'all Know
+Verse 1: Will Smith
+
+Observe the high roller
+Mic controller
+Number one hip-hop son
+call me solar
+Why? cause I shine
+Praise the Big Willie I'm
+Raised </p>
+								</div>
+							</div>
+																
+					<ul class="pagination">
+							
+																								<li class="li_pagination active">1</li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=will smith big willie style&pageNo=2">2</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=will smith big willie style&pageNo=3">3</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=will smith big willie style&pageNo=4">4</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=will smith big willie style&pageNo=5">5</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=will smith big willie style&pageNo=6">6</a></li>
+																																<li class="li_pagination "><a href="">...</a></li>
+																																<li class="li_pagination "><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=will smith big willie style&pageNo=50">50</a></li>
+																																<li class="li_pagination next"><a href="/index.php?section=search&searchIn1=artist&searchIn2=album&searchIn3=song&searchIn4=lyrics&searchW=will smith big willie style&pageNo=2">Next &raquo;</a></li>
+																											
+					</ul>
+				
+								
+	</div> <!--end coltwo-center-->
+	
+	<div class="clear"></div>
+
+	<div id="ad-absolute-728">
+	
+			
+		<!-- ToneMedia_GENERIC_728_ATF -->
+		<script type="text/javascript">
+		cf_page_artist = "";
+		cf_page_song = "";
+		cf_adunit_id = "39381380";
+		</script>
+		
+			
+		
+		<!-- Gorilla_SEARCH_728_ATF -->
+		<script type="text/javascript">
+		  if(typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if(typeof(gnm_tile) == 'undefined') gnm_tile=1;
+		  document.write('<scr'+'ipt src="http://n4403ad.doubleclick.net/adj/gn.songlyrics.com1/search;sect=search;mtfInline=true;sz=728x90;dcopt=ist;type=pop;type=int;tile='+(gnm_tile++)+';ord='+gnm_ord+'?" type="text/javascript"></scr'+'ipt>');
+		</script>
+		
+		
+		
+	</div>
+
+</div> <!--end wrapper-inner-->
+
+
+
+
+</div>
+
+<div class="footer">
+<table class="footer-inner">
+<tbody>
+
+<tr>
+
+	<td width="145">
+		<h3>Genres</h3>
+		<ul>
+			<li><a href="/rock-lyrics.php" title="Rock Lyrics">Rock</a></li>
+			<li><a href="/r-and-b-lyrics.php" title="R&B Lyrics">R&amp;B</a></li>
+			<li><a href="/country-music-lyrics.php" title="Country Lyrics">Country</a></li>
+			<li><a href="/hip-hop-rap-lyrics.php" title="Hip Hop and Rap Lyrics">Hip Hop/Rap</a></li>
+			<li><a href="/pop-lyrics.php" title="Pop Lyrics">Pop</a></li>
+			<li><a href="/christian-lyrics.php" title="Christian Lyrics">Christian</a></li>
+		</ul>
+	</td>
+
+	<td width="170">
+		<h3>Top Lyrics</h3>
+		<ul>
+			<li><a href="/top-songs-lyrics.html">Top Songs</a></li>
+			<li><a href="/top-artists-lyrics.html">Top Artists</a></li>
+			<li><a href="/top-albums-lyrics.html">Top Albums</a></li>
+			<li><a href="/top-upcoming-songs.html">Upcoming Songs</a></li>
+			<li><a href="/top-upcoming-albums.html">Upcoming Albums</a></li>
+			<li><a href="/top100.php" title="Billboard Hot 100 Songs">Billboard Hot 100</a></li>
+		</ul>
+	</td>
+
+	<td width="180">
+		<h3>SongLyrics</h3>
+		<ul>
+			<li><a href="http://www.songlyrics.com/news/advertise/" title="Advertise on SongLyrics.com">Advertise on SL</a></li>
+			<li><a href="http://www.songlyrics.com/news/featured-blogs/" title="Featured Blogs">Featured Blogs</a></li>
+			<li><a href="http://www.songlyrics.com/news/contact-us/" title="Contact Us">Contact Us</a></li>
+			<li><a href="http://www.songlyrics.com/news" title="Music News">Music News</a></li>
+			<li><a href="/privacy.php" title="Privacy Policy">Privacy Policy</a></li>
+			<li><a href="/termsconditions.php" title="Terms of Use">Terms of Use</a></li>
+		</ul>
+	</td>
+
+	<td width="210" class="td-footer-last">
+		<h3>Company</h3>
+		<ul>
+			<li class="ftlast-li">Copyright &copy; 2014 SongLyrics</li>
+			<li class="ftlast-li">
+				<ul>
+					<li class="ft-social">Follow us:</li>
+					<li class="ft-social"><a class="ft-fb" href="http://www.facebook.com/SongLyrics" target="_blank" title="SongLyrics on Facebook">Facebook</a></li>
+					<li class="ft-social"><a class="ft-tw" href="http://twitter.com/#!/songlyrics" target="_blank" title="Follow SongLyrics on Twitter">Twitter</a></li>
+				</ul>
+			</li>
+			<li class="ftlast-li">
+			<a href="/about.php">About</a>
+			</li>
+			<!--<li class="ftlast-li">Created in 1.240761 sec</li>-->
+			<li class="ftlast-li">
+				<ul>
+					<li class="ft-logo"><a class="ft-sm" href="http://www.soundmedia.com/" target="_blank" title="Advertise on SongLyrics">SoundMedia</a></li>
+					<li class="ft-logo"><a class="ft-tf" href="http://www.tonemedia.com/" target="_blank" title="ToneMedia Digital Media Platform">ToneMedia</a></li>
+				</ul>
+			</li>
+		</ul>
+	</td>
+
+</tr>
+
+</tbody>
+</table>
+
+<div id="footer-bottom">
+
+	<ul id="footer-artists">
+		<li><h4>Artists:</h4></li>
+		<li><a href="/a/" title="A">A</a></li>
+		<li><a href="/b/" title="B">B</a></li>
+		<li><a href="/c/" title="C">C</a></li>
+		<li><a href="/d/" title="D">D</a></li>
+		<li><a href="/e/" title="E">E</a></li>
+		<li><a href="/f/" title="F">F</a></li>
+		<li><a href="/g/" title="G">G</a></li>
+		<li><a href="/h/" title="H">H</a></li>
+		<li><a href="/i/" title="I">I</a></li>
+		<li><a href="/j/" title="J">J</a></li>
+		<li><a href="/k/" title="K">K</a></li>
+		<li><a href="/l/" title="L">L</a></li>
+		<li><a href="/m/" title="M">M</a></li>
+		<li><a href="/n/" title="N">N</a></li>
+		<li><a href="/o/" title="O">O</a></li>
+		<li><a href="/p/" title="P">P</a></li>
+		<li><a href="/q/" title="Q">Q</a></li>
+		<li><a href="/r/" title="R">R</a></li>
+		<li><a href="/s/" title="S">S</a></li>
+		<li><a href="/t/" title="T">T</a></li>
+		<li><a href="/u/" title="U">U</a></li>
+		<li><a href="/v/" title="V">V</a></li>
+		<li><a href="/w/" title="W">W</a></li>
+		<li><a href="/x/" title="X">X</a></li>
+		<li><a href="/y/" title="Y">Y</a></li>
+		<li><a href="/z/" title="Z">Z</a></li>
+		<li><a href="/0/" title="#">#</a></li>
+	</ul>
+
+</div><!-- end footer-bottom -->
+
+</div><!-- end footer -->
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+
+COMSCORE.beacon({
+	c1: 2,
+	c2: "6772046",
+	c3: "",
+	c4: document.location.href, // Replace this with the page URL that the site is on here, and also enter it into the <noscript> img below
+	c5: "",
+	c6: "",
+	c15: ""
+});
+
+</script>
+
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6772046&c3=&c4=www.songlyrics.com&c5=&c6=&c15=&cj=1" />
+</noscript>
+
+<!-- End comScore Tag -->
+
+<!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">
+
+_qevents.push({
+qacct:"p-f3j8gGpPsQh2-"
+});
+
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-f3j8gGpPsQh2-.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag, part 2 -->
+
+<!-- Begin Po.st Tag -->
+<script type="text/javascript" src="http://i.po.st/share/script/post-widget.js#publisherKey=httpwwwsonglyricscom-700"></script>
+<!-- End Po.st Tag -->
+
+ 
+
+</body>
+</html>

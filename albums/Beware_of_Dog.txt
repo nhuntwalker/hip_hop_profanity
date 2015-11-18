@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Beware of Dog (album) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Beware_of_Dog_(album)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Beware_of_Dog_(album)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Beware_of_Dog_(album)&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Beware_of_Dog_(album)" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Beware_of_Dog_(album)","wgTitle":"Beware of Dog (album)","wgCurRevisionId":599894487,"wgRevisionId":599894487,"wgArticleId":4136599,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","2000 debut albums","Bow Wow (rapper) albums","Albums produced by Jermaine Dupri","2000s hip hop album stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Beware_of_Dog_(album)","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1933879"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Beware_of_Dog_album skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Beware of Dog</i> (album)</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Beware of Dog</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Beware_of_dog_cover.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d7/Beware_of_dog_cover.jpg/220px-Beware_of_dog_cover.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/d7/Beware_of_dog_cover.jpg/330px-Beware_of_dog_cover.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/d7/Beware_of_dog_cover.jpg/440px-Beware_of_dog_cover.jpg 2x" data-file-width="500" data-file-height="500" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Bow_Wow_(rapper)" title="Bow Wow (rapper)">Lil' Bow Wow</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">September 26, 2000</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1999–2000</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td><span class="duration"><span class="min">34</span>:<span class="s">29</span></span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/So_So_Def_Recordings" title="So So Def Recordings">So So Def</a>, <a href="/wiki/Columbia_Records" title="Columbia Records">Columbia</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Jermaine_Dupri" title="Jermaine Dupri">Jermaine Dupri</a> (exec.), <a href="/wiki/Michael_Mauldin_(producer)" title="Michael Mauldin (producer)">Michael Mauldin</a> (exec.)</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Bow_Wow_(rapper)" title="Bow Wow (rapper)">Lil' Bow Wow</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"></td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Beware of Dog</b></i><br />
+(2000)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Doggy_Bag" title="Doggy Bag">Doggy Bag</a></i><br />
+(2001)</td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Beware of Dog</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Bounce_with_Me" title="Bounce with Me">Bounce with Me</a>"</span><br />
+Released: August 8, 2000</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Bow_Wow_(That%27s_My_Name)" title="Bow Wow (That's My Name)">Bow Wow (That's My Name)</a>"</span><br />
+Released: October 17, 2000</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Puppy_Love_(Bow_Wow_song)" title="Puppy Love (Bow Wow song)">Puppy Love</a>"</span><br />
+Released: January 27, 2001</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Ghetto_Girls" title="Ghetto Girls">Ghetto Girls</a>"</span><br />
+Released: February 21, 2001</span></li>
+</ol>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">HipHopDX</td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+</table>
+<div class="hatnote">This article is about the rap album.  For the warning sign, see <a href="/wiki/Beware_of_the_dog" title="Beware of the dog">Beware of the dog</a>.  For the WWF pay-per-view event, see <a href="/wiki/In_Your_House_8:_Beware_of_Dog" title="In Your House 8: Beware of Dog">In Your House 8: Beware of Dog</a>.</div>
+<p><i><b>Beware of Dog</b></i> is the debut album by <a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Rapping" title="Rapping">rapper</a> <a href="/wiki/Bow_Wow_(rapper)" title="Bow Wow (rapper)">Lil' Bow Wow</a>. It was released on September 26, 2000 on <a href="/wiki/So_So_Def" title="So So Def" class="mw-redirect">So So Def</a> and <a href="/wiki/Columbia_Records" title="Columbia Records">Columbia Records</a>. Producer <a href="/wiki/Jermaine_Dupri" title="Jermaine Dupri">Jermaine Dupri</a> and songwriter/producer <a href="/wiki/Bryan-Michael_Cox" title="Bryan-Michael Cox">Bryan-Michael Cox</a> worked with Lil' Bow Wow for the album.</p>
+<p>The lead single was "<a href="/wiki/Bounce_with_Me" title="Bounce with Me">Bounce with Me</a>". The song was originally released on <a href="/wiki/Big_Momma%27s_House_(soundtrack)" title="Big Momma's House (soundtrack)">the soundtrack</a> for the film <i><a href="/wiki/Big_Momma%27s_House" title="Big Momma's House">Big Momma's House</a></i>. The album debuted at number eight on the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart, with 101,000 copies sold in the first week released.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> The album was certified 2x platinum by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA) on March 5, 2001. The album reached platinum status in <a href="/wiki/Canada" title="Canada">Canada</a>, selling over 100,000 copies.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Track_listing"><span class="tocnumber">1</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personnel"><span class="tocnumber">2</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Chart_performance"><span class="tocnumber">3</span> <span class="toctext">Chart performance</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beware_of_Dog_(album)&amp;action=edit&amp;section=1" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Intro" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:21</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"The Future" <span style="font-size:85%;">(featuring R.O.C.)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Bryan-Michael_Cox" title="Bryan-Michael Cox">Bryan-Michael Cox</a>, <a href="/wiki/Jermaine_Dupri" title="Jermaine Dupri">Jermaine Dupri</a>, Rahman "R.O.C." Griffin, Terron Mitchell</td>
+<td style="vertical-align: top;">Dupri</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:36</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Bounce_With_Me" title="Bounce With Me" class="mw-redirect">Bounce With Me</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Xscape_(band)" title="Xscape (band)" class="mw-redirect">Xscape</a>)</span></td>
+<td style="vertical-align: top;">Dupri, <a href="/wiki/Da_Brat" title="Da Brat">Shawntae "Da Brat" Harris</a>, Cox</td>
+<td style="vertical-align: top;">Dupri</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:56</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Puppy_Love_(Bow_Wow_song)" title="Puppy Love (Bow Wow song)">Puppy Love</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Jagged_Edge_(band)" title="Jagged Edge (band)" class="mw-redirect">Jagged Edge</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Jagged_Edge_(band)" title="Jagged Edge (band)" class="mw-redirect">Brian Casey, Brandon Casey</a>, Cox, Dupri, <a href="/wiki/L.A._Posse" title="L.A. Posse">Bobby Erving, Darryl Pierce, Dwayne Simon</a>, <a href="/wiki/LL_Cool_J" title="LL Cool J">James Todd Smith</a></td>
+<td style="vertical-align: top;">Dupri</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:29</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"You Know Me" <span style="font-size:85%;">(featuring <a href="/wiki/Jermaine_Dupri" title="Jermaine Dupri">Jermaine Dupri</a> and <a href="/wiki/Da_Brat" title="Da Brat">Da Brat</a>)</span></td>
+<td style="vertical-align: top;">Cox, Da Brat, Dupri</td>
+<td style="vertical-align: top;">Dupri</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:08</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"The Dog in Me" &#160;</td>
+<td style="vertical-align: top;">Cox, Dupri</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:22</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Bow_Wow_(That%27s_My_Name)" title="Bow Wow (That's My Name)">Bow Wow (That's My Name)</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>)</span></td>
+<td style="vertical-align: top;">Cox, Dupri, <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Calvin Broadus, Jr.</a>, <a href="/wiki/George_Clinton_(musician)" title="George Clinton (musician)">George Clinton</a>, <a href="/wiki/Garry_Shider" title="Garry Shider">Garry Shider</a>, David Spradley</td>
+<td style="vertical-align: top;">Dupri</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:44</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"This Playboy" <span style="font-size:85%;">(featuring R.O.C., Dupri and <a href="/wiki/Psycho_Realm" title="Psycho Realm">Big Duke</a>)</span></td>
+<td style="vertical-align: top;">Cox, <a href="/wiki/Psycho_Realm" title="Psycho Realm">Lee "Big Duke" Dixon</a>, Dupri, Griffin</td>
+<td style="vertical-align: top;">Dupri</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:37</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Ghetto_Girls" title="Ghetto Girls">Ghetto Girls</a>" &#160;</td>
+<td style="vertical-align: top;">Cox, Dupri, Mitchell, <a href="/wiki/Wilton_Felder" title="Wilton Felder">Wilton Felder</a></td>
+<td style="vertical-align: top;">Dupri</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:15</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"You Already Know" &#160;</td>
+<td style="vertical-align: top;">Dupri, Carl So-Lowe</td>
+<td style="vertical-align: top;">Dupri</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:18</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Bounce With Me" <span style="font-size:85%;">(Extended LP Mix) (featuring Xscape)</span></td>
+<td style="vertical-align: top;">Cox, Da Brat, Dupri</td>
+<td style="vertical-align: top;">Dupri</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:43</td>
+</tr>
+<tr>
+<td align="right" colspan="4">
+<div style="width: 7.5em; text-align: left; padding-left: 10px; background-color: #eee; margin: 0;"><b>Total length:</b></div>
+</td>
+<td style="padding-right: 10px; text-align: right; background-color: #eee;"><b>34:29</b></td>
+<td class="mbox-empty-cell"></td>
+</tr>
+</table>
+<p>Informations taken from <i>Beware of Dog</i> liner notes:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<dl>
+<dt>Notes</dt>
+</dl>
+<ul>
+<li>Track 9, "Ghetto Girls" featured uncredited vocals by Jagged Edge.</li>
+</ul>
+<dl>
+<dt>Sample credits</dt>
+</dl>
+<ul>
+<li>Track 4, "Puppy Love" samples "Kanday" as performed by LL Cool J, and written by Dwayne "Muffla" Simon, Daryl "Big Dad" Pierce, Bobby "Bob Cat" Erving and James Smith.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></li>
+<li>Track 7, "Bow Wow (That's My Name)" samples "<a href="/wiki/Atomic_Dog" title="Atomic Dog">Atomic Dog</a>" as performed by George Clinton, and written by George Clinton, Garry Shider and David Spradley.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></li>
+<li>Track 9, "Ghetto Girls" samples "Covert Action" as performed by <a href="/wiki/The_Crusaders" title="The Crusaders">The Crusaders</a>, and written by Wilton Felder.</li>
+</ul>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beware_of_Dog_(album)&amp;action=edit&amp;section=2" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Credits taken from <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> site.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></li>
+</ul>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Kwaku_Alston" title="Kwaku Alston">Kwaku Alston</a> - <a href="/wiki/Photography" title="Photography">photography</a></li>
+<li>Big Duke&#160;— performer</li>
+<li>Bow Wow - <a href="/wiki/Singing" title="Singing">vocals</a></li>
+<li>Bryan-Michael Cox&#160;— performer</li>
+<li>Da Brat&#160;— performer</li>
+<li>Jermaine Dupri - <a href="/wiki/Executive_producer" title="Executive producer">executive producer</a>, <a href="/wiki/Audio_mixing_(recorded_music)" title="Audio mixing (recorded music)">mixing</a>, <a href="/wiki/Record_producer" title="Record producer">production</a></li>
+<li>Brian Frye - <a href="/wiki/Audio_engineering" title="Audio engineering" class="mw-redirect">engineering</a></li>
+<li>Erwin Gorostiza - <a href="/wiki/Art_director" title="Art director">art director</a></li>
+<li><a href="/wiki/Bernie_Grundman" title="Bernie Grundman">Bernie Grundman</a> - <a href="/wiki/Audio_mastering" title="Audio mastering">mastering</a></li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Bill Hermans&#160;— engineering</li>
+<li>John Horesco IV&#160;— engineering, mixing</li>
+<li>Jagged Edge&#160;— performer</li>
+<li>Carlton Lynn&#160;— engineering</li>
+<li>William Marshall&#160;— grooming</li>
+<li><a href="/wiki/Michael_Mauldin_(producer)" title="Michael Mauldin (producer)">Michael Mauldin</a> - executive producer</li>
+<li>Snoop Dogg&#160;— performer</li>
+<li><a href="/wiki/Phil_Tan" title="Phil Tan">Phil Tan</a> - mixing</li>
+<li>Xscape&#160;— performer</li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li>R.O.C. - performer</li>
+</ul>
+<h2><span class="mw-headline" id="Chart_performance">Chart performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beware_of_Dog_(album)&amp;action=edit&amp;section=3" title="Edit section: Chart performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Chart (2000)</th>
+<th>Peak<br />
+position</th>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a></td>
+<td style="text-align:center;">8</td>
+</tr>
+<tr>
+<td>US <i>Billboard</i> <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a></td>
+<td style="text-align:center;">3</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beware_of_Dog_(album)&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r499408">Allmusic review</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/reviews/id.20/title.lil-bow-wow-beware-of-dog">HipHopDX review</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">Harris, Chris (2005-07-20). <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1506012/20050720/kelly_r.jhtml">"R. Kelly Fights Off Slim Thug And Bow Wow To Hold #1 - Music, Celebrity, Artist News"</a>. MTV<span class="reference-accessdate">. Retrieved 2012-01-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeware+of+Dog+%28album%29&amp;rft.aufirst=Chris&amp;rft.au=Harris%2C+Chris&amp;rft.aulast=Harris&amp;rft.btitle=R.+Kelly+Fights+Off+Slim+Thug+And+Bow+Wow+To+Hold+%231+-+Music%2C+Celebrity%2C+Artist+News&amp;rft.date=2005-07-20&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1506012%2F20050720%2Fkelly_r.jhtml&amp;rft.pub=MTV&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.cria.ca/gold/0402_g.php">"Canadian Recording Industry Association (CRIA): Gold &amp; Platinum - April 2002"</a>. Cria.ca<span class="reference-accessdate">. Retrieved 2012-01-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeware+of+Dog+%28album%29&amp;rft.btitle=Canadian+Recording+Industry+Association+%28CRIA%29%3A+Gold+%26+Platinum+-+April+2002&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cria.ca%2Fgold%2F0402_g.php&amp;rft.pub=Cria.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">(2000) Album notes for Beware of Dog by Lil' Bow Wow. So So Def Recordings.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=UXRFW9Pjke0/">LL Cool J - Kanday via YouTube.</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=pZ5H9Av6x9M/">George Clinton - Atomic Dog via YouTube.</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/beware-of-dog-r499408/credits">"Beware of Dog - Lil' Bow Wow"</a>. AllMusic. 2000-09-26<span class="reference-accessdate">. Retrieved 2012-01-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeware+of+Dog+%28album%29&amp;rft.btitle=Beware+of+Dog+-+Lil%27+Bow+Wow&amp;rft.date=2000-09-26&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fbeware-of-dog-r499408%2Fcredits&amp;rft.pub=AllMusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bow_Wow" title="Template:Bow Wow"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bow_Wow" title="Template talk:Bow Wow"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bow_Wow&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Bow_Wow_(rapper)" title="Bow Wow (rapper)">Bow Wow</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/Bow_Wow_discography" title="Bow Wow discography">Discography</a></li>
+<li><a href="/wiki/Bow_Wow_(rapper)#Filmography" title="Bow Wow (rapper)">Filmography</a></li>
+<li><a href="/wiki/Bow_Wow_(rapper)#Awards_and_nominations" title="Bow Wow (rapper)">Awards and nominations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><strong class="selflink">Beware of Dog</strong></i></li>
+<li><i><a href="/wiki/Doggy_Bag" title="Doggy Bag">Doggy Bag</a></i></li>
+<li><i><a href="/wiki/Unleashed_(Bow_Wow_album)" title="Unleashed (Bow Wow album)">Unleashed</a></i></li>
+<li><i><a href="/wiki/Wanted_(Bow_Wow_album)" title="Wanted (Bow Wow album)">Wanted</a></i></li>
+<li><i><a href="/wiki/The_Price_of_Fame" title="The Price of Fame">The Price of Fame</a></i></li>
+<li><i><a href="/wiki/New_Jack_City_II" title="New Jack City II">New Jack City II</a></i></li>
+<li><i><a href="/wiki/Underrated_(album)" title="Underrated (album)" class="mw-redirect">Underrated</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Collaboration albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Face_Off_(Bow_Wow_%26_Omarion_album)" title="Face Off (Bow Wow &amp; Omarion album)" class="mw-redirect">Face Off</a></i> <small>(with <a href="/wiki/Omarion" title="Omarion">Omarion</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilation albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Rich_Gang_(album)" title="Rich Gang (album)">Rich Gang</a></i> <small>(with <a href="/wiki/YMCMB" title="YMCMB" class="mw-redirect">YMCMB</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Bounce_with_Me" title="Bounce with Me">Bounce with Me</a>"</li>
+<li>"<a href="/wiki/Bow_Wow_(That%27s_My_Name)" title="Bow Wow (That's My Name)">Bow Wow (That's My Name)</a>"</li>
+<li>"<a href="/wiki/Puppy_Love_(Bow_Wow_song)" title="Puppy Love (Bow Wow song)">Puppy Love</a>"</li>
+<li>"<a href="/wiki/Ghetto_Girls" title="Ghetto Girls">Ghetto Girls</a>"</li>
+<li>"<a href="/wiki/Thank_You_(Bow_Wow_song)" title="Thank You (Bow Wow song)">Thank You</a>"</li>
+<li>"<a href="/wiki/Take_Ya_Home" title="Take Ya Home">Take Ya Home</a>"</li>
+<li>"<a href="/wiki/Basketball_(song)" title="Basketball (song)">Basketball</a>"</li>
+<li>"<a href="/wiki/Let%27s_Get_Down_(Bow_Wow_song)" title="Let's Get Down (Bow Wow song)">Let's Get Down</a>"</li>
+<li>"<a href="/wiki/My_Baby_(Bow_Wow_song)" title="My Baby (Bow Wow song)">My Baby</a>"</li>
+<li>"<a href="/wiki/Let_Me_Hold_You" title="Let Me Hold You">Let Me Hold You</a>"</li>
+<li>"<a href="/wiki/Like_You_(Bow_Wow_song)" title="Like You (Bow Wow song)">Like You</a>"</li>
+<li>"<a href="/wiki/Fresh_Azimiz" title="Fresh Azimiz">Fresh Azimiz</a>"</li>
+<li>"<a href="/wiki/Shortie_Like_Mine" title="Shortie Like Mine">Shortie Like Mine</a>"</li>
+<li>"<a href="/wiki/Outta_My_System" title="Outta My System">Outta My System</a>"</li>
+<li>"<a href="/wiki/I%27m_a_Flirt#Chart_positions" title="I'm a Flirt">I'm a Flirt</a>"</li>
+<li>"<a href="/wiki/Girlfriend_(Bow_Wow_%26_Omarion_song)" title="Girlfriend (Bow Wow &amp; Omarion song)">Girlfriend</a>"</li>
+<li>"<a href="/wiki/Hey_Baby_(Jump_Off)" title="Hey Baby (Jump Off)">Hey Baby (Jump Off)</a>"</li>
+<li>"<a href="/wiki/Marco_Polo_(song)" title="Marco Polo (song)">Marco Polo</a>"</li>
+<li>"<a href="/wiki/New_Jack_City_II" title="New Jack City II">Big Girls</a>"</li>
+<li>"<a href="/wiki/Roc_the_Mic_(Bow_Wow_song)" title="Roc the Mic (Bow Wow song)" class="mw-redirect">Roc the Mic</a>"</li>
+<li>"<a href="/wiki/You_Can_Get_It_All" title="You Can Get It All">You Can Get It All</a>"</li>
+<li>"<a href="/wiki/For_My_Hood" title="For My Hood" class="mw-redirect">For My Hood</a>"</li>
+<li>"<a href="/wiki/Ain%27t_Thinkin%27_%27Bout_You" title="Ain't Thinkin' 'Bout You">Ain't Thinkin' 'Bout You</a>"</li>
+<li>"Sweat"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Baby_It%27s_You_(JoJo_song)" title="Baby It's You (JoJo song)">Baby It's You</a>"</li>
+<li>"<a href="/wiki/I_Think_They_Like_Me" title="I Think They Like Me">I Think They Like Me</a>"</li>
+<li>"<a href="/wiki/Side_2_Side" title="Side 2 Side">Side 2 Side</a>"</li>
+<li>"<a href="/wiki/Lil%27_L.O.V.E." title="Lil' L.O.V.E.">Lil' L.O.V.E.</a>"</li>
+<li>"<a href="/wiki/Easy_(Paula_DeAnda_song)" title="Easy (Paula DeAnda song)">Easy</a>"</li>
+<li>"<a href="/wiki/Hydrolics" title="Hydrolics" class="mw-redirect">Hydrolics</a>"</li>
+<li>"<a href="/wiki/I%27m_Grown" title="I'm Grown">I'm Grown</a>"</li>
+<li>"Every Night"</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="metadata plainlinks stub" style="background: transparent;" role="presentation">
+<tr>
+<td><a href="/wiki/File:Gnome-dev-cdrom-audio.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gnome-dev-cdrom-audio.svg/32px-Gnome-dev-cdrom-audio.svg.png" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gnome-dev-cdrom-audio.svg/48px-Gnome-dev-cdrom-audio.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gnome-dev-cdrom-audio.svg/64px-Gnome-dev-cdrom-audio.svg.png 2x" data-file-width="60" data-file-height="60" /></a></td>
+<td><i>This 2000s hip hop album–related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Beware_of_Dog_(album)&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:2000s-hiphop-album-stub" title="Template:2000s-hiphop-album-stub"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:2000s-hiphop-album-stub" title="Template talk:2000s-hiphop-album-stub"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:2000s-hiphop-album-stub&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1101
+CPU time usage: 0.988 seconds
+Real time usage: 1.087 seconds
+Preprocessor visited node count: 4451/1000000
+Preprocessor generated node count: 32864/1500000
+Post‐expand include size: 62651/2048000 bytes
+Template argument size: 10741/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.082/10.000 seconds
+Lua memory usage: 1.85 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4136599-0!*!0!!en!4!* and timestamp 20140530193454 and revision id 599894487
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Beware_of_Dog_(album)&amp;oldid=599894487">http://en.wikipedia.org/w/index.php?title=Beware_of_Dog_(album)&amp;oldid=599894487</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2000_debut_albums" title="Category:2000 debut albums">2000 debut albums</a></li><li><a href="/wiki/Category:Bow_Wow_(rapper)_albums" title="Category:Bow Wow (rapper) albums">Bow Wow (rapper) albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Jermaine_Dupri" title="Category:Albums produced by Jermaine Dupri">Albums produced by Jermaine Dupri</a></li><li><a href="/wiki/Category:2000s_hip_hop_album_stubs" title="Category:2000s hip hop album stubs">2000s hip hop album stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Beware+of+Dog+%28album%29&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Beware+of+Dog+%28album%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Beware_of_Dog_(album)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Beware_of_Dog_(album)"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Beware_of_Dog_(album)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Beware_of_Dog_(album)&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Beware_of_Dog_(album)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Beware_of_Dog_(album)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Beware_of_Dog_(album)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Beware_of_Dog_(album)&amp;oldid=599894487" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Beware_of_Dog_(album)&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1933879" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Beware_of_Dog_%28album%29&amp;id=599894487" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Beware+of+Dog+%28album%29">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Beware+of+Dog+%28album%29&amp;oldid=599894487&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Beware_of_Dog_(album)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Beware_of_dog" title="Beware of dog – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Beware_of_Dog_(album)" title="Beware of Dog (album) – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Beware_of_Dog" title="Beware of Dog – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Beware_of_Dog" title="Beware of Dog – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Beware_of_Dog" title="Beware of Dog – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q1933879#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 March 2014 at 18:31.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Beware_of_Dog_(album)" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":235,"wgHostname":"mw1107"});
+}</script>
+	</body>
+</html>
+	

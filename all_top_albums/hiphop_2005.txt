@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>2005 in hip hop music - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/2005_in_hip_hop_music" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=2005_in_hip_hop_music&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=2005_in_hip_hop_music&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/2005_in_hip_hop_music" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init%2Cnolanglinks&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2005_in_hip_hop_music","wgTitle":"2005 in hip hop music","wgCurRevisionId":612998279,"wgRevisionId":612998279,"wgArticleId":39961170,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["2000s in hip hop music","2005 in music"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2005_in_hip_hop_music","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf9/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"447":true,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q16822616"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf9/skins/vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2005_in_hip_hop_music skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">2005 in hip hop music</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox nowraplinks" style="width: 300px; text-align: center;">
+<caption><a href="/wiki/2005_in_music" title="2005 in music">2005 in music</a></caption>
+<tr>
+<th>By location</th>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a href="/w/index.php?title=2005_in_Australian_music&amp;action=edit&amp;redlink=1" class="new" title="2005 in Australian music (page does not exist)">Australia</a></li>
+<li><a href="/w/index.php?title=2005_in_Canadian_music&amp;action=edit&amp;redlink=1" class="new" title="2005 in Canadian music (page does not exist)">Canada</a></li>
+<li><a href="/w/index.php?title=2005_in_European_music&amp;action=edit&amp;redlink=1" class="new" title="2005 in European music (page does not exist)">Europe</a></li>
+<li><a href="/wiki/2005_in_British_music" title="2005 in British music">United Kingdom</a></li>
+<li><a href="/wiki/2005_in_Irish_music" title="2005 in Irish music">Ireland</a></li>
+<li><a href="/w/index.php?title=2005_in_Japanese_music&amp;action=edit&amp;redlink=1" class="new" title="2005 in Japanese music (page does not exist)">Japan</a></li>
+<li><a href="/w/index.php?title=2005_in_New_Zealand_music&amp;action=edit&amp;redlink=1" class="new" title="2005 in New Zealand music (page does not exist)">New Zealand</a></li>
+<li><a href="/w/index.php?title=2005_in_Philippine_music&amp;action=edit&amp;redlink=1" class="new" title="2005 in Philippine music (page does not exist)">Philippines</a></li>
+<li><a href="/w/index.php?title=2005_in_South_Korean_music&amp;action=edit&amp;redlink=1" class="new" title="2005 in South Korean music (page does not exist)">South Korea</a></li>
+<li><a href="/w/index.php?title=2005_in_Swedish_music&amp;action=edit&amp;redlink=1" class="new" title="2005 in Swedish music (page does not exist)">Sweden</a></li>
+<li><a href="/w/index.php?title=2005_in_American_music&amp;action=edit&amp;redlink=1" class="new" title="2005 in American music (page does not exist)">United States</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>By genre</th>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a href="/w/index.php?title=2005_in_alternative_rock&amp;action=edit&amp;redlink=1" class="new" title="2005 in alternative rock (page does not exist)">Alternative</a></li>
+<li><a href="/wiki/2005_in_country_music" title="2005 in country music">country</a></li>
+<li><a href="/wiki/2005_in_classical_music" title="2005 in classical music" class="mw-redirect">classical</a></li>
+<li><a href="/w/index.php?title=2005_in_electropop_music&amp;action=edit&amp;redlink=1" class="new" title="2005 in electropop music (page does not exist)">electropop</a></li>
+<li><a href="/wiki/2005_in_heavy_metal_music" title="2005 in heavy metal music">heavy metal</a></li>
+<li><strong class="selflink">hip-hop</strong></li>
+<li><a href="/w/index.php?title=2005_in_opera&amp;action=edit&amp;redlink=1" class="new" title="2005 in opera (page does not exist)">opera</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>By topic</th>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=List_of_2005_albums&amp;action=edit&amp;redlink=1" class="new" title="List of 2005 albums (page does not exist)">List of albums released</a></td>
+</tr>
+</table>
+<table class="infobox" style="text-align:center;">
+<tr>
+<th style="font-size:larger;">&#160; &#160; &#160; &#160; &#160; &#160; <a href="/w/index.php?title=List_of_years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="List of years in hip hop music (page does not exist)">List of years in hip hop music</a> &#160; &#160; &#160;&#160; &#160; &#160;</th>
+</tr>
+<tr>
+<td><small><a href="/w/index.php?title=Category:Years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="Category:Years in hip hop music (page does not exist)">...</a>&#160;<a href="/wiki/1995_in_hip_hop_music" title="1995 in hip hop music">1995</a> <sup>.</sup> <a href="/wiki/1996_in_hip_hop_music" title="1996 in hip hop music">1996</a> <sup>.</sup> <a href="/wiki/1997_in_hip_hop_music" title="1997 in hip hop music">1997</a> <sup>.</sup> <a href="/wiki/1998_in_hip_hop_music" title="1998 in hip hop music">1998</a> <sup>.</sup> <a href="/wiki/1999_in_hip_hop_music" title="1999 in hip hop music">1999</a> <sup>.</sup> <a href="/wiki/2000_in_hip_hop_music" title="2000 in hip hop music">2000</a> <sup>.</sup> <a href="/wiki/2001_in_hip_hop_music" title="2001 in hip hop music">2001</a>&#160;<a href="/w/index.php?title=Category:Years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="Category:Years in hip hop music (page does not exist)">...</a></small><br />
+<a href="/wiki/2002_in_hip_hop_music" title="2002 in hip hop music">2002</a> <a href="/wiki/2003_in_hip_hop_music" title="2003 in hip hop music">2003</a> <a href="/wiki/2004_in_hip_hop_music" title="2004 in hip hop music">2004</a> <b>-<strong class="selflink">2005</strong>-</b> <a href="/wiki/2006_in_hip_hop_music" title="2006 in hip hop music">2006</a> <a href="/wiki/2007_in_hip_hop_music" title="2007 in hip hop music">2007</a> <a href="/wiki/2008_in_hip_hop_music" title="2008 in hip hop music">2008</a><br />
+<small><a href="/w/index.php?title=Category:Years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="Category:Years in hip hop music (page does not exist)">...</a>&#160;<a href="/wiki/2009_in_hip_hop_music" title="2009 in hip hop music">2009</a> <sup>.</sup> <a href="/wiki/2010_in_hip_hop_music" title="2010 in hip hop music">2010</a> <sup>.</sup> <a href="/wiki/2011_in_hip_hop_music" title="2011 in hip hop music">2011</a> <sup>.</sup> <a href="/wiki/2012_in_hip_hop_music" title="2012 in hip hop music">2012</a> <sup>.</sup> <a href="/wiki/2013_in_hip_hop_music" title="2013 in hip hop music">2013</a> <sup>.</sup> <a href="/wiki/2014_in_hip_hop_music" title="2014 in hip hop music">2014</a> <sup>.</sup> <a href="/w/index.php?title=2015_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="2015 in hip hop music (page does not exist)">2015</a>&#160;<a href="/w/index.php?title=Category:Years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="Category:Years in hip hop music (page does not exist)">...</a></small></td>
+</tr>
+<tr>
+<td><small><a href="/wiki/2005_in_art" title="2005 in art">Art</a> <sup>.</sup> <a href="/wiki/2005_in_archaeology" title="2005 in archaeology">Archaeology</a> <sup>.</sup> <a href="/wiki/2005_in_architecture" title="2005 in architecture">Architecture</a> <sup>.</sup> <a href="/wiki/2005_in_literature" title="2005 in literature">Literature</a> <sup>.</sup> <a href="/wiki/2005_in_music" title="2005 in music">Music</a> <sup>.</sup> <a href="/wiki/2005_in_philosophy" title="2005 in philosophy">Philosophy</a> <sup>.</sup> <a href="/wiki/2005_in_science" title="2005 in science">Science</a> <i><a href="/wiki/Category:2005" title="Category:2005">+...</a></i></small></td>
+</tr>
+</table>
+<p>This article summarizes the events, album releases, and album release dates in <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop music</a> for the year 2005.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Released_albums"><span class="tocnumber">1</span> <span class="toctext">Released albums</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Highest_first-week_sales"><span class="tocnumber">2</span> <span class="toctext">Highest first-week sales</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Highest_critically_reviewed_albums_.28Metacritic.29"><span class="tocnumber">3</span> <span class="toctext">Highest critically reviewed albums (Metacritic)</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Released_albums">Released albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2005_in_hip_hop_music&amp;action=edit&amp;section=1" title="Edit section: Released albums">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align:center;">
+<tr>
+<th scope="col">Release Date</th>
+<th scope="col">Artist</th>
+<th scope="col">Album</th>
+</tr>
+<tr>
+<td>January 18</td>
+<td><a href="/wiki/Game_(rapper)" title="Game (rapper)" class="mw-redirect">The Game</a></td>
+<td><i><a href="/wiki/The_Documentary" title="The Documentary">The Documentary</a></i></td>
+</tr>
+<tr>
+<td rowspan="2">January 25</td>
+<td><a href="/wiki/Buck_65" title="Buck 65">Buck 65</a></td>
+<td><i><a href="/wiki/This_Right_Here_Is_Buck_65" title="This Right Here Is Buck 65">This Right Here Is Buck 65</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Spice_1" title="Spice 1">Spice 1</a></td>
+<td><i><a href="/wiki/Dyin%27_2_Ball" title="Dyin' 2 Ball">Dyin' 2 Ball</a></i></td>
+</tr>
+<tr>
+<td rowspan="2">February 8</td>
+<td><a href="/wiki/Sage_Francis" title="Sage Francis">Sage Francis</a></td>
+<td><i><a href="/wiki/A_Healthy_Distrust" title="A Healthy Distrust">A Healthy Distrust</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Mike_Ladd" title="Mike Ladd">Mike Ladd</a></td>
+<td><i>Negrophilia: The Album</i></td>
+</tr>
+<tr>
+<td rowspan="4">February 22</td>
+<td><a href="/wiki/A_Gun_Called_Tension" title="A Gun Called Tension">A Gun Called Tension</a></td>
+<td><i>A Gun Called Tension</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Aesop_Rock" title="Aesop Rock">Aesop Rock</a></td>
+<td><i><a href="/wiki/Fast_Cars,_Danger,_Fire_and_Knives" title="Fast Cars, Danger, Fire and Knives">Fast Cars, Danger, Fire And Knives [EP]</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Busdriver" title="Busdriver">Busdriver</a></td>
+<td><i><a href="/wiki/Fear_of_a_Black_Tangent" title="Fear of a Black Tangent">Fear Of A Black Tangent</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/TRU_(group)" title="TRU (group)">TRU</a></td>
+<td><i><a href="/wiki/The_Truth_(TRU_album)" title="The Truth (TRU album)">The Truth</a></i></td>
+</tr>
+<tr>
+<td>March 1</td>
+<td><a href="/wiki/Sole_(artist)" title="Sole (artist)" class="mw-redirect">Sole</a></td>
+<td><i><a href="/wiki/Live_from_Rome" title="Live from Rome">Live From Rome</a></i></td>
+</tr>
+<tr>
+<td>March 3</td>
+<td><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></td>
+<td><i><a href="/wiki/The_Massacre" title="The Massacre">The Massacre</a></i></td>
+</tr>
+<tr>
+<td>March 8</td>
+<td><a href="/wiki/Boom_Bip" title="Boom Bip">Boom Bip</a></td>
+<td><i>Blue Eyed In The Red Room</i></td>
+</tr>
+<tr>
+<td rowspan="3">March 22</td>
+<td><a href="/wiki/The_Perceptionists" title="The Perceptionists">The Perceptionists</a></td>
+<td><i><a href="/wiki/Black_Dialogue" title="Black Dialogue">Black Dialogue</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Scott_Herren" title="Scott Herren">Prefuse 73</a></td>
+<td><i><a href="/wiki/Surrounded_by_Silence_(album)" title="Surrounded by Silence (album)">Surrounded By Silence</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/M.I.A._(artist)" title="M.I.A. (artist)" class="mw-redirect">M.I.A.</a></td>
+<td><i><a href="/wiki/Arular" title="Arular">Arular</a></i></td>
+</tr>
+<tr>
+<td rowspan="4">March 29</td>
+<td><a href="/wiki/Blueprint_(rapper)" title="Blueprint (rapper)">Blueprint</a></td>
+<td><i><a href="/wiki/1988_(album)" title="1988 (album)">1988</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a></td>
+<td><i><a href="/wiki/The_B._Coming" title="The B. Coming">The B.Coming</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Edan_(musician)" title="Edan (musician)">Edan</a></td>
+<td><i><a href="/wiki/Beauty_and_the_Beat_(Edan_album)" title="Beauty and the Beat (Edan album)">Beauty And The Beat</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Will_Smith" title="Will Smith">Will Smith</a></td>
+<td><i><a href="/wiki/Lost_and_Found_(Will_Smith_album)" title="Lost and Found (Will Smith album)">Lost And Found</a></i></td>
+</tr>
+<tr>
+<td>April 19</td>
+<td><a href="/wiki/Roots_Manuva" title="Roots Manuva">Roots Manuva</a></td>
+<td><i><a href="/wiki/Awfully_Deep" title="Awfully Deep">Awfully Deep</a></i></td>
+</tr>
+<tr>
+<td rowspan="2">May 3</td>
+<td><a href="/wiki/Quasimoto" title="Quasimoto">Quasimoto</a></td>
+<td><i><a href="/wiki/The_Further_Adventures_of_Lord_Quas" title="The Further Adventures of Lord Quas">The Further Adventures Of Lord Quas</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/13_%26_God" title="13 &amp; God">13 &amp; God</a></td>
+<td><i><a href="/wiki/13_%26_God_(album)" title="13 &amp; God (album)">13 &amp; God</a></i></td>
+</tr>
+<tr>
+<td>May 10</td>
+<td><a href="/wiki/FannyPack" title="FannyPack">Fannypack</a></td>
+<td><i><a href="/wiki/See_You_Next_Tuesday_(album)" title="See You Next Tuesday (album)">See You Next Tuesday</a></i></td>
+</tr>
+<tr>
+<td>May 17</td>
+<td><a href="/wiki/Nobody_(producer)" title="Nobody (producer)">Nobody</a></td>
+<td><i><a href="/wiki/And_Everything_Else..." title="And Everything Else...">And Everything Else</a></i></td>
+</tr>
+<tr>
+<td rowspan="2">May 24</td>
+<td><a href="/wiki/Common_(rapper)" title="Common (rapper)">Common</a></td>
+<td><i><a href="/wiki/Be_(Common_album)" title="Be (Common album)">Be</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Gorillaz" title="Gorillaz">Gorillaz</a></td>
+<td><i><a href="/wiki/Demon_Days" title="Demon Days">Demon Days</a></i></td>
+</tr>
+<tr>
+<td>June 14</td>
+<td><a href="/wiki/Odd_Nosdam" title="Odd Nosdam">Odd Nosdam</a></td>
+<td><i><a href="/wiki/Burner_(Odd_Nosdam_album)" title="Burner (Odd Nosdam album)">Burner</a></i></td>
+</tr>
+<tr>
+<td>June 27</td>
+<td><a href="/wiki/Kano_(rapper)" title="Kano (rapper)">Kano</a></td>
+<td><i><a href="/wiki/Home_Sweet_Home_(Kano_album)" title="Home Sweet Home (Kano album)">Home Sweet Home</a></i></td>
+</tr>
+<tr>
+<td rowspan="2">June 28</td>
+<td><a href="/wiki/Ying_Yang_Twins" title="Ying Yang Twins">Ying Yang Twins</a></td>
+<td><i><a href="/wiki/U.S.A._(United_State_of_Atlanta)" title="U.S.A. (United State of Atlanta)">USA (United State Of Atlanta)</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Bizarre_(rapper)" title="Bizarre (rapper)">Bizarre</a></td>
+<td><i><a href="/wiki/Hannicap_Circus" title="Hannicap Circus">Hannicap Circus</a></i></td>
+</tr>
+<tr>
+<td>July 5</td>
+<td><a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a></td>
+<td><i><a href="/wiki/The_Cookbook" title="The Cookbook">The Cookbook</a></i></td>
+</tr>
+<tr>
+<td>August 1</td>
+<td><a href="/wiki/Buck_65" title="Buck 65">Buck 65</a></td>
+<td><i><a href="/wiki/Secret_House_Against_the_World" title="Secret House Against the World">Secret House Against The World</a></i></td>
+</tr>
+<tr>
+<td>August 30</td>
+<td><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></td>
+<td><i><a href="/wiki/Late_Registration" title="Late Registration">Late Registration</a></i></td>
+</tr>
+<tr>
+<td>September 20</td>
+<td><a href="/wiki/David_Banner" title="David Banner">David Banner</a></td>
+<td><i><a href="/wiki/Certified_(David_Banner_album)" title="Certified (David Banner album)">Certified</a></i></td>
+</tr>
+<tr>
+<td rowspan="2">September 27</td>
+<td><a href="/wiki/Lil%27_Kim" title="Lil' Kim">Lil' Kim</a></td>
+<td><i><a href="/wiki/The_Naked_Truth_(Lil%27_Kim_album)" title="The Naked Truth (Lil' Kim album)">The Naked Truth</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Blackalicious" title="Blackalicious">Blackalicious</a></td>
+<td><i><a href="/wiki/The_Craft_(album)" title="The Craft (album)">The Craft</a></i></td>
+</tr>
+<tr>
+<td>October 3</td>
+<td><a href="/wiki/Ms._Dynamite" title="Ms. Dynamite">Ms. Dynamite</a></td>
+<td><i><a href="/wiki/Judgement_Days" title="Judgement Days">Judgement Days</a></i></td>
+</tr>
+<tr>
+<td rowspan="5">October 4</td>
+<td><a href="/wiki/Twista" title="Twista">Twista</a></td>
+<td><i><a href="/wiki/The_Day_After_(album)" title="The Day After (album)">The Day After</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Atmosphere_(music_group)" title="Atmosphere (music group)">Atmosphere</a></td>
+<td><i><a href="/wiki/You_Can%27t_Imagine_How_Much_Fun_We%27re_Having" title="You Can't Imagine How Much Fun We're Having">You Can't Imagine How Much Fun We're Having</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Why%3F_(American_band)" title="Why? (American band)">Why?</a></td>
+<td><i><a href="/wiki/Elephant_Eyelash" title="Elephant Eyelash">Elephant Eyelash</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Spice_1" title="Spice 1">Spice 1</a></td>
+<td><i><a href="/wiki/The_Truth_(Spice_1_album)" title="The Truth (Spice 1 album)">The Truth</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Tragedy_Khadafi" title="Tragedy Khadafi">Tragedy Khadafi</a></td>
+<td><i><a href="/wiki/Thug_Matrix" title="Thug Matrix">Thug Matrix</a></i></td>
+</tr>
+<tr>
+<td>October 11</td>
+<td><a href="/wiki/Danger_Doom" title="Danger Doom">DangerDoom</a></td>
+<td><i><a href="/wiki/The_Mouse_and_the_Mask" title="The Mouse and the Mask">The Mouse And The Mask</a></i></td>
+</tr>
+<tr>
+<td rowspan="2">October 18</td>
+<td><a href="/wiki/Ninja_High_School_(band)" title="Ninja High School (band)">Ninja High School</a></td>
+<td><i>Young Adults Against Science</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Joseph_Simmons" title="Joseph Simmons">REV RUN</a></td>
+<td><i><a href="/wiki/Distortion_(Joseph_Simmons_album)" title="Distortion (Joseph Simmons album)">Distortion</a></i></td>
+</tr>
+<tr>
+<td>November 1</td>
+<td><a href="/wiki/Fatlip" title="Fatlip">Fatlip</a></td>
+<td><i><a href="/wiki/The_Loneliest_Punk" title="The Loneliest Punk">The Loneliest Punk</a></i></td>
+</tr>
+<tr>
+<td>November 15</td>
+<td><a href="/wiki/Mike_Ladd" title="Mike Ladd">Mike Ladd</a></td>
+<td><i>Father Divine</i></td>
+</tr>
+<tr>
+<td rowspan="2">November 22</td>
+<td><a href="/wiki/Talib_Kweli" title="Talib Kweli">Talib Kweli</a></td>
+<td><i><a href="/wiki/Right_About_Now:_The_Official_Sucka_Free_Mix_CD" title="Right About Now: The Official Sucka Free Mix CD">Right About Now</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Rich_Boyz" title="Rich Boyz" class="mw-redirect">Rich Boyz</a></td>
+<td><i><a href="/wiki/Young_Ballers:_The_Hood_Been_Good_to_Us" title="Young Ballers: The Hood Been Good to Us">Young Ballers: The Hood Been Good to Us</a></i></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Highest_first-week_sales">Highest first-week sales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2005_in_hip_hop_music&amp;action=edit&amp;section=2" title="Edit section: Highest first-week sales">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable" style="text-align:center;">
+<caption>List of top ten albums with the highest first-week</caption>
+<tr>
+<th scope="col">Number</th>
+<th scope="col">Album</th>
+<th scope="col">Artist</th>
+<th scope="col">1st-week sales</th>
+<th scope="col">1st-week position</th>
+<th scope="col">Refs</th>
+</tr>
+<tr>
+<th scope="row">1</th>
+<td><i><a href="/wiki/The_Massacre" title="The Massacre">The Massacre</a></i></td>
+<td><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></td>
+<td>1,140,000</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">2</th>
+<td><i><a href="/wiki/Late_Registration" title="Late Registration">Late Registration</a></i></td>
+<td><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></td>
+<td>860,000</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">3</th>
+<td><i><a href="/wiki/The_Documentary" title="The Documentary">The Documentary</a></i></td>
+<td><a href="/wiki/The_Game_(rapper)" title="The Game (rapper)">The Game</a></td>
+<td>586,000</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">4</th>
+<td><i><a href="/wiki/Curtain_Call:_The_Hits" title="Curtain Call: The Hits">Curtain Call: The Hits</a></i></td>
+<td><a href="/wiki/Eminem" title="Eminem">Eminem</a></td>
+<td>441,000</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">5</th>
+<td><i><a href="/wiki/Get_Rich_Or_Die_Tryin%27_OST" title="Get Rich Or Die Tryin' OST" class="mw-redirect">Get Rich Or Die Tryin' OST</a></i></td>
+<td><a href="/wiki/Various_Artist" title="Various Artist" class="mw-redirect">Various Artist</a></td>
+<td>317,000</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">6</th>
+<td><i><a href="/wiki/Tha_Carter_II" title="Tha Carter II">Tha Carter II</a></i></td>
+<td><a href="/wiki/Lil_Wayne" title="Lil Wayne">Lil Wayne</a></td>
+<td>254,000</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">7</th>
+<td><i><a href="/wiki/Thoughts_Of_A_Predicate_Felon" title="Thoughts Of A Predicate Felon" class="mw-redirect">Thoughts Of A Predicate Felon</a></i></td>
+<td><a href="/wiki/Tony_Yayo" title="Tony Yayo">Tony Yayo</a></td>
+<td>214,000</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">8</th>
+<td><i><a href="/wiki/U.S.A._(United_State_of_Atlanta)" title="U.S.A. (United State of Atlanta)">U.S.A. (United State of Atlanta)</a></i></td>
+<td><a href="/wiki/Ying_Yang_Twins" title="Ying Yang Twins">Ying Yang Twins</a></td>
+<td>201,000</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">9</th>
+<td><i><a href="/wiki/Be_(Common_album)" title="Be (Common album)">Be</a></i></td>
+<td><a href="/wiki/Common_(rapper)" title="Common (rapper)">Common</a></td>
+<td>185,000</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">10</th>
+<td><i><a href="/wiki/The_Cookbook" title="The Cookbook">The Cookbook</a></i></td>
+<td><a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a></td>
+<td>176,000</td>
+<td>2</td>
+<td></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Highest_critically_reviewed_albums_.28Metacritic.29">Highest critically reviewed albums (Metacritic)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2005_in_hip_hop_music&amp;action=edit&amp;section=3" title="Edit section: Highest critically reviewed albums (Metacritic)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align:center;">
+<tr>
+<th scope="col">Number</th>
+<th scope="col">Artist</th>
+<th scope="col">Album</th>
+<th scope="col">Average score</th>
+<th scope="col">Number of reviews</th>
+<th scope="col">Reference</th>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="/wiki/M.I.A._(artist)" title="M.I.A. (artist)" class="mw-redirect">M.I.A.</a></td>
+<td><i><a href="/wiki/Arular" title="Arular">Arular</a></i></td>
+<td>88</td>
+<td>33 reviews</td>
+<td><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></td>
+<td><i><a href="/wiki/Late_Registration" title="Late Registration">Late Registration</a></i></td>
+<td>85</td>
+<td>31 reviews</td>
+<td><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="/wiki/Edan_(musician)" title="Edan (musician)">Edan</a></td>
+<td><i><a href="/wiki/Beauty_and_the_Beat_(Edan_album)" title="Beauty and the Beat (Edan album)">Beauty And The Beat</a></i></td>
+<td>85</td>
+<td>18 reviews</td>
+<td><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="/wiki/Common_(rapper)" title="Common (rapper)">Common</a></td>
+<td><i><a href="/wiki/Be_(Common_album)" title="Be (Common album)">Be</a></i></td>
+<td>83</td>
+<td>26 reviews</td>
+<td><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="/wiki/Blueprint_(rapper)" title="Blueprint (rapper)">Blueprint</a></td>
+<td><i><a href="/wiki/1988_(album)" title="1988 (album)">1988</a></i></td>
+<td>83</td>
+<td>9 reviews</td>
+<td><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="/wiki/Gorillaz" title="Gorillaz">Gorillaz</a></td>
+<td><i><a href="/wiki/Demon_Days" title="Demon Days">Demon Days</a></i></td>
+<td>82</td>
+<td>37 reviews</td>
+<td><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="/wiki/Kano_(rapper)" title="Kano (rapper)">Kano</a></td>
+<td><i><a href="/wiki/Home_Sweet_Home_(Kano_album)" title="Home Sweet Home (Kano album)">Home Sweet Home</a></i></td>
+<td>82</td>
+<td>13 reviews</td>
+<td><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="/wiki/Danger_Doom" title="Danger Doom">DangerDoom</a></td>
+<td><i><a href="/wiki/The_Mouse_and_the_Mask" title="The Mouse and the Mask">The Mouse And The Mask</a></i></td>
+<td>81</td>
+<td>34 reviews</td>
+<td><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="/wiki/Odd_Nosdam" title="Odd Nosdam">Odd Nosdam</a></td>
+<td><i><a href="/wiki/Burner_(Odd_Nosdam_album)" title="Burner (Odd Nosdam album)">Burner</a></i></td>
+<td>81</td>
+<td>9 reviews</td>
+<td><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="/wiki/The_Perceptionists" title="The Perceptionists">The Perceptionists</a></td>
+<td><i><a href="/wiki/Black_Dialogue" title="Black Dialogue">Black Dialogue</a></i></td>
+<td>81</td>
+<td>7 reviews</td>
+<td><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2005_in_hip_hop_music&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Previous article: <a href="/wiki/2004_in_hip_hop_music" title="2004 in hip hop music">2004 in hip hop music</a></li>
+<li>Next article: <a href="/wiki/2006_in_hip_hop_music" title="2006 in hip hop music">2006 in hip hop music</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2005_in_hip_hop_music&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/arular/mia">http://www.metacritic.com/music/arular/mia</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/late-registration/kanye-west">http://www.metacritic.com/music/late-registration/kanye-west</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/beauty-and-the-beat/edan">http://www.metacritic.com/music/beauty-and-the-beat/edan</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/be/common">http://www.metacritic.com/music/be/common</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/1988/blueprint">http://www.metacritic.com/music/1988/blueprint</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/demon-days/gorillaz">http://www.metacritic.com/music/demon-days/gorillaz</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/home-sweet-home/kano">http://www.metacritic.com/music/home-sweet-home/kano</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/the-mouse-and-the-mask/dangerdoom">http://www.metacritic.com/music/the-mouse-and-the-mask/dangerdoom</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/burner/odd-nosdam">http://www.metacritic.com/music/burner/odd-nosdam</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/black-dialogue/the-perceptionists">http://www.metacritic.com/music/black-dialogue/the-perceptionists</a></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1120
+CPU time usage: 0.464 seconds
+Real time usage: 0.492 seconds
+Preprocessor visited node count: 432/1000000
+Preprocessor generated node count: 3882/1500000
+Post‐expand include size: 3415/2048000 bytes
+Template argument size: 663/2048000 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:39961170-0!*!0!!en!*!* and timestamp 20140615105720 and revision id 612998279
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=2005_in_hip_hop_music&amp;oldid=612998279">http://en.wikipedia.org/w/index.php?title=2005_in_hip_hop_music&amp;oldid=612998279</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2000s_in_hip_hop_music" title="Category:2000s in hip hop music">2000s in hip hop music</a></li><li><a href="/wiki/Category:2005_in_music" title="Category:2005 in music">2005 in music</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2005+in+hip+hop+music&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2005+in+hip+hop+music" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/2005_in_hip_hop_music"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:2005_in_hip_hop_music&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/2005_in_hip_hop_music" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=2005_in_hip_hop_music&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=2005_in_hip_hop_music&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/2005_in_hip_hop_music" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/2005_in_hip_hop_music" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=2005_in_hip_hop_music&amp;oldid=612998279" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=2005_in_hip_hop_music&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q16822616" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=2005_in_hip_hop_music&amp;id=612998279" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=2005+in+hip+hop+music">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=2005+in+hip+hop+music&amp;oldid=612998279&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=2005_in_hip_hop_music&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q16822616#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 June 2014 at 10:57.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/2005_in_hip_hop_music" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":190,"wgHostname":"mw1111"});
+}</script>
+	</body>
+</html>
+	

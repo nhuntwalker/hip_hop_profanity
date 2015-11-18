@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>ATLiens - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/ATLiens" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=ATLiens&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=ATLiens&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/ATLiens" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cmw.PopUpMediaTransform%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ATLiens","wgTitle":"ATLiens","wgCurRevisionId":610733559,"wgRevisionId":610733559,"wgArticleId":1715433,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Certification Table Entry usages for Canada","Certification Table Entry usages for United States","Good articles","Outkast albums","1996 albums","Albums produced by Organized Noize"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"ATLiens","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q299003"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-ATLiens skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>ATLiens</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">ATLiens</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Outkast-atliens.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c6/Outkast-atliens.jpg/220px-Outkast-atliens.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/c/c6/Outkast-atliens.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/c/c6/Outkast-atliens.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Outkast" title="Outkast">OutKast</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">August 27, 1996</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1995–96<br />
+Bosstown Recording Studios, Doppler Recording Studios, <a href="/wiki/PatchWerk_Recording_Studios" title="PatchWerk Recording Studios">PatchWerk Recording Studio</a>, Purple Dragon Studios, Studio LaCoCo<br />
+<small>(<a href="/wiki/Atlanta" title="Atlanta">Atlanta</a>, <a href="/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a>)</small><br />
+<a href="/wiki/Chung_King_Studios" title="Chung King Studios">Chung King Recording Studio</a>, Sound On Sound Recording<br />
+<small>(<a href="/wiki/New_York_City" title="New York City">New York</a>, <a href="/wiki/New_York_(state)" title="New York (state)" class="mw-redirect">New York</a>)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>57:23</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/LaFace_Records" title="LaFace Records">LaFace</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Organized_Noize" title="Organized Noize">Organized Noize</a>, OutKast/Earthtone Ideas</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Outkast" title="Outkast">OutKast</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Southernplayalisticadillacmuzik" title="Southernplayalisticadillacmuzik">Southernplaya- listicadillacmuzik</a></i><br />
+(1994)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>ATLiens</b></i><br />
+(1996)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Aquemini" title="Aquemini">Aquemini</a></i><br />
+(1998)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>ATLiens</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Elevators_(Me_%26_You)" title="Elevators (Me &amp; You)">Elevators (Me &amp; You)</a>"</span><br />
+Released: July 5, 1996</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/ATLiens_(song)" title="ATLiens (song)">ATLiens</a>"</span><br />
+Released: November 1996</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Jazzy_Belle" title="Jazzy Belle">Jazzy Belle</a>"</span><br />
+Released: April 1997</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>ATLiens</b></i> is the second <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by American <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> duo <a href="/wiki/OutKast" title="OutKast" class="mw-redirect">OutKast</a>, released on August 27, 1996, by <a href="/wiki/LaFace_Records" title="LaFace Records">LaFace Records</a>. The duo wanted to improve on their 1994 debut album <i><a href="/wiki/Southernplayalisticadillacmuzik" title="Southernplayalisticadillacmuzik">Southernplayalisticadillacmuzik</a></i> and gain respect for their growing <a href="/wiki/Southern_hip_hop" title="Southern hip hop">Southern hip hop</a> scene. OutKast recorded <i>ATLiens</i> in sessions at several Atlanta studios—Bosstown Recording Studios, Doppler Recording Studios, <a href="/wiki/PatchWerk_Recording_Studios" title="PatchWerk Recording Studios">PatchWerk Recording Studio</a>, Purple Dragon Studios, and Studio LaCoCo—as well as <a href="/wiki/Chung_King_Studios" title="Chung King Studios">Chung King Recording Studio</a> and Sound On Sound Recording in New York City.</p>
+<p>The record features outer space-inspired production sounds, with OutKast and producers <a href="/wiki/Organized_Noize" title="Organized Noize">Organized Noize</a> incorporating elements of <a href="/wiki/Dub_(music)" title="Dub (music)">dub</a>, <a href="/wiki/Reggae" title="Reggae">reggae</a>, and <a href="/wiki/Gospel_music" title="Gospel music">gospel</a> into the compositions. Several songs feature the duo's first attempts at producing music by themselves. Lyrically, the group discusses a wide range of topics including urban life as hustlers, existential introspection, and extraterrestrial life. The album's title is a <a href="/wiki/Portmanteau" title="Portmanteau">portmanteau</a> of "ATL" (an <a href="/wiki/Abbreviation" title="Abbreviation">abbreviation</a> of <a href="/wiki/Atlanta,_Georgia" title="Atlanta, Georgia" class="mw-redirect">Atlanta, Georgia</a>) and "<a href="/wiki/Extraterrestrial_life" title="Extraterrestrial life">aliens</a>", which has been interpreted by critics as a commentary about the feeling of being isolated from American culture.</p>
+<p><i>ATLiens</i> debuted at number two on the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart, and it sold nearly 350,000 copies in its first two weeks of release. The album was very well received by music critics upon its release, who praised the record's lyrical content. It has been certified <a href="/wiki/RIAA_certification" title="RIAA certification">double platinum</a> by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA), for shipments of two million copies in the United States. The album spawned the singles "<a href="/wiki/Elevators_(Me_%26_You)" title="Elevators (Me &amp; You)">Elevators (Me &amp; You)</a>", "<a href="/wiki/ATLiens_(song)" title="ATLiens (song)">ATLiens</a>", and "<a href="/wiki/Jazzy_Belle" title="Jazzy Belle">Jazzy Belle</a>". Since its release, <i>ATLiens</i> has been listed by several magazines and critics as one of the greatest hip hop albums of all time.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Recording_and_production"><span class="tocnumber">2</span> <span class="toctext">Recording and production</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Composition"><span class="tocnumber">3</span> <span class="toctext">Composition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Music"><span class="tocnumber">3.1</span> <span class="toctext">Music</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Lyrics"><span class="tocnumber">3.2</span> <span class="toctext">Lyrics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Release_and_promotion"><span class="tocnumber">4</span> <span class="toctext">Release and promotion</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Reception"><span class="tocnumber">5</span> <span class="toctext">Reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Critical_response"><span class="tocnumber">5.1</span> <span class="toctext">Critical response</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Commercial_performance"><span class="tocnumber">5.2</span> <span class="toctext">Commercial performance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Legacy"><span class="tocnumber">6</span> <span class="toctext">Legacy</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Track_listing"><span class="tocnumber">7</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Personnel"><span class="tocnumber">8</span> <span class="toctext">Personnel</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Musicians"><span class="tocnumber">8.1</span> <span class="toctext">Musicians</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Production"><span class="tocnumber">8.2</span> <span class="toctext">Production</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Charts"><span class="tocnumber">9</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Certifications"><span class="tocnumber">10</span> <span class="toctext">Certifications</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Notes"><span class="tocnumber">12.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Bibliography"><span class="tocnumber">12.2</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1994, the American <a href="/wiki/Hip_hop" title="Hip hop">hip hop</a> duo <a href="/wiki/Outkast" title="Outkast">OutKast</a> released their debut album, <i><a href="/wiki/Southernplayalisticadillacmuzik" title="Southernplayalisticadillacmuzik">Southernplayalisticadillacmuzik</a></i>, which was recorded when members <a href="/wiki/Big_Boi" title="Big Boi">Big Boi</a> and <a href="/wiki/Andr%C3%A9_3000" title="André 3000">André 3000</a> were eighteen years old. Bolstered by the success of the single "<a href="/wiki/Player%27s_Ball" title="Player's Ball">Player's Ball</a>", the record established OutKast as prominent figures in the Southern hip hop scene.<sup id="cite_ref-Nickson3233_1-0" class="reference"><a href="#cite_note-Nickson3233-1"><span>[</span>1<span>]</span></a></sup> After the album was certified platinum, LaFace Records gave OutKast more creative control and advanced money for their 1996 follow-up album <i>ATLiens</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> The duo took the opportunity to recreate their image. On a trip to <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a> with producer <a href="/wiki/Mr._DJ" title="Mr. DJ">Mr. DJ</a>, the two decided to abandon their <a href="/wiki/Cornrows" title="Cornrows">cornrow</a> hairstyles in favor of a more natural aesthetic, vowing to stop combing their hair.<sup id="cite_ref-Westhoff135_3-0" class="reference"><a href="#cite_note-Westhoff135-3"><span>[</span>3<span>]</span></a></sup> <a href="/wiki/Dungeon_Family" title="Dungeon Family">Dungeon Family</a> member <a href="/wiki/Big_Rube" title="Big Rube">Big Rube</a> observed an increase in the duo's confidence after returning from their first tour, remarking, "They started understanding the power they had in their music. They started showing a swagger that certain artists have—the ones that are stars."<sup id="cite_ref-sarig139_4-0" class="reference"><a href="#cite_note-sarig139-4"><span>[</span>4<span>]</span></a></sup> The members also underwent changes in their personal lives; in 1995, Big Boi's girlfriend gave birth to their first child and André 3000 and <a href="/wiki/Total_(group)" title="Total (group)">Total</a>'s Keisha Spivey ended their two-year relationship.<sup id="cite_ref-sarig140_5-0" class="reference"><a href="#cite_note-sarig140-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Despite its success, <i>Southernplayalisticadillacmuzik</i> had some detractors, including hip hop tastemakers who were unaccustomed to the album's style.<sup id="cite_ref-Nickson35_6-0" class="reference"><a href="#cite_note-Nickson35-6"><span>[</span>6<span>]</span></a></sup> As the <a href="/wiki/East_Coast_hip_hop" title="East Coast hip hop">East Coast</a> and <a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast</a> hip hop scenes were already well-established at the time, many did not view the South as a legitimate and respectable scene.<sup id="cite_ref-Westhoff133_7-0" class="reference"><a href="#cite_note-Westhoff133-7"><span>[</span>7<span>]</span></a></sup> At the 1995 Source Awards, an award ceremony held by <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> magazine, OutKast won in the "Best Newcomer" category,<sup id="cite_ref-GRD_8-0" class="reference"><a href="#cite_note-GRD-8"><span>[</span>8<span>]</span></a></sup> but were booed upon taking the stage and delivering their acceptance speech; Big Boi managed to deliver his shout outs, while André 3000 was nervous and only said, "The South got somethin' to say."<sup id="cite_ref-Johnson46061_9-0" class="reference"><a href="#cite_note-Johnson46061-9"><span>[</span>9<span>]</span></a></sup> The latter recalled how the album was received by some listeners, "People thought that the South basically only had <a href="/wiki/Bass_music" title="Bass music">bass music</a>. At first people were looking at us like 'Um, I don't know.'"<sup id="cite_ref-Nickson35_6-1" class="reference"><a href="#cite_note-Nickson35-6"><span>[</span>6<span>]</span></a></sup> Taken aback by the backlash, André 3000 and Big Boi channelled their frustration in the studio to improve upon their debut.<sup id="cite_ref-Westhoff133_7-1" class="reference"><a href="#cite_note-Westhoff133-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Recording_and_production">Recording and production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=2" title="Edit section: Recording and production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:272px;"><a href="/wiki/File:Patchwerk_995.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Patchwerk_995.gif/270px-Patchwerk_995.gif" width="270" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Patchwerk_995.gif/405px-Patchwerk_995.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/b/bd/Patchwerk_995.gif 2x" data-file-width="500" data-file-height="333" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Patchwerk_995.gif" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="/wiki/PatchWerk_Recording_Studios" title="PatchWerk Recording Studios">PatchWerk Recording Studio</a> in Atlanta, one of the album's recording locations</div>
+</div>
+</div>
+<p>After acquiring their own recording studio, the duo immediately started working on new material and assimiliated themselves with music recording and studio equipment, as they sought to become more ambitious artists and less dependent on other producers.<sup id="cite_ref-Nickson42_10-0" class="reference"><a href="#cite_note-Nickson42-10"><span>[</span>10<span>]</span></a></sup> The two also became more accustomed to playing live, particularly Big Boi, and André 3000 significantly changed his lifestyle, as he adopted a more eccentric fashion sense, became a vegetarian, and stopped smoking marijuana.<sup id="cite_ref-Nickson46_11-0" class="reference"><a href="#cite_note-Nickson46-11"><span>[</span>11<span>]</span></a></sup> Having dropped out months before graduation, André 3000 also returned to high school to earn his diploma during the recording of <i>ATLiens</i>.<sup id="cite_ref-Vibrations_12-0" class="reference"><a href="#cite_note-Vibrations-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>Before beginning work on <i>ATLiens</i>, André 3000 purchased an <a href="/wiki/E-mu_SP-1200" title="E-mu SP-1200">SP1200</a> drum machine, an <a href="/wiki/Music_Production_Center" title="Music Production Center">MPC3000</a> sampler, a <a href="/wiki/TASCAM" title="TASCAM">TASCAM</a> mixing board, and turntables with stacks of classic records.<sup id="cite_ref-sarig140_5-1" class="reference"><a href="#cite_note-sarig140-5"><span>[</span>5<span>]</span></a></sup> Although he had never produced a song before, he used techniques learned from observing the Dungeon Crew at work. "<a href="/wiki/Elevators_(Me_%26_You)" title="Elevators (Me &amp; You)">Elevators (Me &amp; You)</a>" was the first song the duo created together for the album.<sup id="cite_ref-sarig140_5-2" class="reference"><a href="#cite_note-sarig140-5"><span>[</span>5<span>]</span></a></sup> The duo refrained from <a href="/wiki/Sampling_(music)" title="Sampling (music)">sampling</a> on the album, with Big Boi explaining "I feel like you cheat the listener when you sample. If it's an old school jam, leave it to the old. We wanna have our own school of music."<sup id="cite_ref-Vibrations_12-1" class="reference"><a href="#cite_note-Vibrations-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>OutKast recorded the album in sessions at several Atlanta studios—Bosstown Recording Studios, Doppler Recording Studios, <a href="/wiki/PatchWerk_Recording_Studios" title="PatchWerk Recording Studios">PatchWerk Recording Studio</a>, Purple Dragon Studios, and Studio LaCoCo—as well as <a href="/wiki/Chung_King_Studios" title="Chung King Studios">Chung King Recording Studio</a> and Sound On Sound Recording in New York City.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> For <i>ATLiens</i>, the band aimed for a consistent set of songs in which a listener would not need to skip tracks; OutKast wrote around 35 songs for the album and reduced them to fourteen.<sup id="cite_ref-Home_14-0" class="reference"><a href="#cite_note-Home-14"><span>[</span>14<span>]</span></a></sup> The duo's songwriting style for the album had no solid structure and was mostly spontaneous; Big Boi noted, "Stuff'll just come to you. I'll be sittin' in the truck, and I'll start rhymin'. People look at me like I'm crazy, but that's how it starts."<sup id="cite_ref-Home_14-1" class="reference"><a href="#cite_note-Home-14"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Composition">Composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=3" title="Edit section: Composition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=4" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image">
+<div class="center">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/75px-Gnome-mime-sound-openclipart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/100px-Gnome-mime-sound-openclipart.svg.png 2x" data-file-width="160" data-file-height="160" /></div>
+</div>
+</td>
+<td class="mbox-text plainlist" style="line-height:1.1em;">
+<div class="haudio">
+<div style="padding:2px 0;" class="fn"><a href="/wiki/File:Elevators_Me_And_You_.ogg" title="File:Elevators Me And You .ogg">"Elevators (Me &amp; You)"</a></div>
+<div style="padding-right:4px;">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px;height:23px" poster="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="30.001360544218" data-startoffset="0" data-mwtitle="Elevators_Me_And_You_.ogg" data-mwprovider="local"><source src="//upload.wikimedia.org/wikipedia/en/2/2b/Elevators_Me_And_You_.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (68 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="67624"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/en/2/2b/Elevators_Me_And_You_.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+<div style="padding:2px 0 0 0;" class="description">The echo-laden track illustrates OutKast's rise to fame and exemplifies the album's sparse, atmospheric production with organ riffs, <a href="/wiki/Dub_(music)" title="Dub (music)">dub</a> bass, and telephone tones.</div>
+</div>
+<hr />
+<div class="haudio">
+<div style="padding:2px 0;" class="fn"><a href="/wiki/File:13th_Floor_Growing_Old.ogg" title="File:13th Floor Growing Old.ogg">"13th Floor/Growing Old"</a></div>
+<div style="padding-right:4px;">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_1" style="width:220px;height:23px" poster="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="30" data-startoffset="0" data-mwtitle="13th_Floor_Growing_Old_(OutKast_song_-_sample).ogg" data-mwprovider="local"><source src="//upload.wikimedia.org/wikipedia/en/4/4b/13th_Floor_Growing_Old_%28OutKast_song_-_sample%29.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (69 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="68592"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/en/4/4b/13th_Floor_Growing_Old_%28OutKast_song_-_sample%29.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+<div style="padding:2px 0 0 0;" class="description">The album's closing track is a meditation on aging that contains <a href="/wiki/Prince_(musician)" title="Prince (musician)">Prince</a>-like piano and soulful vocals from singer <a href="/wiki/Debra_Killings" title="Debra Killings">Debra Killings</a>.</div>
+</div>
+<hr /></td>
+</tr>
+<tr>
+<td colspan="2" class="mbox-text" style="line-height:1.1em;"><span style="font-size:smaller;"><i>Problems playing these files? See <a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">media help</a>.</i></span></td>
+</tr>
+</table>
+<p>Two-thirds of the album is produced by <a href="/wiki/Organized_Noize" title="Organized Noize">Organized Noize</a>, OutKast's primary production team. The rest is produced by Earthtone III, a production team that includes OutKast themselves and <a href="/wiki/Mr._DJ" title="Mr. DJ">Mr. DJ</a>. André 3000 and Big Boi produced the songs "Jazzy Belle" and "Elevators (Me &amp; You)".<sup id="cite_ref-Wang133_15-0" class="reference"><a href="#cite_note-Wang133-15"><span>[</span>15<span>]</span></a></sup> It also has a notably more laid-back, spacey production sound, which they would continue to a certain extent on their follow-up album <i><a href="/wiki/Aquemini" title="Aquemini">Aquemini</a></i>.<sup id="cite_ref-aqueminirev_16-0" class="reference"><a href="#cite_note-aqueminirev-16"><span>[</span>16<span>]</span></a></sup> Although the group drew from <a href="/wiki/George_Clinton_(musician)" title="George Clinton (musician)">George Clinton</a>'s outer-space inspired compositions, the band utilizes a more laid-back style as opposed to Clinton's hard funk leanings.<sup id="cite_ref-allmusicrev_17-0" class="reference"><a href="#cite_note-allmusicrev-17"><span>[</span>17<span>]</span></a></sup> Many tracks feature strong echo and reverb, taking influence from <a href="/wiki/Dub_(music)" title="Dub (music)">dub</a> and <a href="/wiki/Reggae" title="Reggae">reggae</a>.<sup id="cite_ref-allmusicrev_17-1" class="reference"><a href="#cite_note-allmusicrev-17"><span>[</span>17<span>]</span></a></sup> Andrea Comer of <i><a href="/wiki/The_Hartford_Courant" title="The Hartford Courant" class="mw-redirect">The Hartford Courant</a></i> perceives an "extraterrestrial feel" in the record's production.<sup id="cite_ref-Comer_18-0" class="reference"><a href="#cite_note-Comer-18"><span>[</span>18<span>]</span></a></sup></p>
+<p>OutKast also incorporated elements of <a href="/wiki/Gospel_music" title="Gospel music">gospel</a> into the music; being from the South, the group felt obligated to "stay close to [their] slave roots".<sup id="cite_ref-Vibrations_12-2" class="reference"><a href="#cite_note-Vibrations-12"><span>[</span>12<span>]</span></a></sup> The album's introduction track "You May Die" has been described as "churchy".<sup id="cite_ref-Harrington_19-0" class="reference"><a href="#cite_note-Harrington-19"><span>[</span>19<span>]</span></a></sup> "Elevators (Me &amp; You)" contains atmospheric elements including echoes, dub-influenced bass, organ riffs, and telephone tones.<sup id="cite_ref-sarig14041_20-0" class="reference"><a href="#cite_note-sarig14041-20"><span>[</span>20<span>]</span></a></sup> "13th Floor/Growing Old" contains a <a href="/wiki/Spoken_word" title="Spoken word">spoken word</a> introduction from Big Rube, somber soul vocals from <a href="/wiki/Debra_Killings" title="Debra Killings">Debra Killings</a>, and a "<a href="/wiki/Prince_(musician)" title="Prince (musician)">Prince</a>-ish" piano riff,<sup id="cite_ref-Wang133_15-1" class="reference"><a href="#cite_note-Wang133-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-sarig142_21-0" class="reference"><a href="#cite_note-sarig142-21"><span>[</span>21<span>]</span></a></sup> while "Wheelz of Steel" features "furious" turntable scratching by Mr. DJ.<sup id="cite_ref-sarig142_21-1" class="reference"><a href="#cite_note-sarig142-21"><span>[</span>21<span>]</span></a></sup> "Extraterrestrial" offers a break in the continuity of the record as it features no drum <a href="/wiki/Beat_(music)" title="Beat (music)">beat</a>.<sup id="cite_ref-Hess461462_22-0" class="reference"><a href="#cite_note-Hess461462-22"><span>[</span>22<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Lyrics">Lyrics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=5" title="Edit section: Lyrics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Lyrically, André 3000 and Big Boi abandon the "hard-partying playa characters" of their debut album in favor of more spacey, funky, and futuristic personas on <i>ATLiens</i>.<sup id="cite_ref-allmusicrev_17-2" class="reference"><a href="#cite_note-allmusicrev-17"><span>[</span>17<span>]</span></a></sup> With their lyrics, the duo hoped to reflect on maturity in the wake of the birth of Big Boi's daughter.<sup id="cite_ref-carries_23-0" class="reference"><a href="#cite_note-carries-23"><span>[</span>23<span>]</span></a></sup> André 3000 explained, "It's like everybody's talking about sipping champagne and being big time, so we just took it upon ourselves to do something new&#160;... I want my children to say, 'Daddy really said something, he wasn't just trying to brag on himself.'"<sup id="cite_ref-carries_23-1" class="reference"><a href="#cite_note-carries-23"><span>[</span>23<span>]</span></a></sup> Many songs on <i>ATLiens</i> feature more unconventional subject matter for hip hop. The lyrical content ranges from addressing urban life as hustlers and pimps to extraterrestrial life and space travel.<sup id="cite_ref-Hess461462_22-1" class="reference"><a href="#cite_note-Hess461462-22"><span>[</span>22<span>]</span></a></sup> The title track's chorus expresses Southern pride, while its verses feature André 3000 explaining his newly-adopted drug-free lifestyle.<sup id="cite_ref-sarig14142_24-0" class="reference"><a href="#cite_note-sarig14142-24"><span>[</span>24<span>]</span></a></sup></p>
+<p>"Elevators (Me &amp; You)" illustrates OutKast's rise to fame, and was inspired by a show the band played at <a href="/wiki/Howard_University" title="Howard University">Howard University</a> with <a href="/wiki/Sean_Combs" title="Sean Combs">P. Diddy</a> in the audience.<sup id="cite_ref-Home_14-2" class="reference"><a href="#cite_note-Home-14"><span>[</span>14<span>]</span></a></sup> The song also discusses the unlikely partnership of André 3000 and Big Boi, and uses the metaphor of an elevator for the ups and downs of fame.<sup id="cite_ref-Bradley498_25-0" class="reference"><a href="#cite_note-Bradley498-25"><span>[</span>25<span>]</span></a></sup> The final verse illustrates André 3000 dealing with a fan who pretends to have been childhood friends with him.<sup id="cite_ref-Bradley498_25-1" class="reference"><a href="#cite_note-Bradley498-25"><span>[</span>25<span>]</span></a></sup> It also references Southern culture, including mentions of <a href="/wiki/Cadillac" title="Cadillac">Cadillacs</a> and extended family gatherings.<sup id="cite_ref-sarig141_26-0" class="reference"><a href="#cite_note-sarig141-26"><span>[</span>26<span>]</span></a></sup> "Babylon" reflects on <a href="/wiki/Religion_and_sexuality" title="Religion and sexuality">religious attitudes towards sex</a> and illustrates André 3000's upbringing and his forbidden attractions throughout childhood.<sup id="cite_ref-Hess461462_22-2" class="reference"><a href="#cite_note-Hess461462-22"><span>[</span>22<span>]</span></a></sup> "Jazzy Belle" discusses the group's "increasingly enlightened" view regarding women: "Went from yellin'&#160;... bitches and hoes to queen thangs".<sup id="cite_ref-sarig142_21-2" class="reference"><a href="#cite_note-sarig142-21"><span>[</span>21<span>]</span></a></sup> The album's closer "13th Floor/Growing Old" is a meditation on aging and emphasizes Southern hip hop's legitimacy.<sup id="cite_ref-sarig142_21-3" class="reference"><a href="#cite_note-sarig142-21"><span>[</span>21<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Release_and_promotion">Release and promotion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=6" title="Edit section: Release and promotion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>ATLiens</i> was released on August 27, 1996, by <a href="/wiki/LaFace_Records" title="LaFace Records">LaFace Records</a>. In September, LaFace created a promotion for the record in conjunction with <a href="/wiki/Blockbuster_LLC" title="Blockbuster LLC">Blockbuster</a> in which customers could enter to win a 1970s Cadillac car, emphasizing OutKast and Cadillac's connection with the Southern lifestyle.<sup id="cite_ref-carries_23-2" class="reference"><a href="#cite_note-carries-23"><span>[</span>23<span>]</span></a></sup> The record's inner booklet features a 24-page comic strip foldout starring the members, who must defend "positive music" against the villain Nosamulli.<sup id="cite_ref-carries_23-3" class="reference"><a href="#cite_note-carries-23"><span>[</span>23<span>]</span></a></sup> The strip continues in the artwork for each single released from <i>ATLiens</i> except for "Elevators (Me &amp; You)".<sup id="cite_ref-carries_23-4" class="reference"><a href="#cite_note-carries-23"><span>[</span>23<span>]</span></a></sup></p>
+<p>The album's title is a <a href="/wiki/Portmanteau" title="Portmanteau">portmanteau</a> of "ATL" (an <a href="/wiki/Abbreviation" title="Abbreviation">abbreviation</a> of <a href="/wiki/Atlanta,_Georgia" title="Atlanta, Georgia" class="mw-redirect">Atlanta, Georgia</a>) and "<a href="/wiki/Extraterrestrial_life" title="Extraterrestrial life">aliens</a>". In his book <i>Icons of Hip Hop: An Encyclopedia of the Movement, Music, and Culture</i>, author Mickey Hess interprets the album's title as "partly a statement about being from Atlanta, while also signifying on the theme of the group's name (by using the term <i>aliens</i>) framing themselves as societal outcasts."<sup id="cite_ref-Hess461_27-0" class="reference"><a href="#cite_note-Hess461-27"><span>[</span>27<span>]</span></a></sup> Mark Bould, author of <i>The Routledge Companion to Science Fiction</i>, observes that the title symbolizes OutKast's "estrangement from American society", suggesting that "the inner city of their formative years is out of this world and its hostile conditions."<sup id="cite_ref-Bould191_28-0" class="reference"><a href="#cite_note-Bould191-28"><span>[</span>28<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=7" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Critical_response">Critical response</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=8" title="Edit section: Critical response">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-allmusicrev_17-3" class="reference"><a href="#cite_note-allmusicrev-17"><span>[</span>17<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Atlanta_Journal-Constitution" title="The Atlanta Journal-Constitution">Atlanta Journal-Constitution</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/4 stars"><img alt="3.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Murray_29-0" class="reference"><a href="#cite_note-Murray-29"><span>[</span>29<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-BigV_30-0" class="reference"><a href="#cite_note-BigV-30"><span>[</span>30<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">RapReviews</td>
+<td style="vertical-align:middle">10/10<sup id="cite_ref-Juon_31-0" class="reference"><a href="#cite_note-Juon-31"><span>[</span>31<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Powell_32-0" class="reference"><a href="#cite_note-Powell-32"><span>[</span>32<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The Rolling Stone Album Guide</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-RSguide_33-0" class="reference"><a href="#cite_note-RSguide-33"><span>[</span>33<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Source_34-0" class="reference"><a href="#cite_note-Source-34"><span>[</span>34<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Martin_C._Strong" title="Martin C. Strong">Martin C. Strong</a></td>
+<td style="vertical-align:middle">7/10<sup id="cite_ref-Strong_35-0" class="reference"><a href="#cite_note-Strong-35"><span>[</span>35<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Sputnikmusic" title="Sputnikmusic">Sputnikmusic</a></td>
+<td style="vertical-align:middle">4.5/5<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup><br />
+3.5/5<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup><br />
+5.0/5<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i>ATLiens</i> was well received by contemporary music critics. Andrea Comer of <i><a href="/wiki/The_Hartford_Courant" title="The Hartford Courant" class="mw-redirect">The Hartford Courant</a></i> felt that OutKast's "lyrical acumen shines through" despite "Heltah-Skeltah mumbling and Southern slang", and stated, "after a few rotations, the alien feeling wears away, and [the album is] just out of this world."<sup id="cite_ref-Comer_18-1" class="reference"><a href="#cite_note-Comer-18"><span>[</span>18<span>]</span></a></sup> Sonia Murray of <i><a href="/wiki/The_Atlanta_Journal-Constitution" title="The Atlanta Journal-Constitution">The Atlanta Journal-Constitution</a></i> called the album "more thoughtful" than its predecessor, noting, "What the second album lacks in adventurous arrangements it more than makes up for in lyrical dominance."<sup id="cite_ref-Murray_29-1" class="reference"><a href="#cite_note-Murray-29"><span>[</span>29<span>]</span></a></sup> <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> observed "growth" from OutKast and Organized Noize, and stated, "Big Boi and Dre have gone out of this world into a new dimension of sight, sound and mind".<sup id="cite_ref-Source_34-1" class="reference"><a href="#cite_note-Source-34"><span>[</span>34<span>]</span></a></sup></p>
+<p>Kevin Powell of <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> felt that, like OutKast's debut album, <i>ATLiens</i> is "a gritty document of what's happening here and now, an up-to-the-minute briefing on Southern black ghetto life on which OutKast members Andre and Big Boi cast their feelings of alienation in familiar, realistic characterizations". Powell asserted that unlike East Coast hip hop's "hedonistic materialism" or "the gunplay and pimpism" of West Coast hip hop, "Andre and Big Boi display a unique ability to describe ghetto life while offering up life-affirming possibilities, something all too rare in today's hip-hop nation."<sup id="cite_ref-Powell_32-1" class="reference"><a href="#cite_note-Powell-32"><span>[</span>32<span>]</span></a></sup> Richard Harrington of <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i> enjoyed the record's "more serious and focused lyrical sensibility", explaining, "The raps are generally inventive, clever without being cloying, more proof (if any were needed) that hip-hop innovation isn't just an East-West thang."<sup id="cite_ref-Harrington_19-1" class="reference"><a href="#cite_note-Harrington-19"><span>[</span>19<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=9" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The album debuted at number two on the U.S. <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart,<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup> and it sold nearly 350,000 copies in its first two weeks of release.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup> It ultimately spent 33 weeks on the <i>Billboard</i> 200 chart.<sup id="cite_ref-bb200_41-0" class="reference"><a href="#cite_note-bb200-41"><span>[</span>41<span>]</span></a></sup> Three singles were released for the album—"<a href="/wiki/Elevators_(Me_%26_You)" title="Elevators (Me &amp; You)">Elevators (Me &amp; You)</a>" on July 5, 1996,<sup id="cite_ref-RIAA_42-0" class="reference"><a href="#cite_note-RIAA-42"><span>[</span>42<span>]</span></a></sup> "<a href="/wiki/ATLiens_(song)" title="ATLiens (song)">ATLiens</a>" in November 1996, and "<a href="/wiki/Jazzy_Belle" title="Jazzy Belle">Jazzy Belle</a>" in April 1997.<sup id="cite_ref-Strong_35-1" class="reference"><a href="#cite_note-Strong-35"><span>[</span>35<span>]</span></a></sup> "Elevators (Me &amp; You)" reached number 12 and spent 20 weeks on the <a href="/wiki/Hot_100" title="Hot 100" class="mw-redirect"><i>Billboard</i> Hot 100</a> chart.<sup id="cite_ref-hot100_43-0" class="reference"><a href="#cite_note-hot100-43"><span>[</span>43<span>]</span></a></sup> It was certified <a href="/wiki/RIAA_certification" title="RIAA certification">gold</a> by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA) on September 13, 1996, for shipments of 500,000 copies in the United States.<sup id="cite_ref-RIAA_42-1" class="reference"><a href="#cite_note-RIAA-42"><span>[</span>42<span>]</span></a></sup> "ATLiens" reached number 35 and spent 17 weeks on the Hot 100, and "Jazzy Belle" spent 14 weeks and peaked at number 52 on the Hot 100.<sup id="cite_ref-hot100_43-1" class="reference"><a href="#cite_note-hot100-43"><span>[</span>43<span>]</span></a></sup></p>
+<p>On November 6, the album was certified <a href="/wiki/RIAA_certification" title="RIAA certification">platinum</a> by the RIAA on November 6, 1996, for shipments of one million copies in the US.<sup id="cite_ref-RIAA_42-2" class="reference"><a href="#cite_note-RIAA-42"><span>[</span>42<span>]</span></a></sup> By 1998, it had sold over 1.2 million copies.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44"><span>[</span>44<span>]</span></a></sup> On June 24, 2003, the RIAA certified <i>ATLiens</i> double platinum, having shipped two million copies in the US.<sup id="cite_ref-RIAA_42-3" class="reference"><a href="#cite_note-RIAA-42"><span>[</span>42<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=10" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although <i>ATLiens</i> was well received, it would not be until they released <i><a href="/wiki/Stankonia" title="Stankonia">Stankonia</a></i> (2000) that OutKast would receive significant mainstream popularity.<sup id="cite_ref-boiii_45-0" class="reference"><a href="#cite_note-boiii-45"><span>[</span>45<span>]</span></a></sup> In a retrospective review, <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> editor Steve Huey viewed the album as OutKast's "most focused work" and commented that "In addition to the striking musical leap forward, Dre and Big Boi continue to grow as rappers; their flows are getting more tongue-twistingly complex, and their lyrics more free-associative".<sup id="cite_ref-allmusicrev_17-4" class="reference"><a href="#cite_note-allmusicrev-17"><span>[</span>17<span>]</span></a></sup> RapReviews critic Steve Juon recommended it to listeners who "want to be challenged by [their] hip-hop" and wrote of the album's aesthetic:</p>
+<blockquote class="templatequote">
+<p>It's deep. So deep that listening to <i>ATLiens</i> you might feel like drowning, but the smooth vo-cals of Big Boi and the earthy flows of Andre always push you back up to the surface. They are players in the truest sense of the word; not just playing for ends but playing to win in the ultimate battle of life over death, good over bad, and righteousness over evil. Yet, it's not that heavy either. This album is nod your head music, shake your ass music. It makes you think and groove at the same time.<sup id="cite_ref-Juon_31-1" class="reference"><a href="#cite_note-Juon-31"><span>[</span>31<span>]</span></a></sup></p>
+</blockquote>
+<p>In <i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The Rolling Stone Album Guide</a></i> (2004), Roni Sarig felt that, strong rapping notwithstanding, the album's music "suffers as the duo make their first attempt at self-producing" and stated, "Although <i>ATLiens</i> promised expanded vistasa with its interstellar motif, the record delivered something of a sophomore slump&#160;... At best, <i>ATLiens</i> is the sound of an ambitious group searching for its voice."<sup id="cite_ref-RSguide_33-1" class="reference"><a href="#cite_note-RSguide-33"><span>[</span>33<span>]</span></a></sup></p>
+<p>In 1998, the album was selected as one of <i>The Source</i><span style="padding-left:0.1em;">'</span>s "100 Best Rap Albums".<sup id="cite_ref-46" class="reference"><a href="#cite_note-46"><span>[</span>46<span>]</span></a></sup> In 2000, <i><a href="/wiki/Exclaim!" title="Exclaim!">Exclaim!</a></i> listed the album on their "100 Records That Rocked 100 Issues of <i>Exclaim!</i>" list.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47"><span>[</span>47<span>]</span></a></sup> <i><a href="/wiki/Hip_Hop_Connection" title="Hip Hop Connection">Hip Hop Connection</a></i> ranked it number six on their list of "The 100 Greatest Rap Albums 1995–2005".<sup id="cite_ref-48" class="reference"><a href="#cite_note-48"><span>[</span>48<span>]</span></a></sup> <i><a href="/wiki/Complex_(magazine)" title="Complex (magazine)">Complex</a></i> ranked the album fifth on their list of "The 50 Greatest Sophomore Albums in Hip-Hop History",<sup id="cite_ref-49" class="reference"><a href="#cite_note-49"><span>[</span>49<span>]</span></a></sup> its title 15th on "The 50 Best Rap Album Titles Ever",<sup id="cite_ref-50" class="reference"><a href="#cite_note-50"><span>[</span>50<span>]</span></a></sup> and the title track's beat 91st on "The 100 Greatest Hip-Hop Beats of All Time".<sup id="cite_ref-51" class="reference"><a href="#cite_note-51"><span>[</span>51<span>]</span></a></sup> Rappers <a href="/wiki/Wiz_Khalifa" title="Wiz Khalifa">Wiz Khalifa</a> and <a href="/wiki/Dom_Kennedy" title="Dom Kennedy">Dom Kennedy</a>,<sup id="cite_ref-52" class="reference"><a href="#cite_note-52"><span>[</span>52<span>]</span></a></sup><sup id="cite_ref-53" class="reference"><a href="#cite_note-53"><span>[</span>53<span>]</span></a></sup> and DJ Jesse Marco have named <i>ATLiens</i> as one of their favorite albums.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54"><span>[</span>54<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=11" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Track listing and samples compiled from album liner notes.<sup id="cite_ref-Liner_Notes_55-0" class="reference"><a href="#cite_note-Liner_Notes-55"><span>[</span>55<span>]</span></a></sup></p>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"You May Die (Intro)" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Joi_(singer)" title="Joi (singer)">Joi Gilliam</a>, <a href="/wiki/Screechy_Peach" title="Screechy Peach">Myrna Crenshaw</a>, <a href="/wiki/Organized_Noize" title="Organized Noize">Organized Noize</a></td>
+<td style="vertical-align: top;">Organized Noize</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:05</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Two Dope Boyz (In a Cadillac)" &#160;</td>
+<td style="vertical-align: top;">André Benjamin, Organized Noize, Antwan Patton</td>
+<td style="vertical-align: top;">Organized Noize</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:42</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/ATLiens_(song)" title="ATLiens (song)">ATLiens</a>" &#160;</td>
+<td style="vertical-align: top;">Benjamin, Patton</td>
+<td style="vertical-align: top;">Earthtone Ideas</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:50</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Wheelz of Steel" &#160;</td>
+<td style="vertical-align: top;">Benjamin, Patton</td>
+<td style="vertical-align: top;">Earthtone Ideas</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:03</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Jazzy_Belle" title="Jazzy Belle">Jazzy Belle</a>" &#160;</td>
+<td style="vertical-align: top;">Benjamin, Organized Noize, Patton</td>
+<td style="vertical-align: top;">Organized Noize</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:11</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Elevators_(Me_%26_You)" title="Elevators (Me &amp; You)">Elevators (Me &amp; You)</a>" &#160;</td>
+<td style="vertical-align: top;">Benjamin, Patton</td>
+<td style="vertical-align: top;">Earthtone Ideas</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:25</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Ova da Wudz" &#160;</td>
+<td style="vertical-align: top;">Benjamin, <a href="/wiki/Witchdoctor_(rapper)" title="Witchdoctor (rapper)">Erin Johnson</a>, Patton</td>
+<td style="vertical-align: top;">Earthtone Ideas</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:47</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Babylon" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Andrea_Martin_(musician)" title="Andrea Martin (musician)">Andrea Martin</a>, Benjamin, <a href="/wiki/Ivan_Doroschuk" title="Ivan Doroschuk" class="mw-redirect">Ivan Doroschuk</a>, Patton</td>
+<td style="vertical-align: top;">Organized Noize</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:24</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Wailin'" &#160;</td>
+<td style="vertical-align: top;">Benjamin, Organized Noize, Patton</td>
+<td style="vertical-align: top;">Organized Noize</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:58</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Mainstream" <span style="font-size:85%;">(featuring <a href="/wiki/Khujo" title="Khujo">Khujo</a> and T-Mo)</span></td>
+<td style="vertical-align: top;">Robert Barnett, Benjamin, Willie Knighton, Patton</td>
+<td style="vertical-align: top;">Earthtone Ideas</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:18</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Decatur Psalm" <span style="font-size:85%;">(featuring <a href="/wiki/Big_Gipp" title="Big Gipp">Big Gipp</a> and <a href="/wiki/Cool_Breeze_(rapper)" title="Cool Breeze (rapper)">Cool Breeze</a>)</span></td>
+<td style="vertical-align: top;">Frederick Bell, Benjamin, Cameron Gipp, Organized Noize, Patton</td>
+<td style="vertical-align: top;">Organized Noize</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:58</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Millennium" &#160;</td>
+<td style="vertical-align: top;">Benjamin, Organized Noize, Patton</td>
+<td style="vertical-align: top;">Organized Noize</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:09</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"E.T. (Extraterrestrial)" &#160;</td>
+<td style="vertical-align: top;">Benjamin, Johnson, Patton</td>
+<td style="vertical-align: top;">Earthtone Ideas</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:06</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"13th Floor/Growing Old" &#160;</td>
+<td style="vertical-align: top;">Benjamin, Marqueze Ethridge, Organized Noize, Patton</td>
+<td style="vertical-align: top;">Organized Noize</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:50</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Elevators (Me &amp; You) [ONP 86 Remix]" &#160;</td>
+<td style="vertical-align: top;">Benjamin, Organized Noize, Patton</td>
+<td style="vertical-align: top;">Organized Noize</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:37</td>
+</tr>
+</table>
+<dl>
+<dt>Sample credits</dt>
+</dl>
+<ul>
+<li>"You May Die (Intro)" is an interpolation of "Summer in the City" by <a href="/wiki/Quincy_Jones" title="Quincy Jones">Quincy Jones</a>.</li>
+<li>"Two Dope Boyz (In a Cadillac)" contains a sample of "D.E.E.P." by OutKast and "Danger, She's A Stranger" by <a href="/wiki/The_Five_Stairsteps" title="The Five Stairsteps" class="mw-redirect">The Five Stairsteps</a></li>
+<li>"ATLiens" contains a sample of "Around The World" by Attilio Mineo and "So Tired" by <a href="/wiki/The_Chambers_Brothers" title="The Chambers Brothers">The Chambers Brothers</a></li>
+<li>"Wheelz of Steel" contains a sample of "Focus III" by <a href="/wiki/Focus_(band)" title="Focus (band)">Focus</a>, "Saturday Night Style" by <a href="/wiki/Mikey_Dread" title="Mikey Dread">Mikey Dread</a></li>
+<li>"Jazzy Belle" contains a sample of "It's Yours" by <a href="/wiki/T_La_Rock" title="T La Rock">T La Rock</a> and <a href="/wiki/Jazzy_Jay" title="Jazzy Jay">Jazzy Jay</a>, and "Prelude" by <a href="/wiki/Lamont_Dozier" title="Lamont Dozier">Lamont Dozier</a></li>
+<li>"Elevators" contains a sample of "Blue Suede Shoes" by <a href="/wiki/Carl_Perkins" title="Carl Perkins">Carl Perkins</a></li>
+<li>"Elevators (Me &amp; You) [ONP 86 Mix]" contains a sample of "Come In Out of the Rain" by <a href="/wiki/Parliament_(band)" title="Parliament (band)">Parliament</a>; the original contains SFX from the video game <a href="/wiki/Super_Mario_Bros." title="Super Mario Bros.">Super Mario Bros.</a></li>
+<li>"Ova Da Wudz" contain a sample of "Judas" by <a href="/wiki/Society_of_Soul" title="Society of Soul">Society of Soul</a></li>
+<li>"Babylon" contains a sample of "12 O'Clock" by <a href="/wiki/Vangelis" title="Vangelis">Vangelis</a></li>
+<li>"Wailin" contains a sample of "To The Establishment" by Lou Bond</li>
+<li>"Mainstream" contains a sample of "Sesame Street" by <a href="/wiki/Goodie_Mob" title="Goodie Mob">Goodie Mob</a></li>
+<li>"Decatur Psalm" contains a sample of "Cebu" by <a href="/wiki/The_Commodores" title="The Commodores" class="mw-redirect">The Commodores</a></li>
+</ul>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=12" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Compiled from album liner notes.<sup id="cite_ref-Liner_Notes_55-1" class="reference"><a href="#cite_note-Liner_Notes-55"><span>[</span>55<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Musicians">Musicians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=13" title="Edit section: Musicians">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Andre_3000" title="Andre 3000" class="mw-redirect">Andre 3000</a> – Vocals</li>
+<li><a href="/wiki/Andrea_Martin_(musician)" title="Andrea Martin (musician)">Andrea Martin</a> – Vocals</li>
+<li><a href="/wiki/Big_Boi" title="Big Boi">Big Boi</a> – Vocals</li>
+<li><a href="/wiki/Big_Gipp" title="Big Gipp">Big Gipp</a> – Vocals</li>
+<li>Carlos Glover – Acoustic Guitar</li>
+<li><a href="/wiki/Cee-Lo_Green" title="Cee-Lo Green" class="mw-redirect">Cee-Lo</a> – Vocals</li>
+<li><a href="/wiki/Cool_Breeze_(rapper)" title="Cool Breeze (rapper)">Cool Breeze</a> – Vocals</li>
+<li>Craig Love – Guitar</li>
+<li><a href="/wiki/Debra_Killings" title="Debra Killings">Debra Killings</a> – Vocals</li>
+<li>Dee Simmons – Drum</li>
+<li>Ed Stroud – Guitar</li>
+<li>James "Jay" Nicholas – Bass</li>
+<li><a href="/wiki/Jazzyfatnastees" title="Jazzyfatnastees">Jazzyfatnastees</a> – Vocals</li>
+<li><a href="/wiki/Joi_(singer)" title="Joi (singer)">Joi</a> – Vocals</li>
+<li>Kenny Wright – Keyboard</li>
+<li>Kerren Berz – Violin</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Khujo" title="Khujo">Khujo</a> – Vocals</li>
+<li>Marq Jefferson – Bass Guitar</li>
+<li>Martin Terry – Guitar</li>
+<li>Marvin "Chanz" Parkman – Keyboard, Organ</li>
+<li><a href="/wiki/Mr._DJ" title="Mr. DJ">Mr. DJ</a> – Scratches</li>
+<li>Peaches – Vocals</li>
+<li>Preston Crump – Bass Guitar</li>
+<li>ShaJuanna Edghill – Vocals</li>
+<li>Skinny Miracles – Piano</li>
+<li><a href="/wiki/Sleepy_Brown" title="Sleepy Brown">Sleepy Brown</a> – Vocals</li>
+<li><a href="/wiki/T-Mo" title="T-Mo">T-Mo</a> – Vocals</li>
+<li>Tamara – Vocals</li>
+<li>Tommy Martin – Acoustic Guitar</li>
+<li><a href="/wiki/Trina_Broussard" title="Trina Broussard">Trina Broussard</a> – Vocals</li>
+<li>Whild Peach – Vocals</li>
+<li><a href="/wiki/Witchdoctor_(rapper)" title="Witchdoctor (rapper)">Witchdoctor</a> – Vocals</li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=14" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Alvin Speights – Mixing</li>
+<li>Bernasky Wall – Engineering</li>
+<li>Blake Eiseman – Engineering</li>
+<li>Brian Frye – Engineering</li>
+<li>Carlton Batts – Mastering</li>
+<li>Derrick Williams – Engineering</li>
+<li>Dexter Simmons – Engineering, Mixing</li>
+<li>Jarvis Blackshear – Engineering</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>John Frye – Engineering</li>
+<li>John Wydrycs – Engineering</li>
+<li>Leslie Brathwaite – Mixing</li>
+<li>Mike Wilson – Engineering</li>
+<li><a href="/wiki/Neal_Pogue" title="Neal Pogue">Neal Pogue</a> – Mixing</li>
+<li><a href="/wiki/Organized_Noize" title="Organized Noize">Organized Noize</a> – Drum Programming, Keyboard Programming, Mixing, Production</li>
+<li><a href="/wiki/Outkast" title="Outkast">OutKast</a> – Drum Programming, Keyboard Programming, Mixing, Production</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=15" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Chart (1996)</th>
+<th>Peak<br />
+position</th>
+</tr>
+<tr>
+<td><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a><sup id="cite_ref-56" class="reference"><a href="#cite_note-56"><span>[</span>56<span>]</span></a></sup></td>
+<td align="center">16</td>
+</tr>
+<tr>
+<td><a href="/wiki/Media_Control_Charts" title="Media Control Charts">German Albums Chart</a><sup id="cite_ref-GERAl_57-0" class="reference"><a href="#cite_note-GERAl-57"><span>[</span>57<span>]</span></a></sup></td>
+<td align="center">82</td>
+</tr>
+<tr>
+<td>U.S. <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-bb200_41-1" class="reference"><a href="#cite_note-bb200-41"><span>[</span>41<span>]</span></a></sup></td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td>U.S. <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a><sup id="cite_ref-58" class="reference"><a href="#cite_note-58"><span>[</span>58<span>]</span></a></sup></td>
+<td align="center">1</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Certifications">Certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=16" title="Edit section: Certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable plainrowheaders">
+<tr>
+<th scope="col">Region</th>
+<th scope="col">Certification</th>
+<th scope="col" data-sort-type="number"><a href="/wiki/List_of_music_recording_certifications" title="List of music recording certifications">Sales/shipments</a></th>
+</tr>
+<tr>
+<th scope="row">Canada (<a href="/wiki/Music_Canada" title="Music Canada">Music Canada</a>)<sup id="cite_ref-CanadaOutkastATLiensalbumCertRef_59-0" class="reference"><a href="#cite_note-CanadaOutkastATLiensalbumCertRef-59"><span>[</span>59<span>]</span></a></sup></th>
+<td>Gold</td>
+<td>50,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">United States (<a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a>)<sup id="cite_ref-United_StatesOutkastATLiensalbumCertRef_60-0" class="reference"><a href="#cite_note-United_StatesOutkastATLiensalbumCertRef-60"><span>[</span>60<span>]</span></a></sup></th>
+<td>2× Platinum</td>
+<td>2,000,000<sup>^</sup></td>
+</tr>
+<tr class="sortbottom">
+<td colspan="3">
+<center>
+<p><small><sup>*</sup>sales figures based on certification alone</small><br />
+<small><sup>^</sup>shipments figures based on certification alone</small><br />
+<small><sup>x</sup>unspecified figures based on certification alone</small></p>
+</center>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1996_(U.S.)" title="List of number-one R&amp;B albums of 1996 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1996 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=19" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Nickson3233-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Nickson3233_1-0">^</a></b></span> <span class="reference-text">Nickson (2004), pp. 32–33.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation journal"><i>Black Diaspora</i> (New York) <b>18</b>: 25. 1997.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.date=1997&amp;rft.genre=article&amp;rft.jtitle=Black+Diaspora&amp;rft.pages=25&amp;rft.place=New+York&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Westhoff135-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Westhoff135_3-0">^</a></b></span> <span class="reference-text">Westhoff, 2011. p. 135</span></li>
+<li id="cite_note-sarig139-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-sarig139_4-0">^</a></b></span> <span class="reference-text">Sarig, 2007. p. 139</span></li>
+<li id="cite_note-sarig140-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-sarig140_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sarig140_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-sarig140_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Sarig, 2007. p. 140</span></li>
+<li id="cite_note-Nickson35-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Nickson35_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Nickson35_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Nickson, p. 35</span></li>
+<li id="cite_note-Westhoff133-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Westhoff133_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Westhoff133_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Westhoff, 2011. p. 133</span></li>
+<li id="cite_note-GRD-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-GRD_8-0">^</a></b></span> <span class="reference-text">Strong (2004), p. 1134.</span></li>
+<li id="cite_note-Johnson46061-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Johnson46061_9-0">^</a></b></span> <span class="reference-text">Johnson et al. Hess (2007), pp. 460–461.</span></li>
+<li id="cite_note-Nickson42-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Nickson42_10-0">^</a></b></span> <span class="reference-text">Nickson (2004), p. 42.</span></li>
+<li id="cite_note-Nickson46-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Nickson46_11-0">^</a></b></span> <span class="reference-text">Nickson (2004), p. 46.</span></li>
+<li id="cite_note-Vibrations-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Vibrations_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Vibrations_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Vibrations_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Leger, Dimitry (January 1997). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=xGB0iIRXtJEC&amp;pg=PA23&amp;dq=atliens&amp;hl=en&amp;sa=X&amp;ei=Oh_6T4urKYfq2AWzx4m_Bg&amp;ved=0CD4Q6AEwAjgK#v=onepage&amp;q=atliens&amp;f=false">"Good Vibrations"</a>. <i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i>. <a href="/wiki/Bob_Guccione,_Jr." title="Bob Guccione, Jr.">Bob Guccione, Jr</a><span class="reference-accessdate">. Retrieved July 8, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=Good+Vibrations&amp;rft.aufirst=Dimitry&amp;rft.aulast=Leger&amp;rft.au=Leger%2C+Dimitry&amp;rft.date=January+1997&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DxGB0iIRXtJEC%26pg%3DPA23%26dq%3Datliens%26hl%3Den%26sa%3DX%26ei%3DOh_6T4urKYfq2AWzx4m_Bg%26ved%3D0CD4Q6AEwAjgK%23v%3Donepage%26q%3Datliens%26f%3Dfalse&amp;rft.jtitle=Spin&amp;rft.pub=Bob+Guccione%2C+Jr&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/productinfo.asp?pid=1041848&amp;style=music&amp;fulldesc=T">"Outkast - ATLiens CD Album"</a>. <a href="/wiki/CD_Universe" title="CD Universe">CD Universe</a>. <a href="/wiki/Muze" title="Muze">Muze</a><span class="reference-accessdate">. Retrieved December 19, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.btitle=Outkast+-+ATLiens+CD+Album&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cduniverse.com%2Fproductinfo.asp%3Fpid%3D1041848%26style%3Dmusic%26fulldesc%3DT&amp;rft.pub=CD+Universe.+Muze&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Home-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Home_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Home_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Home_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Jasper, Kenji (October 1996). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=4SsEAAAAMBAJ&amp;pg=PA108&amp;dq=atliens&amp;hl=en&amp;sa=X&amp;ei=pCL6T7qIMrDo2gWV56zrBg&amp;ved=0CGAQ6AEwCTgU#v=onepage&amp;q=atliens&amp;f=false">"Outkast: Home on the Range"</a>. <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i>. Vibe Media Group<span class="reference-accessdate">. Retrieved July 8, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=Outkast%3A+Home+on+the+Range&amp;rft.aufirst=Kenji&amp;rft.au=Jasper%2C+Kenji&amp;rft.aulast=Jasper&amp;rft.date=October+1996&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D4SsEAAAAMBAJ%26pg%3DPA108%26dq%3Datliens%26hl%3Den%26sa%3DX%26ei%3DpCL6T7qIMrDo2gWV56zrBg%26ved%3D0CGAQ6AEwCTgU%23v%3Donepage%26q%3Datliens%26f%3Dfalse&amp;rft.jtitle=Vibe&amp;rft.pub=Vibe+Media+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Wang133-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wang133_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wang133_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Wang, 2003. p. 133</span></li>
+<li id="cite_note-aqueminirev-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-aqueminirev_16-0">^</a></b></span> <span class="reference-text"><span class="citation web">Huey, Steve. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/aquemini-mw0000043056">"Aquemini - OutKast"</a>. <i><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">AllMusic</a></i>. <a href="/wiki/Rovi_Corporation" title="Rovi Corporation">Rovi Corporation</a><span class="reference-accessdate">. Retrieved December 21, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=Aquemini+-+OutKast&amp;rft.aufirst=Steve&amp;rft.au=Huey%2C+Steve&amp;rft.aulast=Huey&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Faquemini-mw0000043056&amp;rft.jtitle=AllMusic&amp;rft.pub=Rovi+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-allmusicrev-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-allmusicrev_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-allmusicrev_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-allmusicrev_17-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-allmusicrev_17-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-allmusicrev_17-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Huey, Steve. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/atliens-mw0000175875">"ATLiens - OutKast"</a>. <i>AllMusic</i>. Rovi Corporation<span class="reference-accessdate">. Retrieved July 10, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=ATLiens+-+OutKast&amp;rft.aufirst=Steve&amp;rft.au=Huey%2C+Steve&amp;rft.aulast=Huey&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fatliens-mw0000175875&amp;rft.jtitle=AllMusic&amp;rft.pub=Rovi+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Comer-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Comer_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Comer_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Comer, Andrea (November 7, 1996). <a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/courant/access/14805314.html?dids=14805314:14805314&amp;FMT=CITE&amp;FMTS=CITE:FT&amp;type=current&amp;date=Nov+07%2C+1996&amp;author=ANREA+COMER&amp;pub=Hartford+Courant&amp;desc=ALBUM+REVIEW++++OUTKAST++++ATLIENS&amp;pqatl=google">"ALBUM REVIEW OUTKAST ATLIENS"</a> (Transcription of original review at <a href="/wiki/Talk:ATLiens#The_Hartford_Courant_review" title="Talk:ATLiens">talk page</a>). <i><a href="/wiki/The_Hartford_Courant" title="The Hartford Courant" class="mw-redirect">The Hartford Courant</a></i>. Richard Graziano<span class="reference-accessdate">. Retrieved December 19, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=ALBUM+REVIEW+OUTKAST+ATLIENS&amp;rft.au=Comer%2C+Andrea&amp;rft.aufirst=Andrea&amp;rft.aulast=Comer&amp;rft.date=November+7%2C+1996&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpqasb.pqarchiver.com%2Fcourant%2Faccess%2F14805314.html%3Fdids%3D14805314%3A14805314%26FMT%3DCITE%26FMTS%3DCITE%3AFT%26type%3Dcurrent%26date%3DNov%2B07%252C%2B1996%26author%3DANREA%2BCOMER%26pub%3DHartford%2BCourant%26desc%3DALBUM%2BREVIEW%2B%2B%2B%2BOUTKAST%2B%2B%2B%2BATLIENS%26pqatl%3Dgoogle&amp;rft.jtitle=The+Hartford+Courant&amp;rft.pub=Richard+Graziano&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Harrington-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Harrington_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Harrington_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Harrington, Richard (October 11, 1996). <a rel="nofollow" class="external text" href="http://www.highbeam.com/doc/1P2-811956.html">"OutKast: `ATLiens' From Hip-Hop Planet"</a> (Transcription of original review at <a href="/wiki/Talk:ATLiens#The_Washington_Post_review" title="Talk:ATLiens">talk page</a>). <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i>. Katharine Weymouth<span class="reference-accessdate">. Retrieved December 19, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=OutKast%3A+%60ATLiens%27+From+Hip-Hop+Planet&amp;rft.aufirst=Richard&amp;rft.au=Harrington%2C+Richard&amp;rft.aulast=Harrington&amp;rft.date=October+11%2C+1996&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.highbeam.com%2Fdoc%2F1P2-811956.html&amp;rft.jtitle=The+Washington+Post&amp;rft.pub=Katharine+Weymouth&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-sarig14041-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-sarig14041_20-0">^</a></b></span> <span class="reference-text">Sarig, 2007. pp.&#160;140–141</span></li>
+<li id="cite_note-sarig142-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-sarig142_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sarig142_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-sarig142_21-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-sarig142_21-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Sarig, 2007. p. 142</span></li>
+<li id="cite_note-Hess461462-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hess461462_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hess461462_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Hess461462_22-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Hess, 2007. pp.&#160;461–462</span></li>
+<li id="cite_note-carries-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-carries_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-carries_23-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-carries_23-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-carries_23-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-carries_23-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Smith, Shawnee (August 31, 1996). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=vwcEAAAAMBAJ&amp;pg=PA7#v=onepage&amp;q&amp;f=false">"<span style="padding-left:0.2em;">'</span>Elevators' Carries LaFace's OutKast to Top"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>: 7, 20<span class="reference-accessdate">. Retrieved December 19, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=%27Elevators%27+Carries+LaFace%27s+OutKast+to+Top&amp;rft.aufirst=Shawnee&amp;rft.aulast=Smith&amp;rft.au=Smith%2C+Shawnee&amp;rft.date=August+31%2C+1996&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DvwcEAAAAMBAJ%26pg%3DPA7%23v%3Donepage%26q%26f%3Dfalse&amp;rft.jtitle=Billboard&amp;rft.pages=7%2C+20&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-sarig14142-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-sarig14142_24-0">^</a></b></span> <span class="reference-text">Sarig, 2007. pp.&#160;141–142</span></li>
+<li id="cite_note-Bradley498-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bradley498_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bradley498_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bradley, 2011. p. 498</span></li>
+<li id="cite_note-sarig141-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-sarig141_26-0">^</a></b></span> <span class="reference-text">Sarig, 2007. p. 141</span></li>
+<li id="cite_note-Hess461-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hess461_27-0">^</a></b></span> <span class="reference-text">Hess, 2007. p. 461</span></li>
+<li id="cite_note-Bould191-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bould191_28-0">^</a></b></span> <span class="reference-text">Bould, 2009. p. 191</span></li>
+<li id="cite_note-Murray-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-Murray_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Murray_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Murray, Sonia (September 5, 1996). <a rel="nofollow" class="external text" href="http://nl.newsbank.com/nl-search/we/Archives?p_product=AT&amp;p_theme=at&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0EADA2ACB5ABF0DF&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM">"OUTKAST: ATLiens"</a> (Transcription of original review at <a href="/wiki/Talk:ATLiens#The_Atlanta_Journal-Constitution_review" title="Talk:ATLiens">talk page</a>). <i><a href="/wiki/The_Atlanta_Journal-Constitution" title="The Atlanta Journal-Constitution">The Atlanta Journal-Constitution</a></i>. <a href="/wiki/Cox_Enterprises" title="Cox Enterprises">Cox Enterprises</a><span class="reference-accessdate">. Retrieved December 22, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=OUTKAST%3A+ATLiens&amp;rft.aufirst=Sonia&amp;rft.aulast=Murray&amp;rft.au=Murray%2C+Sonia&amp;rft.date=September+5%2C+1996&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnl.newsbank.com%2Fnl-search%2Fwe%2FArchives%3Fp_product%3DAT%26p_theme%3Dat%26p_action%3Dsearch%26p_maxdocs%3D200%26p_topdoc%3D1%26p_text_direct-0%3D0EADA2ACB5ABF0DF%26p_field_direct-0%3Ddocument_id%26p_perpage%3D10%26p_sort%3DYMD_date%3AD%26s_trackval%3DGooglePM&amp;rft.jtitle=The+Atlanta+Journal-Constitution&amp;rft.pub=Cox+Enterprises&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BigV-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-BigV_30-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Big V. (2009). "Review: ATLiens". <i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=Review%3A+ATLiens&amp;rft.au=Big+V.&amp;rft.aulast=Big+V.&amp;rft.date=2009&amp;rft.genre=article&amp;rft.jtitle=Blender&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Juon-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-Juon_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Juon_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Juon, Steve 'Flash' (January 28, 2003). <a rel="nofollow" class="external text" href="http://www.rapreviews.com/archive/BTTL_atliens.html">"OutKast&#160;:: ATLiens&#160;:: LaFace/Arista Records"</a>. <i>RapReviews</i><span class="reference-accessdate">. Retrieved October 9, 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=OutKast+%3A%3A+ATLiens+%3A%3A+LaFace%2FArista+Records&amp;rft.aufirst=Steve+%27Flash%27&amp;rft.au=Juon%2C+Steve+%27Flash%27&amp;rft.aulast=Juon&amp;rft.date=January+28%2C+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rapreviews.com%2Farchive%2FBTTL_atliens.html&amp;rft.jtitle=RapReviews&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Powell-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-Powell_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Powell_32-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Powell, Kevin (October 31, 1996). <a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/albumreviews/atliens-19961031">"ATLiens"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. <a href="/wiki/Jann_Wenner" title="Jann Wenner">Jann Wenner</a><span class="reference-accessdate">. Retrieved October 9, 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=ATLiens&amp;rft.aufirst=Kevin&amp;rft.aulast=Powell&amp;rft.au=Powell%2C+Kevin&amp;rft.date=October+31%2C+1996&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Falbumreviews%2Fatliens-19961031&amp;rft.jtitle=Rolling+Stone&amp;rft.pub=Jann+Wenner&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RSguide-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-RSguide_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RSguide_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Sarig, Roni et al. (November 2, 2004). <a href="/wiki/Nathan_Brackett" title="Nathan Brackett">Brackett, Nathan</a>; Hoard, Christian, eds. <a rel="nofollow" class="external text" href="http://books.google.com/books?id=t9eocwUfoSoC&amp;pg=PA610#v=onepage&amp;q&amp;f=false"><i>The New Rolling Stone Album Guide</i></a> (4th ed.). <a href="/wiki/Simon_%26_Schuster" title="Simon &amp; Schuster">Simon &amp; Schuster</a>. pp.&#160;610–611. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7432-0169-8" title="Special:BookSources/0-7432-0169-8">0-7432-0169-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.aufirst=Roni+et+al.&amp;rft.aulast=Sarig&amp;rft.au=Sarig%2C+Roni+et+al.&amp;rft.btitle=The+New+Rolling+Stone+Album+Guide&amp;rft.date=November+2%2C+2004&amp;rft.edition=4th&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dt9eocwUfoSoC%26pg%3DPA610%23v%3Donepage%26q%26f%3Dfalse&amp;rft.isbn=0-7432-0169-8&amp;rft.pages=610-611&amp;rft.pub=Simon+%26+Schuster&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Source-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-Source_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Source_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">"OutKast: ATLiens". <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> (New York): 118. October 1996.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=OutKast%3A+ATLiens&amp;rft.date=October+1996&amp;rft.genre=article&amp;rft.jtitle=The+Source&amp;rft.pages=118&amp;rft.place=New+York&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Strong-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-Strong_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Strong_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Martin_C._Strong" title="Martin C. Strong">Strong, Martin C.</a> (2006). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=CsooY_e1w8kC&amp;pg=PA797#v=onepage&amp;q&amp;f=false"><i>The Essential Rock Discography: Complete Discographies Listing Every Track Recorded by More Than 1,200 Artists</i></a> (8th ed.). Canongate U.S. p.&#160;797. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-84195-860-3" title="Special:BookSources/1-84195-860-3">1-84195-860-3</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.aufirst=Martin+C.&amp;rft.aulast=Strong&amp;rft.au=Strong%2C+Martin+C.&amp;rft.btitle=The+Essential+Rock+Discography%3A+Complete+Discographies+Listing+Every+Track+Recorded+by+More+Than+1%2C200+Artists&amp;rft.date=2006&amp;rft.edition=8th&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DCsooY_e1w8kC%26pg%3DPA797%23v%3Donepage%26q%26f%3Dfalse&amp;rft.isbn=1-84195-860-3&amp;rft.pages=797&amp;rft.pub=Canongate+U.S.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.sputnikmusic.com/soundoff.php?albumid=10407">"Outkast - ATLiens User Opinions"</a>. <a href="/wiki/Sputnikmusic" title="Sputnikmusic">Sputnikmusic</a>. <i>Scroll down to</i> Sobhi Youssef staff rating<span class="reference-accessdate">. Retrieved December 19, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.btitle=Outkast+-+ATLiens+User+Opinions&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sputnikmusic.com%2Fsoundoff.php%3Falbumid%3D10407&amp;rft.pages=%27%27Scroll+down+to%27%27+Sobhi+Youssef+staff+rating&amp;rft.pub=Sputnikmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.sputnikmusic.com/soundoff.php?albumid=10407">"Outkast - ATLiens User Opinions"</a>. <a href="/wiki/Sputnikmusic" title="Sputnikmusic">Sputnikmusic</a>. March 24, 2009. <i>Scroll down to</i> Angel staff rating<span class="reference-accessdate">. Retrieved June 27, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.btitle=Outkast+-+ATLiens+User+Opinions&amp;rft.date=March+24%2C+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sputnikmusic.com%2Fsoundoff.php%3Falbumid%3D10407&amp;rft.pages=%27%27Scroll+down+to%27%27+Angel+staff+rating&amp;rft.pub=Sputnikmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.sputnikmusic.com/soundoff.php?albumid=10407">"Outkast - ATLiens User Opinions"</a>. <a href="/wiki/Sputnikmusic" title="Sputnikmusic">Sputnikmusic</a>. <i>Scroll down to</i> Louis Arp emeritus rating<span class="reference-accessdate">. Retrieved June 27, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.btitle=Outkast+-+ATLiens+User+Opinions&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sputnikmusic.com%2Fsoundoff.php%3Falbumid%3D10407&amp;rft.pages=%27%27Scroll+down+to%27%27+Louis+Arp+emeritus+rating&amp;rft.pub=Sputnikmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://nl.newsbank.com/nl-search/we/Archives?p_product=SJ&amp;s_site=mercurynews&amp;p_multi=SJ&amp;p_theme=realcities&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0EB71FFBDA46427F&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM">"Pearl Jam's 'No Code' to Top Albums Chart"</a>. <i><a href="/wiki/San_Jose_Mercury_News" title="San Jose Mercury News">San Jose Mercury News</a></i>. <a href="/wiki/MediaNews_Group" title="MediaNews Group">MediaNews Group</a>. September 7, 1996<span class="reference-accessdate">. Retrieved March 5, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=Pearl+Jam%27s+%27No+Code%27+to+Top+Albums+Chart&amp;rft.date=September+7%2C+1996&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnl.newsbank.com%2Fnl-search%2Fwe%2FArchives%3Fp_product%3DSJ%26s_site%3Dmercurynews%26p_multi%3DSJ%26p_theme%3Drealcities%26p_action%3Dsearch%26p_maxdocs%3D200%26p_topdoc%3D1%26p_text_direct-0%3D0EB71FFBDA46427F%26p_field_direct-0%3Ddocument_id%26p_perpage%3D10%26p_sort%3DYMD_date%3AD%26s_trackval%3DGooglePM&amp;rft.jtitle=San+Jose+Mercury+News&amp;rft.pub=MediaNews+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://articles.latimes.com/1996-09-15/entertainment/ca-44034_1_keith-sweat">"The Charts – 'ATLiens' Landing"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. <a href="/wiki/Eddy_Hartenstein" title="Eddy Hartenstein">Eddy Hartenstein</a>. September 15, 1996<span class="reference-accessdate">. Retrieved March 5, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=The+Charts+%E2%80%93+%27ATLiens%27+Landing&amp;rft.date=September+15%2C+1996&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F1996-09-15%2Fentertainment%2Fca-44034_1_keith-sweat&amp;rft.jtitle=Los+Angeles+Times&amp;rft.pub=Eddy+Hartenstein&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bb200-41"><span class="mw-cite-backlink">^ <a href="#cite_ref-bb200_41-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bb200_41-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/321442/outkast/chart?f=305">"OutKast Album &amp; Song Chart History – Billboard 200"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a><span class="reference-accessdate">. Retrieved March 5, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=OutKast+Album+%26+Song+Chart+History+%E2%80%93+Billboard+200&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F321442%2Foutkast%2Fchart%3Ff%3D305&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RIAA-42"><span class="mw-cite-backlink">^ <a href="#cite_ref-RIAA_42-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RIAA_42-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-RIAA_42-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-RIAA_42-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?resultpage=resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=&amp;artist=Outkast&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2012&amp;sort=Artist&amp;perPage=25#">"Searchable Database"</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA). <i>If necessary, click</i> Advanced, <i>then click</i> Format, <i>then select</i> Album, <i>then click</i> SEARCH<span class="reference-accessdate">. Retrieved December 20, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.btitle=Searchable+Database&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Fresultpage%3Dresultpage%3D1%26table%3DSEARCH_RESULTS%26action%3D%26title%3D%26artist%3DOutkast%26format%3D%26debutLP%3D%26category%3D%26sex%3D%26releaseDate%3D%26requestNo%3D%26type%3D%26level%3D%26label%3D%26company%3D%26certificationDate%3D%26awardDescription%3D%26catalogNo%3D%26aSex%3D%26rec_id%3D%26charField%3D%26gold%3D%26platinum%3D%26multiPlat%3D%26level2%3D%26certDate%3D%26album%3D%26id%3D%26after%3D%26before%3D%26startMonth%3D1%26endMonth%3D1%26startYear%3D1958%26endYear%3D2012%26sort%3DArtist%26perPage%3D25%23&amp;rft.pages=%27%27If+necessary%2C+click%27%27+Advanced%2C+%27%27then+click%27%27+Format%2C+%27%27then+select%27%27+Album%2C+%27%27then+click%27%27+SEARCH&amp;rft.pub=Recording+Industry+Association+of+America+%28RIAA%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-hot100-43"><span class="mw-cite-backlink">^ <a href="#cite_ref-hot100_43-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hot100_43-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/321442/outkast/chart?f=379">"OutKast Album &amp; Song Chart History – Hot 100"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved March 5, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=OutKast+Album+%26+Song+Chart+History+%E2%80%93+Hot+100&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F321442%2Foutkast%2Fchart%3Ff%3D379&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><span class="citation web">Baker, Soren (September 27, 1998). <a rel="nofollow" class="external text" href="http://articles.latimes.com/1998/sep/27/entertainment/ca-26891">"Record Rack – Four-Star Performers"</a>. <i>Los Angeles Times</i>. Eddy Hartenstein<span class="reference-accessdate">. Retrieved March 5, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=Record+Rack+%E2%80%93+Four-Star+Performers&amp;rft.au=Baker%2C+Soren&amp;rft.aufirst=Soren&amp;rft.aulast=Baker&amp;rft.date=September+27%2C+1998&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F1998%2Fsep%2F27%2Fentertainment%2Fca-26891&amp;rft.jtitle=Los+Angeles+Times&amp;rft.pub=Eddy+Hartenstein&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-boiii-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-boiii_45-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://books.google.si/books?id=uw8EAAAAMBAJ&amp;pg=PA56&amp;dq=With+Stankonia+OutKast+mainstream&amp;hl=sl&amp;sa=X&amp;ei=C_nVUPevM-PV4gSw-4HwAQ&amp;redir_esc=y#v=onepage&amp;q=With%20Stankonia%20OutKast%20mainstream&amp;f=false">"OutKast"</a>. <i>Billboard</i>. Prometheus Global Media. February 2004. p.&#160;56<span class="reference-accessdate">. Retrieved December 22, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=OutKast&amp;rft.date=February+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.si%2Fbooks%3Fid%3Duw8EAAAAMBAJ%26pg%3DPA56%26dq%3DWith%2BStankonia%2BOutKast%2Bmainstream%26hl%3Dsl%26sa%3DX%26ei%3DC_nVUPevM-PV4gSw-4HwAQ%26redir_esc%3Dy%23v%3Donepage%26q%3DWith%2520Stankonia%2520OutKast%2520mainstream%26f%3Dfalse&amp;rft.jtitle=Billboard&amp;rft.pages=56&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><span class="citation journal">"100 Best Rap Albums". <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> (100). January 1998.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=100+Best+Rap+Albums&amp;rft.date=January+1998&amp;rft.genre=article&amp;rft.issue=100&amp;rft.jtitle=The+Source&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20030930103224/http://exclaim.ca/index.asp?layid=22&amp;csid1=386">"100 Records That Rocked 100 Issues of Exclaim!"</a>. <i><a href="/wiki/Exclaim!" title="Exclaim!">Exclaim!</a></i>. Ian Danzing. October 30, 2000. Archived from <a rel="nofollow" class="external text" href="http://exclaim.ca/index.asp?layid=22&amp;csid1=386">the original</a> on September 30, 2003<span class="reference-accessdate">. Retrieved December 21, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=100+Records+That+Rocked+100+Issues+of+Exclaim%21&amp;rft.date=October+30%2C+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fexclaim.ca%2Findex.asp%3Flayid%3D22%26csid1%3D386&amp;rft.jtitle=Exclaim%21&amp;rft.pub=Ian+Danzing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><span class="citation journal">"The 100 Greatest Rap Albums 1995–2005". <i><a href="/wiki/Hip_Hop_Connection" title="Hip Hop Connection">Hip Hop Connection</a></i> (London). 2005.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=The+100+Greatest+Rap+Albums+1995%E2%80%932005&amp;rft.date=2005&amp;rft.genre=article&amp;rft.jtitle=Hip+Hop+Connection&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><span class="citation web">Ettelson, Robbie (January 9, 2013). <a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/01/the-50-greatest-sophomore-albums-in-hip-hop-history/outkast-atliens">"5. OutKast, <i>ATLiens</i> (1996)"</a>. <i><a href="/wiki/Complex_(magazine)" title="Complex (magazine)">Complex</a></i>. Complex Media<span class="reference-accessdate">. Retrieved January 10, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=5.+OutKast%2C+%27%27ATLiens%27%27+%281996%29&amp;rft.au=Ettelson%2C+Robbie&amp;rft.aufirst=Robbie&amp;rft.aulast=Ettelson&amp;rft.date=January+9%2C+2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F01%2Fthe-50-greatest-sophomore-albums-in-hip-hop-history%2Foutkast-atliens&amp;rft.jtitle=Complex&amp;rft.pub=Complex+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><span class="citation web">Gale, Alex (November 21, 2012). <a rel="nofollow" class="external text" href="http://www.complex.com/music/2012/11/the-50-best-rap-album-titles/atliens">"15. OutKast, <i>ATLiens</i> (1996)"</a>. <i>Complex</i>. Complex Media<span class="reference-accessdate">. Retrieved December 21, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=15.+OutKast%2C+%27%27ATLiens%27%27+%281996%29&amp;rft.aufirst=Alex&amp;rft.au=Gale%2C+Alex&amp;rft.aulast=Gale&amp;rft.date=November+21%2C+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2012%2F11%2Fthe-50-best-rap-album-titles%2Fatliens&amp;rft.jtitle=Complex&amp;rft.pub=Complex+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><span class="citation web">Ettelson, Robbie; Drake, David; Ahmed, Insanul (November 9, 2012). <a rel="nofollow" class="external text" href="http://www.complex.com/music/2012/11/the-100-greatest-hip-hop-beats-of-all-time/outkast-atliens">"91. OutKast, 'ATLiens' (1996)"</a>. <i>Complex</i>. Complex Media<span class="reference-accessdate">. Retrieved January 10, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=91.+OutKast%2C+%27ATLiens%27+%281996%29&amp;rft.au=Ahmed%2C+Insanul&amp;rft.au=Drake%2C+David&amp;rft.au=Ettelson%2C+Robbie&amp;rft.aufirst=Robbie&amp;rft.aulast=Ettelson&amp;rft.date=November+9%2C+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2012%2F11%2Fthe-100-greatest-hip-hop-beats-of-all-time%2Foutkast-atliens&amp;rft.jtitle=Complex&amp;rft.pub=Complex+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><span class="citation web">Ahmed, Insanul (March 29, 2011). <a rel="nofollow" class="external text" href="http://www.complex.com/music/2011/03/wiz-khalifa-25-favorite-albums/atliens">"#25. Outkast, <i>ATLiens</i> (1996)"</a>. <i>Complex</i>. Complex Media<span class="reference-accessdate">. Retrieved December 20, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=%2325.+Outkast%2C+%27%27ATLiens%27%27+%281996%29&amp;rft.au=Ahmed%2C+Insanul&amp;rft.aufirst=Insanul&amp;rft.aulast=Ahmed&amp;rft.date=March+29%2C+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2011%2F03%2Fwiz-khalifa-25-favorite-albums%2Fatliens&amp;rft.jtitle=Complex&amp;rft.pub=Complex+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><span class="citation web">Diep, Eric (November 20, 2012). <a rel="nofollow" class="external text" href="http://www.complex.com/music/2012/11/dom-kennedys-25-favorite-albums/outkast-atliens">"OutKast, <i>ATLiens</i> (1996)"</a>. <i>Complex</i>. Complex Media<span class="reference-accessdate">. Retrieved December 20, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=OutKast%2C+%27%27ATLiens%27%27+%281996%29&amp;rft.au=Diep%2C+Eric&amp;rft.aufirst=Eric&amp;rft.aulast=Diep&amp;rft.date=November+20%2C+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2012%2F11%2Fdom-kennedys-25-favorite-albums%2Foutkast-atliens&amp;rft.jtitle=Complex&amp;rft.pub=Complex+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><span class="citation web">Block, Justin (November 24, 2012). <a rel="nofollow" class="external text" href="http://www.complex.com/music/2012/11/jesse-marcos-30-favorite-albums/outkast-atliens">"OutKast, <i>ATLiens</i> (1996)"</a>. <i>Complex</i>. Complex Media<span class="reference-accessdate">. Retrieved December 20, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=OutKast%2C+%27%27ATLiens%27%27+%281996%29&amp;rft.au=Block%2C+Justin&amp;rft.aufirst=Justin&amp;rft.aulast=Block&amp;rft.date=November+24%2C+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2012%2F11%2Fjesse-marcos-30-favorite-albums%2Foutkast-atliens&amp;rft.jtitle=Complex&amp;rft.pub=Complex+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Liner_Notes-55"><span class="mw-cite-backlink">^ <a href="#cite_ref-Liner_Notes_55-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Liner_Notes_55-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation AV media notes"><i>ATLiens</i> (CD liner). OutKast. <a href="/wiki/LaFace_Records" title="LaFace Records">LaFace Records</a>. 1996. 0015133-02.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.btitle=ATLiens&amp;rft.date=1996&amp;rft.genre=book&amp;rft.pub=LaFace+Records&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=sp19smnjn4io5g2nmhli5tdfo5&amp;q1=outkast&amp;q2=Top+Albums%2FCDs&amp;interval=20">"Results – RPM – Library and Archives – Top Albums/CDs – Outkast"</a>. <i><a href="/wiki/RPM_(magazine)" title="RPM (magazine)">RPM</a></i><span class="reference-accessdate">. Retrieved December 21, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=Results+%E2%80%93+RPM+%E2%80%93+Library+and+Archives+%E2%80%93+Top+Albums%2FCDs+%E2%80%93+Outkast&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.collectionscanada.gc.ca%2Frpm%2F028020-110.01-e.php%3FPHPSESSID%3Dsp19smnjn4io5g2nmhli5tdfo5%26q1%3Doutkast%26q2%3DTop%2BAlbums%252FCDs%26interval%3D20&amp;rft.jtitle=RPM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-GERAl-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-GERAl_57-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://musicline.de/de/chartverfolgung_summary/artist/Outkast/19840/?type=longplay">"Chartverfolgung / Outkast / Longplay"</a>. musicline.de (in German). <a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control Charts</a><span class="reference-accessdate">. Retrieved July 17, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=Chartverfolgung+%2F+Outkast+%2F+Longplay&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fmusicline.de%2Fde%2Fchartverfolgung_summary%2Fartist%2FOutkast%2F19840%2F%3Ftype%3Dlongplay&amp;rft.jtitle=%27%27musicline.de%27%27&amp;rft.pub=Media+Control+Charts&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/321442/outkast/chart?f=333">"Albums OutKast Album &amp; Song Chart History – R&amp;B/Hip-Hop Albums"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved March 5, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.atitle=Albums+OutKast+Album+%26+Song+Chart+History+%E2%80%93+R%26B%2FHip-Hop+Albums&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F321442%2Foutkast%2Fchart%3Ff%3D333&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CanadaOutkastATLiensalbumCertRef-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-CanadaOutkastATLiensalbumCertRef_59-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.musiccanada.com/GPSearchResult.aspx?st=ATLiens&amp;sa=Outkast&amp;smt=0">"Canadian album certifications – Outkast – ATLiens"</a>. <a href="/wiki/Music_Canada" title="Music Canada">Music Canada</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.btitle=Canadian+album+certifications+%E2%80%93+Outkast+%E2%80%93+ATLiens&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.musiccanada.com%2FGPSearchResult.aspx%3Fst%3DATLiens%26sa%3DOutkast%26smt%3D0&amp;rft.pub=Music+Canada&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-United_StatesOutkastATLiensalbumCertRef-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-United_StatesOutkastATLiensalbumCertRef_60-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?artist=%22ATLiens%22">"American album certifications – Outkast – ATLiens"</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.btitle=American+album+certifications+%E2%80%93+Outkast+%E2%80%93+ATLiens&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Fartist%3D%2522ATLiens%2522&amp;rft.pub=Recording+Industry+Association+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <i>If necessary, click</i> Advanced<i>, then click</i> Format<i>, then select</i> Album<i>, then click</i> SEARCH</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=20" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><span class="citation book">Bould, Mark, ed. (March 18, 2009). <i>The Routledge Companion to Science Fiction</i>. Routledge. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-415-45379-8" title="Special:BookSources/0-415-45379-8">0-415-45379-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.btitle=The+Routledge+Companion+to+Science+Fiction&amp;rft.date=March+18%2C+2009&amp;rft.genre=book&amp;rft.isbn=0-415-45379-8&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Hess, Mickey, ed. (2007). <i>Icons of Hip Hop: An Encyclopedia of the Movement, Music, and Culture</i>. <a href="/wiki/ABC-CLIO" title="ABC-CLIO">ABC-CLIO</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-313-33903-1" title="Special:BookSources/0-313-33903-1">0-313-33903-1</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.btitle=Icons+of+Hip+Hop%3A+An+Encyclopedia+of+the+Movement%2C+Music%2C+and+Culture&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=0-313-33903-1&amp;rft.pub=ABC-CLIO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book"><a href="/wiki/Chris_Nickson" title="Chris Nickson">Nickson, Chris</a> (September 1, 2004). <i>Hey Ya!: The Unauthorized Biography Of Outkast</i>. Macmillan. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-312-33735-3" title="Special:BookSources/0-312-33735-3">0-312-33735-3</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.aufirst=Chris&amp;rft.aulast=Nickson&amp;rft.au=Nickson%2C+Chris&amp;rft.btitle=Hey+Ya%21%3A+The+Unauthorized+Biography+Of+Outkast&amp;rft.date=September+1%2C+2004&amp;rft.genre=book&amp;rft.isbn=0-312-33735-3&amp;rft.pub=Macmillan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Sarig, Roni, ed. (May 1, 2007). <i>Third Coast: OutKast, Timbaland, and How Hip-Hop Became a Southern Thing</i>. Da Capo Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-306-81430-7" title="Special:BookSources/0-306-81430-7">0-306-81430-7</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.btitle=Third+Coast%3A+OutKast%2C+Timbaland%2C+and+How+Hip-Hop+Became+a+Southern+Thing&amp;rft.date=May+1%2C+2007&amp;rft.genre=book&amp;rft.isbn=0-306-81430-7&amp;rft.pub=Da+Capo+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Strong, Martin Charles (October 21, 2004). <i>The Great Rock Discography</i> (7th ed.). Canongate U.S. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-84195-615-5" title="Special:BookSources/1-84195-615-5">1-84195-615-5</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.aufirst=Martin+Charles&amp;rft.aulast=Strong&amp;rft.au=Strong%2C+Martin+Charles&amp;rft.btitle=The+Great+Rock+Discography&amp;rft.date=October+21%2C+2004&amp;rft.edition=7th&amp;rft.genre=book&amp;rft.isbn=1-84195-615-5&amp;rft.pub=Canongate+U.S.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Wang, Oliver, ed. (May 1, 2003). <i>Classic Material: The Hip-Hop Album Guide</i>. <a href="/wiki/ECW_Press" title="ECW Press">ECW Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-55022-561-8" title="Special:BookSources/1-55022-561-8">1-55022-561-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.btitle=Classic+Material%3A+The+Hip-Hop+Album+Guide&amp;rft.date=May+1%2C+2003&amp;rft.genre=book&amp;rft.isbn=1-55022-561-8&amp;rft.pub=ECW+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Westhoff, Ben (May 1, 2011). <i>Dirty South: OutKast, Lil Wayne, Soulja Boy, and the Southern Rappers Who Reinvented Hip-Hop</i>. <a href="/wiki/Chicago_Review_Press" title="Chicago Review Press">Chicago Review Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56976-606-1" title="Special:BookSources/1-56976-606-1">1-56976-606-1</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AATLiens&amp;rft.aufirst=Ben&amp;rft.aulast=Westhoff&amp;rft.au=Westhoff%2C+Ben&amp;rft.btitle=Dirty+South%3A+OutKast%2C+Lil+Wayne%2C+Soulja+Boy%2C+and+the+Southern+Rappers+Who+Reinvented+Hip-Hop&amp;rft.date=May+1%2C+2011&amp;rft.genre=book&amp;rft.isbn=1-56976-606-1&amp;rft.pub=Chicago+Review+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ATLiens&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/master/25965">ATLiens</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a> (list of releases)</li>
+<li><a rel="nofollow" class="external text" href="http://articles.latimes.com/1996-12-22/entertainment/ca-11489_1_pure-hip-hop">"The Inside Story on Hip-Hop's Outsiders"</a> by the <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Outkast" title="Template:Outkast"><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Outkast" title="Template talk:Outkast"><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Outkast&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><a href="/wiki/Outkast" title="Outkast">OutKast</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><a href="/wiki/Andr%C3%A9_3000" title="André 3000">André 3000</a></b></li>
+<li><b><a href="/wiki/Big_Boi" title="Big Boi">Big Boi</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Southernplayalisticadillacmuzik" title="Southernplayalisticadillacmuzik">Southernplayalisticadillacmuzik</a></i> (1994)</li>
+<li><i><strong class="selflink">ATLiens</strong></i> (1996)</li>
+<li><i><a href="/wiki/Aquemini" title="Aquemini">Aquemini</a></i> (1998)</li>
+<li><i><a href="/wiki/Stankonia" title="Stankonia">Stankonia</a></i> (2000)</li>
+<li><i><a href="/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below">Speakerboxxx/The Love Below</a></i> (2003)</li>
+<li><i><a href="/wiki/Idlewild_(Outkast_album)" title="Idlewild (Outkast album)">Idlewild</a></i> (2006)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Big_Boi_and_Dre_Present..._OutKast" title="Big Boi and Dre Present... OutKast" class="mw-redirect">Big Boi and Dre Present... OutKast</a></i> (2001)</li>
+<li><i><a href="/wiki/Sir_Lucious_Left_Foot:_The_Son_of_Chico_Dusty" title="Sir Lucious Left Foot: The Son of Chico Dusty">Sir Lucious Left Foot: The Son of Chico Dusty</a></i> (2010)</li>
+<li><i><a href="/wiki/Vicious_Lies_and_Dangerous_Rumors" title="Vicious Lies and Dangerous Rumors">Vicious Lies and Dangerous Rumors</a></i> (2012)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Player%27s_Ball" title="Player's Ball">Player's Ball</a>"</li>
+<li>"<a href="/wiki/Southernplayalisticadillacmuzik_(song)" title="Southernplayalisticadillacmuzik (song)">Southernplayalisticadillacmuzik</a>"</li>
+<li>"<a href="/wiki/Git_Up,_Git_Out" title="Git Up, Git Out">Git Up, Git Out</a>"</li>
+<li>"<a href="/wiki/Elevators_(Me_%26_You)" title="Elevators (Me &amp; You)">Elevators (Me &amp; You)</a>"</li>
+<li>"<a href="/wiki/ATLiens_(song)" title="ATLiens (song)">ATLiens</a>"</li>
+<li>"<a href="/wiki/Jazzy_Belle" title="Jazzy Belle">Jazzy Belle</a>"</li>
+<li>"<a href="/wiki/Rosa_Parks_(song)" title="Rosa Parks (song)">Rosa Parks</a>"</li>
+<li>"<a href="/wiki/Skew_It_on_the_Bar-B" title="Skew It on the Bar-B">Skew It on the Bar-B</a>"</li>
+<li>"<a href="/wiki/Da_Art_of_Storytellin%27_(Pt._1)" title="Da Art of Storytellin' (Pt. 1)">Da Art of Storytellin' (Pt. 1)</a>"</li>
+<li>"<a href="/wiki/B.O.B_(song)" title="B.O.B (song)">B.O.B</a>"</li>
+<li>"<a href="/wiki/Ms._Jackson" title="Ms. Jackson">Ms. Jackson</a>"</li>
+<li>"<a href="/wiki/So_Fresh,_So_Clean" title="So Fresh, So Clean">So Fresh, So Clean</a>"</li>
+<li>"<a href="/wiki/The_Whole_World" title="The Whole World">The Whole World</a>"</li>
+<li>"<a href="/wiki/Land_of_a_Million_Drums" title="Land of a Million Drums">Land of a Million Drums</a>"</li>
+<li>"<a href="/wiki/Hey_Ya!" title="Hey Ya!">Hey Ya!</a>"</li>
+<li>"<a href="/wiki/The_Way_You_Move" title="The Way You Move">The Way You Move</a>"</li>
+<li>"<a href="/wiki/Roses_(Outkast_song)" title="Roses (Outkast song)">Roses</a>"</li>
+<li>"<a href="/wiki/Ghetto_Musick_/_Prototype" title="Ghetto Musick / Prototype">Ghetto Musick / Prototype</a>"</li>
+<li>"<a href="/wiki/Mighty_O" title="Mighty O">Mighty O</a>"</li>
+<li>"<a href="/wiki/Morris_Brown_(song)" title="Morris Brown (song)">Morris Brown</a>"</li>
+<li>"<a href="/wiki/Idlewild_Blue_(Don%27tchu_Worry_%27Bout_Me)" title="Idlewild Blue (Don'tchu Worry 'Bout Me)">Idlewild Blue (Don'tchu Worry 'Bout Me)</a>"</li>
+<li>"<a href="/wiki/Hollywood_Divorce" title="Hollywood Divorce">Hollywood Divorce</a>"</li>
+<li>"<a href="/wiki/The_Train_(song)" title="The Train (song)">The Train</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Gone_Be_Fine" title="Gone Be Fine">Gone Be Fine</a>"</li>
+<li>"<a href="/wiki/International_Players_Anthem_(I_Choose_You)" title="International Players Anthem (I Choose You)">International Players Anthem (I Choose You)</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Outkast_discography" title="Outkast discography">Discography</a></li>
+<li><a href="/wiki/Organized_Noize" title="Organized Noize">Organized Noize</a></li>
+<li><a href="/wiki/Dungeon_Family" title="Dungeon Family">Dungeon Family</a></li>
+<li><a href="/wiki/Mr._DJ" title="Mr. DJ">Mr. DJ</a></li>
+<li><a href="/wiki/The_Skinny_(album)" title="The Skinny (album)" class="mw-redirect">The Skinny</a></li>
+<li><a href="/wiki/Idlewild_(film)" title="Idlewild (film)">Idlewild</a></li>
+<li><a href="/wiki/Bryan_Barber" title="Bryan Barber">Bryan Barber</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div style="display:none; right:10px;" class="metadata topicon nopopups" id="good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/15px-Symbol_support_vote.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/23px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/30px-Symbol_support_vote.svg.png 2x" data-file-width="180" data-file-height="185" /></a></div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1004
+CPU time usage: 3.928 seconds
+Real time usage: 4.085 seconds
+Preprocessor visited node count: 10755/1000000
+Preprocessor generated node count: 71437/1500000
+Post‐expand include size: 151378/2048000 bytes
+Template argument size: 15867/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 4/500
+Lua time usage: 0.285/10.000 seconds
+Lua memory usage: 3.28 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1715433-0!*!0!!en!4!* and timestamp 20140531053241 and revision id 610733559
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=ATLiens&amp;oldid=610733559">http://en.wikipedia.org/w/index.php?title=ATLiens&amp;oldid=610733559</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Outkast_albums" title="Category:Outkast albums">Outkast albums</a></li><li><a href="/wiki/Category:1996_albums" title="Category:1996 albums">1996 albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Organized_Noize" title="Category:Albums produced by Organized Noize">Albums produced by Organized Noize</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Canada" title="Category:Certification Table Entry usages for Canada">Certification Table Entry usages for Canada</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_United_States" title="Category:Certification Table Entry usages for United States">Certification Table Entry usages for United States</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=ATLiens&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=ATLiens" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/ATLiens"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:ATLiens"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/ATLiens" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=ATLiens&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=ATLiens&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/ATLiens" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/ATLiens" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=ATLiens&amp;oldid=610733559" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=ATLiens&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q299003" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=ATLiens&amp;id=610733559" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=ATLiens">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=ATLiens&amp;oldid=610733559&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=ATLiens&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/ATLiens" title="ATLiens – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/ATLiens" title="ATLiens – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/ATLiens" title="ATLiens – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/ATLiens" title="ATLiens – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/ATLiens" title="ATLiens – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/ATLiens" title="ATLiens – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/ATLiens" title="ATLiens – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/ATLiens" title="ATLiens – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q299003#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 May 2014 at 02:51.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/ATLiens" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"mw.PopUpMediaTransform":"loading","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mw.PopUpMediaTransform&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":172,"wgHostname":"mw1050"});
+}</script>
+	</body>
+</html>
+	

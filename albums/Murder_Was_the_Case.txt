@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Murder Was the Case - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Murder_Was_the_Case" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Murder_Was_the_Case&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Murder_Was_the_Case&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Murder_Was_the_Case" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Murder_Was_the_Case","wgTitle":"Murder Was the Case","wgCurRevisionId":609989946,"wgRevisionId":609989946,"wgArticleId":555776,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Articles needing cleanup from October 2008","All articles needing cleanup","Cleanup tagged articles without a reason field from October 2008","Wikipedia pages needing cleanup from October 2008","Snoop Dogg albums","Albums produced by Daz Dillinger","Albums produced by Dr. Dre","Albums produced by DJ Quik","Albums produced by Soopafly","Film soundtracks","Hip hop soundtracks","1994 soundtracks","Death Row Records soundtracks","Gangsta rap soundtracks","Horrorcore albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Murder_Was_the_Case","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3179389"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Murder_Was_the_Case skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Murder Was the Case</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For the Gucci Mane album, see <a href="/wiki/Murder_Was_the_Case_(Gucci_Mane_album)" title="Murder Was the Case (Gucci Mane album)">Murder Was the Case (Gucci Mane album)</a>.</div>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: gainsboro;">Murder Was the Case</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Snoop_Dogg_-_Murder_Was_the_Case.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/19/Snoop_Dogg_-_Murder_Was_the_Case.jpg/220px-Snoop_Dogg_-_Murder_Was_the_Case.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/19/Snoop_Dogg_-_Murder_Was_the_Case.jpg/330px-Snoop_Dogg_-_Murder_Was_the_Case.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/1/19/Snoop_Dogg_-_Murder_Was_the_Case.jpg 2x" data-file-width="400" data-file-height="400" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: gainsboro;"><a href="/wiki/Soundtrack_album" title="Soundtrack album">Soundtrack album</a> by <span class="contributor">Various artists</span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">October 15, 1994</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1993-1994</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast hip hop</a>, <a href="/wiki/G-Funk" title="G-Funk" class="mw-redirect">G-Funk</a>, <a href="/wiki/Hip_hop_music" title="Hip hop music">rap</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>68:30</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Death_Row_Records" title="Death Row Records">Death Row</a>/<a href="/wiki/Interscope_Records" title="Interscope Records">Interscope</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td>Dr. Dre<br />
+Dat Nigga Daz<br />
+Sam Sneed<br />
+Soopafly<br />
+DJ Quik<br />
+Devante Swing</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Allmusic_1-0" class="reference"><a href="#cite_note-Allmusic-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>Murder Was the Case</b></i> is a 1994 short film and <a href="/wiki/Soundtrack" title="Soundtrack">soundtrack</a> album starring <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Doggy Dogg</a>. The 18 minute film was directed by <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> and <a href="/wiki/Fab_Five_Freddy" title="Fab Five Freddy">Fab Five Freddy</a> and chronicles the fictional death of Snoop Dogg and his resurrection after making a <a href="/wiki/Deal_with_the_Devil" title="Deal with the Devil">deal with the Devil</a>. The film's title comes from Snoop's song of the same name from his debut album, <i><a href="/wiki/Doggystyle" title="Doggystyle">Doggystyle</a></i>, which was released a year earlier. The album topped the <a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a> on the number one spot on November 5, 1994 with 329,000 one week sales as well as on the Top R&amp;B/Hip-Hop albums chart.</p>
+<p>The following week it stayed on top with 197,000 copies sold and was certified Gold. The album is certified 2x platinum with 2,030,000 copies sold. The single "What Would You Do" was included on the <a href="/wiki/Natural_Born_Killers_(soundtrack)" title="Natural Born Killers (soundtrack)"><i>Natural Born Killers</i> soundtrack</a> and was nominated for the <a href="/wiki/Grammy_Award_for_Best_Rap_Performance_by_a_Duo_or_Group" title="Grammy Award for Best Rap Performance by a Duo or Group">Grammy Award for Best Rap Performance by a Duo or Group</a> in the <a href="/wiki/Grammy_Awards_of_1996" title="Grammy Awards of 1996" class="mw-redirect">38th Annual Grammy Awards in 1996</a>. The album was re-released with a bonus DVD containing 3 music videos on July 11, 2006.</p>
+<p><a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a> was paid $200,000 by Death Row Records owner <a href="/wiki/Suge_Knight" title="Suge Knight">Suge Knight</a> to record a track for the album. The track was recorded but it was not used on the official soundtrack release. The rumored recording is debated between the song "Pain" which was later used for the Above The Rim soundtrack, "High Til I Die Interscope Version", which was later re-recorded for the Sunset Park album while 2Pac was on Death Row Records, and the Unreleased Version Of R U Still Down. R U Still Down is similar to the version that was released on the 1997 2Pac album "R U Still Down". However, the song has a different beat, unreleased first verse, female chorus, and has re-recorded second and third verses that are similar to verses 1-2 on the R U Still Down album version.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Reception"><span class="tocnumber">1</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Track_listing"><span class="tocnumber">2</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Samples"><span class="tocnumber">3</span> <span class="toctext">Samples</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Singles"><span class="tocnumber">4</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Chart_positions"><span class="tocnumber">5</span> <span class="toctext">Chart positions</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Credits"><span class="tocnumber">6</span> <span class="toctext">Credits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Cover_versions"><span class="tocnumber">7</span> <span class="toctext">Cover versions</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also_2"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Murder_Was_the_Case&amp;action=edit&amp;section=1" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> (12/29/94-1/12/95, p.&#160;178) - "...[It] isn't the trailblazer that Dre's The Chronic was last year. But it is rap very nearly as strong. Featuring West Coast stalwarts...and new discoveries..., Dre and Dat Nigga Daz present gangsta- and R&amp;B-infected fare that slams..."</li>
+<li><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> (11/11/94, p.&#160;76) - "...confirms...Dr. Dre as the new king of pop. In addition to the ominous remix of Snoop's title song, Dre reunites with Ice Cube...Dre's G-funk sound may be the hardest in the land, but it's also the most gut-wrenchingly soulful..." - Rating: A</li>
+<li><a href="/wiki/Q_magazine" title="Q magazine"><i>Q</i> magazine</a> (1/95, p.&#160;258) - 3 Stars - Good - "...While most ears will be tuned to the bile'n'beats of `Natural Born Killaz'...the best track here is from Snoop's young protege, Nate Dogg....One of West Coast rap's more imaginative albums."</li>
+<li><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> (1/95, p.&#160;85) - 4 Stars - Slammin' - "...while Jodeci duets with Tha Dogg Pound and an all-star cast to try their hand at the G-Funk sound, Dre begins plotting his next move...heavy-metal bass meets chunky keyboards..."</li>
+<li><i><a href="/wiki/NME" title="NME">NME</a></i> (12/24/94, p.&#160;23) - Ranked #8 in NME's list of the 10 best compilation albums of 1994.</li>
+<li><i><a href="/wiki/NME" title="NME">NME</a></i> (10/15/94, p.&#160;53) - 7 - Very Good - "...anyone expecting this to signal Dre's decline is kidding themselves. Murder Was the Case shows the old dogg has plenty of new tricks..." <sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Murder_Was_the_Case&amp;action=edit&amp;section=2" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>#</th>
+<th>Title</th>
+<th>Performer(s)</th>
+<th>Producer(s)</th>
+</tr>
+<tr>
+<td>1</td>
+<td>"Murder Was the Case" (Remix)</td>
+<td><a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a></td>
+<td><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>"<a href="/wiki/Natural_Born_Killaz" title="Natural Born Killaz">Natural Born Killaz</a>"</td>
+<td><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a></td>
+<td><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>; <a href="/wiki/Sam_Sneed" title="Sam Sneed">Sam Sneed</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>"<a href="/wiki/What_Would_You_Do_(Tha_Dogg_Pound_song)" title="What Would You Do (Tha Dogg Pound song)">What Would U Do</a>"</td>
+<td><a href="/wiki/Tha_Dogg_Pound" title="Tha Dogg Pound">Tha Dogg Pound</a> (featuring <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>)</td>
+<td><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>; <a href="/wiki/Dat_Nigga_Daz" title="Dat Nigga Daz" class="mw-redirect">Dat Nigga Daz</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td>"21 Jumpstreet"</td>
+<td><a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a> (featuring <a href="/wiki/Tray_Deee" title="Tray Deee">Tray Deee</a>)</td>
+<td><a href="/wiki/Dat_Nigga_Daz" title="Dat Nigga Daz" class="mw-redirect">Dat Nigga Daz</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>"One More Day"</td>
+<td><a href="/wiki/Nate_Dogg" title="Nate Dogg">Nate Dogg</a> featuring <a href="/w/index.php?title=Nanci_Fletcher&amp;action=edit&amp;redlink=1" class="new" title="Nanci Fletcher (page does not exist)">Nanci Fletcher</a></td>
+<td><a href="/wiki/Dat_Nigga_Daz" title="Dat Nigga Daz" class="mw-redirect">Dat Nigga Daz</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td>"Harvest for the World"</td>
+<td><a href="/wiki/Jewell_(singer)" title="Jewell (singer)">Jewell</a></td>
+<td><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td>"Who Got Some Gangsta Shit?"</td>
+<td><a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a> (featuring <a href="/wiki/Tha_Dogg_Pound" title="Tha Dogg Pound">Tha Dogg Pound</a>; <a href="/wiki/Lil%27_C-Style" title="Lil' C-Style" class="mw-redirect">Lil' C-Style</a> &amp; Swoop G)</td>
+<td><a href="/wiki/Soopafly" title="Soopafly">Soopafly</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td>"Come When I Call"</td>
+<td><a href="/wiki/Danny_Boy_(artist)" title="Danny Boy (artist)" class="mw-redirect">Danny Boy</a></td>
+<td><a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td>"<a href="/wiki/U_Better_Recognize" title="U Better Recognize">U Better Recognize</a>"</td>
+<td><a href="/wiki/Sam_Sneed" title="Sam Sneed">Sam Sneed</a> (featuring <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>)</td>
+<td><a href="/wiki/Sam_Sneed" title="Sam Sneed">Sam Sneed</a>; <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td>"Come Up to My Room"</td>
+<td><a href="/wiki/Jodeci" title="Jodeci">Jodeci</a> (featuring <a href="/wiki/Tha_Dogg_Pound" title="Tha Dogg Pound">Tha Dogg Pound</a>)</td>
+<td><a href="/wiki/Dat_Nigga_Daz" title="Dat Nigga Daz" class="mw-redirect">Dat Nigga Daz</a>; Devante Swing</td>
+</tr>
+<tr>
+<td>11</td>
+<td>"Woman to Woman"</td>
+<td><a href="/wiki/Jewell_(singer)" title="Jewell (singer)">Jewell</a></td>
+<td><a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a>; G-One</td>
+</tr>
+<tr>
+<td>12</td>
+<td>"Dollaz + Sense"</td>
+<td><a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a></td>
+<td><a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td>"The Eulogy"</td>
+<td>Slip Capone (featuring <a href="/wiki/Capital_Punishment_Organization" title="Capital Punishment Organization">CPO</a>)</td>
+<td>Sam Man</td>
+</tr>
+<tr>
+<td>14</td>
+<td>"Horny"</td>
+<td>B-Rezell</td>
+<td>Kevin Lewis; Marc McWilliams</td>
+</tr>
+<tr>
+<td>15</td>
+<td>"Eastside-Westside" (Remix)</td>
+<td><a href="/wiki/Young_Soldierz" title="Young Soldierz">Young Soldierz</a></td>
+<td>Big Wy; Lil' Stretch</td>
+</tr>
+<tr>
+<td>16</td>
+<td>"Hot One" (cassette only bonus track)</td>
+<td>O.F.T.B.</td>
+<td>O.F.T.B.</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Samples">Samples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Murder_Was_the_Case&amp;action=edit&amp;section=3" title="Edit section: Samples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>21 Jumpstreet</b></p>
+<ul>
+<li>"Nobody Can Be You (But You)" by <a href="/wiki/Steve_Arrington" title="Steve Arrington">Steve Arrington</a></li>
+</ul>
+<p><b>Who Got That Gangsta Shit"</b></p>
+<ul>
+<li>"P.S.K. What Does It Mean" by <a href="/wiki/Schoolly_D" title="Schoolly D">Schoolly D</a></li>
+</ul>
+<p><b>Come When I Call</b></p>
+<ul>
+<li>"Let Me Love You" by <a href="/wiki/Michael_Henderson" title="Michael Henderson">Michael Henderson</a></li>
+</ul>
+<p><b>Woman to Woman</b></p>
+<ul>
+<li>"Woman to Woman" by <a href="/wiki/Shirley_Brown" title="Shirley Brown">Shirley Brown</a></li>
+</ul>
+<p><b>Dollaz &amp; Sense</b></p>
+<ul>
+<li>"I Like (What You're Doing to Me)" by Young &amp; Company</li>
+</ul>
+<p><b>Eastside-Westside</b></p>
+<ul>
+<li>"Dazz" by <a href="/wiki/Brick_(band)" title="Brick (band)">Brick</a></li>
+</ul>
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Murder_Was_the_Case&amp;action=edit&amp;section=4" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-style ambox-Cleanup" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>may require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a></b>. <span class="hide-when-compact">No <a href="/wiki/Template:Cleanup/doc" title="Template:Cleanup/doc">cleanup reason</a> has been specified. Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Murder_Was_the_Case&amp;action=edit">improve this section</a> if you can.</span> <small><i>(October 2008)</i></small></span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Murder_Was_the_Case&amp;action=edit&amp;section=5" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Album</b> - <a href="/wiki/Billboard_magazine" title="Billboard magazine" class="mw-redirect">Billboard</a> (North America)</p>
+<table border="1" cellspacing="0" cellpadding="2" width="550">
+<tr>
+<th align="left" valign="top">Year</th>
+<th align="left" valign="top">Chart</th>
+<th align="left" valign="top">Position</th>
+</tr>
+<tr>
+<td align="left" valign="top">1994</td>
+<td align="left" valign="top">The Billboard 2000</td>
+<td align="left" valign="top">1</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Credits">Credits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Murder_Was_the_Case&amp;action=edit&amp;section=6" title="Edit section: Credits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Executive Producer: Suge Knight</li>
+<li>Soundtrack director: Dr. Dre</li>
+<li>Overseer: Dat Nigga Daz.</li>
+<li>Recorded at Can-Am Studios</li>
+<li>Mixed at Dr. Dre's studio</li>
+<li>Death Row Engineers: Kesten Wright, <a href="/w/index.php?title=Tommy_D._Daugherty&amp;action=edit&amp;redlink=1" class="new" title="Tommy D. Daugherty (page does not exist)">Tommy D. Daugherty</a> &amp; Danny Alfonso &amp; HDzuong</li>
+<li>Photographers: Yoko Sato, Simone Green</li>
+</ul>
+<h2><span class="mw-headline" id="Cover_versions">Cover versions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Murder_Was_the_Case&amp;action=edit&amp;section=7" title="Edit section: Cover versions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Jeremy_Messersmith" title="Jeremy Messersmith">Jeremy Messersmith</a> with Andy Thompson performed a cover of "Murder Was the Case" at The Cake Shop in Minneapolis, MN for a 'Murder and Death' concept show on 1/10/2010.</li>
+</ul>
+<ul>
+<li><a href="/wiki/South_Park_Mexican" title="South Park Mexican">South Park Mexican</a>'s song "Woodson N' Worthin" is a cover of "Murder Was the Case".</li>
+</ul>
+<ul>
+<li>Don Vito and Mad DPS covered the song on the 2008 compilation album <i>The Triple-Six Mixtape</i>.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Murder_Was_the_Case&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Number-one_albums_of_1994_(USA)" title="Number-one albums of 1994 (USA)" class="mw-redirect">Number-one albums of 1994 (USA)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Murder_Was_the_Case&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Allmusic-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Allmusic_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.allmusic.com/album/r206681">http://www.allmusic.com/album/r206681</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cduniverse.com/productinfo.asp?pid=7215659">http://www.cduniverse.com/productinfo.asp?pid=7215659</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Murder_Was_the_Case&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt0166278/"><i>Murder Was the Case</i></a> at the <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://slumz.boxden.com/showthread.php?p=2011903">Review</a></li>
+</ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/II_(Boyz_II_Men_album)" title="II (Boyz II Men album)">II</a></i> by <a href="/wiki/Boyz_II_Men" title="Boyz II Men">Boyz II Men</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_1994_(USA)" title="Number-one albums of 1994 (USA)" class="mw-redirect">number-one album</a></b><br />
+November 5–18, 1994</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/MTV_Unplugged_in_New_York" title="MTV Unplugged in New York">MTV Unplugged in New York</a></i> by <a href="/wiki/Nirvana_(band)" title="Nirvana (band)">Nirvana</a></span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also_2">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Murder_Was_the_Case&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_albums_of_1994_(U.S.)" title="List of number-one albums of 1994 (U.S.)" class="mw-redirect">List of number-one albums of 1994 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1994_(U.S.)" title="List of number-one R&amp;B albums of 1994 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1994 (U.S.)</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Snoop_Dogg" title="Template:Snoop Dogg"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Snoop_Dogg" title="Template talk:Snoop Dogg"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Snoop_Dogg&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/Snoop_Dogg_discography" title="Snoop Dogg discography">Discography</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Snoop_Dogg" title="List of awards and nominations received by Snoop Dogg">Awards and nominations</a></li>
+<li><a href="/wiki/Snoop_Dogg_videography" title="Snoop Dogg videography" class="mw-redirect">Videography</a></li>
+<li><a href="/wiki/Snoop_Dogg_filmography" title="Snoop Dogg filmography">Filmography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Doggystyle" title="Doggystyle">Doggystyle</a></i></li>
+<li><i><a href="/wiki/Tha_Doggfather" title="Tha Doggfather">Tha Doggfather</a></i></li>
+<li><i><a href="/wiki/Da_Game_Is_to_Be_Sold,_Not_to_Be_Told" title="Da Game Is to Be Sold, Not to Be Told">Da Game Is to Be Sold, Not to Be Told</a></i></li>
+<li><i><a href="/wiki/No_Limit_Top_Dogg" title="No Limit Top Dogg">No Limit Top Dogg</a></i></li>
+<li><i><a href="/wiki/Tha_Last_Meal" title="Tha Last Meal">Tha Last Meal</a></i></li>
+<li><i><a href="/wiki/Paid_tha_Cost_to_Be_da_Boss" title="Paid tha Cost to Be da Boss">Paid tha Cost to Be da Boss</a></i></li>
+<li><i><a href="/wiki/R%26G_(Rhythm_%26_Gangsta):_The_Masterpiece" title="R&amp;G (Rhythm &amp; Gangsta): The Masterpiece">R&amp;G (Rhythm &amp; Gangsta): The Masterpiece</a></i></li>
+<li><i><a href="/wiki/Tha_Blue_Carpet_Treatment" title="Tha Blue Carpet Treatment">Tha Blue Carpet Treatment</a></i></li>
+<li><i><a href="/wiki/Ego_Trippin%27" title="Ego Trippin'">Ego Trippin'</a></i></li>
+<li><i><a href="/wiki/Malice_n_Wonderland" title="Malice n Wonderland">Malice n Wonderland</a></i></li>
+<li><i><a href="/wiki/Doggumentary" title="Doggumentary">Doggumentary</a></i></li>
+<li><i><a href="/wiki/Reincarnated_(album)" title="Reincarnated (album)">Reincarnated</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Smokefest_Underground" title="Smokefest Underground">Smokefest Underground</a></i></li>
+<li><i><a href="/wiki/Dead_Man_Walkin%27" title="Dead Man Walkin'">Dead Man Walkin'</a></i></li>
+<li><i><a href="/wiki/Death_Row:_Snoop_Doggy_Dogg_at_His_Best" title="Death Row: Snoop Doggy Dogg at His Best">Death Row: Snoop Doggy Dogg at His Best</a></i></li>
+<li><i><a href="/wiki/Bigg_Snoop_Dogg_Presents...Welcome_to_tha_Chuuch:_Da_Album" title="Bigg Snoop Dogg Presents...Welcome to tha Chuuch: Da Album">Welcome to tha Chuuch: Da Album</a></i></li>
+<li><i><a href="/wiki/Snoop_Dogg_Presents:_Unreleased_Heatrocks" title="Snoop Dogg Presents: Unreleased Heatrocks">Snoop Dogg Presents: Unreleased Heatrocks</a></i></li>
+<li><i><a href="/wiki/Snoop_Dogg_Presents_The_Big_Squeeze" title="Snoop Dogg Presents The Big Squeeze">Snoop Dogg Presents The Big Squeeze</a></i></li>
+<li><i><a href="/wiki/Snoop_Dogg_Presents_Christmas_in_tha_Dogg_House" title="Snoop Dogg Presents Christmas in tha Dogg House">Snoop Dogg Presents Christmas In Tha Dogg House</a></i></li>
+<li><i><a href="/wiki/Death_Row:_The_Lost_Sessions_Vol._1" title="Death Row: The Lost Sessions Vol. 1">Death Row: The Lost Sessions Vol. 1</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Soundtracks</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Bones_(soundtrack)" title="Bones (soundtrack)">Bones</a></i></li>
+<li><i><a href="/wiki/Mac_%26_Devin_Go_to_High_School_(soundtrack)" title="Mac &amp; Devin Go to High School (soundtrack)">Mac &amp; Devin Go to High School</a></i> <small style="font-size:85%;">(with <a href="/wiki/Wiz_Khalifa" title="Wiz Khalifa">Wiz Khalifa</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Concert tours</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Up_in_Smoke_Tour" title="Up in Smoke Tour">Up in Smoke Tour</a></li>
+<li><a href="/wiki/Blazed_%26_Confused_Tour" title="Blazed &amp; Confused Tour">Blazed &amp; Confused Tour</a></li>
+<li><a href="/wiki/Rock_the_Bells" title="Rock the Bells">Rock the Bells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/213_(group)" title="213 (group)">213</a></li>
+<li><a href="/wiki/Tha_Dogg_Pound" title="Tha Dogg Pound">DPGC</a></li>
+<li><a href="/wiki/Tha_Eastsidaz" title="Tha Eastsidaz">Tha Eastsidaz</a></li>
+<li><a href="/wiki/Doggystyle_Records" title="Doggystyle Records">Doggystyle Records</a></li>
+<li><a href="/wiki/Snoop_Dogg%27s_Doggystyle" title="Snoop Dogg's Doggystyle">Snoop Dogg's Doggystyle</a></li>
+<li><a href="/wiki/Reincarnated_(documentary)" title="Reincarnated (documentary)" class="mw-redirect"><i>Reincarnated</i> (film)</a></li>
+<li><i><a href="/wiki/Tha_Eastsidaz_(album)" title="Tha Eastsidaz (album)">Tha Eastsidaz</a></i> <small style="font-size:85%;">(with <a href="/wiki/Tha_Eastsidaz" title="Tha Eastsidaz">Tha Eastsidaz</a>)</small></li>
+<li><i><a href="/wiki/Duces_%27n_Trayz:_The_Old_Fashioned_Way" title="Duces 'n Trayz: The Old Fashioned Way">Duces 'n Trayz: The Old Fashioned Way</a></i> <small style="font-size:85%;">(with Tha Eastsidaz)</small></li>
+<li><i><a href="/wiki/The_Hard_Way_(213_album)" title="The Hard Way (213 album)">The Hard Way</a></i> <small style="font-size:85%;">(with <a href="/wiki/213_(group)" title="213 (group)">213</a>)</small></li>
+<li><i><a href="/wiki/Tekken_Tag_Tournament_2" title="Tekken Tag Tournament 2">Tekken Tag Tournament 2</a></i></li>
+<li><i><a href="/wiki/7_Days_of_Funk" title="7 Days of Funk">7 Days of Funk</a></i> <small style="font-size:85%;">(with <a href="/wiki/D%C3%A2m-Funk" title="Dâm-Funk">Dâm-Funk</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Snoop_Dogg" title="Book:Snoop Dogg">Book</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Snoop_Dogg" title="Category:Snoop Dogg">Category</a></b></li>
+<li><b><img alt="Template" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/16px-Symbol_template_class.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/23px-Symbol_template_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/31px-Symbol_template_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Template:Snoop_Dogg_singles" title="Template:Snoop Dogg singles">Template</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1002
+CPU time usage: 0.960 seconds
+Real time usage: 1.061 seconds
+Preprocessor visited node count: 1986/1000000
+Preprocessor generated node count: 13004/1500000
+Post‐expand include size: 39287/2048000 bytes
+Template argument size: 5520/2048000 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 8/500
+Lua time usage: 0.098/10.000 seconds
+Lua memory usage: 1.54 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:555776-0!*!0!!en!4!* and timestamp 20140531115640 and revision id 609989946
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Murder_Was_the_Case&amp;oldid=609989946">http://en.wikipedia.org/w/index.php?title=Murder_Was_the_Case&amp;oldid=609989946</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Snoop_Dogg_albums" title="Category:Snoop Dogg albums">Snoop Dogg albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Daz_Dillinger" title="Category:Albums produced by Daz Dillinger">Albums produced by Daz Dillinger</a></li><li><a href="/wiki/Category:Albums_produced_by_Dr._Dre" title="Category:Albums produced by Dr. Dre">Albums produced by Dr. Dre</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Quik" title="Category:Albums produced by DJ Quik">Albums produced by DJ Quik</a></li><li><a href="/wiki/Category:Albums_produced_by_Soopafly" title="Category:Albums produced by Soopafly">Albums produced by Soopafly</a></li><li><a href="/wiki/Category:Film_soundtracks" title="Category:Film soundtracks">Film soundtracks</a></li><li><a href="/wiki/Category:Hip_hop_soundtracks" title="Category:Hip hop soundtracks">Hip hop soundtracks</a></li><li><a href="/wiki/Category:1994_soundtracks" title="Category:1994 soundtracks">1994 soundtracks</a></li><li><a href="/wiki/Category:Death_Row_Records_soundtracks" title="Category:Death Row Records soundtracks">Death Row Records soundtracks</a></li><li><a href="/wiki/Category:Gangsta_rap_soundtracks" title="Category:Gangsta rap soundtracks">Gangsta rap soundtracks</a></li><li><a href="/wiki/Category:Horrorcore_albums" title="Category:Horrorcore albums">Horrorcore albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_October_2008" title="Category:Articles needing cleanup from October 2008">Articles needing cleanup from October 2008</a></li><li><a href="/wiki/Category:All_articles_needing_cleanup" title="Category:All articles needing cleanup">All articles needing cleanup</a></li><li><a href="/wiki/Category:Cleanup_tagged_articles_without_a_reason_field_from_October_2008" title="Category:Cleanup tagged articles without a reason field from October 2008">Cleanup tagged articles without a reason field from October 2008</a></li><li><a href="/wiki/Category:Wikipedia_pages_needing_cleanup_from_October_2008" title="Category:Wikipedia pages needing cleanup from October 2008">Wikipedia pages needing cleanup from October 2008</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Murder+Was+the+Case&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Murder+Was+the+Case" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Murder_Was_the_Case"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Murder_Was_the_Case"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Murder_Was_the_Case" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Murder_Was_the_Case&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Murder_Was_the_Case&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Murder_Was_the_Case" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Murder_Was_the_Case" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Murder_Was_the_Case&amp;oldid=609989946" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Murder_Was_the_Case&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q3179389" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Murder_Was_the_Case&amp;id=609989946" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Murder+Was+the+Case">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Murder+Was+the+Case&amp;oldid=609989946&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Murder_Was_the_Case&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Murder_Was_the_Case" title="Murder Was the Case – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Murder_Was_the_Case" title="Murder Was the Case – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Murder_Was_The_Case" title="Murder Was The Case – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+													<li class="interlanguage-link interwiki-sw"><a href="//sw.wikipedia.org/wiki/Murder_Was_the_Case" title="Murder Was the Case – Swahili" lang="sw" hreflang="sw">Kiswahili</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Murder_Was_the_Case_(%C5%9Bcie%C5%BCka_d%C5%BAwi%C4%99kowa)" title="Murder Was the Case (ścieżka dźwiękowa) – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Murder_Was_the_Case_(Snoop_Dogg)" title="Murder Was the Case (Snoop Dogg) – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q3179389#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 24 May 2014 at 20:56.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Murder_Was_the_Case" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":205,"wgHostname":"mw1097"});
+}</script>
+	</body>
+</html>
+	

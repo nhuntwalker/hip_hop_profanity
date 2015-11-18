@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>1991 in hip hop music - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1991_in_hip_hop_music" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1991_in_hip_hop_music&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1991_in_hip_hop_music&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/1991_in_hip_hop_music" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init%2Cnolanglinks&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1991_in_hip_hop_music","wgTitle":"1991 in hip hop music","wgCurRevisionId":612934806,"wgRevisionId":612934806,"wgArticleId":43053464,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["1991 in hip hop music","1991 in music"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1991_in_hip_hop_music","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf9/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"447":true,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf9/skins/vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-1991_in_hip_hop_music skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">1991 in hip hop music</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox nowraplinks" style="width: 300px; text-align: center;">
+<caption><a href="/wiki/1991_in_music" title="1991 in music">1991 in music</a></caption>
+<tr>
+<th>By location</th>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a href="/w/index.php?title=1991_in_Australian_music&amp;action=edit&amp;redlink=1" class="new" title="1991 in Australian music (page does not exist)">Australia</a></li>
+<li><a href="/w/index.php?title=1991_in_Canadian_music&amp;action=edit&amp;redlink=1" class="new" title="1991 in Canadian music (page does not exist)">Canada</a></li>
+<li><a href="/w/index.php?title=1991_in_European_music&amp;action=edit&amp;redlink=1" class="new" title="1991 in European music (page does not exist)">Europe</a></li>
+<li><a href="/wiki/1991_in_British_music" title="1991 in British music">United Kingdom</a></li>
+<li><a href="/w/index.php?title=1991_in_Irish_music&amp;action=edit&amp;redlink=1" class="new" title="1991 in Irish music (page does not exist)">Ireland</a></li>
+<li><a href="/w/index.php?title=1991_in_Japanese_music&amp;action=edit&amp;redlink=1" class="new" title="1991 in Japanese music (page does not exist)">Japan</a></li>
+<li><a href="/w/index.php?title=1991_in_New_Zealand_music&amp;action=edit&amp;redlink=1" class="new" title="1991 in New Zealand music (page does not exist)">New Zealand</a></li>
+<li><a href="/w/index.php?title=1991_in_Philippine_music&amp;action=edit&amp;redlink=1" class="new" title="1991 in Philippine music (page does not exist)">Philippines</a></li>
+<li><a href="/w/index.php?title=1991_in_South_Korean_music&amp;action=edit&amp;redlink=1" class="new" title="1991 in South Korean music (page does not exist)">South Korea</a></li>
+<li><a href="/w/index.php?title=1991_in_Swedish_music&amp;action=edit&amp;redlink=1" class="new" title="1991 in Swedish music (page does not exist)">Sweden</a></li>
+<li><a href="/w/index.php?title=1991_in_American_music&amp;action=edit&amp;redlink=1" class="new" title="1991 in American music (page does not exist)">United States</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>By genre</th>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a href="/w/index.php?title=1991_in_alternative_rock&amp;action=edit&amp;redlink=1" class="new" title="1991 in alternative rock (page does not exist)">Alternative</a></li>
+<li><a href="/wiki/1991_in_country_music" title="1991 in country music">country</a></li>
+<li><a href="/w/index.php?title=1991_in_classical_music&amp;action=edit&amp;redlink=1" class="new" title="1991 in classical music (page does not exist)">classical</a></li>
+<li><a href="/w/index.php?title=1991_in_electropop_music&amp;action=edit&amp;redlink=1" class="new" title="1991 in electropop music (page does not exist)">electropop</a></li>
+<li><a href="/wiki/1991_in_heavy_metal_music" title="1991 in heavy metal music">heavy metal</a></li>
+<li><strong class="selflink">hip-hop</strong></li>
+<li><a href="/w/index.php?title=1991_in_opera&amp;action=edit&amp;redlink=1" class="new" title="1991 in opera (page does not exist)">opera</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>By topic</th>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=List_of_1991_albums&amp;action=edit&amp;redlink=1" class="new" title="List of 1991 albums (page does not exist)">List of albums released</a></td>
+</tr>
+</table>
+<p>This article summarizes the events, album releases, and album release dates in <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop music</a> for the year 1991.</p>
+<h2><span class="mw-headline" id="Released_albums">Released albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1991_in_hip_hop_music&amp;action=edit&amp;section=1" title="Edit section: Released albums">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align:center;">
+<tr>
+<th scope="col">Release Date</th>
+<th scope="col">Artist</th>
+<th scope="col">Album</th>
+</tr>
+<tr>
+<td rowspan="2">January 15</td>
+<td><a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a></td>
+<td><i><a href="/wiki/Quik_Is_the_Name" title="Quik Is the Name">Quik Is the Name</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Gang_Starr" title="Gang Starr">Gang Starr</a></td>
+<td><i><a href="/wiki/Step_in_the_Arena" title="Step in the Arena" class="mw-redirect">Step in the Arena</a></i></td>
+</tr>
+<tr>
+<td>February 19</td>
+<td><a href="/wiki/Gza" title="Gza">GZA</a></td>
+<td><i><a href="/wiki/Words_from_the_Genius" title="Words from the Genius">Words from the Genius</a></i></td>
+</tr>
+<tr>
+<td>March 12</td>
+<td><a href="/wiki/Boogie_Down_Productions" title="Boogie Down Productions">Boogie Down Productions</a></td>
+<td><i><a href="/wiki/Live_Hardcore_Worldwide" title="Live Hardcore Worldwide">Live Hardcore Worldwide</a></i></td>
+</tr>
+<tr>
+<td>May 13</td>
+<td><a href="/wiki/De_La_Soul" title="De La Soul">De La Soul</a></td>
+<td><i><a href="/wiki/De_La_Soul_Is_Dead" title="De La Soul Is Dead">De La Soul Is Dead</a></i></td>
+</tr>
+<tr>
+<td>May 14</td>
+<td><a href="/wiki/Ice-T" title="Ice-T">Ice-T</a></td>
+<td><i><a href="/wiki/O.G._Original_Gangster" title="O.G. Original Gangster">O.G. Original Gangster</a></i></td>
+</tr>
+<tr>
+<td rowspan="2">May 28</td>
+<td><a href="/wiki/Jodeci" title="Jodeci">Jodeci</a></td>
+<td><i><a href="/wiki/Forever_My_Lady" title="Forever My Lady">Forever My Lady</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/N.W.A" title="N.W.A">N.W.A</a></td>
+<td><i><a href="/wiki/Niggaz4Life" title="Niggaz4Life">Niggaz4Life</a></i></td>
+</tr>
+<tr>
+<td>June 25</td>
+<td><a href="/wiki/Pete_Rock_%26_CL_Smooth" title="Pete Rock &amp; CL Smooth">Pete Rock &amp; CL Smooth</a></td>
+<td><i><a href="/wiki/All_Souled_Out" title="All Souled Out">All Souled Out</a></i></td>
+</tr>
+<tr>
+<td rowspan="2">July 1</td>
+<td><a href="/wiki/Digital_Underground" title="Digital Underground">Digital Underground</a></td>
+<td><i><a href="/wiki/This_Is_an_EP_Release" title="This Is an EP Release">This Is an EP Release</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Geto_Boys" title="Geto Boys">Geto Boys</a></td>
+<td><i><a href="/wiki/We_Can%27t_Be_Stopped" title="We Can't Be Stopped">We Can't Be Stopped</a></i></td>
+</tr>
+<tr>
+<td>July 2</td>
+<td><a href="/wiki/Slick_Rick" title="Slick Rick">Slick Rick</a></td>
+<td><i><a href="/wiki/The_Ruler%27s_Back" title="The Ruler's Back">The Ruler's Back</a></i></td>
+</tr>
+<tr>
+<td>July 16</td>
+<td><a href="/wiki/Compton%27s_Most_Wanted" title="Compton's Most Wanted">Compton's Most Wanted</a></td>
+<td><i><a href="/wiki/Straight_Checkn_%27Em" title="Straight Checkn 'Em">Straight Checkn 'Em</a></i></td>
+</tr>
+<tr>
+<td>July 23</td>
+<td><a href="/wiki/DJ_Jazzy_Jeff_%26_The_Fresh_Prince" title="DJ Jazzy Jeff &amp; The Fresh Prince">DJ Jazzy Jeff &amp; The Fresh Prince</a></td>
+<td><i><a href="/wiki/Homebase_(album)" title="Homebase (album)">Homebase</a></i></td>
+</tr>
+<tr>
+<td>August 19</td>
+<td><a href="/wiki/Cypress_Hill" title="Cypress Hill">Cypress Hill</a></td>
+<td><i><a href="/wiki/Cypress_Hill_(album)" title="Cypress Hill (album)">Cypress Hill</a></i></td>
+</tr>
+<tr>
+<td>August 27</td>
+<td><a href="/wiki/Biz_Markie" title="Biz Markie">Biz Markie</a></td>
+<td><i><a href="/wiki/I_Need_a_Haircut" title="I Need a Haircut">I Need a Haircut</a></i></td>
+</tr>
+<tr>
+<td rowspan="2">September 3</td>
+<td><a href="/wiki/Naughty_by_Nature" title="Naughty by Nature">Naughty by Nature</a></td>
+<td><i><a href="/wiki/Naughty_by_Nature_(album)" title="Naughty by Nature (album)">Naughty by Nature</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Queen_Latifah" title="Queen Latifah">Queen Latifah</a></td>
+<td><i><a href="/wiki/Nature_of_a_Sista" title="Nature of a Sista">Nature of a Sista</a></i></td>
+</tr>
+<tr>
+<td>September 13</td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a></td>
+<td><i><a href="/wiki/Get_Away_Clean" title="Get Away Clean">Get Away Clean</a></i></td>
+</tr>
+<tr>
+<td>September 17</td>
+<td><a href="/wiki/MC_Lyte" title="MC Lyte">MC Lyte</a></td>
+<td><i><a href="/wiki/Act_Like_You_Know_(MC_Lyte_album)" title="Act Like You Know (MC Lyte album)">Act Like You Know</a></i></td>
+</tr>
+<tr>
+<td>September 24</td>
+<td><a href="/wiki/A_Tribe_Called_Quest" title="A Tribe Called Quest">A Tribe Called Quest</a></td>
+<td><i><a href="/wiki/The_Low_End_Theory" title="The Low End Theory">The Low End Theory</a></i></td>
+</tr>
+<tr>
+<td>October 1</td>
+<td><a href="/wiki/Public_Enemy_(group)" title="Public Enemy (group)">Public Enemy</a></td>
+<td><i><a href="/wiki/Apocalypse_91..._The_Enemy_Strikes_Back" title="Apocalypse 91... The Enemy Strikes Back" class="mw-redirect">Apocalypse 91... The Enemy Strikes Back</a></i></td>
+</tr>
+<tr>
+<td>October 7</td>
+<td><a href="/wiki/Salt-n-Pepa" title="Salt-n-Pepa">Salt-n-Pepa</a></td>
+<td><i>The Greatest Hits</i></td>
+</tr>
+<tr>
+<td>October 14</td>
+<td><a href="/wiki/Schoolly_D" title="Schoolly D">Schoolly D</a></td>
+<td><i><a href="/wiki/How_a_Black_Man_Feels" title="How a Black Man Feels">How a Black Man Feels</a></i></td>
+</tr>
+<tr>
+<td>October 15</td>
+<td>Digital Underground</td>
+<td><i><a href="/wiki/Sons_of_the_P" title="Sons of the P">Sons of the P</a></i></td>
+</tr>
+<tr>
+<td>October 22</td>
+<td><a href="/wiki/Black_Sheep_(group)" title="Black Sheep (group)">Black Sheep</a></td>
+<td><i><a href="/wiki/A_Wolf_in_Sheep%27s_Clothing_(Black_Sheep_album)" title="A Wolf in Sheep's Clothing (Black Sheep album)">A Wolf In Sheep's Clothing</a></i></td>
+</tr>
+<tr>
+<td rowspan="2">October 29</td>
+<td><a href="/wiki/Big_Daddy_Kane" title="Big Daddy Kane">Big Daddy Kane</a></td>
+<td><i><a href="/wiki/Prince_of_Darkness_(Big_Daddy_Kane_album)" title="Prince of Darkness (Big Daddy Kane album)">Prince of Darkness</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a></td>
+<td><i><a href="/wiki/Death_Certificate_(album)" title="Death Certificate (album)">Death Certificate</a></i></td>
+</tr>
+<tr>
+<td>November 6</td>
+<td><a href="/wiki/Run-D.M.C." title="Run-D.M.C." class="mw-redirect">Run-D.M.C.</a></td>
+<td><i><a href="/wiki/Together_Forever:_Greatest_Hits_1983-1991" title="Together Forever: Greatest Hits 1983-1991" class="mw-redirect">Together Forever: Greatest Hits 1983-1991</a></i></td>
+</tr>
+<tr>
+<td>November 12</td>
+<td><a href="/wiki/Tupac_Shakur" title="Tupac Shakur">2Pac</a></td>
+<td><i><a href="/wiki/2Pacalypse_Now" title="2Pacalypse Now">2Pacalypse Now</a></i></td>
+</tr>
+<tr>
+<td>November 19</td>
+<td><a href="/wiki/Tone_L%C5%8Dc" title="Tone Lōc">Tone Lōc</a></td>
+<td><a href="/wiki/Cool_Hand_L%C5%8Dc" title="Cool Hand Lōc">Cool Hand Lōc</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1991_in_hip_hop_music&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Next article: <a href="/wiki/1992_in_hip_hop_music" title="1992 in hip hop music">1992 in hip hop music</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1991_in_hip_hop_music&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;"></div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1216
+CPU time usage: 0.076 seconds
+Real time usage: 0.087 seconds
+Preprocessor visited node count: 79/1000000
+Preprocessor generated node count: 488/1500000
+Post‐expand include size: 1646/2048000 bytes
+Template argument size: 112/2048000 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:43053464-0!*!0!!*!*!* and timestamp 20140614210512 and revision id 612934806
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=1991_in_hip_hop_music&amp;oldid=612934806">http://en.wikipedia.org/w/index.php?title=1991_in_hip_hop_music&amp;oldid=612934806</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/w/index.php?title=Category:1991_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="Category:1991 in hip hop music (page does not exist)">1991 in hip hop music</a></li><li><a href="/wiki/Category:1991_in_music" title="Category:1991 in music">1991 in music</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1991+in+hip+hop+music&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1991+in+hip+hop+music" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/1991_in_hip_hop_music"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:1991_in_hip_hop_music&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/1991_in_hip_hop_music" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=1991_in_hip_hop_music&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1991_in_hip_hop_music&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1991_in_hip_hop_music" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1991_in_hip_hop_music" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=1991_in_hip_hop_music&amp;oldid=612934806" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=1991_in_hip_hop_music&amp;action=info">Page information</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=1991_in_hip_hop_music&amp;id=612934806" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1991+in+hip+hop+music">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1991+in+hip+hop+music&amp;oldid=612934806&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=1991_in_hip_hop_music&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 14 June 2014 at 21:05.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/1991_in_hip_hop_music" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":174,"wgHostname":"mw1184"});
+}</script>
+	</body>
+</html>
+	

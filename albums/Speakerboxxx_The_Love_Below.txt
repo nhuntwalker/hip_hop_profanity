@@ -1,0 +1,1425 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Speakerboxxx/The Love Below - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Speakerboxxx/The_Love_Below" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Speakerboxxx/The_Love_Below" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Speakerboxxx/The_Love_Below","wgTitle":"Speakerboxxx/The Love Below","wgCurRevisionId":610968014,"wgRevisionId":610968014,"wgArticleId":504875,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from August 2010","Articles with dead external links from May 2012","Articles with hAudio microformats","Use mdy dates from April 2014","Outkast albums","2003 albums","Grammy Award winners for Album of the Year","LaFace Records albums","Albums produced by André 3000","Recording Industry Association of America Diamond Award albums","Albums certified gold by the Recording Industry Association of Japan","Grammy Award for Best Rap Album","English-language albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Speakerboxxx/The_Love_Below","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["de","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q603672"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Speakerboxxx_The_Love_Below skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Speakerboxxx/The Love Below</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Speakerboxxx/The Love Below</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Outkast-speakerboxx-lovebelow.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/47/Outkast-speakerboxx-lovebelow.jpg/220px-Outkast-speakerboxx-lovebelow.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/4/47/Outkast-speakerboxx-lovebelow.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/4/47/Outkast-speakerboxx-lovebelow.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/OutKast" title="OutKast" class="mw-redirect">OutKast</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">September&#160;23,&#160;2003<span style="display:none">&#160;(<span class="bday dtstart published updated">2003-09-23</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>2001—2003</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a>, <a href="/wiki/Funk" title="Funk">funk</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td><span class="duration"><span class="min">135</span>:<span class="s">00</span></span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/LaFace_Records" title="LaFace Records">LaFace</a>, <a href="/wiki/Arista_Records" title="Arista Records">Arista</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Andr%C3%A9_3000" title="André 3000">André 3000</a>, <a href="/wiki/Big_Boi" title="Big Boi">Big&#160;Boi</a>, Carl&#160;Mo, <a href="/wiki/Mr._DJ" title="Mr. DJ">Mr.&#160;DJ</a>, Cutmaster&#160;Swiff, Dojo5</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/OutKast" title="OutKast" class="mw-redirect">OutKast</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Stankonia" title="Stankonia">Stankonia</a></i><br />
+(2000)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Speakerboxxx/The Love Below</b></i><br />
+(2003)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Idlewild_(Outkast_album)" title="Idlewild (Outkast album)">Idlewild</a></i><br />
+(2006)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Speakerboxxx/The Love Below</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Hey_Ya!" title="Hey Ya!">Hey Ya!</a>"</span><br />
+Released: September&#160;9,&#160;2003<span style="display:none">&#160;(<span class="bday dtstart published updated">2003-09-09</span>)</span></span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/The_Way_You_Move" title="The Way You Move">The Way You Move</a>"</span><br />
+Released: October&#160;2,&#160;2003<span style="display:none">&#160;(<span class="bday dtstart published updated">2003-10-02</span>)</span></span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Roses_(Outkast_song)" title="Roses (Outkast song)">Roses</a>"</span><br />
+Released: May&#160;25,&#160;2004<span style="display:none">&#160;(<span class="bday dtstart published updated">2004-05-25</span>)</span></span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Ghetto_Musick_/_Prototype" title="Ghetto Musick / Prototype">GhettoMusick / Prototype</a>"</span><br />
+Released: November&#160;23,&#160;2004<span style="display:none">&#160;(<span class="bday dtstart published updated">2004-11-23</span>)</span></span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>Speakerboxxx/The Love Below</b></i> is the fifth studio album by American <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> duo <a href="/wiki/OutKast" title="OutKast" class="mw-redirect">OutKast</a>, released September 23, 2003 on <a href="/wiki/LaFace_Records" title="LaFace Records">LaFace Records</a>. Issued as a double album, its playtime of more than two hours is distributed over solo albums from each of the group's members. <i>Speakerboxxx</i> is the solo project of <a href="/wiki/Big_Boi" title="Big Boi">Big Boi</a> and a <a href="/wiki/Southern_hip_hop" title="Southern hip hop">Southern hip hop</a> album with a <a href="/wiki/P-Funk" title="P-Funk">P-Funk</a> influence, while <a href="/wiki/Andr%C3%A9_3000" title="André 3000">André 3000</a>'s <i>The Love Below</i> features <a href="/wiki/Psychedelic_music" title="Psychedelic music">psychedelic</a>, <a href="/wiki/Pop_music" title="Pop music">pop</a>, <a href="/wiki/Funk" title="Funk">funk</a>, <a href="/wiki/Electro_(music)" title="Electro (music)">electro</a>, and <a href="/wiki/Jazz" title="Jazz">jazz</a> styles.<sup id="cite_ref-Southall_1-0" class="reference"><a href="#cite_note-Southall-1"><span>[</span>1<span>]</span></a></sup></p>
+<p><i>Speakerboxxx/The Love Below</i> received acclaim from most music critics, earning praise for the consistency of Big Boi's <i>Speakerboxxx</i> and the eclectic musical style of André 3000's <i>The Love Below</i>. The album was supported with the hit singles "<a href="/wiki/Hey_Ya!" title="Hey Ya!">Hey Ya!</a>" and "<a href="/wiki/The_Way_You_Move" title="The Way You Move">The Way You Move</a>", which both reached number one on the US <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>. It is the second hip-hop album to win a <a href="/wiki/Grammy_Award" title="Grammy Award">Grammy Award</a> for <a href="/wiki/Grammy_Award_for_Album_of_the_Year" title="Grammy Award for Album of the Year">Album of the Year</a>. In 2009, <i><a href="/wiki/NME" title="NME">NME</a></i> ranked <i>Speakerboxxx/The Love Below</i> number 44 on its list of the top 100 greatest albums of the decade,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> while <i><a href="/wiki/Newsweek" title="Newsweek">Newsweek</a></i> ranked the album number one on its list of the ten best albums of the decade.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> <i>Speakerboxxx/The Love Below</i> has been <a href="/wiki/RIAA_certification" title="RIAA certification">certified</a> <a href="/wiki/Music_recording_sales_certification" title="Music recording sales certification">diamond</a> and 11 times <a href="/wiki/Music_recording_sales_certification" title="Music recording sales certification">platinum</a> by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> for shipping more than 11 million units (in this case, 5.5 million double album sets, which are double-counted by the RIAA).<sup id="cite_ref-riaa.com_4-0" class="reference"><a href="#cite_note-riaa.com-4"><span>[</span>4<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background_and_recording"><span class="tocnumber">1</span> <span class="toctext">Background and recording</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Composition"><span class="tocnumber">2</span> <span class="toctext">Composition</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Critical_reception"><span class="tocnumber">3</span> <span class="toctext">Critical reception</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Legacy"><span class="tocnumber">4</span> <span class="toctext">Legacy</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Commercial_performance"><span class="tocnumber">5</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Track_listing"><span class="tocnumber">6</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Charts"><span class="tocnumber">7</span> <span class="toctext">Charts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Chart_positions"><span class="tocnumber">7.1</span> <span class="toctext">Chart positions</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Certifications"><span class="tocnumber">7.2</span> <span class="toctext">Certifications</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Chart_procession_and_succession"><span class="tocnumber">7.3</span> <span class="toctext">Chart procession and succession</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Personnel"><span class="tocnumber">8</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background_and_recording">Background and recording</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit&amp;section=1" title="Edit section: Background and recording">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Following the release of OutKast's fourth studio album <i><a href="/wiki/Stankonia" title="Stankonia">Stankonia</a></i> (2000), André 3000 felt urged to do something different from his previous projects and moved to <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a> to pursue an acting career. He was relatively unsuccessful, obtaining a minor role in <i><a href="/wiki/Hollywood_Homicide" title="Hollywood Homicide">Hollywood Homicide</a></i> (2003) and a one-episode appearance in the drama series <i><a href="/wiki/The_Shield" title="The Shield">The Shield</a></i>. He quickly returned to music and began recording a solo album that was far different to the material he had recorded as part of OutKast. The output was a blend of <a href="/wiki/Pop_(music)" title="Pop (music)" class="mw-redirect">pop</a>, <a href="/wiki/Jazz" title="Jazz">jazz</a> and <a href="/wiki/Funk" title="Funk">funk</a> with live instruments and singing instead of <a href="/wiki/Rapping" title="Rapping">rapping</a>.<sup id="cite_ref-sarig_5-0" class="reference"><a href="#cite_note-sarig-5"><span>[</span>5<span>]</span></a></sup> When writing songs he used a <a href="/wiki/Cassette_recorder" title="Cassette recorder" class="mw-redirect">micro cassette recorder</a> in order to "record melodic ideas and lyrics, then build the melody around the lyrics".<sup id="cite_ref-XXL_6-0" class="reference"><a href="#cite_note-XXL-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>The recording of <i>The Love Below</i> began at André 3000's Los Angeles home, which was unconventional for the time, but he was enabled to do so by the recent release of <a href="/wiki/Pro_Tools" title="Pro Tools">Pro Tools</a> software.<sup id="cite_ref-XXL_6-1" class="reference"><a href="#cite_note-XXL-6"><span>[</span>6<span>]</span></a></sup> As a frequent collector of music equipment, André 3000 had a lot of equipment at his disposal, including a drum machine, keyboards and various synthesizers.<sup id="cite_ref-SOS_7-0" class="reference"><a href="#cite_note-SOS-7"><span>[</span>7<span>]</span></a></sup> He also enjoyed the atmosphere of recording at home instead of a studio, saying to <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i>, "it didn't start in the studio because if you have a bunch of people around, they’re coming from the party and I'm in there singing falsetto ... those vibes didn't match." His initial sessions were hampered by his inexperience with Pro Tools and, unaware how to edit his recordings, he opted to record songs such as "Pink &amp; Blue" in their entirety.<sup id="cite_ref-XXL_6-2" class="reference"><a href="#cite_note-XXL-6"><span>[</span>6<span>]</span></a></sup> Other software used included an Avalon VT737 SP and AD2055 EQ and AD2044 compressors for his vocals.<sup id="cite_ref-SOS_7-1" class="reference"><a href="#cite_note-SOS-7"><span>[</span>7<span>]</span></a></sup> After creating five songs, he informed Big Boi of the solo project he had been working on.<sup id="cite_ref-sarig_5-1" class="reference"><a href="#cite_note-sarig-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Big Boi had already recorded some songs when André 3000 had contacted him, but after their conversation he decided his next project would be <i>Speakerboxxx</i>.<sup id="cite_ref-sarig_5-2" class="reference"><a href="#cite_note-sarig-5"><span>[</span>5<span>]</span></a></sup> Describing his approach in the studio, Big Boi later commented to <i>XXL</i>, "the idea was just to keep it funky, keep it jamming, it’s always bass-heavy. And lyricism, it's all about lyrics, taking pride in your pen and your pad." His favorite song to record was "Unhappy". He spent several days working on "Unhappy"'s hook before driving to his mother's home and playing the song in her driveway, to which she responded enthusiastically.<sup id="cite_ref-XXL_6-3" class="reference"><a href="#cite_note-XXL-6"><span>[</span>6<span>]</span></a></sup> At some point in the recording, the project moved to OutKast's Stankonia Studios in downtown <a href="/wiki/Atlanta" title="Atlanta">Atlanta</a>, which had been used to record OutKast's previous release and namesake. John Frye, the studio manager and an engineer, would later recognise that much of the media attention surrounding the album's recording was concerned with André 3000 and Big Boi's working relationship and why they had chosen to record separately. He concedes that both enjoyed working solo and were doing so more frequently, but they continued to share and critique each other's music.<sup id="cite_ref-SOS_7-2" class="reference"><a href="#cite_note-SOS-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>John Frye also describes how the format of the projects changed rapidly. Initially intended as two separate solo releases, they decided to merge their work and create a soundtrack album as André 3000 had initially intended. The duo then began preparing to work on a motion picture, but reconsidered and compromised by interpolating background noise into songs, such as the slamming of car doors and footsteps.<sup id="cite_ref-XXL_6-4" class="reference"><a href="#cite_note-XXL-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-SOS_7-3" class="reference"><a href="#cite_note-SOS-7"><span>[</span>7<span>]</span></a></sup> They eventually settled on releasing a <a href="/wiki/Double_album" title="Double album">double album</a>. Frye noted the end of the recording sessions as particularly stressful for André 3000, who he described as drained from working at four studios simulatenously. In total, an estimated 120 songs were recorded for <i>Speakerboxxx/The Love Below</i>.<sup id="cite_ref-SOS_7-4" class="reference"><a href="#cite_note-SOS-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Composition">Composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit&amp;section=2" title="Edit section: Composition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Speakerboxxx/The Love Below'</i> is a two-disc set that features thirty-nine tracks, including several <a href="/wiki/Interlude" title="Interlude">interludes</a> and a <a href="/wiki/Postlude" title="Postlude">postlude</a>.<sup id="cite_ref-discogs_8-0" class="reference"><a href="#cite_note-discogs-8"><span>[</span>8<span>]</span></a></sup> It is a <a href="/wiki/Concept_album" title="Concept album">concept album</a> with the intention of each disc delivering each member's individual perspective and sound.<sup id="cite_ref-XXL_6-5" class="reference"><a href="#cite_note-XXL-6"><span>[</span>6<span>]</span></a></sup> <i>The Love Below</i> is substantially longer than Big Boi's <i>Speakerboxxx</i>, clocking in at almost 78 minutes, compared to 56 minutes for <i>Speakerboxxx</i>. Featured guests on <i>Speakerboxxx</i> include <a href="/wiki/Sleepy_Brown" title="Sleepy Brown">Sleepy Brown</a>, <a href="/wiki/Jazze_Pha" title="Jazze Pha">Jazze Pha</a>, <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, <a href="/wiki/Cee-Lo_Green" title="Cee-Lo Green" class="mw-redirect">Cee-Lo Green</a>, <a href="/wiki/Killer_Mike" title="Killer Mike">Killer Mike</a>, <a href="/wiki/Goodie_Mob" title="Goodie Mob">Goodie Mob</a>, <a href="/wiki/Lil%27_Jon" title="Lil' Jon" class="mw-redirect">Lil' Jon</a> and <a href="/wiki/Ludacris" title="Ludacris">Ludacris</a>. Guests on <i>The Love Below</i> include <a href="/wiki/Rosario_Dawson" title="Rosario Dawson">Rosario Dawson</a>, <a href="/wiki/Norah_Jones" title="Norah Jones">Norah Jones</a>, <a href="/wiki/Kelis" title="Kelis">Kelis</a>, and <a href="/wiki/Fonzworth_Bentley" title="Fonzworth Bentley">Fonzworth Bentley</a>.<sup id="cite_ref-discogs_8-1" class="reference"><a href="#cite_note-discogs-8"><span>[</span>8<span>]</span></a></sup></p>
+<p><i>Speakerboxxx</i> is built on <a href="/wiki/Southern_hip_hop" title="Southern hip hop">Southern hip hop</a><sup id="cite_ref-sarig_5-3" class="reference"><a href="#cite_note-sarig-5"><span>[</span>5<span>]</span></a></sup> <i>Speakerboxxx</i> demonstrated more social awareness than its counterpart, with themes of family, philosophy, religion, politics and "a wider emotional terrain ... from melancholy to outrage to expression."<sup id="cite_ref-sarig_5-4" class="reference"><a href="#cite_note-sarig-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>In contrast, <i>The Love Below</i> was identified as far more musically experimental. Its sound was described as jazz and funk with comparisons to the work of <a href="/wiki/Prince_(musician)" title="Prince (musician)">Prince</a>.<sup id="cite_ref-sarig_5-5" class="reference"><a href="#cite_note-sarig-5"><span>[</span>5<span>]</span></a></sup> The disc's abounding theme is <a href="/wiki/Love" title="Love">love</a>, examining the emotions one experiences when falling in love and loving oneself.<sup id="cite_ref-sarig_5-6" class="reference"><a href="#cite_note-sarig-5"><span>[</span>5<span>]</span></a></sup> Roni Sarig suggests that André 3000's split with <a href="/wiki/Neo_soul" title="Neo soul">neo soul</a> singer <a href="/wiki/Erykah_Badu" title="Erykah Badu">Erykah Badu</a> had influenced much of the lyrical content on the album, which he sees as concerned with the search for true love.<sup id="cite_ref-sarig_5-7" class="reference"><a href="#cite_note-sarig-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit&amp;section=3" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Erlewine_9-0" class="reference"><a href="#cite_note-Erlewine-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">A−<sup id="cite_ref-Christgau_10-0" class="reference"><a href="#cite_note-Christgau-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">A<sup id="cite_ref-Hermes_11-0" class="reference"><a href="#cite_note-Hermes-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Lynskey_12-0" class="reference"><a href="#cite_note-Lynskey-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Gill_13-0" class="reference"><a href="#cite_note-Gill-13"><span>[</span>13<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/NME" title="NME">NME</a></i></td>
+<td style="vertical-align:middle">8/10<sup id="cite_ref-Mulvey_14-0" class="reference"><a href="#cite_note-Mulvey-14"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a></td>
+<td style="vertical-align:middle">8.0/10<sup id="cite_ref-DiCrescenzo_15-0" class="reference"><a href="#cite_note-DiCrescenzo-15"><span>[</span>15<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Hoard_16-0" class="reference"><a href="#cite_note-Hoard-16"><span>[</span>16<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Slant_Magazine" title="Slant Magazine">Slant Magazine</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Cinquemani_17-0" class="reference"><a href="#cite_note-Cinquemani-17"><span>[</span>17<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a></td>
+<td style="vertical-align:middle">A+<sup id="cite_ref-Southall_1-1" class="reference"><a href="#cite_note-Southall-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i>Speakerboxxx/The Love Below</i> received acclaim from contemporary music critics.<sup id="cite_ref-Metacritic_18-0" class="reference"><a href="#cite_note-Metacritic-18"><span>[</span>18<span>]</span></a></sup> At <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>, which assigns a <a href="/wiki/Standard_score" title="Standard score">normalized</a> rating out of 100 to reviews from mainstream critics, the album received an <a href="/wiki/Weighted_mean" title="Weighted mean" class="mw-redirect">average</a> score of 91, based on 25 reviews, which indicates "universal acclaim".<sup id="cite_ref-Metacritic_18-1" class="reference"><a href="#cite_note-Metacritic-18"><span>[</span>18<span>]</span></a></sup> <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> writer Stephen Thomas Erlewine called both discs "visionary, imaginative listens, providing some of the best music of 2003, regardless of genre".<sup id="cite_ref-Erlewine_9-1" class="reference"><a href="#cite_note-Erlewine-9"><span>[</span>9<span>]</span></a></sup> <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i><span style="padding-left:0.1em;">'</span>s Will Hermes commented that the album's "ambition flies so far beyond that of anyone doing rap right now (or pop, or rock, or R&amp;B)".<sup id="cite_ref-Hermes_11-1" class="reference"><a href="#cite_note-Hermes-11"><span>[</span>11<span>]</span></a></sup> Kris Ex of the <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i> called it "a cohesive statement" and praised both discs' musical quality.<sup id="cite_ref-Ex_19-0" class="reference"><a href="#cite_note-Ex-19"><span>[</span>19<span>]</span></a></sup> In his review for <i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i>, Ex gave the album five out of five stars and commented that it "holds an explosion of creativity that couldn’t have been contained in just one LP".<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span style="padding-left:0.1em;">'</span>s Dorian Lynskey described both discs as "sublime ... hip-hop's <i><a href="/wiki/Sign_o%27_the_Times_(album)" title="Sign o' the Times (album)" class="mw-redirect">Sign o' the Times</a></i> or <i><a href="/wiki/The_Beatles_(album)" title="The Beatles (album)">The White Album</a></i>: a career-defining masterpiece of breathtaking ambition".<sup id="cite_ref-Lynskey_12-1" class="reference"><a href="#cite_note-Lynskey-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>Andy Gill of <i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i> asserted that the album "sets a new benchmark not just for hip hop, but for pop in general".<sup id="cite_ref-Gill_13-1" class="reference"><a href="#cite_note-Gill-13"><span>[</span>13<span>]</span></a></sup> <a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a>'s Nick Southall called it "a series of spectacular moments and memorable events".<sup id="cite_ref-Southall_1-2" class="reference"><a href="#cite_note-Southall-1"><span>[</span>1<span>]</span></a></sup> <a href="/wiki/Greg_Tate" title="Greg Tate">Greg Tate</a> of <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> drew comparisons to <a href="/wiki/P-Funk" title="P-Funk">P-Funk</a> on <i>Speakerboxxx</i> and to <a href="/wiki/Prince_(musician)" title="Prince (musician)">Prince</a> on <i>The Love Below</i>.<sup id="cite_ref-Tate_21-0" class="reference"><a href="#cite_note-Tate-21"><span>[</span>21<span>]</span></a></sup> In his consumer guide for <i>The Village Voice</i>, <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a> gave the album an A- rating,<sup id="cite_ref-Christgau_10-1" class="reference"><a href="#cite_note-Christgau-10"><span>[</span>10<span>]</span></a></sup> indicating "the kind of garden-variety good record that is the great luxury of musical micromarketing and overproduction."<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> He viewed that the album could have been "the classic P-Funk rip it ain't quite" had <i>Speakerboxxx</i> alone been issued with "Roses", "Spread", "Hey Ya!", and "an oddity of [André 3000's] choosing", but nonetheless commended its "commercial ebullience, creative confidence, and wretched excess, blessed excess, impressive excess".<sup id="cite_ref-Christgau_10-2" class="reference"><a href="#cite_note-Christgau-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>In a mixed review, <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> writer Jon Caramanica was ambivalent towards André 3000 expressing his "right to be peculiar in a hip-hop context".<sup id="cite_ref-Caramanica_23-0" class="reference"><a href="#cite_note-Caramanica-23"><span>[</span>23<span>]</span></a></sup> Sal Cinquemani of <a href="/wiki/Slant_Magazine" title="Slant Magazine">Slant Magazine</a> felt that the album's indulgence was a weakness, but commended OutKast's ambition and stated, "<i>The Love Below</i> is more consistent than <i>Speakerboxxx</i>. Still, as was probably intended, the double-album is greater than the sum of its parts, and this kind of expertly crafted pop and deftly executed funk rarely happen at the same time—not since <i>Stankonia</i>, at least."<sup id="cite_ref-Cinquemani_17-1" class="reference"><a href="#cite_note-Cinquemani-17"><span>[</span>17<span>]</span></a></sup> By contrast, Brent DiCrescenzo found <i>Speakerboxxx</i> to be superior to <i>The Love Below</i> and wrote that the former "manages to maintain consistent brilliance and emotional complexity throughout".<sup id="cite_ref-DiCrescenzo_15-1" class="reference"><a href="#cite_note-DiCrescenzo-15"><span>[</span>15<span>]</span></a></sup> John Mulvey of <i><a href="/wiki/NME" title="NME">NME</a></i> described its two discs as "two Technicolor explosions of creativity that people will be exploring, analysing and partying to for years".<sup id="cite_ref-Mulvey_14-1" class="reference"><a href="#cite_note-Mulvey-14"><span>[</span>14<span>]</span></a></sup> Cynthia Fuchs of <a href="/wiki/PopMatters" title="PopMatters">PopMatters</a> described it as "imperfect and ambitious, sometimes startling and always smart".<sup id="cite_ref-Fuchs_24-0" class="reference"><a href="#cite_note-Fuchs-24"><span>[</span>24<span>]</span></a></sup> In a retrospective review, <i>Rolling Stone</i><span style="padding-left:0.1em;">'</span>s Roni Sarig gave the album four-and-a-half out of five stars and stated, "[F]or sheer breadth, ambition, and musical vision, there's little doubt <i>Speakerboxxx/The Love Below</i> is a classic."<sup id="cite_ref-Hoard_16-1" class="reference"><a href="#cite_note-Hoard-16"><span>[</span>16<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit&amp;section=4" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Speakerboxxx/The Love Below</i> was voted as the best album of the year in <a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a> <a href="/wiki/Pazz_%26_Jop" title="Pazz &amp; Jop">Pazz &amp; Jop</a> critics poll. The album was nominated for six <a href="/wiki/Grammy_Awards" title="Grammy Awards" class="mw-redirect">Grammy Awards</a>, winning three (<a href="/wiki/Grammy_Award_for_Album_of_the_Year" title="Grammy Award for Album of the Year">Album of the Year</a>, Best Urban/Alternative Performance for "Hey Ya!", and <a href="/wiki/Grammy_Award_for_Best_Rap_Album" title="Grammy Award for Best Rap Album">Best Rap Album</a>). OutKast's other nominations were for Producer of the Year, and Best Short-Form Music Video and Record of the Year, both for "Hey Ya!". <i>Speakerboxxx/The Love Below</i> was the second hip hop album to receive the Grammy for Album of the Year (following <i><a href="/wiki/The_Miseducation_of_Lauryn_Hill" title="The Miseducation of Lauryn Hill">The Miseducation of Lauryn Hill</a></i> in 1999). In Australia, "<a href="/wiki/Hey_Ya!" title="Hey Ya!">Hey Ya!</a>" was voted number two on the 2003 <a href="/wiki/Triple_J_Hottest_100" title="Triple J Hottest 100">Triple J Hottest 100</a>, the country's biggest alternative music poll of its type. The jazz periodical <a href="/wiki/Down_Beat" title="Down Beat">Down Beat</a> chose it as the best "beyond" album. In 2012 <a href="/wiki/Complex_(magazine)" title="Complex (magazine)">Complex</a> named the album one of the classic albums of the last decade.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup> In 2013, <a href="/wiki/New_Musical_Express" title="New Musical Express" class="mw-redirect">NME</a> ranked <i>Speakerboxxx/The Love Below</i> as #183 on their list of the 500 greatest albums of all time.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit&amp;section=5" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After having had three number two-albums on the U.S. <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>, OutKast enjoyed their first chart-topping album with <i>Speakerboxxx/The Love Below</i>. The album debuted at number one during the week of October 11, 2003, selling more than 510,000 copies in its first week. It became the second-biggest debut for a double album during the <a href="/wiki/Soundscan" title="Soundscan" class="mw-redirect">Soundscan</a>-era (beginning in 1991). The album sold 235,000 copies in its second week, holding its position atop the Billboard chart. <i>Speakerboxxx/The Love Below</i> spent the next three weeks in the top 5 before returning to the top spot for one more week. Sales remained strong, and the album would spend another four weeks at #1 between January and February 2004. In all, <i>Speakerboxxx/The Love Below</i> amassed a total of seven weeks at #1, 24 weeks in the Top 10, and 56 weeks on the Billboard 200. <i>Speakerboxxx/The Love Below</i> has been <a href="/wiki/RIAA_certification" title="RIAA certification">certified</a> <a href="/wiki/Music_recording_sales_certification" title="Music recording sales certification">diamond</a> and 11 times <a href="/wiki/Music_recording_sales_certification" title="Music recording sales certification">platinum</a> by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> for shipping more than 11 million units (in this case, 5.5 million double album sets, which are double-counted by the RIAA).<sup id="cite_ref-riaa.com_4-1" class="reference"><a href="#cite_note-riaa.com-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>The single "<a href="/wiki/Hey_Ya!" title="Hey Ya!">Hey Ya!</a>" went to number one on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a> in the United States, topping the charts there for 9 weeks. It was the act's second #1 single, following 2001's "<a href="/wiki/Ms._Jackson" title="Ms. Jackson">Ms. Jackson</a>". "Hey Ya!" also topped the singles charts in Canada and Australia, and charted in 28 countries around the world. "Hey Ya!" was also the first platinum download on iTunes. Follow-up single "The Way You Move" knocked "Hey Ya!" off the top of the charts in the U.S. in February 2004, just the seventh time a recording act replaced itself at number one. "The Way You Move" topped the singles chart for one week. The third single released from the album was "Roses" from <i>The Love Below,</i> which reached #5. The fourth and fifth singles released, "Prototype" (<i>The Love Below</i>) and "GhettoMusick" (<i>Speakerboxxx</i>), did not chart.</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit&amp;section=6" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff"><i>Speakerboxxx</i></th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Intro" <span style="font-size:85%;">(produced by Cutmaster Swift)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:29</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Ghetto_Musick_/_Prototype" title="Ghetto Musick / Prototype">Ghetto Musick</a>" <span style="font-size:85%;">(produced by and featuring <a href="/wiki/Andr%C3%A9_3000" title="André 3000">André 3000</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Big_Boi" title="Big Boi">Antwan Patton</a>, <a href="/wiki/Bunny_Sigler" title="Bunny Sigler">Bunny Sigler</a>, <a href="/wiki/Kenny_Gamble" title="Kenny Gamble" class="mw-redirect">Kenny Gamble</a>, <a href="/wiki/Andr%C3%A9_3000" title="André 3000">André Benjamin</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:56</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Unhappy" <span style="font-size:85%;">(produced by <a href="/wiki/Mr._DJ" title="Mr. DJ">Mr. DJ</a>)</span></td>
+<td style="vertical-align: top;">Patton, <a href="/wiki/Mr._DJ" title="Mr. DJ">David Sheats</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:19</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Bowtie" <span style="font-size:85%;">(featuring <a href="/wiki/Sleepy_Brown" title="Sleepy Brown">Sleepy Brown</a> and <a href="/wiki/Jazze_Pha" title="Jazze Pha">Jazze Pha</a>, produced by <a href="/wiki/Big_Boi" title="Big Boi">Big Boi</a>)</span></td>
+<td style="vertical-align: top;">Patton, <a href="/wiki/Jazze_Pha" title="Jazze Pha">Phalon Alexander</a>, <a href="/wiki/Sleepy_Brown" title="Sleepy Brown">Patrick Brown</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:56</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/The_Way_You_Move" title="The Way You Move">The Way You Move</a>" <span style="font-size:85%;">(featuring Sleepy Brown, produced by Carl Mo &amp; Big Boi)</span></td>
+<td style="vertical-align: top;">Patton, Carlton "Carl Mo" Mahone, Brown</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:54</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"The Rooster" <span style="font-size:85%;">(produced by Carl Mo &amp; Big Boi)</span></td>
+<td style="vertical-align: top;">Patton, Mahone, Donnie Mathis</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:57</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Bust" <span style="font-size:85%;">(featuring <a href="/wiki/Mike_Bigga" title="Mike Bigga" class="mw-redirect">Killer Mike</a>, produced by Big Boi)</span></td>
+<td style="vertical-align: top;">Patton, Myrna Crenshaw, <a href="/wiki/Mike_Bigga" title="Mike Bigga" class="mw-redirect">Michael Render</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:08</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"War" <span style="font-size:85%;">(produced by Mr. DJ)</span></td>
+<td style="vertical-align: top;">Patton, Sheats</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:43</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Church" <span style="font-size:85%;">(produced by André 3000)</span></td>
+<td style="vertical-align: top;">Patton, Kevin Kendricks, Benjamin, Crenshaw, Brown</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:27</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Bamboo" <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:09</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Tomb of the Boom" <span style="font-size:85%;">(featuring Konkrete, <a href="/wiki/Big_Gipp" title="Big Gipp">Big Gipp</a> and <a href="/wiki/Ludacris" title="Ludacris">Ludacris</a>, produced by Big Boi)</span></td>
+<td style="vertical-align: top;">Patton, <a href="/wiki/Big_Gipp" title="Big Gipp">Cameron Gipp</a>, <a href="/wiki/Ludacris" title="Ludacris">Chris Bridges</a>, Nathaniel Elder, Cory Andrews, James Patton</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:46</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"E-Mac" <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:24</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Knowing" <span style="font-size:85%;">(featuring André 3000, produced by Mr. DJ)</span></td>
+<td style="vertical-align: top;">Patton, Benjamin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:32</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Flip Flop Rock" <span style="font-size:85%;">(featuring Killer Mike and <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, produced by Big Boi &amp; Mr. DJ)</span></td>
+<td style="vertical-align: top;">Patton, <a href="/wiki/Jay-Z" title="Jay-Z">Shawn Carter</a>, Render, Sheats</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:35</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Interlude" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:15</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Reset" <span style="font-size:85%;">(featuring <a href="/wiki/Khujo" title="Khujo">Khujo</a> and <a href="/wiki/Cee_Lo_Green" title="Cee Lo Green" class="mw-redirect">Cee Lo Green</a>, produced by Big Boi)</span></td>
+<td style="vertical-align: top;">Patton, <a href="/wiki/Cee-Lo_Green" title="Cee-Lo Green" class="mw-redirect">Thomas Burton</a>, <a href="/wiki/Khujo" title="Khujo">Willie Knighton</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:35</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"D-Boi" <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:40</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"Last Call" <span style="font-size:85%;">(featuring <a href="/wiki/Slimm_Calhoun" title="Slimm Calhoun">Slimm Calhoun</a>, <a href="/wiki/Lil_Jon" title="Lil Jon">Lil Jon &amp; the East Side Boyz</a> and <a href="/wiki/Mello" title="Mello">Mello</a>, produced by André 3000)</span></td>
+<td style="vertical-align: top;">Patton, Benjamin, James Hollins, Brian Loving</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:57</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"Bowtie" <span style="font-size:85%;">(Postlude)</span></td>
+<td style="vertical-align: top;">Patton, Alexander, Brown</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:34</td>
+</tr>
+</table>
+<p>All tracks on <i>The Love Below</i> were produced solely by André 3000 except "Roses", which was co-produced by Dojo5.</p>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff"><i>The Love Below</i></th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"The Love Below" <span style="font-size:85%;">(Intro)</span></td>
+<td style="vertical-align: top;">Benjamin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:27</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Love Hater" &#160;</td>
+<td style="vertical-align: top;">Kendricks, Benjamin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:49</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"God" <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;">Benjamin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:20</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Happy Valentine's Day" &#160;</td>
+<td style="vertical-align: top;">Benjamin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:23</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Spread" &#160;</td>
+<td style="vertical-align: top;">Benjamin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:51</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Where Are My Panties?" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:54</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Ghetto_Musick_/_Prototype" title="Ghetto Musick / Prototype">Prototype</a>" &#160;</td>
+<td style="vertical-align: top;">Benjamin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:26</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"She Lives in My Lap" <span style="font-size:85%;">(featuring <a href="/wiki/Rosario_Dawson" title="Rosario Dawson">Rosario Dawson</a><sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Willie_Dennis" title="Willie Dennis">Willie Dennis</a>, <a href="/wiki/Isaac_Hayes" title="Isaac Hayes">Isaac Hayes</a>, <a href="/wiki/Roger_Troutman" title="Roger Troutman">Roger Troutman</a>, Doug King, <a href="/wiki/Rosario_Dawson" title="Rosario Dawson">Rosario Dawson</a>, <a href="/wiki/Scarface_(rapper)" title="Scarface (rapper)">Brad Jordan</a>, Eric Vidal, Benjamin, Dino Hawkins</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:27</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Hey_Ya!" title="Hey Ya!">Hey Ya!</a>" &#160;</td>
+<td style="vertical-align: top;">Benjamin, Patton</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:55</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Roses_(Outkast_song)" title="Roses (Outkast song)">Roses</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Big_Boi" title="Big Boi">Big Boi</a>)</span></td>
+<td style="vertical-align: top;">Benjamin, Patton, Matt Boykin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:09</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Good Day, Good Sir" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:24</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Behold a Lady" &#160;</td>
+<td style="vertical-align: top;">Benjamin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:37</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Pink &amp; Blue" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/R._Kelly" title="R. Kelly">Robert Kelly</a>, Benjamin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:04</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Love in War" &#160;</td>
+<td style="vertical-align: top;">Benjamin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:25</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"She's Alive" &#160;</td>
+<td style="vertical-align: top;">Kendricks, Benjamin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:06</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Dracula's Wedding" <span style="font-size:85%;">(featuring <a href="/wiki/Kelis" title="Kelis">Kelis</a>)</span></td>
+<td style="vertical-align: top;">Benjamin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:32</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"My Favorite Things" &#160;</td>
+<td style="vertical-align: top;">Benjamin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:14</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"Take Off Your Cool" <span style="font-size:85%;">(featuring <a href="/wiki/Norah_Jones" title="Norah Jones">Norah Jones</a>)</span></td>
+<td style="vertical-align: top;">Benjamin, Patton</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:38</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"Vibrate" &#160;</td>
+<td style="vertical-align: top;">Benjamin, Patton</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:38</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">20.</td>
+<td style="text-align: left; vertical-align: top;">"A Life in the Day of Benjamin André (Incomplete)" &#160;</td>
+<td style="vertical-align: top;">Benjamin, Patton</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:11</td>
+</tr>
+</table>
+<dl>
+<dt>Note</dt>
+<dd>In 2003, the album was reissued, with "The Love Below" having a revised track listing. A 21 second skit was placed before "My Favorite Things", entitled "The Letter". To make room, the radio excerpt from "A Life in the Day of Benjamin André" was excised, shortening the track to 4:50. This revised album now serves as the version for sale on MP3.</dd>
+<dt>Sample credits</dt>
+</dl>
+<ul>
+<li>"Ghetto Musick", from <i>Speakerboxxx</i>, contains samples of "<a href="/wiki/Love,_Need_and_Want_You" title="Love, Need and Want You">Love, Need and Want You</a>" by <a href="/wiki/Patti_LaBelle" title="Patti LaBelle">Patti LaBelle</a>.</li>
+<li>The first few seconds of "Intro" from <i>Speakerboxxx</i> is a sample of the beginning of the song "<a href="/wiki/Europop_(song)" title="Europop (song)" class="mw-redirect">Europop</a>" from the <a href="/wiki/Eiffel_65" title="Eiffel 65">Eiffel 65</a> album of the same name.</li>
+<li>"She Lives in My Lap", from <i>The Love Below</i>, contains samples of "Mind Playing Tricks on Me" by <a href="/wiki/Geto_Boys" title="Geto Boys">Geto Boys</a> and "Pistolgrip-Pump" by Volume 10.</li>
+<li>"Pink &amp; Blue", from <i>The Love Below</i>, contains samples of "Age Ain't Nothing But a Number" by <a href="/wiki/Aaliyah" title="Aaliyah">Aaliyah</a> and "Why Can't We Live Together" by <a href="/wiki/Timmy_Thomas" title="Timmy Thomas">Timmy Thomas</a>.</li>
+<li>"My Favorite Things" from <i>The Love Below</i> contains samples from <a href="/wiki/John_Coltrane" title="John Coltrane">John Coltrane</a>'s 1960 <a href="/wiki/My_Favorite_Things_(song)" title="My Favorite Things (song)">recording by the same name</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit&amp;section=7" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit&amp;section=8" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th style="text-align:center; width:220px;">Chart (2003/2004)</th>
+<th style="text-align:center;">Peak<br />
+position</th>
+</tr>
+<tr>
+<td><a href="/wiki/ARIA_Charts" title="ARIA Charts">Australian Albums Chart</a><sup id="cite_ref-SwissCharts_Outkast_28-0" class="reference"><a href="#cite_note-SwissCharts_Outkast-28"><span>[</span>28<span>]</span></a></sup></td>
+<td style="text-align:center;">9</td>
+</tr>
+<tr>
+<td><a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">Austrian Albums Chart</a><sup id="cite_ref-SwissCharts_Outkast_28-1" class="reference"><a href="#cite_note-SwissCharts_Outkast-28"><span>[</span>28<span>]</span></a></sup></td>
+<td style="text-align:center;">28</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ultratop" title="Ultratop">Belgian Albums Chart</a> (<a href="/wiki/Flanders" title="Flanders">Flanders</a>)<sup id="cite_ref-SwissCharts_Outkast_28-2" class="reference"><a href="#cite_note-SwissCharts_Outkast-28"><span>[</span>28<span>]</span></a></sup></td>
+<td style="text-align:center;">21</td>
+</tr>
+<tr>
+<td>Belgian Albums Chart (<a href="/wiki/Wallonia" title="Wallonia">Wallonia</a>)<sup id="cite_ref-SwissCharts_Outkast_28-3" class="reference"><a href="#cite_note-SwissCharts_Outkast-28"><span>[</span>28<span>]</span></a></sup></td>
+<td style="text-align:center;">58</td>
+</tr>
+<tr>
+<td><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a><sup id="cite_ref-Billboard_Charts_29-0" class="reference"><a href="#cite_note-Billboard_Charts-29"><span>[</span>29<span>]</span></a></sup></td>
+<td style="text-align:center;">4</td>
+</tr>
+<tr>
+<td><a href="/wiki/Tracklisten" title="Tracklisten">Danish Albums Chart</a><sup id="cite_ref-SwissCharts_Outkast_28-4" class="reference"><a href="#cite_note-SwissCharts_Outkast-28"><span>[</span>28<span>]</span></a></sup></td>
+<td style="text-align:center;">13</td>
+</tr>
+<tr>
+<td><a href="/wiki/MegaCharts" title="MegaCharts">Dutch Albums Chart</a><sup id="cite_ref-SwissCharts_Outkast_28-5" class="reference"><a href="#cite_note-SwissCharts_Outkast-28"><span>[</span>28<span>]</span></a></sup></td>
+<td style="text-align:center;">15</td>
+</tr>
+<tr>
+<td><a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">French Albums Chart</a><sup id="cite_ref-SwissCharts_Outkast_28-6" class="reference"><a href="#cite_note-SwissCharts_Outkast-28"><span>[</span>28<span>]</span></a></sup></td>
+<td style="text-align:center;">13</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">Finnish Albums Chart</a><sup id="cite_ref-SwissCharts_Outkast_28-7" class="reference"><a href="#cite_note-SwissCharts_Outkast-28"><span>[</span>28<span>]</span></a></sup></td>
+<td style="text-align:center;">15</td>
+</tr>
+<tr>
+<td><a href="/wiki/Media_Control_Charts" title="Media Control Charts">German Albums Chart</a><sup id="cite_ref-ACharts_Outkast_30-0" class="reference"><a href="#cite_note-ACharts_Outkast-30"><span>[</span>30<span>]</span></a></sup></td>
+<td style="text-align:center;">21</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Irish_Albums_Chart" title="Irish Albums Chart">Irish Albums Chart</a><sup id="cite_ref-ACharts_Outkast_30-1" class="reference"><a href="#cite_note-ACharts_Outkast-30"><span>[</span>30<span>]</span></a></sup></td>
+<td style="text-align:center;">3</td>
+</tr>
+<tr>
+<td><a href="/wiki/Recording_Industry_Association_of_New_Zealand" title="Recording Industry Association of New Zealand" class="mw-redirect">New Zealand Albums Chart</a><sup id="cite_ref-SwissCharts_Outkast_28-8" class="reference"><a href="#cite_note-SwissCharts_Outkast-28"><span>[</span>28<span>]</span></a></sup></td>
+<td style="text-align:center;">3</td>
+</tr>
+<tr>
+<td><a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">Norwegian Albums Chart</a><sup id="cite_ref-SwissCharts_Outkast_28-9" class="reference"><a href="#cite_note-SwissCharts_Outkast-28"><span>[</span>28<span>]</span></a></sup></td>
+<td style="text-align:center;">4</td>
+</tr>
+<tr>
+<td><a href="/wiki/Polish_Music_Charts" title="Polish Music Charts">Polish Albums Chart</a><sup id="cite_ref-ACharts_Outkast_30-2" class="reference"><a href="#cite_note-ACharts_Outkast-30"><span>[</span>30<span>]</span></a></sup></td>
+<td style="text-align:center;">35</td>
+</tr>
+<tr>
+<td><a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">Swedish Albums Chart</a><sup id="cite_ref-SwissCharts_Outkast_28-10" class="reference"><a href="#cite_note-SwissCharts_Outkast-28"><span>[</span>28<span>]</span></a></sup></td>
+<td style="text-align:center;">11</td>
+</tr>
+<tr>
+<td><a href="/wiki/Swiss_Music_Charts" title="Swiss Music Charts" class="mw-redirect">Swiss Albums Chart</a><sup id="cite_ref-SwissCharts_Outkast_28-11" class="reference"><a href="#cite_note-SwissCharts_Outkast-28"><span>[</span>28<span>]</span></a></sup></td>
+<td style="text-align:center;">11</td>
+</tr>
+<tr>
+<td><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a><sup id="cite_ref-ACharts_Outkast_30-3" class="reference"><a href="#cite_note-ACharts_Outkast-30"><span>[</span>30<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td><a href="/wiki/Billboard_200" title="Billboard 200">US <i>Billboard</i> 200</a><sup id="cite_ref-ACharts_Outkast_30-4" class="reference"><a href="#cite_note-ACharts_Outkast-30"><span>[</span>30<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td><a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">US <i>Billboard</i> R&amp;B/Hip-Hop</a><sup id="cite_ref-Billboard_Charts_29-1" class="reference"><a href="#cite_note-Billboard_Charts-29"><span>[</span>29<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+</table>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Certifications">Certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit&amp;section=9" title="Edit section: Certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th style="text-align:center; width:100px;">Country</th>
+<th style="text-align:center; width:100px;">Provider</th>
+<th style="text-align:center; width:100px;">Certification<br />
+<small>(<a href="/wiki/List_of_music_recording_sales_certifications#Albums" title="List of music recording sales certifications" class="mw-redirect">thresholds</a>)</small><sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></th>
+</tr>
+<tr>
+<td>Australia</td>
+<td style="text-align:center;"><a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">ARIA</a></td>
+<td style="text-align:center;">Platinum<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>Canada</td>
+<td style="text-align:center;"><a href="/wiki/Canadian_Recording_Industry_Association" title="Canadian Recording Industry Association" class="mw-redirect">CRIA</a></td>
+<td style="text-align:center;">Gold<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>Denmark</td>
+<td style="text-align:center;"><a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">IFPI</a></td>
+<td style="text-align:center;">Gold<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>Germany</td>
+<td style="text-align:center;"><a href="/wiki/Bundesverband_Musikindustrie" title="Bundesverband Musikindustrie">BVMI</a></td>
+<td style="text-align:center;">Gold<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>Hungary</td>
+<td style="text-align:center;"><a href="/wiki/Association_of_Hungarian_Record_Companies" title="Association of Hungarian Record Companies">Mahasz</a></td>
+<td style="text-align:center;">Gold<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>Japan</td>
+<td style="text-align:center;"><a href="/wiki/Recording_Industry_Association_of_Japan" title="Recording Industry Association of Japan">RIAJ</a></td>
+<td style="text-align:center;">Gold<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>Netherlands</td>
+<td style="text-align:center;"><a href="/wiki/NVPI" title="NVPI">NVPI</a></td>
+<td style="text-align:center;">Gold<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>Norway</td>
+<td style="text-align:center;" rowspan="2">IFPI</td>
+<td style="text-align:center;">Gold<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>Switzerland</td>
+<td style="text-align:center;">Gold<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>United Kingdom</td>
+<td style="text-align:center;"><a href="/wiki/British_Phonographic_Industry" title="British Phonographic Industry">BPI</a></td>
+<td style="text-align:center;">2× Platinum<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>United States</td>
+<td style="text-align:center;"><a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a></td>
+<td style="text-align:center;">11× Platinum (Diamond)<sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>42<span>]</span></a></sup></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Chart_procession_and_succession">Chart procession and succession</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit&amp;section=10" title="Edit section: Chart procession and succession">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Grand_Champ" title="Grand Champ">Grand Champ</a></i> by <a href="/wiki/DMX_(rapper)" title="DMX (rapper)">DMX</a><br />
+<i><a href="/wiki/Measure_of_a_Man_(Clay_Aiken_album)" title="Measure of a Man (Clay Aiken album)">Measure of a Man</a></i> by <a href="/wiki/Clay_Aiken" title="Clay Aiken">Clay Aiken</a><br />
+<i><a href="/wiki/The_Diary_of_Alicia_Keys" title="The Diary of Alicia Keys">The Diary of Alicia Keys</a></i> by <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a><br />
+<i>Closer</i> by Josh Groban</span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_2003_(USA)" title="Number-one albums of 2003 (USA)" class="mw-redirect">number-one album</a></b><br />
+October 5–18, 2003<br />
+November 9–15, 2003<br />
+January 4–17, 2004<br />
+January 25&#160;– February 7, 2004</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Chicken_%26_Beer" title="Chicken &amp; Beer" class="mw-redirect">Chicken*N*Beer</a></i> by <a href="/wiki/Ludacris" title="Ludacris">Ludacris</a><br />
+<i><a href="/wiki/Shock%27n_Y%27all" title="Shock'n Y'all">Shock'n Y'all</a></i> by <a href="/wiki/Toby_Keith" title="Toby Keith">Toby Keith</a><br />
+<i><a href="/wiki/Closer_(Josh_Groban_album)" title="Closer (Josh Groban album)">Closer</a></i> by <a href="/wiki/Josh_Groban" title="Josh Groban">Josh Groban</a><br />
+<i><a href="/wiki/Kamikaze_(album)" title="Kamikaze (album)">Kamikaze</a></i> by <a href="/wiki/Twista" title="Twista">Twista</a></span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit&amp;section=11" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>OutKast&#160;– executive producer<sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>43<span>]</span></a></sup></li>
+<li>André Benjamin&#160;– soloist, vocals, background vocals, acoustic and electric guitar, piano, keyboards, tenor sax, programming, producer</li>
+<li>Big Boi&#160;– vocals, producer</li>
+<li>Aaron Mills&#160;– bass</li>
+<li>Jef Van Veen&#160;– drums</li>
+<li>Alex Reverberi&#160;– assistant</li>
+<li>Antwan Patton&#160;– vocals, background vocals, drum programming, keyboards, programming, producer</li>
+<li>Benjamin Wright&#160;– string arrangements, string conductor</li>
+<li>Bernie Grundman&#160;– mastering</li>
+<li>Big Gipp&#160;– vocals, background vocals</li>
+<li>Bonnie Hayes &amp; the Wild Combo&#160;– vocals</li>
+<li>Brian "Big Bass" Gardener&#160;– mixing</li>
+<li>Brian Gardner&#160;– mastering</li>
+<li>Brian Paturalski&#160;– engineer</li>
+<li>Carl Mo&#160;– producer</li>
+<li>Catherine Chan&#160;– cello</li>
+<li><a href="/wiki/Cee-Lo_Green" title="Cee-Lo Green" class="mw-redirect">Cee-Lo Green</a>&#160;– vocals</li>
+<li>Charles Veal&#160;– concert master, violin</li>
+<li>Chris Carmouche&#160;– assistant, engineer</li>
+<li>Chris Steffen&#160;– assistant</li>
+<li>Cutmaster Swift&#160;– cut, producer</li>
+<li>Darrel Thorpe&#160;– engineer</li>
+<li>Darrell Thorp&#160;– mixing</li>
+<li>Darryl Otis Smith&#160;– guitar</li>
+<li>David Arenz&#160;– strings</li>
+<li>David Braitberg&#160;– strings</li>
+<li>David Whild&#160;– guitar</li>
+<li>Debra Killings&#160;– bass, background vocals</li>
+<li>Dexter Simmons&#160;– mixing</li>
+<li>Dojo5&#160;– producer</li>
+<li>Donald Whittemore&#160;– assistant</li>
+<li>Donnie Mathis&#160;– guitar</li>
+<li>East Side Boyz&#160;– vocals</li>
+<li>Eleanor Arnez&#160;– strings</li>
+<li>Eric Johnson&#160;– strings</li>
+<li>Gina Kronstadt&#160;– violin</li>
+<li>Greg Burns&#160;– assistant</li>
+<li>Greg Price&#160;– assistant</li>
+<li>Hornz Unlimited&#160;– horn, trumpet, horn arrangements</li>
+<li>Jared Robbins&#160;– assistant</li>
+<li>Jay-Z&#160;– vocals</li>
+<li>Jazze Pha&#160;– background vocals</li>
+<li>Jazze Pha&#160;– vocals</li>
+<li>Jeff Moses&#160;– assistant</li>
+<li>Jeffrey Schulz&#160;– art direction, design</li>
+<li>Jeminesse "Slimm Jim" Smith&#160;– programming</li>
+<li>Jim Sitterly&#160;– violin</li>
+<li>Joe-Mama Nitzberg&#160;– creative director</li>
+<li>John Frisbee&#160;– director</li>
+<li>John Frye&#160;– engineer, pre-mixing, mixing</li>
+<li>John Krovoza&#160;– cello</li>
+<li>Joi&#160;– background vocals, vocals</li>
+<li>Jonathan Mannion&#160;– photography</li>
+<li>Josh Monroy&#160;– assistant</li>
+<li>Kelis&#160;– vocals</li>
+<li>Kevin "KD" Davis&#160;– mixing</li>
+<li>Kevin Brandon&#160;– double bass</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Kevin Kendricks&#160;– guitar, keyboards</li>
+<li>Kevin O'Neal&#160;– double bass</li>
+<li>Kevin Smith&#160;– electric bass</li>
+<li>Killer Mike&#160;– vocals, background vocals</li>
+<li>King Stephen&#160;– vocals</li>
+<li>Konkrete&#160;– vocals</li>
+<li>Lavish-J&#160;– styling, photography</li>
+<li>L.A. Reid&#160;– executive producer</li>
+<li>Lil Jon&#160;– vocals</li>
+<li>Lisa Chien&#160;– cello</li>
+<li>Louis Kabok&#160;– violin</li>
+<li>Ludacris&#160;– vocals</li>
+<li>Malik Albert&#160;– assistant</li>
+<li>Marcy Vaj&#160;– viola</li>
+<li>Marianne Lee Stitt&#160;– background vocals</li>
+<li>Mark Cargill&#160;– violin</li>
+<li>Mark Casillas&#160;– violin</li>
+<li>Martin Smith&#160;– cello</li>
+<li>Marvin "Chanz" Parkman&#160;– organ, keyboards</li>
+<li>Matt Still&#160;– engineer</li>
+<li>Mello&#160;– vocals, background vocals</li>
+<li>Michele Nardone&#160;– viola</li>
+<li>Mildryln "Big Gul" Andrews&#160;– background vocals</li>
+<li>Moffett Morris&#160;– upright bass</li>
+<li>Moka Nagatani&#160;– engineer</li>
+<li>Mr. DJ&#160;– producer</li>
+<li>Myrna Crenshaw&#160;– background vocals</li>
+<li>Myrna Crenshaw&#160;– vocals</li>
+<li>Neal H. Pogue&#160;– mixing</li>
+<li>Neil Pogue&#160;– mixing</li>
+<li>Norah Jones&#160;– vocals</li>
+<li>Padraic Kernin&#160;– assistant, engineer</li>
+<li>Patrick Morgan&#160;– viola</li>
+<li>Pete Novak&#160;– engineer, pre-mixing, mixing</li>
+<li>Rabeka Tuinei&#160;– assistant</li>
+<li>Rajinder Kala&#160;– conga</li>
+<li>Reggie Doizier&#160;– mixing</li>
+<li>Regina Davenport&#160;– A&amp;R, artist coordination, production coordination</li>
+<li>Reginald Dozier&#160;– engineer</li>
+<li>Richard Adkins&#160;– violin</li>
+<li>Richard Keller&#160;– strings, string arrangements</li>
+<li>Robert Hannon&#160;– engineer</li>
+<li>Robin Ross&#160;– viola</li>
+<li>Rosario Dawson&#160;– vocals</li>
+<li>Russell Buelna&#160;– assistant</li>
+<li>Sanford Salzinger&#160;– strings</li>
+<li>Sleepy Brown&#160;– vocals, background vocals</li>
+<li>Slimm Calhoun&#160;– vocals</li>
+<li>Terrence Cash&#160;– engineer</li>
+<li>Theresa Wilson&#160;– A&amp;R</li>
+<li>Tibor Zelig&#160;– violin</li>
+<li>Tomi Martin&#160;– guitar</li>
+<li>Tori Alamaze&#160;– background vocals</li>
+<li><a href="/wiki/Torkil_Gudnason" title="Torkil Gudnason">Torkil Gudnason</a>&#160;– photography</li>
+<li>Victor Alexander&#160;– drums</li>
+<li>Vincent Alexander&#160;– assistant, engineer</li>
+<li>Warren Bletcher&#160;– assistant</li>
+<li>Yarda Kettner&#160;– violin</li>
+<li>Zaza&#160;– guitar</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_best-selling_albums_in_the_United_States" title="List of best-selling albums in the United States">List of best-selling albums in the United States</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Southall-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Southall_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Southall_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Southall_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Southall, Nick (September 23, 2003). <a rel="nofollow" class="external text" href="http://www.stylusmagazine.com/reviews/outkast/speakerboxxx-the-love-below.htm">"Outkast - Speakerboxxx/The Love Below - Review"</a>. <i><a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a></i>. Retrieved on October 10, 2009.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Staff. <a rel="nofollow" class="external text" href="http://www.nme.com/list/the-top-100-greatest-albums-of-the-decade/158049/page/6">The Top 100 Greatest Albums of the Decade: 44) <i>Speakerboxxx/The Love Below</i></a>. <i>NME</i>. Retrieved on November 26, 2009.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">Colter, Seth. <a rel="nofollow" class="external text" href="http://2010.newsweek.com/top-10/best-albums/speakerboxxx-the-love-below-outkast.html">"Speakerboxxx/The Love Below OutKast&#160;– Best Albums&#160;– Newsweek 2010"</a>. 2010.newsweek.com<span class="reference-accessdate">. Retrieved March 10, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.au=Colter%2C+Seth&amp;rft.aufirst=Seth&amp;rft.aulast=Colter&amp;rft.btitle=Speakerboxxx%2FThe+Love+Below+OutKast%26nbsp%3B%E2%80%93+Best+Albums%26nbsp%3B%E2%80%93+Newsweek+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2F2010.newsweek.com%2Ftop-10%2Fbest-albums%2Fspeakerboxxx-the-love-below-outkast.html&amp;rft.pub=2010.newsweek.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-riaa.com-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-riaa.com_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-riaa.com_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.riaa.com/gp/bestsellers/diamond.asp">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since August 2010">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-sarig-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-sarig_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sarig_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-sarig_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-sarig_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-sarig_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-sarig_5-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-sarig_5-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-sarig_5-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Sarig, Roni (2007). <i>Third Coast: OutKast, Timbaland, and how Hip-Hop Became a Southern Thing</i>. Cambridge, MA: Da Capo. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0306814303" title="Special:BookSources/978-0306814303">978-0306814303</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.aufirst=Roni&amp;rft.aulast=Sarig&amp;rft.au=Sarig%2C+Roni&amp;rft.btitle=Third+Coast%3A+OutKast%2C+Timbaland%2C+and+how+Hip-Hop+Became+a+Southern+Thing&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-0306814303&amp;rft.place=Cambridge%2C+MA&amp;rft.pub=Da+Capo&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-XXL-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-XXL_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-XXL_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-XXL_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-XXL_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-XXL_6-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-XXL_6-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><span class="citation news">Rys, Dan (January 23, 2014). <a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2014/01/outkast-revisit-speakerboxxx-the-love-below/">"OutKast Revisits ‘Speakerboxxx/The Love Below’ – XXL Issue 151"</a>. <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i><span class="reference-accessdate">. Retrieved April 23, 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.atitle=OutKast+Revisits+%E2%80%98Speakerboxxx%2FThe+Love+Below%E2%80%99+%E2%80%93+XXL+Issue+151&amp;rft.aufirst=Dan&amp;rft.aulast=Rys&amp;rft.au=Rys%2C+Dan&amp;rft.date=January+23%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2014%2F01%2Foutkast-revisit-speakerboxxx-the-love-below%2F&amp;rft.jtitle=XXL&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-SOS-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-SOS_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SOS_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-SOS_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-SOS_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-SOS_7-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation news">Silva, Joe (March 2004). <a rel="nofollow" class="external text" href="http://www.soundonsound.com/sos/mar04/articles/johnfrye.htm">"John Frye: Recording Speakerboxxx/The Love Below"</a>. Sound On Sound<span class="reference-accessdate">. Retrieved April 23, 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.aufirst=Joe&amp;rft.aulast=Silva&amp;rft.au=Silva%2C+Joe&amp;rft.btitle=John+Frye%3A+Recording+Speakerboxxx%2FThe+Love+Below&amp;rft.date=March+2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.soundonsound.com%2Fsos%2Fmar04%2Farticles%2Fjohnfrye.htm&amp;rft.pub=Sound+On+Sound&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-discogs-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-discogs_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-discogs_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.discogs.com/OutKast-Speakerboxxx-The-Love-Below/master/26106">"OutKast - Speakerboxxx/The Love Below"</a>. <a href="/wiki/Discogs" title="Discogs">Discogs</a><span class="reference-accessdate">. Retrieved April 23, 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.btitle=OutKast+-+Speakerboxxx%2FThe+Love+Below&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2FOutKast-Speakerboxxx-The-Love-Below%2Fmaster%2F26106&amp;rft.pub=Discogs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Erlewine-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Erlewine_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Erlewine_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Erlewine, Stephen Thomas. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r651638">"Speakerboxxx/The Love Below - OutKast"</a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>. Retrieved on October 10, 2009.</span></li>
+<li id="cite_note-Christgau-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Christgau_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Christgau_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Christgau_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Christgau, Robert. "<a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=Outkast">CG: Outkast</a>". <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>: October 21, 2003. Archived from <a rel="nofollow" class="external text" href="http://www.villagevoice.com/2003-10-21/music/rousing-constituencies/">the original</a> on October 10, 2009.</span></li>
+<li id="cite_note-Hermes-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hermes_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hermes_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Hermes, Will (September 19, 2003). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,485244,00.html">"Speakerboxxx/The Love Below Review"</a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i>. Retrieved on October 10, 2009.</span></li>
+<li id="cite_note-Lynskey-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lynskey_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lynskey_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Lynskey, Dorian (September 25, 2003). <a rel="nofollow" class="external text" href="http://www.guardian.co.uk/music/2003/sep/26/popandrock.shopping5">"OutKast, Spealerboxxx/The Love Below"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>. Retrieved on October 10, 2009.</span></li>
+<li id="cite_note-Gill-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gill_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gill_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news">Gill, Andy (October 3, 2003). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20090607085650/http://www.independent.co.uk/arts-entertainment/music/reviews/album-outkast-582030.html">"Album: Outkast"</a>. <i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i> (London: Independent Print Limited). Archived from <a rel="nofollow" class="external text" href="http://www.independent.co.uk/arts-entertainment/music/reviews/album-outkast-582030.html">the original</a> on June 7, 2009<span class="reference-accessdate">. Retrieved April 16, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.atitle=Album%3A+Outkast&amp;rft.aufirst=Andy&amp;rft.au=Gill%2C+Andy&amp;rft.aulast=Gill&amp;rft.date=October+3%2C+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.independent.co.uk%2Farts-entertainment%2Fmusic%2Freviews%2Falbum-outkast-582030.html&amp;rft.jtitle=The+Independent&amp;rft.place=London&amp;rft.pub=Independent+Print+Limited&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Mulvey-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mulvey_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mulvey_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Mulvey, John. <a rel="nofollow" class="external text" href="http://www.nme.com/reviews/outkast/7171">"Album Reviews - Outkast&#160;: Speakerboxxx/The Love Below"</a>. <i><a href="/wiki/NME" title="NME">NME</a></i>. Retrieved on November 26, 2009.</span></li>
+<li id="cite_note-DiCrescenzo-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-DiCrescenzo_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DiCrescenzo_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">DiCrescenzo, Brent (September 22, 2003). <a rel="nofollow" class="external text" href="http://pitchfork.com/reviews/albums/11796-speakerboxxxthe-love-below/">"OutKast: Speakerboxxx/The Love Below"</a>. <a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a>. Retrieved on October 10, 2009.</span></li>
+<li id="cite_note-Hoard-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hoard_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hoard_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Sarig, Roni et al. Brackett &amp; Hoard. "<a rel="nofollow" class="external text" href="http://books.google.com/books?id=lRgtYCC6OUwC&amp;pg=PA610&amp;dq=">OutKast</a>". <i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The Rolling Stone Album Guide</a></i>: 610–611. November 2, 2004.</span></li>
+<li id="cite_note-Cinquemani-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cinquemani_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cinquemani_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Cinquemani, Sal (September 19, 2003). <a rel="nofollow" class="external text" href="http://www.slantmagazine.com/music/review/outkast-speakerboxxx-the-love-below">"OutKast: Speakerboxxx/The Love Below"</a>. <a href="/wiki/Slant_Magazine" title="Slant Magazine">Slant Magazine</a>. Retrieved on July 6, 2010.</span></li>
+<li id="cite_note-Metacritic-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Metacritic_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Metacritic_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/speakerboxxxthe-love-below"><i>Speakerboxxx/The Love Below</i> (2003): Reviews</a>. <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>. Retrieved on July 9, 2009.</span></li>
+<li id="cite_note-Ex-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ex_19-0">^</a></b></span> <span class="reference-text">Ex, Kris (September 21, 2003). <a rel="nofollow" class="external text" href="http://articles.latimes.com/2003/sep/21/entertainment/ca-ex21">"Ride in the whirlwind"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. Retrieved on July 6, 2010.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Ex, Kris (November 2003). <a rel="nofollow" class="external text" href="http://www.blender.com/guide/new/51453/speakerboxxxthe-love-below.html">"OutKast: Speakerboxxx/The Love Below"</a>. <i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i>: 118. Retrieved on July 6, 2010.<sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since May 2012">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-Tate-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tate_21-0">^</a></b></span> <span class="reference-text">Tate, Greg. <a rel="nofollow" class="external text" href="http://www.villagevoice.com/2003-09-30/music/love-and-crunk/1">Review: <i>Speakerboxxx/The Love Below</i></a>. <i>The Village Voice</i>. Retrieved on October 10, 2009.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/bk-cg90/grades-90s.php">CG Grades 1990–&#160;: Key to Icons</a>. Robert Christgau. Retrieved on February 15, 2010.</span></li>
+<li id="cite_note-Caramanica-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Caramanica_23-0">^</a></b></span> <span class="reference-text"><span class="citation web">Caramanica, Jon (September 24, 2003). <a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/albumreviews/speakerboxxx-the-love-below-20030924">"Speakerboxxx/The Love Below"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20071104110619/http://www.rollingstone.com/artists/outkast/albums/album/290754/review/6068251/speakerboxxxthe_love_below">Archived</a> from the original on November 4, 2007<span class="reference-accessdate">. Retrieved May 16, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.au=Caramanica%2C+Jon&amp;rft.aufirst=Jon&amp;rft.aulast=Caramanica&amp;rft.btitle=Speakerboxxx%2FThe+Love+Below&amp;rft.date=September+24%2C+2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Falbumreviews%2Fspeakerboxxx-the-love-below-20030924&amp;rft.pub=%27%27Rolling+Stone%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Fuchs-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fuchs_24-0">^</a></b></span> <span class="reference-text">Fuchs, Cynthia (October 17, 2003). <a rel="nofollow" class="external text" href="http://www.popmatters.com/pm/review/outkast-speakerboxxx/">"OutKast: Speakerboxxx/The Love Below"</a>. <a href="/wiki/PopMatters" title="PopMatters">PopMatters</a>. Retrieved on October 10, 2009.</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2012/12/25-rap-albums-from-the-past-decade-that-deserve-classic-status/outkast-speakerboxxx-the-love-below">"OutKast, Speakerboxxx/The Love Below (2003) — 25 Rap Albums From the Past Decade That Deserve Classic Status"</a>. Complex<span class="reference-accessdate">. Retrieved December 8, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.btitle=OutKast%2C+Speakerboxxx%2FThe+Love+Below+%282003%29+%26mdash%3B+25+Rap+Albums+From+the+Past+Decade+That+Deserve+Classic+Status&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2012%2F12%2F25-rap-albums-from-the-past-decade-that-deserve-classic-status%2Foutkast-speakerboxxx-the-love-below&amp;rft.pub=Complex&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nme.com/photos/the-500-greatest-albums-of-all-time-200-101/324534/1/1#18">Z publisher - NME "OutKast, Speakerboxxx/The Love Below (2003) — The 500 Greatest Albums Of All Time: 200-101"</a><span class="reference-accessdate">. Retrieved February 8, 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.btitle=OutKast%2C+Speakerboxxx%2FThe+Love+Below+%282003%29+%26mdash%3B+The+500+Greatest+Albums+Of+All+Time%3A+200-101&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nme.com%2Fphotos%2Fthe-500-greatest-albums-of-all-time-200-101%2F324534%2F1%2F1%2318+Z+publisher+-+NME&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.com/Speakerboxxx-The-Love-Below-Explicit/dp/B001414XS4/">"Speakerboxxx/The Love Below [Explicit]: OutKast: MP3 Downloads"</a>. Amazon.com<span class="reference-accessdate">. Retrieved July 28, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.btitle=Speakerboxxx%2FThe+Love+Below+%5BExplicit%26%2393%3B%3A+OutKast%3A+MP3+Downloads&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2FSpeakerboxxx-The-Love-Below-Explicit%2Fdp%2FB001414XS4%2F&amp;rft.pub=Amazon.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-SwissCharts_Outkast-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-SwissCharts_Outkast_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SwissCharts_Outkast_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-SwissCharts_Outkast_28-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-SwissCharts_Outkast_28-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-SwissCharts_Outkast_28-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-SwissCharts_Outkast_28-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-SwissCharts_Outkast_28-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-SwissCharts_Outkast_28-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-SwissCharts_Outkast_28-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-SwissCharts_Outkast_28-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-SwissCharts_Outkast_28-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-SwissCharts_Outkast_28-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Steffen Hung. <a rel="nofollow" class="external text" href="http://swisscharts.com/showitem.asp?interpret=Outkast&amp;titel=Speakerboxxx+%2F+The+Love+Below&amp;cat=a">"Outkast&#160;– Speakerboxxx / The Love Below"</a>. swisscharts.com<span class="reference-accessdate">. Retrieved August 19, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.aulast=Steffen+Hung&amp;rft.au=Steffen+Hung&amp;rft.btitle=Outkast%26nbsp%3B%E2%80%93+Speakerboxxx+%2F+The+Love+Below&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fswisscharts.com%2Fshowitem.asp%3Finterpret%3DOutkast%26titel%3DSpeakerboxxx%2B%252F%2BThe%2BLove%2BBelow%26cat%3Da&amp;rft.pub=swisscharts.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Billboard_Charts-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-Billboard_Charts_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Billboard_Charts_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/artist/321442/outkast/chart">http://www.billboard.com/artist/321442/outkast/chart</a></span></li>
+<li id="cite_note-ACharts_Outkast-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-ACharts_Outkast_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ACharts_Outkast_30-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ACharts_Outkast_30-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ACharts_Outkast_30-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ACharts_Outkast_30-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://acharts.us/album/13051">"Outkast&#160;– Speakerboxxx / The Love Below&#160;– Music Charts"</a>. Acharts.us<span class="reference-accessdate">. Retrieved August 19, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.btitle=Outkast%26nbsp%3B%E2%80%93+Speakerboxxx+%2F+The+Love+Below%26nbsp%3B%E2%80%93+Music+Charts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Facharts.us%2Falbum%2F13051&amp;rft.pub=Acharts.us&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ifpi.org/content/library/international-award-levels.pdf">http://www.ifpi.org/content/library/international-award-levels.pdf</a></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.aria.com.au/pages/aria-charts-accreditations-albums-2004.htm">"ARIA Charts&#160;– Accreditations&#160;– 2004 Albums"</a>. Aria.com.au<span class="reference-accessdate">. Retrieved August 20, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.btitle=ARIA+Charts%26nbsp%3B%E2%80%93+Accreditations%26nbsp%3B%E2%80%93+2004+Albums&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.aria.com.au%2Fpages%2Faria-charts-accreditations-albums-2004.htm&amp;rft.pub=Aria.com.au&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.cria.ca/gold/0903_g.php">"Gold &amp; Platinum Certification&#160;– September 2003"</a>. <a href="/wiki/Canadian_Recording_Industry_Association" title="Canadian Recording Industry Association" class="mw-redirect">Canadian Recording Industry Association</a><span class="reference-accessdate">. Retrieved August 21, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.btitle=Gold+%26+Platinum+Certification%26nbsp%3B%E2%80%93+September+2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cria.ca%2Fgold%2F0903_g.php&amp;rft.pub=Canadian+Recording+Industry+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ifpi.dk/index.php?pk_menu=50">"IFPI Danmark&#160;– 2004"</a>. Ifpi.dk<span class="reference-accessdate">. Retrieved August 20, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.btitle=IFPI+Danmark%26nbsp%3B%E2%80%93+2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ifpi.dk%2Findex.php%3Fpk_menu%3D50&amp;rft.pub=Ifpi.dk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.musikindustrie.de/gold_platin_datenbank/?action=suche&amp;strTitel=Speakerboxx&amp;strInterpret=&amp;strTtArt=alle&amp;strAwards=checked">"Gold-/Platin-Datenbank ('Speakerboxx')"</a> (in German). <a href="/wiki/Bundesverband_Musikindustrie" title="Bundesverband Musikindustrie">Bundesverband Musikindustrie</a><span class="reference-accessdate">. Retrieved August 20, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.btitle=Gold-%2FPlatin-Datenbank+%28%27Speakerboxx%27%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.musikindustrie.de%2Fgold_platin_datenbank%2F%3Faction%3Dsuche%26strTitel%3DSpeakerboxx%26strInterpret%3D%26strTtArt%3Dalle%26strAwards%3Dchecked&amp;rft.pub=Bundesverband+Musikindustrie&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://mahasz.hu/?menu=arany_es_platinalemezek&amp;menu2=adatbazis&amp;ev=2004">"Adatbázis&#160;– Arany- és platinalemezek&#160;– MAHASZ&#160;– Magyar Hanglemezkiadók Szövetsége"</a>. Mahasz.hu<span class="reference-accessdate">. Retrieved August 20, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.btitle=Adatb%C3%A1zis%26nbsp%3B%E2%80%93+Arany-+%C3%A9s+platinalemezek%26nbsp%3B%E2%80%93+MAHASZ%26nbsp%3B%E2%80%93+Magyar+Hanglemezkiad%C3%B3k+Sz%C3%B6vets%C3%A9ge&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmahasz.hu%2F%3Fmenu%3Darany_es_platinalemezek%26menu2%3Dadatbazis%26ev%3D2004&amp;rft.pub=Mahasz.hu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaj.or.jp/data/others/gold/200406.html">"ゴールド等認定作品一覧　2004年6月"</a>. <i><a href="/wiki/Recording_Industry_Association_of_Japan" title="Recording Industry Association of Japan">RIAJ</a></i> (in Japanese). July 10, 2004<span class="reference-accessdate">. Retrieved November 13, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.atitle=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E7%AD%89%E8%AA%8D%E5%AE%9A%E4%BD%9C%E5%93%81%E4%B8%80%E8%A6%A7%E3%80%802004%E5%B9%B46%E6%9C%88&amp;rft.date=July+10%2C+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.riaj.or.jp%2Fdata%2Fothers%2Fgold%2F200406.html&amp;rft.jtitle=RIAJ&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nvpi.nl/nvpi/pagina.asp?pagkey=61112&amp;documentid=1783841&amp;zoekform=60463&amp;formposted=yes">"NVPI, de branchevereniging van de entertainmentindustrie&#160;– Goud/Platina"</a>. Nvpi.nl<span class="reference-accessdate">. Retrieved August 20, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.btitle=NVPI%2C+de+branchevereniging+van+de+entertainmentindustrie%26nbsp%3B%E2%80%93+Goud%2FPlatina&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nvpi.nl%2Fnvpi%2Fpagina.asp%3Fpagkey%3D61112%26documentid%3D1783841%26zoekform%3D60463%26formposted%3Dyes&amp;rft.pub=Nvpi.nl&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ifpi.no/sok/index_trofe.htm">"IFPI Norsk platebransje"</a>. Ifpi.no<span class="reference-accessdate">. Retrieved August 20, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.btitle=IFPI+Norsk+platebransje&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ifpi.no%2Fsok%2Findex_trofe.htm&amp;rft.pub=Ifpi.no&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><span class="citation web">Steffen Hung. <a rel="nofollow" class="external text" href="http://swisscharts.com/awards.asp?year=2004">"The Official Swiss Charts and Music Community"</a>. Swisscharts.com<span class="reference-accessdate">. Retrieved August 20, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.aulast=Steffen+Hung&amp;rft.au=Steffen+Hung&amp;rft.btitle=The+Official+Swiss+Charts+and+Music+Community&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fswisscharts.com%2Fawards.asp%3Fyear%3D2004&amp;rft.pub=Swisscharts.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.bpi.co.uk/certifiedawards/search.aspx">http://www.bpi.co.uk/certifiedawards/search.aspx</a></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=tblDiamond&amp;action=">"Gold &amp; Platinum&#160;– August 20, 2010"</a>. RIAA<span class="reference-accessdate">. Retrieved August 20, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.btitle=Gold+%26+Platinum%26nbsp%3B%E2%80%93+August+20%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Fresultpage%3D1%26table%3DtblDiamond%26action%3D&amp;rft.pub=RIAA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.answers.com/topic/ghettomusick-prototype-1">"Ghetto Musick / Prototype: Information from"</a>. Answers.com. May 24, 2010<span class="reference-accessdate">. Retrieved August 19, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeakerboxxx%2FThe+Love+Below&amp;rft.btitle=Ghetto+Musick+%2F+Prototype%3A+Information+from&amp;rft.date=May+24%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.answers.com%2Ftopic%2Fghettomusick-prototype-1&amp;rft.pub=Answers.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/OutKast-Speakerboxxx-The-Love-Below/master/26106">Speakerboxxx/The Love Below</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><i><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/speakerboxxxthe-love-below">Speakerboxxx/The Love Below</a></i> at <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a></li>
+<li><a rel="nofollow" class="external text" href="http://acharts.us/album/13051">International chart positions</a> at acharts.us</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Outkast" title="Template:Outkast"><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Outkast" title="Template talk:Outkast"><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Outkast&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><a href="/wiki/Outkast" title="Outkast">OutKast</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><a href="/wiki/Andr%C3%A9_3000" title="André 3000">André 3000</a></b></li>
+<li><b><a href="/wiki/Big_Boi" title="Big Boi">Big Boi</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Southernplayalisticadillacmuzik" title="Southernplayalisticadillacmuzik">Southernplayalisticadillacmuzik</a></i> (1994)</li>
+<li><i><a href="/wiki/ATLiens" title="ATLiens">ATLiens</a></i> (1996)</li>
+<li><i><a href="/wiki/Aquemini" title="Aquemini">Aquemini</a></i> (1998)</li>
+<li><i><a href="/wiki/Stankonia" title="Stankonia">Stankonia</a></i> (2000)</li>
+<li><i><strong class="selflink">Speakerboxxx/The Love Below</strong></i> (2003)</li>
+<li><i><a href="/wiki/Idlewild_(Outkast_album)" title="Idlewild (Outkast album)">Idlewild</a></i> (2006)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Big_Boi_and_Dre_Present..._OutKast" title="Big Boi and Dre Present... OutKast" class="mw-redirect">Big Boi and Dre Present... OutKast</a></i> (2001)</li>
+<li><i><a href="/wiki/Sir_Lucious_Left_Foot:_The_Son_of_Chico_Dusty" title="Sir Lucious Left Foot: The Son of Chico Dusty">Sir Lucious Left Foot: The Son of Chico Dusty</a></i> (2010)</li>
+<li><i><a href="/wiki/Vicious_Lies_and_Dangerous_Rumors" title="Vicious Lies and Dangerous Rumors">Vicious Lies and Dangerous Rumors</a></i> (2012)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Player%27s_Ball" title="Player's Ball">Player's Ball</a>"</li>
+<li>"<a href="/wiki/Southernplayalisticadillacmuzik_(song)" title="Southernplayalisticadillacmuzik (song)">Southernplayalisticadillacmuzik</a>"</li>
+<li>"<a href="/wiki/Git_Up,_Git_Out" title="Git Up, Git Out">Git Up, Git Out</a>"</li>
+<li>"<a href="/wiki/Elevators_(Me_%26_You)" title="Elevators (Me &amp; You)">Elevators (Me &amp; You)</a>"</li>
+<li>"<a href="/wiki/ATLiens_(song)" title="ATLiens (song)">ATLiens</a>"</li>
+<li>"<a href="/wiki/Jazzy_Belle" title="Jazzy Belle">Jazzy Belle</a>"</li>
+<li>"<a href="/wiki/Rosa_Parks_(song)" title="Rosa Parks (song)">Rosa Parks</a>"</li>
+<li>"<a href="/wiki/Skew_It_on_the_Bar-B" title="Skew It on the Bar-B">Skew It on the Bar-B</a>"</li>
+<li>"<a href="/wiki/Da_Art_of_Storytellin%27_(Pt._1)" title="Da Art of Storytellin' (Pt. 1)">Da Art of Storytellin' (Pt. 1)</a>"</li>
+<li>"<a href="/wiki/B.O.B_(song)" title="B.O.B (song)">B.O.B</a>"</li>
+<li>"<a href="/wiki/Ms._Jackson" title="Ms. Jackson">Ms. Jackson</a>"</li>
+<li>"<a href="/wiki/So_Fresh,_So_Clean" title="So Fresh, So Clean">So Fresh, So Clean</a>"</li>
+<li>"<a href="/wiki/The_Whole_World" title="The Whole World">The Whole World</a>"</li>
+<li>"<a href="/wiki/Land_of_a_Million_Drums" title="Land of a Million Drums">Land of a Million Drums</a>"</li>
+<li>"<a href="/wiki/Hey_Ya!" title="Hey Ya!">Hey Ya!</a>"</li>
+<li>"<a href="/wiki/The_Way_You_Move" title="The Way You Move">The Way You Move</a>"</li>
+<li>"<a href="/wiki/Roses_(Outkast_song)" title="Roses (Outkast song)">Roses</a>"</li>
+<li>"<a href="/wiki/Ghetto_Musick_/_Prototype" title="Ghetto Musick / Prototype">Ghetto Musick / Prototype</a>"</li>
+<li>"<a href="/wiki/Mighty_O" title="Mighty O">Mighty O</a>"</li>
+<li>"<a href="/wiki/Morris_Brown_(song)" title="Morris Brown (song)">Morris Brown</a>"</li>
+<li>"<a href="/wiki/Idlewild_Blue_(Don%27tchu_Worry_%27Bout_Me)" title="Idlewild Blue (Don'tchu Worry 'Bout Me)">Idlewild Blue (Don'tchu Worry 'Bout Me)</a>"</li>
+<li>"<a href="/wiki/Hollywood_Divorce" title="Hollywood Divorce">Hollywood Divorce</a>"</li>
+<li>"<a href="/wiki/The_Train_(song)" title="The Train (song)">The Train</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Gone_Be_Fine" title="Gone Be Fine">Gone Be Fine</a>"</li>
+<li>"<a href="/wiki/International_Players_Anthem_(I_Choose_You)" title="International Players Anthem (I Choose You)">International Players Anthem (I Choose You)</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Outkast_discography" title="Outkast discography">Discography</a></li>
+<li><a href="/wiki/Organized_Noize" title="Organized Noize">Organized Noize</a></li>
+<li><a href="/wiki/Dungeon_Family" title="Dungeon Family">Dungeon Family</a></li>
+<li><a href="/wiki/Mr._DJ" title="Mr. DJ">Mr. DJ</a></li>
+<li><a href="/wiki/The_Skinny_(album)" title="The Skinny (album)" class="mw-redirect">The Skinny</a></li>
+<li><a href="/wiki/Idlewild_(film)" title="Idlewild (film)">Idlewild</a></li>
+<li><a href="/wiki/Bryan_Barber" title="Bryan Barber">Bryan Barber</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#cedff2;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Grammy_Award_for_Album_of_the_Year_2000s" title="Template:Grammy Award for Album of the Year 2000s"><span title="View this template" style=";background:#cedff2;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Grammy_Award_for_Album_of_the_Year_2000s" title="Template talk:Grammy Award for Album of the Year 2000s"><span title="Discuss this template" style=";background:#cedff2;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Grammy_Award_for_Album_of_the_Year_2000s&amp;action=edit"><span title="Edit this template" style=";background:#cedff2;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="/wiki/Grammy_Award_for_Album_of_the_Year" title="Grammy Award for Album of the Year">Grammy Award for Album of the Year</a> (2000s)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#cedff2; text-align:center; line-height:1.1em; padding:0.35em 1.0em;;"><a href="/wiki/2000s_in_music" title="2000s in music">Year</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<table style="width:100%; background:#cedff2; margin:0">
+<tr>
+<td width="15%">
+<center><b>Album</b></center>
+</td>
+<td width="45%">
+<center><b>Artist(s)</b></center>
+</td>
+<td width="40%">
+<center><b>Producer(s)*</b></center>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#cedff2; text-align:center; line-height:1.1em; padding:0.35em 1.0em;;"><a href="/wiki/2000_in_music" title="2000 in music">2000</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<table style="width:100%; margin:0">
+<tr>
+<td width="15%"><i><a href="/wiki/Supernatural_(Santana_album)" title="Supernatural (Santana album)">Supernatural</a></i></td>
+<td width="45%"><a href="/wiki/Santana_(band)" title="Santana (band)">Santana</a> (Rodney Holmes, Tony Lindsay, Karl Perazzo, Raul Rekow, Benny Rietveld, <a href="/wiki/Carlos_Santana" title="Carlos Santana">Carlos Santana</a>, <a href="/wiki/Chester_Thompson" title="Chester Thompson">Chester Thompson</a>)</td>
+<td width="40%"><small>engineered/mixed by Alvaro Villagra, Andy Grassi, Anton Pukshansky, Benny Faccone, Chris Theis, Commissioner Gordon, David Frazer, David Thoener, Glenn Kolotkin, Jeff Poe, Jim Gaines, Jim Scott, John Gamble, John Karpowich, John Seymour, Matty Spindel, Mike Couzzi, Steve Farrone, Steve Fontano, T-Ray, <a href="/wiki/Tom_Lord-Alge" title="Tom Lord-Alge">Tom Lord-Alge</a>, Tony Prendatt &amp; Warren Riker; produced by Alex Gonzales, Art Hodge, Charles Goodan, <a href="/wiki/Clive_Davis" title="Clive Davis">Clive Davis</a>, Dante Ross, <a href="/wiki/Dust_Brothers" title="Dust Brothers">Dust Brothers</a>, Fher Olvera, <a href="/wiki/Jerry_Duplessis" title="Jerry Duplessis">Jerry 'Wonder' Duplessis</a>, <a href="/wiki/K._C._Porter" title="K. C. Porter">K. C. Porter</a>, <a href="/wiki/Lauryn_Hill" title="Lauryn Hill">Lauryn Hill</a>, <a href="/wiki/Matt_Serletic" title="Matt Serletic">Matt Serletic</a>, Stephen M. Harris &amp; <a href="/wiki/Wyclef_Jean" title="Wyclef Jean">Wyclef Jean</a></small></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#cedff2; text-align:center; line-height:1.1em; padding:0.35em 1.0em;;"><a href="/wiki/2001_in_music" title="2001 in music">2001</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<table style="width:100%; margin:0">
+<tr>
+<td width="15%"><i><a href="/wiki/Two_Against_Nature" title="Two Against Nature">Two Against Nature</a></i></td>
+<td width="45%"><a href="/wiki/Steely_Dan" title="Steely Dan">Steely Dan</a> (<a href="/wiki/Walter_Becker" title="Walter Becker">Walter Becker</a>, <a href="/wiki/Donald_Fagen" title="Donald Fagen">Donald Fagen</a>)</td>
+<td width="40%"><small>engineered/mixed by Dave Russell, <a href="/wiki/Elliot_Scheiner" title="Elliot Scheiner">Elliot Scheiner</a>, Phil Burnett &amp; <a href="/wiki/Roger_Nichols_(recording_engineer)" title="Roger Nichols (recording engineer)">Roger Nichols</a>; produced by <a href="/wiki/Donald_Fagen" title="Donald Fagen">Donald Fagen</a> &amp; <a href="/wiki/Walter_Becker" title="Walter Becker">Walter Becker</a></small></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#cedff2; text-align:center; line-height:1.1em; padding:0.35em 1.0em;;"><a href="/wiki/2002_in_music" title="2002 in music">2002</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<table style="width:100%; margin:0">
+<tr>
+<td width="15%"><i><a href="/wiki/O_Brother,_Where_Art_Thou%3F_(soundtrack)" title="O Brother, Where Art Thou? (soundtrack)">O Brother,<br />
+Where Art Thou?<br />
+Soundtrack</a></i></td>
+<td width="45%"><a href="/wiki/Alison_Krauss" title="Alison Krauss">Alison Krauss</a> &amp; Union Station (<a href="/wiki/Barry_Bales" title="Barry Bales">Barry Bales</a>, <a href="/wiki/Ron_Block" title="Ron Block">Ron Block</a>, <a href="/wiki/Jerry_Douglas" title="Jerry Douglas">Jerry Douglas</a>, Alison Krauss, <a href="/wiki/Dan_Tyminski" title="Dan Tyminski">Dan Tyminski</a>), <a href="/wiki/Chris_Sharp" title="Chris Sharp">Chris Sharp</a>, <a href="/wiki/Chris_Thomas_King" title="Chris Thomas King">Chris Thomas King</a>, <a href="/wiki/Emmylou_Harris" title="Emmylou Harris">Emmylou Harris</a>, <a href="/wiki/Gillian_Welch" title="Gillian Welch">Gillian Welch</a>, <a href="/wiki/Harley_Allen" title="Harley Allen">Harley Allen</a>, <a href="/wiki/John_Hartford" title="John Hartford">John Hartford</a>, Mike Compton, <a href="/wiki/Norman_Blake_(American_musician)" title="Norman Blake (American musician)">Norman Blake</a>, Pat Enright, Peasall Sisters (Hannah Peasall, Leah Peasall, Sarah Peasall), <a href="/wiki/Ralph_Stanley" title="Ralph Stanley">Ralph Stanley</a>, <a href="/wiki/Sam_Bush" title="Sam Bush">Sam Bush</a>, <a href="/wiki/Stuart_Duncan" title="Stuart Duncan">Stuart Duncan</a>, <a href="/wiki/The_Cox_Family" title="The Cox Family">The Cox Family</a> (Evelyn Cox, Sidney Cox, Suzanne Cox, Willard Cox), The Fairfield Four (Nathan Best, Isaac Freeman, Robert Hamlett, James Hill, Joseph Rice, Wilson Waters, Jr.), <a href="/wiki/The_Whites" title="The Whites">The Whites</a> (Buck White, Cheryl White, Sharon White) &amp; <a href="/wiki/Tim_Blake_Nelson" title="Tim Blake Nelson">Tim Blake Nelson</a></td>
+<td width="40%"><small>engineered/mixed by Mike Piersante &amp; <a href="/wiki/Peter_Kurland" title="Peter Kurland">Peter Kurland</a>; master engineered by Gavin Lurssen; produced by <a href="/wiki/T_Bone_Burnett" title="T Bone Burnett">T Bone Burnett</a></small></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#cedff2; text-align:center; line-height:1.1em; padding:0.35em 1.0em;;"><a href="/wiki/2003_in_music" title="2003 in music">2003</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<table style="width:100%; margin:0">
+<tr>
+<td width="15%"><i><a href="/wiki/Come_Away_with_Me" title="Come Away with Me">Come Away with Me</a></i></td>
+<td width="45%"><a href="/wiki/Norah_Jones" title="Norah Jones">Norah Jones</a></td>
+<td width="40%"><small>engineered/mixed by Jay Newland &amp; <a href="/wiki/S._Husky_H%C3%B6skulds" title="S. Husky Höskulds">S. Husky Höskulds</a>; master engineered by Ted Jensen; produced by <a href="/wiki/Arif_Mardin" title="Arif Mardin">Arif Mardin</a>, <a href="/wiki/Craig_Street" title="Craig Street">Craig Street</a>, Jay Newland &amp; <a href="/wiki/Norah_Jones" title="Norah Jones">Norah Jones</a></small></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#cedff2; text-align:center; line-height:1.1em; padding:0.35em 1.0em;;"><a href="/wiki/2004_in_music" title="2004 in music">2004</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<table style="width:100%; margin:0">
+<tr>
+<td width="15%"><i><strong class="selflink">Speakerboxxx/<br />
+The Love Below</strong></i></td>
+<td width="45%"><a href="/wiki/OutKast" title="OutKast" class="mw-redirect">OutKast</a> (<a href="/wiki/Andr%C3%A9_3000" title="André 3000">André 3000</a>, <a href="/wiki/Big_Boi" title="Big Boi">Big Boi</a>)</td>
+<td width="40%"><small>engineered/mixed by Brian Paturalski, <a href="/wiki/Chris_Carmouche" title="Chris Carmouche">Chris Carmouche</a>, Darrell Thorp, Dexter Simmons, John Frye, Kevin Davis, Matt Still, Moka Nagatani, Neal H. Pogue, Padraic Kernin, Pete Novak, Reggie Dozier, Robert Hannon, Terrence Cash &amp; Vincent Alexander; master engineered by <a href="/wiki/Bernie_Grundman" title="Bernie Grundman">Bernie Grundman</a> &amp; <a href="/wiki/Brian_Gardner" title="Brian Gardner">Brian Gardner</a>; produced by <a href="/wiki/Andr%C3%A9_3000" title="André 3000">André 3000</a>, <a href="/wiki/Big_Boi" title="Big Boi">Big Boi</a> &amp; Carl Mo</small></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#cedff2; text-align:center; line-height:1.1em; padding:0.35em 1.0em;;"><a href="/wiki/2005_in_music" title="2005 in music">2005</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<table style="width:100%; margin:0">
+<tr>
+<td width="15%"><i><a href="/wiki/Genius_Loves_Company" title="Genius Loves Company">Genius Loves Company</a></i></td>
+<td width="45%"><a href="/wiki/Ray_Charles" title="Ray Charles">Ray Charles</a> and various artists</td>
+<td width="40%"><small>engineered/mixed by <a href="/wiki/Al_Schmitt" title="Al Schmitt">Al Schmitt</a>, Ed Thacker, Joel W. Moss, John Harris, Mark Fleming, Pete Karam, Robert Fernandez, Seth Presant &amp; Terry Howard; master engineered by Doug Sax &amp; Robert Hadley; produced by Don Mizell, Herbert Waltl, John R. Burk, <a href="/wiki/Phil_Ramone" title="Phil Ramone">Phil Ramone</a> &amp; Terry Howard</small></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#cedff2; text-align:center; line-height:1.1em; padding:0.35em 1.0em;;"><a href="/wiki/2006_in_music" title="2006 in music">2006</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<table style="width:100%; margin:0">
+<tr>
+<td width="15%"><i><a href="/wiki/How_to_Dismantle_an_Atomic_Bomb" title="How to Dismantle an Atomic Bomb">How to Dismantle<br />
+an Atomic Bomb</a></i></td>
+<td width="45%"><a href="/wiki/U2" title="U2">U2</a> (<a href="/wiki/Bono" title="Bono">Bono</a>, <a href="/wiki/Adam_Clayton" title="Adam Clayton">Adam Clayton</a>, <a href="/wiki/The_Edge" title="The Edge">The Edge</a>, <a href="/wiki/Larry_Mullen,_Jr." title="Larry Mullen, Jr.">Larry Mullen, Jr.</a>)</td>
+<td width="40%"><small>engineered/mixed by Carl Glanville, <a href="/wiki/Flood_(producer)" title="Flood (producer)">Flood</a>, Greg Collins, <a href="/wiki/Jacknife_Lee" title="Jacknife Lee">Jacknife Lee</a>, <a href="/wiki/Nellee_Hooper" title="Nellee Hooper">Nellee Hooper</a>, Simon Gogerly &amp; <a href="/wiki/Steve_Lillywhite" title="Steve Lillywhite">Steve Lillywhite</a>; master engineered by Arnie Acosta; produced by <a href="/wiki/Brian_Eno" title="Brian Eno">Brian Eno</a>, <a href="/wiki/Chris_Thomas_(record_producer)" title="Chris Thomas (record producer)">Chris Thomas</a>, <a href="/wiki/Daniel_Lanois" title="Daniel Lanois">Daniel Lanois</a>, <a href="/wiki/Flood_(producer)" title="Flood (producer)">Flood</a>, <a href="/wiki/Jacknife_Lee" title="Jacknife Lee">Jacknife Lee</a> &amp; <a href="/wiki/Steve_Lillywhite" title="Steve Lillywhite">Steve Lillywhite</a></small></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#cedff2; text-align:center; line-height:1.1em; padding:0.35em 1.0em;;"><a href="/wiki/2007_in_music" title="2007 in music">2007</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<table style="width:100%; margin:0">
+<tr>
+<td width="15%"><i><a href="/wiki/Taking_the_Long_Way" title="Taking the Long Way">Taking the Long Way</a></i></td>
+<td width="45%"><a href="/wiki/Dixie_Chicks" title="Dixie Chicks">Dixie Chicks</a> (<a href="/wiki/Martie_Maguire" title="Martie Maguire">Martie Maguire</a>, <a href="/wiki/Natalie_Maines" title="Natalie Maines">Natalie Maines</a>, <a href="/wiki/Emily_Robison" title="Emily Robison">Emily Robison</a>)</td>
+<td width="40%"><small>engineered/mixed by Chris Testa, Jim Scott &amp; <a href="/wiki/Richard_Dodd" title="Richard Dodd">Richard Dodd</a>; master engineered by Richard Dodd; produced by <a href="/wiki/Rick_Rubin" title="Rick Rubin">Rick Rubin</a></small></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#cedff2; text-align:center; line-height:1.1em; padding:0.35em 1.0em;;"><a href="/wiki/2008_in_music" title="2008 in music">2008</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<table style="width:100%; margin:0">
+<tr>
+<td width="15%"><i><a href="/wiki/River:_The_Joni_Letters" title="River: The Joni Letters">River: The Joni Letters</a></i></td>
+<td width="45%"><a href="/wiki/Herbie_Hancock" title="Herbie Hancock">Herbie Hancock</a></td>
+<td width="40%"><small>featuring <a href="/wiki/Norah_Jones" title="Norah Jones">Norah Jones</a>, <a href="/wiki/Joni_Mitchell" title="Joni Mitchell">Joni Mitchell</a>, <a href="/wiki/Corinne_Bailey_Rae" title="Corinne Bailey Rae">Corinne Bailey Rae</a>, <a href="/wiki/Tina_Turner" title="Tina Turner">Tina Turner</a>; produced by <a href="/wiki/Herbie_Hancock" title="Herbie Hancock">Herbie Hancock</a> &amp; <a href="/wiki/Larry_Klein" title="Larry Klein">Larry Klein</a>; engineered/mixed by Helik Hadar; master engeineered by <a href="/wiki/Bernie_Grundman" title="Bernie Grundman">Bernie Grundman</a></small></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#cedff2; text-align:center; line-height:1.1em; padding:0.35em 1.0em;;"><a href="/wiki/2009_in_music" title="2009 in music">2009</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<table style="width:100%; margin:0">
+<tr>
+<td width="15%"><i><a href="/wiki/Raising_Sand" title="Raising Sand">Raising Sand</a></i></td>
+<td width="45%"><a href="/wiki/Robert_Plant" title="Robert Plant">Robert Plant</a> &amp; <a href="/wiki/Alison_Krauss" title="Alison Krauss">Alison Krauss</a></td>
+<td width="40%"><small>produced by <a href="/wiki/T_Bone_Burnett" title="T Bone Burnett">T Bone Burnett</a>; engineered/mixed by <a href="/wiki/Mike_Piersante" title="Mike Piersante">Mike Piersante</a>; master engineered by <a href="/wiki/Gavin_Lurssen" title="Gavin Lurssen">Gavin Lurssen</a></small></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; border-top: 1px solid #cedff2;;">
+<div>
+<div class="hlist" style="font-size:smaller">
+<ul>
+<li><a href="/wiki/Template:Grammy_Award_for_Album_of_the_Year" title="Template:Grammy Award for Album of the Year">Complete list</a></li>
+<li>(<a href="/wiki/Template:Grammy_Award_for_Album_of_the_Year_1960s" title="Template:Grammy Award for Album of the Year 1960s">1960s</a>)</li>
+<li>(<a href="/wiki/Template:Grammy_Award_for_Album_of_the_Year_1970s" title="Template:Grammy Award for Album of the Year 1970s">1970s</a>)</li>
+<li>(<a href="/wiki/Template:Grammy_Award_for_Album_of_the_Year_1980s" title="Template:Grammy Award for Album of the Year 1980s">1980s</a>)</li>
+<li>(<a href="/wiki/Template:Grammy_Award_for_Album_of_the_Year_1990s" title="Template:Grammy Award for Album of the Year 1990s">1990s</a>)</li>
+<li>(<a href="/wiki/Template:Grammy_Award_for_Album_of_the_Year_2000s" title="Template:Grammy Award for Album of the Year 2000s">2000s</a>)</li>
+<li>(<a href="/wiki/Template:Grammy_Award_for_Album_of_the_Year_2010s" title="Template:Grammy Award for Album of the Year 2010s">2010s</a>)</li>
+</ul>
+</div>
+*Engineers/Mixers hidden unless <a href="/wiki/Wikipedia:N" title="Wikipedia:N" class="mw-redirect">notable</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1129
+CPU time usage: 3.888 seconds
+Real time usage: 4.070 seconds
+Preprocessor visited node count: 11952/1000000
+Preprocessor generated node count: 78459/1500000
+Post‐expand include size: 178128/2048000 bytes
+Template argument size: 20715/2048000 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 7/500
+Lua time usage: 0.204/10.000 seconds
+Lua memory usage: 3.26 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:504875-0!*!0!!en!4!* and timestamp 20140531191746 and revision id 610968014
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Speakerboxxx/The_Love_Below&amp;oldid=610968014">http://en.wikipedia.org/w/index.php?title=Speakerboxxx/The_Love_Below&amp;oldid=610968014</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Outkast_albums" title="Category:Outkast albums">Outkast albums</a></li><li><a href="/wiki/Category:2003_albums" title="Category:2003 albums">2003 albums</a></li><li><a href="/wiki/Category:Grammy_Award_winners_for_Album_of_the_Year" title="Category:Grammy Award winners for Album of the Year">Grammy Award winners for Album of the Year</a></li><li><a href="/wiki/Category:LaFace_Records_albums" title="Category:LaFace Records albums">LaFace Records albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Andr%C3%A9_3000" title="Category:Albums produced by André 3000">Albums produced by André 3000</a></li><li><a href="/wiki/Category:Recording_Industry_Association_of_America_Diamond_Award_albums" title="Category:Recording Industry Association of America Diamond Award albums">Recording Industry Association of America Diamond Award albums</a></li><li><a href="/wiki/Category:Albums_certified_gold_by_the_Recording_Industry_Association_of_Japan" title="Category:Albums certified gold by the Recording Industry Association of Japan">Albums certified gold by the Recording Industry Association of Japan</a></li><li><a href="/wiki/Category:Grammy_Award_for_Best_Rap_Album" title="Category:Grammy Award for Best Rap Album">Grammy Award for Best Rap Album</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_August_2010" title="Category:Articles with dead external links from August 2010">Articles with dead external links from August 2010</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_May_2012" title="Category:Articles with dead external links from May 2012">Articles with dead external links from May 2012</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_April_2014" title="Category:Use mdy dates from April 2014">Use mdy dates from April 2014</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Speakerboxxx%2FThe+Love+Below&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Speakerboxxx%2FThe+Love+Below" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Speakerboxxx/The_Love_Below"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Speakerboxxx/The_Love_Below"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Speakerboxxx/The_Love_Below" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Speakerboxxx/The_Love_Below" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Speakerboxxx/The_Love_Below" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;oldid=610968014" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q603672" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Speakerboxxx%2FThe_Love_Below&amp;id=610968014" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Speakerboxxx%2FThe+Love+Below">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Speakerboxxx%2FThe+Love+Below&amp;oldid=610968014&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Speakerboxxx/The_Love_Below&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q603672#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 May 2014 at 19:17.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Speakerboxxx/The_Love_Below" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":203,"wgHostname":"mw1214"});
+}</script>
+	</body>
+</html>
+	

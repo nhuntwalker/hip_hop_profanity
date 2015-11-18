@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Gangsta's Paradise - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Gangsta%27s_Paradise" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Gangsta%27s_Paradise&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Gangsta%27s_Paradise&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Gangsta%27s_Paradise" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gangsta's_Paradise","wgTitle":"Gangsta's Paradise","wgCurRevisionId":609643968,"wgRevisionId":609643968,"wgArticleId":38448350,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","1995 albums","Coolio albums","Tommy Boy Records albums","Gangsta rap albums","G-funk albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gangsta's_Paradise","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2335845"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Gangsta_s_Paradise skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Gangsta's Paradise</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the album.  For the song, see <a href="/wiki/Gangsta%27s_Paradise_(song)" title="Gangsta's Paradise (song)">Gangsta's Paradise (song)</a>.</div>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Gangsta's Paradise</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Coolio_-_Gangsta%27s_Paradise.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e9/Coolio_-_Gangsta%27s_Paradise.jpg/220px-Coolio_-_Gangsta%27s_Paradise.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/e/e9/Coolio_-_Gangsta%27s_Paradise.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/e/e9/Coolio_-_Gangsta%27s_Paradise.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Coolio" title="Coolio">Coolio</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">November 21, 1995</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1994-1995, at Echo Sounds, Los Angeles, California and Studio 56, Hollywood, California</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a>, <a href="/wiki/West_Coast_hip-hop" title="West Coast hip-hop" class="mw-redirect">West Coast hip-hop</a>, <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a>, <a href="/wiki/G-funk" title="G-funk">g-funk</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>64:25</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Tommy_Boy_Records" title="Tommy Boy Records">Tommy Boy</a>, <a href="/wiki/Warner_Bros._Records" title="Warner Bros. Records">Warner Bros.</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Coolio" title="Coolio">Coolio</a>, Christopher Hamabe,<br />
+Devon Davis, Doug Rasheed,<br />
+Bryan "The Wino" Dobbs</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Coolio" title="Coolio">Coolio</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/It_Takes_a_Thief_(album)" title="It Takes a Thief (album)">It Takes a Thief</a></i><br />
+(1994)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Gangsta's Paradise</b></i><br />
+(1995)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/My_Soul_(Coolio_album)" title="My Soul (Coolio album)">My Soul</a></i><br />
+(1997)</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><i><b>Gangsta's Paradise</b></i> is the second studio album by rapper <a href="/wiki/Coolio" title="Coolio">Coolio</a>, released on November 21, 1995. The album is Coolio's best-selling album, with over three million copies sold in the United States.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Album_information"><span class="tocnumber">1</span> <span class="toctext">Album information</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Reception"><span class="tocnumber">2</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Track_listing"><span class="tocnumber">3</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Samples_and_interpolations"><span class="tocnumber">4</span> <span class="toctext">Samples and interpolations</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Charts_and_certifications"><span class="tocnumber">5</span> <span class="toctext">Charts and certifications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Charts"><span class="tocnumber">5.1</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Certifications"><span class="tocnumber">5.2</span> <span class="toctext">Certifications</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Album_information">Album information</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gangsta%27s_Paradise&amp;action=edit&amp;section=1" title="Edit section: Album information">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The album contained three hits: "<a href="/wiki/Gangsta%27s_Paradise_(song)" title="Gangsta's Paradise (song)">Gangsta's Paradise</a>", which reached number 1 on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>; "<a href="/wiki/1,_2,_3,_4_(Sumpin%27_New)" title="1, 2, 3, 4 (Sumpin' New)">1, 2, 3, 4 (Sumpin' New)</a>", which reached number 5, and "Too Hot", which peaked at number 24.</p>
+<p>The album was nominated for a 1997 Grammy for Best Rap Album. The song "Gangsta's Paradise" won a 1996 Grammy Award for Best Rap Solo Performance. "Sumpin' New" was nominated for a 1997 <a href="/wiki/Grammy_Award_for_Best_Rap_Solo_Performance" title="Grammy Award for Best Rap Solo Performance">Grammy Award for Best Rap Solo Performance</a>.</p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gangsta%27s_Paradise&amp;action=edit&amp;section=2" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">A−<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></td>
+<td style="vertical-align:middle">B+<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></td>
+<td style="vertical-align:middle">8/10<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/NME" title="NME">NME</a></td>
+<td style="vertical-align:middle">7/10<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i>Spin</i> gave the album 8 out of 10, and said, "Today's rappers aren't interested in sharing any knowledge with outsiders. Coolio is the great exception... the most stylistically broad mainstream rap album you'll probably hear all year. Even upon first listen, it sounds like a collection of hits."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> ranked the album #4 on EW's Top 10 Albums Of 1995, and said, "The level-headed street philosopher, preaching respect for black women, fatherly responsibility, and safe sex... continuing in the great tradition of Sly Stone and Stevie Wonder... Coolio and his crew make the ghetto seem not just a place of desolation, but of hope."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<p><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> gave the album 4 Mics out of 5, and said, "The crazy braided one brings skilled and insightful lyrics that reach and relate to all levels of the Black experience... sets standards that corny lyrics and catchy loops can't compete with... Few artists can straddle the line between commercial and underground hip-hop."<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p><i>Musician</i> said, "Coolio ties his music to a message that's as deep as the groove."<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p><i>Rap Pages</i> gave the album 7 out of 10, and said, "Maybe because he rapped for a decade with no props, got yanked on record deals... this cool-ass homie from Compton has stayed grounded... Coolio rejoices in the only life he knows."<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p><i><a href="/wiki/NME" title="NME">NME</a></i> gave the album 7 out of 10, and said, "Instead of playing the role of the Uzi-toting big-shot, he adopts a more reflective view of urban life in Los Angeles... In doing so, Coolio takes a deliberate step forward from last year's light-hearted debut."<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gangsta%27s_Paradise&amp;action=edit&amp;section=3" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th align="center">#</th>
+<th align="center">Title</th>
+<th align="center">Producer(s)</th>
+<th align="center">Performer (s)</th>
+<th align="center">Length</th>
+</tr>
+<tr>
+<td>1</td>
+<td>"That's How It Is"</td>
+<td>Coolio</td>
+<td>Coolio, Talkbox</td>
+<td>1:00</td>
+</tr>
+<tr>
+<td>2</td>
+<td>"Geto Highlites"</td>
+<td>Christopher Hamabe, Devon Davis</td>
+<td>Coolio, 40 Thevz (backing vocals)</td>
+<td>4:59</td>
+</tr>
+<tr>
+<td>3</td>
+<td>"<a href="/wiki/Gangsta%27s_Paradise_(song)" title="Gangsta's Paradise (song)">Gangsta's Paradise</a>"</td>
+<td>Doug Rasheed</td>
+<td>Coolio, <a href="/wiki/L.V._(singer)" title="L.V. (singer)">L.V.</a>, Trinna Simmons (backing)</td>
+<td>4:00</td>
+</tr>
+<tr>
+<td>4</td>
+<td>"Too Hot"</td>
+<td>Bryan Dobbs</td>
+<td>Coolio, <a href="/wiki/James_%22J.T.%22_Taylor" title="James &quot;J.T.&quot; Taylor">J.T. Taylor</a></td>
+<td>3:40</td>
+</tr>
+<tr>
+<td>5</td>
+<td>"Cruisin'"</td>
+<td>Christopher Hamabe, Devon Davis</td>
+<td>Coolio, Malika, Shaunna D. (backing)</td>
+<td>4:34</td>
+</tr>
+<tr>
+<td>6</td>
+<td>"Exercise Yo Game"</td>
+<td>Jay Williams, Maurice Thompson</td>
+<td>40 Thevz, Coolio, <a href="/wiki/E-40" title="E-40">E-40</a>, <a href="/wiki/Kam_(rapper)" title="Kam (rapper)">Kam</a></td>
+<td>4:49</td>
+</tr>
+<tr>
+<td>7</td>
+<td>"<a href="/wiki/1,_2,_3,_4_(Sumpin%27_New)" title="1, 2, 3, 4 (Sumpin' New)">1, 2, 3, 4 (Sumpin' New)</a>"</td>
+<td>James Carter, Poison Ivey</td>
+<td>Coolio</td>
+<td>3:33</td>
+</tr>
+<tr>
+<td>8</td>
+<td>"Smilin'"</td>
+<td>Dominic Aldridge, James Carter, Reece Carter (co-producer)</td>
+<td>Coolio, Baby G (backing)</td>
+<td>4:07</td>
+</tr>
+<tr>
+<td>9</td>
+<td>"Fucc Coolio"</td>
+<td>Coolio</td>
+<td>Coolio</td>
+<td>0:50</td>
+</tr>
+<tr>
+<td>10</td>
+<td>"Kinda High Kinda Drunk"</td>
+<td>Dominic Aldridge, James Carter, Danny Taylor (co-producer)</td>
+<td>Coolio</td>
+<td>3:44</td>
+</tr>
+<tr>
+<td>11</td>
+<td>"For My Sistas"</td>
+<td>Oji Pierce</td>
+<td>Coolio, Lashann Dendy</td>
+<td>4:26</td>
+</tr>
+<tr>
+<td>12</td>
+<td>"Is This Me?"</td>
+<td>Devon Davis</td>
+<td>Coolio, LV, Rated R</td>
+<td>4:23</td>
+</tr>
+<tr>
+<td>13</td>
+<td>"A Thing Goin' On"</td>
+<td>Oji Pierce</td>
+<td>Coolio, Jeremy Monroe</td>
+<td>4:45</td>
+</tr>
+<tr>
+<td>14</td>
+<td>"Bright As the Sun"</td>
+<td>Oji Pierce</td>
+<td>Coolio, Will Wheaton</td>
+<td>4:47</td>
+</tr>
+<tr>
+<td>15</td>
+<td>"Recoup This"</td>
+<td>Spoon</td>
+<td>Coolio, Capucine Jackson (backing), P.S. (backing)</td>
+<td>1:21</td>
+</tr>
+<tr>
+<td>16</td>
+<td>"The Revolution"</td>
+<td>Bryan Dobbs</td>
+<td>Coolio</td>
+<td>3:48</td>
+</tr>
+<tr>
+<td>17</td>
+<td>"Get Up, Get Down"</td>
+<td>Bryan Dobbs</td>
+<td>Coolio, Malika, Shorty, Leek Ratt, P.S., WC &amp; <a href="/wiki/Ras_Kass" title="Ras Kass">Ras Kass</a></td>
+<td>5:32</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Samples_and_interpolations">Samples and interpolations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gangsta%27s_Paradise&amp;action=edit&amp;section=4" title="Edit section: Samples and interpolations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>"Gangsta's Paradise"is a cover of "Pastime Paradise", performed by <a href="/wiki/Stevie_Wonder" title="Stevie Wonder">Stevie Wonder</a>.</li>
+<li>"Too Hot" contains an interpolation of "Too Hot", originally performed by <a href="/wiki/Kool_%26_The_Gang" title="Kool &amp; The Gang" class="mw-redirect">Kool &amp; The Gang</a>.</li>
+<li>"Cruisin'" contains an interpolation of "Cruisin'", originally performed by <a href="/wiki/Smokey_Robinson_%26_the_Miracles" title="Smokey Robinson &amp; the Miracles" class="mw-redirect">Smokey Robinson &amp; the Miracles</a>.</li>
+<li>"Sumpin' New" contains samples of "Thighs High (Grip Your Hips More)", performed by <a href="/wiki/Tom_Browne_(trumpeter)" title="Tom Browne (trumpeter)">Tom Browne</a>, and "Wikka Wrap", performed by The Evasions.</li>
+<li>"Smilin'" contains an interpolation of "You Caught Me Smiling", originally performed by <a href="/wiki/Sly_%26_The_Family_Stone" title="Sly &amp; The Family Stone" class="mw-redirect">Sly &amp; The Family Stone</a>.</li>
+<li>"Kinda High, Kinda Drunk" contains interpolations of "Saturday Night" and "The Boyz in Da Hood"</li>
+<li>"For My Sistas" contains an interpolation of "Make Me Say It Again Girl", originally performed by <a href="/wiki/The_Isley_Brothers" title="The Isley Brothers">The Isley Brothers</a>.</li>
+<li>"A Thing Goin' On" contains an interpolation of "<a href="/wiki/Me_and_Mrs._Jones" title="Me and Mrs. Jones">Me and Mrs. Jones</a>".</li>
+<li>"The Revolution" contains an interpolation of "Magic Night".</li>
+<li>"Get Up, Get Down" contains an interpolation of "<a href="/wiki/Chameleon_(composition)" title="Chameleon (composition)">Chameleon</a>", originally performed by <a href="/wiki/Herbie_Hancock" title="Herbie Hancock">Herbie Hancock</a>.</li>
+<li>The song "Gangsta's Paradise" is used in the film <i><a href="/wiki/Dangerous_Minds" title="Dangerous Minds">Dangerous Minds</a></i> (1995).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></li>
+<li>The first line of "Gangsta's Paradise" is taken from <a href="/wiki/Psalm_23" title="Psalm 23">Psalm 23</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Charts_and_certifications">Charts and certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gangsta%27s_Paradise&amp;action=edit&amp;section=5" title="Edit section: Charts and certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gangsta%27s_Paradise&amp;action=edit&amp;section=6" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<table class="wikitable sortable">
+<tr>
+<th>Chart (1995–1996)</th>
+<th>Peak<br />
+position</th>
+</tr>
+<tr>
+<td>Australian Albums (<a href="/wiki/ARIA_Charts" title="ARIA Charts">ARIA</a>)<sup id="cite_ref-ac_Australia_Coolio_15-0" class="reference"><a href="#cite_note-ac_Australia_Coolio-15"><span>[</span>15<span>]</span></a></sup></td>
+<td align="center">12</td>
+</tr>
+<tr>
+<td>Austrian Albums (<a href="/wiki/%C3%963_Austria_Top_40" title="Ö3 Austria Top 40">Ö3 Austria</a>)<sup id="cite_ref-ac_Austria_Coolio_16-0" class="reference"><a href="#cite_note-ac_Austria_Coolio-16"><span>[</span>16<span>]</span></a></sup></td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td>Belgian Albums (<a href="/wiki/Ultratop" title="Ultratop">Ultratop</a> Flanders)<sup id="cite_ref-ac_Flanders_Coolio_17-0" class="reference"><a href="#cite_note-ac_Flanders_Coolio-17"><span>[</span>17<span>]</span></a></sup></td>
+<td align="center">28</td>
+</tr>
+<tr>
+<td>Belgian Albums (<a href="/wiki/Ultratop" title="Ultratop">Ultratop</a> Wallonia)<sup id="cite_ref-ac_Wallonia_Coolio_18-0" class="reference"><a href="#cite_note-ac_Wallonia_Coolio-18"><span>[</span>18<span>]</span></a></sup></td>
+<td align="center">14</td>
+</tr>
+<tr>
+<td>Dutch Albums (<a href="/wiki/MegaCharts" title="MegaCharts">MegaCharts</a>)<sup id="cite_ref-ac_Netherlands_Coolio_19-0" class="reference"><a href="#cite_note-ac_Netherlands_Coolio-19"><span>[</span>19<span>]</span></a></sup></td>
+<td align="center">9</td>
+</tr>
+<tr>
+<td>Finnish Albums (<a href="/wiki/The_Official_Finnish_Charts" title="The Official Finnish Charts">Suomen virallinen lista</a>)<sup id="cite_ref-ac_Finland_Coolio_20-0" class="reference"><a href="#cite_note-ac_Finland_Coolio-20"><span>[</span>20<span>]</span></a></sup></td>
+<td align="center">11</td>
+</tr>
+<tr>
+<td>French Albums (<a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">SNEP</a>)<sup id="cite_ref-ac_France_Coolio_21-0" class="reference"><a href="#cite_note-ac_France_Coolio-21"><span>[</span>21<span>]</span></a></sup></td>
+<td align="center">38</td>
+</tr>
+<tr>
+<td>German Albums (<a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control</a>)<sup id="cite_ref-ac_Germany_Coolio_22-0" class="reference"><a href="#cite_note-ac_Germany_Coolio-22"><span>[</span>22<span>]</span></a></sup></td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td>New Zealand Albums (<a href="/wiki/Recorded_Music_NZ" title="Recorded Music NZ">Recorded Music NZ</a>)<sup id="cite_ref-ac_New_Zealand_Coolio_23-0" class="reference"><a href="#cite_note-ac_New_Zealand_Coolio-23"><span>[</span>23<span>]</span></a></sup></td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td>Norwegian Albums (<a href="/wiki/VG-lista" title="VG-lista">VG-lista</a>)<sup id="cite_ref-ac_Norway_Coolio_24-0" class="reference"><a href="#cite_note-ac_Norway_Coolio-24"><span>[</span>24<span>]</span></a></sup></td>
+<td align="center">24</td>
+</tr>
+<tr>
+<td>Swedish Albums (<a href="/wiki/Sverigetopplistan" title="Sverigetopplistan">Sverigetopplistan</a>)<sup id="cite_ref-ac_Sweden_Coolio_25-0" class="reference"><a href="#cite_note-ac_Sweden_Coolio-25"><span>[</span>25<span>]</span></a></sup></td>
+<td align="center">16</td>
+</tr>
+<tr>
+<td>Swedish Albums (<a href="/wiki/Sverigetopplistan" title="Sverigetopplistan">Sverigetopplistan</a>)<sup id="cite_ref-ac_Sweden_Coolio_25-1" class="reference"><a href="#cite_note-ac_Sweden_Coolio-25"><span>[</span>25<span>]</span></a></sup></td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td align="left">UK Albums Chart<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></td>
+<td align="center">18</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-ac_Billboard200_Coolio_27-0" class="reference"><a href="#cite_note-ac_Billboard200_Coolio-27"><span>[</span>27<span>]</span></a></sup></td>
+<td align="center">9</td>
+</tr>
+<tr>
+<td align="left">US <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a> ( <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>)<sup id="cite_ref-Billboard_28-0" class="reference"><a href="#cite_note-Billboard-28"><span>[</span>28<span>]</span></a></sup></td>
+<td align="center">14</td>
+</tr>
+</table>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Certifications">Certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gangsta%27s_Paradise&amp;action=edit&amp;section=7" title="Edit section: Certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th bgcolor="#EBF5FF">Country</th>
+<th bgcolor="#EBF5FF">Certification</th>
+<th bgcolor="#EBF5FF">Date</th>
+<th bgcolor="#EBF5FF">Sales certified</th>
+</tr>
+<tr>
+<td>Canada<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup></td>
+<td align="center">Platinum</td>
+<td align="center">July 21, 1997</td>
+<td align="center">100,000</td>
+</tr>
+<tr>
+<td>Germany<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></td>
+<td align="center">Gold</td>
+<td align="center">1996</td>
+<td align="center">250,000</td>
+</tr>
+<tr>
+<td>Netherlands<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></td>
+<td align="center">Gold</td>
+<td align="center">1996</td>
+<td align="center">40,000</td>
+</tr>
+<tr>
+<td>Sweden<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup></td>
+<td align="center">Gold</td>
+<td align="center">March 28, 1996</td>
+<td align="center">10,000</td>
+</tr>
+<tr>
+<td>United Kingdom<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></td>
+<td align="center">Gold</td>
+<td align="center">January 1, 1996</td>
+<td align="center">300,000</td>
+</tr>
+<tr>
+<td>United States<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup></td>
+<td align="center">2× Platinum</td>
+<td align="center">April 10, 1996</td>
+<td align="center">2,000,000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gangsta%27s_Paradise&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/gangstas-paradise-main-entry-r1992570">Allmusic review</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=Coolio">Robert Christgau review</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ew.com/ew/article/0,,299442,00.html">http://www.ew.com/ew/article/0,,299442,00.html</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Spin (12/95, p.82) - 8 (out of 10) - "...Today's rappers aren't interested in sharing any knowledge with outsiders. Coolio is the great exception....the most stylistically broad mainstream rap album you'll probably hear all year. Even upon first listen, it sounds like a collection of hits..."</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">NME (Magazine) (11/4/95, p.49) - 7 (out of 10) - "...Instead of playing the role of the Uzi-toting big-shot, he adopts a more reflective view of urban life in Los Angeles....In doing so, Coolio takes a deliberate step forward from last year's light-hearted debut..."</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">The Source (2/96, pp.87-88) - 4 Mics (out of 5) - "...The crazy braided one brings skilled and insightful lyrics that reach and relate to all levels of the Black experience....sets standards that corny lyrics and catchy loops can't compete with....Few artists can straddle the line between commercial and underground hip-hop..."</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">12/95, p.82</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">12/29/95-1/5/96, p.132</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">11/10/95, p.62</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">2/96, pp.87-88</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">2/96, p.94</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">12/95, p.30</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">11/4/95, p.49</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt0112792/"><i>Dangerous Minds</i> at IMDb</a></span></li>
+<li id="cite_note-ac_Australia_Coolio-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Australia_Coolio_15-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.australian-charts.com/showitem.asp?interpret=Coolio&amp;titel=Gangsta%27s+Paradise&amp;cat=a">Coolio – Gangsta's Paradise"</a>. Australiancharts.com. Hung Medien.</span></li>
+<li id="cite_note-ac_Austria_Coolio-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Austria_Coolio_16-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://austriancharts.at/showitem.asp?interpret=Coolio&amp;titel=Gangsta%27s+Paradise&amp;cat=a">Coolio - Gangsta's Paradise"</a> (in German). Austriancharts.at. Hung Medien.</span></li>
+<li id="cite_note-ac_Flanders_Coolio-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Flanders_Coolio_17-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.ultratop.be/nl/showitem.asp?interpret=Coolio&amp;titel=Gangsta%27s+Paradise&amp;cat=a">Coolio – Gangsta's Paradise"</a> (in Dutch). Ultratop.be. Hung Medien.</span></li>
+<li id="cite_note-ac_Wallonia_Coolio-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Wallonia_Coolio_18-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.ultratop.be/fr/showitem.asp?interpret=Coolio&amp;titel=Gangsta%27s+Paradise&amp;cat=a">Coolio – Gangsta's Paradise"</a> (in French). Ultratop.be. Hung Medien.</span></li>
+<li id="cite_note-ac_Netherlands_Coolio-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Netherlands_Coolio_19-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.dutchcharts.nl/showitem.asp?interpret=Coolio&amp;titel=Gangsta%27s+Paradise&amp;cat=a">Coolio – Gangsta's Paradise"</a> (in Dutch). Dutchcharts.nl. Hung Medien.</span></li>
+<li id="cite_note-ac_Finland_Coolio-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Finland_Coolio_20-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.ifpi.fi/tilastot/virallinen-lista/artistit/Coolio/Gangsta%27s+Paradise">Coolio: Gangsta's Paradise"</a> (in Finnish). Musiikkituottajat – IFPI Finland.</span></li>
+<li id="cite_note-ac_France_Coolio-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_France_Coolio_21-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.lescharts.com/showitem.asp?interpret=Coolio&amp;titel=Gangsta%27s+Paradise&amp;cat=a">Coolio – Gangsta's Paradise"</a>. Lescharts.com. Hung Medien.</span></li>
+<li id="cite_note-ac_Germany_Coolio-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Germany_Coolio_22-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://musicline.de/de/chartverfolgung_summary/artist/Coolio/?type=longplay">Longplay-Chartverfolgung at Musicline"</a> (in German). Musicline.de. <a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control</a>.</span></li>
+<li id="cite_note-ac_New_Zealand_Coolio-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_New_Zealand_Coolio_23-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.charts.org.nz/showitem.asp?interpret=Coolio&amp;titel=Gangsta%27s+Paradise&amp;cat=a">Coolio – Gangsta's Paradise"</a>. Charts.org.nz. Hung Medien.</span></li>
+<li id="cite_note-ac_Norway_Coolio-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Norway_Coolio_24-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.norwegiancharts.com/showitem.asp?interpret=Coolio&amp;titel=Gangsta%27s+Paradise&amp;cat=a">Coolio – Gangsta's Paradise"</a>. Norwegiancharts.com. Hung Medien.</span></li>
+<li id="cite_note-ac_Sweden_Coolio-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-ac_Sweden_Coolio_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ac_Sweden_Coolio_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.swedishcharts.com/showitem.asp?interpret=Coolio&amp;titel=Gangsta%27s+Paradise&amp;cat=a">Coolio – Gangsta's Paradise"</a>. Swedishcharts.com. Hung Medien.</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">UK Singles Chart <a rel="nofollow" class="external text" href="http://archive.is/20120530085148/http://www.chartstats.com/albuminfo.php?id=12964">Chartstats.com</a> (Retrieved January 12, 2009)</span></li>
+<li id="cite_note-ac_Billboard200_Coolio-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Billboard200_Coolio_27-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/299639/Coolio/chart?f=305">"Coolio Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Billboard_200" title="Billboard 200">200</a> for Coolio. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>.</span></li>
+<li id="cite_note-Billboard-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-Billboard_28-0">^</a></b></span> <span class="reference-text">Billboard <a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p44721">allmusic.com</a> (Retrieved January 12, 2009)</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Canada certifications <a rel="nofollow" class="external text" href="http://www.cria.ca/cert_db_search.php">cria.ca</a> (Retrieved January 12, 2009)</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.musikindustrie.de/gold_platin_datenbank/?action=suche&amp;strTitel=Gangsta%2527s%2BParadise&amp;strInterpret=&amp;strTtArt=alben&amp;strAwards=checked">"Gold-/Platin-Datenbank ('Gangsta%27s+Paradise')"</a> (in German). <a href="/wiki/Bundesverband_Musikindustrie" title="Bundesverband Musikindustrie">Bundesverband Musikindustrie</a><span class="reference-accessdate">. Retrieved January 12, 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGangsta%27s+Paradise&amp;rft.btitle=Gold-%2FPlatin-Datenbank+%28%27Gangsta%2527s%2BParadise%27%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.musikindustrie.de%2Fgold_platin_datenbank%2F%3Faction%3Dsuche%26strTitel%3DGangsta%252527s%252BParadise%26strInterpret%3D%26strTtArt%3Dalben%26strAwards%3Dchecked&amp;rft.pub=Bundesverband+Musikindustrie&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Dutch certifications <a rel="nofollow" class="external text" href="http://www.nvpi.nl/nvpi/pagina.asp?pagkey=60461#resultaat">nvpi.nl</a> (Retrieved January 12, 2009)</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Swedish certifications <span class="citation web"><a rel="nofollow" class="external text" href="http://archive.is/eFf9">"Ifpi.se"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.ifpi.se/?page_id=67">the original</a> on 2012-05-27.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGangsta%27s+Paradise&amp;rft.btitle=Ifpi.se&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ifpi.se%2F%3Fpage_id%3D67&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> (Retrieved January 12, 2009)</span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">United Kingdom certifications <a rel="nofollow" class="external text" href="http://www.bpi.co.uk/">Bpi.co.uk</a> (Retrieved January 12, 2009)</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">United States certifications <a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?table=SEARCH">riaa.com</a> (Retrieved January 12, 2009)</span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Coolio" title="Template:Coolio"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Coolio" title="Template talk:Coolio"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Coolio&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Coolio" title="Coolio">Coolio</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/It_Takes_a_Thief_(album)" title="It Takes a Thief (album)">It Takes a Thief</a></i></li>
+<li><i><strong class="selflink">Gangsta's Paradise</strong></i></li>
+<li><i><a href="/wiki/My_Soul_(Coolio_album)" title="My Soul (Coolio album)">My Soul</a></i></li>
+<li><i><a href="/wiki/Coolio.com" title="Coolio.com">Coolio.com</a></i></li>
+<li><i><a href="/wiki/El_Cool_Magnifico" title="El Cool Magnifico">El Cool Magnifico</a></i></li>
+<li><i><a href="/wiki/The_Return_of_the_Gangsta" title="The Return of the Gangsta">The Return of the Gangsta</a></i></li>
+<li><i><a href="/wiki/Steal_Hear" title="Steal Hear">Steal Hear</a></i></li>
+<li><i><a href="/wiki/From_the_Bottom_2_the_Top_(Coolio_album)" title="From the Bottom 2 the Top (Coolio album)">From the Bottom 2 the Top</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Fantastic_Voyage:_The_Greatest_Hits" title="Fantastic Voyage: The Greatest Hits">Fantastic Voyage: The Greatest Hits</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"County Line"</li>
+<li>"Mama I'm in Love"</li>
+<li>"I Remember"</li>
+<li>"<a href="/wiki/Fantastic_Voyage_(Coolio_song)" title="Fantastic Voyage (Coolio song)">Fantastic Voyage</a>"</li>
+<li>"<a href="/wiki/Gangsta%27s_Paradise_(song)" title="Gangsta's Paradise (song)">Gangsta's Paradise</a>"</li>
+<li>"<a href="/wiki/Too_Hot_(Coolio_song)" title="Too Hot (Coolio song)">Too Hot</a>"</li>
+<li>"<a href="/wiki/It%27s_All_the_Way_Live_(Now)" title="It's All the Way Live (Now)">It's All the Way Live (Now)</a>"</li>
+<li>"<a href="/wiki/1,_2,_3,_4_(Sumpin%27_New)" title="1, 2, 3, 4 (Sumpin' New)">1, 2, 3, 4 (Sumpin' New)</a>"</li>
+<li>"<a href="/wiki/Hit_%27Em_High_(The_Monstars%27_Anthem)" title="Hit 'Em High (The Monstars' Anthem)">Hit 'Em High (The Monstars' Anthem)</a>"</li>
+<li>"<a href="/wiki/C_U_When_U_Get_There" title="C U When U Get There">C U When U Get There</a>"</li>
+<li>"Winner"</li>
+<li>"Ooh La La"</li>
+<li>"Ghetto Square Dance"</li>
+<li>"Hustler"</li>
+<li>"<a href="/wiki/Gangsta_Walk" title="Gangsta Walk">Gangsta Walk</a>"</li>
+<li>"Boyfriend"</li>
+<li>"Change"</li>
+<li>"Lady"</li>
+<li>"Gangsta's Paradise 2K11"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Coolio_discography" title="Coolio discography">Discography</a></li>
+<li><a href="/wiki/Coolio" title="Coolio">Awards and nominations</a></li>
+<li><a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1100
+CPU time usage: 1.212 seconds
+Real time usage: 1.319 seconds
+Preprocessor visited node count: 4966/1000000
+Preprocessor generated node count: 77046/1500000
+Post‐expand include size: 37334/2048000 bytes
+Template argument size: 4622/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 2/500
+Lua time usage: 0.056/10.000 seconds
+Lua memory usage: 1.59 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:38448350-0!*!0!!en!4!* and timestamp 20140531011528 and revision id 609643968
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Gangsta%27s_Paradise&amp;oldid=609643968">http://en.wikipedia.org/w/index.php?title=Gangsta%27s_Paradise&amp;oldid=609643968</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1995_albums" title="Category:1995 albums">1995 albums</a></li><li><a href="/wiki/Category:Coolio_albums" title="Category:Coolio albums">Coolio albums</a></li><li><a href="/wiki/Category:Tommy_Boy_Records_albums" title="Category:Tommy Boy Records albums">Tommy Boy Records albums</a></li><li><a href="/wiki/Category:Gangsta_rap_albums" title="Category:Gangsta rap albums">Gangsta rap albums</a></li><li><a href="/wiki/Category:G-funk_albums" title="Category:G-funk albums">G-funk albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gangsta%27s+Paradise&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gangsta%27s+Paradise" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Gangsta%27s_Paradise"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Gangsta%27s_Paradise"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Gangsta%27s_Paradise" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Gangsta%27s_Paradise&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Gangsta%27s_Paradise&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Gangsta%27s_Paradise" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Gangsta%27s_Paradise" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Gangsta%27s_Paradise&amp;oldid=609643968" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Gangsta%27s_Paradise&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2335845" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Gangsta%27s_Paradise&amp;id=609643968" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gangsta%27s+Paradise">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Gangsta%27s+Paradise&amp;oldid=609643968&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Gangsta%27s_Paradise&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Gangsta%27s_Paradise_(album)" title="Gangsta's Paradise (album) – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Gangsta%27s_Paradise" title="Gangsta's Paradise – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Gangsta%27s_Paradise" title="Gangsta's Paradise – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Gangsta%27s_Paradise" title="Gangsta's Paradise – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/Gangsta%27s_Paradise" title="Gangsta's Paradise – Georgian" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Gangsta%27s_Paradise" title="Gangsta's Paradise – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Gangsta%27s_Paradise" title="Gangsta's Paradise – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Gangsta%27s_Paradise" title="Gangsta's Paradise – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Gangsta%E2%80%99s_Paradise" title="Gangsta’s Paradise – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q2335845#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 May 2014 at 08:55.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Gangsta%27s_Paradise" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":239,"wgHostname":"mw1057"});
+}</script>
+	</body>
+</html>
+	

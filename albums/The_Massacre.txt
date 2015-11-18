@@ -1,0 +1,1461 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>The Massacre - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Massacre" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Massacre&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_Massacre&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/The_Massacre" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Massacre","wgTitle":"The Massacre","wgCurRevisionId":610452154,"wgRevisionId":610452154,"wgArticleId":1546332,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","2005 albums","Albums certified multi-platinum by the Recording Industry Association of America","50 Cent albums","Aftermath Entertainment albums","Shady Records albums","Albums produced by Buckwild","Albums produced by Dr. Dre","Albums produced by Disco D","Albums produced by Eminem","Albums produced by Scott Storch","Albums produced by Hi-Tek","Albums produced by J. R. Rotem","Albums produced by Needlz","Albums produced by Mike Elizondo","Interscope Records albums","English-language albums","Albums certified gold by the Recording Industry Association of Japan","Gangsta rap albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Massacre","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["nl","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q839810"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-The_Massacre skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>The Massacre</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For the album by The Exploited, see <a href="/wiki/The_Massacre_(The_Exploited_album)" title="The Massacre (The Exploited album)">The Massacre (The Exploited album)</a>.  For the 1914 film, see <a href="/wiki/The_Massacre_(film)" title="The Massacre (film)">The Massacre (film)</a>.  For the Doctor Who television serial commonly referred to by this title, see <a href="/wiki/The_Massacre_of_St_Bartholomew%27s_Eve" title="The Massacre of St Bartholomew's Eve">The Massacre of St Bartholomew's Eve</a>.</div>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">The Massacre</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:50_Cent_-_The_Massacre.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5e/50_Cent_-_The_Massacre.png/220px-50_Cent_-_The_Massacre.png" width="220" height="220" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/5/5e/50_Cent_-_The_Massacre.png 1.5x, //upload.wikimedia.org/wikipedia/en/5/5e/50_Cent_-_The_Massacre.png 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">March 3, 2005</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>2004</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>73:47</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td>
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li><a href="/wiki/Shady_Records" title="Shady Records">Shady</a></li>
+<li><a href="/wiki/Aftermath_Entertainment" title="Aftermath Entertainment">Aftermath</a></li>
+<li><a href="/wiki/Interscope_Records" title="Interscope Records">Interscope</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> <small>(<a href="/wiki/Executive_producer" title="Executive producer">exec.</a>)</small>, <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> <small>(also exec.)</small>, <a href="/wiki/Eminem" title="Eminem">Eminem</a> <small>(also exec.)</small>, <a href="/wiki/Scott_Storch" title="Scott Storch">Scott Storch</a>, <a href="/wiki/Sha_Money_XL" title="Sha Money XL">Sha Money XL</a>, <a href="/wiki/J.R._Rotem" title="J.R. Rotem">J.R. Rotem</a>, <a href="/wiki/Disco_D" title="Disco D">Disco D</a>, <a href="/wiki/Bass_Brothers" title="Bass Brothers">F.B.T.</a>, <a href="/wiki/Hi-Tek" title="Hi-Tek">Hi-Tek</a>, <a href="/wiki/Mike_Elizondo" title="Mike Elizondo">Mike Elizondo</a>, <a href="/wiki/Needlz" title="Needlz">Needlz</a>, <a href="/wiki/Buckwild" title="Buckwild">Buckwild</a>, Cue Beats, Dangerous LLC, Black Jeruz</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Get_Rich_or_Die_Tryin%27_(album)" title="Get Rich or Die Tryin' (album)">Get Rich or Die Tryin'</a></i><br />
+(2003)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>The Massacre</b></i><br />
+(2005)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Curtis_(50_Cent_album)" title="Curtis (50 Cent album)">Curtis</a></i><br />
+(2007)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>The Massacre</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Disco_Inferno_(50_Cent_song)" title="Disco Inferno (50 Cent song)">Disco Inferno</a>"</span><br />
+Released: November 28, 2004</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Candy_Shop" title="Candy Shop">Candy Shop</a>"</span><br />
+Released: January 15, 2005</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Just_a_Lil_Bit" title="Just a Lil Bit">Just a Lil Bit</a>"</span><br />
+Released: May 10, 2005</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Outta_Control_Remix" title="Outta Control Remix" class="mw-redirect">Outta Control (Remix)</a>"</span><br />
+Released: September 6, 2005</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>The Massacre</b></i> is the second <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by American rapper <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a>, released March 3, 2005 on <a href="/wiki/Aftermath_Entertainment" title="Aftermath Entertainment">Aftermath Entertainment</a>, <a href="/wiki/Shady_Records" title="Shady Records">Shady Records</a> and <a href="/wiki/Interscope_Records" title="Interscope Records">Interscope Records</a> in the United States. Its initially planned release was pushed five days ahead to avoid <a href="/wiki/Internet_leak" title="Internet leak">Internet leakage</a>. The album debuted at number one on the U.S. <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart, selling over 1.14 million copies in its first week. Upon its release, <i>The Massacre</i> received generally positive reviews from most music critics. It was nominated for a <a href="/wiki/Grammy_Award_for_Best_Rap_Album" title="Grammy Award for Best Rap Album">Grammy Award for Best Rap Album</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> losing to <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>'s <i><a href="/wiki/Late_Registration" title="Late Registration">Late Registration</a></i> at the <a href="/wiki/48th_Grammy_Awards" title="48th Grammy Awards" class="mw-redirect">48th Grammy Awards</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Commercial_performance"><span class="tocnumber">2</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Critical_reception"><span class="tocnumber">3</span> <span class="toctext">Critical reception</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Track_listing"><span class="tocnumber">4</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Personnel"><span class="tocnumber">5</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Charts"><span class="tocnumber">6</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Certifications"><span class="tocnumber">7</span> <span class="toctext">Certifications</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#The_Massacre_.28Special_Edition.29"><span class="tocnumber">8</span> <span class="toctext">The Massacre (Special Edition)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Background_2"><span class="tocnumber">8.1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Track_listing_2"><span class="tocnumber">8.2</span> <span class="toctext">Track listing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Massacre&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>The Massacre</i> has a music video for every track on the special edition version of the album. The original title for the album was <i><a href="/wiki/St._Valentine%27s_Day_Massacre" title="St. Valentine's Day Massacre" class="mw-redirect">St. Valentine's Day Massacre</a></i> and was arranged to be released on February 14, 2005, but was postponed and the album's title was shortened to <i>The Massacre</i>. The censored version of the album censors out most profanity, violence, and all drug content. "Gunz Come Out" has inconsistency in the editing, and contains some profanity. In comparison, the album is not as heavily censored as <i><a href="/wiki/Get_Rich_or_Die_Tryin%27_(album)" title="Get Rich or Die Tryin' (album)">Get Rich or Die Tryin'</a></i>, but it is still a very highly censored album ranking in severity with albums such as <a href="/wiki/Tony_Yayo" title="Tony Yayo">Tony Yayo</a>'s <i><a href="/wiki/Thoughts_of_a_Predicate_Felon" title="Thoughts of a Predicate Felon">Thoughts of a Predicate Felon</a></i> and <a href="/wiki/Nas" title="Nas">Nas</a>' <i><a href="/wiki/Stillmatic" title="Stillmatic">Stillmatic</a></i>.</p>
+<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Massacre&amp;action=edit&amp;section=2" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>The Massacre</i> sold 1.14 million copies in its first week of release, making it the seventh highest-selling album since <a href="/wiki/SoundScan" title="SoundScan" class="mw-redirect">SoundScan</a> began tracking sales data in 1991.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> It is the third best opening week for any hip hop album in history, behind <a href="/wiki/Eminem" title="Eminem">Eminem</a>'s <i><a href="/wiki/The_Marshall_Mathers_LP" title="The Marshall Mathers LP">The Marshall Mathers LP</a></i> which sold over 1.79 million copies in its first week and <i><a href="/wiki/The_Eminem_Show" title="The Eminem Show">The Eminem Show</a></i> which sold 1.32 million copies for its first week.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Massacre&amp;action=edit&amp;section=3" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Jeffries_5-0" class="reference"><a href="#cite_note-Jeffries-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">A−<sup id="cite_ref-Christgau_6-0" class="reference"><a href="#cite_note-Christgau-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">B−<sup id="cite_ref-Browne_7-0" class="reference"><a href="#cite_note-Browne-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="1/5 stars"><img alt="1/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Petridis_8-0" class="reference"><a href="#cite_note-Petridis-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/4 stars"><img alt="3/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Dreisinger_9-0" class="reference"><a href="#cite_note-Dreisinger-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/NME" title="NME">NME</a></i></td>
+<td style="vertical-align:middle">8/10<sup id="cite_ref-NME_10-0" class="reference"><a href="#cite_note-NME-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a></td>
+<td style="vertical-align:middle">7.0/10<sup id="cite_ref-Shepherd_11-0" class="reference"><a href="#cite_note-Shepherd-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Brackett_12-0" class="reference"><a href="#cite_note-Brackett-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i></td>
+<td style="vertical-align:middle">B–<sup id="cite_ref-Johnson_13-0" class="reference"><a href="#cite_note-Johnson-13"><span>[</span>13<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Uncut_(magazine)" title="Uncut (magazine)">Uncut</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Uncut_14-0" class="reference"><a href="#cite_note-Uncut-14"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i>The Massacre</i> received generally positive reviews from <a href="/wiki/Music_journalism" title="Music journalism">music critics</a>; it holds a score of 66 out of 100 at <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i> magazine found it "full of finger-pointing panache" and wrote that "50 delivers a taut, albeit less explosive, album aimed at both silencing his detractors and keeping the ladies satisfied".<sup id="cite_ref-Rodriguez_16-0" class="reference"><a href="#cite_note-Rodriguez-16"><span>[</span>16<span>]</span></a></sup> <i><a href="/wiki/NME" title="NME">NME</a></i> observed "a new depth to the murderous lyricism" from 50 Cent on the album.<sup id="cite_ref-NME_10-1" class="reference"><a href="#cite_note-NME-10"><span>[</span>10<span>]</span></a></sup> <a href="/wiki/Greg_Tate" title="Greg Tate">Greg Tate</a>, writing in <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>, said that, like <a href="/wiki/Tupac" title="Tupac">Tupac</a>, 50 Cent is "a ruffian who knows the value of a good pop <a href="/wiki/Hook_(music)" title="Hook (music)">hook</a>", and called <i>The Massacre</i> "the most diabolically sensous collection of baby-making gangsta music since Pac's <i><a href="/wiki/All_Eyez_on_Me" title="All Eyez on Me">All Eyez</a></i>."<sup id="cite_ref-Tate_17-0" class="reference"><a href="#cite_note-Tate-17"><span>[</span>17<span>]</span></a></sup> Kelefa Sanneh of <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> found the album to be "nearly as addictive as its predecessor" and called 50 Cent "a crafty songwriter, specializing in obvious but nearly irresistible tracks that sound better the more you hear them."<sup id="cite_ref-Sanneh_18-0" class="reference"><a href="#cite_note-Sanneh-18"><span>[</span>18<span>]</span></a></sup> In his review for <i>The Village Voice</i>, <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a> said that 50 Cent's "ugly gangsta lies" are "incidental to the mood of the piece, which is friendly, relaxed, good-humored, and in the groove."<sup id="cite_ref-Christgau_6-1" class="reference"><a href="#cite_note-Christgau-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>In a mixed review, <a href="/wiki/Nathan_Rabin" title="Nathan Rabin">Nathan Rabin</a> of <i><a href="/wiki/The_A.V._Club" title="The A.V. Club">The A.V. Club</a></i> said that, although its strengths lie in 50 Cent's "dark charisma" and "fluid delivery", the album is marred by flaws typical of "big rap releases: At nearly 78 minutes, it's far too long, wildly uneven, and not particularly cohesive sonically or thematically."<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> <i><a href="/wiki/Uncut_(magazine)" title="Uncut (magazine)">Uncut</a></i> magazine wrote that, despite 50 Cent's "cool menace", "not even tight productions from Eminem and Dre can stop things from flagging midway."<sup id="cite_ref-Uncut_14-1" class="reference"><a href="#cite_note-Uncut-14"><span>[</span>14<span>]</span></a></sup> Lynne d Johnson of <i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i> felt that it lacks "originality" and makes artistic concessions: "He's tryin' too hard to be everything to everybody."<sup id="cite_ref-Johnson_13-1" class="reference"><a href="#cite_note-Johnson-13"><span>[</span>13<span>]</span></a></sup> In a negative review for <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>, <a href="/wiki/Alexis_Petridis" title="Alexis Petridis">Alexis Petridis</a> panned him as a lyricist and felt that the album lacks "any of the factors that make the best gangsta rap disturbingly compelling ... There's nothing except a string of cliches so limited that repetition is unavoidable".<sup id="cite_ref-Petridis_8-1" class="reference"><a href="#cite_note-Petridis-8"><span>[</span>8<span>]</span></a></sup></p>
+<p><i>The Massacre</i> was nominated at the <a href="/wiki/2006_Grammy_Awards" title="2006 Grammy Awards" class="mw-redirect">2006 Grammy Awards</a> for <a href="/wiki/Best_Rap_Album" title="Best Rap Album" class="mw-redirect">Best Rap Album</a>, but lost to <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>'s <i><a href="/wiki/Late_Registration" title="Late Registration">Late Registration</a></i>. It was ranked the tenth best album of the year by <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>.<sup id="cite_ref-rollingstone2005_20-0" class="reference"><a href="#cite_note-rollingstone2005-20"><span>[</span>20<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Massacre&amp;action=edit&amp;section=4" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>All songs were co-written by 50 Cent.</li>
+</ul>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Intro" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:41</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"In My Hood" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Luis_Resto_(musician)" title="Luis Resto (musician)">Luis Resto</a>, T. Crawford, P. Pitts, <a href="/wiki/Eminem" title="Eminem">Eminem</a></td>
+<td style="vertical-align: top;">C. Styles, Bang Out, <a href="/wiki/Eminem" title="Eminem">Eminem</a> <small>(add.)</small>, <a href="/wiki/Luis_Resto_(musician)" title="Luis Resto (musician)">Luis Resto</a> <small>(add.)</small> (mixed by Eminem)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:51</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"This Is 50" &#160;</td>
+<td style="vertical-align: top;">R. Smith, Michael Clervoix</td>
+<td style="vertical-align: top;"><a href="/wiki/Sha_Money_XL" title="Sha Money XL">Sha Money XL</a>, Black Jeruz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:04</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"I'm Supposed to Die Tonight" &#160;</td>
+<td style="vertical-align: top;">Resto, Steve King, Mathers</td>
+<td style="vertical-align: top;">Eminem, <a href="/wiki/Luis_Resto_(musician)" title="Luis Resto (musician)">Luis Resto</a> <small>(add.)</small> (mixed by Eminem)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:51</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Piggy_Bank_(song)" title="Piggy Bank (song)">Piggy Bank</a>" &#160;</td>
+<td style="vertical-align: top;">K. Cain,</td>
+<td style="vertical-align: top;"><a href="/wiki/Needlz" title="Needlz">Needlz</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:15</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Gatman and Robbin'" <span style="font-size:85%;">(featuring <a href="/wiki/Eminem" title="Eminem">Eminem</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Bass_Brothers" title="Bass Brothers">Jeff Bass</a>, Resto, <a href="/wiki/Bass_Brothers" title="Bass Brothers">Mark Bass</a>, Neal Hefti, Mathers</td>
+<td style="vertical-align: top;">Eminem, <a href="/wiki/Bass_Brothers" title="Bass Brothers">Jeff &amp; Mark Bass</a> <small>(add.)</small> (mixed by Eminem)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:46</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Candy_Shop" title="Candy Shop">Candy Shop</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Olivia_(singer)" title="Olivia (singer)">Olivia</a>)</span></td>
+<td style="vertical-align: top;">Scott Storch</td>
+<td style="vertical-align: top;"><a href="/wiki/Scott_Storch" title="Scott Storch">Scott Storch</a> (mixed by Dr. Dre)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:29</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Outta_Control_(50_Cent_song)" title="Outta Control (50 Cent song)">Outta Control</a>" &#160;</td>
+<td style="vertical-align: top;">Andre Young, Mike Elizondo, <a href="/wiki/Mark_Batson" title="Mark Batson">Mark Batson</a>, <a href="/wiki/Prodigy_(rapper)" title="Prodigy (rapper)">Albert Johnson</a>, <a href="/wiki/Havoc_(Mobb_Deep)" title="Havoc (Mobb Deep)" class="mw-redirect">Kejuan Muchita</a>, Christopher Pope</td>
+<td style="vertical-align: top;"><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, <a href="/wiki/Mike_Elizondo" title="Mike Elizondo">Mike Elizondo</a> (mixed by Dr. Dre)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:21</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Get in My Car" &#160;</td>
+<td style="vertical-align: top;">T. Cotrell</td>
+<td style="vertical-align: top;"><a href="/wiki/Hi-Tek" title="Hi-Tek">Hi-Tek</a> (mixed by Dr. Dre)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:05</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Ski Mask Way" &#160;</td>
+<td style="vertical-align: top;">Raymond Tyson, Bunny Sigler, Resto, Mathers, Dave "Disco D" Shayman</td>
+<td style="vertical-align: top;"><a href="/wiki/Disco_D" title="Disco D">Disco D</a>, Eminem <small>(add.)</small>, Luis Resto <small>(add.)</small> (mixed by Eminem)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:05</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"A Baltimore Love Thing" &#160;</td>
+<td style="vertical-align: top;">Q. Staples, Norma Toney</td>
+<td style="vertical-align: top;">Cue Beats</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:17</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Ryder Music" &#160;</td>
+<td style="vertical-align: top;">Cotrell</td>
+<td style="vertical-align: top;">Hi-Tek (mixed by Dr. Dre)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:51</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Disco_Inferno_(50_Cent_song)" title="Disco Inferno (50 Cent song)">Disco Inferno</a>" &#160;</td>
+<td style="vertical-align: top;">Crawford, Pitts</td>
+<td style="vertical-align: top;">C. Styles, Bang Out (mixed by Dr. Dre)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:34</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Just_a_Lil_Bit" title="Just a Lil Bit">Just a Lil Bit</a>" &#160;</td>
+<td style="vertical-align: top;">Storch</td>
+<td style="vertical-align: top;">Scott Storch (mixed by Dr. Dre)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:57</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Gunz Come Out" &#160;</td>
+<td style="vertical-align: top;">Young, Elizondo</td>
+<td style="vertical-align: top;">Dr. Dre, Mike Elizondo (mixed by Dr. Dre)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:24</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"My Toy Soldier" <span style="font-size:85%;">(featuring <a href="/wiki/Tony_Yayo" title="Tony Yayo">Tony Yayo</a>)</span></td>
+<td style="vertical-align: top;">Resto, Steve King, Marvin Bernard, Mathers</td>
+<td style="vertical-align: top;">Eminem, Luis Resto <small>(add.)</small> (mixed by Eminem)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:44</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"Position of Power" &#160;</td>
+<td style="vertical-align: top;">Jonathan Rotem</td>
+<td style="vertical-align: top;"><a href="/wiki/J.R._Rotem" title="J.R. Rotem">J.R. Rotem</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:12</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"Build You Up" <span style="font-size:85%;">(featuring <a href="/wiki/Jamie_Foxx" title="Jamie Foxx">Jamie Foxx</a>)</span></td>
+<td style="vertical-align: top;">Scott Storch</td>
+<td style="vertical-align: top;">Scott Storch (mixed by Dr. Dre)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:55</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"God Gave Me Style" &#160;</td>
+<td style="vertical-align: top;">Cain, <a href="/wiki/Leonard_Caston,_Jr." title="Leonard Caston, Jr.">Leonard Caston, Jr.</a>, Tom McFadden</td>
+<td style="vertical-align: top;">Needlz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:01</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">20.</td>
+<td style="text-align: left; vertical-align: top;">"So Amazing" <span style="font-size:85%;">(featuring Olivia)</span></td>
+<td style="vertical-align: top;">Rotem, J. Lopez</td>
+<td style="vertical-align: top;"><a href="/wiki/J.R._Rotem" title="J.R. Rotem">J.R. Rotem</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:16</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">21.</td>
+<td style="text-align: left; vertical-align: top;">"I Don't Need 'Em" &#160;</td>
+<td style="vertical-align: top;">Anthony Best</td>
+<td style="vertical-align: top;"><a href="/wiki/Buckwild" title="Buckwild">Buckwild</a> (mixed by Dr. Dre)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:20</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">22.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Hate_It_or_Love_It" title="Hate It or Love It">Hate It or Love It</a> (G Unit Remix)" <span style="font-size:85%;">(bonus track) (featuring <a href="/wiki/Game_(rapper)" title="Game (rapper)" class="mw-redirect">Game</a>, <a href="/wiki/Tony_Yayo" title="Tony Yayo">Tony Yayo</a>, <a href="/wiki/Young_Buck" title="Young Buck">Young Buck</a> and <a href="/wiki/Lloyd_Banks" title="Lloyd Banks">Lloyd Banks</a>)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Cool_%26_Dre" title="Cool &amp; Dre">Cool &amp; Dre</a> (mixed by Dr. Dre)</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:23</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">2006 France re-release<sup id="cite_ref-Fnac_21-0" class="reference"><a href="#cite_note-Fnac-21"><span>[</span>21<span>]</span></a></sup></th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">22.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Window_Shopper" title="Window Shopper">Window Shopper</a>" <span style="font-size:85%;">(bonus track)</span></td>
+<td style="vertical-align: top;">C. Jackson, T. Crawford, J.H. Turnbull, Bob Marley</td>
+<td style="vertical-align: top;">C. Styles, Sire</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:12</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">23.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Best_Friend_(50_Cent_song)" title="Best Friend (50 Cent song)">Best Friend</a>" <span style="font-size:85%;">(bonus track) (featuring <a href="/wiki/Olivia_(singer)" title="Olivia (singer)">Olivia</a>)</span></td>
+<td style="vertical-align: top;">C. Jackson</td>
+<td style="vertical-align: top;">Hi-Tek</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:14</td>
+</tr>
+</table>
+<ul>
+<li>"Intro" is excluded from the 2006 France edition.<sup id="cite_ref-Fnac_21-1" class="reference"><a href="#cite_note-Fnac-21"><span>[</span>21<span>]</span></a></sup></li>
+</ul>
+<dl>
+<dt>Sample credits<sup id="cite_ref-autogenerated2005_22-0" class="reference"><a href="#cite_note-autogenerated2005-22"><span>[</span>22<span>]</span></a></sup></dt>
+</dl>
+<ul>
+<li>"Intro" contains elements from "What Up Gangsta" performed by <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></li>
+<li>"This Is 50" contains elements from "Things Done Changed" performed by <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a></li>
+<li>"I'm Supposed to Die Tonight" contains vocal samples of <a href="/wiki/Spectrasonics" title="Spectrasonics">Spectrasonics</a>' "Vocal Planet"</li>
+<li>"Gatman and Robbin'" contains replayed elements from "Batman Theme"</li>
+<li>"<a href="/wiki/Candy_Shop" title="Candy Shop">Candy Shop</a>" contains a sample of "Love Break" performed by <a href="/wiki/The_Salsoul_Orchestra" title="The Salsoul Orchestra" class="mw-redirect">The Salsoul Orchestra</a> (uncredited)</li>
+<li>"Ski Mask Way" contains elements from "What Am I Waiting For" performed by <a href="/wiki/The_O%27Jays" title="The O'Jays">The O'Jays</a> and resung elements from "Cell Therapy" performed by <a href="/wiki/Goodie_Mob" title="Goodie Mob">Goodie Mob</a></li>
+<li>"A Baltimore Love Thing" contains elements from "I'll Be Waiting There For You" performed by <a href="/wiki/The_Dells" title="The Dells">The Dells</a></li>
+<li>"God Gave Me Style" contains elements from "Each Day I Cry A Little" performed by <a href="/wiki/Eddie_Kendricks" title="Eddie Kendricks">Eddie Kendricks</a></li>
+<li>"I Don't Need 'Em" contains elements from "Nobody Knows" performed by S.C.L.C.</li>
+</ul>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Massacre&amp;action=edit&amp;section=5" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Credits for <i>The Massacre</i> adapted from <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></p>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>50 Cent – executive producer, author</li>
+<li>Bang Out – producer</li>
+<li>Jeff Bass – keyboards, producer</li>
+<li>Mark Bass – producer</li>
+<li>Steve Baughman – engineer, mixing</li>
+<li>Akane Behrens – engineer</li>
+<li>Black Jeruz – producer</li>
+<li>Buck Wild – producer</li>
+<li>Jeff Burns – mixing assistant, assistant</li>
+<li>Dave Cabrera – keyboards</li>
+<li>Tony Campana – engineer</li>
+<li>Larry Chatman – project coordinator</li>
+<li>Lindsay Collins – voices, speech/speaker/speaking part</li>
+<li>Cool – producer</li>
+<li>Ruben Cruz – vocals (bckgr)</li>
+<li>Cue Beats – producer</li>
+<li>Dion – vocals (bckgr)</li>
+<li>Disco D – producer</li>
+<li>Dr. Dre – producer, executive producer, mixing</li>
+<li>Mike Elizondo – bass, guitar, keyboards, sitar, producer</li>
+<li>Eminem – producer, executive producer, mixing</li>
+<li>Nicole Frantz – creative assistance</li>
+<li>Brian "Big Bass" Gardener – mastering</li>
+<li>Yvette Gayle – publicity</li>
+<li>Zach Gold – photography</li>
+<li>Scott Gutierrez – assistant engineer, assistant</li>
+<li>Tiffany Hasbourne – stylist</li>
+<li>Adam Hawkins – engineer</li>
+<li>Marcus Heisser – A&amp;R</li>
+<li>Hi-Tek – producer</li>
+<li>Lionel Holoman – keyboards</li>
+<li>Kameron Houff – engineer</li>
+<li>Eric Hudson – bass</li>
+<li>Mauricio "Veto" Irragorri – engineer, mixing</li>
+<li>Tyrue "Slang" Jonas – artwork</li>
+<li>Rouble Kapoor – assistant engineer, mixing assistant, assistant</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Steven King – bass, guitar, mixing</li>
+<li>Marc Labelle – A&amp;R</li>
+<li>Chris Lighty – management</li>
+<li>Steve Lininger – assistant engineer, assistant</li>
+<li>Jared Lopez – engineer</li>
+<li>Mike Lynn – A&amp;R</li>
+<li>Andrew Mains – editing</li>
+<li>Tracy McNew – A&amp;R</li>
+<li>Kyla Miller – engineer</li>
+<li>Riggs Morales – A&amp;R</li>
+<li>Needlz – producer</li>
+<li>Traci Nelson – vocals (bckgr)</li>
+<li>Alex Ortiz – engineer</li>
+<li>James Oruz – management</li>
+<li>Conesha Owens – vocals (bckgr)</li>
+<li>Kirdis Postelle – project coordinator</li>
+<li>Chuck Reed – engineer</li>
+<li>Luis Resto – horn, keyboards, producer</li>
+<li>Robert "Roomio" Reyes – assistant engineer, assistant</li>
+<li>Roberto Reyes – assistant</li>
+<li>J.R. Rotem – producer</li>
+<li>David Saslow – video</li>
+<li>Kelly Sato – marketing coordinator</li>
+<li>Ed Scratch – engineer</li>
+<li>Les Scurry – production coordination</li>
+<li>Sha Money XL – producer, engineer, executive producer, mixing</li>
+<li>Randy Sosin – video</li>
+<li>Nancie Stern – sample clearance</li>
+<li>Scott Storch – producer</li>
+<li>Chris Styles – producer</li>
+<li>Rob Tewlow – producer</li>
+<li>Patrick Viala – mixing</li>
+<li>Che Vicious – programming</li>
+<li>Barbara Wilson – vocals (bckgr)</li>
+<li>Brandon Winslow – assistant</li>
+<li>Ravid Yosef – editing</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Massacre&amp;action=edit&amp;section=6" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tr>
+<th>Chart (2005)<sup id="cite_ref-themassacrecharts_24-0" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></th>
+<th>Peak<br />
+Position</th>
+</tr>
+<tr>
+<td><a href="/wiki/ARIA_Charts" title="ARIA Charts">Australian Albums Chart</a><sup id="cite_ref-themassacrecharts_24-1" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">2</td>
+</tr>
+<tr>
+<td><a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">Austrian Albums Chart</a><sup id="cite_ref-themassacrecharts_24-2" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">2</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ultratop" title="Ultratop">Belgian Flanders Albums Chart</a><sup id="cite_ref-themassacrecharts_24-3" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">3</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ultratop" title="Ultratop">Belgian Wallonia Albums Chart</a><sup id="cite_ref-themassacrecharts_24-4" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">9</td>
+</tr>
+<tr>
+<td><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a><sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td><a href="/wiki/Tracklisten" title="Tracklisten">Danish Albums Chart</a><sup id="cite_ref-themassacrecharts_24-5" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">8</td>
+</tr>
+<tr>
+<td><a href="/wiki/MegaCharts" title="MegaCharts">Dutch Albums Chart</a><sup id="cite_ref-themassacrecharts_24-6" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">2</td>
+</tr>
+<tr>
+<td><a href="/wiki/Finland" title="Finland">Finnish Albums Chart</a><sup id="cite_ref-themassacrecharts_24-7" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">7</td>
+</tr>
+<tr>
+<td><a href="/wiki/French_Albums_Chart" title="French Albums Chart" class="mw-redirect">French Albums Chart</a><sup id="cite_ref-themassacrecharts_24-8" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">3</td>
+</tr>
+<tr>
+<td><a href="/wiki/MAHASZ" title="MAHASZ" class="mw-redirect">Hungarian Albums Chart</a><sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></td>
+<td style="text-align:center;">11</td>
+</tr>
+<tr>
+<td><a href="/wiki/Federation_of_the_Italian_Music_Industry" title="Federation of the Italian Music Industry" class="mw-redirect">Italian Albums Chart</a><sup id="cite_ref-themassacrecharts_24-9" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">13</td>
+</tr>
+<tr>
+<td><a href="/wiki/Recording_Industry_Association_of_New_Zealand" title="Recording Industry Association of New Zealand" class="mw-redirect">New Zealand Albums Chart</a><sup id="cite_ref-themassacrecharts_24-10" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td><a href="/wiki/VG-lista" title="VG-lista">Norwegian Albums Chart</a><sup id="cite_ref-themassacrecharts_24-11" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">3</td>
+</tr>
+<tr>
+<td><a href="/wiki/IFPI" title="IFPI" class="mw-redirect">Portuguese Albums Chart</a><sup id="cite_ref-themassacrecharts_24-12" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">5</td>
+</tr>
+<tr>
+<td><a href="/wiki/Productores_de_M%C3%BAsica_de_Espa%C3%B1a" title="Productores de Música de España">Spanish Albums Chart</a><sup id="cite_ref-themassacrecharts_24-13" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">32</td>
+</tr>
+<tr>
+<td><a href="/wiki/Sverigetopplistan" title="Sverigetopplistan">Swedish Albums Chart</a><sup id="cite_ref-themassacrecharts_24-14" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">10</td>
+</tr>
+<tr>
+<td><a href="/wiki/Swiss_Music_Charts" title="Swiss Music Charts" class="mw-redirect">Swiss Albums Chart</a><sup id="cite_ref-themassacrecharts_24-15" class="reference"><a href="#cite_note-themassacrecharts-24"><span>[</span>24<span>]</span></a></sup></td>
+<td style="text-align:center;">2</td>
+</tr>
+<tr>
+<td><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a><sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a><sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Top_Rap_Albums" title="Top Rap Albums" class="mw-redirect">Top Rap Albums</a><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Certifications">Certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Massacre&amp;action=edit&amp;section=7" title="Edit section: Certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th scope="col">Country</th>
+<th scope="col"><a href="/wiki/List_of_music_recording_certifications" title="List of music recording certifications">Certification</a></th>
+</tr>
+<tr>
+<td><a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">Australia</a></td>
+<td>Platinum<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Belgian_Entertainment_Association" title="Belgian Entertainment Association">Belgium</a></td>
+<td>Gold<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Music_Canada" title="Music Canada">Canada</a></td>
+<td>3× Platinum<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">Europe</a></td>
+<td>Platinum<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">France</a></td>
+<td>Gold<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Bundesverband_Musikindustrie" title="Bundesverband Musikindustrie">Germany</a></td>
+<td>Platinum<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/IFPI_Greece" title="IFPI Greece">Greece</a></td>
+<td>Gold<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Irish_Recorded_Music_Association" title="Irish Recorded Music Association">Ireland</a></td>
+<td>2× Platinum<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Recording_Industry_Association_of_Japan" title="Recording Industry Association of Japan">Japan</a></td>
+<td>Platinum<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/RIANZ" title="RIANZ" class="mw-redirect">New Zealand</a></td>
+<td>Platinum<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/List_of_music_recording_certifications" title="List of music recording certifications">Russia</a></td>
+<td>3× Platinum<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">Switzerland</a></td>
+<td>Platinum<sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>42<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/British_Phonographic_Industry" title="British Phonographic Industry">United Kingdom</a></td>
+<td>2x Platinum<sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>43<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">United States</a></td>
+<td>5× Platinum<sup id="cite_ref-44" class="reference"><a href="#cite_note-44"><span>[</span>44<span>]</span></a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="The_Massacre_.28Special_Edition.29">The Massacre (Special Edition)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Massacre&amp;action=edit&amp;section=8" title="Edit section: The Massacre (Special Edition)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">The Massacre (Special Edition)</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:The_Massacre_Special_Edition.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/The_Massacre_Special_Edition.png/220px-The_Massacre_Special_Edition.png" width="220" height="218" srcset="//upload.wikimedia.org/wikipedia/en/4/4a/The_Massacre_Special_Edition.png 1.5x, //upload.wikimedia.org/wikipedia/en/4/4a/The_Massacre_Special_Edition.png 2x" data-file-width="300" data-file-height="297" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">September 6, 2005</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>2004-2005</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>73:47</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Aftermath_Entertainment" title="Aftermath Entertainment">Aftermath</a>, <a href="/wiki/Interscope_Records" title="Interscope Records">Interscope</a>, <a href="/wiki/Shady_Records" title="Shady Records">Shady</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> <small>(<a href="/wiki/Executive_producer" title="Executive producer">exec.</a>)</small>, <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> <small>(also exec.)</small>, <a href="/wiki/Eminem" title="Eminem">Eminem</a> <small>(also exec.)</small>, <a href="/wiki/Scott_Storch" title="Scott Storch">Scott Storch</a>, <a href="/wiki/Sha_Money_XL" title="Sha Money XL">Sha Money XL</a>, <a href="/wiki/J.R._Rotem" title="J.R. Rotem">J.R. Rotem</a>, <a href="/wiki/Disco_D" title="Disco D">Disco D</a>, <a href="/wiki/Bass_Brothers" title="Bass Brothers">F.B.T.</a>, <a href="/wiki/Hi-Tek" title="Hi-Tek">Hi-Tek</a>, <a href="/wiki/Mike_Elizondo" title="Mike Elizondo">Mike Elizondo</a>, <a href="/wiki/Needlz" title="Needlz">Needlz</a>, <a href="/wiki/Buckwild" title="Buckwild">Buckwild</a>, Cue Beats, Dangerous LLC, Black Jeruz</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/The_Massacre_(50_Cent_album)" title="The Massacre (50 Cent album)" class="mw-redirect">The Massacre</a></i><br />
+(2005)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>The Massacre (Special Edition)</b></i><br />
+(2005)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Curtis_(50_Cent_album)" title="Curtis (50 Cent album)">Curtis</a></i><br />
+(2007)</td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>The Massacre</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Disco_Inferno_(50_Cent_song)" title="Disco Inferno (50 Cent song)">Disco Inferno</a>"</span><br />
+Released: November 28, 2004</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Candy_Shop" title="Candy Shop">Candy Shop</a>"</span><br />
+Released: January 15, 2005</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Just_a_Lil_Bit" title="Just a Lil Bit">Just a Lil Bit</a>"</span><br />
+Released: May 10, 2005</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Outta_Control_Remix" title="Outta Control Remix" class="mw-redirect">Outta Control (Remix)</a>"</span><br />
+Released: September 6, 2005</span></li>
+</ol>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Background_2">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Massacre&amp;action=edit&amp;section=9" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The album was re-released under the name <i>The Massacre (Special Edition)</i>. It was re-released on September 6, 2005 with a <a href="/wiki/Remix" title="Remix">remix</a> of "Outta Control" featuring <a href="/wiki/Mobb_Deep" title="Mobb Deep">Mobb Deep</a>. The re-release included a bonus DVD with <a href="/wiki/Music_video" title="Music video">music videos</a> for all of the songs (except for Disco Inferno, Gunz Come Out &amp; the Intro), and the <a href="/wiki/Trailer_(film)" title="Trailer (film)" class="mw-redirect">trailer</a> for the movie <i><a href="/wiki/Get_Rich_or_Die_Tryin%27_(2005_film)" title="Get Rich or Die Tryin' (2005 film)" class="mw-redirect">Get Rich or Die Tryin'</a></i> and excludes track 22, the <a href="/wiki/G-Unit" title="G-Unit">G-Unit</a> <a href="/wiki/Hate_It_or_Love_It_(remix)" title="Hate It or Love It (remix)" class="mw-redirect">remix</a> of "<a href="/wiki/Hate_It_or_Love_It" title="Hate It or Love It">Hate It or Love It</a>", clearly due to the ongoing feud between 50 Cent and <a href="/wiki/The_Game_(rapper)" title="The Game (rapper)">The Game</a> and just leaves 21 songs. The re-release helped it re-climb to number two in the United States.</p>
+<h3><span class="mw-headline" id="Track_listing_2">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Massacre&amp;action=edit&amp;section=10" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>All songs were co-written by 50 Cent.</li>
+</ul>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Intro" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:41</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"In My Hood" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Luis_Resto_(musician)" title="Luis Resto (musician)">Luis Resto</a>, T. Crawford, P. Pitts, <a href="/wiki/Eminem" title="Eminem">Marshall Mathers</a></td>
+<td style="vertical-align: top;">C. Styles &amp; Bang Out</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:51</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"This Is 50" &#160;</td>
+<td style="vertical-align: top;">R. Smith, Michael Clervoix</td>
+<td style="vertical-align: top;">Black Jeruz, <a href="/wiki/Sha_Money_XL" title="Sha Money XL">Sha Money XL</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:04</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"I'm Supposed to Die Tonight" &#160;</td>
+<td style="vertical-align: top;">Resto, Steve King, Mathers</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:51</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Piggy_Bank_(song)" title="Piggy Bank (song)">Piggy Bank</a>" &#160;</td>
+<td style="vertical-align: top;">K. Cain,</td>
+<td style="vertical-align: top;"><a href="/wiki/Needlz" title="Needlz">Needlz</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:15</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Gatman and Robbin'" <span style="font-size:85%;">(featuring <a href="/wiki/Eminem" title="Eminem">Eminem</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Bass_Brothers" title="Bass Brothers">Jeff Bass</a>, Resto, <a href="/wiki/Bass_Brothers" title="Bass Brothers">Mark Bass</a>, Neal Hefti, Mathers</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:46</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Candy_Shop" title="Candy Shop">Candy Shop</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Olivia_(singer)" title="Olivia (singer)">Olivia</a>)</span></td>
+<td style="vertical-align: top;">Scott Storch</td>
+<td style="vertical-align: top;"><a href="/wiki/Scott_Storch" title="Scott Storch">Scott Storch</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:29</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Outta_Control_Remix" title="Outta Control Remix" class="mw-redirect">Outta Control (Remix)</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Mobb_Deep" title="Mobb Deep">Mobb Deep</a>)</span></td>
+<td style="vertical-align: top;">Andre Young, Mike Elizondo, <a href="/wiki/Mark_Batson" title="Mark Batson">Mark Batson</a>, <a href="/wiki/Prodigy_(rapper)" title="Prodigy (rapper)">Albert Johnson</a>, <a href="/wiki/Havoc_(Mobb_Deep)" title="Havoc (Mobb Deep)" class="mw-redirect">Kejuan Muchita</a>, Mark Batson, Chris Pope, Steven Standard</td>
+<td style="vertical-align: top;"><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, <a href="/wiki/Mike_Elizondo" title="Mike Elizondo">Mike Elizondo</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:07</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Get in My Car" &#160;</td>
+<td style="vertical-align: top;">T. Cotrell</td>
+<td style="vertical-align: top;"><a href="/wiki/Hi-Tek" title="Hi-Tek">Hi-Tek</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:05</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Ski Mask Way" &#160;</td>
+<td style="vertical-align: top;">Raymond Tyson, Bunny Sigler, Resto, Mathers, Dave "Disco D" Shayman</td>
+<td style="vertical-align: top;"><a href="/wiki/Disco_D" title="Disco D">Disco D</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:05</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"A Baltimore Love Thing" &#160;</td>
+<td style="vertical-align: top;">Q. Staples, Norma Toney</td>
+<td style="vertical-align: top;">Cue Beats</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:17</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Ryder Music" &#160;</td>
+<td style="vertical-align: top;">Cotrell</td>
+<td style="vertical-align: top;">Hi-Tek</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:51</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Disco_Inferno_(50_Cent_song)" title="Disco Inferno (50 Cent song)">Disco Inferno</a>" &#160;</td>
+<td style="vertical-align: top;">Crawford, Pitts</td>
+<td style="vertical-align: top;">C. Styles &amp; Bang Out</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:34</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Just_a_Lil_Bit" title="Just a Lil Bit">Just a Lil Bit</a>" &#160;</td>
+<td style="vertical-align: top;">Storch</td>
+<td style="vertical-align: top;">Scott Storch</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:57</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Gunz Come Out" &#160;</td>
+<td style="vertical-align: top;">Young, Elizondo</td>
+<td style="vertical-align: top;">Dr. Dre, Mike Elizondo</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:24</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"My Toy Soldier" <span style="font-size:85%;">(featuring <a href="/wiki/Tony_Yayo" title="Tony Yayo">Tony Yayo</a>)</span></td>
+<td style="vertical-align: top;">Resto, Steve King, Marvin Bernard, Mathers</td>
+<td style="vertical-align: top;">Eminem</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:44</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"Position of Power" &#160;</td>
+<td style="vertical-align: top;">Jonathan Rotem</td>
+<td style="vertical-align: top;"><a href="/wiki/J.R._Rotem" title="J.R. Rotem">J.R. Rotem</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:12</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"Build You Up" <span style="font-size:85%;">(featuring <a href="/wiki/Jamie_Foxx" title="Jamie Foxx">Jamie Foxx</a>)</span></td>
+<td style="vertical-align: top;">Scott Storch</td>
+<td style="vertical-align: top;">Scott Storch</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:55</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"God Gave Me Style" &#160;</td>
+<td style="vertical-align: top;">Cain, <a href="/wiki/Leonard_Caston,_Jr." title="Leonard Caston, Jr.">Leonard Caston, Jr.</a>, Tom McFadden</td>
+<td style="vertical-align: top;">Needlz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:01</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">20.</td>
+<td style="text-align: left; vertical-align: top;">"So Amazing" <span style="font-size:85%;">(featuring Olivia)</span></td>
+<td style="vertical-align: top;">Rotem, J. Lopez</td>
+<td style="vertical-align: top;"><a href="/wiki/J.R._Rotem" title="J.R. Rotem">J.R. Rotem</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:16</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">21.</td>
+<td style="text-align: left; vertical-align: top;">"I Don't Need 'Em" &#160;</td>
+<td style="vertical-align: top;">Anthony Best</td>
+<td style="vertical-align: top;"><a href="/wiki/Buckwild" title="Buckwild">Buckwild</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:20</td>
+</tr>
+</table>
+<dl>
+<dt>Sample credits</dt>
+</dl>
+<p>Informations taken from <i>The Massacre</i> liner notes:<sup id="cite_ref-autogenerated2005_22-1" class="reference"><a href="#cite_note-autogenerated2005-22"><span>[</span>22<span>]</span></a></sup></p>
+<ul>
+<li>"Intro" contains elements from "What Up Gangsta" performed by <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></li>
+<li>"I'm Supposed to Die Tonight" contains samples of "Warning" by The Notorious B.I.G.</li>
+<li>"Gatman and Robbin'" contains replayed elements from "Batman Theme"</li>
+<li>"<a href="/wiki/Candy_Shop" title="Candy Shop">Candy Shop</a>" contains a sample of "Love Break" performed by <a href="/wiki/The_Salsoul_Orchestra" title="The Salsoul Orchestra" class="mw-redirect">The Salsoul Orchestra</a> (uncredited)</li>
+<li>"Ski Mask Way" contains elements from "What Am I Waiting For" performed by <a href="/wiki/The_O%27Jays" title="The O'Jays">The O'Jays</a> and resung elements from "Cell Therapy" performed by <a href="/wiki/Goodie_Mob" title="Goodie Mob">Goodie Mob</a></li>
+<li>"A Baltimore Love Thing" contains elements from "I'll Be Waiting There For You" performed by <a href="/wiki/The_Dells" title="The Dells">The Dells</a></li>
+<li>"God Gave Me Style" contains elements from "Each Day I Cry A Little" performed by <a href="/wiki/Eddie_Kendricks" title="Eddie Kendricks">Eddie Kendricks</a></li>
+<li>"I Don't Need 'Em" contains elements from "Nobody Knows" performed by S.C.L.C.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Massacre&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_albums_from_the_2000s_(UK)" title="List of number-one albums from the 2000s (UK)" class="mw-redirect">List of number-one albums from the 2000s (UK)</a></li>
+<li><a href="/wiki/List_of_number-one_albums_in_2005_(New_Zealand)" title="List of number-one albums in 2005 (New Zealand)">List of number-one albums in 2005 (New Zealand)</a></li>
+<li><a href="/wiki/List_of_number-one_albums_of_2005_(Ireland)" title="List of number-one albums of 2005 (Ireland)">List of number-one albums of 2005 (Ireland)</a></li>
+<li><a href="/wiki/List_of_number-one_albums_of_2005_(U.S.)" title="List of number-one albums of 2005 (U.S.)" class="mw-redirect">List of number-one albums of 2005 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Massacre&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.usatoday.com/life/music/awards/grammys/2005-12-08-grammy-list-nominations_x.htm">Complete list of Grammy Award nominations</a>. <a href="/wiki/Associated_Press" title="Associated Press">Associated Press</a>. Retrieved on 2009-12-25.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://rap.about.com/od/awards/ig/Grammy-Best-Rap-Album-Winners/Kanye-West---Late-Registration.htm">Grammy Awards Best Rap Album Winners: <i>Late Registration</i></a>. <a href="/wiki/About.com" title="About.com">About.com</a>. Retrieved on 2009-12-25.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Gundersen, Edna (March 9, 2005). <a rel="nofollow" class="external text" href="http://www.usatoday.com/life/music/news/2005-03-09-50-cent-sales_x.htm">'Massacre' sales top 1 million</a>. <i>USA Today</i>. Retrieved June 12, 2007.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Alex Mar, March 9, 2005. <a rel="nofollow" class="external text" href="http://www.rollingstone.com/artists/eminem/articles/story/7092921/50_sells_over_a_million">50 Sells Over a Million</a>. <i>Rolling Stone</i>. Since its release it went on to sell 5 million copies in US</span></li>
+<li id="cite_note-Jeffries-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jeffries_5-0">^</a></b></span> <span class="reference-text">Jeffries, David. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r730909">Review: <i>The Massacre</i></a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>. Retrieved on 2009-12-25.</span></li>
+<li id="cite_note-Christgau-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Christgau_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Christgau_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Christgau, Robert</a> (April 19, 2005). <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/cg/cgv405-05.php">"Consumer Guide: Ignorants and Know-Alls Keep Out"</a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> (New York)<span class="reference-accessdate">. Retrieved June 8, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.atitle=Consumer+Guide%3A+Ignorants+and+Know-Alls+Keep+Out&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.date=April+19%2C+2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fxg%2Fcg%2Fcgv405-05.php&amp;rft.jtitle=The+Village+Voice&amp;rft.place=New+York&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Browne-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Browne_7-0">^</a></b></span> <span class="reference-text"><a href="/wiki/David_Browne" title="David Browne">Browne, David</a> (2005-03-11). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,1033973,00.html">Review: <i>The Massacre</i></a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i>. Retrieved on 2009-12-25.</span></li>
+<li id="cite_note-Petridis-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Petridis_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Petridis_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a href="/wiki/Alexis_Petridis" title="Alexis Petridis">Petridis, Alexis</a> (March 10, 2005). <a rel="nofollow" class="external text" href="http://www.guardian.co.uk/music/2005/mar/11/popandrock.shopping6">"CD: 50 Cent, The Massacre"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i> (London). Friday Review section, p. 17<span class="reference-accessdate">. Retrieved June 8, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.atitle=CD%3A+50+Cent%2C+The+Massacre&amp;rft.aufirst=Alexis&amp;rft.aulast=Petridis&amp;rft.au=Petridis%2C+Alexis&amp;rft.date=March+10%2C+2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.guardian.co.uk%2Fmusic%2F2005%2Fmar%2F11%2Fpopandrock.shopping6&amp;rft.jtitle=The+Guardian&amp;rft.pages=Friday+Review+section%2C+p.+17&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Dreisinger-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dreisinger_9-0">^</a></b></span> <span class="reference-text">Dreisinger, Baz (2005-05-02). "<a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/latimes/access/801368201.html?dids=801368201:801368201&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Mar+02%2C+2005&amp;author=Baz+Dreisinger&amp;pub=Los+Angeles+Times&amp;desc=POP+ALBUM+REVIEW%3B+50+Cent's+sophomore+effort+is+fun%2C+familiar&amp;pqatl=google">Review: <i>The Massacre</i></a>". <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>: E.2. March 2, 2005. (Transcription of original review at <a href="/wiki/Talk:The_Massacre#Los_Angeles_Times_review" title="Talk:The Massacre">talk page</a>)</span></li>
+<li id="cite_note-NME-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-NME_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NME_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">"Review: The Massacre". <i><a href="/wiki/NME" title="NME">NME</a></i> (London): 58. March 2005.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.atitle=Review%3A+The+Massacre&amp;rft.date=March+2005&amp;rft.genre=article&amp;rft.jtitle=NME&amp;rft.pages=58&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Shepherd-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Shepherd_11-0">^</a></b></span> <span class="reference-text">Shepherd, Julianne (2005-03-06). <a rel="nofollow" class="external text" href="http://pitchfork.com/reviews/albums/3046-the-massacre/">Review: <i>The Massacre</i></a>. <a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a>. Retrieved on 2009-12-25.</span></li>
+<li id="cite_note-Brackett-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brackett_12-0">^</a></b></span> <span class="reference-text">Brackett, Nathan (2005-03-10). <a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/albumreviews/the-massacre-20050310">Review: <i>The Massacre</i></a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. Retrieved on 2009-12-25.</span></li>
+<li id="cite_note-Johnson-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Johnson_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Johnson_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Johnson, Lynne d (April 2005). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=3ftHVmAonmoC&amp;pg=PA101#v=onepage&amp;q&amp;f=false">"Review: The Massacre"</a>. <i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i> (New York): 100–1<span class="reference-accessdate">. Retrieved June 8, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.atitle=Review%3A+The+Massacre&amp;rft.aufirst=Lynne+d&amp;rft.au=Johnson%2C+Lynne+d&amp;rft.aulast=Johnson&amp;rft.date=April+2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D3ftHVmAonmoC%26pg%3DPA101%23v%3Donepage%26q%26f%3Dfalse&amp;rft.jtitle=Spin&amp;rft.pages=100-1&amp;rft.place=New+York&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Uncut-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Uncut_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Uncut_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">"Review: The Massacre". <i><a href="/wiki/Uncut_(magazine)" title="Uncut (magazine)">Uncut</a></i> (London): 95. May 2005.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.atitle=Review%3A+The+Massacre&amp;rft.date=May+2005&amp;rft.genre=article&amp;rft.jtitle=Uncut&amp;rft.pages=95&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/the-massacre"><i>The Massacre</i> (2005): Reviews</a>. <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>. Retrieved March 3, 2005.</span></li>
+<li id="cite_note-Rodriguez-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rodriguez_16-0">^</a></b></span> <span class="reference-text">Rodriguez, Jayson. "<a rel="nofollow" class="external text" href="http://books.google.com/books?id=-CYEAAAAMBAJ&amp;pg=PA166&amp;dq=">Review: <i>The Massacre</i></a>". <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i>: 166. April 2005.</span></li>
+<li id="cite_note-Tate-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tate_17-0">^</a></b></span> <span class="reference-text">Tate, Greg (2005-03-08). <a rel="nofollow" class="external text" href="http://www.villagevoice.com/2005-03-08/music/married-to-the-hook/">Review: <i>The Massacre</i></a>. <i>The Village Voice</i>. Retrieved on 2009-12-25.</span></li>
+<li id="cite_note-Sanneh-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sanneh_18-0">^</a></b></span> <span class="reference-text">Sanneh, Kelefa (2005-03-03). <a rel="nofollow" class="external text" href="http://www.nytimes.com/2005/03/03/arts/music/03note.html?pagewanted=all">Review: <i>The Massacre</i></a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>. Retrieved on 2009-12-25.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation news"><a href="/wiki/Nathan_Rabin" title="Nathan Rabin">Rabin, Nathan</a> (March 15, 2005). <a rel="nofollow" class="external text" href="http://www.avclub.com/articles/50-cent-the-massacre,10979/">"50 Cent: The Massacre"</a>. <i><a href="/wiki/The_A.V._Club" title="The A.V. Club">The A.V. Club</a></i> (Chicago)<span class="reference-accessdate">. Retrieved June 8, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.atitle=50+Cent%3A+The+Massacre&amp;rft.aufirst=Nathan&amp;rft.aulast=Rabin&amp;rft.au=Rabin%2C+Nathan&amp;rft.date=March+15%2C+2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.avclub.com%2Farticles%2F50-cent-the-massacre%2C10979%2F&amp;rft.jtitle=The+A.V.+Club&amp;rft.place=Chicago&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rollingstone2005-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-rollingstone2005_20-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/special/8952414/the_top_50_records_of_2005">The Top 50 Records of 2005</a>. <i>Rolling Stone</i>.</span></li>
+<li id="cite_note-Fnac-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fnac_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fnac_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://musique.fnac.com/a1873107/50-Cent-The-massacre-Nouvelle-edition-CD-album">"The massacre - Nouvelle edition"</a> (in French). <a href="/wiki/Fnac" title="Fnac">Fnac</a><span class="reference-accessdate">. Retrieved June 8, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=The+massacre+-+Nouvelle+edition&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmusique.fnac.com%2Fa1873107%2F50-Cent-The-massacre-Nouvelle-edition-CD-album&amp;rft.pub=Fnac&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-autogenerated2005-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated2005_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated2005_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">(2005) Album notes for The Massacre by 50 Cent. Aftermath Entertainment.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r730909/credits">Credits: <i>The Massacre</i></a>. Allmusic. Retrieved on 2010-02-28.</span></li>
+<li id="cite_note-themassacrecharts-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-themassacrecharts_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-themassacrecharts_24-15"><sup><i><b>p</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Steffen Hung. <a rel="nofollow" class="external text" href="http://hitparade.ch/showitem.asp?interpret=50+Cent&amp;titel=The+Massacre&amp;cat=a">"50 Cent – The Massacre"</a>. hitparade.ch<span class="reference-accessdate">. Retrieved 2009-09-22</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.aulast=Steffen+Hung&amp;rft.au=Steffen+Hung&amp;rft.btitle=50+Cent+%E2%80%93+The+Massacre&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fhitparade.ch%2Fshowitem.asp%3Finterpret%3D50%2BCent%26titel%3DThe%2BMassacre%26cat%3Da&amp;rft.pub=hitparade.ch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/2005-03-19/canadian-albums">"Canadian Albums Chart"</a>. Billboard. 2005-03-19<span class="reference-accessdate">. Retrieved 2012-05-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=Canadian+Albums+Chart&amp;rft.date=2005-03-19&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2F2005-03-19%2Fcanadian-albums&amp;rft.pub=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.mahasz.hu/?menu=slagerlistak&amp;menu2=archivum&amp;lista=top40&amp;ev=2005&amp;het=13&amp;submit_=Keres%E9s">"Archívum - Slágerlisták - MAHASZ - Magyar Hangfelvétel-kiadók Szövetsége"</a>. Mahasz.hu<span class="reference-accessdate">. Retrieved 2012-03-01</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=Arch%C3%ADvum+-+Sl%C3%A1gerlist%C3%A1k+-+MAHASZ+-+Magyar+Hangfelv%C3%A9tel-kiad%C3%B3k+Sz%C3%B6vets%C3%A9ge&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.mahasz.hu%2F%3Fmenu%3Dslagerlistak%26menu2%3Darchivum%26lista%3Dtop40%26ev%3D2005%26het%3D13%26submit_%3DKeres%25E9s&amp;rft.pub=Mahasz.hu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.officialcharts.com/archive-chart/_/3/2005-03-19/">"2005-03-19 Top 40 Official UK Albums Archive"</a>. Official Charts. 2005-03-19<span class="reference-accessdate">. Retrieved 2012-05-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=2005-03-19+Top+40+Official+UK+Albums+Archive&amp;rft.date=2005-03-19&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.officialcharts.com%2Farchive-chart%2F_%2F3%2F2005-03-19%2F&amp;rft.pub=Official+Charts&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/2005-03-19/billboard-200">"Billboard Hot 200"</a>. Billboard. 2005-03-19<span class="reference-accessdate">. Retrieved 2012-05-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=Billboard+Hot+200&amp;rft.date=2005-03-19&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2F2005-03-19%2Fbillboard-200&amp;rft.pub=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/2005-03-19/r-b-hip-hop-albums">"Top R&amp;B/Hip-Hop Albums"</a>. Billboard. 2005-03-19<span class="reference-accessdate">. Retrieved 2012-05-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=Top+R%26B%2FHip-Hop+Albums&amp;rft.date=2005-03-19&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2F2005-03-19%2Fr-b-hip-hop-albums&amp;rft.pub=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/2005-03-19/rap-albums">"Top Rap Albums"</a>. Billboard. 2005-03-19<span class="reference-accessdate">. Retrieved 2012-05-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=Top+Rap+Albums&amp;rft.date=2005-03-19&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2F2005-03-19%2Frap-albums&amp;rft.pub=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.aria.com.au/pages/aria-charts-accreditations-albums-2005.htm">"ARIA Charts - Accreditations - 2005 Albums"</a>. Aria.com.au<span class="reference-accessdate">. Retrieved 2012-04-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=ARIA+Charts+-+Accreditations+-+2005+Albums&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.aria.com.au%2Fpages%2Faria-charts-accreditations-albums-2005.htm&amp;rft.pub=Aria.com.au&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ultratop.be/nl/certifications.asp?year=2005">"Ultratop Belgian Charts"</a>. ultratop.be<span class="reference-accessdate">. Retrieved 2012-04-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=Ultratop+Belgian+Charts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ultratop.be%2Fnl%2Fcertifications.asp%3Fyear%3D2005&amp;rft.pub=ultratop.be&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.cria.ca/gold/0605_g.php">"Canadian Recording Industry Association (CRIA): Gold &amp; Platinum - March 2005"</a>. Cria.ca<span class="reference-accessdate">. Retrieved 2012-04-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=Canadian+Recording+Industry+Association+%28CRIA%29%3A+Gold+%26+Platinum+-+March+2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cria.ca%2Fgold%2F0605_g.php&amp;rft.pub=Cria.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ifpi.org/content/section_news/plat2005.html">"IFPI Platinum Europe Awards - 2005"</a>. Ifpi.org. 2005-09-01<span class="reference-accessdate">. Retrieved 2012-05-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=IFPI+Platinum+Europe+Awards+-+2005&amp;rft.date=2005-09-01&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ifpi.org%2Fcontent%2Fsection_news%2Fplat2005.html&amp;rft.pub=Ifpi.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.disqueenfrance.com/fr/pag-259165-CERTIFICATIONS.html?year=2005&amp;type=8">"Disque en France"</a>. Disque en France<span class="reference-accessdate">. Retrieved 2012-05-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=Disque+en+France&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.disqueenfrance.com%2Ffr%2Fpag-259165-CERTIFICATIONS.html%3Fyear%3D2005%26type%3D8&amp;rft.pub=Disque+en+France&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.musikindustrie.de/no_cache/gold_platin_datenbank/#topSearch">"Bundesverband Musikindustrie: Gold-/Platin-Datenbank"</a>. Musikindustrie.de<span class="reference-accessdate">. Retrieved 2012-04-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=Bundesverband+Musikindustrie%3A+Gold-%2FPlatin-Datenbank&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.musikindustrie.de%2Fno_cache%2Fgold_platin_datenbank%2F%23topSearch&amp;rft.pub=Musikindustrie.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20051028033530/http://www.ifpi.gr/chart01.htm">"Greek Foreign Albums Chart"</a>. <a href="/wiki/IFPI_Greece" title="IFPI Greece">IFPI Greece</a>. Archived from <a rel="nofollow" class="external text" href="http://www.ifpi.gr/chart01.htm">the original</a> on 2005-10-28<span class="reference-accessdate">. Retrieved 2012-04-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=Greek+Foreign+Albums+Chart&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ifpi.gr%2Fchart01.htm&amp;rft.pub=IFPI+Greece&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation web">Jaclyn Ward - Fireball Media Ltd. <a rel="nofollow" class="external text" href="http://irishcharts.ie/awards/multi_platinum.htm">"The Irish Charts"</a>. <a href="/wiki/Irish_Recorded_Music_Association" title="Irish Recorded Music Association">IRMA</a><span class="reference-accessdate">. Retrieved 2012-06-26</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.au=Jaclyn+Ward+-+Fireball+Media+Ltd&amp;rft.aulast=Jaclyn+Ward+-+Fireball+Media+Ltd&amp;rft.btitle=The+Irish+Charts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Firishcharts.ie%2Fawards%2Fmulti_platinum.htm&amp;rft.pub=IRMA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaj.or.jp/data/others/gold/200503.html">"一般社団法人 日本レコード協会｜各種統計"</a>. Riaj.or.jp<span class="reference-accessdate">. Retrieved 2012-04-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=%E4%B8%80%E8%88%AC%E7%A4%BE%E5%9B%A3%E6%B3%95%E4%BA%BA+%E6%97%A5%E6%9C%AC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%8D%94%E4%BC%9A%EF%BD%9C%E5%90%84%E7%A8%AE%E7%B5%B1%E8%A8%88&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaj.or.jp%2Fdata%2Fothers%2Fgold%2F200503.html&amp;rft.pub=Riaj.or.jp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://rianz.org.nz/rianz/oldchart.asp?chartNum=1453&amp;chartKind=A">"RIANZ"</a>. RIANZ<span class="reference-accessdate">. Retrieved 2012-04-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=RIANZ&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Frianz.org.nz%2Frianz%2Foldchart.asp%3FchartNum%3D1453%26chartKind%3DA&amp;rft.pub=RIANZ&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20090124001149/http://2m-online.ru/gold_n_platinum/detail.php?COUNTRY=5075">"NFPF International 2005 certifications"</a>. NFPF. 2009-01-24. Archived from <a rel="nofollow" class="external text" href="http://2m-online.ru/gold_n_platinum/detail.php?COUNTRY=5075">the original</a> on 2009-01-24<span class="reference-accessdate">. Retrieved 2012-05-11</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=NFPF+International+2005+certifications&amp;rft.date=2009-01-24&amp;rft.genre=book&amp;rft_id=http%3A%2F%2F2m-online.ru%2Fgold_n_platinum%2Fdetail.php%3FCOUNTRY%3D5075&amp;rft.pub=NFPF&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><span class="citation web">Steffen Hung. <a rel="nofollow" class="external text" href="http://swisscharts.com/awards.asp?year=2005">"The Official Swiss Charts and Music Community"</a>. Swisscharts.com<span class="reference-accessdate">. Retrieved 2012-04-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.aulast=Steffen+Hung&amp;rft.au=Steffen+Hung&amp;rft.btitle=The+Official+Swiss+Charts+and+Music+Community&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fswisscharts.com%2Fawards.asp%3Fyear%3D2005&amp;rft.pub=Swisscharts.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.bpi.co.uk/certifiedawards/search.aspx">"Certified Awards Search"</a>. <i><a href="/wiki/British_Phonographic_Industry" title="British Phonographic Industry">British Phonographic Industry</a></i><span class="reference-accessdate">. Retrieved 2012-04-12</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.atitle=Certified+Awards+Search&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bpi.co.uk%2Fcertifiedawards%2Fsearch.aspx&amp;rft.jtitle=British+Phonographic+Industry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?table=SEARCH_RESULTS&amp;artist=50_Cent&amp;format=&amp;go=Search&amp;perPage=50">"Recording Industry Association of America"</a>. RIAA<span class="reference-accessdate">. Retrieved 2012-04-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Massacre&amp;rft.btitle=Recording+Industry+Association+of+America&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Ftable%3DSEARCH_RESULTS%26artist%3D50_Cent%26format%3D%26go%3DSearch%26perPage%3D50&amp;rft.pub=RIAA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Massacre&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/master/34250">The Massacre</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a> (list of releases)</li>
+</ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/O_(Omarion_album)" title="O (Omarion album)">O</a></i> by <a href="/wiki/Omarion" title="Omarion">Omarion</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/List_of_Billboard_200_number-one_albums_of_2005" title="List of Billboard 200 number-one albums of 2005">number-one album</a></b><br />
+March 19, 2005 – April 23, 2005</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/The_Emancipation_of_Mimi" title="The Emancipation of Mimi">The Emancipation of Mimi</a></i> by <a href="/wiki/Mariah_Carey" title="Mariah Carey">Mariah Carey</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/G4_(album)" title="G4 (album)">G4</a></i> by <a href="/wiki/G4_(band)" title="G4 (band)">G4</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a> <a href="/wiki/List_of_UK_Albums_Chart_number_ones_of_the_2000s" title="List of UK Albums Chart number ones of the 2000s">number-one album</a></b><br />
+13 March 2005</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Language._Sex._Violence._Other%3F" title="Language. Sex. Violence. Other?">Language. Sex. Violence. Other?</a></i> by <a href="/wiki/Stereophonics" title="Stereophonics">Stereophonics</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/In_Between_Dreams" title="In Between Dreams">In Between Dreams</a></i> by <a href="/wiki/Jack_Johnson_(musician)" title="Jack Johnson (musician)">Jack Johnson</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Recorded_Music_NZ" title="Recorded Music NZ">New Zealand RIANZ Albums Chart</a> <a href="/wiki/List_of_number-one_albums_in_2005_(New_Zealand)" title="List of number-one albums in 2005 (New Zealand)">number-one album</a></b><br />
+13 March 2005</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i>In Between Dreams</i> by Jack Johnson</span></td>
+</tr>
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Hot_Fuss" title="Hot Fuss">Hot Fuss</a></i> by <a href="/wiki/The_Killers" title="The Killers">The Killers</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Irish_Recording_Music_Association" title="Irish Recording Music Association" class="mw-redirect">Irish Albums Chart</a> <a href="/wiki/List_of_number-one_albums_of_2005_(Ireland)" title="List of number-one albums of 2005 (Ireland)">number-one album</a></b><br />
+10 March 2005</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Shots_(Damien_Dempsey_album)" title="Shots (Damien Dempsey album)">Shots</a></i> by <a href="/wiki/Damien_Dempsey" title="Damien Dempsey">Damien Dempsey</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Confessions_(Usher_album)" title="Confessions (Usher album)">Confessions</a></i> by <a href="/wiki/Usher_(entertainer)" title="Usher (entertainer)">Usher</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200 Year-End</a> <a href="/wiki/Template:Billboard_Year-End_number_one_albums_1990%E2%80%932009" title="Template:Billboard Year-End number one albums 1990–2009">number-one album by year</a></b><br />
+2005</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Some_Hearts_(Carrie_Underwood_album)" title="Some Hearts (Carrie Underwood album)">Some Hearts</a></i> by <a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a></span></td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:50_Cent" title="Template:50 Cent"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:50_Cent" title="Template talk:50 Cent"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:50_Cent&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/50_Cent_discography" title="50 Cent discography">Discography</a></li>
+<li><a href="/wiki/50_Cent_filmography" title="50 Cent filmography">Filmography</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_50_Cent" title="List of awards and nominations received by 50 Cent">Awards and nominations</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/G-Unit" title="G-Unit">G-Unit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Power_of_the_Dollar" title="Power of the Dollar">Power of the Dollar</a></i></li>
+<li><i><a href="/wiki/Get_Rich_or_Die_Tryin%27_(album)" title="Get Rich or Die Tryin' (album)">Get Rich or Die Tryin'</a></i></li>
+<li><i><strong class="selflink">The Massacre</strong></i></li>
+<li><i><a href="/wiki/Curtis_(50_Cent_album)" title="Curtis (50 Cent album)">Curtis</a></i></li>
+<li><i><a href="/wiki/Before_I_Self_Destruct" title="Before I Self Destruct">Before I Self Destruct</a></i></li>
+<li><i><a href="/wiki/Animal_Ambition" title="Animal Ambition">Animal Ambition</a></i></li>
+<li><i><a href="/wiki/Street_King_Immortal" title="Street King Immortal">Street King Immortal</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Eminem_Presents:_The_Re-Up" title="Eminem Presents: The Re-Up">Eminem Presents: The Re-Up</a></i></li>
+<li><i><a href="/wiki/Guess_Who%27s_Back%3F" title="Guess Who's Back?">Guess Who's Back?</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Soundtracks</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/8_Mile_(soundtrack)" title="8 Mile (soundtrack)" class="mw-redirect">8 Mile Soundtrack</a></i></li>
+<li><i><a href="/wiki/Get_Rich_or_Die_Tryin%27_(soundtrack)" title="Get Rich or Die Tryin' (soundtrack)">Get Rich or Die Tryin' OST</a></i></li>
+<li><i><a href="/wiki/Bulletproof_(soundtrack)" title="Bulletproof (soundtrack)">Bulletproof Soundtrack</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Mixtapes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/50_Cent_Is_the_Future" title="50 Cent Is the Future">50 Cent Is the Future</a></i></li>
+<li><i><a href="/wiki/No_Mercy,_No_Fear" title="No Mercy, No Fear">No Mercy, No Fear</a></i></li>
+<li><i><a href="/wiki/God%27s_Plan_(album)" title="God's Plan (album)">God's Plan</a></i></li>
+<li><i><a href="/wiki/War_Angel_LP" title="War Angel LP">War Angel LP</a></i></li>
+<li><i><a href="/wiki/Forever_King" title="Forever King">Forever King</a></i></li>
+<li><i><a href="/wiki/The_Big_10" title="The Big 10">The Big 10</a></i></li>
+<li><i><a href="/wiki/The_Lost_Tape" title="The Lost Tape">The Lost Tape</a></i></li>
+<li><i><a href="/wiki/5_(Murder_by_Numbers)" title="5 (Murder by Numbers)">5 (Murder by Numbers)</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Video Games</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/50_Cent:_Bulletproof" title="50 Cent: Bulletproof">Bulletproof</a></i></li>
+<li><i><a href="/wiki/50_Cent:_Blood_on_the_Sand" title="50 Cent: Blood on the Sand">Blood on the Sand</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Concert Tours</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Anger_Management_Tour#The_Anger_Management_Tour_3_.282005.29" title="Anger Management Tour">The Anger Management Tour 3</a></i></li>
+<li><i><a href="/wiki/The_Invitation_Tour" title="The Invitation Tour">The Invitation Tour</a></i></li>
+<li><i><a href="/wiki/Supafest#2013" title="Supafest">Supafest 2013</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related Articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/G-Unit_Records" title="G-Unit Records">G-Unit Records</a></li>
+<li><a href="/wiki/Shady_Records" title="Shady Records">Shady Records</a></li>
+<li><a href="/wiki/Aftermath_Entertainment" title="Aftermath Entertainment">Aftermath Entertainment</a></li>
+<li><a href="/wiki/50_Cent:_The_Money_and_the_Power" title="50 Cent: The Money and the Power">50 Cent: The Money and the Power</a></li>
+<li><a href="/wiki/Fourmula_50" title="Fourmula 50" class="mw-redirect">Fourmula 50</a></li>
+<li><a href="/wiki/Cheetah_Vision" title="Cheetah Vision">Cheetah Vision</a></li>
+<li><a href="/wiki/SMS_Audio" title="SMS Audio">SMS Audio</a></li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a></li>
+<li><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:50_Cent" title="Book:50 Cent">Book</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:50_Cent" title="Category:50 Cent">Category</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Billboard_Year-End_number_one_albums_1990%E2%80%932009" title="Template:Billboard Year-End number one albums 1990–2009"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Billboard_Year-End_number_one_albums_1990%E2%80%932009" title="Template talk:Billboard Year-End number one albums 1990–2009"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Billboard_Year-End_number_one_albums_1990%E2%80%932009&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="/wiki/Billboard_Year-End" title="Billboard Year-End"><i>Billboard</i> Year-End</a> number one albums (1990–2009)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>1990: <i><a href="/wiki/Janet_Jackson%27s_Rhythm_Nation_1814" title="Janet Jackson's Rhythm Nation 1814">Janet Jackson's Rhythm Nation 1814</a></i> – <a href="/wiki/Janet_Jackson" title="Janet Jackson">Janet Jackson</a></li>
+<li>1991: <i><a href="/wiki/Mariah_Carey_(album)" title="Mariah Carey (album)">Mariah Carey</a></i> – <a href="/wiki/Mariah_Carey" title="Mariah Carey">Mariah Carey</a></li>
+<li>1992: <i><a href="/wiki/Ropin%27_the_Wind" title="Ropin' the Wind">Ropin' the Wind</a></i> – <a href="/wiki/Garth_Brooks" title="Garth Brooks">Garth Brooks</a></li>
+<li>1993: <i><a href="/wiki/The_Bodyguard:_Original_Soundtrack_Album" title="The Bodyguard: Original Soundtrack Album">The Bodyguard</a></i> – Soundtrack</li>
+<li>1994: <i><a href="/wiki/Happy_Nation" title="Happy Nation">The Sign</a></i> – <a href="/wiki/Ace_of_Base" title="Ace of Base">Ace of Base</a></li>
+<li>1995: <i><a href="/wiki/Cracked_Rear_View" title="Cracked Rear View">Cracked Rear View</a></i> – <a href="/wiki/Hootie_%26_the_Blowfish" title="Hootie &amp; the Blowfish">Hootie &amp; the Blowfish</a></li>
+<li>1996: <i><a href="/wiki/Jagged_Little_Pill" title="Jagged Little Pill">Jagged Little Pill</a></i> – <a href="/wiki/Alanis_Morissette" title="Alanis Morissette">Alanis Morissette</a></li>
+<li>1997: <i><a href="/wiki/Spice_(album)" title="Spice (album)">Spice</a></i> – <a href="/wiki/Spice_Girls" title="Spice Girls">Spice Girls</a></li>
+<li>1998: <i><a href="/wiki/Titanic:_Music_from_the_Motion_Picture" title="Titanic: Music from the Motion Picture">Titanic: Music from the Motion Picture</a></i> – <a href="/wiki/James_Horner" title="James Horner">James Horner</a></li>
+<li>1999: <i><a href="/wiki/Millennium_(Backstreet_Boys_album)" title="Millennium (Backstreet Boys album)">Millennium</a></i> – <a href="/wiki/Backstreet_Boys" title="Backstreet Boys">Backstreet Boys</a></li>
+<li>2000: <i><a href="/wiki/No_Strings_Attached_(%27N_Sync_album)" title="No Strings Attached ('N Sync album)">No Strings Attached</a></i> – <a href="/wiki/%27N_Sync" title="'N Sync">'N Sync</a></li>
+<li>2001: <i><a href="/wiki/1_(The_Beatles_album)" title="1 (The Beatles album)">1</a></i> – <a href="/wiki/The_Beatles" title="The Beatles">The Beatles</a></li>
+<li>2002: <i><a href="/wiki/The_Eminem_Show" title="The Eminem Show">The Eminem Show</a></i> – <a href="/wiki/Eminem" title="Eminem">Eminem</a></li>
+<li>2003: <i><a href="/wiki/Get_Rich_or_Die_Tryin%27_(album)" title="Get Rich or Die Tryin' (album)">Get Rich or Die Tryin'</a></i> – <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></li>
+<li>2004: <i><a href="/wiki/Confessions_(Usher_album)" title="Confessions (Usher album)">Confessions</a></i> – <a href="/wiki/Usher_(entertainer)" title="Usher (entertainer)">Usher</a></li>
+<li>2005: <i><strong class="selflink">The Massacre</strong></i> – <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></li>
+<li>2006: <i><a href="/wiki/Some_Hearts_(Carrie_Underwood_album)" title="Some Hearts (Carrie Underwood album)">Some Hearts</a></i> – <a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a></li>
+<li>2007: <i><a href="/wiki/Daughtry_(album)" title="Daughtry (album)">Daughtry</a></i> – <a href="/wiki/Daughtry_(band)" title="Daughtry (band)">Daughtry</a></li>
+<li>2008: <i><a href="/wiki/As_I_Am" title="As I Am">As I Am</a></i> – <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a></li>
+<li>2009: <i><a href="/wiki/Fearless_(Taylor_Swift_album)" title="Fearless (Taylor Swift album)">Fearless</a></i> – <a href="/wiki/Taylor_Swift" title="Taylor Swift">Taylor Swift</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Template:Billboard_Year-End_number_one_albums" title="Template:Billboard Year-End number one albums">Complete list</a></li>
+<li>(<a href="/wiki/Template:Billboard_Year-End_number_one_albums_1956%E2%80%931969" title="Template:Billboard Year-End number one albums 1956–1969">1956–1969</a>)</li>
+<li>(<a href="/wiki/Template:Billboard_Year-End_number_one_albums_1970%E2%80%931989" title="Template:Billboard Year-End number one albums 1970–1989">1970–1989</a>)</li>
+<li>(<a href="/wiki/Template:Billboard_Year-End_number_one_albums_1990%E2%80%932009" title="Template:Billboard Year-End number one albums 1990–2009">1990–2009</a>)</li>
+<li>(<a href="/wiki/Template:Billboard_Year-End_number_one_albums_2010%E2%80%932029" title="Template:Billboard Year-End number one albums 2010–2029">2010–2029</a>)</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1020
+CPU time usage: 3.360 seconds
+Real time usage: 3.489 seconds
+Preprocessor visited node count: 14196/1000000
+Preprocessor generated node count: 65771/1500000
+Post‐expand include size: 185882/2048000 bytes
+Template argument size: 28610/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.178/10.000 seconds
+Lua memory usage: 3.44 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1546332-0!*!0!!en!4!* and timestamp 20140530152013 and revision id 610452154
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=The_Massacre&amp;oldid=610452154">http://en.wikipedia.org/w/index.php?title=The_Massacre&amp;oldid=610452154</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2005_albums" title="Category:2005 albums">2005 albums</a></li><li><a href="/wiki/Category:Albums_certified_multi-platinum_by_the_Recording_Industry_Association_of_America" title="Category:Albums certified multi-platinum by the Recording Industry Association of America">Albums certified multi-platinum by the Recording Industry Association of America</a></li><li><a href="/wiki/Category:50_Cent_albums" title="Category:50 Cent albums">50 Cent albums</a></li><li><a href="/wiki/Category:Aftermath_Entertainment_albums" title="Category:Aftermath Entertainment albums">Aftermath Entertainment albums</a></li><li><a href="/wiki/Category:Shady_Records_albums" title="Category:Shady Records albums">Shady Records albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Buckwild" title="Category:Albums produced by Buckwild">Albums produced by Buckwild</a></li><li><a href="/wiki/Category:Albums_produced_by_Dr._Dre" title="Category:Albums produced by Dr. Dre">Albums produced by Dr. Dre</a></li><li><a href="/wiki/Category:Albums_produced_by_Disco_D" title="Category:Albums produced by Disco D">Albums produced by Disco D</a></li><li><a href="/wiki/Category:Albums_produced_by_Eminem" title="Category:Albums produced by Eminem">Albums produced by Eminem</a></li><li><a href="/wiki/Category:Albums_produced_by_Scott_Storch" title="Category:Albums produced by Scott Storch">Albums produced by Scott Storch</a></li><li><a href="/wiki/Category:Albums_produced_by_Hi-Tek" title="Category:Albums produced by Hi-Tek">Albums produced by Hi-Tek</a></li><li><a href="/wiki/Category:Albums_produced_by_J._R._Rotem" title="Category:Albums produced by J. R. Rotem">Albums produced by J. R. Rotem</a></li><li><a href="/wiki/Category:Albums_produced_by_Needlz" title="Category:Albums produced by Needlz">Albums produced by Needlz</a></li><li><a href="/wiki/Category:Albums_produced_by_Mike_Elizondo" title="Category:Albums produced by Mike Elizondo">Albums produced by Mike Elizondo</a></li><li><a href="/wiki/Category:Interscope_Records_albums" title="Category:Interscope Records albums">Interscope Records albums</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li><li><a href="/wiki/Category:Albums_certified_gold_by_the_Recording_Industry_Association_of_Japan" title="Category:Albums certified gold by the Recording Industry Association of Japan">Albums certified gold by the Recording Industry Association of Japan</a></li><li><a href="/wiki/Category:Gangsta_rap_albums" title="Category:Gangsta rap albums">Gangsta rap albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Massacre&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Massacre" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/The_Massacre"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:The_Massacre"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/The_Massacre" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=The_Massacre&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=The_Massacre&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Massacre" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Massacre" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=The_Massacre&amp;oldid=610452154" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=The_Massacre&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q839810" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=The_Massacre&amp;id=610452154" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Massacre">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=The+Massacre&amp;oldid=610452154&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=The_Massacre&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/The_Massacre_(50_Cent)" title="The Massacre (50 Cent) – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/The_Massacre" title="The Massacre – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/The_Massacre" title="The Massacre – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/The_Massacre" title="The Massacre – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/The_Massacre" title="The Massacre – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/The_Massacre" title="The Massacre – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/The_Massacre_(50_Cent)" title="The Massacre (50 Cent) – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/The_Massacre" title="The Massacre – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/The_Massacre" title="The Massacre – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/The_Massacre" title="The Massacre – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/The_Massacre" title="The Massacre – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/The_Massacre_(%C3%A1lbum_de_50_Cent)" title="The Massacre (álbum de 50 Cent) – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/The_Massacre" title="The Massacre – Romanian" lang="ro" hreflang="ro">Română</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/The_Massacre" title="The Massacre – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/The_Massacre" title="The Massacre – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/The_Massacre" title="The Massacre – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/The_Massacre" title="The Massacre – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/The_Massacre" title="The Massacre – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q839810#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 May 2014 at 05:40.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/The_Massacre" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":295,"wgHostname":"mw1074"});
+}</script>
+	</body>
+</html>
+	

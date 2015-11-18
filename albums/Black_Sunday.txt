@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Black Sunday (Cypress Hill album) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Black_Sunday_(Cypress_Hill_album)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Black_Sunday_(Cypress_Hill_album)" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Black_Sunday_(Cypress_Hill_album)","wgTitle":"Black Sunday (Cypress Hill album)","wgCurRevisionId":608398289,"wgRevisionId":608398289,"wgArticleId":825658,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","Articles with hAudio microformats","Cypress Hill albums","1993 albums","Columbia Records albums","Albums produced by DJ Muggs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Black_Sunday_(Cypress_Hill_album)","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q880587"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Black_Sunday_Cypress_Hill_album skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Black Sunday</i> (Cypress Hill album)</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Black Sunday</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Cypress_Hill-Black_Sunday.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Cypress_Hill-Black_Sunday.jpg/220px-Cypress_Hill-Black_Sunday.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/b/ba/Cypress_Hill-Black_Sunday.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/b/ba/Cypress_Hill-Black_Sunday.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Cypress_Hill" title="Cypress Hill">Cypress Hill</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">July 20, 1993</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1992</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast hip hop</a>, <a href="/wiki/Hardcore_hip_hop" title="Hardcore hip hop">hardcore hip hop</a>, <a href="/wiki/Latin_hip_hop" title="Latin hip hop">latin hip hop</a>, <a href="/wiki/Alternative_hip_hop" title="Alternative hip hop">alternative hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>43:38</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Ruffhouse" title="Ruffhouse" class="mw-redirect">Ruffhouse</a>, <a href="/wiki/Columbia_Records" title="Columbia Records">Columbia</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/DJ_Muggs" title="DJ Muggs">DJ Muggs</a>, <a href="/wiki/T-Ray_(producer)" title="T-Ray (producer)" class="mw-redirect">T-Ray</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Cypress_Hill" title="Cypress Hill">Cypress Hill</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Cypress_Hill_(album)" title="Cypress Hill (album)">Cypress Hill</a></i><br />
+(1991)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Black Sunday</b></i><br />
+(1993)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/III:_Temples_of_Boom" title="III: Temples of Boom" class="mw-redirect">Cyprus Hill III: Temples of Boom</a></i><br />
+(1995)</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><i><b>Black Sunday</b></i> is the second album by rap group <a href="/wiki/Cypress_Hill" title="Cypress Hill">Cypress Hill</a>. It was released on July 20, 1993. It debuted at number one on the <a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a> selling 261,000 copies in its first week,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> recording the highest <a href="/wiki/Soundscan" title="Soundscan" class="mw-redirect">Soundscan</a> for a rap group at the time. The album went <a href="/wiki/Triple_platinum" title="Triple platinum" class="mw-redirect">Triple platinum</a> in the U.S. with 3.4 million units sold.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> Black Sunday is also seen as a hip hop classic and possibly the group's best material to date.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Album_information"><span class="tocnumber">1</span> <span class="toctext">Album information</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Reception"><span class="tocnumber">2</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Track_listing"><span class="tocnumber">3</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Samples"><span class="tocnumber">4</span> <span class="toctext">Samples</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Album_chart_positions"><span class="tocnumber">5</span> <span class="toctext">Album chart positions</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Singles_chart_positions"><span class="tocnumber">6</span> <span class="toctext">Singles chart positions</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Personnel"><span class="tocnumber">7</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Album_information">Album information</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=edit&amp;section=1" title="Edit section: Album information">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first single, "<a href="/wiki/Insane_in_the_Brain" title="Insane in the Brain">Insane in the Brain</a>," became a <a href="/wiki/Crossover_(music)" title="Crossover (music)">crossover</a> hit, starting a following among rock audiences. A censored version of the album was also made which removes the song "A To The K".</p>
+<p>The songs "Hits from the Bong" and "I Wanna Get High" were used in the movie <i><a href="/wiki/How_High" title="How High">How High</a></i>. "I Wanna Get High" was also featured in the vampire junkie film "The Addiction." "Hits from the Bong" was also heard in the film <a href="/wiki/Hall_Pass" title="Hall Pass">Hall Pass</a>. "Hand on the Glock" is a re-recorded version of the track "Hand on the Pump", from the debut album <i><a href="/wiki/Cypress_Hill_(album)" title="Cypress Hill (album)">Cypress Hill</a></i>. The booklet to the album contains 19 facts about the history of hemp and the positive attributes of cannabis.</p>
+<p>The song "When The Shit Goes Down" was included in the movie <i><a href="/wiki/This_Is_the_End" title="This Is the End">This Is the End</a></i>.</p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=edit&amp;section=2" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Rhapsody_(online_music_service)" title="Rhapsody (online music service)">Rhapsody</a></td>
+<td style="vertical-align:middle">(favourable) <sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">A− <sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">RealRap Network</td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <sup id="cite_ref-The_Source_7-0" class="reference"><a href="#cite_note-The_Source-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <sup id="cite_ref-Rolling_Stone_8-0" class="reference"><a href="#cite_note-Rolling_Stone-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+</table>
+<p>The single "I Ain't Goin' Out Like That" was nominated for the <a href="/wiki/Grammy_Award" title="Grammy Award">Grammy Award</a>'s Best Rap Performance of the year category.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<p><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> - 4 stars - Excellent - "…it's the Cypress combo of stark grooves and cinematic gangsta fairy tales that allows them to rule the streets, a formula not messed with on Black Sunday…"<sup id="cite_ref-Rolling_Stone_8-1" class="reference"><a href="#cite_note-Rolling_Stone-8"><span>[</span>8<span>]</span></a></sup></p>
+<p><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> - 4 stars - Excellent - "…a darker sequel…this album is definitely worth buying as it easily rips the frame out of all those Cypress bandwagon jumpers…"<sup id="cite_ref-The_Source_7-1" class="reference"><a href="#cite_note-The_Source-7"><span>[</span>7<span>]</span></a></sup></p>
+<ul>
+<li>Included in <a href="/wiki/Q_(magazine)" title="Q (magazine)" class="mw-redirect"><i>Q</i> magazine</a>'s list of the 50 Best Albums of 1993.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>Ranked #35 in <i><a href="/wiki/Melody_Maker" title="Melody Maker">Melody Maker</a></i><span style="padding-left:0.1em;">'</span>s list of "The Albums of the Year" for 1993.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>Ranked #29 in the <i><a href="/wiki/The_Village_Voice" title="The Village Voice">Village Voice</a></i><span style="padding-left:0.1em;">'</span>s 1993 Pazz &amp; Jop Critics Poll.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>Ranked #8 in <i><a href="/wiki/NME" title="NME">New Musical Express</a></i><span style="padding-left:0.1em;">'</span>s list of "The Top 50 LPs of 1993".<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=edit&amp;section=3" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Producer</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"I Wanna Get High" &#160;</td>
+<td style="vertical-align: top;">DJ Muggs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:54</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"I Ain't Goin' out Like That" <span style="font-size:85%;">(Produced by <a href="/wiki/Todd_Ray" title="Todd Ray">T-Ray</a>)</span></td>
+<td style="vertical-align: top;">T-Ray</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:27</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Insane_in_the_Brain" title="Insane in the Brain">Insane in the Brain</a>" &#160;</td>
+<td style="vertical-align: top;">DJ Muggs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:28</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"When the Shit Goes Down" &#160;</td>
+<td style="vertical-align: top;">DJ Muggs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:08</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Lick a Shot" &#160;</td>
+<td style="vertical-align: top;">DJ Muggs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:23</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Cock the Hammer" &#160;</td>
+<td style="vertical-align: top;">DJ Muggs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:25</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Lock Down" <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;">DJ Muggs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:16</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"3 Lil' Putos" &#160;</td>
+<td style="vertical-align: top;">DJ Muggs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:40</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Legalize It" &#160;</td>
+<td style="vertical-align: top;">DJ Muggs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:46</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Hits from the Bong" &#160;</td>
+<td style="vertical-align: top;">DJ Muggs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:40</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"What Go Around Come Around, Kid" &#160;</td>
+<td style="vertical-align: top;">DJ Muggs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:42</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"A to the K" &#160;</td>
+<td style="vertical-align: top;">DJ Muggs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:27</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Hand on the Glock" &#160;</td>
+<td style="vertical-align: top;">DJ Muggs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:32</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Break 'Em off Some" &#160;</td>
+<td style="vertical-align: top;">DJ Muggs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:44</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Samples">Samples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=edit&amp;section=4" title="Edit section: Samples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>I Wanna Get High</b></p>
+<ul>
+<li>"Get Outta My Life Woman" by <a href="/w/index.php?title=The_New_Apocalypse&amp;action=edit&amp;redlink=1" class="new" title="The New Apocalypse (page does not exist)">The New Apocalypse</a></li>
+<li>"Taxman" by <a href="/wiki/Junior_Parker" title="Junior Parker">Junior Parker</a></li>
+<li>"One Draw" by <a href="/wiki/Rita_Marley" title="Rita Marley">Rita Marley</a></li>
+</ul>
+<p><b>I Ain't Goin' Out Like That</b></p>
+<ul>
+<li>"Wicked World" by <a href="/wiki/Black_Sabbath" title="Black Sabbath">Black Sabbath</a></li>
+<li>"The Wizard" by Black Sabbath</li>
+</ul>
+<p><b>Insane in the Brain</b></p>
+<ul>
+<li>"I'm Black and I'm Proud" by <a href="/wiki/James_Brown" title="James Brown">James Brown</a></li>
+<li>"Good Guys Only Win in the Movies" by <a href="/wiki/Mel_%26_Tim" title="Mel &amp; Tim" class="mw-redirect">Mel &amp; Tim</a></li>
+<li>"All Over the World" by <a href="/wiki/The_Youngbloods" title="The Youngbloods">The Youngbloods</a></li>
+<li>"Life" by <a href="/wiki/Sly_%26_The_Family_Stone" title="Sly &amp; The Family Stone" class="mw-redirect">Sly &amp; The Family Stone</a></li>
+<li>"Spanish Harlem" by <a href="/wiki/Ben_E._King" title="Ben E. King">Ben E. King</a> &amp; <a href="/wiki/The_Drifters" title="The Drifters">The Drifters</a></li>
+</ul>
+<p><b>When the Shit Goes Down</b></p>
+<ul>
+<li>"Stratus" by <a href="/wiki/Billy_Cobham" title="Billy Cobham">Billy Cobham</a></li>
+<li>"Deep Gully" by <a href="/w/index.php?title=Outlaw_Blues_Band&amp;action=edit&amp;redlink=1" class="new" title="Outlaw Blues Band (page does not exist)">Outlaw Blues Band</a></li>
+</ul>
+<p><b>Cock the Hammer</b></p>
+<ul>
+<li>"Blind Alley" by <a href="/wiki/The_Emotions" title="The Emotions">The Emotions</a></li>
+<li>"Uri (The Wind)" by <a href="/wiki/Flora_Purim" title="Flora Purim">Flora Purim</a></li>
+</ul>
+<p><b>Interlude</b></p>
+<ul>
+<li>" Is It Because I'm Black?" by <a href="/wiki/Syl_Johnson" title="Syl Johnson">Syl Johnson</a></li>
+</ul>
+<p><b>3 Lil' Putos</b></p>
+<ul>
+<li>"<a href="/wiki/I%27ve_Told_Every_Little_Star" title="I've Told Every Little Star" class="mw-redirect">I've Told Every Little Star</a> by <a href="/wiki/Linda_Scott" title="Linda Scott">Linda Scott</a></li>
+<li>"Remix for P Is Free" By <a href="/wiki/Boogie_Down_Productions" title="Boogie Down Productions">Boogie Down Productions</a></li>
+<li>"Ode to Billy Joe" by <a href="/wiki/Lou_Donaldson" title="Lou Donaldson">Lou Donaldson</a></li>
+<li>"Keep Your Distance" by <a href="/wiki/Babe_Ruth" title="Babe Ruth">Babe Ruth</a></li>
+</ul>
+<p><b>Legalize It</b></p>
+<ul>
+<li>"Hallelujah, I Love Her So" by <a href="/wiki/Gene_Chandler" title="Gene Chandler">Gene Chandler</a></li>
+</ul>
+<p><b>Hits from the Bong</b></p>
+<ul>
+<li>"<a href="/wiki/Son_of_a_Preacher_Man" title="Son of a Preacher Man">Son of a Preacher Man</a>" by <a href="/wiki/Dusty_Springfield" title="Dusty Springfield">Dusty Springfield</a></li>
+<li>"Get Out of My Life, Woman" by <a href="/wiki/Lee_Dorsey" title="Lee Dorsey">Lee Dorsey</a></li>
+<li>"Don't Cha Hear Me Calling to Ya" by <a href="/wiki/Junior_Mance" title="Junior Mance">Junior Mance</a></li>
+</ul>
+<p><b>What Go Around Come Around, Kid</b></p>
+<ul>
+<li>"Get Out of My Life, Woman" by <a href="/wiki/Grassella_Oliphant" title="Grassella Oliphant">Grassella Oliphant</a></li>
+<li>"Cock The Hammer" by <a href="/wiki/Cypress_Hill" title="Cypress Hill">Cypress Hill</a></li>
+</ul>
+<p><b>A to the K</b></p>
+<ul>
+<li>"Military Cut - Scratch Mix" by <a href="/wiki/DJ_Grand_Wizard_Theodore" title="DJ Grand Wizard Theodore" class="mw-redirect">DJ Grand Wizard Theodore</a></li>
+</ul>
+<p><b>Hand on the Glock</b></p>
+<ul>
+<li>"Duke of Earl" by <a href="/wiki/Gene_Chandler" title="Gene Chandler">Gene Chandler</a></li>
+</ul>
+<p><b>Break 'Em Off Some</b></p>
+<ul>
+<li>"Money in the Pocket" by <a href="/wiki/Joe_Zawinul" title="Joe Zawinul">Joe Zawinul</a></li>
+</ul>
+<h2><span class="mw-headline" id="Album_chart_positions">Album chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=edit&amp;section=5" title="Edit section: Album chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<td rowspan="2"><b>Year</b></td>
+<td rowspan="2"><b>Album</b></td>
+<td colspan="2"><b>Chart positions</b></td>
+</tr>
+<tr>
+<td><a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a></td>
+<td>Top R&amp;B/Hip Hop Albums</td>
+</tr>
+<tr>
+<td>1993</td>
+<td><i>Black Sunday</i></td>
+<td>#1</td>
+<td>#1</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Singles_chart_positions">Singles chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=edit&amp;section=6" title="Edit section: Singles chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<td rowspan="2"><b>Year</b></td>
+<td rowspan="2"><b>Song</b></td>
+<td colspan="3"><b>Chart positions</b></td>
+</tr>
+<tr>
+<td><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a></td>
+<td><a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a></td>
+<td><a href="/wiki/Hot_Rap_Tracks" title="Hot Rap Tracks" class="mw-redirect">Hot Rap Singles</a></td>
+<td><a href="/wiki/Rhythmic_Top_40" title="Rhythmic Top 40" class="mw-redirect">Rhythmic Top 40</a></td>
+<td><a href="/wiki/Hot_Dance_Music/Maxi-Singles_Sales" title="Hot Dance Music/Maxi-Singles Sales" class="mw-redirect">Hot Dance Music/Maxi-Singles Sales</a></td>
+<td><a href="/wiki/Hot_Dance_Music/Club_Play" title="Hot Dance Music/Club Play" class="mw-redirect">Hot Dance Music/Club Play</a></td>
+</tr>
+<tr>
+<td rowspan="2">1993</td>
+</tr>
+<tr>
+<td>"<a href="/wiki/Insane_in_the_Brain" title="Insane in the Brain">Insane in the Brain</a>"</td>
+<td>#19</td>
+<td>#27</td>
+<td>#1</td>
+<td>#16</td>
+<td>#5</td>
+<td>#16</td>
+</tr>
+<tr>
+<td rowspan="2">1994</td>
+</tr>
+<tr>
+<td>"I Ain't Goin' Out Like That"</td>
+<td>#65</td>
+<td>#86</td>
+<td>#21</td>
+<td>-</td>
+<td>#21</td>
+<td>-</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=edit&amp;section=7" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/B-Real" title="B-Real">B-Real</a> - Vocals</li>
+<li><a href="/wiki/Sen_Dog" title="Sen Dog">Sen Dog</a> - Vocals</li>
+<li>Joe Gamble - Engineer</li>
+<li>Andy Kravitz - Engineer</li>
+<li>Manuel Lecuona - Engineer</li>
+<li><a href="/wiki/DJ_Muggs" title="DJ Muggs">DJ Muggs</a> - Arranger, Producer, Executive Producer, Mixing, Scratching/Turntablism</li>
+<li>Joe Nicolo - Executive Producer, Mixing</li>
+<li>Jay Papke - Design</li>
+<li><a href="/w/index.php?title=Jason_Roberts_(producer)&amp;action=edit&amp;redlink=1" class="new" title="Jason Roberts (producer) (page does not exist)">Jason Roberts</a> - Engineer</li>
+<li>Chris Schwartz - Executive Producer</li>
+<li>Chris Shaw - Engineer / Mixing</li>
+<li>T-Ray - Producer ("I Ain't Goin' Out Like That")</li>
+<li>Anthony Artiaga - Photography</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_albums_of_1993_(U.S.)" title="List of number-one albums of 1993 (U.S.)" class="mw-redirect">List of number-one albums of 1993 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1993_(U.S.)" title="List of number-one R&amp;B albums of 1993 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1993 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://tieba.baidu.com/f?kz=756926526">"我要发高端贴之 SOUNDSCAN历周冠军专辑销量！" [SOUNDSCAN album sales!]</a> (in Chinese). baidu.com. 1993: 7 Aug<span class="reference-accessdate">. Retrieved 19 October 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlack+Sunday+%28Cypress+Hill+album%29&amp;rft.btitle=%E6%88%91%E8%A6%81%E5%8F%91%E9%AB%98%E7%AB%AF%E8%B4%B4%E4%B9%8B+SOUNDSCAN%E5%8E%86%E5%91%A8%E5%86%A0%E5%86%9B%E4%B8%93%E8%BE%91%E9%94%80%E9%87%8F%EF%BC%81&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ftieba.baidu.com%2Ff%3Fkz%3D756926526&amp;rft.pages=1993%3A+7+Aug&amp;rft.pub=baidu.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation news">Kearney, Christine (16 April 2010). <a rel="nofollow" class="external text" href="http://www.marijuana.com/drug-war-headline-news/145107-ny-still-smokin-cypress-hill-battle-keep-fans.html">"NY: Still Smokin', Cypress Hill Battle To Keep Fans"</a>. <i>The Drug War Headline News</i> (Marijuana.com). Reuters<span class="reference-accessdate">. Retrieved 19 October 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlack+Sunday+%28Cypress+Hill+album%29&amp;rft.atitle=NY%3A+Still+Smokin%27%2C+Cypress+Hill+Battle+To+Keep+Fans&amp;rft.aufirst=Christine&amp;rft.au=Kearney%2C+Christine&amp;rft.aulast=Kearney&amp;rft.date=16+April+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.marijuana.com%2Fdrug-war-headline-news%2F145107-ny-still-smokin-cypress-hill-battle-keep-fans.html&amp;rft.jtitle=The+Drug+War+Headline+News&amp;rft.pub=Marijuana.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Huey, Steve. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r186668/review">"Cypress Hill: <i>Black Sunday</i> &gt; Review"</a> at <a href="/wiki/AllMusic" title="AllMusic">AllMusic</a>. Retrieved 19 October 2011.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rhapsody.com/artist/cypress-hill/album/black-sunday">"<i>Black Sunday</i> (Explicit): Cypress Hill"</a>. <a href="/wiki/Rhapsody_(online_music_service)" title="Rhapsody (online music service)">Rhapsody</a><span class="reference-accessdate">. Retrieved 19 October 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlack+Sunday+%28Cypress+Hill+album%29&amp;rft.btitle=%27%27Black+Sunday%27%27+%28Explicit%29%3A+Cypress+Hill&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rhapsody.com%2Fartist%2Fcypress-hill%2Falbum%2Fblack-sunday&amp;rft.pub=Rhapsody&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation news">Sinclair, Tom (30 July 1993). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,307438,00.html">"<i>Black Sunday</i>: Cypress Hill"</a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> (#181) (Time). <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1049-0434">1049-0434</a><span class="reference-accessdate">. Retrieved 19 October 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlack+Sunday+%28Cypress+Hill+album%29&amp;rft.atitle=%27%27Black+Sunday%27%27%3A+Cypress+Hill&amp;rft.aufirst=Tom&amp;rft.aulast=Sinclair&amp;rft.au=Sinclair%2C+Tom&amp;rft.date=30+July+1993&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C307438%2C00.html&amp;rft.issn=1049-0434&amp;rft.issue=%23181&amp;rft.jtitle=Entertainment+Weekly&amp;rft.pub=Time&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20020803103007/http://www.realrap.net/review.html?id=31">"Cypress Hill's zenith"</a>. <i>RealRap Network</i>. realrap.net. 11 July 2002. Archived from <a rel="nofollow" class="external text" href="http://www.realrap.net/review.html?id=31">the original</a> on 3 August 2002.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlack+Sunday+%28Cypress+Hill+album%29&amp;rft.atitle=Cypress+Hill%27s+zenith&amp;rft.date=11+July+2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.realrap.net%2Freview.html%3Fid%3D31&amp;rft.jtitle=RealRap+Network&amp;rft.pub=realrap.net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-The_Source-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_Source_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_Source_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/pid/1087746/">"Black Sunday"</a>. <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> (New York): 82. September&#160;1993<span style="display:none">&#160;(<span class="bday dtstart published updated">1993-09</span>)</span>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1063-2085">1063-2085</a><span class="reference-accessdate">. Retrieved 19 October 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlack+Sunday+%28Cypress+Hill+album%29&amp;rft.atitle=Black+Sunday&amp;rft.date=September%26nbsp%3B1993%3Cspan+style%3D%22display%3Anone%22%3E%26%23160%3B%28%3Cspan+class%3D%22bday+dtstart+published+updated%22%3E1993-09%3C%2Fspan%3E%29%3C%2Fspan%3E&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cduniverse.com%2Fpid%2F1087746%2F&amp;rft.issn=1063-2085&amp;rft.jtitle=The+Source&amp;rft.pages=82&amp;rft.place=New+York&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Check date values in: <code>|date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Rolling_Stone-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rolling_Stone_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rolling_Stone_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news">Diehl, Matt (16 September 1993). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20071104154934/http://www.rollingstone.com/reviews/album/320921/review/6068137/blacksunday">"Cypress Hill: <i>Black Sunday</i>"</a>. <i>Rolling Stone</i> (RS 665) (Straight Arrow). p.&#160;64. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0035-791X">0035-791X</a>. Archived from <a rel="nofollow" class="external text" href="http://www.rollingstone.com/reviews/album/320921/review/6068137/blacksunday">the original</a> on 4 November 2007.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlack+Sunday+%28Cypress+Hill+album%29&amp;rft.atitle=Cypress+Hill%3A+%27%27Black+Sunday%27%27&amp;rft.au=Diehl%2C+Matt&amp;rft.aufirst=Matt&amp;rft.aulast=Diehl&amp;rft.date=16+September+1993&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Freviews%2Falbum%2F320921%2Freview%2F6068137%2Fblacksunday&amp;rft.issn=0035-791X&amp;rft.issue=RS+665&amp;rft.jtitle=Rolling+Stone&amp;rft.pages=64&amp;rft.pub=Straight+Arrow&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/pid/1087746/">"Cypress Hill - <i>Black Sunday</i> CD"</a>. CDUniverse.com<span class="reference-accessdate">. Retrieved 19 October 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlack+Sunday+%28Cypress+Hill+album%29&amp;rft.btitle=Cypress+Hill+-+%27%27Black+Sunday%27%27+CD&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cduniverse.com%2Fpid%2F1087746%2F&amp;rft.pub=CDUniverse.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/pid/1087746/">"The 50 Best Albums of 1993"</a>. <i><a href="/wiki/Q_(magazine)" title="Q (magazine)" class="mw-redirect">Q</a></i> (Bauer Media). January&#160;1994<span style="display:none">&#160;(<span class="bday dtstart published updated">1994-01</span>)</span>. p.&#160;83. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0955-4955">0955-4955</a><span class="reference-accessdate">. Retrieved 19 October 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlack+Sunday+%28Cypress+Hill+album%29&amp;rft.atitle=The+50+Best+Albums+of+1993&amp;rft.date=January%26nbsp%3B1994%3Cspan+style%3D%22display%3Anone%22%3E%26%23160%3B%28%3Cspan+class%3D%22bday+dtstart+published+updated%22%3E1994-01%3C%2Fspan%3E%29%3C%2Fspan%3E&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cduniverse.com%2Fpid%2F1087746%2F&amp;rft.issn=0955-4955&amp;rft.jtitle=Q&amp;rft.pages=83&amp;rft.pub=Bauer+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Check date values in: <code>|date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/pid/1087746/">"The Albums of the Year"</a>. <i><a href="/wiki/Melody_Maker" title="Melody Maker">Melody Maker</a></i> (IPC Media). 1 January 1994. p.&#160;77. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0025-9012">0025-9012</a><span class="reference-accessdate">. Retrieved 19 October 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlack+Sunday+%28Cypress+Hill+album%29&amp;rft.atitle=The+Albums+of+the+Year&amp;rft.date=1+January+1994&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cduniverse.com%2Fpid%2F1087746%2F&amp;rft.issn=0025-9012&amp;rft.jtitle=Melody+Maker&amp;rft.pages=77&amp;rft.pub=IPC+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/pid/1087746/">"1993 Pazz &amp; Jop Critics Poll"</a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> (New York). 3 January 1994. p.&#160;5. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0042-6180">0042-6180</a><span class="reference-accessdate">. Retrieved 19 October 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlack+Sunday+%28Cypress+Hill+album%29&amp;rft.atitle=1993+Pazz+%26+Jop+Critics+Poll&amp;rft.date=3+January+1994&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cduniverse.com%2Fpid%2F1087746%2F&amp;rft.issn=0042-6180&amp;rft.jtitle=The+Village+Voice&amp;rft.pages=5&amp;rft.place=New+York&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/pid/1087746/">"The Top 50 LPs of 1993"</a>. <i><a href="/wiki/NME" title="NME">NME</a></i> (IPC Media). 25 December 1993. p.&#160;66. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0028-6362">0028-6362</a><span class="reference-accessdate">. Retrieved 19 October 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlack+Sunday+%28Cypress+Hill+album%29&amp;rft.atitle=The+Top+50+LPs+of+1993&amp;rft.date=25+December+1993&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cduniverse.com%2Fpid%2F1087746%2F&amp;rft.issn=0028-6362&amp;rft.jtitle=NME&amp;rft.pages=66&amp;rft.pub=IPC+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/master/16404"><span style="font-style:normal;">Cypress Hill</span> – Black Sunday</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a> (list of releases)</li>
+</ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Zooropa" title="Zooropa">Zooropa</a></i> by <a href="/wiki/U2" title="U2">U2</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_1993_(USA)" title="Number-one albums of 1993 (USA)" class="mw-redirect">number-one album</a></b><br />
+August 7–20, 1993</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Sleepless_in_Seattle#Soundtrack" title="Sleepless in Seattle">Sleepless in Seattle (soundtrack)</a></i> by Various artists</span></td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cypress_Hill" title="Template:Cypress Hill"><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cypress_Hill" title="Template talk:Cypress Hill"><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cypress_Hill&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><a href="/wiki/Cypress_Hill" title="Cypress Hill">Cypress Hill</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/B-Real" title="B-Real">B-Real</a></li>
+<li><a href="/wiki/Sen_Dog" title="Sen Dog">Sen Dog</a></li>
+<li><a href="/wiki/DJ_Muggs" title="DJ Muggs">DJ Muggs</a></li>
+<li><a href="/wiki/Eric_%22Bobo%22_Correa" title="Eric &quot;Bobo&quot; Correa">Eric Bobo</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Cypress_Hill_(album)" title="Cypress Hill (album)">Cypress Hill</a></i></li>
+<li><i><strong class="selflink">Black Sunday</strong></i></li>
+<li><i><a href="/wiki/Cypress_Hill_III:_Temples_of_Boom" title="Cypress Hill III: Temples of Boom">Cypress Hill III: Temples of Boom</a></i></li>
+<li><i><a href="/wiki/Cypress_Hill_IV" title="Cypress Hill IV">Cypress Hill IV</a></i></li>
+<li><i><a href="/wiki/Skull_%26_Bones_(album)" title="Skull &amp; Bones (album)">Skull &amp; Bones</a></i></li>
+<li><i><a href="/wiki/Stoned_Raiders" title="Stoned Raiders">Stoned Raiders</a></i></li>
+<li><i><a href="/wiki/Till_Death_Do_Us_Part_(Cypress_Hill_album)" title="Till Death Do Us Part (Cypress Hill album)">Till Death Do Us Part</a></i></li>
+<li><i><a href="/wiki/Rise_Up_(Cypress_Hill_album)" title="Rise Up (Cypress Hill album)">Rise Up</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Los_grandes_%C3%A9xitos_en_espa%C3%B1ol" title="Los grandes éxitos en español">Los grandes éxitos en español</a></i></li>
+<li><i><a href="/wiki/Greatest_Hits_from_the_Bong" title="Greatest Hits from the Bong">Greatest Hits from the Bong</a></i></li>
+<li><i><a href="/wiki/Super_Hits_(Cypress_Hill_album)" title="Super Hits (Cypress Hill album)">Super Hits</a></i></li>
+<li><i><a href="/wiki/Collections_(Cypress_Hill_album)" title="Collections (Cypress Hill album)">Collections</a></i></li>
+<li><i><a href="/wiki/Strictly_Hip_Hop:_The_Best_of_Cypress_Hill" title="Strictly Hip Hop: The Best of Cypress Hill">Strictly Hip Hop: The Best of Cypress Hill</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Live albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Live_at_the_Fillmore_(Cypress_Hill_album)" title="Live at the Fillmore (Cypress Hill album)">Live at the Fillmore</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">EPs</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Unreleased_and_Revamped" title="Unreleased and Revamped">Unreleased and Revamped</a></i></li>
+<li><i><a href="/wiki/Stash_(EP)" title="Stash (EP)">Stash</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/How_I_Could_Just_Kill_a_Man" title="How I Could Just Kill a Man">How I Could Just Kill a Man</a>"</li>
+<li>"<a href="/wiki/The_Phuncky_Feel_One" title="The Phuncky Feel One">The Phuncky Feel One</a>"</li>
+<li>"<a href="/wiki/Insane_in_the_Brain" title="Insane in the Brain">Insane in the Brain</a>"</li>
+<li>"<a href="/wiki/Dr._Greenthumb" title="Dr. Greenthumb">Dr. Greenthumb</a>"</li>
+<li>"<a href="/wiki/(Rap)_Superstar" title="(Rap) Superstar">(Rap) Superstar</a>"</li>
+<li>"<a href="/wiki/(Rock)_Superstar" title="(Rock) Superstar">(Rock) Superstar</a>"</li>
+<li>"<a href="/wiki/Trouble_(Cypress_Hill_song)" title="Trouble (Cypress Hill song)">Trouble</a>"</li>
+<li>"<a href="/wiki/Lowrider_(Cypress_Hill_song)" title="Lowrider (Cypress Hill song)">Lowrider</a>"</li>
+<li>"<a href="/wiki/What%27s_Your_Number%3F_(song)" title="What's Your Number? (song)">What's Your Number?</a>"</li>
+<li>"<a href="/wiki/Rise_Up_(Cypress_Hill_song)" title="Rise Up (Cypress Hill song)">Rise Up</a>"</li>
+<li>"<a href="/wiki/Armada_Latina" title="Armada Latina">Armada Latina</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Cypress_Hill_discography" title="Cypress Hill discography">Discography</a></li>
+<li><a href="/wiki/Homerpalooza" title="Homerpalooza">Homerpalooza</a></li>
+<li><a href="/wiki/Soul_Assassins" title="Soul Assassins">Soul Assassins</a></li>
+<li><i><a href="/wiki/Kingpin:_Life_of_Crime" title="Kingpin: Life of Crime">Kingpin: Life of Crime</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1006
+CPU time usage: 1.896 seconds
+Real time usage: 1.988 seconds
+Preprocessor visited node count: 7597/1000000
+Preprocessor generated node count: 37092/1500000
+Post‐expand include size: 78701/2048000 bytes
+Template argument size: 9812/2048000 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.122/10.000 seconds
+Lua memory usage: 2.42 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:825658-0!*!0!!en!4!* and timestamp 20140601041319 and revision id 608398289
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;oldid=608398289">http://en.wikipedia.org/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;oldid=608398289</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cypress_Hill_albums" title="Category:Cypress Hill albums">Cypress Hill albums</a></li><li><a href="/wiki/Category:1993_albums" title="Category:1993 albums">1993 albums</a></li><li><a href="/wiki/Category:Columbia_Records_albums" title="Category:Columbia Records albums">Columbia Records albums</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Muggs" title="Category:Albums produced by DJ Muggs">Albums produced by DJ Muggs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Black+Sunday+%28Cypress+Hill+album%29&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Black+Sunday+%28Cypress+Hill+album%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Black_Sunday_(Cypress_Hill_album)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Black_Sunday_(Cypress_Hill_album)"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Black_Sunday_(Cypress_Hill_album)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Black_Sunday_(Cypress_Hill_album)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Black_Sunday_(Cypress_Hill_album)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;oldid=608398289" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q880587" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Black_Sunday_%28Cypress_Hill_album%29&amp;id=608398289" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Black+Sunday+%28Cypress+Hill+album%29">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Black+Sunday+%28Cypress+Hill+album%29&amp;oldid=608398289&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Black_Sunday_(Cypress_Hill_album)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/Black_Sunday" title="Black Sunday – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Black_Sunday_(Album)" title="Black Sunday (Album) – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Black_Sunday" title="Black Sunday – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Black_Sunday" title="Black Sunday – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Black_Sunday_(album)" title="Black Sunday (album) – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Black_Sunday" title="Black Sunday – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Black_Sunday" title="Black Sunday – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Black_Sunday_(%C3%A1lbum)" title="Black Sunday (álbum) – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Black_Sunday" title="Black Sunday – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/Black_Sunday" title="Black Sunday – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q880587#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 May 2014 at 15:40.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Black_Sunday_(Cypress_Hill_album)" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":198,"wgHostname":"mw1215"});
+}</script>
+	</body>
+</html>
+	

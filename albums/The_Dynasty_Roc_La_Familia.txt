@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>The Dynasty: Roc La Familia - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Dynasty:_Roc_La_Familia" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/The_Dynasty:_Roc_La_Familia" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Dynasty:_Roc_La_Familia","wgTitle":"The Dynasty: Roc La Familia","wgCurRevisionId":593609798,"wgRevisionId":593609798,"wgArticleId":1716734,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from July 2013","Articles with hAudio microformats","Articles with album ratings that need to be turned into prose","Jay-Z albums","2000 albums","Albums produced by Bink","Albums produced by Just Blaze","Albums produced by Kanye West","Albums produced by The Neptunes","Albums produced by Rick Rock","Albums produced by Rockwilder","Def Jam Recordings albums","English-language albums","Roc-A-Fella Records albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Dynasty:_Roc_La_Familia","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1786664"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-The_Dynasty_Roc_La_Familia skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>The Dynasty: Roc La Familia</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">The Dynasty: Roc La Familia</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Jay-z-dynasty-roc-la-familia-2000.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/40/Jay-z-dynasty-roc-la-familia-2000.jpg/220px-Jay-z-dynasty-roc-la-familia-2000.jpg" width="220" height="220" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/4/40/Jay-z-dynasty-roc-la-familia-2000.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/4/40/Jay-z-dynasty-roc-la-familia-2000.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">October 31, 2000</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>2000</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>66:35</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella</a>, <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Just_Blaze" title="Just Blaze">Just Blaze</a>, <a href="/wiki/Rick_Rock" title="Rick Rock">Rick Rock</a>, <a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a>, <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>, <a href="/wiki/Bink!" title="Bink!" class="mw-redirect">Bink!</a>, <a href="/wiki/Rockwilder" title="Rockwilder">Rockwilder</a>, <a href="/wiki/Memphis_Bleek" title="Memphis Bleek">Memphis Bleek</a>, B-High, T.T.</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Vol._3..._Life_and_Times_of_S._Carter" title="Vol. 3... Life and Times of S. Carter">Vol. 3... Life and Times of S. Carter</a></i><br />
+(1999)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>The Dynasty: Roc La Familia</b></i><br />
+(2000)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/The_Blueprint" title="The Blueprint">The Blueprint</a></i><br />
+(2001)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>The Dynasty: Roc La Familia</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/I_Just_Wanna_Love_U_(Give_It_2_Me)" title="I Just Wanna Love U (Give It 2 Me)">I Just Wanna Love U (Give It 2 Me)</a>"</span><br />
+Released: October 17, 2000</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Change_the_Game" title="Change the Game">Change the Game</a>"</span><br />
+Released: January 9, 2001</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Guilty_Until_Proven_Innocent" title="Guilty Until Proven Innocent">Guilty Until Proven Innocent</a>"</span><br />
+Released: March 13, 2001</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">(B)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">B+<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/NME" title="NME">NME</a></i></td>
+<td style="vertical-align:middle">(8/10)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">RapReviews</td>
+<td style="vertical-align:middle">(8/10)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Rhapsody_(online_music_service)" title="Rhapsody (online music service)">Rhapsody</a></td>
+<td style="vertical-align:middle">(favorable)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Village_Voice" title="The Village Voice">Village Voice</a></i></td>
+<td style="vertical-align:middle">(mixed)<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Yahoo!_Music" title="Yahoo! Music">Yahoo! Music</a></td>
+<td style="vertical-align:middle">(mixed)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>The Dynasty: Roc La Familia</b></i> is the fifth <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> released by American rapper <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> Its lead single, "<a href="/wiki/I_Just_Wanna_Love_U_(Give_It_2_Me)" title="I Just Wanna Love U (Give It 2 Me)">I Just Wanna Love U (Give It 2 Me)</a>", produced by <a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a>, was one of Jay-Z's most successful singles peaking at number 11 on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>. The album debuted at #1 on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> with 557,789 copies sold in its first week and more than 2.3 million copies sold to date. The album generally received positive reviews from music critics and the album ended up becoming the 20th highest selling R&amp;B/Hip-Hop Album of the 2000–2010 decade according to <i>Billboard</i>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Music"><span class="tocnumber">1</span> <span class="toctext">Music</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Track_listing"><span class="tocnumber">2</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Chart_history"><span class="tocnumber">3</span> <span class="toctext">Chart history</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;action=edit&amp;section=1" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Originally a <a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella Records</a> compilation album, a showcase for Roc-A-Fella artists such as <a href="/wiki/Memphis_Bleek" title="Memphis Bleek">Memphis Bleek</a>, <a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a>, <a href="/wiki/Amil_(rapper)" title="Amil (rapper)">Amil</a> and <a href="/wiki/Freeway_(rapper)" title="Freeway (rapper)">Freeway</a>, which eventually became another Jay-Z solo album (or at least marketed as one to increase sales), although the Roc-A-Fella artists are abundant on this album. Big name guest appearances have been limited to three – <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>, <a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a>, and <a href="/wiki/Scarface_(rapper)" title="Scarface (rapper)">Scarface</a> – to make room for the Roc-A-Fella family. Rather than using big-name producers such as <a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a> and <a href="/wiki/Timbaland" title="Timbaland">Timbaland</a>, who had featured prominently on <i><a href="/wiki/Vol._2..._Hard_Knock_Life" title="Vol. 2... Hard Knock Life">Vol. 2</a></i> and <i><a href="/wiki/Vol._3..._Life_and_Times_of_S._Carter" title="Vol. 3... Life and Times of S. Carter">Vol. 3</a></i>, Jay-Z had decided to feature more up-and-coming producers at the time of this album, such as <a href="/wiki/Just_Blaze" title="Just Blaze">Just Blaze</a>, <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>, <a href="/wiki/Bink_(record_producer)" title="Bink (record producer)">Bink!</a> and <a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a>. Partially as a result of this exposure, these producers would achieve notable success in the future. This was also the first album of Jay-Z's not to feature work by long time producer <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>. Given Just Blaze and Kanye West's penchant for utilizing soul samples in their beats, the album features a smoother sound than Jay-Z's previous efforts, though <a href="/wiki/San_Francisco_Bay_Area" title="San Francisco Bay Area">Bay Area</a>-based producer <a href="/wiki/Rick_Rock" title="Rick Rock">Rick Rock</a> includes a more minimalist sound in his four productions.</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;action=edit&amp;section=2" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Intro" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Just_Blaze" title="Just Blaze">Just Blaze</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:10</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Change_the_Game" title="Change the Game">Change the Game</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Memphis_Bleek" title="Memphis Bleek">Memphis Bleek</a>, <a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a> &amp; <a href="/wiki/Static_Major" title="Static Major">Static Major</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Rick_Rock" title="Rick Rock">Rick Rock</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:07</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/I_Just_Wanna_Love_U_(Give_It_2_Me)" title="I Just Wanna Love U (Give It 2 Me)">I Just Wanna Love U (Give It 2 Me)</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Pharrell_Williams" title="Pharrell Williams">Pharrell Williams</a> &amp; <a href="/wiki/Omillio_Sparks" title="Omillio Sparks">Omillio Sparks</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:47</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Streets Is Talking" <span style="font-size:85%;">(featuring Beanie Sigel)</span></td>
+<td style="vertical-align: top;">Just Blaze</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:44</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"This Can't Be Life" <span style="font-size:85%;">(featuring Beanie Sigel &amp; <a href="/wiki/Scarface_(rapper)" title="Scarface (rapper)">Scarface</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:48</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Get Your Mind Right Mami" <span style="font-size:85%;">(featuring Memphis Bleek, <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a> &amp; <a href="/wiki/Rell_(singer)" title="Rell (singer)">Rell</a>)</span></td>
+<td style="vertical-align: top;">Rick Rock</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:22</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Stick 2 the Script" <span style="font-size:85%;">(featuring Beanie Sigel &amp; <a href="/wiki/DJ_Clue%3F" title="DJ Clue?">DJ Clue?</a>)</span></td>
+<td style="vertical-align: top;">Just Blaze</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:08</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"You, Me, Him and Her" <span style="font-size:85%;">(featuring Beanie Sigel, Memphis Bleek &amp; <a href="/wiki/Amil_(rapper)" title="Amil (rapper)">Amil</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Bink_(record_producer)" title="Bink (record producer)">Bink!</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:44</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Guilty_Until_Proven_Innocent" title="Guilty Until Proven Innocent">Guilty Until Proven Innocent</a>" <span style="font-size:85%;">(featuring <a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Rockwilder" title="Rockwilder">Rockwilder</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:55</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Parking Lot Pimpin'" <span style="font-size:85%;">(featuring Beanie Sigel, Memphis Bleek &amp; <a href="/wiki/Lil%27_Mo" title="Lil' Mo">Lil' Mo</a>)</span></td>
+<td style="vertical-align: top;">Rick Rock</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:15</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Holla" <span style="font-size:85%;">(performed by Memphis Bleek)</span></td>
+<td style="vertical-align: top;">Memphis Bleek &amp; B-High</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:32</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"1-900-Hustler" <span style="font-size:85%;">(featuring Beanie Sigel, Memphis Bleek &amp; <a href="/wiki/Freeway_(rapper)" title="Freeway (rapper)">Freeway</a>)</span></td>
+<td style="vertical-align: top;">Bink!</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:50</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"The R.O.C." <span style="font-size:85%;">(performed by Beanie Sigel &amp; Memphis Bleek)</span></td>
+<td style="vertical-align: top;">Just Blaze</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:06</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Soon You'll Understand" &#160;</td>
+<td style="vertical-align: top;">Just Blaze</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:35</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Squeeze 1st" &#160;</td>
+<td style="vertical-align: top;">Rick Rock</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:49</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Where Have You Been" <span style="font-size:85%;">(featuring Beanie Sigel &amp; L. Dionne)</span></td>
+<td style="vertical-align: top;">T.T.</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:33</td>
+</tr>
+</table>
+<p><u>Sample credits</u></p>
+<ul>
+<li>"Intro" contains a sample of "She Said She Loves Me" by <a href="/wiki/Kleeer" title="Kleeer">Kleeer</a></li>
+<li>"I Just Wanna Love U (Give it 2 Me)" contains elements and samples of "Give it To Me Baby" performed by Rick James, and "The World is Filled" by the Notorious B.I.G.</li>
+<li>"Squeeze 1st" contains elements from "Hypnotize" and "Who Shot Ya", both performed by <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a></li>
+<li>"1-900-Hustler" contains a sample of "Ain't Gonna Happen" by Ten Wheel Drive and Genya Ravan</li>
+<li>"Change the Game" and "Get Your Mind Right Mami" both contain a sample of "You Gots to Chill" by EPMD</li>
+<li>"Soon You'll Understand" contains a sample of the Love Theme from The Landlord, by Al Kooper</li>
+<li>"Stick 2 The Script" contains a sample of "Under Pressure" by Nick Ingman</li>
+<li>"You, Me, Him, and Her" contains a sample of "What's Your Name" performed by The Moments</li>
+<li>"This Can't Be Life" contains a sample of "I Miss You" performed by Harold Melvin &amp; The Blue Notes and "Xxplosive" by Dr. Dre</li>
+</ul>
+<h2><span class="mw-headline" id="Chart_history">Chart history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;action=edit&amp;section=3" title="Edit section: Chart history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Album</dt>
+</dl>
+<table class="wikitable">
+<tr>
+<th align="left">Chart (2000)</th>
+<th style="text-align:center;">Peak<br />
+position</th>
+</tr>
+<tr>
+<td align="left">U.S. <a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td align="left">U.S. Top R&amp;B/Hip Hop Albums</td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td align="left">Top Canadian Albums</td>
+<td style="text-align:center;">5</td>
+</tr>
+</table>
+<dl>
+<dt>Singles</dt>
+</dl>
+<table class="wikitable">
+<tr>
+<td rowspan="2"><b>Year</b></td>
+<td rowspan="2"><b>Song</b></td>
+<td colspan="4"><b>Chart positions</b></td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a></b></td>
+<td><b><a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a></b></td>
+<td><b><a href="/wiki/Hot_Rap_Singles" title="Hot Rap Singles" class="mw-redirect">Hot Rap Singles</a></b></td>
+</tr>
+<tr>
+<td>2000</td>
+<td>"I Just Wanna Love U (Give It 2 Me)"</td>
+<td style="text-align:center;">#11</td>
+<td style="text-align:center;">#1</td>
+<td style="text-align:center;">#4</td>
+</tr>
+<tr>
+<td rowspan="2">2001</td>
+<td>"Change The Game"</td>
+<td style="text-align:center;">#86</td>
+<td style="text-align:center;">#29</td>
+<td style="text-align:center;">#10</td>
+</tr>
+<tr>
+<td>"Guilty Until Proven Innocent"</td>
+<td style="text-align:center;">#82</td>
+<td style="text-align:center;">#29</td>
+<td style="text-align:center;">#12</td>
+</tr>
+</table>
+<dl>
+<dt>Chart procession and succession</dt>
+</dl>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Chocolate_Starfish_and_the_Hot_Dog_Flavored_Water" title="Chocolate Starfish and the Hot Dog Flavored Water">Chocolate Starfish and the Hot Dog Flavored Water</a></i><br />
+by <a href="/wiki/Limp_Bizkit" title="Limp Bizkit">Limp Bizkit</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_2000_(USA)" title="Number-one albums of 2000 (USA)" class="mw-redirect">number-one album</a></b><br />
+November 18–24, 2000</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/TP-2.com" title="TP-2.com">TP-2.com</a></i> by <a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a></span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_albums_of_2000_(U.S.)" title="List of number-one albums of 2000 (U.S.)" class="mw-redirect">List of number-one albums of 2000 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_2000_(U.S.)" title="List of number-one R&amp;B albums of 2000 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 2000 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r505777">The Dynasty: Roc La Familia</a> at <a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=jay-z">"CG: jay-z"</a>. Robert Christgau<span class="reference-accessdate">. Retrieved 2013-07-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Dynasty%3A+Roc+La+Familia&amp;rft.btitle=CG%3A+jay-z&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fget_artist.php%3Fname%3Djay-z&amp;rft.pub=Robert+Christgau&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">Craig Seymour (2000-11-17). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,20267956,00.html">"The Dynasty Roc La Familia (2000-) Review | Music Reviews and News"</a>. EW.com<span class="reference-accessdate">. Retrieved 2013-07-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Dynasty%3A+Roc+La+Familia&amp;rft.au=Craig+Seymour&amp;rft.aulast=Craig+Seymour&amp;rft.btitle=The+Dynasty+Roc+La+Familia+%282000-%29+Review+%26%23124%3B+Music+Reviews+and+News&amp;rft.date=2000-11-17&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C20267956%2C00.html&amp;rft.pub=EW.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nme.com/reviews/name/3359">"NME Album Reviews - The Dynasty: Roc La Familia 2000"</a>. Nme.Com. 2000-11-06<span class="reference-accessdate">. Retrieved 2013-07-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Dynasty%3A+Roc+La+Familia&amp;rft.btitle=NME+Album+Reviews+-+The+Dynasty%3A+Roc+La+Familia+2000&amp;rft.date=2000-11-06&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nme.com%2Freviews%2Fname%2F3359&amp;rft.pub=Nme.Com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rapreviews.com/archive/2000_11F_dynasty.html">"Second Feature for October 29, 2000 - Jay-Z's "The Dynasty Roc La Familia<span style="padding-right:0.2em;">"</span>"</a>. Rapreviews.com<span class="reference-accessdate">. Retrieved 2013-07-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Dynasty%3A+Roc+La+Familia&amp;rft.btitle=Second+Feature+for+October+29%2C+2000+-+Jay-Z%27s+%22The+Dynasty+Roc+La+Familia%22&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rapreviews.com%2Farchive%2F2000_11F_dynasty.html&amp;rft.pub=Rapreviews.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.rhapsody.com/jay-z/the-dynasty-roc-la-familia-2000">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since July 2013">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/artists/jay-z/albumguide">"Jay-Z: Album Guide | Rolling Stone Music"</a>. Rollingstone.com. 2013-06-25<span class="reference-accessdate">. Retrieved 2013-07-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Dynasty%3A+Roc+La+Familia&amp;rft.btitle=Jay-Z%3A+Album+Guide+%26%23124%3B+Rolling+Stone+Music&amp;rft.date=2013-06-25&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fartists%2Fjay-z%2Falbumguide&amp;rft.pub=Rollingstone.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.tower.com/dynasty-roc-la-familia-2000-jay-z-cd/wapi/105804431">"Music: The Dynasty: Roc La Familia 2000 (CD) by Jay-Z (Artist)"</a>. Tower.com. 2000-10-31<span class="reference-accessdate">. Retrieved 2013-07-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Dynasty%3A+Roc+La+Familia&amp;rft.btitle=Music%3A+The+Dynasty%3A+Roc+La+Familia+2000+%28CD%29+by+Jay-Z+%28Artist%29&amp;rft.date=2000-10-31&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.tower.com%2Fdynasty-roc-la-familia-2000-jay-z-cd%2Fwapi%2F105804431&amp;rft.pub=Tower.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web">Kelefa Sanneh (2000-12-19). <a rel="nofollow" class="external text" href="http://www.villagevoice.com/2000-12-19/music/sobs-static-and-sweat/">"Sobs, Static, and Sweat - Page 1 - Music - New York"</a>. Village Voice<span class="reference-accessdate">. Retrieved 2013-07-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Dynasty%3A+Roc+La+Familia&amp;rft.au=Kelefa+Sanneh&amp;rft.aulast=Kelefa+Sanneh&amp;rft.btitle=Sobs%2C+Static%2C+and+Sweat+-+Page+1+-+Music+-+New+York&amp;rft.date=2000-12-19&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.villagevoice.com%2F2000-12-19%2Fmusic%2Fsobs-static-and-sweat%2F&amp;rft.pub=Village+Voice&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://ca.music.yahoo.com/read/review/12053891">[2]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since July 2013">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.com/Dynasty-Roc-Familia-2000/dp/B000050HS9/">"The Dynasty: Roc La Familia 2000: Jay-Z: Music"</a>. Amazon.com<span class="reference-accessdate">. Retrieved 2012-02-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Dynasty%3A+Roc+La+Familia&amp;rft.btitle=The+Dynasty%3A+Roc+La+Familia+2000%3A+Jay-Z%3A+Music&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2FDynasty-Roc-Familia-2000%2Fdp%2FB000050HS9%2F&amp;rft.pub=Amazon.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts-decade-end/r-b-hip-hop-albums?year=2009#/charts-decade-end/r-b-hip-hop-albums?year=2009&amp;begin=11&amp;order=position">"Top Hip-Hop and R&amp;B Albums &amp; Charts"</a>. Billboard.com. 2009-12-31<span class="reference-accessdate">. Retrieved 2012-02-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Dynasty%3A+Roc+La+Familia&amp;rft.btitle=Top+Hip-Hop+and+R%26B+Albums+%26+Charts&amp;rft.date=2009-12-31&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts-decade-end%2Fr-b-hip-hop-albums%3Fyear%3D2009%23%2Fcharts-decade-end%2Fr-b-hip-hop-albums%3Fyear%3D2009%26begin%3D11%26order%3Dposition&amp;rft.pub=Billboard.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/Jay-Z-The-Dynasty-Roc-La-Familia-2000-/master/46962">The Dynasty: Roc La Familia</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Jay-Z" title="Template:Jay-Z"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Jay-Z" title="Template talk:Jay-Z"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Jay-Z&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/Jay-Z_discography" title="Jay-Z discography">Discography</a></li>
+<li><a href="/wiki/List_of_songs_recorded_by_Jay-Z" title="List of songs recorded by Jay-Z">Songs</a></li>
+<li><a href="/wiki/Jay-Z#Filmography" title="Jay-Z">Films</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Jay-Z" title="List of awards and nominations received by Jay-Z">Awards and nominations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Reasonable_Doubt_(album)" title="Reasonable Doubt (album)">Reasonable Doubt</a></i></li>
+<li><i><a href="/wiki/In_My_Lifetime,_Vol._1" title="In My Lifetime, Vol. 1">In My Lifetime, Vol. 1</a></i></li>
+<li><i><a href="/wiki/Vol._2..._Hard_Knock_Life" title="Vol. 2... Hard Knock Life">Vol. 2... Hard Knock Life</a></i></li>
+<li><i><a href="/wiki/Vol._3..._Life_and_Times_of_S._Carter" title="Vol. 3... Life and Times of S. Carter">Vol. 3... Life and Times of S. Carter</a></i></li>
+<li><i><strong class="selflink">The Dynasty: Roc La Familia</strong></i></li>
+<li><i><a href="/wiki/The_Blueprint" title="The Blueprint">The Blueprint</a></i></li>
+<li><i><a href="/wiki/The_Blueprint_2:_The_Gift_%26_The_Curse" title="The Blueprint 2: The Gift &amp; The Curse">The Blueprint 2: The Gift &amp; The Curse</a></i></li>
+<li><i><a href="/wiki/The_Black_Album_(Jay-Z_album)" title="The Black Album (Jay-Z album)">The Black Album</a></i></li>
+<li><i><a href="/wiki/Kingdom_Come_(Jay-Z_album)" title="Kingdom Come (Jay-Z album)">Kingdom Come</a></i></li>
+<li><i><a href="/wiki/American_Gangster_(album)" title="American Gangster (album)">American Gangster</a></i></li>
+<li><i><a href="/wiki/The_Blueprint_3" title="The Blueprint 3">The Blueprint 3</a></i></li>
+<li><i><a href="/wiki/Magna_Carta_Holy_Grail" title="Magna Carta Holy Grail">Magna Carta Holy Grail</a></i></li>
+</ul>
+</div>
+<table cellspacing="0" class="nowraplinks vcard navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE; text-align:center;;">Collaborations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Jay-Z:_Unplugged" title="Jay-Z: Unplugged" class="mw-redirect">Jay-Z: Unplugged</a></i> <small style="font-size:85%;">(with <a href="/wiki/The_Roots" title="The Roots">The Roots</a>)</small></li>
+<li><i><a href="/wiki/The_Best_of_Both_Worlds_(Jay-Z_and_R._Kelly_album)" title="The Best of Both Worlds (Jay-Z and R. Kelly album)">The Best of Both Worlds</a></i> <small style="font-size:85%;">(with <a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a>)</small></li>
+<li><i><a href="/wiki/Unfinished_Business_(Jay-Z_and_R._Kelly_album)" title="Unfinished Business (Jay-Z and R. Kelly album)">Unfinished Business</a></i> <small style="font-size:85%;">(with R. Kelly)</small></li>
+<li><i><a href="/wiki/Collision_Course_(album)" title="Collision Course (album)">Collision Course</a></i> <small style="font-size:85%;">(with <a href="/wiki/Linkin_Park" title="Linkin Park">Linkin Park</a>)</small></li>
+<li><i><a href="/wiki/Watch_the_Throne" title="Watch the Throne">Watch the Throne</a></i> <small style="font-size:85%;">(with <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilation albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Chapter_One:_Greatest_Hits" title="Chapter One: Greatest Hits">Chapter One: Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Blueprint_2.1" title="Blueprint 2.1">Blueprint 2.1</a></i></li>
+<li><i><a href="/wiki/Bring_It_On:_The_Best_of_Jay-Z" title="Bring It On: The Best of Jay-Z">Bring It On: The Best of Jay-Z</a></i></li>
+<li><i><a href="/wiki/Greatest_Hits_(Jay-Z_album)" title="Greatest Hits (Jay-Z album)">Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Jay-Z:_The_Hits_Collection,_Volume_One" title="Jay-Z: The Hits Collection, Volume One">Jay-Z: The Hits Collection, Volume One</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Concert tours</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Unfinished_Business_(R._Kelly_%26_Jay-Z_album)#Best_of_Both_Worlds_tour" title="Unfinished Business (R. Kelly &amp; Jay-Z album)" class="mw-redirect">Best of Both Worlds Tour</a></li>
+<li><a href="/wiki/American_Gangster_(album)#Tour" title="American Gangster (album)">American Gangster Live</a></li>
+<li><a href="/wiki/Heart_of_the_City_Tour" title="Heart of the City Tour">Heart of the City Tour</a></li>
+<li><a href="/wiki/Jay-Z_%26_Ciara_Live" title="Jay-Z &amp; Ciara Live">Jay-Z &amp; Ciara Live</a></li>
+<li><a href="/wiki/Jay-Z_Fall_Tour" title="Jay-Z Fall Tour">Jay-Z Fall Tour</a></li>
+<li><a href="/wiki/The_Blueprint_3_Tour" title="The Blueprint 3 Tour" class="mw-redirect">The Blueprint 3 Tour</a></li>
+<li><a href="/wiki/The_Home_%26_Home_Tour" title="The Home &amp; Home Tour">The Home &amp; Home Tour</a></li>
+<li><a href="/wiki/U2_360_Tour" title="U2 360 Tour" class="mw-redirect">U2 360 Tour</a> <small>(Supporting act)</small></li>
+<li><a href="/wiki/Watch_the_Throne_Tour" title="Watch the Throne Tour">Watch the Throne Tour</a></li>
+<li><a href="/wiki/Legends_of_the_Summer_Stadium_Tour" title="Legends of the Summer Stadium Tour" class="mw-redirect">Legends of the Summer Stadium Tour</a></li>
+<li><a href="/wiki/Magna_Carter_World_Tour" title="Magna Carter World Tour">Magna Carter World Tour</a></li>
+<li><a href="/wiki/On_the_Run_Tour_(Beyonc%C3%A9_and_Jay-Z)" title="On the Run Tour (Beyoncé and Jay-Z)">On the Run Tour</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella Records</a></li>
+<li><a href="/wiki/Roc_Nation" title="Roc Nation">Roc Nation</a></li>
+<li><a href="/wiki/StarRoc" title="StarRoc">StarRoc</a></li>
+<li><a href="/wiki/Takeover_Roc_Nation" title="Takeover Roc Nation">Takeover Roc Nation</a></li>
+<li><a href="/wiki/40/40_Club" title="40/40 Club">40/40 Club</a></li>
+<li><a href="/wiki/Jay-Z%E2%80%93Nas_feud" title="Jay-Z–Nas feud">Jay-Z–Nas feud</a></li>
+<li><a href="/wiki/Beyonc%C3%A9_Knowles" title="Beyoncé Knowles" class="mw-redirect">Beyoncé</a></li>
+<li><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></li>
+<li><a href="/wiki/Rihanna" title="Rihanna">Rihanna</a></li>
+<li><a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam Recordings</a></li>
+<li><i><a href="/wiki/Jaydiohead" title="Jaydiohead">Jaydiohead</a></i></li>
+<li><i><a href="/wiki/Fade_to_Black_(2004_film)" title="Fade to Black (2004 film)">Fade to Black</a></i></li>
+<li><a href="/wiki/Live_Nation" title="Live Nation" class="mw-redirect">Live Nation</a></li>
+<li><a href="/wiki/NBA_2K13" title="NBA 2K13">NBA 2K13</a></li>
+<li><a href="/wiki/Brooklyn_Nets" title="Brooklyn Nets">Brooklyn Nets</a></li>
+<li><a href="/wiki/Budweiser_Made_in_America_Festival" title="Budweiser Made in America Festival">Made in America (festival)</a></li>
+<li><a href="/wiki/Made_in_America_(2013_film)" title="Made in America (2013 film)"><i>Made in America</i> (film)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Jay-Z" title="Book:Jay-Z">Book:Jay-Z</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Jay-Z" title="Category:Jay-Z">Category:Jay-Z</a></b></li>
+<li><b><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Hip_hop" title="Portal:Hip hop">Portal:Hip hop</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1162
+CPU time usage: 1.268 seconds
+Real time usage: 1.396 seconds
+Preprocessor visited node count: 5803/1000000
+Preprocessor generated node count: 35767/1500000
+Post‐expand include size: 84942/2048000 bytes
+Template argument size: 14430/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.091/10.000 seconds
+Lua memory usage: 2.83 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1716734-0!*!0!!en!4!* and timestamp 20140530152921 and revision id 593609798
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;oldid=593609798">http://en.wikipedia.org/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;oldid=593609798</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Jay-Z_albums" title="Category:Jay-Z albums">Jay-Z albums</a></li><li><a href="/wiki/Category:2000_albums" title="Category:2000 albums">2000 albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Bink" title="Category:Albums produced by Bink">Albums produced by Bink</a></li><li><a href="/wiki/Category:Albums_produced_by_Just_Blaze" title="Category:Albums produced by Just Blaze">Albums produced by Just Blaze</a></li><li><a href="/wiki/Category:Albums_produced_by_Kanye_West" title="Category:Albums produced by Kanye West">Albums produced by Kanye West</a></li><li><a href="/wiki/Category:Albums_produced_by_The_Neptunes" title="Category:Albums produced by The Neptunes">Albums produced by The Neptunes</a></li><li><a href="/wiki/Category:Albums_produced_by_Rick_Rock" title="Category:Albums produced by Rick Rock">Albums produced by Rick Rock</a></li><li><a href="/wiki/Category:Albums_produced_by_Rockwilder" title="Category:Albums produced by Rockwilder">Albums produced by Rockwilder</a></li><li><a href="/wiki/Category:Def_Jam_Recordings_albums" title="Category:Def Jam Recordings albums">Def Jam Recordings albums</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li><li><a href="/wiki/Category:Roc-A-Fella_Records_albums" title="Category:Roc-A-Fella Records albums">Roc-A-Fella Records albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_July_2013" title="Category:Articles with dead external links from July 2013">Articles with dead external links from July 2013</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_with_album_ratings_that_need_to_be_turned_into_prose" title="Category:Articles with album ratings that need to be turned into prose">Articles with album ratings that need to be turned into prose</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Dynasty%3A+Roc+La+Familia&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Dynasty%3A+Roc+La+Familia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/The_Dynasty:_Roc_La_Familia"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:The_Dynasty:_Roc_La_Familia"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/The_Dynasty:_Roc_La_Familia" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Dynasty:_Roc_La_Familia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Dynasty:_Roc_La_Familia" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;oldid=593609798" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1786664" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=The_Dynasty%3A_Roc_La_Familia&amp;id=593609798" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Dynasty%3A+Roc+La+Familia">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=The+Dynasty%3A+Roc+La+Familia&amp;oldid=593609798&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=The_Dynasty:_Roc_La_Familia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q1786664#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 February 2014 at 17:58.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/The_Dynasty:_Roc_La_Familia" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":195,"wgHostname":"mw1036"});
+}</script>
+	</body>
+</html>
+	

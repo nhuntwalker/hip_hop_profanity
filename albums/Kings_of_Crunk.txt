@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Kings of Crunk - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Kings_of_Crunk" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Kings_of_Crunk&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Kings_of_Crunk&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Kings_of_Crunk" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kings_of_Crunk","wgTitle":"Kings of Crunk","wgCurRevisionId":606204580,"wgRevisionId":606204580,"wgArticleId":676677,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","2002 albums","Lil Jon \u0026 the East Side Boyz albums","Albums produced by Lil Jon"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kings_of_Crunk","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1944604"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Kings_of_Crunk skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Kings of Crunk</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Kings of Crunk</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:KingsOfCrunk.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/67/KingsOfCrunk.jpg/220px-KingsOfCrunk.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/6/67/KingsOfCrunk.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/6/67/KingsOfCrunk.jpg 2x" data-file-width="240" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Lil_Jon_%26_the_East_Side_Boyz" title="Lil Jon &amp; the East Side Boyz" class="mw-redirect">Lil Jon &amp; the East Side Boyz</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">October 29, 2002 <small>(<a href="/wiki/United_States" title="United States">US</a>)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>2001-2002</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Crunk" title="Crunk">Crunk</a>, <a href="/wiki/Southern_rap" title="Southern rap" class="mw-redirect">Southern rap</a>, <a href="/wiki/Dirty_rap" title="Dirty rap">dirty rap</a>, <a href="/wiki/Hardcore_rap" title="Hardcore rap" class="mw-redirect">hardcore rap</a>, <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a>, <a href="/wiki/Rap" title="Rap" class="mw-redirect">rap</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/TVT_Records" title="TVT Records">TVT</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td>
+<p>Lil Jon</p>
+<p>Singles From the Album:</p>
+<p>I Don't Give a Fuck Released:2002</p>
+<p>Nothin's Free Released:2002</p>
+<p>Play No Games Released:2003</p>
+<p>Get Low</p>
+Released:2003</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Lil_Jon_%26_the_East_Side_Boyz" title="Lil Jon &amp; the East Side Boyz" class="mw-redirect">Lil Jon &amp; the East Side Boyz</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Put_Yo_Hood_Up" title="Put Yo Hood Up">Put Yo Hood Up</a></i><br />
+(2001)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Kings of Crunk</b></i><br />
+(2002)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Part_II_(Lil_Jon_%26_the_East_Side_Boyz_album)" title="Part II (Lil Jon &amp; the East Side Boyz album)">Part II</a></i><br />
+(2003)</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">C<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Sputnikmusic" title="Sputnikmusic">Sputnikmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>Kings of Crunk</b></i> is the fourth <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by <a href="/wiki/Lil_Jon_%26_the_East_Side_Boyz" title="Lil Jon &amp; the East Side Boyz" class="mw-redirect">Lil Jon &amp; the East Side Boyz</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Based on the success of the album's second single "Get Low", <i>Kings of Crunk</i> made the top twenty of the US album chart in September 2003. In the same year, Lil Jon put out a compilation CD and DVD called <a href="/wiki/Part_II_(Lil_Jon_%26_the_East_Side_Boyz_album)" title="Part II (Lil Jon &amp; the East Side Boyz album)">Part II</a>, which included remixes of "Get Low" featuring <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a>, <a href="/wiki/Elephant_Man_(musician)" title="Elephant Man (musician)">Elephant Man</a>, and the <a href="/wiki/Ying_Yang_Twins" title="Ying Yang Twins">Ying Yang Twins</a>.</p>
+<p>The album was available in an edited version, which removed or replaced profanity, sexually explicit lyrics, and drug and alcohol content, eliminating for instance the song "Weedman" with its pervasive drug references.</p>
+<p>The singles "I Don't Give a Fuck" and "Nothin's Free" were released To Radio in 2002, while "Play No Games" and "Get Low" were released to radio in 2003.</p>
+<p>Also, "Nothin's Free" was released on Vinyl, while "I Don't Give a Fuck" and "Get Low" were released on CD.</p>
+<p>"Play No Games" was also released on vinyl and cd In 2003.</p>
+<p>The Album Was Certified 2x Platinum by the RIAA in 2003 for Sales of Over 2,000,000 Copies.</p>
+<p><br /></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Track_listings"><span class="tocnumber">1</span> <span class="toctext">Track listings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Original_release"><span class="tocnumber">1.1</span> <span class="toctext">Original release</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Special_edition"><span class="tocnumber">1.2</span> <span class="toctext">Special edition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Chart_award"><span class="tocnumber">2</span> <span class="toctext">Chart award</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Track_listings">Track listings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kings_of_Crunk&amp;action=edit&amp;section=1" title="Edit section: Track listings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Original_release">Original release</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kings_of_Crunk&amp;action=edit&amp;section=2" title="Edit section: Original release">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>All lyrics written by Lil Jon &amp; the Eastside Boyz, except featured performers,&#160;all music composed by Lil Jon.</p>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 100%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Kings of Crunk" <span style="font-size:85%;">(Intro)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:02</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Throw It Up" <span style="font-size:85%;">(featuring <a href="/wiki/Pastor_Troy" title="Pastor Troy">Pastor Troy</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:13</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Knockin' Heads Off" <span style="font-size:85%;">(featuring <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a> &amp; <a href="/wiki/Styles_P" title="Styles P">Styles P</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:17</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Pimpin' Ken Speaks" <span style="font-size:85%;">(skit)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:04</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Bitch" <span style="font-size:85%;">(featuring Chyna Whyte &amp; <a href="/wiki/Too_Short" title="Too Short">Too Short</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:58</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"I Don't Give a Fuck" <span style="font-size:85%;">(featuring <a href="/wiki/Mystikal" title="Mystikal">Mystikal</a> &amp; <a href="/wiki/Krayzie_Bone" title="Krayzie Bone">Krayzie Bone</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:29</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Rep Your City" <span style="font-size:85%;">(featuring <a href="/wiki/E-40" title="E-40">E-40</a>, <a href="/wiki/Petey_Pablo" title="Petey Pablo">Petey Pablo</a>, <a href="/wiki/Bun_B" title="Bun B">Bun B</a> &amp; <a href="/wiki/8Ball_%26_MJG" title="8Ball &amp; MJG">Eightball</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:12</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Push That Nigga, Push That Hoe" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:25</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Keep Yo Chullin Out the Streets" <span style="font-size:85%;">(featuring <a href="/wiki/Big_Gipp" title="Big Gipp">Big Gipp</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:55</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Diamonds" <span style="font-size:85%;">(featuring <a href="/wiki/Bun_B" title="Bun B">Bun B</a> &amp; <a href="/wiki/8Ball_%26_MJG" title="8Ball &amp; MJG">MJG</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:27</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Weedman" <span style="font-size:85%;">(skit)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:24</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"The Weedman" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:45</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Nothing On" <span style="font-size:85%;">(featuring <a href="/wiki/Oobie" title="Oobie" class="mw-redirect">Oobie</a>, Chyna Whyte &amp; Bo Hagon)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:07</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Luke Talkin Shit" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:25</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Ooh Na Na Naa Naa" <span style="font-size:85%;">(featuring <a href="/wiki/Oobie" title="Oobie" class="mw-redirect">Oobie</a> &amp; <a href="/wiki/Devin_the_Dude" title="Devin the Dude">Devin the Dude</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:49</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Nothins Free" <span style="font-size:85%;">(featuring <a href="/wiki/Oobie" title="Oobie" class="mw-redirect">Oobie</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:22</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Play_No_Games" title="Play No Games">Play No Games</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Fat_Joe" title="Fat Joe">Fat Joe</a>, <a href="/wiki/Trick_Daddy" title="Trick Daddy">Trick Daddy</a> &amp; <a href="/wiki/Oobie" title="Oobie" class="mw-redirect">Oobie</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:12</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"Pitbulls Cuban Rideout" <span style="font-size:85%;">(featuring <a href="/wiki/Pitbull_(entertainer)" title="Pitbull (entertainer)" class="mw-redirect">Pitbull</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:37</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Get_Low_(song)" title="Get Low (song)">Get Low</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Ying_Yang_Twins" title="Ying Yang Twins">Ying Yang Twins</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:34</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">20.</td>
+<td style="text-align: left; vertical-align: top;">"T.I.P." &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:35</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">21.</td>
+<td style="text-align: left; vertical-align: top;">"BME Click" <span style="font-size:85%;">(featuring The BME Allstars)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:10</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Special_edition">Special edition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kings_of_Crunk&amp;action=edit&amp;section=3" title="Edit section: Special edition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>All lyrics written by Lil Jon &amp; the Eastside Boyz, except featured performers<sup id="cite_ref-discgos.com_6-0" class="reference"><a href="#cite_note-discgos.com-6"><span>[</span>6<span>]</span></a></sup>,&#160;all music composed by Lil Jon.</p>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">Disc 1</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 100%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Kings of Crunk" <span style="font-size:85%;">(Intro)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:02</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Throw It Up" <span style="font-size:85%;">(featuring <a href="/wiki/Pastor_Troy" title="Pastor Troy">Pastor Troy</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:13</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Knockin' Heads Off" <span style="font-size:85%;">(featuring <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a> &amp; <a href="/wiki/Styles_P" title="Styles P">Styles P</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:17</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Pimpin' Ken Speaks" <span style="font-size:85%;">(skit)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:04</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Bitch" <span style="font-size:85%;">(featuring Chyna Whyte &amp; <a href="/wiki/Too_Short" title="Too Short">Too Short</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:58</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"I Don't Give a Fuck" <span style="font-size:85%;">(featuring <a href="/wiki/Mystikal" title="Mystikal">Mystikal</a> &amp; <a href="/wiki/Krayzie_Bone" title="Krayzie Bone">Krayzie Bone</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:29</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Rep Your City" <span style="font-size:85%;">(featuring <a href="/wiki/E-40" title="E-40">E-40</a>, <a href="/wiki/Petey_Pablo" title="Petey Pablo">Petey Pablo</a>, <a href="/wiki/Bun_B" title="Bun B">Bun B</a> &amp; <a href="/wiki/8Ball_%26_MJG" title="8Ball &amp; MJG">Eightball</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:12</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Push That Nigga, Push That Hoe" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:25</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Keep Yo Chullin Out the Streets" <span style="font-size:85%;">(featuring <a href="/wiki/Big_Gipp" title="Big Gipp">Big Gipp</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:55</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Diamonds" <span style="font-size:85%;">(featuring <a href="/wiki/Bun_B" title="Bun B">Bun B</a> &amp; <a href="/wiki/8Ball_%26_MJG" title="8Ball &amp; MJG">MJG</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:27</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Weedman" <span style="font-size:85%;">(skit)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:24</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"The Weedman" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:45</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Nothing On" <span style="font-size:85%;">(featuring <a href="/wiki/Oobie" title="Oobie" class="mw-redirect">Oobie</a>, Chyna Whyte &amp; Bo Hagon)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:07</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Luke Talkin Shit" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:25</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Ooh Na Na Naa Naa" <span style="font-size:85%;">(featuring <a href="/wiki/Oobie" title="Oobie" class="mw-redirect">Oobie</a> &amp; <a href="/wiki/Devin_the_Dude" title="Devin the Dude">Devin the Dude</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:49</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Nothins Free" <span style="font-size:85%;">(featuring <a href="/wiki/Oobie" title="Oobie" class="mw-redirect">Oobie</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:22</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Play_No_Games" title="Play No Games">Play No Games</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Fat_Joe" title="Fat Joe">Fat Joe</a>, <a href="/wiki/Trick_Daddy" title="Trick Daddy">Trick Daddy</a> &amp; <a href="/wiki/Oobie" title="Oobie" class="mw-redirect">Oobie</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:12</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"Pitbulls Cuban Rideout" <span style="font-size:85%;">(featuring <a href="/wiki/Pitbull_(entertainer)" title="Pitbull (entertainer)" class="mw-redirect">Pitbull</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:37</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Get_Low_(song)" title="Get Low (song)">Get Low</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Ying_Yang_Twins" title="Ying Yang Twins">Ying Yang Twins</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:34</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">20.</td>
+<td style="text-align: left; vertical-align: top;">"T.I.P." &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:35</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">21.</td>
+<td style="text-align: left; vertical-align: top;">"Get Low (Remix)" <span style="font-size:85%;">(featuring Ying Yang Twins, <a href="/wiki/Elephant_Man_(musician)" title="Elephant Man (musician)">Elephant Man</a> &amp; <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:09</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">22.</td>
+<td style="text-align: left; vertical-align: top;">"Yeah" <span style="font-size:85%;">(featuring <a href="/wiki/Usher_(entertainer)" title="Usher (entertainer)">Usher</a> &amp; <a href="/wiki/Ludacris" title="Ludacris">Ludacris</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:11</td>
+</tr>
+</table>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">Disc 2</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 100%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Get Low (Merengue Mix)" <span style="font-size:85%;">(featuring Pitbull)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:02</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Get Your Weight Up" <span style="font-size:85%;">(featuring 8Ball &amp; T.I.)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:40</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Throw It Up (Remix)" <span style="font-size:85%;">(featuring Pastor Troy &amp; Young Buck)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:14</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Put Yo Hood Up (Remix)" <span style="font-size:85%;">(featuring Chyna Whyte, Jadakiss, Petey Pablo &amp; Roy Jones Jr.)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:10</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"What They Want (performed by Chyna White)" <span style="font-size:85%;">(featuring Ying Yang Twins)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:34</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Dirty Dancin' (performed by Oobie)" <span style="font-size:85%;">(featuring Lil Jon &amp; The East Side Boyz)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:19</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"What You Gonna Do" <span style="font-size:85%;">(featuring Lil Scrappy)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:24</td>
+</tr>
+</table>
+<ul>
+<li>For the track "Throw It Up", Lil Jon worked with the <a href="/wiki/Leitmotif" title="Leitmotif">leitmotif</a> ("<a href="/wiki/Lux_Aeterna_(Requiem_for_a_Dream)" title="Lux Aeterna (Requiem for a Dream)" class="mw-redirect">Lux Aeterna</a>") of the movie "<a href="/wiki/Requiem_For_A_Dream" title="Requiem For A Dream" class="mw-redirect">Requiem For A Dream</a>" which was composed by <a href="/wiki/Clint_Mansell" title="Clint Mansell">Clint Mansell</a>.</li>
+<li>The track "Nothins Free" is a remix, and samples <a href="/wiki/Janet_Jackson" title="Janet Jackson">Janet Jackson</a>'s hit "<a href="/wiki/Let%27s_Wait_Awhile" title="Let's Wait Awhile">Let's Wait Awhile</a>". The original was on the album, <i><a href="/wiki/Put_Yo_Hood_Up" title="Put Yo Hood Up">Put Yo Hood Up</a></i>.</li>
+</ul>
+<h2><span class="mw-headline" id="Chart_award">Chart award</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kings_of_Crunk&amp;action=edit&amp;section=4" title="Edit section: Chart award">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th align="left">Chart</th>
+<th align="left">Position</th>
+</tr>
+<tr>
+<td align="left">Top R&amp;B/Hip Hop Albums</td>
+<td align="left"># 2</td>
+</tr>
+<tr>
+<td align="left">The Billboard 200</td>
+<td align="left"># 14</td>
+</tr>
+<tr>
+<td align="left">Top Independent Albums</td>
+<td align="left"># 1</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kings_of_Crunk&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web">Henderson, Alex (2002-10-08). <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r604626">"Allmusic review"</a>. Allmusic.com<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKings+of+Crunk&amp;rft.aufirst=Alex&amp;rft.au=Henderson%2C+Alex&amp;rft.aulast=Henderson&amp;rft.btitle=Allmusic+review&amp;rft.date=2002-10-08&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr604626&amp;rft.pub=Allmusic.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web">Christgau, Robert. <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=lil+jon">"CG: Lil Jon"</a>. RobertChristgau.com<span class="reference-accessdate">. Retrieved 2012-05-18</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKings+of+Crunk&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.btitle=CG%3A+Lil+Jon&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fget_artist.php%3Fname%3Dlil%2Bjon&amp;rft.pub=RobertChristgau.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.sputnikmusic.com/review/7630/Lil-Jon-and-the-East-Side-Boyz-Kings-of-Crunk/">"Sputnikmusic review"</a>. Sputnikmusic.com. 2006-06-15<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKings+of+Crunk&amp;rft.btitle=Sputnikmusic+review&amp;rft.date=2006-06-15&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sputnikmusic.com%2Freview%2F7630%2FLil-Jon-and-the-East-Side-Boyz-Kings-of-Crunk%2F&amp;rft.pub=Sputnikmusic.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.tower.com/kings-crunk-lil-jon-east-side-cd/wapi/106629327">"Vibe review"</a>. Tower.com. 2002-10-29<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKings+of+Crunk&amp;rft.btitle=Vibe+review&amp;rft.date=2002-10-29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.tower.com%2Fkings-crunk-lil-jon-east-side-cd%2Fwapi%2F106629327&amp;rft.pub=Tower.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.com/Kings-Crunk-East-Side-Boyz/dp/B00006GA4S/">"Kings of Crunk: Lil Jon &amp; Eastside Boyz: Music"</a>. Amazon.com<span class="reference-accessdate">. Retrieved 2012-01-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKings+of+Crunk&amp;rft.btitle=Kings+of+Crunk%3A+Lil+Jon+%26+Eastside+Boyz%3A+Music&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2FKings-Crunk-East-Side-Boyz%2Fdp%2FB00006GA4S%2F&amp;rft.pub=Amazon.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-discgos.com-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-discgos.com_6-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.discogs.com/Lil-Jon-The-East-Side-Boyz-Kings-Of-Crunk/release/1783850">"http://www.discogs.com/artist/Lil%27+Jon+%26+The+East+Side+Boyz?anv=Lil+Jon+%26+The+East+Side+Boyz"</a><span class="reference-accessdate">. Retrieved 2013-01-11</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKings+of+Crunk&amp;rft.btitle=http%3A%2F%2Fwww.discogs.com%2Fartist%2FLil%2527%2BJon%2B%2526%2BThe%2BEast%2BSide%2BBoyz%3Fanv%3DLil%2BJon%2B%2526%2BThe%2BEast%2BSide%2BBoyz&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2FLil-Jon-The-East-Side-Boyz-Kings-Of-Crunk%2Frelease%2F1783850&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Lil_Jon" title="Template:Lil Jon"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Lil_Jon" title="Template talk:Lil Jon"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lil_Jon&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Lil_Jon" title="Lil Jon">Lil Jon</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Get_Crunk,_Who_U_Wit:_Da_Album" title="Get Crunk, Who U Wit: Da Album">Get Crunk, Who U Wit: Da Album</a></i></li>
+<li><i><a href="/wiki/We_Still_Crunk!!" title="We Still Crunk!!">We Still Crunk!!</a></i></li>
+<li><i><a href="/wiki/Put_Yo_Hood_Up" title="Put Yo Hood Up">Put Yo Hood Up</a></i></li>
+<li><i><strong class="selflink">Kings of Crunk</strong></i></li>
+<li><i><a href="/wiki/Part_II_(Lil_Jon_%26_the_East_Side_Boyz_album)" title="Part II (Lil Jon &amp; the East Side Boyz album)">Part II</a></i></li>
+<li><i><a href="/wiki/Crunk_Juice" title="Crunk Juice">Crunk Juice</a></i></li>
+<li><i><a href="/wiki/Crunk_Rock" title="Crunk Rock">Crunk Rock</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Get_Low_(song)" title="Get Low (song)">Get Low</a>"</li>
+<li>"<a href="/wiki/What_U_Gon%27_Do" title="What U Gon' Do">What U Gon' Do</a>"</li>
+<li>"<a href="/wiki/Real_Nigga_Roll_Call" title="Real Nigga Roll Call">Real Nigga Roll Call</a>"</li>
+<li>"<a href="/wiki/Lovers_and_Friends_(song)" title="Lovers and Friends (song)">Lovers &amp; Friends</a>"</li>
+<li>"<a href="/wiki/Snap_Yo_Fingers" title="Snap Yo Fingers">Snap Yo Fingers</a>"</li>
+<li>"<a href="/wiki/Act_a_Fool_(Lil_Jon_song)" title="Act a Fool (Lil Jon song)" class="mw-redirect">Act a Fool</a>"</li>
+<li>"<a href="/wiki/I_Do_(Lil_Jon_song)" title="I Do (Lil Jon song)" class="mw-redirect">I Do</a>"</li>
+<li>"<a href="/wiki/Give_It_All_U_Got" title="Give It All U Got">Give It All U Got</a>"</li>
+<li>"<a href="/wiki/Ms._Chocolate" title="Ms. Chocolate">Ms. Chocolate</a>"</li>
+<li>"<a href="/wiki/Hey_(Lil_Jon_song)" title="Hey (Lil Jon song)">Hey</a>"</li>
+<li>"<a href="/wiki/Turn_Down_For_What" title="Turn Down For What" class="mw-redirect">Turn Down For What</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Damn!_(song)" title="Damn! (song)">Damn!</a>"</li>
+<li>"<a href="/wiki/Salt_Shaker_(song)" title="Salt Shaker (song)">Salt Shaker</a>"</li>
+<li>"<a href="/wiki/Shake_That_Monkey" title="Shake That Monkey">Shake That Monkey</a>"</li>
+<li>"<a href="/wiki/Come_Get_Some_(TLC_song)" title="Come Get Some (TLC song)">Come Get Some</a>"</li>
+<li>"<a href="/wiki/Yeah!_(Usher_song)" title="Yeah! (Usher song)">Yeah!</a>"</li>
+<li>"<a href="/wiki/Culo_(song)" title="Culo (song)">Culo</a>"</li>
+<li>"<a href="/wiki/Let%27s_Go_(Trick_Daddy_song)" title="Let's Go (Trick Daddy song)">Let's Go</a>"</li>
+<li>"<a href="/wiki/Real_Gangstaz" title="Real Gangstaz">Real Gangstaz</a>"</li>
+<li>"<a href="/wiki/That%27s_Nasty_(song)" title="That's Nasty (song)">That's Nasty</a>"</li>
+<li>"<a href="/wiki/Toma_(song)" title="Toma (song)">Toma</a>"</li>
+<li>"<a href="/wiki/Girlfight_(song)" title="Girlfight (song)">Girlfight</a>"</li>
+<li>"<a href="/wiki/Okay_(song)" title="Okay (song)">Okay</a>"</li>
+<li>"<a href="/wiki/Bojangles_(song)" title="Bojangles (song)">Bojangles (Remix)</a>"</li>
+<li>"<a href="/wiki/Go_to_Church" title="Go to Church">Go to Church</a>"</li>
+<li>"<a href="/wiki/Gangsta_Gangsta_(Lil_Scrappy_song)" title="Gangsta Gangsta (Lil Scrappy song)" class="mw-redirect">Gangsta Gangsta</a>"</li>
+<li>"<a href="/wiki/The_Anthem_(Pitbull_song)" title="The Anthem (Pitbull song)">The Anthem</a>"</li>
+<li>"<a href="/wiki/Get_Buck_in_Here" title="Get Buck in Here">Get Buck in Here</a>"</li>
+<li>"<a href="/wiki/Krazy_(song)" title="Krazy (song)">Krazy</a>"</li>
+<li>"<a href="/wiki/Let_Me_See_the_Booty" title="Let Me See the Booty">Let Me See the Booty</a>"</li>
+<li>"<a href="/wiki/Patron_Tequila" title="Patron Tequila">Patron Tequila</a>"</li>
+<li>"<a href="/wiki/Shots_(song)" title="Shots (song)">Shots</a>"</li>
+<li>"<a href="/wiki/Do_You_Remember_(Jay_Sean_song)" title="Do You Remember (Jay Sean song)">Do You Remember</a>"</li>
+<li>"<a href="/wiki/Watagatapitusberry" title="Watagatapitusberry">Watagatapitusberry</a>"</li>
+<li>"<a href="/wiki/Turbulence_(song)" title="Turbulence (song)">Turbulence</a>"</li>
+<li>"<a href="/wiki/Hard_White_(Up_in_the_Club)" title="Hard White (Up in the Club)">Hard White (Up in the Club)</a>"</li>
+<li>"<a href="/w/index.php?title=Bobble_(song)&amp;action=edit&amp;redlink=1" class="new" title="Bobble (song) (page does not exist)">Bobble</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Lil_Jon_discography" title="Lil Jon discography">Discography</a></li>
+<li><a href="/wiki/Lil_Jon_production_discography" title="Lil Jon production discography">Production discography</a></li>
+<li><a href="/wiki/BME_Recordings" title="BME Recordings">BME Recordings</a></li>
+<li><a href="/wiki/Crunk_Energy_Drink" title="Crunk Energy Drink">Crunk Energy Drink</a></li>
+<li><a href="/wiki/The_Apprentice_(U.S._season_11)" title="The Apprentice (U.S. season 11)">The Celebrity Apprentice 4</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1016
+CPU time usage: 2.052 seconds
+Real time usage: 2.133 seconds
+Preprocessor visited node count: 10230/1000000
+Preprocessor generated node count: 52615/1500000
+Post‐expand include size: 97287/2048000 bytes
+Template argument size: 15881/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.075/10.000 seconds
+Lua memory usage: 2.21 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:676677-0!*!0!!en!4!* and timestamp 20140601000307 and revision id 606204580
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Kings_of_Crunk&amp;oldid=606204580">http://en.wikipedia.org/w/index.php?title=Kings_of_Crunk&amp;oldid=606204580</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2002_albums" title="Category:2002 albums">2002 albums</a></li><li><a href="/wiki/Category:Lil_Jon_%26_the_East_Side_Boyz_albums" title="Category:Lil Jon &amp; the East Side Boyz albums">Lil Jon &amp; the East Side Boyz albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Lil_Jon" title="Category:Albums produced by Lil Jon">Albums produced by Lil Jon</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Kings+of+Crunk&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Kings+of+Crunk" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Kings_of_Crunk"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Kings_of_Crunk"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Kings_of_Crunk" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Kings_of_Crunk&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Kings_of_Crunk&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Kings_of_Crunk" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Kings_of_Crunk" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Kings_of_Crunk&amp;oldid=606204580" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Kings_of_Crunk&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1944604" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Kings_of_Crunk&amp;id=606204580" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Kings+of+Crunk">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Kings+of+Crunk&amp;oldid=606204580&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Kings_of_Crunk&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/Kings_of_Crunk" title="Kings of Crunk – Greek" lang="el" hreflang="el">Ελληνικά</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Kings_of_Crunk" title="Kings of Crunk – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Kings_of_Crunk" title="Kings of Crunk – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Kings_of_Crunk" title="Kings of Crunk – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Kings_of_Crunk" title="Kings of Crunk – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Kings_of_Crunk" title="Kings of Crunk – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kings_of_Crunk" title="Kings of Crunk – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q1944604#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 April 2014 at 17:23.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Kings_of_Crunk" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":184,"wgHostname":"mw1219"});
+}</script>
+	</body>
+</html>
+	

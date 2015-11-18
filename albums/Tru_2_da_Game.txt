@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Tru 2 da Game - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tru_2_da_Game" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tru_2_da_Game&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Tru_2_da_Game&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Tru_2_da_Game" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init%2Cnolanglinks&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tru_2_da_Game","wgTitle":"Tru 2 da Game","wgCurRevisionId":606325663,"wgRevisionId":606325663,"wgArticleId":17980993,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from September 2012","All articles needing additional references","Articles with hAudio microformats","1997 albums","TRU albums","No Limit Records albums","Priority Records albums","Gangsta rap albums","1990s hip hop album stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tru_2_da_Game","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7847094"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Tru_2_da_Game skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Tru 2 da Game</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px;"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Tru_2_da_Game&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(September 2012)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Tru 2 da Game</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Tru_2_da_Game.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8f/Tru_2_da_Game.jpg/220px-Tru_2_da_Game.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/8/8f/Tru_2_da_Game.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/8/8f/Tru_2_da_Game.jpg 2x" data-file-width="240" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/TRU_(group)" title="TRU (group)">TRU</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">February 18, 1997</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1996</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Gangsta_Rap" title="Gangsta Rap" class="mw-redirect">Gangsta Rap</a>, <a href="/wiki/Southern_Hip_Hop" title="Southern Hip Hop" class="mw-redirect">Southern Hip Hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/No_Limit_Records" title="No Limit Records">No Limit</a>/<a href="/wiki/Priority_Records" title="Priority Records">Priority</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Beats_By_the_Pound" title="Beats By the Pound" class="mw-redirect">Beats By the Pound</a> <small>(<a href="/wiki/Executive_producer" title="Executive producer">exec</a>.)</small><br />
+K-Lou, DJ Daryl</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/TRU_(group)" title="TRU (group)">TRU</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/True_(TRU_album)" title="True (TRU album)">True</a></i><br />
+(1995)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Tru 2 da Game</b></i><br />
+(1997)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Da_Crime_Family" title="Da Crime Family">Da Crime Family</a></i><br />
+(1999)</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <sup id="cite_ref-AM_1-0" class="reference"><a href="#cite_note-AM-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>Tru 2 da Game</b></i> is the fourth <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> released by rap group, <a href="/wiki/TRU_(group)" title="TRU (group)">TRU</a>. It was released February 18, 1997 for <a href="/wiki/No_Limit_Records" title="No Limit Records">No Limit Records</a> and was produced by <a href="/wiki/Beats_By_the_Pound" title="Beats By the Pound" class="mw-redirect">Beats By the Pound</a> . The album found a large amount of success, peaking at #8 on the <a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a> and #2 on the <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a>. A single from the album enititled "<a href="/wiki/I_Always_Feel_Like" title="I Always Feel Like">I Always Feel Like</a>" also found some success, peaking at #71 on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a>, #11 on the <a href="/wiki/Hot_Rap_Singles" title="Hot Rap Singles" class="mw-redirect">Hot Rap Singles</a> and #42 on the <a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a>. The same year the album was rereleased with the song "Smoking Green" removed. The rereleased version included three new songs, a remixed version of "FEDz", a C-Murder solo song "Eyes Of A Killa" and a Silkk The Shocker solo song "Pimp Shit." FEDz samples <a href="/wiki/Aaliyah" title="Aaliyah">Aaliyah</a>'s hit single "<a href="/wiki/If_Your_Girl_Only_Knew" title="If Your Girl Only Knew">If Your Girl Only Knew</a>". The album was certified <a href="/wiki/Music_recording_sales_certification" title="Music recording sales certification">2x Platinum</a> by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a>, on October 2, 1997, and remains the group's most successful album.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Track_listing"><span class="tocnumber">1</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Music_Videos"><span class="tocnumber">2</span> <span class="toctext">Music Videos</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Samples"><span class="tocnumber">3</span> <span class="toctext">Samples</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tru_2_da_Game&amp;action=edit&amp;section=1" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Disc 1</b></p>
+<table class="wikitable">
+<tr>
+<th style="text-align:center;">#</th>
+<th style="text-align:center;">Title</th>
+<th style="text-align:center;">Time</th>
+<th style="text-align:center;">Producer(s)</th>
+<th style="text-align:center;">Performer(s)</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Intro (Skit)</td>
+<td>2:47</td>
+<td>None</td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a> &amp; <a href="/wiki/Lil%27_Romeo" title="Lil' Romeo" class="mw-redirect">Lil' Romeo</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>"No Limit Soldiers"</td>
+<td>7:04</td>
+<td><a href="/wiki/KLC" title="KLC">KLC</a> &amp; <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a>, <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a>, <a href="/wiki/C-Murder" title="C-Murder">C-Murder</a> &amp; <a href="/wiki/Mia_X" title="Mia X">Mia X</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>"<a href="/wiki/I_Always_Feel_Like" title="I Always Feel Like">I Always Feel Like</a>"</td>
+<td>5:06</td>
+<td><a href="/wiki/Craig_B" title="Craig B">Craig B</a> &amp; <a href="/wiki/KLC" title="KLC">KLC</a></td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a>, <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a>, <a href="/wiki/Mia_X" title="Mia X">Mia X</a> &amp; <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td>"There Dey Go"</td>
+<td>4:37</td>
+<td><a href="/wiki/Craig_B" title="Craig B">Craig B</a> &amp; <a href="/wiki/KLC" title="KLC">KLC</a></td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a> &amp; <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>"I Got Candy"</td>
+<td>4:23</td>
+<td><a href="/wiki/KLC" title="KLC">KLC</a> &amp; <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+<td><a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a>, <a href="/wiki/Master_P" title="Master P">Master P</a> &amp; <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td>"Ghetto Thang"</td>
+<td>3:53</td>
+<td><a href="/w/index.php?title=K-Lou&amp;action=edit&amp;redlink=1" class="new" title="K-Lou (page does not exist)">K-Lou</a></td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a>, <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a> &amp; <a href="/wiki/Big_Ed" title="Big Ed">Big Ed</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td>"FEDz"</td>
+<td>5:41</td>
+<td><a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+<td><a href="/wiki/C-Murder" title="C-Murder">C-Murder</a>, <a href="/wiki/Master_P" title="Master P">Master P</a>, <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a> &amp; <a href="/wiki/Mia_X" title="Mia X">Mia X</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td>"What They Call Us?"</td>
+<td>5:51</td>
+<td><a href="/wiki/KLC" title="KLC">KLC</a></td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a>, <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a> &amp; <a href="/wiki/C-Murder" title="C-Murder">C-Murder</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td>"Smoking Green"</td>
+<td>5:51</td>
+<td><a href="/wiki/Craig_B" title="Craig B">Craig B</a></td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a> &amp; <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td>"Gangstas Make The World"</td>
+<td>4:56</td>
+<td><a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+<td><a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a>, <a href="/wiki/Master_P" title="Master P">Master P</a>, <a href="/wiki/C-Murder" title="C-Murder">C-Murder</a> &amp; <a href="/wiki/Mr._Serv-On" title="Mr. Serv-On">Mr. Serv-On</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td>"Swammp Nigga"</td>
+<td>5:14</td>
+<td><a href="/wiki/KLC" title="KLC">KLC</a></td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td>"Pimp Shit"</td>
+<td>4:23</td>
+<td><a href="/wiki/Craig_B" title="Craig B">Craig B</a></td>
+<td><a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td>"Eyes Of A Killa"</td>
+<td>4:09</td>
+<td><a href="/wiki/Craig_B" title="Craig B">Craig B</a>, <a href="/wiki/KLC" title="KLC">KLC</a> &amp; <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+<td><a href="/wiki/C-Murder" title="C-Murder">C-Murder</a></td>
+</tr>
+<tr>
+<td>14</td>
+<td>"FEDz (Radio Version)"</td>
+<td>6:13</td>
+<td><a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+<td><a href="/wiki/C-Murder" title="C-Murder">C-Murder</a>, <a href="/wiki/Master_P" title="Master P">Master P</a>, <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a> &amp; <a href="/wiki/Mia_X" title="Mia X">Mia X</a></td>
+</tr>
+</table>
+<p><b>Disc 2</b></p>
+<table class="wikitable">
+<tr>
+<th style="text-align:center;">#</th>
+<th style="text-align:center;">Title</th>
+<th style="text-align:center;">Time</th>
+<th style="text-align:center;">Producer(s)</th>
+<th style="text-align:center;">Performer(s)</th>
+</tr>
+<tr>
+<td>1</td>
+<td>"Ghetto Cheeze"</td>
+<td>4:25</td>
+<td><a href="/wiki/DJ_Daryl" title="DJ Daryl" class="mw-redirect">DJ Daryl</a></td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a> &amp; <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>"Heaven 4 A Gangsta (TRU Remix)"</td>
+<td>4:41</td>
+<td><a href="/wiki/Craig_B" title="Craig B">Craig B</a>, <a href="/wiki/KLC" title="KLC">KLC</a> &amp; <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a>, <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a> &amp; <a href="/wiki/C-Murder" title="C-Murder">C-Murder</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>"TRU 2 Da Game"</td>
+<td>4:53</td>
+<td><a href="/w/index.php?title=K-Lou&amp;action=edit&amp;redlink=1" class="new" title="K-Lou (page does not exist)">K-Lou</a></td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a>, <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a>, <a href="/wiki/Big_Ed" title="Big Ed">Big Ed</a> &amp; <a href="/wiki/Mr._Serv-On" title="Mr. Serv-On">Mr. Serv-On</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td>"Freak Hoes"</td>
+<td>3:49</td>
+<td><a href="/wiki/KLC" title="KLC">KLC</a></td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a>, <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a> &amp; <a href="/wiki/Mia_X" title="Mia X">Mia X</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>"TRU Niggas"</td>
+<td>4:10</td>
+<td><a href="/wiki/Craig_B" title="Craig B">Craig B</a></td>
+<td><a href="/wiki/C-Murder" title="C-Murder">C-Murder</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td>"1nce Upon A Time"</td>
+<td>2:15</td>
+<td><a href="/wiki/KLC" title="KLC">KLC</a></td>
+<td><a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a> &amp; <a href="/w/index.php?title=C-Loc&amp;action=edit&amp;redlink=1" class="new" title="C-Loc (page does not exist)">C-Loc</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td>"Pop Goes My 9"</td>
+<td>4:46</td>
+<td><a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+<td><a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a>, <a href="/wiki/Master_P" title="Master P">Master P</a>, <a href="/wiki/Kane_%26_Abel" title="Kane &amp; Abel" class="mw-redirect">Kane &amp; Abel</a> &amp; <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td>"It's My Time"</td>
+<td>2:51</td>
+<td><a href="/wiki/Craig_B" title="Craig B">Craig B</a></td>
+<td><a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a>, <a href="/wiki/Mia_X" title="Mia X">Mia X</a> &amp; <a href="/wiki/Master_P" title="Master P">Master P</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td>"Torcher Chamber"</td>
+<td>3:30</td>
+<td><a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a></td>
+<td><a href="/wiki/C-Murder" title="C-Murder">C-Murder</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td>"They Can't Stop Us!"</td>
+<td>4:57</td>
+<td><a href="/wiki/KLC" title="KLC">KLC</a></td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a> &amp; <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td>"The Lord Is Testin Me"</td>
+<td>5:42</td>
+<td><a href="/wiki/KLC" title="KLC">KLC</a></td>
+<td><a href="/wiki/C-Murder" title="C-Murder">C-Murder</a>, <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a> &amp; <a href="/wiki/Master_P" title="Master P">Master P</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td>"No Limit Soldiers (Club Mix)"</td>
+<td>7:04</td>
+<td><a href="/wiki/KLC" title="KLC">KLC</a></td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a>, <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a>, <a href="/wiki/C-Murder" title="C-Murder">C-Murder</a> &amp; <a href="/wiki/Mia_X" title="Mia X">Mia X</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td>"Final Ride"</td>
+<td>6:03</td>
+<td><a href="/wiki/Craig_B" title="Craig B">Craig B</a></td>
+<td><a href="/wiki/Master_P" title="Master P">Master P</a>, <a href="/wiki/Silkk_the_Shocker" title="Silkk the Shocker">Silkk the Shocker</a> &amp; <a href="/wiki/C-Murder" title="C-Murder">C-Murder</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Music_Videos">Music Videos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tru_2_da_Game&amp;action=edit&amp;section=2" title="Edit section: Music Videos">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I Always Feel Like f/Mia X &amp; Mo B. Dick <a rel="nofollow" class="external autonumber" href="http://www.youtube.com/watch?v=99OMPB9a9Ak">[1]</a></p>
+<p>FEDz f/Mia X <a rel="nofollow" class="external autonumber" href="http://www.youtube.com/watch?v=1AR3gH6BJQM">[2]</a></p>
+<h2><span class="mw-headline" id="Samples">Samples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tru_2_da_Game&amp;action=edit&amp;section=3" title="Edit section: Samples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"<a href="/wiki/I_Always_Feel_Like" title="I Always Feel Like">I Always Feel Like</a>" samples "<a href="/wiki/Somebody%27s_Watching_Me" title="Somebody's Watching Me">Somebody's Watching Me</a>" by <a href="/wiki/Rockwell" title="Rockwell">Rockwell</a> featuring <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a></p>
+<p>"I Got Candy" samples "<a href="/wiki/Candy_(Cameo_song)" title="Candy (Cameo song)">Candy (Cameo song)</a>" by <a href="/wiki/Cameo_(band)" title="Cameo (band)">Cameo (band)</a></p>
+<p>"FEDz" samples "<a href="/wiki/If_Your_Girl_Only_Knew" title="If Your Girl Only Knew">If Your Girl Only Knew</a>" by <a href="/wiki/Aaliyah" title="Aaliyah">Aaliyah</a></p>
+<p>"Smoking Green" samples "<a href="/wiki/Summer_Breeze_(song)" title="Summer Breeze (song)">Summer Breeze (song)</a>" by <a href="/wiki/Seals_%26_Croft" title="Seals &amp; Croft" class="mw-redirect">Seals &amp; Croft</a></p>
+<p>"TRU 2 Da Game" samples "Why Have I Lost You?" by <a href="/wiki/Cameo_(band)" title="Cameo (band)">Cameo (band)</a></p>
+<p>"Pop Goes My 9" samples "<a href="/wiki/(Pop,_Pop,_Pop,_Pop)_Goes_My_Mind" title="(Pop, Pop, Pop, Pop) Goes My Mind">(Pop, Pop, Pop, Pop) Goes My Mind</a>" by <a href="/wiki/LeVert" title="LeVert">LeVert</a></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tru_2_da_Game&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-AM-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-AM_1-0">^</a></b></span> <span class="reference-text"><span class="citation web">Stanley, Leo (1997-02-18). <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r247150">"Allmusic review"</a>. Allmusic.com<span class="reference-accessdate">. Retrieved 2012-09-12</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATru+2+da+Game&amp;rft.aufirst=Leo&amp;rft.aulast=Stanley&amp;rft.au=Stanley%2C+Leo&amp;rft.btitle=Allmusic+review&amp;rft.date=1997-02-18&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr247150&amp;rft.pub=Allmusic.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table class="metadata plainlinks stub" style="background: transparent;" role="presentation">
+<tr>
+<td><a href="/wiki/File:Gnome-dev-cdrom-audio.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gnome-dev-cdrom-audio.svg/32px-Gnome-dev-cdrom-audio.svg.png" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gnome-dev-cdrom-audio.svg/48px-Gnome-dev-cdrom-audio.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gnome-dev-cdrom-audio.svg/64px-Gnome-dev-cdrom-audio.svg.png 2x" data-file-width="60" data-file-height="60" /></a></td>
+<td><i>This 1990s hip hop album-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Tru_2_da_Game&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:1990s-hiphop-album-stub" title="Template:1990s-hiphop-album-stub"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:1990s-hiphop-album-stub" title="Template talk:1990s-hiphop-album-stub"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:1990s-hiphop-album-stub&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1020
+CPU time usage: 0.656 seconds
+Real time usage: 0.732 seconds
+Preprocessor visited node count: 911/1000000
+Preprocessor generated node count: 7269/1500000
+Post‐expand include size: 17395/2048000 bytes
+Template argument size: 1773/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.079/10.000 seconds
+Lua memory usage: 1.71 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:17980993-0!*!0!!en!4!* and timestamp 20140531000324 and revision id 606325663
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Tru_2_da_Game&amp;oldid=606325663">http://en.wikipedia.org/w/index.php?title=Tru_2_da_Game&amp;oldid=606325663</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1997_albums" title="Category:1997 albums">1997 albums</a></li><li><a href="/wiki/Category:TRU_albums" title="Category:TRU albums">TRU albums</a></li><li><a href="/wiki/Category:No_Limit_Records_albums" title="Category:No Limit Records albums">No Limit Records albums</a></li><li><a href="/wiki/Category:Priority_Records_albums" title="Category:Priority Records albums">Priority Records albums</a></li><li><a href="/wiki/Category:Gangsta_rap_albums" title="Category:Gangsta rap albums">Gangsta rap albums</a></li><li><a href="/wiki/Category:1990s_hip_hop_album_stubs" title="Category:1990s hip hop album stubs">1990s hip hop album stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2012" title="Category:Articles needing additional references from September 2012">Articles needing additional references from September 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tru+2+da+Game&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tru+2+da+Game" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Tru_2_da_Game"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Tru_2_da_Game"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Tru_2_da_Game" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Tru_2_da_Game&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tru_2_da_Game&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tru_2_da_Game" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tru_2_da_Game" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Tru_2_da_Game&amp;oldid=606325663" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Tru_2_da_Game&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q7847094" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Tru_2_da_Game&amp;id=606325663" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tru+2+da+Game">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Tru+2+da+Game&amp;oldid=606325663&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Tru_2_da_Game&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q7847094#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 April 2014 at 13:09.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Tru_2_da_Game" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":212,"wgHostname":"mw1108"});
+}</script>
+	</body>
+</html>
+	

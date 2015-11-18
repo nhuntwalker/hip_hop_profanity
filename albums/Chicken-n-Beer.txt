@@ -1,0 +1,994 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Chicken-n-Beer - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Chicken-n-Beer" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Chicken-n-Beer&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Chicken-n-Beer&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Chicken-n-Beer" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chicken-n-Beer","wgTitle":"Chicken-n-Beer","wgCurRevisionId":607225100,"wgRevisionId":607225100,"wgArticleId":33643086,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Certification Table Entry usages for United States","Certification Table Entry usages for Canada","Ludacris albums","2003 albums","Def Jam Recordings albums","Albums produced by Kanye West","Albums produced by Erick Sermon","Albums produced by Ron Browz","English-language albums","Disturbing tha Peace albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chicken-n-Beer","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["fr","fr-fr","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q221496"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Chicken-n-Beer skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Chicken-n-Beer</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Chicken-n-Beer</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Ludacris-ChickenAndBeer-music-album.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/2/21/Ludacris-ChickenAndBeer-music-album.jpg/220px-Ludacris-ChickenAndBeer-music-album.jpg" width="220" height="228" srcset="//upload.wikimedia.org/wikipedia/en/2/21/Ludacris-ChickenAndBeer-music-album.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/2/21/Ludacris-ChickenAndBeer-music-album.jpg 2x" data-file-width="290" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Ludacris" title="Ludacris">Ludacris</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">October 7, 2003</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>2002–2003</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a>, <a href="/wiki/Southern_hip_hop" title="Southern hip hop">southern hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>60:22</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Disturbing_tha_Peace" title="Disturbing tha Peace">Disturbing tha Peace</a>, <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Ludacris" title="Ludacris">Ludacris</a> <small>(also exec.)</small>, Chaka Zulu <small>(exec.)</small>, <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>, <a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a>, Ruh Anubis Yazid, <a href="/wiki/DJ_Nasty_%26_LVM" title="DJ Nasty &amp; LVM">DJ Nasty &amp; LVM</a>, Icedrake, <a href="/wiki/DJ_Paul" title="DJ Paul">DJ Paul</a>, <a href="/wiki/Juicy_J" title="Juicy J">Juicy J</a>, Zukhan Bey, <a href="/wiki/Erick_Sermon" title="Erick Sermon">Erick Sermon</a>, Black Key, T-Storm, Jook</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Ludacris" title="Ludacris">Ludacris</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Word_of_Mouf" title="Word of Mouf">Word of Mouf</a></i><br />
+(2001)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Chicken-n-Beer</b></i><br />
+(2003)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/The_Red_Light_District" title="The Red Light District">The Red Light District</a></i><br />
+(2004)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Chicken-n-Beer</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/P-Poppin" title="P-Poppin">P-Poppin</a>"</span><br />
+Released: June 11, 2003</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Stand_Up_(Ludacris_song)" title="Stand Up (Ludacris song)">Stand Up</a>"</span><br />
+Released: August 19, 2003</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Splash_Waterfalls" title="Splash Waterfalls">Splash Waterfalls</a>"</span><br />
+Released: February 17, 2004</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Diamond_in_the_Back" title="Diamond in the Back">Diamond in the Back</a>"</span><br />
+Released: May 11, 2004</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>Chicken-n-Beer</b></i> is the fourth <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by American <a href="/wiki/Rapper" title="Rapper" class="mw-redirect">rapper</a> <a href="/wiki/Ludacris" title="Ludacris">Ludacris</a>, released on October 7, 2003 through <a href="/wiki/Disturbing_tha_Peace" title="Disturbing tha Peace">Disturbing tha Peace</a> and <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam Recordings</a>. The album's production took place from 2002 to early 2003, and was handled by several record producers, including <a href="/wiki/DJ_Nasty_%26_LVM" title="DJ Nasty &amp; LVM">DJ Nasty &amp; LVM</a>, <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>, <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Mo B. Dick</a>, <a href="/wiki/DJ_Paul" title="DJ Paul">DJ Paul</a>, <a href="/wiki/Juicy_J" title="Juicy J">Juicy J</a> and Ludacris himself. A <a href="/wiki/Southern_hip_hop" title="Southern hip hop">Southern hip hop</a> album, <i>Chicken-n-Beer</i> is musically similar to Ludacris' previous work, with his use of a fast, highly versatile <a href="/wiki/Rapping#Flow" title="Rapping">flow</a> and the <a href="/wiki/Misogyny" title="Misogyny">misogynistic</a> themes in his lyrics often prominent throughout, although some of the songs on the album take a more <a href="/wiki/Political_hip_hop" title="Political hip hop">political</a> overtone.</p>
+<p>The album debuted and peaked at number one on the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>, selling 429,000 copies in its first week; unlike Ludacris' previous albums, the album achieved success outside the United States, charting in several European territories, including Germany and the United Kingdom. Upon its release, <i>Chicken-n-Beer</i> received positive reviews from most music critics, many of whom praised Ludacris' performance, although some criticized the adult humour in the lyrics as excessive. Four singles were released from the album, two of which – "<a href="/wiki/Stand_Up_(Ludacris_song)" title="Stand Up (Ludacris song)">Stand Up</a>" and "<a href="/wiki/Splash_Waterfalls" title="Splash Waterfalls">Splash Waterfalls</a>" – became Ludacris' first to peak in the top ten of the US <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Composition"><span class="tocnumber">1</span> <span class="toctext">Composition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Lyrics_and_themes"><span class="tocnumber">1.1</span> <span class="toctext">Lyrics and themes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Reception"><span class="tocnumber">2</span> <span class="toctext">Reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Commercial_performance"><span class="tocnumber">2.1</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Critical_response"><span class="tocnumber">2.2</span> <span class="toctext">Critical response</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Track_listing"><span class="tocnumber">3</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Personnel"><span class="tocnumber">4</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Charts"><span class="tocnumber">5</span> <span class="toctext">Charts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Weekly_charts"><span class="tocnumber">5.1</span> <span class="toctext">Weekly charts</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Year-end_charts"><span class="tocnumber">5.2</span> <span class="toctext">Year-end charts</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Chart_precession_and_succession"><span class="tocnumber">5.3</span> <span class="toctext">Chart precession and succession</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Certifications"><span class="tocnumber">6</span> <span class="toctext">Certifications</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Composition">Composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=edit&amp;section=1" title="Edit section: Composition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Lyrics_and_themes">Lyrics and themes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=edit&amp;section=2" title="Edit section: Lyrics and themes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ludacris frequently employs a fast paced <a href="/wiki/Rapping#Flow" title="Rapping">flow</a> on <i>Chicken-n-Beer</i>, whilst often suffusing the words he raps with humorous punchlines and innuendos.<sup id="cite_ref-AMGreview_1-0" class="reference"><a href="#cite_note-AMGreview-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-BBCMusicrev_2-0" class="reference"><a href="#cite_note-BBCMusicrev-2"><span>[</span>2<span>]</span></a></sup> Writing for <a href="/wiki/BBC_Music" title="BBC Music" class="mw-redirect">BBC Music</a>, Lewis Dene noted Ludacris to typically incorporate "lightning-quick phrasing, cutting wit and reference points a plenty" into his lyrics.<sup id="cite_ref-BBCMusicrev_2-1" class="reference"><a href="#cite_note-BBCMusicrev-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>Many of the songs on <i>Chicken-n-Beer</i> are of a predominantly sexual nature,<sup id="cite_ref-USAToday_3-0" class="reference"><a href="#cite_note-USAToday-3"><span>[</span>3<span>]</span></a></sup> and were compared by Nathan Rabin of <i><a href="/wiki/The_A.V._Club" title="The A.V. Club">The A.V. Club</a></i> to the material recorded by the likes of the hip hop group <a href="/wiki/2_Live_Crew" title="2 Live Crew">2 Live Crew</a>.<sup id="cite_ref-AVClubreview_4-0" class="reference"><a href="#cite_note-AVClubreview-4"><span>[</span>4<span>]</span></a></sup> "<a href="/wiki/Stand_Up_(Ludacris_song)" title="Stand Up (Ludacris song)">Stand Up</a>" was described as a "steamy sex rap",<sup id="cite_ref-AMGreview_1-1" class="reference"><a href="#cite_note-AMGreview-1"><span>[</span>1<span>]</span></a></sup> and "Hoes in My Room", a collaboration with fellow rapper <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>, details a fictional encounter with a collection of <a href="/wiki/Groupie" title="Groupie">groupies</a> following a live performance. Rabin further observed that Ludacris addresses such topics with "irreverent glee", despite describing these themes "well-worn" and clichéd.<sup id="cite_ref-AVClubreview_4-1" class="reference"><a href="#cite_note-AVClubreview-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Other songs take on a noticeably <a href="/wiki/Political_hip_hop" title="Political hip hop">political</a> tone.<sup id="cite_ref-RCrev_5-0" class="reference"><a href="#cite_note-RCrev-5"><span>[</span>5<span>]</span></a></sup> Ludacris was inspired to write such material after political commentator <a href="/wiki/Bill_O%27Reilly_(political_commentator)" title="Bill O'Reilly (political commentator)">Bill O'Reilly</a> specifically criticized Ludacris for the content of his lyrics and noted him as a bad influence.<sup id="cite_ref-AVClubreview_4-2" class="reference"><a href="#cite_note-AVClubreview-4"><span>[</span>4<span>]</span></a></sup> "<a href="/wiki/Blow_It_Out" title="Blow It Out">Blow It Out</a>" and "Screwed Up" contain direct references to O'Reilly and his comments, as well as observations on the difficulties of fame.<sup id="cite_ref-RCrev_5-1" class="reference"><a href="#cite_note-RCrev-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=edit&amp;section=3" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=edit&amp;section=4" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The album debuted at number one on the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>, becoming Ludacris' first album to top the chart: the overall first-week sales of 429,000 copies were an improvement on Ludacris' previous album <i>Word of Mouf</i>, which sold 282,000 copies in its first week in the United States in debuting at number three on the <i>Billboard</i> 200.<sup id="cite_ref-USFW_6-0" class="reference"><a href="#cite_note-USFW-6"><span>[</span>6<span>]</span></a></sup> In its second week, <i>Chicken-n-Beer</i> fell to number two in selling 194,000 copies, representing an overall sales decrease of 55% and bringing overall sales of the album to 623,000.<sup id="cite_ref-USSW_7-0" class="reference"><a href="#cite_note-USSW-7"><span>[</span>7<span>]</span></a></sup> The album spent five weeks inside the top ten of the chart, selling 936,000 copies in that time:<sup id="cite_ref-USTensales_8-0" class="reference"><a href="#cite_note-USTensales-8"><span>[</span>8<span>]</span></a></sup> it went on to spend a total of 45 weeks on the chart.<sup id="cite_ref-US200_9-0" class="reference"><a href="#cite_note-US200-9"><span>[</span>9<span>]</span></a></sup> It also peaked at number one on the US <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a> chart, although it remained on the chart for a longer length of time than on the <i>Billboard</i> 200, lasting a total of 51 weeks before exiting the chart.<sup id="cite_ref-USR.26BAl_10-0" class="reference"><a href="#cite_note-USR.26BAl-10"><span>[</span>10<span>]</span></a></sup> On June 18, 2004, the album was certified <a href="/wiki/RIAA_certification" title="RIAA certification">two times platinum</a> by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> for shipments of 2,000,000 copies within the United States.<sup id="cite_ref-United_StatesLudacrisChicken_.26_BeeralbumCertRef_11-0" class="reference"><a href="#cite_note-United_StatesLudacrisChicken_.26_BeeralbumCertRef-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>Unlike Ludacris' previous releases, <i>Chicken-n-Beer</i> achieved reasonable commercial success outside the United States. It became Ludacris' first album to chart in Australia, where it debuted and peaked at number 98, then exited the chart after a single week.<sup id="cite_ref-AUSAl_12-0" class="reference"><a href="#cite_note-AUSAl-12"><span>[</span>12<span>]</span></a></sup> The album peaked at number five on the <a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a>: although it only spent a single week on the chart, no other Ludacris album has achieved a higher position on the chart,<sup id="cite_ref-CANAl_13-0" class="reference"><a href="#cite_note-CANAl-13"><span>[</span>13<span>]</span></a></sup> and was certified platinum by the <a href="/wiki/Canadian_Recording_Industry_Association" title="Canadian Recording Industry Association" class="mw-redirect">Canadian Recording Industry Association</a> on January 8, 2004.<sup id="cite_ref-CanadaLudacrisChicken-N-BeeralbumCertRef_14-0" class="reference"><a href="#cite_note-CanadaLudacrisChicken-N-BeeralbumCertRef-14"><span>[</span>14<span>]</span></a></sup> In Ireland, the album debuted and peaked at number 71 on the <a href="/wiki/Irish_Albums_Chart" title="Irish Albums Chart">Irish Albums Chart</a>, before exiting the chart the following week: to date, it remains Ludacris' only album to appear on the chart.<sup id="cite_ref-IREcharts_15-0" class="reference"><a href="#cite_note-IREcharts-15"><span>[</span>15<span>]</span></a></sup> In the United Kingdom, <i>Chicken-n-Beer</i> achieved a peak position of number 44 on the <a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a>, spending a total of four weeks on the chart – the longest length of time any Ludacris album has lasted on the chart.<sup id="cite_ref-UKAl_16-0" class="reference"><a href="#cite_note-UKAl-16"><span>[</span>16<span>]</span></a></sup> It also became Ludacris' most commercially successful album in Germany, appearing at number 87 on the <a href="/wiki/Media_Control_Charts" title="Media Control Charts">German Albums Chart</a> in the only week in which it charted.<sup id="cite_ref-GERAl_17-0" class="reference"><a href="#cite_note-GERAl-17"><span>[</span>17<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Critical_response">Critical response</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=edit&amp;section=5" title="Edit section: Critical response">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-AMGreview_1-2" class="reference"><a href="#cite_note-AMGreview-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Austin_Chronicle" title="The Austin Chronicle">The Austin Chronicle</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Chicago_Sun-Times" title="Chicago Sun-Times">Chicago Sun-Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/4 stars"><img alt="3/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Vrabel_20-0" class="reference"><a href="#cite_note-Vrabel-20"><span>[</span>20<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">B+<sup id="cite_ref-RCrev_5-2" class="reference"><a href="#cite_note-RCrev-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">B−<sup id="cite_ref-EWreview_21-0" class="reference"><a href="#cite_note-EWreview-21"><span>[</span>21<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/4 stars"><img alt="3.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Q_(magazine)" title="Q (magazine)" class="mw-redirect">Q</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Toure_24-0" class="reference"><a href="#cite_note-Toure-24"><span>[</span>24<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/4 stars"><img alt="3/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-USAToday_3-1" class="reference"><a href="#cite_note-USAToday-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+</table>
+<p>Upon its release, <i>Chicken-n-Beer</i> received generally positive reviews from music critics.<sup id="cite_ref-Metacritic_25-0" class="reference"><a href="#cite_note-Metacritic-25"><span>[</span>25<span>]</span></a></sup> At <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>, which assigns a <a href="/wiki/Standard_score" title="Standard score">normalized</a> rating out of 100 to reviews from mainstream critics, the album received an <a href="/wiki/Weighted_mean" title="Weighted mean" class="mw-redirect">average</a> score of 75, based on 10 reviews, which indicates "generally favorable reviews".<sup id="cite_ref-Metacritic_25-1" class="reference"><a href="#cite_note-Metacritic-25"><span>[</span>25<span>]</span></a></sup> David Jeffries of <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> noted Ludacris' "lightning-quick phrasing and cutting wit" and "rollicking, all-in-good-fun persona": he went on to commend the eccentric and upbeat nature of Ludacris' music, calling him "one of the few who's actually celebrating something – and having a great time doing it".<sup id="cite_ref-AMGreview_1-3" class="reference"><a href="#cite_note-AMGreview-1"><span>[</span>1<span>]</span></a></sup> Writing for <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i>, Neil Drumming praised Ludacris' rapping skills, including his "explosive enunciation", "witty wordplay" and "punchline potency", although he reacted negatively towards the album's production, feeling it to contain "campy sampling and cartoonish composition".<sup id="cite_ref-EWreview_21-1" class="reference"><a href="#cite_note-EWreview-21"><span>[</span>21<span>]</span></a></sup> <a href="/wiki/Nathan_Rabin" title="Nathan Rabin">Nathan Rabin</a> of <i><a href="/wiki/The_A.V._Club" title="The A.V. Club">The A.V. Club</a></i> complimented Ludacris' "impeccable comic timing" and his ability to "wring the most out of every line", although he also noted the album to be Ludacris' most "emotional, autobiographical major-label release to date".<sup id="cite_ref-AVClubreview_4-3" class="reference"><a href="#cite_note-AVClubreview-4"><span>[</span>4<span>]</span></a></sup> Although he dismissed much of the album's production as "duds", <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> writer Toure praised Ludacris' musical style as appealing to genres outside hip-hop music, calling him "cocksure, witty and just hard enough to be taken seriously" yet "playful enough to be pop":<sup id="cite_ref-Toure_24-1" class="reference"><a href="#cite_note-Toure-24"><span>[</span>24<span>]</span></a></sup> he further noted Ludacris to be one of the most technically skilled rappers of the time, stating:</p>
+<blockquote class="templatequote">
+<p>Ludacris is one of the most liquid MCs in the game today. He varies his flows with such dexterity and has so much musicality in his tones that his mouth truly seems like an instrument. Ludacris is an outsize character – he's Mr. Fantastic from the Fantastic Four, perhaps a Southern <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a>, a guy who started as an Atlanta radio DJ but whose third album... finds him part of the hip-hop establishment.<sup id="cite_ref-Toure_24-2" class="reference"><a href="#cite_note-Toure-24"><span>[</span>24<span>]</span></a></sup></p>
+<div class="templatequotecite">—Toure</div>
+</blockquote>
+<p>However, some felt the adult humour displayed on many the songs was excessive, and detracted from Ludacris' technical abilities. Jeffries called Ludacris' personality "cartoonish":<sup id="cite_ref-AMGreview_1-4" class="reference"><a href="#cite_note-AMGreview-1"><span>[</span>1<span>]</span></a></sup> Drumming noted "too many cuts are simply one-note jokes stretched out to three or four minutes", and criticized the album's female-orientated material as "cringeworthy, misogynistic snorefests", but admitted Ludacris to be "a funny guy" and called many of the featured insults and boasts "gut-busting... for days".<sup id="cite_ref-EWreview_21-2" class="reference"><a href="#cite_note-EWreview-21"><span>[</span>21<span>]</span></a></sup> In contrast, Rabin described Ludacris as "fun incarnate, the joyous embodiment of rap's commitment to hedonism at all costs" and felt that few rappers covered sexually-orientated topics as well as Ludacris, "writing few of his peers mine the well-worn topics of freaky sex and drugged-out debauchery with such irreverent glee".<sup id="cite_ref-AVClubreview_4-4" class="reference"><a href="#cite_note-AVClubreview-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=edit&amp;section=6" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Southern Fried Intro" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Ludacris" title="Ludacris">Christopher Bridges</a>, <a href="/wiki/Burt_Bacharach" title="Burt Bacharach">Burt Bacharach</a>, Charles Bobbit, <a href="/wiki/James_Brown" title="James Brown">James Brown</a>, <a href="/wiki/Lyn_Collins" title="Lyn Collins">Gloria Collins</a>, <a href="/wiki/Hal_David" title="Hal David">Hal David</a>, <a href="/wiki/DJ_Nasty_%26_LVM" title="DJ Nasty &amp; LVM">Johnny Mollings, Lenny Mollings</a>, <a href="/wiki/Fred_Wesley" title="Fred Wesley">Fred Wesley</a></td>
+<td style="vertical-align: top;">DJ Nasty &amp; LVM</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:55</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Blow_It_Out" title="Blow It Out">Blow It Out</a>" &#160;</td>
+<td style="vertical-align: top;">Bridges, <a href="/wiki/Ron_Browz" title="Ron Browz">Rondell Turner</a></td>
+<td style="vertical-align: top;">Ron Browz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:05</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Stand_Up_(Ludacris_song)" title="Stand Up (Ludacris song)">Stand Up</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Shawnna" title="Shawnna">Shawnna</a>)</span></td>
+<td style="vertical-align: top;">Bridges, <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></td>
+<td style="vertical-align: top;">Kanye West, Ludacris <small>(co.)</small></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:33</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Rob Quarters" <span style="font-size:85%;">(skit, not included on censored version)</span></td>
+<td style="vertical-align: top;">Terrence Battle</td>
+<td style="vertical-align: top;">T-Storm</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:04</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Splash_Waterfalls" title="Splash Waterfalls">Splash Waterfalls</a>" &#160;</td>
+<td style="vertical-align: top;">Bridges, Michael Guy, <a href="/wiki/Larry_Mizell" title="Larry Mizell" class="mw-redirect">Laurence Mizell</a></td>
+<td style="vertical-align: top;">Icedrake</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:50</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Hard Times" <span style="font-size:85%;">(featuring <a href="/wiki/8Ball_%26_MJG" title="8Ball &amp; MJG">8Ball &amp; MJG</a> and <a href="/wiki/Carl_Thomas_(singer)" title="Carl Thomas (singer)">Carl Thomas</a>)</span></td>
+<td style="vertical-align: top;">Bridges, Marlon Goodwin, Mollings, Mollings, Mizell, Premro Smith</td>
+<td style="vertical-align: top;">DJ Nasty &amp; LVM</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:15</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Diamond_in_the_Back" title="Diamond in the Back">Diamond in the Back</a>" &#160;</td>
+<td style="vertical-align: top;">Bridges, <a href="/wiki/DJ_Paul" title="DJ Paul">Paul Beauregard</a>, William Devaughn, <a href="/wiki/Juicy_J" title="Juicy J">Jordan Houston</a></td>
+<td style="vertical-align: top;">DJ Paul, Juicy J</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:12</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Screwed Up" <span style="font-size:85%;">(featuring <a href="/wiki/Lil%27_Flip" title="Lil' Flip">Lil' Flip</a>)</span></td>
+<td style="vertical-align: top;">Bridges, Wesley Weston, Jr., <a href="/wiki/Mo_B._Dick" title="Mo B. Dick">Raymond Poole</a></td>
+<td style="vertical-align: top;">Mo B. Dick</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:52</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"T Baggin'" <span style="font-size:85%;">(skit, not included on censored version)</span></td>
+<td style="vertical-align: top;">Battle</td>
+<td style="vertical-align: top;">T-Storm</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:53</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/P-Poppin" title="P-Poppin">P-Poppin</a>" <span style="font-size:85%;">(featuring Shawnna and Lil' Fate)</span></td>
+<td style="vertical-align: top;">Bridges, Zukhan Bey, Rashawnna Guy, <a href="/wiki/Chad_Hugo" title="Chad Hugo">Chad Hugo</a>, <a href="/wiki/Mystikal" title="Mystikal">Michael Tyler</a>, <a href="/wiki/Pharrell_Williams" title="Pharrell Williams">Pharrell Williams</a>, Arbie Wilson</td>
+<td style="vertical-align: top;">Bey</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:50</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Hip Hop Quotables" &#160;</td>
+<td style="vertical-align: top;">Bridges, <a href="/wiki/Erick_Sermon" title="Erick Sermon">Erick Sermon</a></td>
+<td style="vertical-align: top;">Erick Sermon</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:09</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Black Man's Struggle" <span style="font-size:85%;">(skit, not included on censored version)</span></td>
+<td style="vertical-align: top;">Battle</td>
+<td style="vertical-align: top;">T-Storm</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:35</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Hoes in My Room" <span style="font-size:85%;">(featuring <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>)</span></td>
+<td style="vertical-align: top;">Bridges, Calvin Broadus, Poole</td>
+<td style="vertical-align: top;">Mo B. Dick</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:40</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Teamwork" &#160;</td>
+<td style="vertical-align: top;">Bridges, Mickey Davis</td>
+<td style="vertical-align: top;">Black Key</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:46</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Interactive" <span style="font-size:85%;">(skit, not included on censored version)</span></td>
+<td style="vertical-align: top;">Battle</td>
+<td style="vertical-align: top;">T-Storm</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:03</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"We Got" <span style="font-size:85%;">(featuring <a href="/wiki/Chingy" title="Chingy">Chingy</a>, <a href="/wiki/I-20_(rapper)" title="I-20 (rapper)">I-20</a> and <a href="/wiki/2_Chainz" title="2 Chainz">Tity Boi</a>)</span></td>
+<td style="vertical-align: top;">Bridges, Howard Bailey, Jr., Beauregard, Tauheed Epps, Houston, Bobby Sandimanie</td>
+<td style="vertical-align: top;">DJ Paul, Juicy J</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:21</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"Eyebrows Down" <span style="font-size:85%;">(featuring <a href="/wiki/2_Chainz" title="2 Chainz">Tity Boi</a> and <a href="/wiki/Playaz_Circle" title="Playaz Circle">Dolla Boy</a>)</span></td>
+<td style="vertical-align: top;">Bridges, Torrey Cook</td>
+<td style="vertical-align: top;">Jook</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:20</td>
+</tr>
+<tr>
+<td align="right" colspan="4">
+<div style="width: 7.5em; text-align: left; padding-left: 10px; background-color: #eee; margin: 0;"><b>Total length:</b></div>
+</td>
+<td style="padding-right: 10px; text-align: right; background-color: #eee;"><b>60:22</b></td>
+<td class="mbox-empty-cell"></td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">United Kingdom bonus tracks</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Act_a_Fool_(Ludacris_song)" title="Act a Fool (Ludacris song)">Act a Fool</a>" &#160;</td>
+<td style="vertical-align: top;">Bridges, Keith McMasters</td>
+<td style="vertical-align: top;">Keith Mack</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:30</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Southern_Hospitality_(song)" title="Southern Hospitality (song)">Southern Hospitality</a>" <span style="font-size:85%;">(Remix) (featuring <a href="/wiki/Ms._Dynamite" title="Ms. Dynamite">Ms. Dynamite</a> and Maxwell D)</span></td>
+<td style="vertical-align: top;">Bridges, S. Santiago, Williams</td>
+<td style="vertical-align: top;">The Neptunes</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:03</td>
+</tr>
+<tr>
+<td align="right" colspan="4">
+<div style="width: 7.5em; text-align: left; padding-left: 10px; background-color: #eee; margin: 0;"><b>Total length:</b></div>
+</td>
+<td style="padding-right: 10px; text-align: right; background-color: #eee;"><b>68:55</b></td>
+<td class="mbox-empty-cell"></td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">Re-release bonus track</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Blow_It_Out" title="Blow It Out">Blow It Out</a>" <span style="font-size:85%;">(Remix) (featuring <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a>)</span></td>
+<td style="vertical-align: top;">Bridges, Curtis Jackson, Turner</td>
+<td style="vertical-align: top;">Ron Browz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:03</td>
+</tr>
+<tr>
+<td align="right" colspan="4">
+<div style="width: 7.5em; text-align: left; padding-left: 10px; background-color: #eee; margin: 0;"><b>Total length:</b></div>
+</td>
+<td style="padding-right: 10px; text-align: right; background-color: #eee;"><b>64:25</b></td>
+<td class="mbox-empty-cell"></td>
+</tr>
+</table>
+<p><small>&#160;•  (co.) Co-producer</small><br /></p>
+<dl>
+<dt>Sample credits</dt>
+</dl>
+<ul>
+<li>"Southern Fried Intro" contains samples of "Walk on By" as performed by <a href="/wiki/Isaac_Hayes" title="Isaac Hayes">Isaac Hayes</a> and "Me and My Baby Got Our Own Thing Going" as performed by <a href="/wiki/Lyn_Collins" title="Lyn Collins">Lyn Collins</a>.</li>
+<li>"Splash Waterfalls" contains a sample of "Be Ever Wonderful" as performed by <a href="/wiki/Ted_Taylor_(musician)" title="Ted Taylor (musician)">Ted Taylor</a>.</li>
+<li>"Hard Times" contains a sample of "My Little Girl" as performed by <a href="/wiki/Bobbi_Humphrey" title="Bobbi Humphrey">Bobbi Humphrey</a>.</li>
+<li>"Diamond in the Back" contains a sample of "<a href="/wiki/Be_Thankful_for_What_You_Got_(song)" title="Be Thankful for What You Got (song)">Be Thankful for What You Got</a>" as performed by William Devaughn.</li>
+<li>"P-Poppin" contains an sample of "<a href="/wiki/Danger_(Been_So_Long)" title="Danger (Been So Long)">Danger (Been So Long)</a>" as performed by <a href="/wiki/Mystikal" title="Mystikal">Mystikal</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=edit&amp;section=7" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Credits for <i>Chicken-n-Beer</i> adapted from <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></p>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Geoff Allen – engineer</li>
+<li>Burt Bacharach – composer</li>
+<li>Ken Bailey – A&amp;R</li>
+<li>Mark Berto – engineer</li>
+<li>Zukhan Bey – composer, producer</li>
+<li>Black Key – producer</li>
+<li>Samuel Branch – engineer</li>
+<li>Ron Browz – producer</li>
+<li>Chingy – guest appearance, vocals</li>
+<li>Sandy Coffee – vocals</li>
+<li>T.F. Cook – composer</li>
+<li>M. Davis – composer</li>
+<li>Mickey Davis – engineer</li>
+<li>Jeff Dixon – marketing</li>
+<li>DJ Nasty – producer</li>
+<li>Dolla Boy – guest appearance, vocals</li>
+<li><a href="/wiki/Jimmy_Douglass" title="Jimmy Douglass">Jimmy Douglass</a> – mixing</li>
+<li>William "Poon Daddy" Engram – A&amp;R</li>
+<li>Steve Fisher – engineer</li>
+<li>Cypress Fluellen – vocals</li>
+<li>John Frye – mixing</li>
+<li>Robert Hannon – engineer</li>
+<li>Matt Hennessey – engineer</li>
+<li>Eddie Hernandez – engineer</li>
+<li>Chad Hugo – composer</li>
+<li>Bill Importico – engineer</li>
+<li>Tia Johnson – art direction, design</li>
+<li>Scott Kieklak – engineer</li>
+<li>Portia Kirkland – marketing</li>
+<li><a href="/wiki/Beats_by_the_Pound" title="Beats by the Pound" class="mw-redirect">KLC</a> – engineer</li>
+<li>Eritza Laues – vocals</li>
+<li>Lil' Fate – guest appearance, vocals</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Lil Pat – mixing</li>
+<li>Lil' Flip – guest appearance, vocals</li>
+<li>Ludacris – composer, executive producer, producer, vocals</li>
+<li>LVM – producer</li>
+<li>Tasniima Malik – vocals</li>
+<li>Deborah Mannis-Gardner – sample clearance</li>
+<li>MJG – guest appearance, vocals</li>
+<li>Lenny Mollings – Engineer, Keyboards</li>
+<li>Josh Monroy – engineer</li>
+<li>Roger Moody – engineer</li>
+<li>Phil Mucci – collage, photography</li>
+<li>Joel Mullis – engineer</li>
+<li>Erica Novich – A&amp;R</li>
+<li>Jason Rea – engineer</li>
+<li>Patrick "Plain Pat" Reynolds – A&amp;R</li>
+<li>Jason Rome – engineer</li>
+<li>Glenn Schick – mastering</li>
+<li>Erick Sermon – composer, producer</li>
+<li>Shawnna – guest appearance, vocals</li>
+<li>Azuolas Sinkevicius – engineer</li>
+<li>Snoop Dogg – guest appearance, vocals</li>
+<li>Sean Taylor – A&amp;R</li>
+<li>Carl Thomas – guest appearance, vocals</li>
+<li>Tity Boi – guest appearance, vocals</li>
+<li>Michael Tyler – composer</li>
+<li>Kanye West – composer, producer</li>
+<li>Cory Williams – engineer</li>
+<li>Pharrell Williams – composer</li>
+<li>A. Wilson – composer</li>
+<li>Mike "Hitman" Wilson – engineer</li>
+<li>Ruh Anubis "Moby Dick" Yazid – engineer, instrumentation, keyboards, producer</li>
+<li>Chaka Zulu – executive producer, producer</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=edit&amp;section=8" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Weekly_charts">Weekly charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=edit&amp;section=9" title="Edit section: Weekly charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable plainrowheaders">
+<tr>
+<th scope="col">Chart (2003)</th>
+<th scope="col">Peak<br />
+position</th>
+</tr>
+<tr>
+<th scope="row">Australia (<a href="/wiki/ARIA_Charts" title="ARIA Charts">ARIA</a>)<sup id="cite_ref-AUSAl_12-1" class="reference"><a href="#cite_note-AUSAl-12"><span>[</span>12<span>]</span></a></sup></th>
+<td style="text-align:center;">98</td>
+</tr>
+<tr>
+<th scope="row">Canada (<a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a>)<sup id="cite_ref-CANAl_13-1" class="reference"><a href="#cite_note-CANAl-13"><span>[</span>13<span>]</span></a></sup></th>
+<td style="text-align:center;">5</td>
+</tr>
+<tr>
+<th scope="row">Germany (<a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control Charts</a>)<sup id="cite_ref-GERAl_17-1" class="reference"><a href="#cite_note-GERAl-17"><span>[</span>17<span>]</span></a></sup></th>
+<td style="text-align:center;">87</td>
+</tr>
+<tr>
+<th scope="row">Ireland (<a href="/wiki/Irish_Recorded_Music_Association" title="Irish Recorded Music Association">IRMA</a>)<sup id="cite_ref-IREcharts_15-1" class="reference"><a href="#cite_note-IREcharts-15"><span>[</span>15<span>]</span></a></sup></th>
+<td style="text-align:center;">71</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums</a> (<a href="/wiki/Official_Charts_Company" title="Official Charts Company">Official Charts Company</a>)<sup id="cite_ref-UKAl_16-1" class="reference"><a href="#cite_note-UKAl-16"><span>[</span>16<span>]</span></a></sup></th>
+<td style="text-align:center;">44</td>
+</tr>
+<tr>
+<th scope="row">US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-US200_9-1" class="reference"><a href="#cite_note-US200-9"><span>[</span>9<span>]</span></a></sup></th>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<th scope="row">US <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-USR.26BAl_10-1" class="reference"><a href="#cite_note-USR.26BAl-10"><span>[</span>10<span>]</span></a></sup></th>
+<td style="text-align:center;">1</td>
+</tr>
+</table>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Year-end_charts">Year-end charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=edit&amp;section=10" title="Edit section: Year-end charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable plainrowheaders">
+<tr>
+<th scope="col">Chart (2003)</th>
+<th scope="col">Position</th>
+</tr>
+<tr>
+<th scope="row">US <i>Billboard</i> 200<sup id="cite_ref-US200Year-End_27-0" class="reference"><a href="#cite_note-US200Year-End-27"><span>[</span>27<span>]</span></a></sup></th>
+<td style="text-align:center;">63</td>
+</tr>
+<tr>
+<th scope="row">US Top R&amp;B/Hip-Hop Albums (<i>Billboard</i>)<sup id="cite_ref-USR.26BAlYear-End_28-0" class="reference"><a href="#cite_note-USR.26BAlYear-End-28"><span>[</span>28<span>]</span></a></sup></th>
+<td style="text-align:center;">32</td>
+</tr>
+<tr>
+<th scope="col">Chart (2004)</th>
+<th scope="col">Position</th>
+</tr>
+<tr>
+<th scope="row">US <i>Billboard</i> 200<sup id="cite_ref-US200Year-End_27-1" class="reference"><a href="#cite_note-US200Year-End-27"><span>[</span>27<span>]</span></a></sup></th>
+<td style="text-align:center;">41</td>
+</tr>
+<tr>
+<th scope="row">US R&amp;B/Hip-Hop Albums (<i>Billboard</i>)<sup id="cite_ref-USR.26BAlYear-End_28-1" class="reference"><a href="#cite_note-USR.26BAlYear-End-28"><span>[</span>28<span>]</span></a></sup></th>
+<td style="text-align:center;">13</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Chart_precession_and_succession">Chart precession and succession</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=edit&amp;section=11" title="Edit section: Chart precession and succession">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Speakerboxxx/The_Love_Below" title="Speakerboxxx/The Love Below">Speakerboxxx/The Love Below</a></i> by <a href="/wiki/OutKast" title="OutKast" class="mw-redirect">OutKast</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/List_of_number-one_albums_of_2003_(U.S.)" title="List of number-one albums of 2003 (U.S.)" class="mw-redirect">number-one album</a></b><br />
+October 19, 2003 – October 25, 2003</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Measure_of_a_Man_(Clay_Aiken_album)" title="Measure of a Man (Clay Aiken album)">Measure of a Man</a></i> by <a href="/wiki/Clay_Aiken" title="Clay Aiken">Clay Aiken</a></span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Certifications">Certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=edit&amp;section=12" title="Edit section: Certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable plainrowheaders">
+<tr>
+<th scope="col">Region</th>
+<th scope="col">Certification</th>
+<th scope="col" data-sort-type="number"><a href="/wiki/List_of_music_recording_certifications" title="List of music recording certifications">Sales/shipments</a></th>
+</tr>
+<tr>
+<th scope="row">United States (<a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a>)<sup id="cite_ref-United_StatesLudacrisChicken_.26_BeeralbumCertRef_11-1" class="reference"><a href="#cite_note-United_StatesLudacrisChicken_.26_BeeralbumCertRef-11"><span>[</span>11<span>]</span></a></sup></th>
+<td>2× Platinum</td>
+<td>2,000,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">Canada (<a href="/wiki/Music_Canada" title="Music Canada">Music Canada</a>)<sup id="cite_ref-CanadaLudacrisChicken-N-BeeralbumCertRef_14-1" class="reference"><a href="#cite_note-CanadaLudacrisChicken-N-BeeralbumCertRef-14"><span>[</span>14<span>]</span></a></sup></th>
+<td>Platinum</td>
+<td>100,000<sup>^</sup></td>
+</tr>
+<tr class="sortbottom">
+<td colspan="3">
+<center>
+<p><small><sup>^</sup>shipments figures based on certification alone</small></p>
+</center>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-AMGreview-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-AMGreview_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AMGreview_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AMGreview_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-AMGreview_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-AMGreview_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Bush, John. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r648129">"<i>Chicken -N- Beer</i> – Ludacris &gt; Review"</a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>. <a href="/wiki/Rovi_Corporation" title="Rovi Corporation">Rovi Corporation</a><span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=%27%27Chicken+-N-+Beer%27%27+%E2%80%93+Ludacris+%3E+Review&amp;rft.au=Bush%2C+John&amp;rft.aufirst=John&amp;rft.aulast=Bush&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr648129&amp;rft.jtitle=%27%27Allmusic%27%27&amp;rft.pub=Rovi+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BBCMusicrev-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBCMusicrev_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBCMusicrev_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Dene, Lewis (October 6, 2003). <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/music/reviews/8qhj">"Review of Ludacris – Chicken 'n' Beer"</a>. <a href="/wiki/BBC_Music" title="BBC Music" class="mw-redirect">BBC Music</a>. <a href="/wiki/BBC" title="BBC">BBC</a><span class="reference-accessdate">. Retrieved May 27, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Review+of+Ludacris+%E2%80%93+Chicken+%27n%27+Beer&amp;rft.au=Dene%2C+Lewis&amp;rft.aufirst=Lewis&amp;rft.aulast=Dene&amp;rft.date=October+6%2C+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fmusic%2Freviews%2F8qhj&amp;rft.jtitle=%27%27BBC+Music%27%27&amp;rft.pub=BBC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-USAToday-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-USAToday_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-USAToday_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Jones Steve (October 7, 2003). <a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/USAToday/access/420056051.html?FMT=ABS&amp;FMTS=ABS:FT&amp;date=Oct+7%2C+2003&amp;author=Steve+Jones%3BElysa+Gardner%3BBrian+Mansfield&amp;pub=USA+TODAY&amp;edition=&amp;startpage=D.05&amp;desc=Shelby+Lynne+reaffirms+her+%27Identity%27">"Shelby Lynne reaffirms her 'Identity<span style="padding-right:0.2em;">'</span>"</a>. <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>. <a href="/wiki/Gannett_Company" title="Gannett Company">Gannett Company</a><span class="reference-accessdate">. Retrieved May 27, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Shelby+Lynne+reaffirms+her+%27Identity%27&amp;rft.au=Jones+Steve&amp;rft.aulast=Jones+Steve&amp;rft.date=October+7%2C+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpqasb.pqarchiver.com%2FUSAToday%2Faccess%2F420056051.html%3FFMT%3DABS%26FMTS%3DABS%3AFT%26date%3DOct%2B7%252C%2B2003%26author%3DSteve%2BJones%253BElysa%2BGardner%253BBrian%2BMansfield%26pub%3DUSA%2BTODAY%26edition%3D%26startpage%3DD.05%26desc%3DShelby%2BLynne%2Breaffirms%2Bher%2B%2527Identity%2527&amp;rft.jtitle=USA+Today&amp;rft.pub=Gannett+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AVClubreview-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-AVClubreview_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AVClubreview_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AVClubreview_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-AVClubreview_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-AVClubreview_4-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Rabin, Nathan (October 28, 2003). <a rel="nofollow" class="external text" href="http://www.avclub.com/articles/ludacris-chickennbeer,11735/">"Ludacris: Chicken-N-Beer"</a>. <i><a href="/wiki/The_A.V._Club" title="The A.V. Club">The A.V. Club</a></i>. <a href="/wiki/The_Onion" title="The Onion">The Onion</a><span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Ludacris%3A+Chicken-N-Beer&amp;rft.aufirst=Nathan&amp;rft.aulast=Rabin&amp;rft.au=Rabin%2C+Nathan&amp;rft.date=October+28%2C+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.avclub.com%2Farticles%2Fludacris-chickennbeer%2C11735%2F&amp;rft.jtitle=The+A.V.+Club&amp;rft.pub=The+Onion&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RCrev-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-RCrev_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RCrev_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-RCrev_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://robertchristgau.com/get_artist.php?name=ludacris">"Robert Christgau review"</a>. Robertchristgau.com<span class="reference-accessdate">. Retrieved 2011-08-05</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.btitle=Robert+Christgau+review&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Frobertchristgau.com%2Fget_artist.php%3Fname%3Dludacris&amp;rft.pub=Robertchristgau.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-USFW-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-USFW_6-0">^</a></b></span> <span class="reference-text"><span class="citation web">Martens, Todd (October 15, 2003). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/68646/ludacris-scores-first-no-1-album">"Ludacris Scores First No. 1 Album"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a><span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Ludacris+Scores+First+No.+1+Album&amp;rft.aufirst=Todd&amp;rft.aulast=Martens&amp;rft.au=Martens%2C+Todd&amp;rft.date=October+15%2C+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F68646%2Fludacris-scores-first-no-1-album&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-USSW-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-USSW_7-0">^</a></b></span> <span class="reference-text"><span class="citation web">Martens, Todd (October 22, 2003). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/68538/aiken-measures-up-at-no-1">"Aiken 'Measures' Up At No. 1"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Aiken+%27Measures%27+Up+At+No.+1&amp;rft.aufirst=Todd&amp;rft.aulast=Martens&amp;rft.au=Martens%2C+Todd&amp;rft.date=October+22%2C+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F68538%2Faiken-measures-up-at-no-1&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-USTensales-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-USTensales_8-0">^</a></b></span> <span class="reference-text"><span class="citation web">Martens, Todd (November 19, 2003). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/68216/keith-shocks-billboard-200-with-no-1-debut">"Keith 'Shocks' Billboard 200 With No. 1 Debut"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Keith+%27Shocks%27+Billboard+200+With+No.+1+Debut&amp;rft.aufirst=Todd&amp;rft.aulast=Martens&amp;rft.au=Martens%2C+Todd&amp;rft.date=November+19%2C+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F68216%2Fkeith-shocks-billboard-200-with-no-1-debut&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-US200-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-US200_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-US200_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/308504/ludacris/chart?f=305">"Ludacris Album &amp; Song Chart History: Billboard 200"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Ludacris+Album+%26+Song+Chart+History%3A+Billboard+200&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F308504%2Fludacris%2Fchart%3Ff%3D305&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-USR.26BAl-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-USR.26BAl_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-USR.26BAl_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/308504/ludacris/chart?f=333">"Ludacris Album &amp; Song Chart History: R&amp;B/Hip-Hop Albums"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved December 10, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Ludacris+Album+%26+Song+Chart+History%3A+R%26B%2FHip-Hop+Albums&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F308504%2Fludacris%2Fchart%3Ff%3D333&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-United_StatesLudacrisChicken_.26_BeeralbumCertRef-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-United_StatesLudacrisChicken_.26_BeeralbumCertRef_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-United_StatesLudacrisChicken_.26_BeeralbumCertRef_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?artist=%22Chicken+%26+Beer%22">"American album certifications – Ludacris – Chicken &amp; Beer"</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>. November 10, 2003<span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.btitle=American+album+certifications+%E2%80%93+Ludacris+%E2%80%93+Chicken+%26+Beer&amp;rft.date=November+10%2C+2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Fartist%3D%2522Chicken%2B%2526%2BBeer%2522&amp;rft.pub=Recording+Industry+Association+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <i>If necessary, click</i> Advanced<i>, then click</i> Format<i>, then select</i> Album<i>, then click</i> SEARCH</span></li>
+<li id="cite_note-AUSAl-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-AUSAl_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AUSAl_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://pandora.nla.gov.au/pan/23790/20031107-0000/Issue712.pdf">"The ARIA Report: Issue 712 (Week Commencing 13 October 2003)"</a>. <a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">Australian Recording Industry Association</a><span class="reference-accessdate">. Retrieved June 1, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.btitle=The+ARIA+Report%3A+Issue+712+%28Week+Commencing+13+October+2003%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fpandora.nla.gov.au%2Fpan%2F23790%2F20031107-0000%2FIssue712.pdf&amp;rft.pub=Australian+Recording+Industry+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CANAl-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-CANAl_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CANAl_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/308504/ludacris/chart?f=309">"Ludacris Album &amp; Song Chart History: Canadian Albums"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved December 10, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Ludacris+Album+%26+Song+Chart+History%3A+Canadian+Albums&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F308504%2Fludacris%2Fchart%3Ff%3D309&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CanadaLudacrisChicken-N-BeeralbumCertRef-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-CanadaLudacrisChicken-N-BeeralbumCertRef_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CanadaLudacrisChicken-N-BeeralbumCertRef_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.musiccanada.com/GPSearchResult.aspx?st=Chicken-N-Beer&amp;sa=Ludacris&amp;smt=0">"Canadian album certifications – Ludacris – Chicken-N-Beer"</a>. <a href="/wiki/Music_Canada" title="Music Canada">Music Canada</a>. January 8, 2004<span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.btitle=Canadian+album+certifications+%E2%80%93+Ludacris+%E2%80%93+Chicken-N-Beer&amp;rft.date=January+8%2C+2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.musiccanada.com%2FGPSearchResult.aspx%3Fst%3DChicken-N-Beer%26sa%3DLudacris%26smt%3D0&amp;rft.pub=Music+Canada&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-IREcharts-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-IREcharts_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IREcharts_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://irish-charts.com/showinterpret.asp?interpret=Ludacris">"Discography Ludacris"</a>. irish-charts.com. Hung Medien<span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Discography+Ludacris&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Firish-charts.com%2Fshowinterpret.asp%3Finterpret%3DLudacris&amp;rft.jtitle=%27%27irish-charts.com%27%27&amp;rft.pub=Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-UKAl-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-UKAl_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UKAl_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.officialcharts.com/artist/_/ludacris/">"Ludacris"</a> (select "Albums" tab). <a href="/wiki/Official_Charts_Company" title="Official Charts Company">Official Charts Company</a><span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.btitle=Ludacris&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.officialcharts.com%2Fartist%2F_%2Fludacris%2F&amp;rft.pub=Official+Charts+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-GERAl-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-GERAl_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GERAl_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.musicline.de/de/chartverfolgung_summary/artist/Ludacris/?type=longplay">"Chartverfolgung / Ludacris / Longplay"</a>. musicline.de (in German). <a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control Charts</a><span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Chartverfolgung+%2F+Ludacris+%2F+Longplay&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.musicline.de%2Fde%2Fchartverfolgung_summary%2Fartist%2FLudacris%2F%3Ftype%3Dlongplay&amp;rft.jtitle=%27%27musicline.de%27%27&amp;rft.pub=Media+Control+Charts&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation news">Gray, Christopher (October 31, 2003). <a rel="nofollow" class="external text" href="http://www.austinchronicle.com/music/2003-10-31/184123/">"Review: Ludacris"</a>. <i><a href="/wiki/The_Austin_Chronicle" title="The Austin Chronicle">The Austin Chronicle</a></i><span class="reference-accessdate">. Retrieved December 16, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Review%3A+Ludacris&amp;rft.aufirst=Christopher&amp;rft.au=Gray%2C+Christopher&amp;rft.aulast=Gray&amp;rft.date=October+31%2C+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.austinchronicle.com%2Fmusic%2F2003-10-31%2F184123%2F&amp;rft.jtitle=The+Austin+Chronicle&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation journal">"Review: Chicken-n-Beer". <i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i>: 142. December 2003.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Review%3A+Chicken-n-Beer&amp;rft.date=December+2003&amp;rft.genre=article&amp;rft.jtitle=Blender&amp;rft.pages=142&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Vrabel-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Vrabel_20-0">^</a></b></span> <span class="reference-text">Vrabel, Jeff. "<a rel="nofollow" class="external text" href="http://nl.newsbank.com/nl-search/we/Archives?p_product=CSTB&amp;p_theme=cstb&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0FEA7F2403456D89&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM">Review: <i>Chicken-n-Beer</i></a>". <i><a href="/wiki/Chicago_Sun-Times" title="Chicago Sun-Times">Chicago Sun-Times</a></i>: 9. October 12, 2003. (Transcription of original review at <a href="/wiki/Talk:Chicken-n-Beer#Chicago_Sun-Times.23review" title="Talk:Chicken-n-Beer">talk page</a>)</span></li>
+<li id="cite_note-EWreview-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-EWreview_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EWreview_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EWreview_21-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Drumming, Neil (October 24, 2003). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,519560,00.html">"Chicken-N-Beer Review"</a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i>. <a href="/wiki/Time_Inc." title="Time Inc.">Time</a><span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Chicken-N-Beer+Review&amp;rft.au=Drumming%2C+Neil&amp;rft.aufirst=Neil&amp;rft.aulast=Drumming&amp;rft.date=October+24%2C+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C519560%2C00.html&amp;rft.jtitle=Entertainment+Weekly&amp;rft.pub=Time&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://articles.latimes.com/2003/oct/12/entertainment/ca-rack12">"Los Angeles Times review"</a>. Articles.latimes.com. 1986-12-28<span class="reference-accessdate">. Retrieved 2011-08-05</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.btitle=Los+Angeles+Times+review&amp;rft.date=1986-12-28&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F2003%2Foct%2F12%2Fentertainment%2Fca-rack12&amp;rft.pub=Articles.latimes.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation journal">"Review: Chicken-n-Beer". <i><a href="/wiki/Q_(magazine)" title="Q (magazine)" class="mw-redirect">Q</a></i> (London): 132. December 2003.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Review%3A+Chicken-n-Beer&amp;rft.date=December+2003&amp;rft.genre=article&amp;rft.jtitle=Q&amp;rft.pages=132&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Toure-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Toure_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Toure_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Toure_24-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Toure (November 13, 2003). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20040929222347/http://www.rollingstone.com/reviews/album/_/id/294229/ludacris?pageid=rs.ArtistDiscography&amp;pageregion=triple1">"CD Review – Ludacris – Chicken &amp; Beer"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. <a href="/wiki/Jann_Wenner" title="Jann Wenner">Wenner Media</a>. Archived from <a rel="nofollow" class="external text" href="http://www.rollingstone.com/reviews/album/_/id/294229/ludacris?pageid=rs.ArtistDiscography&amp;pageregion=triple1">the original</a> on September 29, 2004<span class="reference-accessdate">. Retrieved May 27, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=CD+Review+%E2%80%93+Ludacris+%E2%80%93+Chicken+%26+Beer&amp;rft.aulast=Toure&amp;rft.au=Toure&amp;rft.date=November+13%2C+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Freviews%2Falbum%2F_%2Fid%2F294229%2Fludacris%3Fpageid%3Drs.ArtistDiscography%26pageregion%3Dtriple1&amp;rft.jtitle=Rolling+Stone&amp;rft.pub=Wenner+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Metacritic-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Metacritic_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Metacritic_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/chicken-beer">"Chicken &amp; Beer Reviews, Rating, Credits, and More"</a>. <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>. <a href="/wiki/CBS_Interactive" title="CBS Interactive">CBS Interactive</a><span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=Chicken+%26+Beer+Reviews%2C+Rating%2C+Credits%2C+and+More&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.metacritic.com%2Fmusic%2Fchicken-beer&amp;rft.jtitle=%27%27Metacritic%27%27&amp;rft.pub=CBS+Interactive&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/chicken-n-beer-r648129/credits">"<i>Chicken -N- Beer</i> &gt; Credits"</a>. Allmusic. Rovi Corporation<span class="reference-accessdate">. Retrieved December 10, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=%27%27Chicken+-N-+Beer%27%27+%3E+Credits&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fchicken-n-beer-r648129%2Fcredits&amp;rft.jtitle=%27%27Allmusic%27%27&amp;rft.pub=Rovi+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-US200Year-End-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-US200Year-End_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-US200Year-End_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.biz/bbbiz/charts/yearendcharts/2003/tlptitl.jsp">"2003 Year End Charts – Top Billboard 200 Albums"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=2003+Year+End+Charts+%E2%80%93+Top+Billboard+200+Albums&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.biz%2Fbbbiz%2Fcharts%2Fyearendcharts%2F2003%2Ftlptitl.jsp&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-USR.26BAlYear-End-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-USR.26BAlYear-End_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-USR.26BAlYear-End_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.biz/bbbiz/charts/yearendcharts/2003/blptitl.jsp">"2003 Year End Charts – Top R&amp;B/Hip-Hop Albums"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved May 26, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChicken-n-Beer&amp;rft.atitle=2003+Year+End+Charts+%E2%80%93+Top+R%26B%2FHip-Hop+Albums&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.biz%2Fbbbiz%2Fcharts%2Fyearendcharts%2F2003%2Fblptitl.jsp&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ludacris" title="Template:Ludacris"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ludacris" title="Template talk:Ludacris"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ludacris&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Ludacris" title="Ludacris">Ludacris</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/Ludacris_discography" title="Ludacris discography">Discography</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Ludacris" title="List of awards and nominations received by Ludacris">Awards and nominations</a></li>
+<li><a href="/wiki/Ludacris#Filmography" title="Ludacris">Filmography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Incognegro" title="Incognegro">Incognegro</a></i></li>
+<li><i><a href="/wiki/Back_for_the_First_Time" title="Back for the First Time">Back for the First Time</a></i></li>
+<li><i><a href="/wiki/Word_of_Mouf" title="Word of Mouf">Word of Mouf</a></i></li>
+<li><i><strong class="selflink">Chicken-n-Beer</strong></i></li>
+<li><i><a href="/wiki/The_Red_Light_District" title="The Red Light District">The Red Light District</a></i></li>
+<li><i><a href="/wiki/Release_Therapy" title="Release Therapy">Release Therapy</a></i></li>
+<li><i><a href="/wiki/Theater_of_the_Mind" title="Theater of the Mind">Theater of the Mind</a></i></li>
+<li><i><a href="/wiki/Battle_of_the_Sexes_(album)" title="Battle of the Sexes (album)">Battle of the Sexes</a></i></li>
+<li><i><a href="/wiki/Ludaversal" title="Ludaversal" class="mw-redirect">Ludaversal</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Golden_Grain" title="Golden Grain">Golden Grain</a></i></li>
+<li><i><a href="/wiki/Disturbing_tha_Peace_(album)" title="Disturbing tha Peace (album)">Disturbing tha Peace</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Mixtapes</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/DJ_Drama_Presents:_The_Preview" title="DJ Drama Presents: The Preview">DJ Drama Presents: The Preview</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Films</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Wash_(film)" title="The Wash (film)">The Wash</a></i></li>
+<li><i><a href="/wiki/2_Fast_2_Furious" title="2 Fast 2 Furious">2 Fast 2 Furious</a></i></li>
+<li><i><a href="/wiki/Lil%27_Pimp" title="Lil' Pimp">Lil' Pimp</a></i></li>
+<li><i><a href="/wiki/Paper_Chasers" title="Paper Chasers">Paper Chasers</a></i></li>
+<li><i><a href="/wiki/Crash_(2005_film)" title="Crash (2005 film)" class="mw-redirect">Crash</a></i></li>
+<li><i><a href="/wiki/Hustle_%26_Flow" title="Hustle &amp; Flow">Hustle &amp; Flow</a></i></li>
+<li><i><a href="/wiki/The_Heart_of_the_Game" title="The Heart of the Game">The Heart of the Game</a></i></li>
+<li><i><a href="/wiki/American_Hustle_(2007_film)" title="American Hustle (2007 film)">American Hustle</a></i></li>
+<li><i><a href="/wiki/Fred_Claus" title="Fred Claus">Fred Claus</a></i></li>
+<li><i><a href="/wiki/RocknRolla" title="RocknRolla">RocknRolla</a></i></li>
+<li><i><a href="/wiki/Max_Payne_(film)" title="Max Payne (film)">Max Payne</a></i></li>
+<li><i><a href="/wiki/Ball_Don%27t_Lie" title="Ball Don't Lie">Ball Don't Lie</a></i></li>
+<li><i><a href="/wiki/Gamer_(film)" title="Gamer (film)">Gamer</a></i></li>
+<li><i><a href="/wiki/Fast_Five" title="Fast Five">Fast Five</a></i></li>
+<li><i><a href="/wiki/No_Strings_Attached_(film)" title="No Strings Attached (film)">No Strings Attached</a></i></li>
+<li><i><a href="/wiki/New_Year%27s_Eve_(film)" title="New Year's Eve (film)">New Year's Eve</a></i></li>
+<li><i><a href="/wiki/Fast_%26_Furious_6" title="Fast &amp; Furious 6">Fast &amp; Furious 6</a></i></li>
+<li><i><a href="/wiki/Fast_%26_Furious_7" title="Fast &amp; Furious 7">Fast &amp; Furious 7</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Video games</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Def_Jam_Vendetta" title="Def Jam Vendetta">Def Jam: Vendetta</a></i></li>
+<li><i><a href="/wiki/The_Chronicles_of_Riddick:_Escape_from_Butcher_Bay" title="The Chronicles of Riddick: Escape from Butcher Bay">The Chronicles of Riddick: Escape from Butcher Bay</a></i></li>
+<li><i><a href="/wiki/Def_Jam:_Fight_for_NY" title="Def Jam: Fight for NY">Def Jam: Fight for NY</a></i></li>
+<li><i><a href="/wiki/NBA_Ballers:_Phenom" title="NBA Ballers: Phenom">NBA Ballers Phenom</a></i></li>
+<li><i><a href="/wiki/Def_Jam:_Icon" title="Def Jam: Icon">Def Jam: Icon</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Disturbing_tha_Peace" title="Disturbing tha Peace">Disturbing tha Peace</a></li>
+<li><a href="/wiki/WeMix.com" title="WeMix.com" class="mw-redirect">WeMix.com</a></li>
+<li><a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam Recordings</a></li>
+<li><a href="/wiki/Def_Jam_South" title="Def Jam South">Def Jam South</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1085
+CPU time usage: 3.140 seconds
+Real time usage: 3.292 seconds
+Preprocessor visited node count: 16451/1000000
+Preprocessor generated node count: 74428/1500000
+Post‐expand include size: 132968/2048000 bytes
+Template argument size: 18485/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 2/500
+Lua time usage: 0.180/10.000 seconds
+Lua memory usage: 3.21 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:33643086-0!*!0!!en!4!* and timestamp 20140531005254 and revision id 607225100
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Chicken-n-Beer&amp;oldid=607225100">http://en.wikipedia.org/w/index.php?title=Chicken-n-Beer&amp;oldid=607225100</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ludacris_albums" title="Category:Ludacris albums">Ludacris albums</a></li><li><a href="/wiki/Category:2003_albums" title="Category:2003 albums">2003 albums</a></li><li><a href="/wiki/Category:Def_Jam_Recordings_albums" title="Category:Def Jam Recordings albums">Def Jam Recordings albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Kanye_West" title="Category:Albums produced by Kanye West">Albums produced by Kanye West</a></li><li><a href="/wiki/Category:Albums_produced_by_Erick_Sermon" title="Category:Albums produced by Erick Sermon">Albums produced by Erick Sermon</a></li><li><a href="/wiki/Category:Albums_produced_by_Ron_Browz" title="Category:Albums produced by Ron Browz">Albums produced by Ron Browz</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li><li><a href="/wiki/Category:Disturbing_tha_Peace_albums" title="Category:Disturbing tha Peace albums">Disturbing tha Peace albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_United_States" title="Category:Certification Table Entry usages for United States">Certification Table Entry usages for United States</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Canada" title="Category:Certification Table Entry usages for Canada">Certification Table Entry usages for Canada</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Chicken-n-Beer&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Chicken-n-Beer" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Chicken-n-Beer"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Chicken-n-Beer"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Chicken-n-Beer" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Chicken-n-Beer&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Chicken-n-Beer" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Chicken-n-Beer" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Chicken-n-Beer&amp;oldid=607225100" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Chicken-n-Beer&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q221496" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Chicken-n-Beer&amp;id=607225100" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Chicken-n-Beer">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Chicken-n-Beer&amp;oldid=607225100&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Chicken-n-Beer&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Chicken_%26_Beer" title="Chicken &amp; Beer – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Chicken-n-Beer" title="Chicken-n-Beer – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Chicken-n-Beer" title="Chicken-n-Beer – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Chicken-n-Beer" title="Chicken-n-Beer – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/Chicken-n-Beer" title="Chicken-n-Beer – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Chicken-n-Beer" title="Chicken-n-Beer – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Chicken-n-Beer" title="Chicken-n-Beer – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Chicken-n-Beer" title="Chicken-n-Beer – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Chicken-n-Beer" title="Chicken-n-Beer – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Chicken-n-Beer" title="Chicken-n-Beer – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q221496#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 May 2014 at 19:30.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Chicken-n-Beer" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":202,"wgHostname":"mw1210"});
+}</script>
+	</body>
+</html>
+	

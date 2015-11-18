@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Harlem World - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Harlem_World" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Harlem_World&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Harlem_World&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Harlem_World" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init%2Cnolanglinks&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Harlem_World","wgTitle":"Harlem World","wgCurRevisionId":607428275,"wgRevisionId":607428275,"wgArticleId":312672,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","1997 albums","Albums produced by Sean Combs","Albums produced by Dame Grease","Albums produced by Jermaine Dupri","Albums produced by The Neptunes","Bad Boy Records albums","Mase albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Harlem_World","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5658623"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Harlem_World skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Harlem World</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Harlem World</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:HarlemWorld.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/dd/HarlemWorld.jpg/220px-HarlemWorld.jpg" width="220" height="215" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/dd/HarlemWorld.jpg/330px-HarlemWorld.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/dd/HarlemWorld.jpg/440px-HarlemWorld.jpg 2x" data-file-width="494" data-file-height="483" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Mase" title="Mase">Mase</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">October 28, 1997 <small>(<a href="/wiki/United_States" title="United States">US</a>)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1996-1997</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a>, <a href="/wiki/Pop_rap" title="Pop rap" class="mw-redirect">Pop rap</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>66:04</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy Records</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Sean_%22Puffy%22_Combs" title="Sean &quot;Puffy&quot; Combs" class="mw-redirect">Sean "Puffy" Combs</a> <small>(<a href="/wiki/Executive_producer#Music" title="Executive producer">Exec.</a>)</small>, <a href="/wiki/The_Hitmen_(production_team)" title="The Hitmen (production team)" class="mw-redirect">The Hitmen</a> <small>(Including <a href="/wiki/Deric_Angelettie" title="Deric Angelettie" class="mw-redirect">Deric "D-Dot" Angelettie</a>(Exec.), <a href="/wiki/Stevie_J" title="Stevie J">Steven "Stevie J" Jordan</a> &amp; Nashiem Myrick)</small>, <a href="/wiki/Jermaine_Dupri" title="Jermaine Dupri">Jermaine Dupri</a>, <a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a>, Dame Grease, Mo-Suave-A</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Mase" title="Mase">Mase</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"></td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Harlem World</b></i><br />
+(1997)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Double_Up_(Mase_album)" title="Double Up (Mase album)">Double Up</a></i><br />
+(1999)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Harlem World</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Feel_So_Good_(song)" title="Feel So Good (song)">Feel So Good</a>"</span><br />
+Released: October 14, 1997</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/What_You_Want_(Mase_song)" title="What You Want (Mase song)">What You Want</a>"</span><br />
+Released: January 13, 1998</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Lookin%27_at_Me" title="Lookin' at Me">Lookin' at Me</a>"</span><br />
+Released: July 6, 1998</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>Harlem World</b></i> is the critically acclaimed multi-platinum debut album by <a href="/wiki/Harlem" title="Harlem">Harlem</a> rapper <a href="/wiki/Mase" title="Mase">Mase</a>, released October 28, 1997. The album was nominated at the <a href="/wiki/41st_Grammy_Awards" title="41st Grammy Awards" class="mw-redirect">41st Grammy Awards</a> for <a href="/wiki/Grammy_Award_for_Best_Rap_Album" title="Grammy Award for Best Rap Album">Grammy Award for Best Rap Album</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Reception"><span class="tocnumber">2</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Track_listing"><span class="tocnumber">3</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Samples"><span class="tocnumber">4</span> <span class="toctext">Samples</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Chart_positions"><span class="tocnumber">5</span> <span class="toctext">Chart positions</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Singles"><span class="tocnumber">6</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Personnel"><span class="tocnumber">7</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harlem_World&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Seen as <a href="/wiki/Sean_Combs" title="Sean Combs">Puff Daddy</a>'s new protégé since the passing of <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a>, Mase rose to fame after being a member of <a href="/wiki/Children_of_the_Corn_(group)" title="Children of the Corn (group)">Children of the Corn</a> with fellow Harlem rappers <a href="/wiki/Big_L_(rapper)" title="Big L (rapper)" class="mw-redirect">Big L</a> and <a href="/wiki/Cam%27ron" title="Cam'ron">Cam'ron</a>. After the death of Bloodshed and the subsequent disbanding of the group, Mase was signed to <a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy</a>, catching the public eye when appearing on the track "Mo Money, Mo Problems" from Biggie's 1997 album <i><a href="/wiki/Life_After_Death" title="Life After Death">Life After Death</a></i>. Puff Daddy began to promote Mase as the new premier act of Bad Boy and within a year had released "Harlem World", a successful album spawning hits such as "Feel So Good" (U.S. #5), "What You Want" (U.S. #6), and "Lookin' at Me" (U.S. #8).</p>
+<p>Mase released his first solo LP, <i>Harlem World</i>, which debuted at #1 on the Billboard Pop and R&amp;B LP charts selling over 270,000 copies in the U.S. its first week of release; it has since gone on to sell 3.3 million copies in the United States. Joining Mase on his solo LP was a long list of rap elite including <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a>, <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, <a href="/wiki/The_Lox" title="The Lox">The Lox</a>, <a href="/wiki/Lil%27_Kim" title="Lil' Kim">Lil' Kim</a>, <a href="/wiki/Total_(band)" title="Total (band)" class="mw-redirect">Total</a>, and his close friend <a href="/wiki/DMX_(rapper)" title="DMX (rapper)">DMX</a>. The album featured production by Combs, <a href="/wiki/Jermaine_Dupri" title="Jermaine Dupri">Jermaine Dupri</a>, <a href="/wiki/Deric_Angelettie" title="Deric Angelettie" class="mw-redirect">Deric "D-Dot" Angelettie</a>, <a href="/wiki/Stevie_J" title="Stevie J">Steven "Stevie J" Jordan</a> and (then unknowns) <a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a>. Mase told MTV about his first solo effort: "Well, basically what I'm trying to establish is a strong identity and foundation for Mase so a lot of people could know that Mase is his own person and Mase can do other things besides rap and music and things in that nature."</p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harlem_World&amp;action=edit&amp;section=2" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r317759">link</a></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">(A-) <a rel="nofollow" class="external text" href="http://robertchristgau.com/get_artist.php?name=mase">link</a></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">(B+) <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,290397,00.html">link</a></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/4 stars"><img alt="3.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <a rel="nofollow" class="external text" href="http://articles.latimes.com/1997/nov/09/entertainment/ca-51896">link</a></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Muzik" title="Muzik">Muzik</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <a rel="nofollow" class="external text" href="http://www.tower.com/harlem-world-mase-cd/wapi/105872819">link</a></td>
+</tr>
+<tr>
+<td scope="row"><i>Rap Pages</i></td>
+<td style="vertical-align:middle">(favorable) <a rel="nofollow" class="external text" href="http://www.tower.com/harlem-world-mase-cd/wapi/105872819">link</a></td>
+</tr>
+<tr>
+<td scope="row">RapReviews.com</td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <a rel="nofollow" class="external text" href="http://www.rapreviews.com/archive/BTTL_maseharlem.html">link</a></td>
+</tr>
+</table>
+<p><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> said of the album: "...creatively refreshing, well-crafted lyrics... rap's newest bad boy more than holds his own on his solo debut... his distinctive marble-mouthed drawl... creates a regular-guy persona all too rare in hip-hop."Muzik (4/9, p.84) - 4 stars (out of 5) - "...Harlem on the rise? Most definitely." Rap Pages (1/98, p.105) - Solid Material - "...Creatively refreshing, well-crafted lyrics and a high-energy track over a hyped beat easily make this..."</p>
+<p>In 2008, the single "Feel So Good" was ranked number 67 on VH1's 100 Greatest Songs of Hip Hop.</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harlem_World&amp;action=edit&amp;section=3" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th align="center">#</th>
+<th align="center">Name</th>
+<th align="center">Producer(s)</th>
+<th align="center">Featured Guest(s)</th>
+<th align="center">Time</th>
+</tr>
+<tr>
+<td>1</td>
+<td>"Puff's Intro"</td>
+<td><a href="/wiki/Sean_Combs" title="Sean Combs">Sean "Puffy" Combs</a> for <a href="/wiki/The_Hitmen_(production_team)" title="The Hitmen (production team)" class="mw-redirect">The Hitmen</a></td>
+<td>Puff Daddy</td>
+<td>1:40</td>
+</tr>
+<tr>
+<td>2</td>
+<td>"Do You Wanna Get $?"</td>
+<td><a href="/wiki/Deric_Angelettie" title="Deric Angelettie" class="mw-redirect">Deric "D-Dot" Angelettie</a> for The Hitmen</td>
+<td><a href="/wiki/Kelis" title="Kelis">Kelis</a> (uncredited), &amp; <a href="/wiki/Puff_Daddy" title="Puff Daddy" class="mw-redirect">Puff Daddy</a></td>
+<td>3:49</td>
+</tr>
+<tr>
+<td>3</td>
+<td>"Take What's Yours"</td>
+<td>Nashiem Myrick for The Hitmen</td>
+<td><a href="/wiki/DMX_(rapper)" title="DMX (rapper)">DMX</a></td>
+<td>3:45</td>
+</tr>
+<tr>
+<td>4</td>
+<td>"Mad Rapper (Interlude)"</td>
+<td></td>
+<td><a href="/wiki/Deric_Angelettie" title="Deric Angelettie" class="mw-redirect">The Madd Rapper</a></td>
+<td>1:13</td>
+</tr>
+<tr>
+<td>5</td>
+<td>"Will They Die 4 U?"</td>
+<td>Sean "Puffy" Combs for The Hitmen</td>
+<td><a href="/wiki/Sean_Combs" title="Sean Combs">Puff Daddy</a> &amp; <a href="/wiki/Lil%27_Kim" title="Lil' Kim">Lil' Kim</a></td>
+<td>4:04</td>
+</tr>
+<tr>
+<td>6</td>
+<td>"<a href="/wiki/Lookin%27_at_Me" title="Lookin' at Me">Lookin' at Me</a>"</td>
+<td><a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a></td>
+<td><a href="/wiki/Sean_Combs" title="Sean Combs">Puff Daddy</a></td>
+<td>4:15</td>
+</tr>
+<tr>
+<td>7</td>
+<td>"White Girl (Interlude)"</td>
+<td></td>
+<td></td>
+<td>0:52</td>
+</tr>
+<tr>
+<td>8</td>
+<td>"Love U So"</td>
+<td><a href="/wiki/Stevie_J" title="Stevie J">Steven "Stevie J" Jordan</a> for The Hitmen</td>
+<td><a href="/wiki/Billy_Lawrence" title="Billy Lawrence">Billy Lawrence</a></td>
+<td>3:12</td>
+</tr>
+<tr>
+<td>9</td>
+<td>"The Player Way"</td>
+<td>Mo-Suave-A</td>
+<td><a href="/wiki/8Ball_%26_MJG" title="8Ball &amp; MJG">8Ball &amp; MJG</a></td>
+<td>4:13</td>
+</tr>
+<tr>
+<td>10</td>
+<td>"Hater (Interlude)"</td>
+<td></td>
+<td></td>
+<td>1:00</td>
+</tr>
+<tr>
+<td>11</td>
+<td>"Niggaz Wanna Act"</td>
+<td><a href="/wiki/Dame_Grease" title="Dame Grease">Dame Grease</a></td>
+<td><a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a></td>
+<td>4:09</td>
+</tr>
+<tr>
+<td>12</td>
+<td>"<a href="/wiki/Feel_So_Good_(song)" title="Feel So Good (song)">Feel So Good</a>"</td>
+<td>Sean "Puffy" Combs for The Hitmen</td>
+<td><a href="/wiki/Kelly_Price" title="Kelly Price">Kelly Price</a></td>
+<td>3:24</td>
+</tr>
+<tr>
+<td>13</td>
+<td>"<a href="/wiki/What_You_Want_(Mase_song)" title="What You Want (Mase song)">What You Want</a>"</td>
+<td>Nashiem Myrick for The Hitmen</td>
+<td><a href="/wiki/Total_(band)" title="Total (band)" class="mw-redirect">Total</a></td>
+<td>4:02</td>
+</tr>
+<tr>
+<td>14</td>
+<td>"Phone Conversation (Interlude)"</td>
+<td></td>
+<td></td>
+<td>1:49</td>
+</tr>
+<tr>
+<td>15</td>
+<td>"Cheat on You"</td>
+<td><a href="/wiki/Jermaine_Dupri" title="Jermaine Dupri">Jermaine Dupri</a></td>
+<td><a href="/wiki/Lil%27_Cease" title="Lil' Cease">Lil' Cease</a>, <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> &amp; <a href="/wiki/112_(band)" title="112 (band)" class="mw-redirect">112</a></td>
+<td>3:15</td>
+</tr>
+<tr>
+<td>16</td>
+<td>"<a href="/wiki/24_Hrs._to_Live" title="24 Hrs. to Live">24 Hrs. to Live</a>"</td>
+<td>Deric "D-Dot" Angelettie for The Hitmen, Dame Grease</td>
+<td><a href="/wiki/Black_Rob" title="Black Rob">Black Rob</a>, <a href="/wiki/DMX_(rapper)" title="DMX (rapper)">DMX</a> &amp; <a href="/wiki/The_LOX" title="The LOX" class="mw-redirect">The LOX</a></td>
+<td>4:16</td>
+</tr>
+<tr>
+<td>17</td>
+<td>"I Need to Be"</td>
+<td>Deric "D-Dot" Angelettie for The Hitmen</td>
+<td><a href="/wiki/Monifah" title="Monifah">Monifah</a></td>
+<td>5:12</td>
+</tr>
+<tr>
+<td>18</td>
+<td>"Watch Your Back (Interlude)"</td>
+<td></td>
+<td></td>
+<td>0:56</td>
+</tr>
+<tr>
+<td>19</td>
+<td>"Wanna Hurt Mase?"</td>
+<td>Sean "Puffy" Combs for The Hitmen</td>
+<td></td>
+<td>4:23</td>
+</tr>
+<tr>
+<td>20</td>
+<td>"Jealous Guy"</td>
+<td>Sean "Puffy" Combs for The Hitmen</td>
+<td><a href="/wiki/112_(band)" title="112 (band)" class="mw-redirect">112</a></td>
+<td>6:25</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Samples">Samples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harlem_World&amp;action=edit&amp;section=4" title="Edit section: Samples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Do You Wanna Get $" By <a href="/wiki/Peter_Brown_(singer)" title="Peter Brown (singer)">Peter Brown</a> "Do You Wanna Get Funky With Me"</p>
+<p>"Feel So Good" By <a href="/wiki/Kool_%26_The_Gang" title="Kool &amp; The Gang" class="mw-redirect">Kool &amp; The Gang</a> "Hollywood Swingin" and <i>Bad Boy</i> by <a href="/wiki/Miami_Sound_Machine" title="Miami Sound Machine" class="mw-redirect">Miami Sound Machine</a></p>
+<p>"Love You So" by <a href="/wiki/Teena_Marie" title="Teena Marie">Teena Marie</a> "Square Biz" and "Ooh Boy" by <a href="/wiki/Rose_Royce" title="Rose Royce">Rose Royce</a></p>
+<p>"Jealous Guy" sampled "Jealous Girl" by <a href="/wiki/Another_Bad_Creation" title="Another Bad Creation">Another Bad Creation</a></p>
+<p>"Will They Die 4 U?" sampled "Everything Good to You (Ain't Always Good for You)" by <a href="/wiki/B.T._Express" title="B.T. Express" class="mw-redirect">B.T. Express</a></p>
+<p>"Puff's Intro" sampled "Joy" by <a href="/wiki/Isaac_Hayes" title="Isaac Hayes">Isaac Hayes</a></p>
+<p>"Wanna Hurt Mase?" sampled "Do You Really Want to Hurt Me" by <a href="/wiki/Culture_Club" title="Culture Club">Culture Club</a></p>
+<p>"I Need to Be" sampled "Tomorrow" by <a href="/wiki/The_Brothers_Johnson" title="The Brothers Johnson">The Brothers Johnson</a></p>
+<p>"24 Hrs. To Live" sampled "Moses Theme" by <a href="/w/index.php?title=Frankie_Bleu&amp;action=edit&amp;redlink=1" class="new" title="Frankie Bleu (page does not exist)">Frankie Bleu</a></p>
+<p>"What You Want" sampled "Right on for the Darkness" by <a href="/wiki/Curtis_Mayfield" title="Curtis Mayfield">Curtis Mayfield</a></p>
+<p>"Cheat on You" sampled "Don't Stop 'Til You Get Enough" by <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a></p>
+<p>"Lookin' at Me" sampled "Illegal Search" by <a href="/wiki/LL_Cool_J" title="LL Cool J">LL Cool J</a></p>
+<h2><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harlem_World&amp;action=edit&amp;section=5" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Chart</th>
+<th>Position</th>
+</tr>
+<tr>
+<td>U.S. <i><a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a></i></td>
+<td>1</td>
+</tr>
+<tr>
+<td>U.S. <i><a href="/wiki/Top_Rap_Albums" title="Top Rap Albums" class="mw-redirect">Top Rap Albums</a></i></td>
+<td>1</td>
+</tr>
+<tr>
+<td><i>Canadian Album chart</i></td>
+<td>55</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harlem_World&amp;action=edit&amp;section=6" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Single Information</th>
+</tr>
+<tr>
+<td align="left">"Feel So Good"
+<ul>
+<li>Released: October 14, 1997</li>
+<li>Billboard Hot 100: #5</li>
+<li>Hot R&amp;B/Hip-Hop Singles &amp; Tracks: #5</li>
+<li>Hot Rap Singles: #1</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left">"What You Want"
+<ul>
+<li>Released: January 13, 1998</li>
+<li>Billboard Hot 100: #6</li>
+<li>Hot R&amp;B/Hip-Hop Singles &amp; Tracks: #3</li>
+<li>Hot Rap Singles: #3</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left">"Lookin' at Me"
+<ul>
+<li>Released: July 6, 1998</li>
+<li>Billboard Hot 100: #8</li>
+<li>Hot R&amp;B/Hip-Hop Singles &amp; Tracks: #8</li>
+<li>Hot Rap Singles: #1</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harlem_World&amp;action=edit&amp;section=7" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Barry White - Grooming</li>
+<li>Eightball &amp; MJG - Performer</li>
+<li>Billy Lawrence - Performer</li>
+<li>Busta Rhymes - Performer</li>
+<li>Sean "Diddy" Combs - Producer, Mixing, Performer, Executive Producer</li>
+<li>DMX - Performer</li>
+<li>Jermaine Dupri - Producer, Mixing</li>
+<li>Kelis - Performer</li>
+<li>Ben Garrison - Engineer</li>
+<li>Tony Maserati - Mixing</li>
+<li>Michael Patterson - Engineer, Mixing</li>
+<li>Herb Powers - Mastering</li>
+<li>Phil Tan - Engineer, Mixing</li>
+<li>Doug Wilson - Engineer</li>
+<li>Total - Performer</li>
+<li>Nasheim Myrick - Producer</li>
+<li>Monifah - Performer</li>
+<li>112 - Performer</li>
+<li>Jay-Z - Performer</li>
+<li>Lil' Kim - Performer</li>
+<li>Deric Angelettie - Producer, Associate Executive Producer</li>
+<li>MJG - Performer</li>
+<li><a href="/wiki/Prince_Charles_Alexander" title="Prince Charles Alexander">Prince Charles Alexander</a> - Mixing</li>
+<li>Carlos "6 July" Broady - Piano, Producer</li>
+<li>Lisa Peardon - Photography</li>
+<li>Kelly Price - Vocals</li>
+<li>Lane Craven - Mixing</li>
+<li>Groovy Lew - Stylist</li>
+<li>Marcus Logan - Marketing</li>
+<li>Mase - Rap</li>
+<li>LOX - Performer</li>
+<li>Pharrell Williams - Producer</li>
+<li>Stephen Dent - Engineer</li>
+<li>Jimmie Wilson - Engineer</li>
+<li>Ron "Amen-Ra" Lawrence - Producer</li>
+<li>J-Dub - Programming</li>
+<li>Chad Hugo - Producer</li>
+<li>Dame Grease - Producer</li>
+<li>DJ Iroc - Scratching</li>
+<li>Richard "Younglord" Frierson - Producer</li>
+<li>Lil' Cease - Performer</li>
+<li>Black Rob - Performer</li>
+<li>Cudda Love- Manager</li>
+<li>Kelly Mack- Road Manager</li>
+<li>Supa Sam- Road DJ</li>
+</ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/The_Album_(The_Firm_album)" title="The Album (The Firm album)">The Album</a></i> by <a href="/wiki/The_Firm_(hip_hop_group)" title="The Firm (hip hop group)">The Firm</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_1997_(USA)" title="Number-one albums of 1997 (USA)" class="mw-redirect">number-one album</a></b><br />
+November 15–28, 1997</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Higher_Ground_(Barbra_Streisand_album)" title="Higher Ground (Barbra Streisand album)">Higher Ground</a></i> by <a href="/wiki/Barbra_Streisand" title="Barbra Streisand">Barbra Streisand</a></span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harlem_World&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_albums_of_1997_(U.S.)" title="List of number-one albums of 1997 (U.S.)" class="mw-redirect">List of number-one albums of 1997 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1997_(U.S.)" title="List of number-one R&amp;B albums of 1997 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1997 (U.S.)</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Mase" title="Template:Mase"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Mase" title="Template talk:Mase"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mase&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Mase" title="Mase">Mase</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><strong class="selflink">Harlem World</strong></i></li>
+<li><i><a href="/wiki/Double_Up_(Mase_album)" title="Double Up (Mase album)">Double Up</a></i></li>
+<li><i><a href="/wiki/Welcome_Back_(Mase_album)" title="Welcome Back (Mase album)">Welcome Back</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Feel_So_Good_(song)" title="Feel So Good (song)">Feel So Good</a>"</li>
+<li>"<a href="/wiki/What_You_Want_(Mase_song)" title="What You Want (Mase song)">What You Want</a>"</li>
+<li>"<a href="/wiki/Lookin%27_at_Me" title="Lookin' at Me">Lookin' at Me</a>"</li>
+<li>"<a href="/wiki/Get_Ready_(Mase_song)" title="Get Ready (Mase song)">Get Ready</a>"</li>
+<li>"<a href="/wiki/Welcome_Back_(Mase_song)" title="Welcome Back (Mase song)">Welcome Back</a>"</li>
+<li>"<a href="/wiki/Breathe,_Stretch,_Shake" title="Breathe, Stretch, Shake">Breathe, Stretch, Shake</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Only_You_(112_song)" title="Only You (112 song)">Only You</a>"</li>
+<li>"<a href="/wiki/Can%27t_Nobody_Hold_Me_Down" title="Can't Nobody Hold Me Down">Can't Nobody Hold Me Down</a>"</li>
+<li>"<a href="/wiki/Mo_Money_Mo_Problems" title="Mo Money Mo Problems">Mo Money Mo Problems</a>"</li>
+<li>"<a href="/wiki/Been_Around_the_World" title="Been Around the World">Been Around the World</a>"</li>
+<li>"<a href="/wiki/Top_of_the_World_(Brandy_Norwood_song)" title="Top of the World (Brandy Norwood song)">Top of the World</a>"</li>
+<li>"<a href="/wiki/Horse_%26_Carriage" title="Horse &amp; Carriage">Horse &amp; Carriage</a>"</li>
+<li>"<a href="/wiki/Take_Me_There_(Blackstreet_song)" title="Take Me There (Blackstreet song)" class="mw-redirect">Take Me There</a>"</li>
+<li>"<a href="/wiki/I_Really_Like_It" title="I Really Like It">I Really Like It</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other songs</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/24_Hrs._to_Live" title="24 Hrs. to Live">24 Hrs. to Live</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Mase_discography" title="Mase discography">Discography</a></li>
+<li><a href="/wiki/Harlem_World_(group)" title="Harlem World (group)">Harlem World</a></li>
+<li><i><a href="/wiki/The_Movement_(Harlem_World_album)" title="The Movement (Harlem World album)">The Movement</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1040
+CPU time usage: 0.744 seconds
+Real time usage: 0.818 seconds
+Preprocessor visited node count: 1715/1000000
+Preprocessor generated node count: 9501/1500000
+Post‐expand include size: 34053/2048000 bytes
+Template argument size: 5283/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.063/10.000 seconds
+Lua memory usage: 1.31 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:312672-0!*!0!!en!4!* and timestamp 20140530140338 and revision id 607428275
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Harlem_World&amp;oldid=607428275">http://en.wikipedia.org/w/index.php?title=Harlem_World&amp;oldid=607428275</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1997_albums" title="Category:1997 albums">1997 albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Sean_Combs" title="Category:Albums produced by Sean Combs">Albums produced by Sean Combs</a></li><li><a href="/wiki/Category:Albums_produced_by_Dame_Grease" title="Category:Albums produced by Dame Grease">Albums produced by Dame Grease</a></li><li><a href="/wiki/Category:Albums_produced_by_Jermaine_Dupri" title="Category:Albums produced by Jermaine Dupri">Albums produced by Jermaine Dupri</a></li><li><a href="/wiki/Category:Albums_produced_by_The_Neptunes" title="Category:Albums produced by The Neptunes">Albums produced by The Neptunes</a></li><li><a href="/wiki/Category:Bad_Boy_Records_albums" title="Category:Bad Boy Records albums">Bad Boy Records albums</a></li><li><a href="/wiki/Category:Mase_albums" title="Category:Mase albums">Mase albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Harlem+World&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Harlem+World" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Harlem_World"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Harlem_World"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Harlem_World" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Harlem_World&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Harlem_World&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Harlem_World" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Harlem_World" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Harlem_World&amp;oldid=607428275" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Harlem_World&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q5658623" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Harlem_World&amp;id=607428275" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Harlem+World">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Harlem+World&amp;oldid=607428275&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Harlem_World&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q5658623#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 May 2014 at 03:28.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Harlem_World" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":199,"wgHostname":"mw1077"});
+}</script>
+	</body>
+</html>
+	

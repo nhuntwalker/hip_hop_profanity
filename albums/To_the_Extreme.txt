@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>To the Extreme - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/To_the_Extreme" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=To_the_Extreme&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=To_the_Extreme&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/To_the_Extreme" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"To_the_Extreme","wgTitle":"To the Extreme","wgCurRevisionId":608709775,"wgRevisionId":608709775,"wgArticleId":291702,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","1990 debut albums","Vanilla Ice albums","SBK Records albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"To_the_Extreme","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4164255"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-To_the_Extreme skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>To the Extreme</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">To the Extreme</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Vanilla_Ice-To_the_Extreme_(album_cover).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/2/24/Vanilla_Ice-To_the_Extreme_%28album_cover%29.JPG/220px-Vanilla_Ice-To_the_Extreme_%28album_cover%29.JPG" width="220" height="219" srcset="//upload.wikimedia.org/wikipedia/en/2/24/Vanilla_Ice-To_the_Extreme_%28album_cover%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/2/24/Vanilla_Ice-To_the_Extreme_%28album_cover%29.JPG 2x" data-file-width="264" data-file-height="263" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Vanilla_Ice" title="Vanilla Ice">Vanilla Ice</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">August 28, 1990</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1989—1990</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Pop-rap" title="Pop-rap">Pop rap</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>57:22</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/SBK_Records" title="SBK Records">SBK</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td>Vanilla Ice, Kim Sharp, Khayree, Darryl Williams</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Vanilla_Ice" title="Vanilla Ice">Vanilla Ice</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"></td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>To the Extreme</b></i><br />
+(1990)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Mind_Blowin%27" title="Mind Blowin'">Mind Blowin'</a></i><br />
+(1994)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>To the Extreme</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Play_That_Funky_Music#Vanilla_Ice_version" title="Play That Funky Music">Play That Funky Music</a>"</span><br />
+Released: April 25, 1990</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Ice_Ice_Baby" title="Ice Ice Baby">Ice Ice Baby</a>"</span><br />
+Released: July 2, 1990</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/I_Love_You_(Vanilla_Ice_song)" title="I Love You (Vanilla Ice song)">I Love You</a>"</span><br />
+Released: 1990</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>To the Extreme</b></i> is the major label debut <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> of American rapper <a href="/wiki/Vanilla_Ice" title="Vanilla Ice">Robert "Vanilla Ice" Van Winkle</a>. Released in 1990, it is Van Winkle's best selling album. The album was initially released in 1989 by <a href="/wiki/Independent_music" title="Independent music">independent</a> <a href="/wiki/Record_label" title="Record label">record label</a> <a href="/wiki/Ichiban_Records" title="Ichiban Records">Ichiban Records</a> under the title <i>Hooked</i>. Van Winkle signed to <a href="/wiki/SBK_Records" title="SBK Records">SBK Records</a>, who reissued the album under its current title. The album contains Van Winkle's most successful singles, "<a href="/wiki/Ice_Ice_Baby" title="Ice Ice Baby">Ice Ice Baby</a>" and "<a href="/wiki/Play_That_Funky_Music" title="Play That Funky Music">Play That Funky Music</a>". Although reviews of the album were mixed, <i>To the Extreme</i> spent 16 weeks at the top of the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard 200</i></a>, and sold 15 million copies worldwide.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Music"><span class="tocnumber">2</span> <span class="toctext">Music</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Reception"><span class="tocnumber">3</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Track_listing"><span class="tocnumber">4</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Samples"><span class="tocnumber">5</span> <span class="toctext">Samples</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Personnel"><span class="tocnumber">6</span> <span class="toctext">Personnel</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Additional_musicians"><span class="tocnumber">6.1</span> <span class="toctext">Additional musicians</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Technical_personnel"><span class="tocnumber">6.2</span> <span class="toctext">Technical personnel</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Charts"><span class="tocnumber">7</span> <span class="toctext">Charts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#End_of_decade_charts"><span class="tocnumber">7.1</span> <span class="toctext">End of decade charts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=To_the_Extreme&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1989, Robert Van Winkle, better known as Vanilla Ice, released an early version of <i>To the Extreme</i> under the title <i>Hooked</i> on <a href="/wiki/Ichiban_Records" title="Ichiban Records">Ichiban Records</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Price_4-0" class="reference"><a href="#cite_note-Price-4"><span>[</span>4<span>]</span></a></sup> "<a href="/wiki/Play_That_Funky_Music" title="Play That Funky Music">Play That Funky Music</a>" was released as the album's first single, with "<a href="/wiki/Ice_Ice_Baby" title="Ice Ice Baby">Ice Ice Baby</a>" appearing as the <a href="/wiki/A-side_and_B-side" title="A-side and B-side">B-side</a>.<sup id="cite_ref-Westfahl_5-0" class="reference"><a href="#cite_note-Westfahl-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-Wartofsky_6-0" class="reference"><a href="#cite_note-Wartofsky-6"><span>[</span>6<span>]</span></a></sup> The <a href="/wiki/12-inch_single" title="12-inch single">12-inch single</a> featured the <a href="/wiki/Radio_edit" title="Radio edit">radio</a>, <a href="/wiki/Instrumental" title="Instrumental">instrumental</a> and <a href="/wiki/A_cappella" title="A cappella">a cappella</a> versions of "Play That Funky Music" and the radio version and "Miami Drop" <a href="/wiki/Remix" title="Remix">remix</a> of "Ice Ice Baby".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> When a <a href="/wiki/Disc_jockey" title="Disc jockey">disc jockey</a> played "Ice Ice Baby" instead of the single's A-side, the song gained more success than "Play That Funky Music".<sup id="cite_ref-Westfahl_5-1" class="reference"><a href="#cite_note-Westfahl-5"><span>[</span>5<span>]</span></a></sup> A <a href="/wiki/Music_video" title="Music video">music video</a> for "Ice Ice Baby" was produced for $8000.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> The video was financed by Van Winkle's manager, Tommy Quon, and shot on the roof of a warehouse in <a href="/wiki/Dallas,_Texas" title="Dallas, Texas" class="mw-redirect">Dallas, Texas</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> Heavy airplay of the video by <a href="/wiki/The_Box_(US_TV_channel)" title="The Box (US TV channel)" class="mw-redirect">The Box</a> while Van Winkle was still unknown increased public interest in the song.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>In 1990, Van Winkle signed to <a href="/wiki/SBK_Records" title="SBK Records">SBK Records</a>, who reissued <i>Hooked</i> under the title <i>To the Extreme</i>. The reissue contained new artwork and music.<sup id="cite_ref-Huey_12-0" class="reference"><a href="#cite_note-Huey-12"><span>[</span>12<span>]</span></a></sup> "Ice Ice Baby" was given its own single, released in 1990 by <a href="/wiki/SBK_Records" title="SBK Records">SBK Records</a> in the United States, and <a href="/wiki/EMI_Records" title="EMI Records">EMI Records</a> in the United Kingdom. The SBK single contained the "Miami Drop", instrumental and radio mixes of "Ice Ice Baby" and the album version of "It's A Party".<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> The EMI single contained the club and radio mixes of the song, and the shortened radio edit.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=To_the_Extreme&amp;action=edit&amp;section=2" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Van Winkle wrote "Ice Ice Baby" at the age of 16, basing its lyrics upon the <a href="/wiki/South_Florida" title="South Florida">South Florida</a> area in which he was raised.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> The lyrics describe a <a href="/wiki/Drive-by_shooting" title="Drive-by shooting">drive-by shooting</a> and Van Winkle's rhyming skills.<sup id="cite_ref-PerulloFenn_16-0" class="reference"><a href="#cite_note-PerulloFenn-16"><span>[</span>16<span>]</span></a></sup> The chorus of "Ice Ice Baby" originates from the signature chant of the national <a href="/wiki/African_American" title="African American">African American</a> fraternity <a href="/wiki/Alpha_Phi_Alpha" title="Alpha Phi Alpha">Alpha Phi Alpha</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> The song's hook <a href="/wiki/Sample_(music)" title="Sample (music)" class="mw-redirect">samples</a> the <a href="/wiki/Bass_guitar" title="Bass guitar">bassline</a> of the 1981 song "<a href="/wiki/Under_Pressure" title="Under Pressure">Under Pressure</a>" by <a href="/wiki/Queen_(band)" title="Queen (band)">Queen</a> and <a href="/wiki/David_Bowie" title="David Bowie">David Bowie</a>.<sup id="cite_ref-Hess_19-0" class="reference"><a href="#cite_note-Hess-19"><span>[</span>19<span>]</span></a></sup> <a href="/wiki/Freddie_Mercury" title="Freddie Mercury">Freddie Mercury</a> and <a href="/wiki/David_Bowie" title="David Bowie">David Bowie</a> did not receive credit or royalties for the sample.<sup id="cite_ref-Westfahl_5-2" class="reference"><a href="#cite_note-Westfahl-5"><span>[</span>5<span>]</span></a></sup> In a 1990 interview, Van Winkle said the two melodies were slightly different because he had added an additional note. In later interviews, Van Winkle readily admitted he sampled the song and claimed his 1990 statement was a joke; others, however, suggested he had been serious.<sup id="cite_ref-Stillman_20-0" class="reference"><a href="#cite_note-Stillman-20"><span>[</span>20<span>]</span></a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> Van Winkle later paid Mercury and Bowie, who have since been given songwriting credit for the sample.<sup id="cite_ref-Stillman_20-1" class="reference"><a href="#cite_note-Stillman-20"><span>[</span>20<span>]</span></a></sup></p>
+<p>The stylistic origins of "Rosta Man" are based upon <a href="/wiki/Reggae" title="Reggae">reggae</a> <a href="/wiki/Deejay_(Jamaican)" title="Deejay (Jamaican)">toasting</a>.<sup id="cite_ref-Huey_12-1" class="reference"><a href="#cite_note-Huey-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=To_the_Extreme&amp;action=edit&amp;section=3" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></td>
+<td style="vertical-align:middle">(B)<sup id="cite_ref-Udovitch_23-0" class="reference"><a href="#cite_note-Udovitch-23"><span>[</span>23<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Smash_Hits" title="Smash Hits">Smash Hits</a></td>
+<td style="vertical-align:middle">(8/10)<sup id="cite_ref-Smash_Hits_Review_24-0" class="reference"><a href="#cite_note-Smash_Hits_Review-24"><span>[</span>24<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Huey_12-2" class="reference"><a href="#cite_note-Huey-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">C−<sup id="cite_ref-Christgau_25-0" class="reference"><a href="#cite_note-Christgau-25"><span>[</span>25<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i>To the Extreme</i> became the fastest selling <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> album of all time,<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup> peaking at #1 on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>.<sup id="cite_ref-Billboard_27-0" class="reference"><a href="#cite_note-Billboard-27"><span>[</span>27<span>]</span></a></sup> The album spent 16 weeks at the top of the <a href="/wiki/Billboard_charts" title="Billboard charts">charts</a>, and seven million copies were shipped across the United States.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup> <i>To the Extreme</i> was the best selling hip hop album up until that time.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup> "Ice Ice Baby" has been credited for helping diversify hip hop by introducing it to a mainstream, white audience.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></p>
+<p>Reviews of <i>To the Extreme</i> were mixed. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> reviewer Dom Lombardo gave the album a B, calling the album "so consistent in its borrowings that it could be a parody, if it weren't for its total absence of wit",<sup id="cite_ref-Udovitch_23-1" class="reference"><a href="#cite_note-Udovitch-23"><span>[</span>23<span>]</span></a></sup> but concluding that "if there's about a two-to-one ratio of winners [...] to clunkers, that's not the worst track record for a debut album."<sup id="cite_ref-Udovitch_23-2" class="reference"><a href="#cite_note-Udovitch-23"><span>[</span>23<span>]</span></a></sup> Udovitch cited "Ice Ice Baby", "Play That Funky Music", "Dancin'" and "It's a Party" as the album's highlights.<sup id="cite_ref-Udovitch_23-3" class="reference"><a href="#cite_note-Udovitch-23"><span>[</span>23<span>]</span></a></sup> <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a> gave the album a C- rating, writing that Van Winkle's "suave sexism, fashionably male supremacist rather than dangerously obscene, is no worse than his suave beats".<sup id="cite_ref-Christgau_25-1" class="reference"><a href="#cite_note-Christgau-25"><span>[</span>25<span>]</span></a></sup> <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> reviewer Steve Huey wrote that "Ice's mic technique is actually stronger and more nimble than <a href="/wiki/MC_Hammer" title="MC Hammer">MC Hammer</a>'s, and he really tries earnestly to show off the skills he does have. Unfortunately, even if he can keep a mid-tempo pace, his flow is rhythmically stiff, and his voice has an odd timbre; plus, he never seems sure of the proper accent to adopt. He's able to overcome those flaws somewhat in isolated moments, but they become all too apparent over the course of an entire album."<sup id="cite_ref-Huey_12-3" class="reference"><a href="#cite_note-Huey-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>After audiences began to view Van Winkle as a novelty act, his popularity began to decline. Van Winkle would later regain some success, attracting a new audience outside of the mainstream audience that had formerly accepted him, and then rejected him.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=To_the_Extreme&amp;action=edit&amp;section=4" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff"><i>Hooked</i></th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Ice_Ice_Baby" title="Ice Ice Baby">Ice Ice Baby</a>" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice and Earthquake</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:31</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Play_That_Funky_Music#Vanilla_Ice_version" title="Play That Funky Music">Play That Funky Music</a>" &#160;</td>
+<td style="vertical-align: top;">Robert Parissi</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:22</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Hooked" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;"><a href="/wiki/Khayree" title="Khayree">Khayree</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:52</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Satisfaction" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice, <a href="/wiki/Mick_Jagger" title="Mick Jagger">Mick Jagger</a> and <a href="/wiki/Keith_Richards" title="Keith Richards">Keith Richards</a></td>
+<td style="vertical-align: top;"><a href="/wiki/Khayree" title="Khayree">Khayree</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:46</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/I_Love_You_(Vanilla_Ice_song)" title="I Love You (Vanilla Ice song)">I Love You</a>" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;">Kim Sharp</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:06</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Dancin'" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice and Earthquake</td>
+<td style="vertical-align: top;">Earthquake and Khayree</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:00</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Go Ill" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;">David Deberry</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:00</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"It's a Party" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;"><a href="/wiki/Khayree" title="Khayree">Khayree</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:39</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Ice Cold" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;">Darryl Williams</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:05</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Rosta Man" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;">Darryl Williams</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:36</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Bust It" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:24</td>
+</tr>
+<tr>
+<td align="right" colspan="4">
+<div style="width: 7.5em; text-align: left; padding-left: 10px; background-color: #eee; margin: 0;"><b>Total length:</b></div>
+</td>
+<td style="padding-right: 10px; text-align: right; background-color: #eee;"><b>47:37</b></td>
+<td class="mbox-empty-cell"></td>
+</tr>
+</table>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff"><i>To the Extreme</i></th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Ice_Ice_Baby" title="Ice Ice Baby">Ice Ice Baby</a>" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice and Earthquake</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:31</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Yo Vanilla" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:04</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Stop That Train" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice and Earthquake</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:29</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Hooked" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;"><a href="/wiki/Khayree" title="Khayree">Khayree</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:52</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Ice Is Workin' It" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice and Earthquake</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:36</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Life Is a Fantasy" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice and Earthquake</td>
+<td style="vertical-align: top;">Earthquake</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:47</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Play_That_Funky_Music#Vanilla_Ice_version" title="Play That Funky Music">Play That Funky Music</a>" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice and Earthquake</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:22</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Dancin'" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice and Earthquake</td>
+<td style="vertical-align: top;">Earthquake and Khayree</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:00</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Go Ill" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;">David Deberry</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:00</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"It's a Party" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;"><a href="/wiki/Khayree" title="Khayree">Khayree</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:39</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Juice to Get Loose Boy" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:08</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Ice Cold" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;">Darryl Williams</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:05</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Rosta Man" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;">Darryl Williams</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:36</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/I_Love_You_(Vanilla_Ice_song)" title="I Love You (Vanilla Ice song)">I Love You</a>" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;">Kim Sharp</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:06</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Havin' a Roni" &#160;</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="vertical-align: top;">Vanilla Ice</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:09</td>
+</tr>
+<tr>
+<td align="right" colspan="4">
+<div style="width: 7.5em; text-align: left; padding-left: 10px; background-color: #eee; margin: 0;"><b>Total length:</b></div>
+</td>
+<td style="padding-right: 10px; text-align: right; background-color: #eee;"><b>57:22</b></td>
+<td class="mbox-empty-cell"></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Samples">Samples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=To_the_Extreme&amp;action=edit&amp;section=5" title="Edit section: Samples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Ice Ice Baby</b></p>
+<ul>
+<li>"Under Pressure" by <a href="/wiki/Queen_(band)" title="Queen (band)">Queen</a> and <a href="/wiki/David_Bowie" title="David Bowie">David Bowie</a></li>
+</ul>
+<p><b>Stop That Train</b></p>
+<ul>
+<li>"<a href="/wiki/Funky_Drummer" title="Funky Drummer">Funky Drummer</a>" by <a href="/wiki/James_Brown" title="James Brown">James Brown</a></li>
+<li>"<a href="/wiki/Stop_That_Train" title="Stop That Train">Stop That Train</a>" by <a href="/wiki/Keith_%26_Tex" title="Keith &amp; Tex">Keith &amp; Tex</a></li>
+</ul>
+<p><b>Hooked</b></p>
+<ul>
+<li>"I Know You Got Soul" by <a href="/wiki/Bobby_Byrd" title="Bobby Byrd">Bobby Byrd</a></li>
+</ul>
+<p><b>Play That Funky Music</b></p>
+<ul>
+<li>"Play That Funky Music" by <a href="/wiki/Wild_Cherry_(band)" title="Wild Cherry (band)">Wild Cherry</a></li>
+</ul>
+<p><b>Dancin'</b></p>
+<ul>
+<li>"<a href="/wiki/ABC_(song)" title="ABC (song)" class="mw-redirect">ABC (song)</a>" by <a href="/wiki/The_Jackson_5" title="The Jackson 5">The Jackson 5</a></li>
+<li>"<a href="/wiki/Dancing_Machine" title="Dancing Machine">Dancing Machine</a>" by <a href="/wiki/The_Jackson_5" title="The Jackson 5">The Jackson 5</a></li>
+</ul>
+<p><b>It's a Party</b></p>
+<ul>
+<li>"<a href="/wiki/Think_(About_It)" title="Think (About It)">Think (About It)</a>" by <a href="/wiki/Lyn_Collins" title="Lyn Collins">Lyn Collins</a></li>
+<li>"<a href="/wiki/Thriller_(song)" title="Thriller (song)">Thriller</a>" by <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a></li>
+</ul>
+<p><b>Go Ill</b></p>
+<ul>
+<li>"Get Up (I Feel Like Being A) Sex Machine" by <a href="/wiki/James_Brown" title="James Brown">James Brown</a></li>
+</ul>
+<p><b>Ice Cold</b></p>
+<ul>
+<li>"<a href="/wiki/Say_It_Loud,_I%27m_Black_and_I%27m_Proud" title="Say It Loud, I'm Black and I'm Proud" class="mw-redirect">Say It Loud, I'm Black and I'm Proud</a>" by <a href="/wiki/James_Brown" title="James Brown">James Brown</a></li>
+<li>"<a href="/wiki/Think_(About_It)" title="Think (About It)">Think (About It)</a>" by <a href="/wiki/Lyn_Collins" title="Lyn Collins">Lyn Collins</a></li>
+</ul>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=To_the_Extreme&amp;action=edit&amp;section=6" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following people contributed on <i>To the Extreme</i>:<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup></p>
+<ul>
+<li><a href="/wiki/Vanilla_Ice" title="Vanilla Ice">Vanilla Ice</a> – <a href="/wiki/Vocals" title="Vocals" class="mw-redirect">vocals</a>, <a href="/wiki/Lyrics" title="Lyrics">lyrics</a>, <a href="/wiki/Record_producer" title="Record producer">producer</a></li>
+</ul>
+<h3><span class="mw-headline" id="Additional_musicians">Additional musicians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=To_the_Extreme&amp;action=edit&amp;section=7" title="Edit section: Additional musicians">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Paul Loomis – <a href="/wiki/Synthesizer" title="Synthesizer">keyboards</a>, producer, engineer, keyboard bass</li>
+<li>Craig Pride – vocals</li>
+</ul>
+<h3><span class="mw-headline" id="Technical_personnel">Technical personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=To_the_Extreme&amp;action=edit&amp;section=8" title="Edit section: Technical personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Deshay – overdubs, beats</li>
+<li>George Anderson – engineer</li>
+<li>Tim Kimsey – engineer</li>
+<li>Tommy Quon – executive producer</li>
+<li>Kim Sharp – producer</li>
+<li>Gary Wooten – engineer</li>
+<li>Henry Falco – engineer</li>
+<li>Khayree – producer</li>
+<li>Janet Perr – art direction, design</li>
+<li>Michael Lavine – photography</li>
+<li>Darryl Williams – producer</li>
+<li>Michael Sarsfield – engineer</li>
+</ul>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=To_the_Extreme&amp;action=edit&amp;section=9" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th style="text-align:center;">Chart (1990)</th>
+<th style="text-align:center;">Peak position</th>
+</tr>
+<tr>
+<td><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a></td>
+<td style="text-align:center;">1<sup id="cite_ref-Billboard_27-1" class="reference"><a href="#cite_note-Billboard-27"><span>[</span>27<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>Top R&amp;B/Hip-Hop Albums</td>
+<td style="text-align:center;">6<sup id="cite_ref-Billboard_27-2" class="reference"><a href="#cite_note-Billboard-27"><span>[</span>27<span>]</span></a></sup></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="End_of_decade_charts">End of decade charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=To_the_Extreme&amp;action=edit&amp;section=10" title="Edit section: End of decade charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th>Chart (1990–1999)</th>
+<th>Position</th>
+</tr>
+<tr>
+<td>U.S. <i>Billboard</i> 200<sup id="cite_ref-1990sbb_33-0" class="reference"><a href="#cite_note-1990sbb-33"><span>[</span>33<span>]</span></a></sup></td>
+<td style="text-align:center;">20</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=To_the_Extreme&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=v7rst3311lM&amp;feature=fvwrel">"Vanilla ice special 1999"</a>. YouTube. 2008-01-15<span class="reference-accessdate">. Retrieved 2014-01-08</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.btitle=Vanilla+ice+special+1999&amp;rft.date=2008-01-15&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dv7rst3311lM%26feature%3Dfvwrel&amp;rft.pub=YouTube&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r77427">"Overview for <i>Hooked</i>"</a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a><span class="reference-accessdate">. Retrieved 2009-03-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.btitle=Overview+for+%27%27Hooked%27%27&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr77427&amp;rft.pub=Allmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.discogs.com/release/528366">"Information for <i>Hooked</i>"</a>. Discogs<span class="reference-accessdate">. Retrieved 2009-03-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.btitle=Information+for+%27%27Hooked%27%27&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2Frelease%2F528366&amp;rft.pub=Discogs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Price-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Price_4-0">^</a></b></span> <span class="reference-text"><span class="citation web">Price, Jason. <a rel="nofollow" class="external text" href="http://www.live-metal.net/features_interviews_vanillaice">"The Next Ice Age"</a>. Live-Metal<span class="reference-accessdate">. Retrieved 2008-04-26</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.aufirst=Jason&amp;rft.aulast=Price&amp;rft.au=Price%2C+Jason&amp;rft.btitle=The+Next+Ice+Age&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.live-metal.net%2Ffeatures_interviews_vanillaice&amp;rft.pub=Live-Metal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Westfahl-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Westfahl_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Westfahl_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Westfahl_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Westfahl, Gary (2000). "Legends of the Fall: Behind the Music". <i>Science Fiction, Children's Literature, and Popular Culture</i>. Greenwood Publishing Group. p.&#160;100. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-313-30847-0" title="Special:BookSources/0-313-30847-0">0-313-30847-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.atitle=Science+Fiction%2C+Children%27s+Literature%2C+and+Popular+Culture&amp;rft.aufirst=Gary&amp;rft.aulast=Westfahl&amp;rft.au=Westfahl%2C+Gary&amp;rft.btitle=Legends+of+the+Fall%3A+Behind+the+Music&amp;rft.date=2000&amp;rft.genre=bookitem&amp;rft.isbn=0-313-30847-0&amp;rft.pages=100&amp;rft.pub=Greenwood+Publishing+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Wartofsky-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wartofsky_6-0">^</a></b></span> <span class="reference-text"><span class="citation news">Wartofsky, Alona (November 22, 1998). <a rel="nofollow" class="external text" href="http://www.highbeam.com/doc/1P2-696609.html">"<i>The Iceman Returneth; Vanilla Ice: Once Hated, He's Back With a Different Rap</i>"</a>. <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i><span class="reference-accessdate">. Retrieved 13 February 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.aufirst=Alona&amp;rft.aulast=Wartofsky&amp;rft.au=Wartofsky%2C+Alona&amp;rft.btitle=%27%27The+Iceman+Returneth%3B+Vanilla+Ice%3A+Once+Hated%2C+He%27s+Back+With+a+Different+Rap%27%27&amp;rft.date=November+22%2C+1998&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.highbeam.com%2Fdoc%2F1P2-696609.html&amp;rft.pub=%27%27The+Washington+Post%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.discogs.com/Vanilla-Ice-Ice-Ice-Baby/release/204062">"Information for "Ice Ice Baby" (12")"</a>. Discogs<span class="reference-accessdate">. Retrieved 2009-02-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.btitle=Information+for+%22Ice+Ice+Baby%22+%2812%22%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2FVanilla-Ice-Ice-Ice-Baby%2Frelease%2F204062&amp;rft.pub=Discogs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation news">Corcoran, Michael (January 27, 1991). <a rel="nofollow" class="external text" href="http://nl.newsbank.com/nl-search/we/Archives?p_product=CSTB&amp;p_theme=cstb&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0EB3733140C43839&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM">"<i>Black and white &amp; rap all over: Mass America moves to beat of hip-hop</i>"</a>. <i><a href="/wiki/Chicago_Sun-Times" title="Chicago Sun-Times">Chicago Sun-Times</a></i><span class="reference-accessdate">. Retrieved 26 February 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.au=Corcoran%2C+Michael&amp;rft.aufirst=Michael&amp;rft.aulast=Corcoran&amp;rft.btitle=%27%27Black+and+white+%26+rap+all+over%3A+Mass+America+moves+to+beat+of+hip-hop%27%27&amp;rft.date=January+27%2C+1991&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnl.newsbank.com%2Fnl-search%2Fwe%2FArchives%3Fp_product%3DCSTB%26p_theme%3Dcstb%26p_action%3Dsearch%26p_maxdocs%3D200%26p_topdoc%3D1%26p_text_direct-0%3D0EB3733140C43839%26p_field_direct-0%3Ddocument_id%26p_perpage%3D10%26p_sort%3DYMD_date%3AD%26s_trackval%3DGooglePM&amp;rft.pub=%27%27Chicago+Sun-Times%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation news">Hilburn, Robert (March 17, 1991). <a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/latimes/access/61138632.xml?dids=61138632:61138632&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Mar+17%2C+1991&amp;author=ROBERT+HILBURN&amp;pub=Los+Angeles+Times+(pre-1997+Fulltext)&amp;desc=COVER+STORY+WAR+OF+THE+RAP+EGOS+VANILLA+ICE+Why+Is+Everyone+Still+Fussing+About+Ice%3F&amp;pqatl=google">"<i>Why Is Everyone Still Fussing About Ice?</i>"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i><span class="reference-accessdate">. Retrieved 26 February 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.aufirst=Robert&amp;rft.au=Hilburn%2C+Robert&amp;rft.aulast=Hilburn&amp;rft.btitle=%27%27Why+Is+Everyone+Still+Fussing+About+Ice%3F%27%27&amp;rft.date=March+17%2C+1991&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fpqasb.pqarchiver.com%2Flatimes%2Faccess%2F61138632.xml%3Fdids%3D61138632%3A61138632%26FMT%3DABS%26FMTS%3DABS%3AFT%26type%3Dcurrent%26date%3DMar%2B17%252C%2B1991%26author%3DROBERT%2BHILBURN%26pub%3DLos%2BAngeles%2BTimes%2B%28pre-1997%2BFulltext%29%26desc%3DCOVER%2BSTORY%2BWAR%2BOF%2BTHE%2BRAP%2BEGOS%2BVANILLA%2BICE%2BWhy%2BIs%2BEveryone%2BStill%2BFussing%2BAbout%2BIce%253F%26pqatl%3Dgoogle&amp;rft.pub=%27%27Los+Angeles+Times%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation news">Perkins, Ken Parish (March 31, 1991). <a rel="nofollow" class="external text" href="http://nl.newsbank.com/nl-search/we/Archives?p_product=DM&amp;p_theme=dm&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0ED56208AA285247&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM">"<i>Building with Ice: Tommy Quon struggled for years running clubs -- then found a ticket out</i>"</a>. <i><a href="/wiki/The_Dallas_Morning_News" title="The Dallas Morning News">The Dallas Morning News</a></i><span class="reference-accessdate">. Retrieved 26 February 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.aufirst=Ken+Parish&amp;rft.aulast=Perkins&amp;rft.au=Perkins%2C+Ken+Parish&amp;rft.btitle=%27%27Building+with+Ice%3A+Tommy+Quon+struggled+for+years+running+clubs+--+then+found+a+ticket+out%27%27&amp;rft.date=March+31%2C+1991&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnl.newsbank.com%2Fnl-search%2Fwe%2FArchives%3Fp_product%3DDM%26p_theme%3Ddm%26p_action%3Dsearch%26p_maxdocs%3D200%26p_topdoc%3D1%26p_text_direct-0%3D0ED56208AA285247%26p_field_direct-0%3Ddocument_id%26p_perpage%3D10%26p_sort%3DYMD_date%3AD%26s_trackval%3DGooglePM&amp;rft.pub=%27%27The+Dallas+Morning+News%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation book">Banks, Jack (1996). "Other Video Music Program Services". <i>Monopoly Television: MTV's Quest to Control the Music</i>. Westview Press. p.&#160;56. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8133-1821-1" title="Special:BookSources/0-8133-1821-1">0-8133-1821-1</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.atitle=Monopoly+Television%3A+MTV%27s+Quest+to+Control+the+Music&amp;rft.au=Banks%2C+Jack&amp;rft.aufirst=Jack&amp;rft.aulast=Banks&amp;rft.btitle=Other+Video+Music+Program+Services&amp;rft.date=1996&amp;rft.genre=bookitem&amp;rft.isbn=0-8133-1821-1&amp;rft.pages=56&amp;rft.pub=Westview+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Huey-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Huey_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Huey_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Huey_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Huey_12-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Huey, Steve. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r28388">"Review of <i>To the Extreme</i>"</a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a><span class="reference-accessdate">. Retrieved 2009-03-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.aufirst=Steve&amp;rft.au=Huey%2C+Steve&amp;rft.aulast=Huey&amp;rft.btitle=Review+of+%27%27To+the+Extreme%27%27&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr28388&amp;rft.pub=Allmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.discogs.com/Vanilla-Ice-Ice-Ice-Baby/release/217177">"Information for "Ice Ice Baby" (SBK)"</a>. Discogs<span class="reference-accessdate">. Retrieved 2009-02-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.btitle=Information+for+%22Ice+Ice+Baby%22+%28SBK%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2FVanilla-Ice-Ice-Ice-Baby%2Frelease%2F217177&amp;rft.pub=Discogs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.discogs.com/Vanilla-Ice-Ice-Ice-Baby/release/210032">"Information for "Ice Ice Baby" (EMI)"</a>. Discogs<span class="reference-accessdate">. Retrieved 2009-02-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.btitle=Information+for+%22Ice+Ice+Baby%22+%28EMI%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2FVanilla-Ice-Ice-Ice-Baby%2Frelease%2F210032&amp;rft.pub=Discogs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web">Rayner, Alex (November 3, 2007). <a rel="nofollow" class="external text" href="http://www.guardian.co.uk/music/2007/nov/03/popandrock.exhibition">"<i>Is this it?</i>"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved 2009-02-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.aufirst=Alex&amp;rft.aulast=Rayner&amp;rft.au=Rayner%2C+Alex&amp;rft.btitle=%27%27Is+this+it%3F%27%27&amp;rft.date=November+3%2C+2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.guardian.co.uk%2Fmusic%2F2007%2Fnov%2F03%2Fpopandrock.exhibition&amp;rft.pub=%27%27The+Guardian%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-PerulloFenn-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-PerulloFenn_16-0">^</a></b></span> <span class="reference-text"><span class="citation book">Perullo, Alex; Fenn, John (2003). "Ideologies, Choices, and Practicies in Eastern African Hip Hop". In Harris M., Berger; Michael Thomas, Carroll. <i>Global Pop, Local Language</i>. Univ. Press of Mississippi. p.&#160;25. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-57806-536-4" title="Special:BookSources/1-57806-536-4">1-57806-536-4</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.atitle=Global+Pop%2C+Local+Language&amp;rft.au=Fenn%2C+John&amp;rft.aufirst=Alex&amp;rft.aulast=Perullo&amp;rft.au=Perullo%2C+Alex&amp;rft.btitle=Ideologies%2C+Choices%2C+and+Practicies+in+Eastern+African+Hip+Hop&amp;rft.date=2003&amp;rft.genre=bookitem&amp;rft.isbn=1-57806-536-4&amp;rft.pages=25&amp;rft.pub=Univ.+Press+of+Mississippi&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation book">Keyes, Cheryl L (2004). "Blending and Shaping Styles: Rap and Other Musical Voices". <i>Rap Music and Street Consciousness</i>. University of Illinois Press. p.&#160;107. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-252-07201-4" title="Special:BookSources/0-252-07201-4">0-252-07201-4</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.atitle=Rap+Music+and+Street+Consciousness&amp;rft.aufirst=Cheryl+L&amp;rft.au=Keyes%2C+Cheryl+L&amp;rft.aulast=Keyes&amp;rft.btitle=Blending+and+Shaping+Styles%3A+Rap+and+Other+Musical+Voices&amp;rft.date=2004&amp;rft.genre=bookitem&amp;rft.isbn=0-252-07201-4&amp;rft.pages=107&amp;rft.pub=University+of+Illinois+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation book">Fine, Elizabeth Calvert (2003). "The Cultural Politics of Step Shows". <i>Soulstepping: African American Step Shows</i>. University of Illinois Press. p.&#160;145. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-252-02475-3" title="Special:BookSources/0-252-02475-3">0-252-02475-3</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.atitle=Soulstepping%3A+African+American+Step+Shows&amp;rft.au=Fine%2C+Elizabeth+Calvert&amp;rft.aufirst=Elizabeth+Calvert&amp;rft.aulast=Fine&amp;rft.btitle=The+Cultural+Politics+of+Step+Shows&amp;rft.date=2003&amp;rft.genre=bookitem&amp;rft.isbn=0-252-02475-3&amp;rft.pages=145&amp;rft.pub=University+of+Illinois+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hess-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hess_19-0">^</a></b></span> <span class="reference-text"><span class="citation book">Hess, Mickey (2007). "Vanilla Ice: The Elvis of Rap". <i>Is Hip Hop Dead?</i>. Greenwood Publishing Group. p.&#160;118. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-275-99461-9" title="Special:BookSources/0-275-99461-9">0-275-99461-9</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.atitle=Is+Hip+Hop+Dead%3F&amp;rft.aufirst=Mickey&amp;rft.au=Hess%2C+Mickey&amp;rft.aulast=Hess&amp;rft.btitle=Vanilla+Ice%3A+The+Elvis+of+Rap&amp;rft.date=2007&amp;rft.genre=bookitem&amp;rft.isbn=0-275-99461-9&amp;rft.pages=118&amp;rft.pub=Greenwood+Publishing+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Stillman-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stillman_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stillman_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Stillman, Kevin (February 27, 2006). <a rel="nofollow" class="external text" href="http://www.iowastatedaily.com/articles/2006/02/27/news/20060227-archive5.txt">"<i>Word to your mother</i>"</a>. <i><a href="/wiki/Iowa_State_Daily" title="Iowa State Daily">Iowa State Daily</a></i><span class="reference-accessdate">. Retrieved 2009-02-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.aufirst=Kevin&amp;rft.aulast=Stillman&amp;rft.au=Stillman%2C+Kevin&amp;rft.btitle=%27%27Word+to+your+mother%27%27&amp;rft.date=February+27%2C+2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.iowastatedaily.com%2Farticles%2F2006%2F02%2F27%2Fnews%2F20060227-archive5.txt&amp;rft.pub=%27%27Iowa+State+Daily%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Nick_Adams_(comedian)" title="Nick Adams (comedian)">Adams, Nick</a> (2006). "When White Rappers Attack". <i>Making Friends with Black People</i>. Kensington Books. p.&#160;75. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7582-1295-X" title="Special:BookSources/0-7582-1295-X">0-7582-1295-X</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.atitle=Making+Friends+with+Black+People&amp;rft.au=Adams%2C+Nick&amp;rft.aufirst=Nick&amp;rft.aulast=Adams&amp;rft.btitle=When+White+Rappers+Attack&amp;rft.date=2006&amp;rft.genre=bookitem&amp;rft.isbn=0-7582-1295-X&amp;rft.pages=75&amp;rft.pub=Kensington+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation book">Perkins, William Eric (1996). "Whiteface mimicry: dissin' race and culture". <i>Droppin' Science: Critical Essays on Rap Music and Hip Hop Culture</i>. Temple University Press. p.&#160;199. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56639-362-0" title="Special:BookSources/1-56639-362-0">1-56639-362-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.atitle=Droppin%27+Science%3A+Critical+Essays+on+Rap+Music+and+Hip+Hop+Culture&amp;rft.aufirst=William+Eric&amp;rft.aulast=Perkins&amp;rft.au=Perkins%2C+William+Eric&amp;rft.btitle=Whiteface+mimicry%3A+dissin%27+race+and+culture&amp;rft.date=1996&amp;rft.genre=bookitem&amp;rft.isbn=1-56639-362-0&amp;rft.pages=199&amp;rft.pub=Temple+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Udovitch-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-Udovitch_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Udovitch_23-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Udovitch_23-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Udovitch_23-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Udovitch, Mim (November 2, 1990). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,318500,00.html">"Review of <i>To the Extreme</i>"</a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i><span class="reference-accessdate">. Retrieved 2009-02-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.aufirst=Mim&amp;rft.aulast=Udovitch&amp;rft.au=Udovitch%2C+Mim&amp;rft.btitle=Review+of+%27%27To+the+Extreme%27%27&amp;rft.date=November+2%2C+1990&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C318500%2C00.html&amp;rft.pub=%27%27Entertainment+Weekly%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Smash_Hits_Review-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Smash_Hits_Review_24-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Andrews, Marc. "Review: Vanilla Ice: To The Extreme (SBK)". <i><a href="/wiki/Smash_Hits" title="Smash Hits">Smash Hits</a></i> (<a href="/wiki/EMAP" title="EMAP" class="mw-redirect">EMAP Metro</a>) (12–25 December 1990): 54.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.atitle=Review%3A+Vanilla+Ice%3A+To+The+Extreme+%28SBK%29&amp;rft.au=Andrews%2C+Marc&amp;rft.aufirst=Marc&amp;rft.aulast=Andrews&amp;rft.genre=article&amp;rft.issue=12%E2%80%9325+December+1990&amp;rft.jtitle=Smash+Hits&amp;rft.pages=54&amp;rft.pub=EMAP+Metro&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Christgau-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Christgau_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Christgau_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Christgau, Robert (1990). <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=Vanilla+Ice">"Review of <i>To the Extreme</i>"</a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i><span class="reference-accessdate">. Retrieved 2009-03-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.btitle=Review+of+%27%27To+the+Extreme%27%27&amp;rft.date=1990&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fget_artist.php%3Fname%3DVanilla%2BIce&amp;rft.pub=%27%27The+Village+Voice%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation book">Forman, Murray (2002). "<span style="padding-left:0.2em;">'</span>Welcome to the City<span style="padding-right:0.2em;">'</span>". <i>The 'hood Comes First: Race, Space, and Place in Rap and Hip-hop</i>. Wesleyan University Press. p.&#160;61. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8195-6397-8" title="Special:BookSources/0-8195-6397-8">0-8195-6397-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.atitle=The+%27hood+Comes+First%3A+Race%2C+Space%2C+and+Place+in+Rap+and+Hip-hop&amp;rft.aufirst=Murray&amp;rft.au=Forman%2C+Murray&amp;rft.aulast=Forman&amp;rft.btitle=%27Welcome+to+the+City%27&amp;rft.date=2002&amp;rft.genre=bookitem&amp;rft.isbn=0-8195-6397-8&amp;rft.pages=61&amp;rft.pub=Wesleyan+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Billboard-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-Billboard_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Billboard_27-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Billboard_27-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r28388">"Charts and awards for <i>To the Extreme</i>"</a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a><span class="reference-accessdate">. Retrieved 2009-03-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.btitle=Charts+and+awards+for+%27%27To+the+Extreme%27%27&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr28388&amp;rft.pub=Allmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation journal">Kihn, Martin (May 18, 1992). "Charles in Charge". <i><a href="/wiki/New_York_(magazine)" title="New York (magazine)">New York</a></i> <b>25</b> (20): 40.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.atitle=Charles+in+Charge&amp;rft.aufirst=Martin&amp;rft.au=Kihn%2C+Martin&amp;rft.aulast=Kihn&amp;rft.date=May+18%2C+1992&amp;rft.genre=article&amp;rft.issue=20&amp;rft.jtitle=New+York&amp;rft.pages=40&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=25" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation book">Perkins, William Eric (1996). "The great white hoax". <i>Droppin' Science: Critical Essays on Rap Music and Hip Hop Culture</i>. Temple University Press. p.&#160;37. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56639-362-0" title="Special:BookSources/1-56639-362-0">1-56639-362-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.atitle=Droppin%27+Science%3A+Critical+Essays+on+Rap+Music+and+Hip+Hop+Culture&amp;rft.aufirst=William+Eric&amp;rft.aulast=Perkins&amp;rft.au=Perkins%2C+William+Eric&amp;rft.btitle=The+great+white+hoax&amp;rft.date=1996&amp;rft.genre=bookitem&amp;rft.isbn=1-56639-362-0&amp;rft.pages=37&amp;rft.pub=Temple+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation book">Kyllonen, Tommy (2007). "An unorthodox culture: hip-hop's history". <i>Un.orthodox: Church. Hip-Hop. Culture</i>. Zondervan. p.&#160;92. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-310-27439-7" title="Special:BookSources/0-310-27439-7">0-310-27439-7</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.atitle=Un.orthodox%3A+Church.+Hip-Hop.+Culture&amp;rft.aufirst=Tommy&amp;rft.au=Kyllonen%2C+Tommy&amp;rft.aulast=Kyllonen&amp;rft.btitle=An+unorthodox+culture%3A+hip-hop%27s+history&amp;rft.date=2007&amp;rft.genre=bookitem&amp;rft.isbn=0-310-27439-7&amp;rft.pages=92&amp;rft.pub=Zondervan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.washingtonpost.com/wp-dyn/content/discussion/2006/02/16/DI2006021601769.html">"<i>Catching Up With... Vanilla Ice</i>"</a>. <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i>. February 17, 2006<span class="reference-accessdate">. Retrieved 13 February 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.btitle=%27%27Catching+Up+With...+Vanilla+Ice%27%27&amp;rft.date=February+17%2C+2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Fdiscussion%2F2006%2F02%2F16%2FDI2006021601769.html&amp;rft.pub=%27%27The+Washington+Post%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r28388">"Credits for <i>To the Extreme</i>"</a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a><span class="reference-accessdate">. Retrieved 2009-03-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.btitle=Credits+for+%27%27To+the+Extreme%27%27&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr28388&amp;rft.pub=Allmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-1990sbb-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-1990sbb_33-0">^</a></b></span> <span class="reference-text"><span class="citation book">Geoff Mayfield (December 25, 1999). <a rel="nofollow" class="external text" href="http://books.google.co.kr/books?id=9w0EAAAAMBAJ&amp;lpg=PP1&amp;lr&amp;rview=1&amp;pg=RA1-PA4#v=onepage&amp;q&amp;f=false"><i>1999 The Year in Music Totally '90s: Diary of a Decade - The listing of Top Pop Albums of the '90s &amp; Hot 100 Singles of the '90s</i></a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i><span class="reference-accessdate">. Retrieved October 15, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATo+the+Extreme&amp;rft.au=Geoff+Mayfield&amp;rft.aulast=Geoff+Mayfield&amp;rft.btitle=1999+The+Year+in+Music+Totally+%2790s%3A+Diary+of+a+Decade+-+The+listing+of+Top+Pop+Albums+of+the+%2790s+%26+Hot+100+Singles+of+the+%2790s&amp;rft.date=December+25%2C+1999&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.co.kr%2Fbooks%3Fid%3D9w0EAAAAMBAJ%26lpg%3DPP1%26lr%26rview%3D1%26pg%3DRA1-PA4%23v%3Donepage%26q%26f%3Dfalse&amp;rft.pub=%27%27Billboard%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Step_by_Step_(New_Kids_on_the_Block_album)" title="Step by Step (New Kids on the Block album)">Step by Step</a></i> by <a href="/wiki/New_Kids_on_the_Block" title="New Kids on the Block">New Kids on the Block</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_1990_(USA)" title="Number-one albums of 1990 (USA)" class="mw-redirect">number-one album</a></b><br />
+November 10, 1990 - March 1, 1991</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Mariah_Carey_(album)" title="Mariah Carey (album)">Mariah Carey</a></i> by <a href="/wiki/Mariah_Carey" title="Mariah Carey">Mariah Carey</a></span></td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Vanilla_Ice" title="Template:Vanilla Ice"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Vanilla_Ice" title="Template talk:Vanilla Ice"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Vanilla_Ice&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Vanilla_Ice" title="Vanilla Ice">Vanilla Ice</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Main albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><strong class="selflink">To the Extreme</strong></i></li>
+<li><i><a href="/wiki/Mind_Blowin%27" title="Mind Blowin'">Mind Blowin'</a></i></li>
+<li><i><a href="/wiki/Hard_to_Swallow_(album)" title="Hard to Swallow (album)">Hard to Swallow</a></i></li>
+<li><i><a href="/wiki/Bi-Polar_(Vanilla_Ice_album)" title="Bi-Polar (Vanilla Ice album)">Bi-Polar</a></i></li>
+<li><i><a href="/wiki/Platinum_Underground" title="Platinum Underground">Platinum Underground</a></i></li>
+<li><i><a href="/wiki/W.T.F._(Wisdom,_Tenacity_and_Focus)" title="W.T.F. (Wisdom, Tenacity and Focus)">W.T.F. (Wisdom, Tenacity and Focus)</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Live album</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Extremely_Live" title="Extremely Live">Extremely Live</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Back_2_Back_Hits" title="Back 2 Back Hits">Back 2 Back Hits</a></i></li>
+<li><i><a href="/wiki/The_Best_of_Vanilla_Ice" title="The Best of Vanilla Ice">The Best of Vanilla Ice</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Remix album</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Vanilla_Ice_Is_Back!" title="Vanilla Ice Is Back!">Vanilla Ice Is Back!</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Play_That_Funky_Music" title="Play That Funky Music">Play That Funky Music</a>"</li>
+<li>"Hooked"</li>
+<li>"Go Ill"</li>
+<li>"<a href="/wiki/Ice_Ice_Baby" title="Ice Ice Baby">Ice Ice Baby</a>"</li>
+<li>"<a href="/w/index.php?title=Satisfaction_(Vanilla_Ice_song)&amp;action=edit&amp;redlink=1" class="new" title="Satisfaction (Vanilla Ice song) (page does not exist)">Satisfaction</a>"</li>
+<li>"<a href="/wiki/I_Love_You_(Vanilla_Ice_song)" title="I Love You (Vanilla Ice song)">I Love You</a>"</li>
+<li>"Stop That Train"</li>
+<li>"Ninja Rap"</li>
+<li>"<a href="/wiki/Cool_as_Ice_(Everybody_Get_Loose)" title="Cool as Ice (Everybody Get Loose)" class="mw-redirect">Cool as Ice (Everybody Get Loose)</a>"</li>
+<li>"<a href="/wiki/Rollin%27_in_My_5.0" title="Rollin' in My 5.0">Rollin' in My 5.0</a>"</li>
+<li>"<a href="/w/index.php?title=Road_to_My_Riches&amp;action=edit&amp;redlink=1" class="new" title="Road to My Riches (page does not exist)">Road to My Riches</a>"</li>
+<li>"Get Loose"</li>
+<li>"<a href="/w/index.php?title=The_Wrath&amp;action=edit&amp;redlink=1" class="new" title="The Wrath (page does not exist)">The Wrath</a>"</li>
+<li>"<a href="/wiki/Roll_%27Em_Up" title="Roll 'Em Up" class="mw-redirect">Roll 'Em Up</a>"</li>
+<li>"<a href="/wiki/Too_Cold_(Vanilla_Ice_song)" title="Too Cold (Vanilla Ice song)" class="mw-redirect">Too Cold</a>"</li>
+<li>"<a href="/wiki/S.N.A.F.U." title="S.N.A.F.U." class="mw-redirect">S.N.A.F.U.</a>"</li>
+<li>"Stomping Through The Bayou"</li>
+<li>"A.D.D."</li>
+<li>"Unbreakable"</li>
+<li>"<a href="/wiki/Ice_Ice_Baby" title="Ice Ice Baby">Ice Ice Baby 2001</a>"</li>
+<li>"<a href="/wiki/Nothing_Is_Real" title="Nothing Is Real" class="mw-redirect">Nothing Is Real</a>"</li>
+<li>"<a href="/wiki/Get_Your_Ass_Up" title="Get Your Ass Up" class="mw-redirect">Get Your Ass Up</a>"</li>
+<li>"Tha Weed Song"</li>
+<li>"Hot Sex"</li>
+<li>"Elvis Killed Kennedy"</li>
+<li>"Detonator"</li>
+<li>"Survivor"</li>
+<li>"Ninja Rap 2"</li>
+<li>"<a href="/wiki/Under_Pressure_(Ice_Ice_Baby)" title="Under Pressure (Ice Ice Baby)">Under Pressure (Ice Ice Baby)</a>"</li>
+<li>"<a href="/wiki/Born_On_Halloween" title="Born On Halloween" class="mw-redirect">Born On Halloween</a>"</li>
+<li>"Rock Star Party"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Cool_as_Ice" title="Cool as Ice">Cool as Ice</a></i></li>
+<li><a href="/wiki/Cool_as_Ice_(soundtrack)" title="Cool as Ice (soundtrack)"><i>Cool as Ice</i> (soundtrack)</a></li>
+<li><i><a href="/wiki/The_Vanilla_Ice_Project" title="The Vanilla Ice Project">The Vanilla Ice Project</a></i></li>
+<li><a href="/wiki/List_of_motocross_riders" title="List of motocross riders">List of motocross riders</a></li>
+<li><a href="/wiki/Vanilla_Ice_discography" title="Vanilla Ice discography">Discography</a></li>
+<li><a href="/wiki/Juggalo" title="Juggalo">Juggalo</a></li>
+<li><a href="/wiki/Psychopathic_Records" title="Psychopathic Records">Psychopathic Records</a></li>
+<li><a href="/wiki/Gathering_of_the_Juggalos" title="Gathering of the Juggalos">Gathering of the Juggalos</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1087
+CPU time usage: 2.420 seconds
+Real time usage: 2.516 seconds
+Preprocessor visited node count: 8549/1000000
+Preprocessor generated node count: 39130/1500000
+Post‐expand include size: 121277/2048000 bytes
+Template argument size: 9755/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.203/10.000 seconds
+Lua memory usage: 3.18 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:291702-0!*!0!!en!4!* and timestamp 20140601185730 and revision id 608709775
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=To_the_Extreme&amp;oldid=608709775">http://en.wikipedia.org/w/index.php?title=To_the_Extreme&amp;oldid=608709775</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1990_debut_albums" title="Category:1990 debut albums">1990 debut albums</a></li><li><a href="/wiki/Category:Vanilla_Ice_albums" title="Category:Vanilla Ice albums">Vanilla Ice albums</a></li><li><a href="/wiki/Category:SBK_Records_albums" title="Category:SBK Records albums">SBK Records albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=To+the+Extreme&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=To+the+Extreme" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/To_the_Extreme"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:To_the_Extreme"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/To_the_Extreme" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=To_the_Extreme&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=To_the_Extreme&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/To_the_Extreme" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/To_the_Extreme" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=To_the_Extreme&amp;oldid=608709775" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=To_the_Extreme&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4164255" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=To_the_Extreme&amp;id=608709775" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=To+the+Extreme">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=To+the+Extreme&amp;oldid=608709775&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=To_the_Extreme&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/To_the_Extreme" title="To the Extreme – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/To_the_Extreme" title="To the Extreme – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/To_The_Extreme" title="To The Extreme – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q4164255#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 May 2014 at 16:54.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/To_the_Extreme" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":2821,"wgHostname":"mw1087"});
+}</script>
+	</body>
+</html>
+	

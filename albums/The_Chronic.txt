@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>The Chronic - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Chronic" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Chronic&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_Chronic&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/The_Chronic" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cmw.PopUpMediaTransform%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Chronic","wgTitle":"The Chronic","wgCurRevisionId":610734261,"wgRevisionId":610734261,"wgArticleId":194546,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from September 2012","Good articles","Articles with hAudio microformats","1992 debut albums","Dr. Dre albums","Albums produced by Dr. Dre","Death Row Records albums","G-funk albums","Interscope Records albums","Cannabis music","Albums certified multi-platinum by the Recording Industry Association of America","Gangsta rap albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Chronic","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q749154"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-The_Chronic skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>The Chronic</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other uses, see <a href="/wiki/Chronic_(disambiguation)" title="Chronic (disambiguation)" class="mw-redirect">Chronic (disambiguation)</a>.</div>
+<div style="display:none; right:10px;" class="metadata topicon nopopups" id="good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/15px-Symbol_support_vote.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/23px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/30px-Symbol_support_vote.svg.png 2x" data-file-width="180" data-file-height="185" /></a></div>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">The Chronic</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Dr.DreTheChronic.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/19/Dr.DreTheChronic.jpg/220px-Dr.DreTheChronic.jpg" width="220" height="220" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/1/19/Dr.DreTheChronic.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/1/19/Dr.DreTheChronic.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">December 15, 1992</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>June 1992<br />
+<small style="font-size:85%;"><a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, <a href="/wiki/California" title="California">California</a>, U.S.</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast hip hop</a>, <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a>, <a href="/wiki/G-Funk" title="G-Funk" class="mw-redirect">G-Funk</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>62:52</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Death_Row_Records" title="Death Row Records">Death Row</a>, <a href="/wiki/Interscope_Records" title="Interscope Records">Interscope</a>, <a href="/wiki/Priority_Records" title="Priority Records">Priority</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td>Dr. Dre, <a href="/wiki/Suge_Knight" title="Suge Knight">Suge Knight</a> <small>(<a href="/wiki/Executive_producer" title="Executive producer">exec.</a>)</small></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"></td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>The Chronic</b></i><br />
+(1992)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/2001_(Dr._Dre_album)" title="2001 (Dr. Dre album)">2001</a></i><br />
+(1999)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>The Chronic</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Nuthin%27_but_a_%27G%27_Thang" title="Nuthin' but a 'G' Thang">Nuthin' but a 'G' Thang</a>"</span><br />
+Released: November 19, 1992</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Fuck_wit_Dre_Day_(and_Everybody%27s_Celebratin%27)" title="Fuck wit Dre Day (and Everybody's Celebratin')" class="mw-redirect">Dre Day</a>"</span><br />
+Released: May 20, 1993</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Let_Me_Ride" title="Let Me Ride">Let Me Ride</a>"</span><br />
+Released: September 13, 1993</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>The Chronic</b></i> is the debut solo studio album by American <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> recording artist <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, released December 15, 1992, on his own record label <a href="/wiki/Death_Row_Records" title="Death Row Records">Death Row Records</a>, and distributed by <a href="/wiki/Priority_Records" title="Priority Records">Priority Records</a>. Recording sessions for the album took place in June 1992 at Death Row Studios in <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a> and at <a href="/wiki/Bernie_Grundman_Mastering" title="Bernie Grundman Mastering" class="mw-redirect">Bernie Grundman Mastering</a> in <a href="/wiki/Hollywood,_Los_Angeles,_California" title="Hollywood, Los Angeles, California" class="mw-redirect">Hollywood</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> The album is named after a slang term for high-grade <a href="/wiki/Marijuana" title="Marijuana" class="mw-redirect">marijuana</a>, and its cover is a homage to <a href="/wiki/Zig-Zag_(company)" title="Zig-Zag (company)">Zig-Zag</a> rolling papers. It was recorded by Dr. Dre following his departure from hip hop group <a href="/wiki/N.W.A" title="N.W.A">N.W.A</a> and its label <a href="/wiki/Ruthless_Records" title="Ruthless Records">Ruthless Records</a> over a financial dispute, and consequently features both subtle and direct insults at Ruthless and its owner, former N.W.A-member <a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a>. Although a solo album, it features many appearances by <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>, who used the album as a launch pad for his own solo career.</p>
+<p>Upon its release, <i>The Chronic</i> received positive reviews from most music critics and earned considerable sales success. The album peaked at number three on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> and had been certified triple platinum by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> with sales of over three million copies in the United States,<sup id="cite_ref-AMG-NBAGT_2-0" class="reference"><a href="#cite_note-AMG-NBAGT-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> which led to Dr. Dre becoming one of the top ten best-selling American performing artists of 1993.<sup id="cite_ref-NYTimes-ThePopLife_4-0" class="reference"><a href="#cite_note-NYTimes-ThePopLife-4"><span>[</span>4<span>]</span></a></sup> Dr. Dre's production has been noted for founding and popularizing the <a href="/wiki/G-funk" title="G-funk">G-funk</a> sub-genre within <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a>. <i>The Chronic</i> has been widely regarded as one of the most important and influential albums of the 1990s and regarded by many fans and peers to be one of the most well-produced hip hop albums of all time.<sup id="cite_ref-RapCentral_5-0" class="reference"><a href="#cite_note-RapCentral-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-Huey_6-0" class="reference"><a href="#cite_note-Huey-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-BBC25Years_7-0" class="reference"><a href="#cite_note-BBC25Years-7"><span>[</span>7<span>]</span></a></sup> In 2003, the album was ranked number 138 on <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> magazine's list of <a href="/wiki/The_500_Greatest_Albums_of_All_Time" title="The 500 Greatest Albums of All Time" class="mw-redirect">the 500 greatest albums of all time</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Music"><span class="tocnumber">1</span> <span class="toctext">Music</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Production"><span class="tocnumber">1.1</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Lyrics"><span class="tocnumber">1.2</span> <span class="toctext">Lyrics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Singles"><span class="tocnumber">2</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Commercial_performance"><span class="tocnumber">3</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Critical_reception"><span class="tocnumber">4</span> <span class="toctext">Critical reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Accolades"><span class="tocnumber">4.1</span> <span class="toctext">Accolades</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Influence"><span class="tocnumber">5</span> <span class="toctext">Influence</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Track_listing"><span class="tocnumber">6</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Charts"><span class="tocnumber">7</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Personnel"><span class="tocnumber">8</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes"><span class="tocnumber">11</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=1" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=2" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The production on <i>The Chronic</i> was seen as innovative and ground-breaking, and received universal acclaim from critics. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> commented on Dr. Dre's efforts, "Here, Dre established his patented G-funk sound: fat, blunted <a href="/wiki/Parliament_(band)" title="Parliament (band)">Parliament</a>-<a href="/wiki/Funkadelic" title="Funkadelic">Funkadelic</a> beats, soulful backing vocals, and live instruments in the rolling basslines and whiny synths"<sup id="cite_ref-Huey_6-1" class="reference"><a href="#cite_note-Huey-6"><span>[</span>6<span>]</span></a></sup> and that "For the next four years, it was virtually impossible to hear mainstream hip-hop that wasn't affected in some way by Dre and his patented G-funk."<sup id="cite_ref-AMG-Bio_8-0" class="reference"><a href="#cite_note-AMG-Bio-8"><span>[</span>8<span>]</span></a></sup> Unlike other hip hop acts (such as <a href="/wiki/The_Bomb_Squad" title="The Bomb Squad">The Bomb Squad</a>) that sampled heavily, Dr. Dre only utilized one or few samples per song.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> In <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a>'</i>s <i>The Immortals – The Greatest Artists of All Time</i>, where Dr. Dre was listed at number 54, <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a> wrote on the album's production quality: "<i>The Chronic</i> is still the hip-hop equivalent to <a href="/wiki/Stevie_Wonder" title="Stevie Wonder">Stevie Wonder</a>'s <i><a href="/wiki/Songs_in_the_Key_of_Life" title="Songs in the Key of Life">Songs in the Key of Life</a></i>. It's the benchmark you measure your album against if you're serious."<sup id="cite_ref-TheImmortals_10-0" class="reference"><a href="#cite_note-TheImmortals-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Jon Pareles of <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> described the production, writing "The bottom register is swampy synthesizer bass lines that openly emulate Parliament-Funkadelic; the upper end is often a lone keyboard line, whistling or blipping incessantly. In between are wide-open spaces that hold just a rhythm guitar, sparse keyboard chords."<sup id="cite_ref-NYTimes-Dr.Dre_11-0" class="reference"><a href="#cite_note-NYTimes-Dr.Dre-11"><span>[</span>11<span>]</span></a></sup> Pareles observed that the songs "were smoother and simpler than East Coast rap, and [Dr. Dre and Snoop Dogg] decisively expanded the hip-hop audience into the suburbs."<sup id="cite_ref-NYTimes_12-0" class="reference"><a href="#cite_note-NYTimes-12"><span>[</span>12<span>]</span></a></sup> Until this point, mainstream hip hop had been primarily party music (for example, <a href="/wiki/Beastie_Boys" title="Beastie Boys">Beastie Boys</a>)<sup id="cite_ref-AMG-BeastieBoys_13-0" class="reference"><a href="#cite_note-AMG-BeastieBoys-13"><span>[</span>13<span>]</span></a></sup> or angry and politically charged (for example, <a href="/wiki/Public_Enemy_(band)" title="Public Enemy (band)" class="mw-redirect">Public Enemy</a> or <a href="/wiki/X-Clan" title="X-Clan" class="mw-redirect">X-Clan</a>), and had consisted almost entirely of samples and breakbeats.<sup id="cite_ref-AMG-PublicEnemy_14-0" class="reference"><a href="#cite_note-AMG-PublicEnemy-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-AMG-XClan_15-0" class="reference"><a href="#cite_note-AMG-XClan-15"><span>[</span>15<span>]</span></a></sup> Dr. Dre ushered in a new musical style and lyrics for hip hop. The beats were slower and mellower, borrowing from late 1970s and early 1980s funk music. By mixing these early influences with original live instrumentation, he created a distinctive genre known as <a href="/wiki/G-funk" title="G-funk">G-funk</a>.<sup id="cite_ref-NYTimes-Dr.Dre_11-1" class="reference"><a href="#cite_note-NYTimes-Dr.Dre-11"><span>[</span>11<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Lyrics">Lyrics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=3" title="Edit section: Lyrics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table border="0" style="float:right; font-size:100%; color:black; width:130px;">
+<tr>
+<td>
+<table class="mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image">
+<div class="center">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/75px-Gnome-mime-sound-openclipart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/100px-Gnome-mime-sound-openclipart.svg.png 2x" data-file-width="160" data-file-height="160" /></div>
+</div>
+</td>
+<td class="mbox-text plainlist" style="line-height:1.1em;">
+<div class="haudio">
+<div style="padding:2px 0;" class="fn"><a href="/wiki/File:Dr._Dre_-_Nuthin%27_But_a_%22G%22_Thang.ogg" title="File:Dr. Dre - Nuthin' But a &quot;G&quot; Thang.ogg">"Nuthin' but a "G" Thang"</a></div>
+<div style="padding-right:4px;">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px;height:23px" poster="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="30" data-startoffset="0" data-mwtitle="Dr._Dre_-_Nuthin'_But_a_&quot;G&quot;_Thang.ogg" data-mwprovider="local"><source src="//upload.wikimedia.org/wikipedia/en/f/fe/Dr._Dre_-_Nuthin%27_But_a_%22G%22_Thang.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (60 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="60418"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/en/f/fe/Dr._Dre_-_Nuthin%27_But_a_%22G%22_Thang.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+<div style="padding:2px 0 0 0;" class="description">Dr. Dre's most successful single demonstrates his delivery and flow on the laid-back beat.</div>
+</div>
+<hr />
+<div class="haudio">
+<div style="padding:2px 0;" class="fn"><a href="/wiki/File:Dr._Dre_-_Fuck_Wit_Dre_Day.ogg" title="File:Dr. Dre - Fuck Wit Dre Day.ogg">"Fuck wit Dre Day"</a></div>
+<div style="padding-right:4px;">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_1" style="width:220px;height:23px" poster="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="30" data-startoffset="0" data-mwtitle="Dr._Dre_-_Fuck_Wit_Dre_Day.ogg" data-mwprovider="local"><source src="//upload.wikimedia.org/wikipedia/en/e/e8/Dr._Dre_-_Fuck_Wit_Dre_Day.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (65 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="64883"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/en/e/e8/Dr._Dre_-_Fuck_Wit_Dre_Day.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+<div style="padding:2px 0 0 0;" class="description">The diss track conveys an aggressive production style, as well as critical lyrics aimed at rappers Eazy-E, Luke Campbell and Tim Dog.</div>
+</div>
+<hr />
+<div class="haudio">
+<div style="padding:2px 0;" class="fn"><a href="/wiki/File:Dr._Dre_-_Let_Me_Ride.ogg" title="File:Dr. Dre - Let Me Ride.ogg">"Let Me Ride"</a></div>
+<div style="padding-right:4px;">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_2" style="width:220px;height:23px" poster="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="30" data-startoffset="0" data-mwtitle="Dr._Dre_-_Let_Me_Ride.ogg" data-mwprovider="local"><source src="//upload.wikimedia.org/wikipedia/en/3/3b/Dr._Dre_-_Let_Me_Ride.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (67 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="67490"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/en/3/3b/Dr._Dre_-_Let_Me_Ride.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+<div style="padding:2px 0 0 0;" class="description">The song expresses violent lyrical representations and a relaxed, smooth beat that accompanies its threatening ideas.</div>
+</div>
+<hr /></td>
+</tr>
+<tr>
+<td colspan="2" class="mbox-text" style="line-height:1.1em;"><span style="font-size:smaller;"><i>Problems playing these files? See <a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">media help</a>.</i></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The album's lyrics caused some controversy, as the subject matter included homophobia and violent representations. It was noted that the album was a "frightening amalgam of inner-city street gangs that includes misogynist sexual politics and violent revenge scenarios".<sup id="cite_ref-Nelson_16-0" class="reference"><a href="#cite_note-Nelson-16"><span>[</span>16<span>]</span></a></sup> <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>'s <a href="//en.wiktionary.org/wiki/diss" class="extiw" title="wikt:diss">dissing</a> of former band-mate, <a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a>, resulted in vicious lyrics, which were mainly aimed at offending his enemy with homosexual implications, although it was noted to have "a spirited cleverness in the phrasing and rhymes; in other words, the song is offensive, but it's <i>creatively</i> offensive".<sup id="cite_ref-AMG-FWDD_17-0" class="reference"><a href="#cite_note-AMG-FWDD-17"><span>[</span>17<span>]</span></a></sup></p>
+<p>Rapper <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>, who had a significant role on the album, was praised for his lyrics and flow, and it was mentioned that "Coupled with his inventive rhymes, Snoop's distinctive style made him a superstar before he'd even released a recording of his own"<sup id="cite_ref-AMG-NBAGT_2-1" class="reference"><a href="#cite_note-AMG-NBAGT-2"><span>[</span>2<span>]</span></a></sup> and that his involvement was as important to the album's success as its production.<sup id="cite_ref-AMG-SnoopDogg_18-0" class="reference"><a href="#cite_note-AMG-SnoopDogg-18"><span>[</span>18<span>]</span></a></sup> <a href="/wiki/Tour%C3%A9" title="Touré">Touré</a> of <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> remarks that "While Snoop delivers rhymes delicately, the content is anything but. Growing up poor, often surrounded by violence, and having served six months in the Wayside County jail outside of Los Angeles (for cocaine possession) gave Snoop Dogg experiences upon which he draws."<sup id="cite_ref-NYTimes-SnoopDogg_19-0" class="reference"><a href="#cite_note-NYTimes-SnoopDogg-19"><span>[</span>19<span>]</span></a></sup> Snoop Dogg later commented on the "reality" of his lyrics, stating "My raps are incidents where either I saw it happen to one of my close homies or I know about it from just being in the ghetto. I can't rap about something I don't know. You'll never hear me rapping about no bachelor's degree. It's only what I know and that's that street life. It's all everyday life, reality."<sup id="cite_ref-NYTimes-SnoopDogg_19-1" class="reference"><a href="#cite_note-NYTimes-SnoopDogg-19"><span>[</span>19<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=4" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Three singles were released from the album: "<a href="/wiki/Nuthin%27_but_a_%27G%27_Thang" title="Nuthin' but a 'G' Thang">Nuthin' but a 'G' Thang</a>", "<a href="/wiki/Fuck_wit_Dre_Day_(And_Everybody%27s_Celebratin%27)" title="Fuck wit Dre Day (And Everybody's Celebratin')">Fuck wit Dre Day</a>" and "<a href="/wiki/Let_Me_Ride" title="Let Me Ride">Let Me Ride</a>". "Nuthin' but a 'G' Thang" was released as the first single on January 19, 1993. It peaked at number two on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a> and number one on the <a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a> and <a href="/wiki/Hot_Rap_Singles" title="Hot Rap Singles" class="mw-redirect">Hot Rap Singles</a>.<sup id="cite_ref-AMG-Singles_20-0" class="reference"><a href="#cite_note-AMG-Singles-20"><span>[</span>20<span>]</span></a></sup> It sold over a million copies and the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA) certified it <a href="/wiki/RIAA_certification" title="RIAA certification">Platinum</a> on March 24, 1993.<sup id="cite_ref-RIAA-Singles_21-0" class="reference"><a href="#cite_note-RIAA-Singles-21"><span>[</span>21<span>]</span></a></sup> The song was nominated for <a href="/wiki/Best_Rap_Performance_by_a_Duo_or_Group" title="Best Rap Performance by a Duo or Group" class="mw-redirect">Best Rap Performance by a Duo or Group</a> at the <a href="/wiki/Grammy_Awards_of_1994" title="Grammy Awards of 1994" class="mw-redirect">1994 Grammy Awards</a>,<sup id="cite_ref-RockOnTheNet_22-0" class="reference"><a href="#cite_note-RockOnTheNet-22"><span>[</span>22<span>]</span></a></sup> but lost to <a href="/wiki/Digable_Planets" title="Digable Planets">Digable Planets</a>' "Rebirth of Slick (Cool Like Dat)". Steve Huey of <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> named it "<i>the</i> archetypal G-funk single" and added "The sound, style, and performances of "Nuthin' but a 'G' Thang" were like nothing else on the early-'90s hip-hop scene."<sup id="cite_ref-AMG-NBAGT_2-2" class="reference"><a href="#cite_note-AMG-NBAGT-2"><span>[</span>2<span>]</span></a></sup> He praised <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>'s performance, stating "[Snoop Dogg's] flow was laconic and relaxed, massively confident and capable of rapid-fire tongue-twisters, but coolly laid-back and almost effortless at the same time".<sup id="cite_ref-AMG-NBAGT_2-3" class="reference"><a href="#cite_note-AMG-NBAGT-2"><span>[</span>2<span>]</span></a></sup> Today it is one of the most critically and commercially lauded hip-hop/rap songs of all time. It is rated the 134th best song of all time by Acclaimedmusic.net, and the sixth best hip-hop/rap song,<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup> and voted in a VH1 poll as the 13th best song of the 1990s.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p>
+<p>"Fuck wit Dre Day (and Everybody's Celebratin')" was released as the second single on May 20, 1993 and like the previous single, it was a hit on multiple charts. It reached number eight on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a> and number six on the <a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a>.<sup id="cite_ref-AMG-Singles_20-1" class="reference"><a href="#cite_note-AMG-Singles-20"><span>[</span>20<span>]</span></a></sup> It sold over 500,000&#160;units and the RIAA certified it <a href="/wiki/RIAA_certification" title="RIAA certification">Gold</a> on October 8, 1993.<sup id="cite_ref-RIAA-Singles_21-1" class="reference"><a href="#cite_note-RIAA-Singles-21"><span>[</span>21<span>]</span></a></sup> Allmusic writer Steve Huey stated that the song was "a classic hip-hop single", citing Dr. Dre's production as "impeccable as ever, uniting his signature whiny synth melodies with a halting, descending bass line, a booming snare, and soulful female vocals in the background"<sup id="cite_ref-AMG-FWDD_17-1" class="reference"><a href="#cite_note-AMG-FWDD-17"><span>[</span>17<span>]</span></a></sup> and alluded to Snoop Dogg, stating "Attitude was something Snoop had by the boatload, his drawling, laid-back delivery projecting unassailable control – it sounded lazy even though it wasn't, and that helped establish Snoop's don't-give-a-damn persona."<sup id="cite_ref-AMG-FWDD_17-2" class="reference"><a href="#cite_note-AMG-FWDD-17"><span>[</span>17<span>]</span></a></sup> The track contains direct insults to rappers East coast rapper <a href="/wiki/Tim_Dog" title="Tim Dog">Tim Dog</a>, <a href="/wiki/2_Live_Crew" title="2 Live Crew">2 Live Crew</a> member <a href="/wiki/Luther_Campbell" title="Luther Campbell">Luke</a>, and Dre's former accomplice <a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a>.</p>
+<p>"Let Me Ride" was released as a <a href="/wiki/Cassette_single" title="Cassette single">cassette single</a> on September 13, 1993.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup> It experienced moderate success on the charts, reaching number&#160;34 on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a> and number three on the <a href="/wiki/Hot_Rap_Singles" title="Hot Rap Singles" class="mw-redirect">Hot Rap Singles</a>.<sup id="cite_ref-AMG-Singles_20-2" class="reference"><a href="#cite_note-AMG-Singles-20"><span>[</span>20<span>]</span></a></sup> The song won Dr. Dre <a href="/wiki/Best_Rap_Solo_Performance" title="Best Rap Solo Performance" class="mw-redirect">Best Rap Solo Performance</a> at the <a href="/wiki/Grammy_Awards_of_1994" title="Grammy Awards of 1994" class="mw-redirect">1994 Grammy Awards</a>.<sup id="cite_ref-Grammy_26-0" class="reference"><a href="#cite_note-Grammy-26"><span>[</span>26<span>]</span></a></sup> On this song and "Nuthin but a "G" Thang", <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i> magazine noted that Dr. Dre's verses were delivered with a "hypnotically intimidating ease" and made the songs feel like "dusk on a wide-open L.A. boulevard, full of possibility and menace".<sup id="cite_ref-TIME_27-0" class="reference"><a href="#cite_note-TIME-27"><span>[</span>27<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=5" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The album has sold over four and half million copies in the United States and over eight million worldwide,<sup id="cite_ref-AMG-NBAGT_2-4" class="reference"><a href="#cite_note-AMG-NBAGT-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-RollingStoneTop500_28-0" class="reference"><a href="#cite_note-RollingStoneTop500-28"><span>[</span>28<span>]</span></a></sup> and was certified three times <a href="/wiki/RIAA_certification" title="RIAA certification">Platinum</a> by <a href="/wiki/RIAA" title="RIAA" class="mw-redirect">RIAA</a> on November 3, 1993.<sup id="cite_ref-RIAA-TheChronic_29-0" class="reference"><a href="#cite_note-RIAA-TheChronic-29"><span>[</span>29<span>]</span></a></sup> It is Dr. Dre's second best selling album, as his follow-up album, <i><a href="/wiki/2001_(Dr._Dre_album)" title="2001 (Dr. Dre album)">2001</a></i>, was certified sextuple Platinum.<sup id="cite_ref-RIAA-2001_30-0" class="reference"><a href="#cite_note-RIAA-2001-30"><span>[</span>30<span>]</span></a></sup> The album first appeared on music charts in 1993, peaking on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> at number three, and peaking on <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a> at number one.<sup id="cite_ref-AMG-Sales_31-0" class="reference"><a href="#cite_note-AMG-Sales-31"><span>[</span>31<span>]</span></a></sup> The album's three singles became top ten <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> singles.<sup id="cite_ref-bbsingles_32-0" class="reference"><a href="#cite_note-bbsingles-32"><span>[</span>32<span>]</span></a></sup> "Nuthin' but a "G" Thang" peaked at number two on the <i>Billboard</i> <a href="/wiki/Hot_100" title="Hot 100" class="mw-redirect">Hot 100</a> and at number one on both the <a href="/wiki/Hot_Rap_Singles" title="Hot Rap Singles" class="mw-redirect">Hot Rap Singles</a> and <a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot R&amp;B Singles</a> charts.<sup id="cite_ref-bbsingles_32-1" class="reference"><a href="#cite_note-bbsingles-32"><span>[</span>32<span>]</span></a></sup> "Fuck Wit Dre Day (And Everybody's Celebratin')" became a top ten single on four different charts, including the Hot R&amp;B Singles (number 6) and the Hot 100 (number 8).<sup id="cite_ref-bbsingles_32-2" class="reference"><a href="#cite_note-bbsingles-32"><span>[</span>32<span>]</span></a></sup> <i>The Chronic</i> re-entered the charts in 2003, peaking on the Ireland Albums Top&#160;75 at number&#160;48, and on the U.K. Albums Top&#160;75 in 2004 at number&#160;43.<sup id="cite_ref-acharts_33-0" class="reference"><a href="#cite_note-acharts-33"><span>[</span>33<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=6" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Huey_6-2" class="reference"><a href="#cite_note-Huey-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Pappademas_34-0" class="reference"><a href="#cite_note-Pappademas-34"><span>[</span>34<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="2.5/4 stars"><img alt="2.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Kot_35-0" class="reference"><a href="#cite_note-Kot-35"><span>[</span>35<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">C+<sup id="cite_ref-Christgau_36-0" class="reference"><a href="#cite_note-Christgau-36"><span>[</span>36<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">A+<sup id="cite_ref-EW_37-0" class="reference"><a href="#cite_note-EW-37"><span>[</span>37<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/4 stars"><img alt="3/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Gold_38-0" class="reference"><a href="#cite_note-Gold-38"><span>[</span>38<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Nelson_16-1" class="reference"><a href="#cite_note-Nelson-16"><span>[</span>16<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The Rolling Stone Album Guide</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Hoard_39-0" class="reference"><a href="#cite_note-Hoard-39"><span>[</span>39<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i></td>
+<td style="vertical-align:middle">4.5/5<sup id="cite_ref-Matty_40-0" class="reference"><a href="#cite_note-Matty-40"><span>[</span>40<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/4 stars"><img alt="3.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Gundersen_41-0" class="reference"><a href="#cite_note-Gundersen-41"><span>[</span>41<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i>The Chronic</i> received generally positive reviews from contemporary <a href="/wiki/Music_journalism" title="Music journalism">music critics</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i><span style="padding-left:0.1em;">'</span>s Havelock Nelson wrote that the album "drops raw realism and pays tribute to hip-hop virtuosity."<sup id="cite_ref-Nelson_16-2" class="reference"><a href="#cite_note-Nelson-16"><span>[</span>16<span>]</span></a></sup> <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> said that it "storms with rage, strolls with confidence, and reverberates with a social realism that's often ugly and horrifying".<sup id="cite_ref-EW_37-1" class="reference"><a href="#cite_note-EW-37"><span>[</span>37<span>]</span></a></sup> <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> claimed that Snoop Dogg's "<a href="/wiki/Slick_Rick" title="Slick Rick">Slick Rick</a>-esque style" produces "new ground for West Coast MCs" and that the album is "an innovative and progressive hip-hop package that must not be missed."<sup id="cite_ref-Matty_40-1" class="reference"><a href="#cite_note-Matty-40"><span>[</span>40<span>]</span></a></sup> <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i> found "Dre's prowess as beat-master and street preacher" to be "undeniable".<sup id="cite_ref-Gundersen_41-1" class="reference"><a href="#cite_note-Gundersen-41"><span>[</span>41<span>]</span></a></sup> Jonathan Gold of the <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i> wrote that, although the rappers lack "quick wit" and "rhythmic virtuosity", Dre's artistry is "on a par with <a href="/wiki/Phil_Spector" title="Phil Spector">Phil Spector</a>'s or <a href="/wiki/Brian_Wilson" title="Brian Wilson">Brian Wilson</a>'s." Gold argued that, because Dre recreates rather than samples beats and instrumental work, the finished album's fidelity is not inflected by that of "scratchy R&amp;B records that have been played a million times", unlike productions from East Coast hip hop.<sup id="cite_ref-Gold_38-1" class="reference"><a href="#cite_note-Gold-38"><span>[</span>38<span>]</span></a></sup></p>
+<p>In a mixed review, <a href="/wiki/Greg_Kot" title="Greg Kot">Greg Kot</a> of the <i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i> viewed the album as superficial, unrefined entertainment and felt that "Dre combines street potency with thuggish stupidity in equal measure."<sup id="cite_ref-Kot_35-1" class="reference"><a href="#cite_note-Kot-35"><span>[</span>35<span>]</span></a></sup> <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a>, writing in <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>, dismissed it as "sociopathic <a href="/wiki/Easy-listening" title="Easy-listening" class="mw-redirect">easy-listening</a>" and "bad pop music" whose innovation—Dre's departure from sampling—is not inspired by contemporary <a href="/wiki/P-Funk" title="P-Funk">P-Funk</a>, but rather <a href="/wiki/Blaxploitation" title="Blaxploitation">blaxploitation</a> soundtracks, which led him to combine trite bass lines with imitations of "<a href="/wiki/Bernie_Worrell" title="Bernie Worrell">Bernie Worrell</a>'s high keyb <a href="/wiki/Sustain" title="Sustain">sustain</a>, a basically irritating sound that in context always signified fantasy, not reality—stoned self-loss or, at a best Dre never approaches, grandiose jive."<sup id="cite_ref-Christgau_36-1" class="reference"><a href="#cite_note-Christgau-36"><span>[</span>36<span>]</span></a></sup> He felt that the brutal lyrical threats were vague and lacked detail,<sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>42<span>]</span></a></sup> although he found Snoop Dogg's rhymes "<a href="//en.wiktionary.org/wiki/drolly" class="extiw" title="wikt:drolly">drolly</a>" and not dull, unlike Dr. Dre.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>43<span>]</span></a></sup></p>
+<p>Retrospective reviews of the album were also positive. <a href="/wiki/Jon_Pareles" title="Jon Pareles">Jon Pareles</a> of <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> said that <i>The Chronic</i> and <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>'s <i><a href="/wiki/Doggystyle" title="Doggystyle">Doggystyle</a></i> "made the gangsta life sound like a party occasionally interrupted by gunplay".<sup id="cite_ref-NYTimes_12-1" class="reference"><a href="#cite_note-NYTimes-12"><span>[</span>12<span>]</span></a></sup> <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>'s Steve Huey compared Dr. Dre to his inspiration, <a href="/wiki/George_Clinton_(funk_musician)" title="George Clinton (funk musician)" class="mw-redirect">George Clinton</a>, stating "Dre's just as effortlessly funky, and he has a better feel for a hook, a knack that improbably landed gangsta rap on the pop charts".<sup id="cite_ref-Huey_6-3" class="reference"><a href="#cite_note-Huey-6"><span>[</span>6<span>]</span></a></sup> <a href="/wiki/Rhapsody_(online_music_service)" title="Rhapsody (online music service)">Rhapsody</a> writer Brolin Winning named the album as "an untouchable masterpiece of <a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">California Gangsta Rap</a>" and that it had "track after track of G-Funk gems".<sup id="cite_ref-Rhapsody_44-0" class="reference"><a href="#cite_note-Rhapsody-44"><span>[</span>44<span>]</span></a></sup> On <i>Rolling Stone</i><span style="padding-left:0.1em;">'</span>s <i><a href="/wiki/500_Greatest_Albums_of_All_Time" title="500 Greatest Albums of All Time" class="mw-redirect">500 Greatest Albums of All Time</a></i>, it was noted that "Dre funked up the rhymes with a smooth bass-heavy production style and the laid-back delivery of then-unknown rapper <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Doggy Dogg</a>."<sup id="cite_ref-RollingStoneTop500_28-1" class="reference"><a href="#cite_note-RollingStoneTop500-28"><span>[</span>28<span>]</span></a></sup> <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i> magazine's Josh Tyrangiel states that Dr. Dre created "a sound that defined early 90's urban <a href="/wiki/Los_Angeles" title="Los Angeles">L.A.</a> in the same way that <a href="/wiki/Motown" title="Motown">Motown</a> defined 60's <a href="/wiki/Detroit" title="Detroit">Detroit</a>".<sup id="cite_ref-TIME_27-1" class="reference"><a href="#cite_note-TIME-27"><span>[</span>27<span>]</span></a></sup> Laura Sinagra, writing in <i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The Rolling Stone Album Guide</a></i> (2004), said that <i>The Chronic</i> "features system-busting <a href="/wiki/Funkadelic" title="Funkadelic">Funkadelic</a> beats designed to rumble your woofer while the matter-of-fact violence of the lyrics blows your smoke-filled mind".<sup id="cite_ref-Hoard_39-1" class="reference"><a href="#cite_note-Hoard-39"><span>[</span>39<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Accolades">Accolades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=7" title="Edit section: Accolades">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1994, "Nuthin' but a "G" Thang" and "Let Me Ride" were nominated at the <a href="/wiki/Grammy_Awards_of_1994" title="Grammy Awards of 1994" class="mw-redirect">36th Grammy Awards</a>, with the latter winning <a href="/wiki/Best_Rap_Solo_Performance" title="Best Rap Solo Performance" class="mw-redirect">Best Rap Solo Performance</a> for Dr. Dre.<sup id="cite_ref-Grammy_26-1" class="reference"><a href="#cite_note-Grammy-26"><span>[</span>26<span>]</span></a></sup> That year, readers of <i><a href="/wiki/Hip_Hop_Connection" title="Hip Hop Connection">Hip Hop Connection</a></i> voted it the fourth best album of all time, leading the magazine to speculate, "In a few years' time, it could even be remembered as <i>the</i> best rap album of all time."<sup id="cite_ref-45" class="reference"><a href="#cite_note-45"><span>[</span>45<span>]</span></a></sup></p>
+<p><i>The Chronic</i> was included in <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i> magazine's "100 Essential Albums of the 20th Century" and it was ranked at number six in their "Top&#160;10 Rap Albums of All Time". <i>Rolling Stone</i> ranked it at number 137 on their list of the <i><a href="/wiki/500_Greatest_Albums_of_All_Time" title="500 Greatest Albums of All Time" class="mw-redirect">500 Greatest Albums of All Time</a></i>.<sup id="cite_ref-RollingStoneTop500_28-2" class="reference"><a href="#cite_note-RollingStoneTop500-28"><span>[</span>28<span>]</span></a></sup> The record ranked at number eight in <i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i> magazine's "90 Greatest Albums of the '90s" and in 2005, it was ranked at number thirty-five in their "100 Greatest Albums, 1985–2005". <a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source magazine</a> originally gave the album four and a half mics out of five<sup id="cite_ref-Matty_40-2" class="reference"><a href="#cite_note-Matty-40"><span>[</span>40<span>]</span></a></sup> and it was added to The Source's 100 Best Rap Albums. It was later revealed that while everybody at the magazine knew it was an instant classic, the music editor at that time had a strict policy of staying away from a perfect rating.<sup id="cite_ref-hiphpdx_46-0" class="reference"><a href="#cite_note-hiphpdx-46"><span>[</span>46<span>]</span></a></sup> In 2005, <a href="/wiki/MTV_Networks" title="MTV Networks" class="mw-redirect">MTV Networks</a> listed <i>The Chronic</i> as the third greatest hip hop album in history.<sup id="cite_ref-MTV_47-0" class="reference"><a href="#cite_note-MTV-47"><span>[</span>47<span>]</span></a></sup> In 2006, <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i> magazine ranked it as one of the 100 greatest albums of all time<sup id="cite_ref-TIME_27-2" class="reference"><a href="#cite_note-TIME-27"><span>[</span>27<span>]</span></a></sup> and it was listed in the book <i><a href="/wiki/1001_Albums_You_Must_Hear_Before_You_Die" title="1001 Albums You Must Hear Before You Die">1001 Albums You Must Hear Before You Die</a></i>.<sup id="cite_ref-1001A_48-0" class="reference"><a href="#cite_note-1001A-48"><span>[</span>48<span>]</span></a></sup> In a retrospective issue, <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i> magazine awarded <i>The Chronic</i> a perfect "XXL" rating.<sup id="cite_ref-XXL_49-0" class="reference"><a href="#cite_note-XXL-49"><span>[</span>49<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Influence">Influence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=8" title="Edit section: Influence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:269px;"><a href="/wiki/File:Zig-Zag_Papers_%26_The_Chronic.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Zig-Zag_Papers_%26_The_Chronic.jpg/267px-Zig-Zag_Papers_%26_The_Chronic.jpg" width="267" height="153" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Zig-Zag_Papers_%26_The_Chronic.jpg/401px-Zig-Zag_Papers_%26_The_Chronic.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/4/48/Zig-Zag_Papers_%26_The_Chronic.jpg 2x" data-file-width="415" data-file-height="238" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Zig-Zag_Papers_%26_The_Chronic.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Comparison of <a href="/wiki/Zig-Zag_(company)" title="Zig-Zag (company)">Zig-Zag</a> rolling papers with <i>The Chronic</i> album cover</div>
+</div>
+</div>
+<p>Having split from <a href="/wiki/N.W.A" title="N.W.A">N.W.A</a>, Dr. Dre's first solo album established him as one of the biggest hip hop stars of his era.<sup id="cite_ref-RapCentral_5-1" class="reference"><a href="#cite_note-RapCentral-5"><span>[</span>5<span>]</span></a></sup> <a href="/wiki/Yahoo!_Music" title="Yahoo! Music">Yahoo! Music</a> writer S.L. Duff wrote of the album's impact on his status in hip hop at the time, stating "Dre's considerable reputation is based on this release, alongside his production technique on Snoop's <i>Doggy Style</i> and his early work with N.W.A. Whatever one thinks of the over-the-top bravado rapping, the tracks and beats Dre assembled are beyond reproach".<sup id="cite_ref-Duff_50-0" class="reference"><a href="#cite_note-Duff-50"><span>[</span>50<span>]</span></a></sup> <i>The Chronic</i> brought <a href="/wiki/G-funk" title="G-funk">G-funk</a> to the mainstream – a genre defined by slow bass beats and melodic synthesizers, topped by <a href="/wiki/P-Funk" title="P-Funk">P-Funk</a> samples, female vocals, and a <a href="/wiki/Laconic_phrase" title="Laconic phrase">laconic</a>, laid-back lyrical delivery referred to as a "lazy drawl". The album takes its name from a slang term for premium grade cannabis, Chronic. The album cover is an homage to <a href="/wiki/Zig-Zag_(company)" title="Zig-Zag (company)">Zig-Zag</a> rolling papers.<sup id="cite_ref-RapCentral_5-2" class="reference"><a href="#cite_note-RapCentral-5"><span>[</span>5<span>]</span></a></sup> <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a> said that, although he "can't stand" it, he respects <i>The Chronic</i> "for its influence and iconicity".<sup id="cite_ref-51" class="reference"><a href="#cite_note-51"><span>[</span>51<span>]</span></a></sup></p>
+<p>The album launched the careers of <a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast hip hop</a> artists, including <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Doggy Dogg</a>, <a href="/wiki/Daz_Dillinger" title="Daz Dillinger">Daz Dillinger</a>, <a href="/wiki/Kurupt" title="Kurupt">Kurupt</a>, <a href="/wiki/Nate_Dogg" title="Nate Dogg">Nate Dogg</a>, and <a href="/wiki/Warren_G" title="Warren G">Warren G</a>, Dr. Dre's stepbrother – all of whom pursued successful commercial careers.<sup id="cite_ref-RapCentral_5-3" class="reference"><a href="#cite_note-RapCentral-5"><span>[</span>5<span>]</span></a></sup> <i>The Chronic</i> is widely regarded as the album that re-defined West Coast hip hop,<sup id="cite_ref-Huey_6-4" class="reference"><a href="#cite_note-Huey-6"><span>[</span>6<span>]</span></a></sup> demonstrated <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a>'s commercial potential as a multi-<a href="/wiki/Music_recording_sales_certification" title="Music recording sales certification">platinum</a> commodity, and established G-funk as the most popular sound in hip hop music for several years after its release, with Dr. Dre producing major albums that drew heavily on his production style.<sup id="cite_ref-AMG-Bio_8-1" class="reference"><a href="#cite_note-AMG-Bio-8"><span>[</span>8<span>]</span></a></sup> The album's success established <a href="/wiki/Death_Row_Records" title="Death Row Records">Death Row Records</a> as a dominant force in 1990s hip hop.<sup id="cite_ref-AMG-Bio_8-2" class="reference"><a href="#cite_note-AMG-Bio-8"><span>[</span>8<span>]</span></a></sup> It has been re-released 3 times, first as a remastered CD, then as a remastered <a href="/wiki/DualDisc" title="DualDisc">DualDisc</a> with enhanced stereo and four videos, and in 2009 as "The Chronic Re-Lit" with a bonus DVD containing a 30 minute interview and 7 unreleased tracks.<sup id="cite_ref-Huey_6-5" class="reference"><a href="#cite_note-Huey-6"><span>[</span>6<span>]</span></a></sup> The singles "Fuck wit Dre Day" and "Nuthin' but a "G" Thang" are in best-selling video game <i><a href="/wiki/Grand_Theft_Auto:_San_Andreas" title="Grand Theft Auto: San Andreas">Grand Theft Auto: San Andreas</a></i><sup id="cite_ref-BBC_52-0" class="reference"><a href="#cite_note-BBC-52"><span>[</span>52<span>]</span></a></sup><sup id="cite_ref-SOSD_53-0" class="reference"><a href="#cite_note-SOSD-53"><span>[</span>53<span>]</span></a></sup> on the fictional radio station <a href="/wiki/Radio_Los_Santos" title="Radio Los Santos" class="mw-redirect">Radio Los Santos</a>.<sup id="cite_ref-IGN_54-0" class="reference"><a href="#cite_note-IGN-54"><span>[</span>54<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=9" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>All songs produced by <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>.</li>
+</ul>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 100%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"The Chronic (Intro)" <span style="font-size:85%;">(featuring <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:57</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Fuck_wit_Dre_Day_(And_Everybody%27s_Celebratin%27)" title="Fuck wit Dre Day (And Everybody's Celebratin')">Fuck wit Dre Day (And Everybody's Celebratin')</a>" <span style="font-size:85%;">(featuring Snoop Dogg, <a href="/wiki/RBX" title="RBX">RBX</a> and <a href="/wiki/Jewell_(singer)" title="Jewell (singer)">Jewell</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:52</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Let_Me_Ride" title="Let Me Ride">Let Me Ride</a>" <span style="font-size:85%;">(featuring Snoop Dogg, Ruben and Jewell)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:21</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"The Day the Niggaz Took Over" <span style="font-size:85%;">(featuring Snoop Dogg, RBX and <a href="/wiki/Daz_Dillinger" title="Daz Dillinger">Dat Nigga Daz</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:33</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Nuthin%27_but_a_%27G%27_Thang" title="Nuthin' but a 'G' Thang">Nuthin' but a 'G' Thang</a>" <span style="font-size:85%;">(featuring Snoop Dogg)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:58</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Deeez Nuuuts" <span style="font-size:85%;">(featuring <a href="/wiki/Warren_G" title="Warren G">Warren G</a>, Snoop Dogg, Dat Nigga Daz and <a href="/wiki/Nate_Dogg" title="Nate Dogg">Nate Dogg</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:06</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Lil' Ghetto Boy" <span style="font-size:85%;">(featuring Snoop Dogg and Dat Nigga Daz)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:27</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"A Nigga Witta Gun" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:53</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Rat-Tat-Tat-Tat" <span style="font-size:85%;">(featuring RBX, Snoop Dogg and BJ)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:48</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"The $20 Sack Pyramid (Skit)" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:53</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Lyrical Gangbang" <span style="font-size:85%;">(featuring <a href="/wiki/The_Lady_of_Rage" title="The Lady of Rage">The Lady of Rage</a>, <a href="/wiki/Kurupt" title="Kurupt">Kurupt</a> and RBX)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:04</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"High Powered" <span style="font-size:85%;">(featuring Lady of Rage, RBX and Dat Nigga Daz)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:44</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"The Doctor's Office" (Skit)" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:04</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Stranded on Death Row" <span style="font-size:85%;">(featuring <a href="/wiki/Bushwick_Bill" title="Bushwick Bill">Bushwick Bill</a>, Kurupt, RBX, The Lady of Rage and Snoop Dogg)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:47</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"The Roach (The Chronic Outro)" <span style="font-size:85%;">(featuring RBX, Emmage, Ruben, Dat Nigga Daz, The Lady of Rage and Jewell)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:36</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Bitches_Ain%27t_Shit" title="Bitches Ain't Shit">Bitches Ain't Shit</a>" <span style="font-size:85%;">(featuring Snoop Dogg, Dat Nigga Daz, Kurupt and Jewell)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:48</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff"><i>The Chronic</i>: Dualdisc Limited Edition DVD Side<sup id="cite_ref-55" class="reference"><a href="#cite_note-55"><span>[</span>55<span>]</span></a></sup></th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Performer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"<i>The Chronic</i>" <span style="font-size:85%;">(In Enhanced Stereo)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">62:04</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Nuthin' But A 'G' Thang" <span style="font-size:85%;">(Original Music Video)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:47</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Let Me Ride" <span style="font-size:85%;">(Original Music Video)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:54</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Dre Day" <span style="font-size:85%;">(Original Music Video)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:15</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Lil' Ghetto Boy" <span style="font-size:85%;">(Original Music Video)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:04</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff"><i>The Chronic</i>: Remastered Edition Bonus Material<sup id="cite_ref-56" class="reference"><a href="#cite_note-56"><span>[</span>56<span>]</span></a></sup></th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 100%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"Dre Day" <span style="font-size:85%;">(Original Music Video)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:15</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff"><i>The Chronic</i>: Re-Lit &amp; From The Vault Bonus DVD<sup id="cite_ref-57" class="reference"><a href="#cite_note-57"><span>[</span>57<span>]</span></a></sup></th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 100%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Dre Day" <span style="font-size:85%;">(Original Music Video)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:15</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Dre Day" <span style="font-size:85%;">(Censored Music Video)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:14</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"Let Me Ride" <span style="font-size:85%;">(Original Music Video)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:54</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Let Me Ride" <span style="font-size:85%;">(TV Version Music Video)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:24</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Nuthin' But A 'G' Thang" <span style="font-size:85%;">(Original Music Video)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:47</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Nuthin' But A 'G' Thang" <span style="font-size:85%;">(Unrated Music Video)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:48</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Lil' Ghetto Boy" <span style="font-size:85%;">(Original Music Video)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:04</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Dr. Dre Interview" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">30:22</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"The Robbery" <span style="font-size:85%;">(Featurette)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:34</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"'The Chronic' Promo #1" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:36</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"'The Chronic' Promo #2" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:36</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"'The Chronic' Promo #3" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:36</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"'The Chronic' Promo #4" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:36</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"'The Chronic' Promo #5" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:36</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"'The Chronic' Commercial #1" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:36</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"'The Chronic' Commercial #2" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:36</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"'The Chronic' Commercial #3" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:36</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"'The Chronic' Commercial #4" &#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">0:36</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"Dr. Dre in Saigon, CA" <span style="font-size:85%;">(Featurette)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:24</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">20.</td>
+<td style="text-align: left; vertical-align: top;">"Poor Young Dave" <span style="font-size:85%;">(Audio) (performed by <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:54</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">21.</td>
+<td style="text-align: left; vertical-align: top;">"Slippin' In The West" <span style="font-size:85%;">(Audio) (performed by CPO and Kurupt)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:06</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">22.</td>
+<td style="text-align: left; vertical-align: top;">"Smoke Enough Bud" <span style="font-size:85%;">(Audio) (performed by <a href="/wiki/Jewell_(singer)" title="Jewell (singer)">Jewell</a> and <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:26</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">23.</td>
+<td style="text-align: left; vertical-align: top;">"Foo Nay Mic" <span style="font-size:85%;">(Audio) (performed by CPO)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:24</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">24.</td>
+<td style="text-align: left; vertical-align: top;">"Dogg Collar" <span style="font-size:85%;">(Audio) (performed by <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>, Lady V, KV, Big Pimpin', 6'9°, Twin and Badass)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:04</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">25.</td>
+<td style="text-align: left; vertical-align: top;">"Touchdown" <span style="font-size:85%;">(Audio) (performed by <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a> and Threat)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:26</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">26.</td>
+<td style="text-align: left; vertical-align: top;">"Would You Ride" <span style="font-size:85%;">(Audio) (performed by Kurupt, Amber, Tyrone, Daz and <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>)</span></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:29</td>
+</tr>
+</table>
+<dl>
+<dt>Samples</dt>
+</dl>
+<ul>
+<li>"The Chronic (Intro)" contains samples of "Impeach the President" by <a href="/wiki/The_Honey_Drippers_(soul_band)" title="The Honey Drippers (soul band)" class="mw-redirect">The Honey Drippers</a>, "Get Out of My Life, Woman" by <a href="/wiki/Solomon_Burke" title="Solomon Burke">Solomon Burke</a>, "Funky Worm" by <a href="/wiki/Ohio_Players" title="Ohio Players">Ohio Players</a>, "Country Cooking" by Jim Dandy, "The Shalimar" by Gylan Kain and "Colour Me Funky" by <a href="/wiki/Parliament_(band)" title="Parliament (band)">Parliament</a>.</li>
+<li>"Fuck wit Dre Day (And Everybody's Celebratin')" contains samples of "<a href="/wiki/Atomic_Dog" title="Atomic Dog">Atomic Dog</a>" by <a href="/wiki/George_Clinton_(funk_musician)" title="George Clinton (funk musician)" class="mw-redirect">George Clinton</a>, "<a href="/wiki/(Not_Just)_Knee_Deep" title="(Not Just) Knee Deep">(Not Just) Knee Deep</a>" by <a href="/wiki/Funkadelic" title="Funkadelic">Funkadelic</a> and "Funkentelechy", "The Big Bang Theory", "Aquaboogie (A Psychoalphadiscobetabioaquadoloop)" by <a href="/wiki/Parliament_(band)" title="Parliament (band)">Parliament</a>.</li>
+<li>"Let Me Ride" contains samples of "Kissin' My Love" (Drums) by <a href="/wiki/Bill_Withers" title="Bill Withers">Bill Withers</a> and "<a href="/wiki/Funky_Drummer" title="Funky Drummer">Funky Drummer</a>" (Drums) by <a href="/wiki/James_Brown" title="James Brown">James Brown</a>.</li>
+<li>"The Day the Niggaz Took Over" contains samples of "Love's Gonna Get'cha (Material Love)" by <a href="/wiki/Boogie_Down_Productions" title="Boogie Down Productions">Boogie Down Productions</a>.</li>
+<li>"Nuthin' but a 'G' Thang" contains samples of "I Wanna Do Something Freaky to You" by <a href="/wiki/Leon_Haywood" title="Leon Haywood">Leon Haywood</a> and "Uphill (Peace of mind)" by <a href="/wiki/Frederick_Knight_(singer)" title="Frederick Knight (singer)">Frederick Knight</a>.</li>
+<li>"Deeez Nuuuts" contains samples of "Chestnuts" by <a href="/wiki/Rudy_Ray_Moore" title="Rudy Ray Moore">Rudy Ray Moore</a> and the Perry Mason episode "The Case of the Runaway Corpse".</li>
+<li>"Lil' Ghetto Boy" contains samples of "Little Ghetto Boy" by <a href="/wiki/Donny_Hathaway" title="Donny Hathaway">Donny Hathaway</a> and "The Get Out of the Ghetto Blues" by <a href="/wiki/Gil_Scott-Heron" title="Gil Scott-Heron">Gil Scott-Heron</a>.</li>
+<li>"A Nigga Witta Gun" contains samples of "Big Sur Suite" by <a href="/wiki/Johnny_%22Hammond%22_Smith" title="Johnny &quot;Hammond&quot; Smith">Johnny "Hammond" Smith</a>, "Who's the Man (With the Master Plan)" by the <a href="/wiki/Kay_Gees" title="Kay Gees">Kay Gees</a> and "Friends" by <a href="/wiki/Whodini" title="Whodini">Whodini</a>.</li>
+<li>"Rat-Tat-Tat-Tat" contains samples of "Vegetable Wagon" by <a href="/wiki/Donny_Hathaway" title="Donny Hathaway">Donny Hathaway</a>, "Brothers Gonna Work it Out" by <a href="/wiki/Willie_Hutch" title="Willie Hutch">Willie Hutch</a> and "Pot Belly" by <a href="/wiki/Lou_Donaldson" title="Lou Donaldson">Lou Donaldson</a>.</li>
+<li>"The $20 Sack Pyramid" contains samples of "Papa Was Too" (Live) by <a href="/wiki/Joe_Tex" title="Joe Tex">Joe Tex</a>.</li>
+<li>"Lyrical Gangbang" contains samples of "Damn" by The Nite-Liters and "<a href="/wiki/When_the_Levee_Breaks" title="When the Levee Breaks">When the Levee Breaks</a>" by <a href="/wiki/Led_Zeppelin" title="Led Zeppelin">Led Zeppelin</a>.</li>
+<li>"High Powered" contains samples of "Buffalo Gals" by Malcolm McLaren.</li>
+<li>"Stranded on Death Row" contains samples of "Do Your Thing" (Live) by <a href="/wiki/Isaac_Hayes" title="Isaac Hayes">Isaac Hayes</a>, "If it Don't Turn You on (You Outta Leave it Alone)" by <a href="/wiki/B.T._Express" title="B.T. Express" class="mw-redirect">B.T. Express</a> and "The Jam" by <a href="/wiki/Graham_Central_Station" title="Graham Central Station">Graham Central Station</a>.</li>
+<li>"The Roach (The Chronic Outro)" contains samples of "<a href="/wiki/P-Funk_(Wants_to_Get_Funked_Up)" title="P-Funk (Wants to Get Funked Up)" class="mw-redirect">P-Funk (Wants to Get Funked Up)</a>", "Colour Me Funky" by Parliament and "Impeach the President" (Drums) by The Honeydrippers.</li>
+<li>"Bitches Ain't Shit" contains samples of "Adolescent Funk" by <a href="/wiki/Funkadelic" title="Funkadelic">Funkadelic</a> and "Let's Get Small" by Trouble Funk.</li>
+</ul>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=10" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tr>
+<th>Charts<sup id="cite_ref-AMG-Sales_31-1" class="reference"><a href="#cite_note-AMG-Sales-31"><span>[</span>31<span>]</span></a></sup><sup id="cite_ref-acharts_33-1" class="reference"><a href="#cite_note-acharts-33"><span>[</span>33<span>]</span></a></sup></th>
+<th>Peak<br />
+position</th>
+</tr>
+<tr>
+<td>Ireland Albums Top 75</td>
+<td style="text-align:center;">48</td>
+</tr>
+<tr>
+<td>U.K. Albums Top 75</td>
+<td style="text-align:center;">43</td>
+</tr>
+<tr>
+<td>U.S. <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a></td>
+<td style="text-align:center;">3</td>
+</tr>
+<tr>
+<td>U.S. <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td>U.S. Top Indie Albums<sup id="cite_ref-58" class="reference"><a href="#cite_note-58"><span>[</span>58<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=11" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> – <a href="/wiki/Singing" title="Singing">vocals</a>, <a href="/wiki/Musical_keyboard" title="Musical keyboard">keyboards</a>, <a href="/wiki/Record_producer" title="Record producer">producer</a>, drum programming, mixing</li>
+<li><a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Doggy Dogg</a> – vocals</li>
+<li><a href="/wiki/Lady_of_Rage" title="Lady of Rage" class="mw-redirect">Lady of Rage</a> – vocals</li>
+<li><a href="/wiki/Warren_G" title="Warren G">Warren G</a> – vocals</li>
+<li><a href="/wiki/The_D.O.C." title="The D.O.C.">The D.O.C.</a> – co-writer</li>
+<li><a href="/wiki/RBX" title="RBX">RBX</a> – vocals</li>
+<li><a href="/wiki/Nate_Dogg" title="Nate Dogg">Nate Dogg</a> – vocals</li>
+<li><a href="/wiki/Daz_Dillinger" title="Daz Dillinger">Dat Nigga Daz</a> – vocals, drum programming</li>
+<li><a href="/wiki/Kurupt" title="Kurupt">Kurupt</a> – vocals</li>
+<li><a href="/wiki/Suge_Knight" title="Suge Knight">Suge Knight</a> – executive producer</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1993_(U.S.)" title="List of number-one R&amp;B albums of 1993 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1993 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation book">Smith, Chris (2009). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=G4mP7u6mPdkC&amp;pg=PA221&amp;lpg=PA221&amp;dq=dr.+dre+the+chronic+%22death+row+studios%22&amp;source=bl&amp;ots=7CTNOcpHPF&amp;sig=RazwYpXYAWLx4R-haCxieS8hUGI&amp;hl=en&amp;sa=X&amp;ei=H2TwUs-1E4O_kQe7p4GQDw&amp;ved=0CFwQ6AEwCjgK#v=onepage&amp;q=dr.%20dre%20the%20chronic%20%22death%20row%20studios%22&amp;f=false"><i>101 Albums That Changed Popular Music</i></a>. <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>. p.&#160;221.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Chronic&amp;rft.aulast=Smith%2C+Chris&amp;rft.au=Smith%2C+Chris&amp;rft.btitle=101+Albums+That+Changed+Popular+Music&amp;rft.date=2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DG4mP7u6mPdkC%26pg%3DPA221%26lpg%3DPA221%26dq%3Ddr.%2Bdre%2Bthe%2Bchronic%2B%2522death%2Brow%2Bstudios%2522%26source%3Dbl%26ots%3D7CTNOcpHPF%26sig%3DRazwYpXYAWLx4R-haCxieS8hUGI%26hl%3Den%26sa%3DX%26ei%3DH2TwUs-1E4O_kQe7p4GQDw%26ved%3D0CFwQ6AEwCjgK%23v%3Donepage%26q%3Ddr.%2520dre%2520the%2520chronic%2520%2522death%2520row%2520studios%2522%26f%3Dfalse&amp;rft.pages=221&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AMG-NBAGT-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-AMG-NBAGT_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AMG-NBAGT_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AMG-NBAGT_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-AMG-NBAGT_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-AMG-NBAGT_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Steve Huey. <a rel="nofollow" class="external text" href="http://www.allmusic.com/song/t2554543">"Nuthin' But a "G" Thang" Review</a>. Allmusic. Accessed March 6, 2008.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://riaa.com/goldandplatinumdata.php?content_selector=gold-platinum-searchable-database">RIAA - Gold &amp; Platinum Searchable Database - December 26, 2013</a></span></li>
+<li id="cite_note-NYTimes-ThePopLife-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYTimes-ThePopLife_4-0">^</a></b></span> <span class="reference-text">Stephen Holden (January 12, 1994). <a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9905E3D61231F931A25752C0A962958260&amp;scp=22&amp;sq=%22Dr.+Dre%22&amp;st=nyt">The Pop Life</a>. <i>The New York Times</i>. Accessed March 24, 2008.</span></li>
+<li id="cite_note-RapCentral-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-RapCentral_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RapCentral_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-RapCentral_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-RapCentral_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rapcentral.co.uk/drdreLyricsCHRON.html">Dr. Dre The Chronic Album Info</a>. RapCentral. Accessed March 5, 2008.</span></li>
+<li id="cite_note-Huey-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Huey_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Huey_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Huey_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Huey_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Huey_6-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Huey_6-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Huey, Steve. "<a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r70573/review">The Chronic - Dr. Dre</a>". <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>. Retrieved on 2009-08-12.</span></li>
+<li id="cite_note-BBC25Years-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-BBC25Years_7-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/entertainment/music/3734910.stm">Timeline: 25 years of rap records</a> BBC News (October 11, 2004). Accessed April 8, 2008.</span></li>
+<li id="cite_note-AMG-Bio-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-AMG-Bio_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AMG-Bio_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AMG-Bio_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Stephen Thomas Erlewine. <a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p26119/biography">Dr. Dre &gt; Biography</a>. Allmusic. Accessed March 5, 2008.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Ethan Brown, (2005). <i>Straight Outta Hollis, Queens Reigns Supreme: Fat Cat, 50 Cent, and the Rise of the Hip Hop Hustler</i>. Anchor. <a href="/wiki/Special:BookSources/1400095239" class="internal mw-magiclink-isbn">ISBN 1-4000-9523-9</a>. "[Unlike] popular hip-hop producers like the Bomb Squad, Dre instead utilized a single sample to drive a song."</span></li>
+<li id="cite_note-TheImmortals-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-TheImmortals_10-0">^</a></b></span> <span class="reference-text">Kanye West (April 7, 2005). <a rel="nofollow" class="external text" href="http://www.rollingstone.com/news/story/7235469/the_immortals__the_greatest_artists_of_all_time_54_dr_dre">The Immortals – The Greatest Artists of All Time</a>. <i>Rolling Stone</i>. Accessed March 9, 2008. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080316051531/http://www.rollingstone.com/news/story/7235469/the_immortals__the_greatest_artists_of_all_time_54_dr_dre">Archived</a> March 16, 2008 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span></li>
+<li id="cite_note-NYTimes-Dr.Dre-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYTimes-Dr.Dre_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYTimes-Dr.Dre_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Jon Pareles (November 14, 1999). <a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9F03E6DF103AF937A25752C1A96F958260&amp;scp=10&amp;sq=The+Chronic+Dr.+Dre&amp;st=nyt">Music; Still Tough, Still Authentic. Still Relevant?</a>. <i>The New York Times</i>. Accessed March 18, 2008.</span></li>
+<li id="cite_note-NYTimes-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYTimes_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYTimes_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Jon Pareles (July 11, 2000). <a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9C07E2DE123BF934A25754C0A9669C8B63&amp;scp=1&amp;sq=The+Chronic+Dr.+Dre&amp;st=nyt">Rap Review; Four Hours Of Swagger From Dr. Dre And Friends</a>. <i>The New York Times</i>. Accessed March 18, 2008.</span></li>
+<li id="cite_note-AMG-BeastieBoys-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMG-BeastieBoys_13-0">^</a></b></span> <span class="reference-text">Stephen Thomas Erlewine. <a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p10/biography">Beastie Boys &gt; Biography</a>. Allmusic. Accessed April 6, 2008.</span></li>
+<li id="cite_note-AMG-PublicEnemy-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMG-PublicEnemy_14-0">^</a></b></span> <span class="reference-text">Stephen Thomas Erlewine. <a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p86/biography">Public Enemy &gt; Biography</a>. Allmusic. Accessed April 6, 2008.</span></li>
+<li id="cite_note-AMG-XClan-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMG-XClan_15-0">^</a></b></span> <span class="reference-text">Andy Kellman. <a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p140096/biography">X Clan Biography</a>. Allmusic. Accessed April 6, 2008.</span></li>
+<li id="cite_note-Nelson-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Nelson_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Nelson_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Nelson_16-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Nelson, Havelock (1993-03-18). <a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/albumreviews/the-chronic-19930318">"The Chronic"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20080621070607/http://www.rollingstone.com/artists/drdre/albums/album/111976/review/18944957/the_chronic">Archived</a> from the original on 2008-06-21<span class="reference-accessdate">. Retrieved 2012-09-08</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Chronic&amp;rft.aufirst=Havelock&amp;rft.aulast=Nelson&amp;rft.au=Nelson%2C+Havelock&amp;rft.btitle=The+Chronic&amp;rft.date=1993-03-18&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Falbumreviews%2Fthe-chronic-19930318&amp;rft.pub=%27%27Rolling+Stone%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AMG-FWDD-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-AMG-FWDD_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AMG-FWDD_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AMG-FWDD_17-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Steve Huey. <a rel="nofollow" class="external text" href="http://www.allmusic.com/song/t2554540">"Fuck Wit Dre Day" Review</a>. Allmusic. Accessed March 6, 2008.</span></li>
+<li id="cite_note-AMG-SnoopDogg-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMG-SnoopDogg_18-0">^</a></b></span> <span class="reference-text">Stephen Thomas Erlewine. <a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p41625/biography">Snoop Dogg &gt; Biography</a>. Allmusic. Accessed March 7, 2008.</span></li>
+<li id="cite_note-NYTimes-SnoopDogg-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYTimes-SnoopDogg_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYTimes-SnoopDogg_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Touré (November 21, 1993). <a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFDB133DF932A15752C1A965958260&amp;sec=&amp;spon=&amp;pagewanted=2">Pop Music; Snoop Dogg's Gentle Hip-Hop Growl</a>. <i>The New York Times</i>. Accessed March 18, 2008.</span></li>
+<li id="cite_note-AMG-Singles-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-AMG-Singles_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AMG-Singles_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AMG-Singles_20-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r70573/charts-awards/billboard-single">The Chronic – Billboard Singles</a>. Allmusic. Accessed March 6, 2008.</span></li>
+<li id="cite_note-RIAA-Singles-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-RIAA-Singles_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RIAA-Singles_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=&amp;artist=Dr.%20Dre&amp;format=single&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2007&amp;sort=Artist&amp;perPage=25">RIAA Searchable database – Dr. Dre Singles</a>. RIAA. Accessed March 7, 2008.</span></li>
+<li id="cite_note-RockOnTheNet-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-RockOnTheNet_22-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rockonthenet.com/artists-d/drdre.htm">Dr. Dre Timeline</a>. Rock on the Net. Accessed March 22, 2008.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.acclaimedmusic.net">http://www.acclaimedmusic.net</a></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.vh1.com/shows/dyn/the_greatest/127759/episode_featured_copy.jhtml">"The Greatest | Show Cast, Episodes, Guides, Trailers, Web Exclusives, Previews"</a>. VH1.com<span class="reference-accessdate">. Retrieved 2011-09-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Chronic&amp;rft.btitle=The+Greatest+%26%23124%3B+Show+Cast%2C+Episodes%2C+Guides%2C+Trailers%2C+Web+Exclusives%2C+Previews&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.vh1.com%2Fshows%2Fdyn%2Fthe_greatest%2F127759%2Fepisode_featured_copy.jhtml&amp;rft.pub=VH1.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mtv.com/music/artist/dr_dre/albums.jhtml?albumId=611908">Dr. Dre | Let Me Ride (Dirty Cassette Single) | Album</a>. MTV. Accessed April 7, 2008.</span></li>
+<li id="cite_note-Grammy-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-Grammy_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Grammy_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.grammy.com/GRAMMY_Awards/Winners/Results.aspx">Grammy Searchable database – Dr. Dre</a>. Grammy. Accessed March 4, 2008.</span></li>
+<li id="cite_note-TIME-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-TIME_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TIME_27-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-TIME_27-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Josh Tyrangiel (November 13, 2006). <a rel="nofollow" class="external text" href="http://www.time.com/time/2006/100albums/0,27693,The_Chronic,00.html">The All-Time 100 Albums</a>. <i>Time</i>. Accessed March 4, 2008.</span></li>
+<li id="cite_note-RollingStoneTop500-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-RollingStoneTop500_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RollingStoneTop500_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-RollingStoneTop500_28-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/news/story/6598730/137_the_chronic">500 Greatest Albums of All Time</a>. <i>Rolling Stone</i> (November 1, 2003). Accessed March 4, 2008. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080307000319/http://www.rollingstone.com/news/story/6598730/137_the_chronic">Archived</a> March 7, 2008 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span></li>
+<li id="cite_note-RIAA-TheChronic-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-RIAA-TheChronic_29-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=The%20Chronic&amp;artist=Dr.%20Dre&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2007&amp;sort=Artist&amp;perPage=25">RIAA Searchable database – <i>The Chronic</i></a>. RIAA. Accessed March 4, 2008.</span></li>
+<li id="cite_note-RIAA-2001-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-RIAA-2001_30-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=2001&amp;artist=Dr.%20Dre&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2007&amp;sort=Artist&amp;perPage=25">RIAA Searchable database – <i>2001</i></a>. RIAA. Accessed March 4, 2008.</span></li>
+<li id="cite_note-AMG-Sales-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-AMG-Sales_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AMG-Sales_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p26119/charts-awards">Dr. Dre – Discography, Charts and Awards</a>. Allmusic. Accessed March 4, 2008.</span></li>
+<li id="cite_note-bbsingles-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-bbsingles_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bbsingles_32-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bbsingles_32-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r70573/charts-awards/billboard-single">Billboard Singles: <i>The Chronic</i></a>. Allmusic. Retrieved on 2009-08-12.</span></li>
+<li id="cite_note-acharts-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-acharts_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-acharts_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://acharts.us/album/16663">Dr. Dre – The Chronic Chart Positions</a>. aCharts. Accessed March 4, 2008.</span></li>
+<li id="cite_note-Pappademas-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pappademas_34-0">^</a></b></span> <span class="reference-text">Pappademas, Alex. "<a rel="nofollow" class="external text" href="http://www.blender.com/guide/reissue/50913/chronic.html">Dr. Dre: The Chronic</a>". <i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i>. Retrieved on 2009-08-12.<sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since September 2012">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-Kot-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kot_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kot_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a href="/wiki/Greg_Kot" title="Greg Kot">Kot, Greg</a> (January 14, 1993). <a rel="nofollow" class="external text" href="http://articles.chicagotribune.com/1993-01-14/features/9303162240_1_nwa-chronic-andrew-dice-clay">"Dr. Dre The Chronic (Interscope)"</a>. <i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i><span class="reference-accessdate">. Retrieved April 15, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Chronic&amp;rft.atitle=Dr.+Dre+The+Chronic+%28Interscope%29&amp;rft.aufirst=Greg&amp;rft.au=Kot%2C+Greg&amp;rft.aulast=Kot&amp;rft.date=January+14%2C+1993&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farticles.chicagotribune.com%2F1993-01-14%2Ffeatures%2F9303162240_1_nwa-chronic-andrew-dice-clay&amp;rft.jtitle=Chicago+Tribune&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Christgau-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-Christgau_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Christgau_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Christgau, Robert</a> (March 1, 1994). <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/cg/cgv294-94.php">"Consumer Guide"</a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> (New York)<span class="reference-accessdate">. Retrieved April 15, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Chronic&amp;rft.atitle=Consumer+Guide&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.date=March+1%2C+1994&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fxg%2Fcg%2Fcgv294-94.php&amp;rft.jtitle=The+Village+Voice&amp;rft.place=New+York&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-EW-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-EW_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EW_37-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.cduniverse.com/productinfo.asp?pid=1631677&amp;style=music">"Dr Dre - Chronic CD Album"</a>. CD Universe<span class="reference-accessdate">. Retrieved 2012-09-08</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Chronic&amp;rft.btitle=Dr+Dre+-+Chronic+CD+Album&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cduniverse.com%2Fproductinfo.asp%3Fpid%3D1631677%26style%3Dmusic&amp;rft.pub=CD+Universe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Gold-38"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gold_38-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gold_38-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Gold, Jonathan (1992-12-27). "<a rel="nofollow" class="external text" href="http://articles.latimes.com/1992-12-27/entertainment/ca-4829_1_dirty-beats">The Rap's Flat, But Ya Can't Beat the Beat</a>". <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. Retrieved on 2009-08-12.</span></li>
+<li id="cite_note-Hoard-39"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hoard_39-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hoard_39-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Sinagra, Laura et al. In <a href="/wiki/Nathan_Brackett" title="Nathan Brackett">Brackett, Nathan</a>; Hoard, Christian (eds.). "<a rel="nofollow" class="external text" href="http://books.google.com/books?id=lRgtYCC6OUwC&amp;pg=PA249&amp;dq=">The Rolling Stone Album Guide</a>". p. 249. November 2, 2004. Portions posted at <span class="citation web"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/artists/dr-dre/albumguide">"Dr. Dre: Album Guide"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i><span class="reference-accessdate">. Retrieved 2012-09-08</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Chronic&amp;rft.btitle=Dr.+Dre%3A+Album+Guide&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fartists%2Fdr-dre%2Falbumguide&amp;rft.pub=%27%27Rolling+Stone%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Matty-40"><span class="mw-cite-backlink">^ <a href="#cite_ref-Matty_40-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Matty_40-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Matty_40-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">The Mind Squad (Matty C). "<a rel="nofollow" class="external text" href="http://www.webcitation.org/5qycSsYsj">Dr. Dre: The Chronic</a>". <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i>: 55. February 1993. Archived from <a rel="nofollow" class="external text" href="http://ifihavent.wordpress.com/2008/12/08/classic-review-the-chronic-in-the-source-1992/">the original</a> on 2009-08-12.</span></li>
+<li id="cite_note-Gundersen-41"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gundersen_41-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gundersen_41-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Gundersen, Edna. "<a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/USAToday/access/55172126.html?dids=55172126:55172126&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Mar+02%2C+1993&amp;author=Edna+Gundersen&amp;pub=USA+TODAY+(pre-1997+Fulltext)&amp;desc=Jesus+Jones+shows+%60Perverse'+grace&amp;pqatl=google">Jesus Jones shows 'Perverse' grace</a>". <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>: 04.D. March 2, 1993.</span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><span class="citation news">Christgau, Robert (July 12, 1994). <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/rock/ahmad-94.php">"Methods of Escape: Ahmad and Warren G."</a>. <i>The Village Voice</i><span class="reference-accessdate">. Retrieved July 5, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Chronic&amp;rft.atitle=Methods+of+Escape%3A+Ahmad+and+Warren+G.&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.date=July+12%2C+1994&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fxg%2Frock%2Fahmad-94.php&amp;rft.jtitle=The+Village+Voice&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><span class="citation news">Christgau, Robert (November 23, 1993). <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/cg/ts93-93.php">"Turkey Shoot"</a>. <i>The Village Voice</i><span class="reference-accessdate">. Retrieved July 5, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Chronic&amp;rft.atitle=Turkey+Shoot&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.date=November+23%2C+1993&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fxg%2Fcg%2Fts93-93.php&amp;rft.jtitle=The+Village+Voice&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Rhapsody-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rhapsody_44-0">^</a></b></span> <span class="reference-text">Brolin Winning. <a rel="nofollow" class="external text" href="http://www.rhapsody.com/drdre">About Dr. Dre</a>. Rhapsody. Accessed March 9, 2008.</span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Hip_Hop_Connection" title="Hip Hop Connection">Hip Hop Connection</a></i>, July 1994</span></li>
+<li id="cite_note-hiphpdx-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-hiphpdx_46-0">^</a></b></span> <span class="reference-text">Reginald C. Dennis <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/features/id.1125/">Death Of a Dynasty</a>. HipHopdx.com</span></li>
+<li id="cite_note-MTV-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-MTV_47-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mtv.com/bands/h/hip_hop_week/2005/greatest_albums_0505/index9.jhtml">The Greatest Hip-Hop Albums Of All Time</a>. MTV Networks. Accessed March 4, 2008.</span></li>
+<li id="cite_note-1001A-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-1001A_48-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rocklistmusic.co.uk/steveparker/1001albums.htm">1001 Albums You Must Hear Before You Die</a>. Rocklistmusic. Accessed March 5, 2008.</span></li>
+<li id="cite_note-XXL-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-XXL_49-0">^</a></b></span> <span class="reference-text">Columnist. "Retrospective: XXL Albums". <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i>: December 2007.</span></li>
+<li id="cite_note-Duff-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-Duff_50-0">^</a></b></span> <span class="reference-text"><span class="citation web">Duff, S.L. <a rel="nofollow" class="external text" href="http://www.webcitation.org/6AXBSIMJp">"Dr. Dre Reviews"</a>. <a href="/wiki/Yahoo!_Music" title="Yahoo! Music">Yahoo! Music</a>. <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a>. Archived from <a rel="nofollow" class="external text" href="http://music.ca.launch.yahoo.com/read/review/12043736">the original</a> on 2012-09-08<span class="reference-accessdate">. Retrieved 2012-09-08</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Chronic&amp;rft.au=Duff%2C+S.L.&amp;rft.aufirst=S.L.&amp;rft.aulast=Duff&amp;rft.btitle=Dr.+Dre+Reviews&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmusic.ca.launch.yahoo.com%2Fread%2Freview%2F12043736&amp;rft.pub=Yahoo%21+Music.+Yahoo%21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><span class="citation journal">Christgau, Robert (June 11, 2008). <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/xg/bl/carter-08.php">"The Great Lil Wayne Debate"</a>. <i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i><span class="reference-accessdate">. Retrieved July 5, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Chronic&amp;rft.atitle=The+Great+Lil+Wayne+Debate&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.date=June+11%2C+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fxg%2Fbl%2Fcarter-08.php&amp;rft.jtitle=Blender&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BBC-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-BBC_52-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/technology/4404088.stm">GTA: San Andreas toasts success</a>. BBC News (November 4, 2005). Accessed March 28, 2008.</span></li>
+<li id="cite_note-SOSD-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-SOSD_53-0">^</a></b></span> <span class="reference-text">Jonathan Sidener (September 25, 2007). <a rel="nofollow" class="external text" href="http://www.signonsandiego.com/news/business/20070925-9999-1n25halo.html">Microsoft pins Xbox 360 hopes on 'Halo 3' sales</a>. SignOnSanDiego. Accessed March 28, 2008. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080522200032/http://www.signonsandiego.com/news/business/20070925-9999-1n25halo.html">Archived</a> May 22, 2008 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span></li>
+<li id="cite_note-IGN-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-IGN_54-0">^</a></b></span> <span class="reference-text">Spence D. (October 27, 2004). <a rel="nofollow" class="external text" href="http://uk.music.ign.com/articles/561/561107p1.html">Grand Theft Auto: San Andreas – Radio Los Santos</a>. IGN. Accessed March 28, 2008.</span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.discogs.com/viewimages?release=644594">Images for Dr. Dre - The Chronic</a></span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.discogs.com/Dr-Dre-The-Chronic/release/298274">Dr. Dre - The Chronic (CD, Album) at Discogs</a></span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.discogs.com/Dr-Dre-The-Chronic-Re-Lit-From-The-Vault/release/1948570">Dr. Dre - The Chronic Re-Lit &amp; From The Vault (CD, Album) at Discogs</a></span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://books.google.com/books?id=NQgEAAAAMBAJ&amp;pg=PA40&amp;dq=Billboard+Mar+26,+1994&amp;hl=en&amp;ei=UlkqTNzdCIOC8gagy5nTCA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CC4Q6AEwAQ#v=onepage&amp;q=Billboard%20Mar%2026%2C%201994&amp;f=false">Billboard</a></i> March 26, 1994 p.88</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=14" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation book"><a href="/wiki/Nathan_Brackett" title="Nathan Brackett">Nathan Brackett</a>, Christian Hoard (2004). <i><a href="/wiki/Rolling_Stone_Album_Guide" title="Rolling Stone Album Guide" class="mw-redirect">The New Rolling Stone Album Guide</a></i>. Completely Revised and Updated 4th Edition. Simon and Schuster. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7432-0169-8" title="Special:BookSources/0-7432-0169-8">0-7432-0169-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Chronic&amp;rft.aulast=Nathan+Brackett%2C+Christian+Hoard&amp;rft.au=Nathan+Brackett%2C+Christian+Hoard&amp;rft.btitle=The+New+Rolling+Stone+Album+Guide&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-7432-0169-8&amp;rft.pub=Simon+and+Schuster&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Chronic&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/Dr-Dre-The-Chronic/master/33951">The Chronic</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.yaleherald.com/archive/xxviii/1999.10.15/ae/p15chronic.html">Parents' Weekend with Dr. Dre: <i>The Chronic</i></a> at <i><a href="/wiki/The_Yale_Herald" title="The Yale Herald">The Yale Herald</a></i></li>
+<li><i><a rel="nofollow" class="external text" href="http://www.playthishiphop.com/listen-dr-dre-the-chronic-full-album">The Chronic Stream</a></i></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Dr._Dre" title="Template:Dr. Dre"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Dr._Dre" title="Template talk:Dr. Dre"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Dr._Dre&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/Dr._Dre_discography" title="Dr. Dre discography">Discography</a></li>
+<li><a href="/wiki/Dr._Dre_production_discography" title="Dr. Dre production discography">Production discography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><strong class="selflink">The Chronic</strong></i></li>
+<li><i><a href="/wiki/2001_(Dr._Dre_album)" title="2001 (Dr. Dre album)">2001</a></i></li>
+<li><i><a href="/wiki/Detox_(Dr._Dre_album)" title="Detox (Dr. Dre album)" class="mw-redirect">Detox</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilation albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Concrete_Roots" title="Concrete Roots">Concrete Roots</a></i></li>
+<li><i><a href="/wiki/First_Round_Knock_Out" title="First Round Knock Out">First Round Knock Out</a></i></li>
+<li><i><a href="/wiki/Back_%27n_the_Day" title="Back 'n the Day">Back 'n the Day</a></i></li>
+<li><i><a href="/wiki/Dr._Dre_Presents_the_Aftermath" title="Dr. Dre Presents the Aftermath">Dr. Dre Presents the Aftermath</a></i></li>
+<li><i><a href="/wiki/Chronicle:_Best_of_the_Works" title="Chronicle: Best of the Works">Chronicle: Best of the Works</a></i></li>
+<li><i><a href="/wiki/Chronicles:_Death_Row_Classics" title="Chronicles: Death Row Classics">Chronicles: Death Row Classics</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Deep_Cover_(song)" title="Deep Cover (song)">Deep Cover</a>"</li>
+<li>"<a href="/wiki/Nuthin%27_but_a_%27G%27_Thang" title="Nuthin' but a 'G' Thang">Nuthin' but a 'G' Thang</a>"</li>
+<li>"<a href="/wiki/Fuck_wit_Dre_Day_(And_Everybody%27s_Celebratin%27)" title="Fuck wit Dre Day (And Everybody's Celebratin')">Fuck wit Dre Day</a>"</li>
+<li>"<a href="/wiki/Let_Me_Ride" title="Let Me Ride">Let Me Ride</a>"</li>
+<li>"<a href="/wiki/Natural_Born_Killaz" title="Natural Born Killaz">Natural Born Killaz</a>"</li>
+<li>"<a href="/wiki/Keep_Their_Heads_Ringin%27" title="Keep Their Heads Ringin'">Keep Their Heads Ringin'</a>"</li>
+<li>"<a href="/wiki/Been_There,_Done_That" title="Been There, Done That" class="mw-redirect">Been There, Done That</a>"</li>
+<li>"<a href="/wiki/Zoom_(Dr._Dre_song)" title="Zoom (Dr. Dre song)">Zoom</a>"</li>
+<li>"<a href="/wiki/Still_D.R.E." title="Still D.R.E.">Still D.R.E.</a>"</li>
+<li>"<a href="/wiki/Forgot_About_Dre" title="Forgot About Dre">Forgot About Dre</a>"</li>
+<li>"<a href="/wiki/The_Next_Episode" title="The Next Episode">The Next Episode</a>"</li>
+<li>"<a href="/wiki/The_Watcher_(Dr._Dre_song)" title="The Watcher (Dr. Dre song)">The Watcher</a>"</li>
+<li>"<a href="/wiki/Bad_Intentions" title="Bad Intentions">Bad Intentions</a>"</li>
+<li>"<a href="/wiki/The_Wash_(song)" title="The Wash (song)">The Wash</a>"</li>
+<li>"<a href="/wiki/Kush_(song)" title="Kush (song)">Kush</a>"</li>
+<li>"<a href="/wiki/I_Need_a_Doctor" title="I Need a Doctor">I Need a Doctor</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/We%27re_All_in_the_Same_Gang" title="We're All in the Same Gang">We're All in the Same Gang</a>"</li>
+<li>"<a href="/wiki/Funky_Flute" title="Funky Flute" class="mw-redirect">Funky Flute</a>"</li>
+<li>"<a href="/wiki/Let%27s_Play_House_(Tha_Dogg_Pound_song)" title="Let's Play House (Tha Dogg Pound song)">Let's Play House</a>"</li>
+<li>"<a href="/wiki/California_Love" title="California Love">California Love</a>"</li>
+<li>"<a href="/wiki/No_Diggity" title="No Diggity">No Diggity</a>"</li>
+<li>"<a href="/wiki/Ghetto_Fabulous_(song)" title="Ghetto Fabulous (song)">Ghetto Fabulous</a>"</li>
+<li>"<a href="/wiki/Guilty_Conscience" title="Guilty Conscience">Guilty Conscience</a>"</li>
+<li>"<a href="/wiki/Hello_(Ice_Cube_song)" title="Hello (Ice Cube song)">Hello</a>"</li>
+<li>"<a href="/wiki/Just_Be_a_Man_About_It" title="Just Be a Man About It">Just Be a Man About It</a>"</li>
+<li>"<a href="/wiki/The_Knoc_(song)" title="The Knoc (song)" class="mw-redirect">The Knoc</a>"</li>
+<li>"<a href="/wiki/Symphony_in_X_Major" title="Symphony in X Major">Symphony in X Major</a>"</li>
+<li>"<a href="/wiki/Encore_(Eminem_song)" title="Encore (Eminem song)">Encore</a>"</li>
+<li>"<a href="/wiki/Crack_a_Bottle" title="Crack a Bottle">Crack a Bottle</a>"</li>
+<li>"<a href="/wiki/Old_Time%27s_Sake" title="Old Time's Sake">Old Time's Sake</a>"</li>
+<li>"<a href="/wiki/Hell_Breaks_Loose" title="Hell Breaks Loose">Hell Breaks Loose</a>"</li>
+<li>"<a href="/wiki/The_Recipe_(song)" title="The Recipe (song)">The Recipe</a>"</li>
+<li>"<a href="/wiki/New_Day_(50_Cent_song)" title="New Day (50 Cent song)">New Day</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other songs</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Bitches_Ain%27t_Shit" title="Bitches Ain't Shit">Bitches Ain't Shit</a>"</li>
+<li>"<a href="/wiki/Fuck_You_(Dr._Dre_song)" title="Fuck You (Dr. Dre song)" class="mw-redirect">Fuck You</a>"</li>
+<li>"<a href="/wiki/Xxplosive" title="Xxplosive">Xxplosive</a>"</li>
+<li>"<a href="/wiki/What%27s_the_Difference_(song)" title="What's the Difference (song)" class="mw-redirect">What's the Difference</a>"</li>
+<li>"<a href="/wiki/Let%27s_Get_High" title="Let's Get High" class="mw-redirect">Let's Get High</a>"</li>
+<li>"<a href="/wiki/Put_It_on_Me" title="Put It on Me" class="mw-redirect">Put It on Me</a>"</li>
+<li>"<a href="/wiki/3_Kings_(Rick_Ross_song)" title="3 Kings (Rick Ross song)" class="mw-redirect">3 Kings</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Death_Row_Records" title="Death Row Records">Death Row Records</a></li>
+<li><a href="/wiki/Aftermath_Entertainment" title="Aftermath Entertainment">Aftermath Entertainment</a></li>
+<li><a href="/wiki/G-funk" title="G-funk">G-funk</a></li>
+<li><i><a href="/wiki/The_Wash_(film)" title="The Wash (film)">The Wash</a></i></li>
+<li><a href="/wiki/N.W.A" title="N.W.A">N.W.A</a></li>
+<li><a href="/wiki/World_Class_Wreckin%27_Cru" title="World Class Wreckin' Cru">World Class Wreckin' Cru</a></li>
+<li><a href="/wiki/Beats_Electronics" title="Beats Electronics">Beats Electronics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1035
+CPU time usage: 3.984 seconds
+Real time usage: 4.121 seconds
+Preprocessor visited node count: 15546/1000000
+Preprocessor generated node count: 65178/1500000
+Post‐expand include size: 134115/2048000 bytes
+Template argument size: 22334/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 6/500
+Lua time usage: 0.135/10.000 seconds
+Lua memory usage: 3.14 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:194546-0!*!0!!en!4!* and timestamp 20140530135531 and revision id 610734261
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=The_Chronic&amp;oldid=610734261">http://en.wikipedia.org/w/index.php?title=The_Chronic&amp;oldid=610734261</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1992_debut_albums" title="Category:1992 debut albums">1992 debut albums</a></li><li><a href="/wiki/Category:Dr._Dre_albums" title="Category:Dr. Dre albums">Dr. Dre albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Dr._Dre" title="Category:Albums produced by Dr. Dre">Albums produced by Dr. Dre</a></li><li><a href="/wiki/Category:Death_Row_Records_albums" title="Category:Death Row Records albums">Death Row Records albums</a></li><li><a href="/wiki/Category:G-funk_albums" title="Category:G-funk albums">G-funk albums</a></li><li><a href="/wiki/Category:Interscope_Records_albums" title="Category:Interscope Records albums">Interscope Records albums</a></li><li><a href="/wiki/Category:Cannabis_music" title="Category:Cannabis music">Cannabis music</a></li><li><a href="/wiki/Category:Albums_certified_multi-platinum_by_the_Recording_Industry_Association_of_America" title="Category:Albums certified multi-platinum by the Recording Industry Association of America">Albums certified multi-platinum by the Recording Industry Association of America</a></li><li><a href="/wiki/Category:Gangsta_rap_albums" title="Category:Gangsta rap albums">Gangsta rap albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_September_2012" title="Category:Articles with dead external links from September 2012">Articles with dead external links from September 2012</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Chronic&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Chronic" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/The_Chronic"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:The_Chronic"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/The_Chronic" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=The_Chronic&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=The_Chronic&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Chronic" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Chronic" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=The_Chronic&amp;oldid=610734261" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=The_Chronic&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q749154" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=The_Chronic&amp;id=610734261" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Chronic">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=The+Chronic&amp;oldid=610734261&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=The_Chronic&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/The_Chronic" title="The Chronic – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/The_Chronic" title="The Chronic – Catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/The_Chronic" title="The Chronic – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/The_Chronic" title="The Chronic – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/The_Chronic" title="The Chronic – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/The_Chronic" title="The Chronic – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/The_Chronic" title="The Chronic – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-gd"><a href="//gd.wikipedia.org/wiki/The_Chronic" title="The Chronic – Scottish Gaelic" lang="gd" hreflang="gd">Gàidhlig</a></li>
+													<li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/The_Chronic" title="The Chronic – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/The_Chronic" title="The Chronic – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/The_Chronic" title="The Chronic – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/The_Chronic" title="The Chronic – Georgian" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/The_Chronic" title="The Chronic – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/The_Chronic" title="The Chronic – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/The_Chronic" title="The Chronic – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/The_Chronic" title="The Chronic – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/The_Chronic" title="The Chronic – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/The_Chronic" title="The Chronic – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/The_Chronic" title="The Chronic – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/The_Chronic" title="The Chronic – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/The_Chronic" title="The Chronic – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q749154#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 May 2014 at 02:57.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/The_Chronic" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"mw.PopUpMediaTransform":"loading","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mw.PopUpMediaTransform&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":4378,"wgHostname":"mw1035"});
+}</script>
+	</body>
+</html>
+	

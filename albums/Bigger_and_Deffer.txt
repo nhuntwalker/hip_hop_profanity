@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Bigger and Deffer - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bigger_and_Deffer" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bigger_and_Deffer&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bigger_and_Deffer&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Bigger_and_Deffer" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bigger_and_Deffer","wgTitle":"Bigger and Deffer","wgCurRevisionId":599905606,"wgRevisionId":599905606,"wgArticleId":381418,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from July 2011","Articles with hAudio microformats","Articles with album ratings that need to be turned into prose","1987 albums","LL Cool J albums","Def Jam Recordings albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bigger_and_Deffer","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1954577"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Bigger_and_Deffer skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Bigger and Deffer</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Bigger and Deffer</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:LL_Cool_J_-_Bigger_and_Deffer.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9d/LL_Cool_J_-_Bigger_and_Deffer.jpg/220px-LL_Cool_J_-_Bigger_and_Deffer.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/9/9d/LL_Cool_J_-_Bigger_and_Deffer.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/9/9d/LL_Cool_J_-_Bigger_and_Deffer.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/LL_Cool_J" title="LL Cool J">LL Cool J</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">June 2, 1987 (Debuted on Billboard's album charts on June 20)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1986–1987<br />
+<a href="/wiki/Chung_King_Studios" title="Chung King Studios">Chung King House of Metal</a> <small><br />
+(<a href="/wiki/New_York_City" title="New York City">New York City</a>)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Golden_age_hip_hop" title="Golden age hip hop">Golden age hip hop</a>, <a href="/wiki/New_Jack_Swing" title="New Jack Swing" class="mw-redirect">New Jack Swing</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>45:13</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam</a>, <a href="/wiki/Columbia_Records" title="Columbia Records">Columbia</a>, <a href="/wiki/Sony_Music_Entertainment" title="Sony Music Entertainment">CBS Records</a><br />
+<small>CK 40793 (North America)<br />
+450515 (international)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/L.A._Posse" title="L.A. Posse">L.A. Posse</a>, <a href="/wiki/DJ_Pooh" title="DJ Pooh">DJ Pooh</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/LL_Cool_J" title="LL Cool J">LL Cool J</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Radio_(LL_Cool_J_album)" title="Radio (LL Cool J album)">Radio</a></i><br />
+(1985)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Bigger and Deffer</b></i><br />
+(1987)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Walking_with_a_Panther" title="Walking with a Panther">Walking with a Panther</a></i><br />
+(1989)</td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Bigger and Deffer</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/I%27m_Bad" title="I'm Bad">I'm Bad</a>"</span><br />
+Released: June 13, 1987</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/I_Need_Love_(LL_Cool_J_song)" title="I Need Love (LL Cool J song)" class="mw-redirect">I Need Love</a>"</span><br />
+Released: July 2, 1987</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Go_Cut_Creator_Go" title="Go Cut Creator Go" class="mw-redirect">Go Cut Creator Go</a>"</span><br />
+Released: October 15, 1987</span></li>
+</ol>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r28040">link</a></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="C+">C+</span><sup id="cite_ref-Christgau_1-0" class="reference"><a href="#cite_note-Christgau-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Q_(magazine)" title="Q (magazine)" class="mw-redirect">Q</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <a rel="nofollow" class="external text" href="http://www.buy.com/prod/bigger-deffer-explicit-version/q/loc/109/60115898.html">link</a></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Rhapsody_(online_music_service)" title="Rhapsody (online music service)">Rhapsody</a></td>
+<td style="vertical-align:middle">(favorable) <a rel="nofollow" class="external text" href="http://www.rhapsody.com/ll-cool-j/bigger-and-deffer--edited">link</a></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="2.5/5 stars"><img alt="2.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <a rel="nofollow" class="external text" href="http://books.google.com/books?id=lRgtYCC6OUwC&amp;pg=PA491&amp;vq=Living+Colour+Cool+J&amp;dq=LL+Cool+J+radio+rolling+stone&amp;source=gbs_search_s&amp;cad=0">link</a></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i></td>
+<td style="vertical-align:middle">(favorable) <a rel="nofollow" class="external text" href="http://books.google.com/books?id=FMeoFvPjVhMC&amp;pg=PA25">link</a></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Trouser_Press" title="Trouser Press">Trouser Press</a></i></td>
+<td style="vertical-align:middle">(mixed) <a rel="nofollow" class="external text" href="http://www.trouserpress.com/entry.php?a=ll_cool_j">link</a></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Yahoo!_Music" title="Yahoo! Music">Yahoo! Music</a></td>
+<td style="vertical-align:middle">(favorable) <a rel="nofollow" class="external text" href="http://www.webcitation.org/5srgrSl2e">link</a></td>
+</tr>
+</table>
+<p><i><b>Bigger and Deffer (BAD)</b></i>, is the second <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by <a href="/wiki/Rapper" title="Rapper" class="mw-redirect">rapper</a> <a href="/wiki/LL_Cool_J" title="LL Cool J">LL Cool J</a> and is remembered most for containing the first commercially successful "rap ballad", "<a href="/wiki/I_Need_Love_(LL_Cool_J_song)" title="I Need Love (LL Cool J song)" class="mw-redirect">I Need Love</a>". It also contains the single "<a href="/wiki/Go_Cut_Creator_Go" title="Go Cut Creator Go" class="mw-redirect">Go Cut Creator Go</a>", which paid homage to his DJ, and the breakthrough single in the U.K. "I'm Bad". With over 3 million copies sold in the United States alone, it stands as L L Cool J's biggest career album.</p>
+<p>In 1998, the album was selected as one of The Source's 100 Best Rap Albums, while receiving mixed reviews from other critics. The front cover photograph on the album was taken in front of <a href="/wiki/Andrew_Jackson_High_School_(Queens,_New_York)" title="Andrew Jackson High School (Queens, New York)" class="mw-redirect">Andrew Jackson High School</a> in <a href="/wiki/Queens" title="Queens">Queens</a> (which LL Cool J attended before dropping out in the 10th or 11th grade),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> and the back cover was shot in his grandmother's basement where he was living at the time. Both images were shot by <a href="/wiki/Glen_E._Friedman" title="Glen E. Friedman">Glen E. Friedman</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Track_listing"><span class="tocnumber">1</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Chart_history"><span class="tocnumber">2</span> <span class="toctext">Chart history</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Album"><span class="tocnumber">2.1</span> <span class="toctext">Album</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Singles"><span class="tocnumber">2.2</span> <span class="toctext">Singles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Personnel"><span class="tocnumber">3</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bigger_and_Deffer&amp;action=edit&amp;section=1" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>All songs written by J.T. Smith, Bobby Ervin, Darryl Pierce and Dwayne Simon, except where noted.</i></p>
+<ol>
+<li>"<a href="/wiki/I%27m_Bad" title="I'm Bad">I'm Bad</a>" – 4:39</li>
+<li>"Kanday" – 3:59</li>
+<li>"Get Down" – 3:23</li>
+<li>"Bristol Hotel" – 2:43</li>
+<li>"My Rhyme Ain't Done" – 3:45</li>
+<li>".357 – Break It On Down" <small>(Smith/Mark Jordan/Ervin/Pierce/Simon)</small> – 4:05</li>
+<li>"<a href="/wiki/Go_Cut_Creator_Go" title="Go Cut Creator Go" class="mw-redirect">Go Cut Creator Go</a>" – 3:57</li>
+<li>"Breakthrough" – 4:04</li>
+<li>"<a href="/wiki/I_Need_Love_(LL_Cool_J_song)" title="I Need Love (LL Cool J song)" class="mw-redirect">I Need Love</a>" <small>(Simon/Steven Ettenger/Ervin/Smith)</small> – 5:23</li>
+<li>"Ahh, Let's Get Ill" – 3:45</li>
+<li>"The Do Wop" – 4:59</li>
+<li>"On the Ill Tip (Skit)" – 0:31</li>
+</ol>
+<h2><span class="mw-headline" id="Chart_history">Chart history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bigger_and_Deffer&amp;action=edit&amp;section=2" title="Edit section: Chart history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Album">Album</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bigger_and_Deffer&amp;action=edit&amp;section=3" title="Edit section: Album">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2">Album</th>
+<th colspan="2">Chart positions</th>
+</tr>
+<tr>
+<th><a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a></th>
+<th>Top R&amp;B/Hip Hop Albums</th>
+</tr>
+<tr>
+<td>29 August 1987</td>
+<td><i>Bigger and Deffer</i></td>
+<td align="center">3</td>
+<td align="center">1 (11 weeks)</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bigger_and_Deffer&amp;action=edit&amp;section=4" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th>Single information</th>
+</tr>
+<tr>
+<td><b>"I'm Bad"</b>
+<ul>
+<li>Released: June 13, 1987</li>
+<li>B-side: Get Down</li>
+<li><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a> #84</li>
+<li><a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot Black Singles</a> #4</li>
+<li>Hot Dance Music/Maxi-Singles Sales #23</li>
+<li><a href="/wiki/Hot_Dance_Music/Club_Play" title="Hot Dance Music/Club Play" class="mw-redirect">Hot Dance Music/Club Play</a> #34</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><b>"I Need Love"</b>
+<ul>
+<li>Released: July 2, 1987 (entered Billboard's Hot 100 chart week ending August 1)</li>
+<li>B-side: "My Rhyme Ain't Done"</li>
+<li><i>Billboard</i> Hot 100 #14</li>
+<li>Hot Black Singles #1</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bigger_and_Deffer&amp;action=edit&amp;section=5" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Person</th>
+<th>Credit</th>
+</tr>
+<tr>
+<td><a href="/wiki/LL_Cool_J" title="LL Cool J">James Todd Smith</a> <small>a.k.a. LL Cool J</small></td>
+<td><a href="/wiki/Rapping" title="Rapping">vocals</a>, <a href="/wiki/Record_producer" title="Record producer">producer</a></td>
+</tr>
+<tr>
+<td>Bobby "Bobcat" Erving</td>
+<td><a href="/wiki/Disc_jockey" title="Disc jockey">disc jockey</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Russell_Simmons" title="Russell Simmons">Russell Simmons</a></td>
+<td><a href="/wiki/Record_production" title="Record production" class="mw-redirect">production supervisor</a></td>
+</tr>
+<tr>
+<td>Steven Ett</td>
+<td><a href="/wiki/Recording_engineer" title="Recording engineer" class="mw-redirect">engineer</a>, <a href="/wiki/Audio_mixing_(recorded_music)" title="Audio mixing (recorded music)">mixing</a></td>
+</tr>
+<tr>
+<td>Rod Hui</td>
+<td>engineer</td>
+</tr>
+<tr>
+<td>Jay Henry</td>
+<td>engineer</td>
+</tr>
+<tr>
+<td>Mark Mandelbaum</td>
+<td>engineer</td>
+</tr>
+<tr>
+<td>Chuck Vale</td>
+<td>assistant engineer</td>
+</tr>
+<tr>
+<td><a href="/wiki/Howie_Weinberg" title="Howie Weinberg">Howie Weinberg</a></td>
+<td>mastering</td>
+</tr>
+<tr>
+<td><a href="/wiki/L.A._Posse" title="L.A. Posse">L.A. Posse</a> <small>(Darryl Pierce, Dwayne Simon, and Bobby Erving)</small></td>
+<td>additional vocals, producer</td>
+</tr>
+<tr>
+<td><a href="/wiki/Eric_Haze" title="Eric Haze">Eric Haze</a></td>
+<td><a href="/wiki/Album_cover" title="Album cover">design</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Nelson_George" title="Nelson George">Nelson George</a></td>
+<td><a href="/wiki/Liner_notes" title="Liner notes">liner notes</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Glen_E._Friedman" title="Glen E. Friedman">Glen E. Friedman</a></td>
+<td>liner photography</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bigger_and_Deffer&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Christgau-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Christgau_1-0">^</a></b></span> <span class="reference-text"><span class="citation web">Christgau, Robert. <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=LL+Cool+J">"LL Cool J"</a>. <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABigger+and+Deffer&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.btitle=LL+Cool+J&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fget_artist.php%3Fname%3DLL%2BCool%2BJ&amp;rft.pub=Robert+Christgau&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.queenstribune.com/guides/BestofQueens2004/Pages/BestofQueensMusicians.htm">BestofQueens2004</a></span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:LL_Cool_J" title="Template:LL Cool J"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:LL_Cool_J" title="Template talk:LL Cool J"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:LL_Cool_J&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/LL_Cool_J" title="LL Cool J">LL Cool J</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/LL_Cool_J_discography" title="LL Cool J discography">Discography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Radio_(LL_Cool_J_album)" title="Radio (LL Cool J album)">Radio</a></i></li>
+<li><i><strong class="selflink">Bigger and Deffer</strong></i></li>
+<li><i><a href="/wiki/Walking_with_a_Panther" title="Walking with a Panther">Walking with a Panther</a></i></li>
+<li><i><a href="/wiki/Mama_Said_Knock_You_Out" title="Mama Said Knock You Out">Mama Said Knock You Out</a></i></li>
+<li><i><a href="/wiki/14_Shots_to_the_Dome" title="14 Shots to the Dome">14 Shots to the Dome</a></i></li>
+<li><i><a href="/wiki/Mr._Smith_(album)" title="Mr. Smith (album)">Mr. Smith</a></i></li>
+<li><i><a href="/wiki/All_World:_Greatest_Hits" title="All World: Greatest Hits">All World: Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Phenomenon_(LL_Cool_J_album)" title="Phenomenon (LL Cool J album)">Phenomenon</a></i></li>
+<li><i><a href="/wiki/G.O.A.T." title="G.O.A.T.">G.O.A.T.</a></i></li>
+<li><i><a href="/wiki/10_(LL_Cool_J_album)" title="10 (LL Cool J album)">10</a></i></li>
+<li><i><a href="/wiki/The_DEFinition" title="The DEFinition">The DEFinition</a></i></li>
+<li><i><a href="/wiki/Todd_Smith_(album)" title="Todd Smith (album)">Todd Smith</a></i></li>
+<li><i><a href="/wiki/Exit_13" title="Exit 13">Exit 13</a></i></li>
+<li><i><a href="/wiki/All_World_2" title="All World 2">All World 2</a></i></li>
+<li><i><a href="/wiki/Authentic_(LL_Cool_J_album)" title="Authentic (LL Cool J album)">Authentic</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/All_World:_Greatest_Hits" title="All World: Greatest Hits">All World: Greatest Hits</a></i></li>
+<li><i><a href="/wiki/All_World_2" title="All World 2">All World 2</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/I_Need_a_Beat" title="I Need a Beat" class="mw-redirect">I Need a Beat</a>"</li>
+<li>"<a href="/wiki/I_Can%27t_Live_Without_My_Radio" title="I Can't Live Without My Radio">I Can't Live Without My Radio</a>"</li>
+<li>"<a href="/wiki/I_Can_Give_You_More" title="I Can Give You More" class="mw-redirect">I Can Give You More</a>"</li>
+<li>"<a href="/wiki/Rock_the_Bells_(song)" title="Rock the Bells (song)">Rock the Bells</a>"</li>
+<li>"<a href="/wiki/You%27ll_Rock" title="You'll Rock">You'll Rock</a>"</li>
+<li>"<a href="/wiki/I%27m_Bad" title="I'm Bad">I'm Bad</a>"</li>
+<li>"<a href="/wiki/I_Need_Love" title="I Need Love">I Need Love</a>"</li>
+<li>"<a href="/wiki/Go_Cut_Creator_Go" title="Go Cut Creator Go" class="mw-redirect">Go Cut Creator Go</a>"</li>
+<li>"<a href="/wiki/Going_Back_to_Cali_(LL_Cool_J_song)" title="Going Back to Cali (LL Cool J song)">Going Back to Cali</a>"</li>
+<li>"<a href="/wiki/I%27m_That_Type_of_Guy" title="I'm That Type of Guy">I'm That Type of Guy</a>"</li>
+<li>"<a href="/wiki/Big_Ole_Butt" title="Big Ole Butt">Big Ole Butt</a>"</li>
+<li>"<a href="/wiki/One_Shot_at_Love" title="One Shot at Love">One Shot at Love</a>"</li>
+<li>"<a href="/wiki/Jingling_Baby" title="Jingling Baby">Jingling Baby</a>"</li>
+<li>"<a href="/wiki/To_da_Break_of_Dawn" title="To da Break of Dawn">To da Break of Dawn</a>"</li>
+<li>"<a href="/wiki/The_Boomin%27_System" title="The Boomin' System">The Boomin' System</a>"</li>
+<li>"<a href="/wiki/Around_the_Way_Girl" title="Around the Way Girl">Around the Way Girl</a>"</li>
+<li>"<a href="/wiki/Mama_Said_Knock_You_Out_(song)" title="Mama Said Knock You Out (song)">Mama Said Knock You Out</a>"</li>
+<li>"<a href="/wiki/6_Minutes_of_Pleasure" title="6 Minutes of Pleasure">6 Minutes of Pleasure</a>"</li>
+<li>"<a href="/wiki/Who%27s_Afraid_of_the_Big_Bad_Wolf%3F" title="Who's Afraid of the Big Bad Wolf?">Who's Afraid of the Big Bad Wolf?</a>"</li>
+<li>"<a href="/wiki/Strictly_Business_(LL_Cool_J_song)" title="Strictly Business (LL Cool J song)" class="mw-redirect">Strictly Business</a>"</li>
+<li>"<a href="/wiki/How_I%27m_Comin%27" title="How I'm Comin'">How I'm Comin'</a>"</li>
+<li>"<a href="/wiki/Back_Seat_(of_My_Jeep)" title="Back Seat (of My Jeep)">Back Seat (Of My Jeep)</a>"</li>
+<li>"<a href="/wiki/Pink_Cookies_In_a_Plastic_Bag_Getting_Crushed_By_Buildings" title="Pink Cookies In a Plastic Bag Getting Crushed By Buildings" class="mw-redirect">Pink Cookies In a Plastic Bag Getting Crushed By Buildings</a>"</li>
+<li>"<a href="/wiki/Stand_By_Your_Man_(LL_Cool_J_song)" title="Stand By Your Man (LL Cool J song)" class="mw-redirect">Stand By Your Man</a>"</li>
+<li>"<a href="/wiki/Hey_Lover" title="Hey Lover">Hey Lover</a>"</li>
+<li>"<a href="/wiki/Doin%27_It_(LL_Cool_J_song)" title="Doin' It (LL Cool J song)">Doin' It</a>"</li>
+<li>"<a href="/wiki/Loungin" title="Loungin">Loungin</a>"</li>
+<li>"<a href="/wiki/I_Shot_Ya_(Song)" title="I Shot Ya (Song)">I Shot Ya</a>"</li>
+<li>"<a href="/wiki/Ain%27t_Nobody" title="Ain't Nobody">Ain't Nobody</a>"</li>
+<li>"<a href="/wiki/Hit_%27Em_High_(The_Monstars%27_Anthem)" title="Hit 'Em High (The Monstars' Anthem)">Hit 'Em High (The Monstars' Anthem)</a>"</li>
+<li>"<a href="/wiki/Phenomenon_(LL_Cool_J_song)" title="Phenomenon (LL Cool J song)">Phenomenon</a>"</li>
+<li>"<a href="/wiki/4,_3,_2,_1_(LL_Cool_J_song)" title="4, 3, 2, 1 (LL Cool J song)">4, 3, 2, 1</a>"</li>
+<li>"<a href="/wiki/Father_(LL_Cool_J_song)" title="Father (LL Cool J song)">Father</a>"</li>
+<li>"<a href="/wiki/Candy_(LL_Cool_J_song)" title="Candy (LL Cool J song)">Candy</a>"</li>
+<li>"<a href="/wiki/Zoom_(Dr._Dre_song)" title="Zoom (Dr. Dre song)">Zoom</a>"</li>
+<li>"<a href="/wiki/Say_What_(LL_Cool_J_song)" title="Say What (LL Cool J song)">Say What</a>"</li>
+<li>"<a href="/wiki/Deepest_Bluest" title="Deepest Bluest" class="mw-redirect">Deepest Bluest</a>"</li>
+<li>"<a href="/wiki/Hot_Hot_Hot_(LL_Cool_J_song)" title="Hot Hot Hot (LL Cool J song)" class="mw-redirect">Hot Hot Hot</a>"</li>
+<li>"<a href="/wiki/Shut_%27Em_Down_(LL_Cool_J_song)" title="Shut 'Em Down (LL Cool J song)">Shut 'Em Down</a></li>
+<li>"<a href="/wiki/Imagine_That_(LL_Cool_J_song)" title="Imagine That (LL Cool J song)">Imagine That</a>"</li>
+<li>"<a href="/wiki/You_and_Me_(LL_Cool_J_song)" title="You and Me (LL Cool J song)">You and Me</a>"</li>
+<li>"<a href="/wiki/Put_Your_Hands_Up_(LL_Cool_J_song)" title="Put Your Hands Up (LL Cool J song)">Put Your Hands Up</a>"</li>
+<li>"<a href="/wiki/Blink_Blink" title="Blink Blink">Blink Blink</a>"</li>
+<li>"<a href="/wiki/Luv_U_Better" title="Luv U Better">Luv U Better</a>"</li>
+<li>"<a href="/wiki/Paradise_(LL_Cool_J_song)" title="Paradise (LL Cool J song)">Paradise</a>"</li>
+<li>"<a href="/wiki/All_I_Have_(song)" title="All I Have (song)">All I Have</a>"</li>
+<li>"<a href="/wiki/Amazin%27_(LL_Cool_J_song)" title="Amazin' (LL Cool J song)">Amazin'</a></li>
+<li>"<a href="/wiki/Headsprung" title="Headsprung">Headsprung</a>"</li>
+<li>"<a href="/wiki/Hush_(LL_Cool_J_song)" title="Hush (LL Cool J song)">Hush</a>"</li>
+<li>"<a href="/wiki/It%27s_LL_and_Santana" title="It's LL and Santana" class="mw-redirect">It's LL and Santana</a>"</li>
+<li>"<a href="/wiki/Control_Myself" title="Control Myself">Control Myself</a>"</li>
+<li>"<a href="/wiki/Freeze_(LL_Cool_J_song)" title="Freeze (LL Cool J song)">Freeze</a>"</li>
+<li>"<a href="/wiki/Cry_(LL_Cool_J_song)" title="Cry (LL Cool J song)">Cry</a>"</li>
+<li>"<a href="/wiki/Baby_(LL_Cool_J_song)" title="Baby (LL Cool J song)">Baby</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Rampage_(song)" title="Rampage (song)">Rampage</a>"</li>
+<li>"<a href="/wiki/This_Is_for_the_Lover_in_You" title="This Is for the Lover in You">This Is for the Lover in You</a>"</li>
+<li>"<a href="/wiki/Incredible_(Keith_Murray_song)" title="Incredible (Keith Murray song)">Incredible</a>"</li>
+<li>"<a href="/wiki/Fatty_Girl" title="Fatty Girl">Fatty Girl</a>"</li>
+<li>"<a href="/wiki/All_I_Have_(song)" title="All I Have (song)">All I Have</a>"</li>
+<li>"<a href="/wiki/We_Are_the_World_25_for_Haiti" title="We Are the World 25 for Haiti">We Are the World 25 for Haiti</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other songs</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Accidental_Racist" title="Accidental Racist">Accidental Racist</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Kool_Moe_Dee_%E2%80%93_LL_Cool_J_feud" title="Kool Moe Dee – LL Cool J feud" class="mw-redirect">Kool Moe Dee&#160;– LL Cool J feud</a></li>
+<li><i><a href="/wiki/In_the_House_(TV_series)" title="In the House (TV series)">In the House</a></i></li>
+<li><i><a href="/wiki/Deliver_Us_from_Eva" title="Deliver Us from Eva">Deliver Us from Eva</a></i></li>
+<li><i><a href="/wiki/S.W.A.T._(film)" title="S.W.A.T. (film)">S.W.A.T.</a></i></li>
+<li><i><a href="/wiki/NCIS:_Los_Angeles" title="NCIS: Los Angeles">NCIS: Los Angeles</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1005
+CPU time usage: 1.032 seconds
+Real time usage: 1.112 seconds
+Preprocessor visited node count: 1635/1000000
+Preprocessor generated node count: 8737/1500000
+Post‐expand include size: 45150/2048000 bytes
+Template argument size: 8343/2048000 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Lua time usage: 0.114/10.000 seconds
+Lua memory usage: 1.76 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:381418-0!*!0!!en!4!* and timestamp 20140531070410 and revision id 599905606
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Bigger_and_Deffer&amp;oldid=599905606">http://en.wikipedia.org/w/index.php?title=Bigger_and_Deffer&amp;oldid=599905606</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1987_albums" title="Category:1987 albums">1987 albums</a></li><li><a href="/wiki/Category:LL_Cool_J_albums" title="Category:LL Cool J albums">LL Cool J albums</a></li><li><a href="/wiki/Category:Def_Jam_Recordings_albums" title="Category:Def Jam Recordings albums">Def Jam Recordings albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_July_2011" title="Category:Use mdy dates from July 2011">Use mdy dates from July 2011</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_with_album_ratings_that_need_to_be_turned_into_prose" title="Category:Articles with album ratings that need to be turned into prose">Articles with album ratings that need to be turned into prose</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bigger+and+Deffer&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bigger+and+Deffer" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Bigger_and_Deffer"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Bigger_and_Deffer"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Bigger_and_Deffer" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Bigger_and_Deffer&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bigger_and_Deffer&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bigger_and_Deffer" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bigger_and_Deffer" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Bigger_and_Deffer&amp;oldid=599905606" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Bigger_and_Deffer&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1954577" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Bigger_and_Deffer&amp;id=599905606" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bigger+and+Deffer">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Bigger+and+Deffer&amp;oldid=599905606&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Bigger_and_Deffer&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Bigger_and_Deffer" title="Bigger and Deffer – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Bigger_and_Deffer" title="Bigger and Deffer – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Bigger_and_Deffer" title="Bigger and Deffer – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-sw"><a href="//sw.wikipedia.org/wiki/Bigger_and_Deffer" title="Bigger and Deffer – Swahili" lang="sw" hreflang="sw">Kiswahili</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Bigger_and_Deffer" title="Bigger and Deffer – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Bigger_and_Deffer" title="Bigger and Deffer – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Bigger_and_Deffer" title="Bigger and Deffer – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q1954577#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 March 2014 at 19:53.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Bigger_and_Deffer" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":184,"wgHostname":"mw1218"});
+}</script>
+	</body>
+</html>
+	

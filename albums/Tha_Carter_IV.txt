@@ -1,0 +1,1171 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Tha Carter IV - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tha_Carter_IV" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tha_Carter_IV&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Tha_Carter_IV&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Tha_Carter_IV" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tha_Carter_IV","wgTitle":"Tha Carter IV","wgCurRevisionId":608984520,"wgRevisionId":608984520,"wgArticleId":27404633,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from July 2011","Pages containing cite templates with deprecated parameters","Use mdy dates from February 2012","Articles with hAudio microformats","Vague or ambiguous time from October 2011","2011 albums","Lil Wayne albums","Cash Money Records albums","Young Money Entertainment albums","Universal Republic Records albums","Albums produced by Bangladesh","Albums produced by Cool \u0026 Dre","Albums produced by Diplo","Albums produced by Emile Haynie","Albums produced by J.U.S.T.I.C.E. League","Albums produced by Noel \"Detail\" Fisher","Albums produced by Polow da Don","Albums produced by T-Minus","Albums produced by The Smeezingtons","Albums produced by Timbaland","Albums produced by StreetRunner","Sequel albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tha_Carter_IV","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1753222"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Tha_Carter_IV skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Tha Carter IV</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Tha Carter IV</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Lil_Wayne_-_Tha_Carter_IV.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d1/Lil_Wayne_-_Tha_Carter_IV.jpg/220px-Lil_Wayne_-_Tha_Carter_IV.jpg" width="220" height="220" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/d/d1/Lil_Wayne_-_Tha_Carter_IV.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/d/d1/Lil_Wayne_-_Tha_Carter_IV.jpg 2x" data-file-width="316" data-file-height="316" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Lil_Wayne" title="Lil Wayne">Lil Wayne</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">August&#160;29,&#160;2011<span style="display:none">&#160;(<span class="bday dtstart published updated">2011-08-29</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>October 2008 – July 2011</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>60:25</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Young_Money_Entertainment" title="Young Money Entertainment">Young Money</a>, <a href="/wiki/Cash_Money_Records" title="Cash Money Records">Cash Money</a>, <a href="/wiki/Universal_Republic_Records" title="Universal Republic Records">Universal Republic</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td>Lil Wayne <small>(<a href="/wiki/Executive_producer" title="Executive producer">exec.</a>)</small>, <a href="/wiki/Mack_Maine" title="Mack Maine">Cortez Bryant</a> <small>(exec.)</small>, <a href="/wiki/Ronald_%22Slim%22_Williams" title="Ronald &quot;Slim&quot; Williams">Ronald "Slim" Williams</a> <small>(exec.)</small>, <a href="/wiki/Birdman_(rapper)" title="Birdman (rapper)">Birdman</a> <small>(exec.)</small>, <a href="/wiki/Willy_Will" title="Willy Will">Willy Will</a>, <a href="/wiki/Bangladesh_(producer)" title="Bangladesh (producer)" class="mw-redirect">Bangladesh</a>, Detail, Ramon REO Owen, <a href="/wiki/T-Minus_(producer)" title="T-Minus (producer)">T-Minus</a>, <a href="/wiki/Polow_da_Don" title="Polow da Don">Polow da Don</a>, <a href="/wiki/DVLP" title="DVLP">DVLP</a>, Drew Money, Kenoe, <a href="/wiki/Cool_%26_Dre" title="Cool &amp; Dre">Cool &amp; Dre</a>, <a href="/wiki/Infamous_(producer)" title="Infamous (producer)">Infamous</a>, Rob Holladay, Snizzy, MegaMan, <a href="/wiki/Young_Fyre" title="Young Fyre">Young Fyre</a>, The Commission, Drum Up</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Lil_Wayne" title="Lil Wayne">Lil Wayne</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/I_Am_Not_a_Human_Being" title="I Am Not a Human Being">I Am Not a Human Being</a></i><br />
+(2010)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Tha Carter IV</b></i><br />
+(2011)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/I_Am_Not_a_Human_Being_II" title="I Am Not a Human Being II">I Am Not a Human Being II</a></i><br />
+(2013)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Tha Carter IV</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/6_Foot_7_Foot" title="6 Foot 7 Foot">6 Foot 7 Foot</a>"</span><br />
+Released: December&#160;16,&#160;2010<span style="display:none">&#160;(<span class="bday dtstart published updated">2010-12-16</span>)</span></span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/John_(Lil_Wayne_song)" title="John (Lil Wayne song)">John</a>"</span><br />
+Released: March&#160;24,&#160;2011<span style="display:none">&#160;(<span class="bday dtstart published updated">2011-03-24</span>)</span></span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/How_to_Love" title="How to Love">How to Love</a>"</span><br />
+Released: May&#160;31,&#160;2011<span style="display:none">&#160;(<span class="bday dtstart published updated">2011-05-31</span>)</span></span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/She_Will" title="She Will">She Will</a>"</span><br />
+Released: August&#160;16,&#160;2011<span style="display:none">&#160;(<span class="bday dtstart published updated">2011-08-16</span>)</span></span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/It%27s_Good" title="It's Good">It's Good</a>"</span><br />
+Released: September&#160;13,&#160;2011<span style="display:none">&#160;(<span class="bday dtstart published updated">2011-09-13</span>)</span></span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Mirror_(Lil_Wayne_song)" title="Mirror (Lil Wayne song)">Mirror</a>"</span><br />
+Released: November&#160;1,&#160;2011<span style="display:none">&#160;(<span class="bday dtstart published updated">2011-11-01</span>)</span></span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>Tha Carter IV</b></i> is the ninth <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by American rapper <a href="/wiki/Lil_Wayne" title="Lil Wayne">Lil Wayne</a>, released on August 29, 2011 through <a href="/wiki/Young_Money_Entertainment" title="Young Money Entertainment">Young Money Entertainment</a>, <a href="/wiki/Cash_Money_Records" title="Cash Money Records">Cash Money Records</a> and <a href="/wiki/Universal_Republic_Records" title="Universal Republic Records">Universal Republic Records</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> Recording sessions for the album began in late 2008, shortly after Lil Wayne's sixth studio album, <i><a href="/wiki/Tha_Carter_III" title="Tha Carter III">Tha Carter III</a></i> (2008) was released to strong sales and critical acclaim: however, the sessions were put on hold, as Lil Wayne claimed he did not want to follow an album he held in high regard so quickly with another, potentially inferior release. In the interim, Lil Wayne released two other solo albums: the largely rock-themed <i><a href="/wiki/Rebirth_(Lil_Wayne_album)" title="Rebirth (Lil Wayne album)">Rebirth</a></i> (2010) and <i><a href="/wiki/I_Am_Not_a_Human_Being" title="I Am Not a Human Being">I Am Not a Human Being</a></i> (2010). The latter was reportedly composed from unreleased material from the original <i>Tha Carter IV</i> sessions, as the album was released whilst Wayne served a <a href="/wiki/Lil_Wayne#Legal_issues" title="Lil Wayne">prison sentence</a> at <a href="/wiki/Rikers_Island" title="Rikers Island">Rikers Island</a> prison for illegal possession of a weapon, and was thus unable to record any new material: this also meant <i>Tha Carter IV'</i>s recording sessions were once more put on hold.</p>
+<p>Following Wayne's release from prison, the album was re-recorded from scratch. The recording sessions resumed at various locations, involving several record producers including <a href="/wiki/Bangladesh_(producer)" title="Bangladesh (producer)" class="mw-redirect">Bangladesh</a>, Detail, <a href="/wiki/T-Minus_(producer)" title="T-Minus (producer)">T-Minus</a>, <a href="/wiki/Noah_%2240%22_Shebib" title="Noah &quot;40&quot; Shebib">Noah "40" Shebib</a>, <a href="/wiki/Polow_da_Don" title="Polow da Don">Polow da Don</a>, <a href="/wiki/Jim_Jonsin" title="Jim Jonsin">Jim Jonsin</a>, <a href="/wiki/Kane_Beatz" title="Kane Beatz">Kane Beatz</a>, <a href="/wiki/Boi-1da" title="Boi-1da">Boi-1da</a>, <a href="/wiki/Willy_Will" title="Willy Will">Willy Will</a>, <a href="/wiki/StreetRunner" title="StreetRunner">StreetRunner</a>, <a href="/wiki/Cool_%26_Dre" title="Cool &amp; Dre">Cool &amp; Dre</a>, Young Ladd, <a href="/wiki/The_Smeezingtons" title="The Smeezingtons">The Smeezingtons</a>, and <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>. The album's largely concerns the themes of sex, violence, drugs and crime, but also love, hurt and emotional conflict. Appearances on the album include <a href="/wiki/Cory_Gunz" title="Cory Gunz">Cory Gunz</a>, <a href="/wiki/Drake_(entertainer)" title="Drake (entertainer)" class="mw-redirect">Drake</a>, <a href="/wiki/T-Pain" title="T-Pain">T-Pain</a>, <a href="/wiki/Tech_N9ne" title="Tech N9ne">Tech N9ne</a>, <a href="/wiki/Andre_3000" title="Andre 3000" class="mw-redirect">Andre 3000</a>, <a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a>, <a href="/wiki/John_Legend" title="John Legend">John Legend</a>, <a href="/wiki/Bruno_Mars" title="Bruno Mars">Bruno Mars</a>, <a href="/wiki/Birdman_(rapper)" title="Birdman (rapper)">Birdman</a>, <a href="/wiki/Kevin_Rudolf" title="Kevin Rudolf">Kevin Rudolf</a>, <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a>, <a href="/wiki/Bun_B" title="Bun B">Bun B</a>, <a href="/wiki/Nas" title="Nas">Nas</a>, <a href="/wiki/Shyne" title="Shyne">Shyne</a>, and <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a>.</p>
+<p>Following a heavily delayed release, <i>Tha Carter IV</i> was released to digital retailers at midnight on August 28, 2011, following Wayne's scheduled performance at the <a href="/wiki/MTV_Video_Music_Award" title="MTV Video Music Award">MTV Video Music Awards</a>, and physical retailers received the album the following day. <i>Tha Carter IV</i> achieved first week sales of 964,000 copies in the United States and became Lil Wayne's second album to top the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> in its first week. The album received generally mixed reviews from music critics, who were divided in their responses towards the album's production and Wayne's own performances on the album: they felt it a disappointment compared to his previous work.<sup id="cite_ref-Retirement_hints_2-0" class="reference"><a href="#cite_note-Retirement_hints-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background_and_development"><span class="tocnumber">1</span> <span class="toctext">Background and development</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Singles"><span class="tocnumber">2</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Commercial_performance"><span class="tocnumber">3</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Critical_reception"><span class="tocnumber">4</span> <span class="toctext">Critical reception</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Track_listing"><span class="tocnumber">5</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Personnel"><span class="tocnumber">6</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Charts"><span class="tocnumber">7</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Release_history"><span class="tocnumber">8</span> <span class="toctext">Release history</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background_and_development">Background and development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tha_Carter_IV&amp;action=edit&amp;section=1" title="Edit section: Background and development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In June 2008, after a similarly delayed release, Lil Wayne released his previous album in the <i>Tha Carter</i> series, <i><a href="/wiki/Tha_Carter_III" title="Tha Carter III">Tha Carter III</a></i> (2008). The album sold 1,005,545 copies in its first week of sales in the United States, and produced three top ten singles in the US, including the number one-hit "<a href="/wiki/Lollipop_(Lil_Wayne_song)" title="Lollipop (Lil Wayne song)">Lollipop</a>". The album became the highest selling of the year in the United States.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> In a September 2008 interview with Shaheem Reid of <a href="/wiki/MTV" title="MTV">MTV</a> Mixtape Monday, Lil Wayne revealed that he had begun work on his next official mixtape, <i><a href="/wiki/Dedication_3" title="Dedication 3">Dedication 3</a></i> (2008) and also confirmed a sequel to <i>Tha Carter III</i>, titled <i>Tha Carter IV</i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> Initial recording sessions for the album began in early October 2008,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> but these were put on hold, as later that month Wayne claimed that he did not want the album to follow <i>Tha Carter III</i> immediately.</p>
+<p>No more information emerged on the album until October 2009, when <a href="/wiki/Cash_Money_Records" title="Cash Money Records">Cash Money Records</a> CEO <a href="/wiki/Birdman_(rapper)" title="Birdman (rapper)">Birdman</a> reported that Wayne would release three studio albums on December 15, 2009: <i>Tha Carter IV</i>, <i><a href="/wiki/Rebirth_(Lil_Wayne_album)" title="Rebirth (Lil Wayne album)">Rebirth</a></i>, an album currently being promoted as Wayne's debut rock music album, and <i><a href="/wiki/We_Are_Young_Money" title="We Are Young Money">We Are Young Money</a></i>, a collaborative recording with members of Wayne's record label, <a href="/wiki/Young_Money_Entertainment" title="Young Money Entertainment">Young Money Entertainment</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> However, it was later confirmed that <i>Rebirth</i> and <i>We Are Young Money</i> would be released separately<sup id="cite_ref-Rebirth_.26_We_Are_Young_Money_sold_seperately_7-0" class="reference"><a href="#cite_note-Rebirth_.26_We_Are_Young_Money_sold_seperately-7"><span>[</span>7<span>]</span></a></sup> and that <i>Tha Carter IV</i> would be released in 2011.<sup id="cite_ref-is_going_to_be_released_on_May_17.2C_2011._8-0" class="reference"><a href="#cite_note-is_going_to_be_released_on_May_17.2C_2011.-8"><span>[</span>8<span>]</span></a></sup> <i>Tha Carter IV</i> was going to be released in late May,<sup id="cite_ref-autogenerated1_9-0" class="reference"><a href="#cite_note-autogenerated1-9"><span>[</span>9<span>]</span></a></sup> but was pushed back to June. <a href="/wiki/Mack_Maine" title="Mack Maine">Mack Maine</a> confirmed that the album's release was postponed because they still needed time to make it perfect.<sup id="cite_ref-mtv.com_10-0" class="reference"><a href="#cite_note-mtv.com-10"><span>[</span>10<span>]</span></a></sup> On June 2, 2011, the album was pushed back further, and the album was due for release on August 29, 2011.<sup id="cite_ref-new_date_11-0" class="reference"><a href="#cite_note-new_date-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>The album's cover was released to the internet on April 19, 2011.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> A deluxe edition has been confirmed for <i>Tha Carter IV</i>, with the album's cover being released to the internet as well.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>Also the track "Dear Anne (Stan Part 2)" (originally "Anne") was originally supposed to be on <i>Tha Carter IV</i> but has since then been removed from the album. Lil Wayne recently<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (October 2011)">when?</span></a></i>]</sup> said in an interview with XXL that he was not a fan of "Dear Anne" and that it was originally planned to appear on <i>Tha Carter III</i>. On July 8, 2011, producer <a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a> hinted at Wayne possibly re-recording a new version of Anne, after he had said the verses were too "old". Prior to <i>Tha Carter IV'</i>s release, Swizz Beatz released the song on his Monster Mondays free music program through his official website.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<p>On June 13, 2011, a track called "Nightmares of the Bottom" from <i>Tha Carter IV</i> was confirmed on MTV's Unplugged by Lil Wayne performing live.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> On July 11, 2011, Lil Wayne confirmed in an interview with MTV that <i>Tha Carter IV</i> is finished and will be releasing on August 29, 2011.<sup id="cite_ref-new_date_11-1" class="reference"><a href="#cite_note-new_date-11"><span>[</span>11<span>]</span></a></sup> On August 7–8, 2011 videos of Lil Wayne recording a song called "<a href="/wiki/She_Will" title="She Will">She Will</a>" and featuring <a href="/wiki/Drake_(entertainer)" title="Drake (entertainer)" class="mw-redirect">Drake</a> was posted online and would be on the album. The song was released on the Internet on August 12, 2011.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> HipHollywood released a <a href="/wiki/YouTube" title="YouTube">YouTube</a> video about <a href="/wiki/T-Pain" title="T-Pain">T-Pain</a> giving a song to Lil Wayne for his album called, "How to Hate," confirming that it will be on the album.</p>
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tha_Carter_IV&amp;action=edit&amp;section=2" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The album's lead single, "<a href="/wiki/6_Foot_7_Foot" title="6 Foot 7 Foot">6 Foot 7 Foot</a>", which features <a href="/wiki/Cory_Gunz" title="Cory Gunz">Cory Gunz</a>, was released on December 16, 2010.<sup id="cite_ref-6_Foot_7_Foot_iTunes_18-0" class="reference"><a href="#cite_note-6_Foot_7_Foot_iTunes-18"><span>[</span>18<span>]</span></a></sup> It peaked at nine on the US <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a> and at two on both the US <a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot R&amp;B/Hip-Hop Songs</a> chart and US <a href="/wiki/Rap_Songs" title="Rap Songs" class="mw-redirect">Rap Songs</a> chart, in addition to reaching the top fifty in Canada. The video made premieres on <a href="/wiki/MTV" title="MTV">MTV</a> on March 3, 2011 and on <a href="/wiki/Black_Entertainment_Television" title="Black Entertainment Television" class="mw-redirect">BET's</a> <i><a href="/wiki/106_%26_Park" title="106 &amp; Park">106 &amp; Park</a></i> on March 4, 2011. The video (directed by <a href="/wiki/Hype_Williams" title="Hype Williams">Hype Williams</a>) was inspired by the film <i><a href="/wiki/Inception" title="Inception">Inception</a></i>, and consists of numerous scenes which visualize many of the metaphors and similes Wayne says in the song.<sup id="cite_ref-explicit_19-0" class="reference"><a href="#cite_note-explicit-19"><span>[</span>19<span>]</span></a></sup></p>
+<p>"<a href="/wiki/John_(Lil_Wayne_song)" title="John (Lil Wayne song)">John</a>", which features <a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a> was released as the second single on March 24, 2011<sup id="cite_ref-John_iTunes_20-0" class="reference"><a href="#cite_note-John_iTunes-20"><span>[</span>20<span>]</span></a></sup> and debuted at twenty-two on the US Hot 100. It also reached nineteen on US R&amp;B charts and twelve on US Rap charts. The official music video was released on VEVO on May 12, 2011. The video also featured a cameo by <a href="/wiki/Birdman_(rapper)" title="Birdman (rapper)">Birdman</a> and was directed by <a href="/wiki/Colin_Tilley" title="Colin Tilley">Colin Tilley</a>, director of "<a href="/wiki/Look_at_Me_Now_(Chris_Brown_song)" title="Look at Me Now (Chris Brown song)">Look at Me Now</a>" by Chris Brown, and No Sleep by Wiz Khalifa.</p>
+<p>"<a href="/wiki/How_to_Love" title="How to Love">How to Love</a>" was released as the third single on May 31, 2011.<sup id="cite_ref-How_To_Love_iTunes_21-0" class="reference"><a href="#cite_note-How_To_Love_iTunes-21"><span>[</span>21<span>]</span></a></sup> It had peaked at number five on the US Hot 100, becoming Wayne's fourteenth top ten hit and the best performing single from the album. It also peaked at number two on US R&amp;B charts and number two on US Rap charts, in addition to reaching the top forty in Canada and top fifty in the UK. Detail, the song's producer, claimed Lil Wayne used no <a href="/wiki/Auto-Tune" title="Auto-Tune">Auto-Tune</a> in the song;<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> The music video (directed by <a href="/wiki/Chris_Robinson_(director)" title="Chris Robinson (director)">Chris Robinson</a>) premiered August 23, 2011 on <a href="/wiki/MTV_Jams" title="MTV Jams">MTV Jams</a> as "Jam of the Week".<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p>
+<p>The fourth single, "<a href="/wiki/She_Will" title="She Will">She Will</a>", which features <a href="/wiki/Drake_(entertainer)" title="Drake (entertainer)" class="mw-redirect">Drake</a>, was released on the internet on August 12, 2011.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup> The song previously was to be titled "Maybe She Will", and originally featured a verse from <a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a>, however it did not make the final cut.<sup id="cite_ref-Complex_26-0" class="reference"><a href="#cite_note-Complex-26"><span>[</span>26<span>]</span></a></sup><sup id="cite_ref-She_Will_original_version_27-0" class="reference"><a href="#cite_note-She_Will_original_version-27"><span>[</span>27<span>]</span></a></sup> The single released on digital download format in the United States on August 16, 2011.<sup id="cite_ref-She_Will_iTunes_28-0" class="reference"><a href="#cite_note-She_Will_iTunes-28"><span>[</span>28<span>]</span></a></sup></p>
+<p>"<a href="/wiki/It%27s_Good" title="It's Good">It's Good</a>", which features Drake and <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a>, was solicited to urban radio as the album's fifth single on September 13, 2011.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup></p>
+<p>The sixth single from the album is "<a href="/wiki/Mirror_(Lil_Wayne_song)" title="Mirror (Lil Wayne song)">Mirror</a>" featuring <a href="/wiki/Bruno_Mars" title="Bruno Mars">Bruno Mars</a>, which is a bonus track on the deluxe edition. It was released to urban radio on September 13, 2011. It was sent to Rhythmic radio and re-released to urban radio on November 1, 2011.<sup id="cite_ref-webcitation.org_30-0" class="reference"><a href="#cite_note-webcitation.org-30"><span>[</span>30<span>]</span></a></sup> Upon the release of <i>Tha Carter IV</i> it debuted at number sixteen on the US Hot 100 based on digital downloads alone.</p>
+<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tha_Carter_IV&amp;action=edit&amp;section=3" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Tha Carter IV</i> had 300,000&#160;downloads in its first four days online, which broke an iTunes record previously set by <i><a href="/wiki/Watch_the_Throne" title="Watch the Throne">Watch the Throne</a></i>. In the United States, <i>Tha Carter IV</i> topped the <i>Billboard</i> 200 on the issue of September 17, 2011.<sup id="cite_ref-bill_31-0" class="reference"><a href="#cite_note-bill-31"><span>[</span>31<span>]</span></a></sup> Selling 964,000 copies in its first week, it achieved the highest first-week album sales since <a href="/wiki/Lady_Gaga" title="Lady Gaga">Lady Gaga</a>'s <i><a href="/wiki/Born_This_Way" title="Born This Way">Born This Way</a></i>.<sup id="cite_ref-bill_31-1" class="reference"><a href="#cite_note-bill-31"><span>[</span>31<span>]</span></a></sup> It retained the top spot in its second week, despite a 77% decrease in sales, selling 219,000 copies.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup> On November 16, 2011, the album was certified <a href="/wiki/RIAA_certification" title="RIAA certification">double platinum</a> by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>, for shipments of two million copies in the United States.<sup id="cite_ref-riaa.com_33-0" class="reference"><a href="#cite_note-riaa.com-33"><span>[</span>33<span>]</span></a></sup> By February 2012, the album had sold 3.5 million copies worldwide.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup> By July 2013, it had sold 2,296,000 copies in the US.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup> In Canada, the album debuted on the top spot on the <a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a>, selling 31,000 copies in its first week.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tha_Carter_IV&amp;action=edit&amp;section=4" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Jeffries_37-0" class="reference"><a href="#cite_note-Jeffries-37"><span>[</span>37<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_A.V._Club" title="The A.V. Club">The A.V. Club</a></i></td>
+<td style="vertical-align:middle">C+<sup id="cite_ref-Rytlewski_38-0" class="reference"><a href="#cite_note-Rytlewski-38"><span>[</span>38<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="2/4 stars"><img alt="2/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Kot_39-0" class="reference"><a href="#cite_note-Kot-39"><span>[</span>39<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">B<sup id="cite_ref-Wete_40-0" class="reference"><a href="#cite_note-Wete-40"><span>[</span>40<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="2.5/4 stars"><img alt="2.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Weiss_41-0" class="reference"><a href="#cite_note-Weiss-41"><span>[</span>41<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/NME" title="NME">NME</a></i></td>
+<td style="vertical-align:middle">4/10<sup id="cite_ref-Fuertes_42-0" class="reference"><a href="#cite_note-Fuertes-42"><span>[</span>42<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a></td>
+<td style="vertical-align:middle">6.2/10<sup id="cite_ref-Dombal_43-0" class="reference"><a href="#cite_note-Dombal-43"><span>[</span>43<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Sheffield_44-0" class="reference"><a href="#cite_note-Sheffield-44"><span>[</span>44<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Slant_Magazine" title="Slant Magazine">Slant Magazine</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Cole_45-0" class="reference"><a href="#cite_note-Cole-45"><span>[</span>45<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i></td>
+<td style="vertical-align:middle">6/10<sup id="cite_ref-Fennessey_46-0" class="reference"><a href="#cite_note-Fennessey-46"><span>[</span>46<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i>Tha Carter IV</i> received generally mixed reviews from <a href="/wiki/Music_journalism" title="Music journalism">music critics</a>. At <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>, which assigns a <a href="/wiki/Weighted_mean" title="Weighted mean" class="mw-redirect">weighted mean</a> rating out of 100 to reviews from mainstream critics, the album received an <a href="/wiki/Weighted_mean" title="Weighted mean" class="mw-redirect">average</a> score of 60, based on 29 reviews.<sup id="cite_ref-Metacritic_47-0" class="reference"><a href="#cite_note-Metacritic-47"><span>[</span>47<span>]</span></a></sup> The consensus among critics is that the album is a disappointment.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48"><span>[</span>48<span>]</span></a></sup> <i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i> writer <a href="/wiki/Greg_Kot" title="Greg Kot">Greg Kot</a> viewed that Wayne "sounds slower, more methodical, less unhinged" and felt that he is held back by "repetitive subject matter — even Wayne sounds bored by trying to flip yet one more clever couplet about blunts and 'hos."<sup id="cite_ref-Kot_39-1" class="reference"><a href="#cite_note-Kot-39"><span>[</span>39<span>]</span></a></sup> Sean Fennessey of <i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i> wrote that "it's not a terribly ambitious mess, nor is it much fun, which for Wayne is a sin," and criticized his lyrics, stating "He rarely divulges specific moments [...] usually keeping the gritty details unexplained."<sup id="cite_ref-Fennessey_46-1" class="reference"><a href="#cite_note-Fennessey-46"><span>[</span>46<span>]</span></a></sup> <a href="/wiki/Slant_Magazine" title="Slant Magazine">Slant Magazine</a>'s Matthew Cole commented that the album's production "chases trends far more often than it attempts to set them" and found Wayne "not in exhilarating top form".<sup id="cite_ref-Cole_45-1" class="reference"><a href="#cite_note-Cole-45"><span>[</span>45<span>]</span></a></sup> <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i> writer Jeff Weiss viewed his lyrics as "predictable" and called the album "more pedestrian than embarrassing."<sup id="cite_ref-Weiss_41-1" class="reference"><a href="#cite_note-Weiss-41"><span>[</span>41<span>]</span></a></sup> Andy Hutchins of <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> called it "a bad rap album" and criticized its music as "a composition of a lot of rapping styles Wayne's dabbled in and production styles that have been bubbling in rap for some time, except little of it clicks."<sup id="cite_ref-Hutchins_49-0" class="reference"><a href="#cite_note-Hutchins-49"><span>[</span>49<span>]</span></a></sup> Jo Fuertes-Knight of <i><a href="/wiki/NME" title="NME">NME</a></i> said that it "flops not because it’s straight-up bad, but because it’s boring."<sup id="cite_ref-Fuertes_42-1" class="reference"><a href="#cite_note-Fuertes-42"><span>[</span>42<span>]</span></a></sup></p>
+<p>In a positive review, <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> writer <a href="/wiki/Rob_Sheffield" title="Rob Sheffield">Rob Sheffield</a> stated, "it's thrilling how unhinged Weezy sounds", adding that "even the failed moments sound like nobody else".<sup id="cite_ref-Sheffield_44-1" class="reference"><a href="#cite_note-Sheffield-44"><span>[</span>44<span>]</span></a></sup> <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> editor David Jeffries stated, "If <i><a href="/wiki/Tha_Carter_II" title="Tha Carter II">II</a></i> and <i><a href="/wiki/Tha_Carter_III" title="Tha Carter III">III</a></i> were the arguable masterpieces, this one is less convincing, but it is a solid, above average hip-hop album".<sup id="cite_ref-Jeffries_37-1" class="reference"><a href="#cite_note-Jeffries-37"><span>[</span>37<span>]</span></a></sup> Jon Caramanica of <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> felt that the guest rappers bring "their A game" and stated, "even on this album’s weak tracks, and there are several, [Wayne] remains a commanding presence, deploying just enough of his insistent croak to tether the song together."<sup id="cite_ref-Caramanica_50-0" class="reference"><a href="#cite_note-Caramanica-50"><span>[</span>50<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tha_Carter_IV&amp;action=edit&amp;section=5" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Track listing and producers confirmed from the album booklet and <a href="/wiki/Discogs" title="Discogs">Discogs</a>.<sup id="cite_ref-discogs_51-0" class="reference"><a href="#cite_note-discogs-51"><span>[</span>51<span>]</span></a></sup></p>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Intro" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Lil_Wayne" title="Lil Wayne">Dwayne Carter, Jr.</a>, <a href="/wiki/Willy_Will" title="Willy Will">Willie Hodge</a>, <a href="/wiki/Mack_Maine" title="Mack Maine">Jermaine Preyan</a></td>
+<td style="vertical-align: top;"><a href="/wiki/Willy_Will" title="Willy Will">Willy Will</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:52</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Blunt_Blowin" title="Blunt Blowin">Blunt Blowin</a>" &#160;</td>
+<td style="vertical-align: top;">Carter, <a href="/wiki/DVLP" title="DVLP">Bigram Zayas</a>, Matthew Arthur DelGiorno <a href="/wiki/Andrew_Canton" title="Andrew Canton">Andrew Canton</a></td>
+<td style="vertical-align: top;"><a href="/wiki/DVLP" title="DVLP">Develop</a>, Filthy <small>(co.)</small></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:12</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/MegaMan_(song)" title="MegaMan (song)">MegaMan</a>" &#160;</td>
+<td style="vertical-align: top;">Carter, Orville Mcwhinney</td>
+<td style="vertical-align: top;">MegaMan</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:18</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/6_Foot_7_Foot" title="6 Foot 7 Foot">6 Foot 7 Foot</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Cory_Gunz" title="Cory Gunz">Cory Gunz</a>)</span></td>
+<td style="vertical-align: top;">Carter, <a href="/wiki/Cory_Gunz" title="Cory Gunz">Peter Panky, Jr.</a>, <a href="/wiki/Bangladesh_(record_producer)" title="Bangladesh (record producer)">Seandrae Crawford</a>, William Attaway, Irving Burgie</td>
+<td style="vertical-align: top;"><a href="/wiki/Bangladesh_(producer)" title="Bangladesh (producer)" class="mw-redirect">Mr. Bangladesh</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:08</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Nightmares of the Bottom" &#160;</td>
+<td style="vertical-align: top;">Carter, Ben Vaughn, Kenoe, Preyan</td>
+<td style="vertical-align: top;">Snizzy,<sup id="cite_ref-52" class="reference"><a href="#cite_note-52"><span>[</span>52<span>]</span></a></sup> Kenoe</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:41</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/She_Will" title="She Will">She Will</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Drake_(entertainer)" title="Drake (entertainer)" class="mw-redirect">Drake</a>)</span></td>
+<td style="vertical-align: top;">Carter, <a href="/wiki/Drake_(entertainer)" title="Drake (entertainer)" class="mw-redirect">Aubrey Graham</a>, <a href="/wiki/T-Minus_(producer)" title="T-Minus (producer)">Tyler Williams</a></td>
+<td style="vertical-align: top;"><a href="/wiki/T-Minus_(producer)" title="T-Minus (producer)">T-Minus</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:05</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"How to Hate" <span style="font-size:85%;">(featuring <a href="/wiki/T-Pain" title="T-Pain">T-Pain</a>)</span></td>
+<td style="vertical-align: top;">Carter, <a href="/wiki/T-Pain" title="T-Pain">Faheem Najm</a>, Tremaine Winfrey</td>
+<td style="vertical-align: top;"><a href="/wiki/Young_Fyre" title="Young Fyre">Young Fyre</a>, Andrew Lloyd <small>(add.)</small></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:38</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Interlude" <span style="font-size:85%;">(performed by <a href="/wiki/Tech_N9ne" title="Tech N9ne">Tech N9ne</a>)</span></td>
+<td style="vertical-align: top;">Carter, <a href="/wiki/Tech_N9ne" title="Tech N9ne">Aaron Yates</a>, Hodge, Preyan, Andre Benjamin</td>
+<td style="vertical-align: top;">Willy Will</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:01</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/John_(Lil_Wayne_song)" title="John (Lil Wayne song)">John</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a>)</span></td>
+<td style="vertical-align: top;">Carter, <a href="/wiki/Rick_Ross" title="Rick Ross">William Roberts II</a>, <a href="/wiki/J.U.S.T.I.C.E._League" title="J.U.S.T.I.C.E. League">Kevin Crowe, Erik Ortiz</a></td>
+<td style="vertical-align: top;"><a href="/wiki/Polow_Da_Don" title="Polow Da Don" class="mw-redirect">Polow Da Don</a>, Rob Holladay</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:47</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Abortion" &#160;</td>
+<td style="vertical-align: top;">Carter, Hacker, Preyann, Nicholas Warwar</td>
+<td style="vertical-align: top;">The Commission, <a href="/wiki/StreetRunner" title="StreetRunner">StreetRunner</a> <small>(add.)</small></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:43</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"So Special" <span style="font-size:85%;">(featuring <a href="/wiki/John_Legend" title="John Legend">John Legend</a>)</span></td>
+<td style="vertical-align: top;">Carter, <a href="/wiki/Cool_%26_Dre" title="Cool &amp; Dre">Andre Lyon, Marcello Valenzano</a>, Eddie Montilla</td>
+<td style="vertical-align: top;"><a href="/wiki/Cool_%26_Dre" title="Cool &amp; Dre">Cool &amp; Dre</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:52</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/How_to_Love" title="How to Love">How to Love</a>" &#160;</td>
+<td style="vertical-align: top;">Carter, <a href="/wiki/Detail_(musician)" title="Detail (musician)" class="mw-redirect">Noel Fisher</a>, LaMar Seymour, LaNelle Seymour, Preyan, Marcus Boyd</td>
+<td style="vertical-align: top;"><a href="/wiki/Detail_(musician)" title="Detail (musician)" class="mw-redirect">Detail</a>, Tha Drummahz <small>(co.)</small></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:00</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"President Carter" &#160;</td>
+<td style="vertical-align: top;">Carter, Angel Aponte, Marco Rodriguez</td>
+<td style="vertical-align: top;">Angel "Onhel" Aponte, Christopher Allen, <a href="/wiki/Infamous_(producer)" title="Infamous (producer)">Infamous</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:15</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/It%27s_Good" title="It's Good">It's Good</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a> and <a href="/wiki/Drake_(entertainer)" title="Drake (entertainer)" class="mw-redirect">Drake</a>)</span></td>
+<td style="vertical-align: top;">Carter, Graham, <a href="/wiki/Jadakiss" title="Jadakiss">Jason Phillips</a>, Lyon, Valenzano, B. Pickens, <a href="/wiki/Alan_Parsons" title="Alan Parsons">Alan Parsons</a>, <a href="/wiki/Eric_Woolfson" title="Eric Woolfson">Eric Woolfson</a></td>
+<td style="vertical-align: top;">Cool &amp; Dre</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:01</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Outro" <span style="font-size:85%;">(performed by <a href="/wiki/Bun_B" title="Bun B">Bun B</a>, <a href="/wiki/Nas" title="Nas">Nas</a>, <a href="/wiki/Shyne" title="Shyne">Shyne</a> and <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a>)</span></td>
+<td style="vertical-align: top;">Carter, Hodge, <a href="/wiki/Bun_B" title="Bun B">Bernard Freeman</a>, <a href="/wiki/Nas" title="Nas">Nasir Jones</a>, <a href="/wiki/Shyne" title="Shyne">Jamal Barrow</a>, <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Trevor Smith, Jr.</a>, Preyan, Ben-David</td>
+<td style="vertical-align: top;">Willy Will</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:52</td>
+</tr>
+<tr>
+<td align="right" colspan="4">
+<div style="width: 7.5em; text-align: left; padding-left: 10px; background-color: #eee; margin: 0;"><b>Total length:</b></div>
+</td>
+<td style="padding-right: 10px; text-align: right; background-color: #eee;"><b>60:25</b></td>
+<td class="mbox-empty-cell"></td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">Deluxe edition bonus tracks</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"I Like the View" &#160;</td>
+<td style="vertical-align: top;">Carter, Lyon, Valenzano</td>
+<td style="vertical-align: top;">Cool &amp; Dre</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:41</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Mirror_(Lil_Wayne_song)" title="Mirror (Lil Wayne song)">Mirror</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Bruno_Mars" title="Bruno Mars">Bruno Mars</a>)</span></td>
+<td style="vertical-align: top;">Carter, <a href="/wiki/Bruno_Mars" title="Bruno Mars">Peter Hernandez</a>, Phillip Lawrence, Ramon Owen</td>
+<td style="vertical-align: top;">REO, <a href="/wiki/The_Smeezingtons" title="The Smeezingtons">The Smeezingtons</a> <small>(add.)</small></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:48</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"Two Shots" &#160;</td>
+<td style="vertical-align: top;">Carter, Thomas Wesley Pentz, Derek Allen</td>
+<td style="vertical-align: top;"><a href="/wiki/Diplo_(producer)" title="Diplo (producer)" class="mw-redirect">Diplo</a>, DJA</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:45</td>
+</tr>
+<tr>
+<td align="right" colspan="4">
+<div style="width: 7.5em; text-align: left; padding-left: 10px; background-color: #eee; margin: 0;"><b>Total length:</b></div>
+</td>
+<td style="padding-right: 10px; text-align: right; background-color: #eee;"><b>71:39</b></td>
+<td class="mbox-empty-cell"></td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff"><a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a> bonus track</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"Up Up and Away" &#160;</td>
+<td style="vertical-align: top;">Carter, Brandon Deener, Timothy Mosley</td>
+<td style="vertical-align: top;">Wizz Dumb, <a href="/wiki/Timbaland" title="Timbaland">Timbaland</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:53</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff"><a href="/wiki/Target_Corporation" title="Target Corporation">Target</a> bonus tracks</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">19.</td>
+<td style="text-align: left; vertical-align: top;">"Novacane" <span style="font-size:85%;">(featuring <a href="/wiki/Kevin_Rudolf" title="Kevin Rudolf">Kevin Rudolf</a>)</span></td>
+<td style="vertical-align: top;">Carter, <a href="/wiki/Kevin_Rudolf" title="Kevin Rudolf">Kevin Rudolf</a>, <a href="/wiki/Emile_Haynie" title="Emile Haynie">Emile Haynie</a>, Wexler, Butler, Ighner</td>
+<td style="vertical-align: top;">Emile Haynie</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:38</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">20.</td>
+<td style="text-align: left; vertical-align: top;">"I Got Some Money on Me" <span style="font-size:85%;">(featuring <a href="/wiki/Birdman_(rapper)" title="Birdman (rapper)">Birdman</a>)</span></td>
+<td style="vertical-align: top;">Carter, <a href="/wiki/Birdman_(rapper)" title="Birdman (rapper)">Bryan Williams</a>, Preyan, Thielk</td>
+<td style="vertical-align: top;">Drew Money</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:05</td>
+</tr>
+</table>
+<dl>
+<dt>Notes</dt>
+</dl>
+<ul>
+<li>"6 Foot 7 Foot" contains interpolations of "<a href="/wiki/Day-O_(The_Banana_Boat_Song)" title="Day-O (The Banana Boat Song)">Day-O (The Banana Boat Song)</a>" by <a href="/wiki/Harry_Belafonte" title="Harry Belafonte">Harry Belafonte</a>.</li>
+<li>"Interlude" features an uncredited verse by <a href="/wiki/Andr%C3%A9_3000" title="André 3000">André 3000</a>.<sup id="cite_ref-Kot_39-2" class="reference"><a href="#cite_note-Kot-39"><span>[</span>39<span>]</span></a></sup></li>
+<li>"John" has uncredited production by Ayo the Producer<sup id="cite_ref-trensett_53-0" class="reference"><a href="#cite_note-trensett-53"><span>[</span>53<span>]</span></a></sup> and contains a sample of "I'm Not a Star" by <a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a>.</li>
+<li>"President Carter" contains a sample of "Les Dunes D'ostende" by <a href="/wiki/Fran%C3%A7ois_de_Roubaix" title="François de Roubaix">François de Roubaix</a>.</li>
+<li>"It's Good" contains samples of "The Cask of Amontillado" by <a href="/wiki/The_Alan_Parsons_Project" title="The Alan Parsons Project">The Alan Parsons Project</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tha_Carter_IV&amp;action=edit&amp;section=6" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Credits for <i>Tha Carter IV</i> adapted from <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54"><span>[</span>54<span>]</span></a></sup></p>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Richard Adlam – choir, chorus, keyboards</li>
+<li>Christopher Allen – producer</li>
+<li>Angel Onhel Aponte – composer, producer</li>
+<li>Danny Arrondo – recording assistant</li>
+<li>Roland "DJ Folk" Bailey – production coordination</li>
+<li>Alton Bates – engineer</li>
+<li>Joshua Berkman – A&amp;R</li>
+<li>Robert "Big Briz" Brisbane – engineer</li>
+<li>Sandy Brummels – creative director</li>
+<li>Cortez Bryant – executive producer</li>
+<li>Katina Bynum – project manager</li>
+<li>Michael "Banger" Cadahia – engineer</li>
+<li>Noel Cadastre – recording assistant</li>
+<li>Mrs. Carter – cover image</li>
+<li>The Commission – producer</li>
+<li>Cool &amp; Dre – producer</li>
+<li>Martika Cortes – recording assistant</li>
+<li>Seandrae "Mr. Bangladesh" Crawford – producer</li>
+<li>Detail – producer</li>
+<li>Alex Dilliplane – mixing assistant</li>
+<li>Diplo – producer</li>
+<li>DJA – producer</li>
+<li>Luis Duque – recording assistant</li>
+<li>DVLP – producer</li>
+<li>Dwayne Carter – composer, executive producer</li>
+<li>Eric Eylands – mixing assistant</li>
+<li>Filthy – producer</li>
+<li>Young Fyre – producer</li>
+<li>Elizabeth Gallardo – mixing assistant, recording assistant</li>
+<li>Brian "Big Bass" Gardner – mastering</li>
+<li>Guthrie Govan – bass, guitar</li>
+<li>Rob Holladay – producer</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Ghazi Hourani – mixing assistant</li>
+<li>Infamous – producer</li>
+<li>Chad Jolley – mixing assistant</li>
+<li>Ke'Noe – producer</li>
+<li>Kyledidthis – art direction, design</li>
+<li>Steve Lee – choir, chorus</li>
+<li>Edward "Jewfro" Lidow – assistant engineer, engineer, recording Assistant</li>
+<li>Andrew Lloyd – additional production</li>
+<li>Mack Maine – executive producer</li>
+<li>Fabian Marascuillo – mixing</li>
+<li>MegaMan – producer</li>
+<li>Eddie "Krack Keys" Montilla – composer, piano, strings</li>
+<li>Nabil – photography</li>
+<li>Neal H. Pogue – mixing</li>
+<li>Polow da Don – producer</li>
+<li>REO – producer</li>
+<li>Harry Ritson – choir, chorus, keyboards</li>
+<li>Rudy Rodriguez – recording assistant</li>
+<li>Noah Shebib – engineer</li>
+<li>The Smeezingtons – producer</li>
+<li>Snizzy – producer</li>
+<li>Jeremy Stevenson – mixing</li>
+<li>StreetRunner – additional production</li>
+<li>T-Minus – producer</li>
+<li>Drum Up – producer</li>
+<li>Javier Valverde – engineer</li>
+<li>Seth Waldman – mixing Assistant</li>
+<li>Willy Will – producer</li>
+<li>Bryan "Baby Birdman" Williams – executive producer</li>
+<li>Ronald "Slim Tha Don" Williams – executive producer</li>
+<li>Kevin Zulueta – engineer</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tha_Carter_IV&amp;action=edit&amp;section=7" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tr>
+<th>Chart (2011)</th>
+<th>Peak<br />
+position</th>
+</tr>
+<tr>
+<td><a href="/wiki/ARIA_Charts" title="ARIA Charts">Australian Albums Chart</a><sup id="cite_ref-55" class="reference"><a href="#cite_note-55"><span>[</span>55<span>]</span></a></sup></td>
+<td style="text-align:center;">9</td>
+</tr>
+<tr>
+<td><a href="/wiki/Megacharts" title="Megacharts" class="mw-redirect">Austrian Albums Chart</a><sup id="cite_ref-56" class="reference"><a href="#cite_note-56"><span>[</span>56<span>]</span></a></sup></td>
+<td style="text-align:center;">34</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ultratop_50" title="Ultratop 50" class="mw-redirect">Belgium Albums Chart</a> (Flanders)<sup id="cite_ref-57" class="reference"><a href="#cite_note-57"><span>[</span>57<span>]</span></a></sup></td>
+<td style="text-align:center;">22</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ultratop_50" title="Ultratop 50" class="mw-redirect">Belgium Albums Chart</a> (Wallonia)<sup id="cite_ref-58" class="reference"><a href="#cite_note-58"><span>[</span>58<span>]</span></a></sup></td>
+<td style="text-align:center;">22</td>
+</tr>
+<tr>
+<td><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a><sup id="cite_ref-59" class="reference"><a href="#cite_note-59"><span>[</span>59<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td><a href="/wiki/Danish_Albums_Chart" title="Danish Albums Chart" class="mw-redirect">Danish Albums Chart</a> <sup id="cite_ref-60" class="reference"><a href="#cite_note-60"><span>[</span>60<span>]</span></a></sup></td>
+<td style="text-align:center;">16</td>
+</tr>
+<tr>
+<td><a href="/wiki/Megacharts" title="Megacharts" class="mw-redirect">Dutch Albums Chart</a><sup id="cite_ref-61" class="reference"><a href="#cite_note-61"><span>[</span>61<span>]</span></a></sup></td>
+<td style="text-align:center;">16</td>
+</tr>
+<tr>
+<td><a href="/wiki/French_Albums_Chart" title="French Albums Chart" class="mw-redirect">French Albums Chart</a><sup id="cite_ref-62" class="reference"><a href="#cite_note-62"><span>[</span>62<span>]</span></a></sup></td>
+<td style="text-align:center;">14</td>
+</tr>
+<tr>
+<td><a href="/wiki/German_Albums_Chart" title="German Albums Chart" class="mw-redirect">German Albums Chart</a><sup id="cite_ref-acharts.us_63-0" class="reference"><a href="#cite_note-acharts.us-63"><span>[</span>63<span>]</span></a></sup></td>
+<td style="text-align:center;">13</td>
+</tr>
+<tr>
+<td><a href="/wiki/Irish_Albums_Chart" title="Irish Albums Chart">Irish Albums Chart</a> <sup id="cite_ref-64" class="reference"><a href="#cite_note-64"><span>[</span>64<span>]</span></a></sup></td>
+<td style="text-align:center;">19</td>
+</tr>
+<tr>
+<td><a href="/wiki/FIMI" title="FIMI" class="mw-redirect">Italian Albums Chart</a><sup id="cite_ref-acharts.us_63-1" class="reference"><a href="#cite_note-acharts.us-63"><span>[</span>63<span>]</span></a></sup></td>
+<td style="text-align:center;">51</td>
+</tr>
+<tr>
+<td><a href="/wiki/AMPROFON" title="AMPROFON" class="mw-redirect">Mexican Albums Chart</a><sup id="cite_ref-65" class="reference"><a href="#cite_note-65"><span>[</span>65<span>]</span></a></sup></td>
+<td style="text-align:center;">86</td>
+</tr>
+<tr>
+<td><a href="/wiki/New_Zealand_Albums_Chart" title="New Zealand Albums Chart" class="mw-redirect">New Zealand Albums Chart</a><sup id="cite_ref-66" class="reference"><a href="#cite_note-66"><span>[</span>66<span>]</span></a></sup></td>
+<td style="text-align:center;">8</td>
+</tr>
+<tr>
+<td><a href="/wiki/Norwegian_Albums_Chart" title="Norwegian Albums Chart" class="mw-redirect">Norwegian Albums Chart</a><sup id="cite_ref-67" class="reference"><a href="#cite_note-67"><span>[</span>67<span>]</span></a></sup></td>
+<td style="text-align:center;">6</td>
+</tr>
+<tr>
+<td><a href="/wiki/Swedish_Albums_Chart" title="Swedish Albums Chart" class="mw-redirect">Swedish Albums Chart</a><sup id="cite_ref-68" class="reference"><a href="#cite_note-68"><span>[</span>68<span>]</span></a></sup></td>
+<td style="text-align:center;">41</td>
+</tr>
+<tr>
+<td><a href="/wiki/Swiss_Albums_Chart" title="Swiss Albums Chart" class="mw-redirect">Swiss Albums Chart</a><sup id="cite_ref-69" class="reference"><a href="#cite_note-69"><span>[</span>69<span>]</span></a></sup></td>
+<td style="text-align:center;">9</td>
+</tr>
+<tr>
+<td><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a><sup id="cite_ref-70" class="reference"><a href="#cite_note-70"><span>[</span>70<span>]</span></a></sup></td>
+<td style="text-align:center;">8</td>
+</tr>
+<tr>
+<td><a href="/wiki/UK_R%26B_Chart" title="UK R&amp;B Chart">UK R&amp;B Albums Chart</a><sup id="cite_ref-71" class="reference"><a href="#cite_note-71"><span>[</span>71<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-72" class="reference"><a href="#cite_note-72"><span>[</span>72<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td>US <i>Billboard</i> <a href="/wiki/R%26B/Hip-Hop_Albums" title="R&amp;B/Hip-Hop Albums" class="mw-redirect">R&amp;B/Hip-Hop Albums</a><sup id="cite_ref-73" class="reference"><a href="#cite_note-73"><span>[</span>73<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td>US <i>Billboard</i> <a href="/wiki/Top_Rap_Albums" title="Top Rap Albums" class="mw-redirect">Rap Albums</a><sup id="cite_ref-74" class="reference"><a href="#cite_note-74"><span>[</span>74<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Release_history">Release history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tha_Carter_IV&amp;action=edit&amp;section=8" title="Edit section: Release history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Region</th>
+<th>Date</th>
+<th>Edition <small>(Format)</small></th>
+<th>Catalog</th>
+<th>Label</th>
+</tr>
+<tr>
+<td rowspan="2">Australia</td>
+<td rowspan="3">July 9, 2011</td>
+<td>Standard <small>(<a href="/wiki/Compact_disc" title="Compact disc">CD</a> / <a href="/wiki/Music_download" title="Music download">digital download</a>)</small></td>
+<td>2734831</td>
+<td rowspan="6"><a href="/wiki/Universal_Music_Group" title="Universal Music Group">Universal Music</a>, <a href="/wiki/Cash_Money_Records" title="Cash Money Records">Cash Money</a></td>
+</tr>
+<tr>
+<td>Deluxe <small>(CD / digital download)</small></td>
+<td>2734832</td>
+</tr>
+<tr>
+<td>Austria</td>
+<td>Standard <small>(CD)</small></td>
+<td>—</td>
+</tr>
+<tr>
+<td>Belgium</td>
+<td>July 18, 2011</td>
+<td>Standard <small>(Digital download)</small></td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Canada</td>
+<td rowspan="6">August 29, 2011</td>
+<td>Standard <small>(CD / digital download)</small></td>
+<td>—</td>
+</tr>
+<tr>
+<td>Deluxe <small>(Digital download)</small></td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">United States</td>
+<td>Standard <small>(CD / digital download)</small></td>
+<td>602583409203</td>
+<td rowspan="2"><a href="/wiki/Young_Money_Entertainment" title="Young Money Entertainment">Young Money</a>, Cash Money, <a href="/wiki/Universal_Republic_Records" title="Universal Republic Records">Universal Republic</a></td>
+</tr>
+<tr>
+<td>Deluxe <small>(CD / digital download)</small></td>
+<td>602583409211</td>
+</tr>
+<tr>
+<td rowspan="2">United Kingdom</td>
+<td>Standard <small>(CD / digital download)</small></td>
+<td>—</td>
+<td rowspan="2"><a href="/wiki/Island_Records" title="Island Records">Universal Island</a>, Cash Money</td>
+</tr>
+<tr>
+<td>Deluxe <small>(CD / digital download)</small></td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="4">Ireland</td>
+<td rowspan="2">August 7, 2011</td>
+<td>Standard <small>(Digital download)</small></td>
+<td>—</td>
+<td rowspan="11">Universal Music, Cash Money</td>
+</tr>
+<tr>
+<td>Deluxe <small>(Digital download)</small></td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">August 28, 2011</td>
+<td>Standard <small>(CD)</small></td>
+<td>—</td>
+</tr>
+<tr>
+<td>Deluxe <small>(CD)</small></td>
+<td>—</td>
+</tr>
+<tr>
+<td>Japan</td>
+<td>September 5, 2011</td>
+<td>Deluxe <small>(Digital download)</small></td>
+<td>UICD9848</td>
+</tr>
+<tr>
+<td rowspan="2">Germany</td>
+<td rowspan="2">September 7, 2011</td>
+<td>Standard <small>(CD)</small></td>
+<td>—</td>
+</tr>
+<tr>
+<td>Deluxe <small>(CD)</small></td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">France</td>
+<td rowspan="3">July 26, 2011</td>
+<td>Standard <small>(CD / digital download)</small></td>
+<td>—</td>
+</tr>
+<tr>
+<td>Deluxe <small>(Digital download)</small></td>
+<td>—</td>
+</tr>
+<tr>
+<td>New Zealand</td>
+<td>Standard <small>(CD)</small></td>
+<td>—</td>
+</tr>
+<tr>
+<td>Italy</td>
+<td>August 30, 2011</td>
+<td>Deluxe <small>(CD / digital download)</small></td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Philippines</td>
+<td rowspan="2">July 6, 2011</td>
+<td>Standard <small>(CD / digital download)</small></td>
+<td>—</td>
+<td rowspan="2"><a href="/wiki/MCA_Music" title="MCA Music" class="mw-redirect">MCA Music</a>, Cash Money</td>
+</tr>
+<tr>
+<td>Deluxe <small>(CD / digital download)</small></td>
+<td>—</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tha_Carter_IV&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lilwaynehq.com/discography/albums/tha-carter-4/">Lil Wayne Tha Carter IV Album</a></span></li>
+<li id="cite_note-Retirement_hints-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Retirement_hints_2-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Reid, Shaheem (July–August 2011). <a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2011/06/lil-wayne-graces-xxl%E2%80%99s-julyaugust-2011-cover/">"Time is Money"</a>. <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i> (134): 40–47<span class="reference-accessdate">. Retrieved July 17, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Time+is+Money&amp;rft.aulast=Reid%2C+Shaheem&amp;rft.au=Reid%2C+Shaheem&amp;rft.date=July-August+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2011%2F06%2Flil-wayne-graces-xxl%25E2%2580%2599s-julyaugust-2011-cover%2F&amp;rft.issue=134&amp;rft.jtitle=XXL&amp;rft.pages=40-47&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blog.nielsen.com/nielsenwire/consumer/tops-in-2008-best-selling-album-most-downloaded-song/">Tops In 2008: Best Selling Albums, Most Downloaded Songs | Nielsen Wire</a>. Blog.nielsen.com. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web">Reid, Shaheem (September 12, 2008). <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1594678/20080912/lil_wayne.jhtml">"Lil Wayne Preps Mixtape And Tha Carter IV; Juelz Santana Plans Skull Gang Takeover"</a>. <i>Mixtape Monday</i>. MTV News<span class="reference-accessdate">. Retrieved March 22, 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Lil+Wayne+Preps+Mixtape+And+Tha+Carter+IV%3B+Juelz+Santana+Plans+Skull+Gang+Takeover&amp;rft.aufirst=Shaheem&amp;rft.aulast=Reid&amp;rft.au=Reid%2C+Shaheem&amp;rft.date=September+12%2C+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1594678%2F20080912%2Flil_wayne.jhtml&amp;rft.jtitle=Mixtape+Monday&amp;rft.pub=MTV+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web">Cohen, Jonathan (October 3, 2008). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/1043888/lil-wayne-already-recording-tha-carter-iv">"Lil Wayne Already Recording 'Tha Carter IV<span style="padding-right:0.2em;">'</span>"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved March 22, 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Lil+Wayne+Already+Recording+%27Tha+Carter+IV%27&amp;rft.au=Cohen%2C+Jonathan&amp;rft.aufirst=Jonathan&amp;rft.aulast=Cohen&amp;rft.date=October+3%2C+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F1043888%2Flil-wayne-already-recording-tha-carter-iv&amp;rft.jtitle=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since July 2011">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rap-up.com/2009/10/09/lil-wayne-to-drop-3-albums-this-year/">Lil Wayne to Drop 3 Albums This Year?</a> <i>Rap-Up.</i> Retrieved October 9, 2009.</span></li>
+<li id="cite_note-Rebirth_.26_We_Are_Young_Money_sold_seperately-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rebirth_.26_We_Are_Young_Money_sold_seperately_7-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ihiphop.com/?p=37807">"Lil Wayne's "Rebirth" &amp; "We Are Young Money" Pushed Back &amp; Sold Separately"</a>. iHipHop. September 23, 2011<span class="reference-accessdate">. Retrieved April 19, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.btitle=Lil+Wayne%27s+%22Rebirth%22+%26+%22We+Are+Young+Money%22+Pushed+Back+%26+Sold+Separately&amp;rft.date=September+23%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ihiphop.com%2F%3Fp%3D37807&amp;rft.pub=iHipHop&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Cite uses deprecated parameters (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-is_going_to_be_released_on_May_17.2C_2011.-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-is_going_to_be_released_on_May_17.2C_2011._8-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rap-up.com/2010/10/31/baby-reveals-lil-waynes-post-prison-plans/">"BABY REVEALS LIL WAYNE’S POST-PRISON PLANS"</a>. Rap-Up.co<span class="reference-accessdate">. Retrieved April 19, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.btitle=BABY+REVEALS+LIL+WAYNE%E2%80%99S+POST-PRISON+PLANS&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rap-up.com%2F2010%2F10%2F31%2Fbaby-reveals-lil-waynes-post-prison-plans%2F&amp;rft.pub=Rap-Up.co&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-autogenerated1-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-autogenerated1_9-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rap-up.com/2010/10/31/baby-reveals-lil-waynes-post-prison-plans/">"BABY REVEALS LIL WAYNE’S POST-PRISON PLANS"</a>. Rap-Up.com<span class="reference-accessdate">. Retrieved April 19, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.btitle=BABY+REVEALS+LIL+WAYNE%E2%80%99S+POST-PRISON+PLANS&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rap-up.com%2F2010%2F10%2F31%2Fbaby-reveals-lil-waynes-post-prison-plans%2F&amp;rft.pub=Rap-Up.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mtv.com-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-mtv.com_10-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1662534/lil-wayne-tha-carter-iv-release-date.jhtml">"Lil Wayne's Tha Carter IV Release Date Pushed Back To August"</a>. April 22, 2011<span class="reference-accessdate">. Retrieved June 12, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.btitle=Lil+Wayne%27s+Tha+Carter+IV+Release+Date+Pushed+Back+To+August&amp;rft.date=April+22%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1662534%2Flil-wayne-tha-carter-iv-release-date.jhtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-new_date-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-new_date_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-new_date_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Markman, Rob. (2011-07-11) <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1667052/lil-wayne-tha-carter-iv.jhtml">Lil Wayne's Carter IV 'Totally Done' – Music, Celebrity, Artist News on MTV</a>. Mtv.com. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theboombox.com/2011/04/20/lil-wayne-tha-carter-iv-album-cover/">Lil Wayne's 'Tha Carter IV' Album Cover Revealed</a> Retrieved April 19, 2011.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rap-up.com/2011/04/19/album-cover-lil-wayne-tha-carter-iv/">"Album Cover:Lil Wayne-'Tha Carter IV<span style="padding-right:0.2em;">'</span>"</a>. <i>Rap-Up.com</i><span class="reference-accessdate">. Retrieved April 19, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Album+Cover%3ALil+Wayne-%27Tha+Carter+IV%27&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rap-up.com%2F2011%2F04%2F19%2Falbum-cover-lil-wayne-tha-carter-iv%2F&amp;rft.jtitle=Rap-Up.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.taletela.com/news/8191/lil-wayne-release-artwork-for-tha-carter-iv-deluxe-edition/">"Lil Wayne Release Artwork For 'Tha Carter IV' Deluxe Edition"</a>. <i>TaleTala</i><span class="reference-accessdate">. Retrieved August 16, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Lil+Wayne+Release+Artwork+For+%27Tha+Carter+IV%27+Deluxe+Edition&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.taletela.com%2Fnews%2F8191%2Flil-wayne-release-artwork-for-tha-carter-iv-deluxe-edition%2F&amp;rft.jtitle=TaleTala&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Vena, Jocelyn. (2011-07-07) <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1666932/swizz-beatz-haute-living.jhtml">Swizz Beatz Clarifies Haute Living Rollout, Lil Wayne Track – Music, Celebrity, Artist News</a>. MTV. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web">Rios, Dan. <a rel="nofollow" class="external text" href="http://www.lilwaynehq.com/2011/06/13/video-mtv2-presents-lil-wayne-unplugged/">"Video: MTV2 Presents Lil Wayne Unplugged"</a>. LilWayneHQ.com<span class="reference-accessdate">. Retrieved August 16, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.aufirst=Dan&amp;rft.aulast=Rios&amp;rft.au=Rios%2C+Dan&amp;rft.btitle=Video%3A+MTV2+Presents+Lil+Wayne+Unplugged&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.lilwaynehq.com%2F2011%2F06%2F13%2Fvideo-mtv2-presents-lil-wayne-unplugged%2F&amp;rft.pub=LilWayneHQ.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://news.lalate.com/2011/08/12/lil-wayne-she-will-debuts-off-tha-carter-iv/">"Lil Wayne "She Will" Debuts off Tha Carter IV"</a>. LALATE<span class="reference-accessdate">. Retrieved August 16, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.btitle=Lil+Wayne+%22She+Will%22+Debuts+off+Tha+Carter+IV&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnews.lalate.com%2F2011%2F08%2F12%2Flil-wayne-she-will-debuts-off-tha-carter-iv%2F&amp;rft.pub=LALATE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6_Foot_7_Foot_iTunes-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-6_Foot_7_Foot_iTunes_18-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/6-foot-7-foot-feat.-cory-gunz/id410270960">"6 Foot 7 Foot (feat. Cory Gunz) – Single – United States"</a>. <i><a href="/wiki/ITunes" title="ITunes">iTunes</a></i>. Apple, Inc<span class="reference-accessdate">. Retrieved August 16, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=6+Foot+7+Foot+%28feat.+Cory+Gunz%29+%E2%80%93+Single+%E2%80%93+United+States&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2F6-foot-7-foot-feat.-cory-gunz%2Fid410270960&amp;rft.jtitle=iTunes&amp;rft.pub=Apple%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-explicit-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-explicit_19-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=c7tOAGY59uQ&amp;ob=av3e">"Lil Wayne – 6 Foot 7 Foot (Explicit) ft. Cory Gunz"</a>. YouTube. March 10, 2011<span class="reference-accessdate">. Retrieved August 16, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.btitle=Lil+Wayne+%E2%80%93+6+Foot+7+Foot+%28Explicit%29+ft.+Cory+Gunz&amp;rft.date=March+10%2C+2011&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dc7tOAGY59uQ%26ob%3Dav3e&amp;rft.pub=YouTube&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-John_iTunes-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-John_iTunes_20-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/john-feat.-rick-ross-single/id428304890">"John (feat. Rick Ross) – Single – United States"</a>. <i><a href="/wiki/ITunes" title="ITunes">iTunes</a></i>. Apple, Inc<span class="reference-accessdate">. Retrieved August 16, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=John+%28feat.+Rick+Ross%29+%E2%80%93+Single+%E2%80%93+United+States&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fjohn-feat.-rick-ross-single%2Fid428304890&amp;rft.jtitle=iTunes&amp;rft.pub=Apple%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-How_To_Love_iTunes-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-How_To_Love_iTunes_21-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/how-to-love-single/id441396405">"How to Love – Single – United States"</a>. <i><a href="/wiki/ITunes" title="ITunes">iTunes</a></i>. Apple, Inc<span class="reference-accessdate">. Retrieved August 16, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=How+to+Love+%E2%80%93+Single+%E2%80%93+United+States&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fhow-to-love-single%2Fid441396405&amp;rft.jtitle=iTunes&amp;rft.pub=Apple%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web">Mousdell, Daniel (May 31, 2011). <a rel="nofollow" class="external text" href="http://www.lilwaynehq.com/2011/05/31/exclusive-lilwaynehq-interviews-detail-talks-tha-carter-iv-more/">"Exclusive: LilWayneHQ Interviews Detail; Talks Tha Carter IV &amp; More"</a>. LilWayneHQ<span class="reference-accessdate">. Retrieved June 12, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.aufirst=Daniel&amp;rft.aulast=Mousdell&amp;rft.au=Mousdell%2C+Daniel&amp;rft.btitle=Exclusive%3A+LilWayneHQ+Interviews+Detail%3B+Talks+Tha+Carter+IV+%26+More&amp;rft.date=May+31%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.lilwaynehq.com%2F2011%2F05%2F31%2Fexclusive-lilwaynehq-interviews-detail-talks-tha-carter-iv-more%2F&amp;rft.pub=LilWayneHQ&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation web">Volledige naam. <a rel="nofollow" class="external text" href="https://www.twitter.com/#!/MTVJams/status/106214698696966145">"Twitter"</a>. Twitter<span class="reference-accessdate">. Retrieved 2013-03-24</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.aulast=Volledige+naam&amp;rft.au=Volledige+naam&amp;rft.btitle=Twitter&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fwww.twitter.com%2F%23%21%2FMTVJams%2Fstatus%2F106214698696966145&amp;rft.pub=Twitter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation web">Volledige naam. <a rel="nofollow" class="external text" href="https://www.twitter.com/#!/MTVJams/status/106214225449467905">"Twitter"</a>. Twitter<span class="reference-accessdate">. Retrieved 2013-03-24</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.aulast=Volledige+naam&amp;rft.au=Volledige+naam&amp;rft.btitle=Twitter&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fwww.twitter.com%2F%23%21%2FMTVJams%2Fstatus%2F106214225449467905&amp;rft.pub=Twitter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.vibe.com/posts/lil-wayne-releases-new-single-she-will-feat-drake">"Lil Wayne Releases New Single 'She Will' (feat. Drake)"</a>. Vibe<span class="reference-accessdate">. Retrieved August 16, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.btitle=Lil+Wayne+Releases+New+Single+%27She+Will%27+%28feat.+Drake%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.vibe.com%2Fposts%2Flil-wayne-releases-new-single-she-will-feat-drake&amp;rft.pub=Vibe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Complex-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Complex_26-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2011/01/t-minus-talks-nicki-minajs-moment-4-life-drakes-take-care-and-lil-waynes-tha-carter-iv">"T-Minus Talks Nicki Minaj's "Moment 4 Life," Drake's "Take Care," and Lil Wayne's "Tha Carter IV<span style="padding-right:0.2em;">"</span>"</a>. <a href="/wiki/Complex_(magazine)" title="Complex (magazine)">Complex</a><span class="reference-accessdate">. Retrieved January 5, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=T-Minus+Talks+Nicki+Minaj%27s+%22Moment+4+Life%2C%22+Drake%27s+%22Take+Care%2C%22+and+Lil+Wayne%27s+%22Tha+Carter+IV%22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2011%2F01%2Ft-minus-talks-nicki-minajs-moment-4-life-drakes-take-care-and-lil-waynes-tha-carter-iv&amp;rft.jtitle=%27%27Complex%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-She_Will_original_version-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-She_Will_original_version_27-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://rapradar.com/2011/08/13/new-music-lil-wayne-ft-drake-x-rick-ross-she-will-original/">"New Music: Lil Wayne Ft. Drake x Rick Ross "She Will" (Original)"</a>. <i>RapRadar</i><span class="reference-accessdate">. Retrieved August 13, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=New+Music%3A+Lil+Wayne+Ft.+Drake+x+Rick+Ross+%22She+Will%22+%28Original%29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Frapradar.com%2F2011%2F08%2F13%2Fnew-music-lil-wayne-ft-drake-x-rick-ross-she-will-original%2F&amp;rft.jtitle=RapRadar&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-She_Will_iTunes-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-She_Will_iTunes_28-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/album/she-will-feat.-drake/id457140298?i=457140303&amp;v0=9990&amp;ign-mpt=uo%3D1">"She Will (feat. Drake) – Single – United States"</a>. <i><a href="/wiki/ITunes" title="ITunes">iTunes</a></i>. Apple, Inc<span class="reference-accessdate">. Retrieved August 16, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=She+Will+%28feat.+Drake%29+%E2%80%93+Single+%E2%80%93+United+States&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Falbum%2Fshe-will-feat.-drake%2Fid457140298%3Fi%3D457140303%26v0%3D9990%26ign-mpt%3Duo%253D1&amp;rft.jtitle=iTunes&amp;rft.pub=Apple%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.webcitation.org/61g300E7E">"Urban Radio Adds (May 15, 2012)"</a>. allaccess.com. Archived from <a rel="nofollow" class="external text" href="http://www.allaccess.com/urban/future-releases">the original</a> on September 13, 2011<span class="reference-accessdate">. Retrieved April 8, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Urban+Radio+Adds+%28May+15%2C+2012%29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.allaccess.com%2Furban%2Ffuture-releases&amp;rft.jtitle=%27%27allaccess.com%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-webcitation.org-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-webcitation.org_30-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.webcitation.org/61g300E7E">September 13, 2011</a>. webcitation.org</span></li>
+<li id="cite_note-bill-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-bill_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bill_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.biz/bbbiz/industry/retail/lil-wayne-s-carter-iv-debuts-at-no-1-with-1005340572.story">Lil Wayne's 'Carter IV' Debuts at No. 1 With 964,000 Sold</a>. Billboard.biz. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation news">Caulfield, Keith (September 14, 2011). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/467469/george-strait-lands-top-debut-on-billboard-200-beatles-1-re-enters-top-5">"George Strait Lands Top Debut on Billboard 200, Beatles' 1' Re-enters Top 5"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i><span class="reference-accessdate">. Retrieved September 14, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=George+Strait+Lands+Top+Debut+on+Billboard+200%2C+Beatles%27+1%27+Re-enters+Top+5&amp;rft.au=Caulfield%2C+Keith&amp;rft.aufirst=Keith&amp;rft.aulast=Caulfield&amp;rft.date=September+14%2C+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F467469%2Fgeorge-strait-lands-top-debut-on-billboard-200-beatles-1-re-enters-top-5&amp;rft.jtitle=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-riaa.com-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-riaa.com_33-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://riaa.com/goldandplatinumdata.php?content_selector=gold-platinum-searchable-database">"RIAA – Recording Industry Association of America"</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.btitle=RIAA+%E2%80%93+Recording+Industry+Association+of+America&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Friaa.com%2Fgoldandplatinumdata.php%3Fcontent_selector%3Dgold-platinum-searchable-database&amp;rft.pub=Recording+Industry+Association+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1683085/lil-wayne-cash-money.jhtml">Lil Wayne Signs Four-Album Deal With Cash Money Records - Music, Celebrity, Artist News | MTV.com</a></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://thelavalizard.com/2013/07/top-selling-albums-of-the-2010-2019-decade-so-far/">http://thelavalizard.com/2013/07/top-selling-albums-of-the-2010-2019-decade-so-far/</a></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://jam.canoe.ca/Music/Artists/L/Lil_Wayne/2011/09/07/18651631.html">CANOE – JAM! Music – Artists – Lil Wayne&#160;: Lil Wayne, Chilis spice up charts</a>. Jam.canoe.ca (2011-09-07). Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-Jeffries-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-Jeffries_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Jeffries_37-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Jeffries, David (August 30, 2011). <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/tha-carter-iv-mw0002044358">"Tha Carter IV – Lil Wayne"</a>. <i><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></i>. <a href="/wiki/Rovi_Corporation" title="Rovi Corporation">Rovi Corporation</a><span class="reference-accessdate">. Retrieved August 31, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Tha+Carter+IV+%E2%80%93+Lil+Wayne&amp;rft.aufirst=David&amp;rft.au=Jeffries%2C+David&amp;rft.aulast=Jeffries&amp;rft.date=August+30%2C+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Ftha-carter-iv-mw0002044358&amp;rft.jtitle=Allmusic&amp;rft.pub=Rovi+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Rytlewski-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rytlewski_38-0">^</a></b></span> <span class="reference-text"><span class="citation web">Rytlewski, Evan (August 30, 2011). <a rel="nofollow" class="external text" href="http://www.avclub.com/articles/lil-wayne-tha-carter-iv,61149/">"Lil Wayne: Tha Carter IV"</a>. <i><a href="/wiki/The_A.V._Club" title="The A.V. Club">The A.V. Club</a></i>. <a href="/wiki/The_Onion" title="The Onion">Onion Inc.</a> <span class="reference-accessdate">Retrieved August 31, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Lil+Wayne%3A+Tha+Carter+IV&amp;rft.aufirst=Evan&amp;rft.aulast=Rytlewski&amp;rft.au=Rytlewski%2C+Evan&amp;rft.date=August+30%2C+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.avclub.com%2Farticles%2Flil-wayne-tha-carter-iv%2C61149%2F&amp;rft.jtitle=The+A.V.+Club&amp;rft.pub=Onion+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Kot-39"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kot_39-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kot_39-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Kot_39-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a href="/wiki/Greg_Kot" title="Greg Kot">Kot, Greg</a> (August 29, 2011). <a rel="nofollow" class="external text" href="http://www.chicagotribune.com/entertainment/music/turnitup/chi-lil-wayne-album-review-tha-carter-iv-reviewed-20110829,0,2750188.column">"Lil Wayne album review; Tha Carter IV reviewed"</a>. <i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i>. <a href="/wiki/Tribune_Company" title="Tribune Company">Tribune Company</a><span class="reference-accessdate">. Retrieved August 30, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Lil+Wayne+album+review%3B+Tha+Carter+IV+reviewed&amp;rft.aufirst=Greg&amp;rft.au=Kot%2C+Greg&amp;rft.aulast=Kot&amp;rft.date=August+29%2C+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.chicagotribune.com%2Fentertainment%2Fmusic%2Fturnitup%2Fchi-lil-wayne-album-review-tha-carter-iv-reviewed-20110829%2C0%2C2750188.column&amp;rft.jtitle=Chicago+Tribune&amp;rft.pub=Tribune+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Wete-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wete_40-0">^</a></b></span> <span class="reference-text"><span class="citation web">Wete, Brad (August 31, 2011). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,20524423,00.html">"The Carter IV review – Lil Wayne Review"</a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i>. <a href="/wiki/Time_Inc." title="Time Inc.">Time Inc.</a> <span class="reference-accessdate">Retrieved September 1, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=The+Carter+IV+review+%E2%80%93+Lil+Wayne+Review&amp;rft.aufirst=Brad&amp;rft.aulast=Wete&amp;rft.au=Wete%2C+Brad&amp;rft.date=August+31%2C+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C20524423%2C00.html&amp;rft.jtitle=Entertainment+Weekly&amp;rft.pub=Time+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Weiss-41"><span class="mw-cite-backlink">^ <a href="#cite_ref-Weiss_41-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Weiss_41-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Weiss, Jeff (August 30, 2011). <a rel="nofollow" class="external text" href="http://latimesblogs.latimes.com/music_blog/2011/08/album-review-lil-waynes-tha-carter-iv.html">"Album review: Lil Wayne's 'Tha Carter IV<span style="padding-right:0.2em;">'</span>"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. Tribune Company<span class="reference-accessdate">. Retrieved August 31, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Album+review%3A+Lil+Wayne%27s+%27Tha+Carter+IV%27&amp;rft.aufirst=Jeff&amp;rft.aulast=Weiss&amp;rft.au=Weiss%2C+Jeff&amp;rft.date=August+30%2C+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flatimesblogs.latimes.com%2Fmusic_blog%2F2011%2F08%2Falbum-review-lil-waynes-tha-carter-iv.html&amp;rft.jtitle=Los+Angeles+Times&amp;rft.pub=Tribune+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Fuertes-42"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fuertes_42-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fuertes_42-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Fuertes-Knight, Jo (September 6, 2011). <a rel="nofollow" class="external text" href="http://www.nme.com/reviews/lil-wayne--2/12297">"Album Review: Lil Wayne – ‘Tha Carter IV’"</a>. <i><a href="/wiki/NME" title="NME">NME</a></i>. <a href="/wiki/IPC_Media" title="IPC Media">IPC Media</a><span class="reference-accessdate">. Retrieved September 13, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Album+Review%3A+Lil+Wayne+%E2%80%93+%E2%80%98Tha+Carter+IV%E2%80%99&amp;rft.aufirst=Jo&amp;rft.au=Fuertes-Knight%2C+Jo&amp;rft.aulast=Fuertes-Knight&amp;rft.date=September+6%2C+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nme.com%2Freviews%2Flil-wayne--2%2F12297&amp;rft.jtitle=NME&amp;rft.pub=IPC+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Dombal-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dombal_43-0">^</a></b></span> <span class="reference-text"><span class="citation web">Dombal, Ryan (August 30, 2011). <a rel="nofollow" class="external text" href="http://pitchfork.com/reviews/albums/15770-tha-carter-iv/">"Lil Wayne: Tha Carter IV"</a>. <a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a><span class="reference-accessdate">. Retrieved August 30, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.au=Dombal%2C+Ryan&amp;rft.aufirst=Ryan&amp;rft.aulast=Dombal&amp;rft.btitle=Lil+Wayne%3A+Tha+Carter+IV&amp;rft.date=August+30%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Freviews%2Falbums%2F15770-tha-carter-iv%2F&amp;rft.pub=Pitchfork+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Sheffield-44"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sheffield_44-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sheffield_44-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal"><a href="/wiki/Rob_Sheffield" title="Rob Sheffield">Sheffield, Rob</a> (September 15, 2011). <a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/albumreviews/tha-carter-iv-20110829">"Tha Carter IV by Lil Wayne"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> (<a href="/wiki/Jann_Wenner" title="Jann Wenner">Wenner Media</a>) (1139): 72<span class="reference-accessdate">. Retrieved August 30, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Tha+Carter+IV+by+Lil+Wayne&amp;rft.aufirst=Rob&amp;rft.aulast=Sheffield&amp;rft.au=Sheffield%2C+Rob&amp;rft.date=September+15%2C+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Falbumreviews%2Ftha-carter-iv-20110829&amp;rft.issue=1139&amp;rft.jtitle=Rolling+Stone&amp;rft.pages=72&amp;rft.pub=Wenner+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Cole-45"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cole_45-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cole_45-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Cole, Matthew (August 29, 2011). <a rel="nofollow" class="external text" href="http://www.slantmagazine.com/music/review/lil-wayne-tha-carter-iv">"Lil Wayne: Tha Carter IV"</a>. <a href="/wiki/Slant_Magazine" title="Slant Magazine">Slant Magazine</a><span class="reference-accessdate">. Retrieved August 30, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.au=Cole%2C+Matthew&amp;rft.aufirst=Matthew&amp;rft.aulast=Cole&amp;rft.btitle=Lil+Wayne%3A+Tha+Carter+IV&amp;rft.date=August+29%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.slantmagazine.com%2Fmusic%2Freview%2Flil-wayne-tha-carter-iv&amp;rft.pub=Slant+Magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Fennessey-46"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fennessey_46-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fennessey_46-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Fennessey, Sean (August 29, 2011). <a rel="nofollow" class="external text" href="http://www.spin.com/reviews/lil-wayne-tha-carter-iv-young-moneycash-money">"Lil Wayne, 'Tha Carter IV' (Young Money/Cash Money)"</a>. <i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i>. Spin Media<span class="reference-accessdate">. Retrieved August 30, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Lil+Wayne%2C+%27Tha+Carter+IV%27+%28Young+Money%2FCash+Money%29&amp;rft.au=Fennessey%2C+Sean&amp;rft.aufirst=Sean&amp;rft.aulast=Fennessey&amp;rft.date=August+29%2C+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.spin.com%2Freviews%2Flil-wayne-tha-carter-iv-young-moneycash-money&amp;rft.jtitle=Spin&amp;rft.pub=Spin+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Metacritic-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-Metacritic_47-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/tha-carter-iv">"Tha Carter IV Reviews, Ratings, Credits, and More at Metacritic"</a>. <i><a href="/wiki/Metacritic" title="Metacritic">Metacritic</a></i>. <a href="/wiki/CBS_Interactive" title="CBS Interactive">CBS Interactive</a><span class="reference-accessdate">. Retrieved August 30, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Tha+Carter+IV+Reviews%2C+Ratings%2C+Credits%2C+and+More+at+Metacritic&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.metacritic.com%2Fmusic%2Ftha-carter-iv&amp;rft.jtitle=Metacritic&amp;rft.pub=CBS+Interactive&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><span class="citation web">Raymer, Miles (August 30, 2011). <a rel="nofollow" class="external text" href="http://www.chicagoreader.com/Bleader/archives/2011/08/30/the-business-of-selling-music-continues-to-make-no-sense-at-all">"The business of selling music continues to make no sense at all"</a>. <i><a href="/wiki/Chicago_Reader" title="Chicago Reader">Chicago Reader</a></i><span class="reference-accessdate">. Retrieved August 31, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.aufirst=Miles&amp;rft.aulast=Raymer&amp;rft.au=Raymer%2C+Miles&amp;rft.btitle=The+business+of+selling+music+continues+to+make+no+sense+at+all&amp;rft.date=August+30%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.chicagoreader.com%2FBleader%2Farchives%2F2011%2F08%2F30%2Fthe-business-of-selling-music-continues-to-make-no-sense-at-all&amp;rft.pub=%27%27Chicago+Reader%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hutchins-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hutchins_49-0">^</a></b></span> <span class="reference-text"><span class="citation web">Hutchins, Andy (August 29, 2011). <a rel="nofollow" class="external text" href="http://blogs.villagevoice.com/music/2011/08/lil_wayne_tha_carter_iv_review.php">"Lil Wayne Keeps Chasing His Glory Days On Tha Carter IV – New York Music – Sound of the City"</a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>. <a href="/wiki/Village_Voice_Media" title="Village Voice Media">Village Voice Media</a><span class="reference-accessdate">. Retrieved August 30, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Lil+Wayne+Keeps+Chasing+His+Glory+Days+On+Tha+Carter+IV+%E2%80%93+New+York+Music+%E2%80%93+Sound+of+the+City&amp;rft.aufirst=Andy&amp;rft.au=Hutchins%2C+Andy&amp;rft.aulast=Hutchins&amp;rft.date=August+29%2C+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fblogs.villagevoice.com%2Fmusic%2F2011%2F08%2Flil_wayne_tha_carter_iv_review.php&amp;rft.jtitle=The+Village+Voice&amp;rft.pub=Village+Voice+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Caramanica-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-Caramanica_50-0">^</a></b></span> <span class="reference-text"><span class="citation news">Caramanica, Jon (August 30, 2011). <a rel="nofollow" class="external text" href="http://www.nytimes.com/2011/08/31/arts/music/lil-waynes-tha-carter-iv-review.html">"Lil Wayne’s ‘Tha Carter IV’ – Review"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> (The New York Times Company)<span class="reference-accessdate">. Retrieved August 31, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Lil+Wayne%E2%80%99s+%E2%80%98Tha+Carter+IV%E2%80%99+%E2%80%93+Review&amp;rft.au=Caramanica%2C+Jon&amp;rft.aufirst=Jon&amp;rft.aulast=Caramanica&amp;rft.date=August+30%2C+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2011%2F08%2F31%2Farts%2Fmusic%2Flil-waynes-tha-carter-iv-review.html&amp;rft.jtitle=The+New+York+Times&amp;rft.pub=The+New+York+Times+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-discogs-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-discogs_51-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.discogs.com/Lil-Wayne-Tha-Carter-IV/release/3209407">"Lil Wayne – Tha Carter IV"</a>. Discogs<span class="reference-accessdate">. Retrieved 2012-12-27</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.btitle=Lil+Wayne+%E2%80%93+Tha+Carter+IV&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2FLil-Wayne-Tha-Carter-IV%2Frelease%2F3209407&amp;rft.pub=Discogs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ddotomen.com/2011/07/13/video-tha-carter-iv-producer-revealed-the-making-of-nightmares-of-the-bottom/">Tha Carter IV Producer Revealed, The Making Of "Nightmares Of The Bottom" | DDotOmen</a></span></li>
+<li id="cite_note-trensett-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-trensett_53-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://vimeo.com/35154388">"AYO The Producer *Studio Exclusive* (Breaks Down Lil'Wayne's Single "If I Die Today" ft. Rick Ross)"</a>. TrenSett Music<span class="reference-accessdate">. Retrieved 2013-02-19</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.btitle=AYO+The+Producer+%2AStudio+Exclusive%2A+%28Breaks+Down+Lil%27Wayne%27s+Single+%22If+I+Die+Today%22+ft.+Rick+Ross%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fvimeo.com%2F35154388&amp;rft.pub=TrenSett+Music&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/tha-carter-iv-deluxe-version-r2180735/credits">Credits: <i>Tha Carter IV (Deluxe Version)</i></a>. <i><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></i>. <a href="/wiki/Macrovision" title="Macrovision" class="mw-redirect">Macrovision</a>. Retrieved August 28, 2011.</span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://australian-charts.com/showitem.asp?interpret=Lil+Wayne&amp;titel=Tha+Carter+IV&amp;cat=a">"australian-charts.com – Lil Wayne – Tha Carter IV"</a>. Hung Medien<span class="reference-accessdate">. Retrieved September 11, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.btitle=australian-charts.com+%E2%80%93+Lil+Wayne+%E2%80%93+Tha+Carter+IV&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Faustralian-charts.com%2Fshowitem.asp%3Finterpret%3DLil%2BWayne%26titel%3DTha%2BCarter%2BIV%26cat%3Da&amp;rft.pub=Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://austriancharts.at/showitem.asp?interpret=Lil+Wayne&amp;titel=Tha+Carter+IV&amp;cat=a">Lil Wayne – Tha Carter IV</a>. austriancharts.at. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ultratop.be/nl/showitem.asp?interpret=Lil+Wayne&amp;titel=Tha+Carter+IV&amp;cat=a">Lil Wayne – Tha Carter IV</a>. ultratop.be. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ultratop.be/fr/showitem.asp?interpret=Lil+Wayne&amp;titel=Tha+Carter+IV&amp;cat=a">Lil Wayne – Tha Carter IV</a>. ultratop.be. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/307264/lil+wayne/chart?f=309">canadian-albums</a>. Billboard</span></li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://danishcharts.com/showitem.asp?interpret=Lil+Wayne&amp;titel=Tha+Carter+IV&amp;cat=a">Lil Wayne – Tha Carter IV</a>. danishcharts.com. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dutchcharts.nl/showitem.asp?interpret=Lil+Wayne&amp;titel=Tha+Carter+IV&amp;cat=a">Lil Wayne – Tha Carter IV</a>. dutchcharts.nl. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://lescharts.com/showitem.asp?interpret=Lil+Wayne&amp;titel=Tha+Carter+IV&amp;cat=a">Lil Wayne – Tha Carter IV</a>. lescharts.com. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-acharts.us-63"><span class="mw-cite-backlink">^ <a href="#cite_ref-acharts.us_63-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-acharts.us_63-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://acharts.us/album/65518">Lil Wayne – Tha Carter IV – Music Charts</a>. Acharts.us. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://irma.ie/aucharts.asp#singles">IRMA</a>. Irma.ie (2012-02-02). Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-65">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.centrodedesarrollodigital.com/amprofon3/Top100.pdf">"www.centrodedesarrollodigital.com/amprofon3/100"</a> (PDF)<span class="reference-accessdate">. Retrieved 2013-03-24</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.btitle=www.centrodedesarrollodigital.com%2Famprofon3%2F100&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.centrodedesarrollodigital.com%2Famprofon3%2FTop100.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-66">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rianz.org.nz/rianz/chart.asp?ChartKind=A&amp;ChartNum=1790">The Official New Zealand Music Chart</a>. Rianz.org.nz. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://norwegiancharts.com/showitem.asp?interpret=Lil+Wayne&amp;titel=Tha+Carter+IV&amp;cat=a">Lil Wayne – Tha Carter IV</a>. norwegiancharts.com. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://swedishcharts.com/showitem.asp?interpret=Lil+Wayne&amp;titel=Tha+Carter+IV&amp;cat=a">Lil Wayne – Tha Carter IV</a>. swedishcharts.com. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://hitparade.ch/showitem.asp?interpret=Lil+Wayne&amp;titel=Tha+Carter+IV&amp;cat=a">Lil Wayne – Tha Carter IV</a>. hitparade.ch. Retrieved on February 6, 2012.</span></li>
+<li id="cite_note-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-70">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/archive-chart/_/3/11-09-10">"Archive Chart"</a>. <i><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a></i>. <a href="/wiki/The_Official_Charts_Company" title="The Official Charts Company" class="mw-redirect">The Official Charts Company</a><span class="reference-accessdate">. Retrieved September 4, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=Archive+Chart&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.theofficialcharts.com%2Farchive-chart%2F_%2F3%2F11-09-10&amp;rft.jtitle=UK+Albums+Chart&amp;rft.pub=The+Official+Charts+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-71"><span class="mw-cite-backlink"><b><a href="#cite_ref-71">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/archive-chart/_/17/2011-08-20/">"Archive Chart"</a>. <a href="/wiki/UK_R%26B_Chart" title="UK R&amp;B Chart">UK R&amp;B Chart</a>. The Official Charts Company. August 20, 2011<span class="reference-accessdate">. Retrieved August 15, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.btitle=Archive+Chart&amp;rft.date=August+20%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.theofficialcharts.com%2Farchive-chart%2F_%2F17%2F2011-08-20%2F&amp;rft.pub=UK+R%26B+Chart.+The+Official+Charts+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-72">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/467579/its-official-lil-waynes-carter-iv-debuts-at-no-1-with-964000-copies">"It's Official: Lil Wayne's 'Carter IV' Debuts at No. 1 With 964,000 Copies"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i><span class="reference-accessdate">. Retrieved September 7, 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATha+Carter+IV&amp;rft.atitle=It%27s+Official%3A+Lil+Wayne%27s+%27Carter+IV%27+Debuts+at+No.+1+With+964%2C000+Copies&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F467579%2Fits-official-lil-waynes-carter-iv-debuts-at-no-1-with-964000-copies&amp;rft.jtitle=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-73"><span class="mw-cite-backlink"><b><a href="#cite_ref-73">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/artist/307264/lil+wayne/chart?f=333">http://www.billboard.com/artist/307264/lil+wayne/chart?f=333</a></span></li>
+<li id="cite_note-74"><span class="mw-cite-backlink"><b><a href="#cite_ref-74">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/artist/307264/lil+wayne/chart?f=335">http://www.billboard.com/artist/307264/lil+wayne/chart?f=335</a></span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Lil_Wayne" title="Template:Lil Wayne"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Lil_Wayne" title="Template talk:Lil Wayne"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lil_Wayne&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Lil_Wayne" title="Lil Wayne">Lil Wayne</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/Lil_Wayne_discography" title="Lil Wayne discography">Discography</a></li>
+<li><a href="/wiki/Lil_Wayne_singles_discography" title="Lil Wayne singles discography">Singles discography</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Lil_Wayne" title="List of awards and nominations received by Lil Wayne">Awards and nominations</a></li>
+<li><a href="/wiki/Lil_Wayne_videography" title="Lil Wayne videography">Videography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Tha_Block_Is_Hot" title="Tha Block Is Hot">Tha Block Is Hot</a></i> (1999)</li>
+<li><i><a href="/wiki/Lights_Out_(Lil_Wayne_album)" title="Lights Out (Lil Wayne album)">Lights Out</a></i> (2000)</li>
+<li><i><a href="/wiki/500_Degreez" title="500 Degreez">500 Degreez</a></i> (2002)</li>
+<li><i><a href="/wiki/Tha_Carter" title="Tha Carter">Tha Carter</a></i> (2004)</li>
+<li><i><a href="/wiki/Tha_Carter_II" title="Tha Carter II">Tha Carter II</a></i> (2005)</li>
+<li><i><a href="/wiki/Tha_Carter_III" title="Tha Carter III">Tha Carter III</a></i> (2008)</li>
+<li><i><a href="/wiki/Rebirth_(Lil_Wayne_album)" title="Rebirth (Lil Wayne album)">Rebirth</a></i> (2010)</li>
+<li><i><a href="/wiki/I_Am_Not_a_Human_Being" title="I Am Not a Human Being">I Am Not a Human Being</a></i> (2010)</li>
+<li><i><strong class="selflink">Tha Carter IV</strong></i> (2011)</li>
+<li><i><a href="/wiki/I_Am_Not_a_Human_Being_II" title="I Am Not a Human Being II">I Am Not a Human Being II</a></i> (2013)</li>
+<li><i><a href="/wiki/Tha_Carter_V" title="Tha Carter V" class="mw-redirect">Tha Carter V</a></i> (2014)</li>
+</ul>
+</div>
+<table cellspacing="0" class="nowraplinks vcard navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE; text-align:center;;">Collaborations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Like_Father,_Like_Son_(Birdman_and_Lil_Wayne_album)" title="Like Father, Like Son (Birdman and Lil Wayne album)">Like Father, Like Son</a></i> <small style="font-size:85%;">(with <a href="/wiki/Birdman_(rapper)" title="Birdman (rapper)">Birdman</a>)</small> (2006)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/We_Are_Young_Money" title="We Are Young Money">We Are Young Money</a></i> <small style="font-size:85%;">(with <a href="/wiki/Young_Money_Entertainment" title="Young Money Entertainment">Young Money</a>)</small> (2009)</li>
+<li><i><a href="/wiki/Rich_Gang_(album)" title="Rich Gang (album)">Rich Gang</a></i> <small style="font-size:85%;">(with <a href="/wiki/YMCMB" title="YMCMB" class="mw-redirect">YMCMB</a>)</small> (2013)</li>
+<li><i><a href="/wiki/Young_Money:_Rise_of_an_Empire" title="Young Money: Rise of an Empire">Young Money: Rise of an Empire</a></i> <small style="font-size:85%;">(with Young Money)</small> (2014)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">EPs</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Leak" title="The Leak">The Leak</a></i> (2007)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Mixtapes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/SQ4" title="SQ4" class="mw-redirect">SQ4</a></i> (2002)</li>
+<li><i><a href="/wiki/SQ5" title="SQ5" class="mw-redirect">SQ5</a></i> (2003)</li>
+<li><i><a href="/wiki/SQ6" title="SQ6" class="mw-redirect">SQ6</a></i> (2003)</li>
+<li><i><a href="/wiki/The_Dedication" title="The Dedication">The Dedication</a></i> (2005)</li>
+<li><i><a href="/wiki/Dedication_2" title="Dedication 2">Dedication 2</a></i> (2006)</li>
+<li><i><a href="/wiki/Da_Drought_3" title="Da Drought 3">Da Drought 3</a></i> (2007)</li>
+<li><i><a href="/wiki/The_Drought_Is_Over_2_(The_Carter_3_Sessions)" title="The Drought Is Over 2 (The Carter 3 Sessions)">The Drought Is Over 2 (The Carter 3 Sessions)</a></i> (2007)</li>
+<li><i><a href="/wiki/Dedication_3" title="Dedication 3">Dedication 3</a></i> (2008)</li>
+<li><i><a href="/wiki/No_Ceilings" title="No Ceilings">No Ceilings</a></i> (2009)</li>
+<li><i><a href="/wiki/Sorry_4_the_Wait" title="Sorry 4 the Wait">Sorry 4 the Wait</a></i> (2011)</li>
+<li><i><a href="/wiki/Dedication_4" title="Dedication 4">Dedication 4</a></i> (2012)</li>
+<li><i><a href="/wiki/Dedication_5" title="Dedication 5">Dedication 5</a></i> (2013)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Concert tours</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/I_Am_Music_Tour" title="I Am Music Tour">I Am Music Tour</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Hot_Boys" title="Hot Boys">Hot Boys</a></li>
+<li><a href="/wiki/Cash_Money_Millionaires" title="Cash Money Millionaires">Cash Money Millionaires</a></li>
+<li><a href="/wiki/Cash_Money_Records" title="Cash Money Records">Cash Money Records</a></li>
+<li><a href="/wiki/Young_Money_Entertainment" title="Young Money Entertainment">Young Money Entertainment</a></li>
+<li><a href="/wiki/Birdman_(rapper)" title="Birdman (rapper)">Birdman</a></li>
+<li><a href="/wiki/Big_Tymers" title="Big Tymers">Big Tymers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1183
+CPU time usage: 3.448 seconds
+Real time usage: 3.580 seconds
+Preprocessor visited node count: 17952/1000000
+Preprocessor generated node count: 55539/1500000
+Post‐expand include size: 170210/2048000 bytes
+Template argument size: 20626/2048000 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 5/500
+Lua time usage: 0.202/10.000 seconds
+Lua memory usage: 3.4 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27404633-0!*!0!!en!4!* and timestamp 20140531003937 and revision id 608984520
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Tha_Carter_IV&amp;oldid=608984520">http://en.wikipedia.org/w/index.php?title=Tha_Carter_IV&amp;oldid=608984520</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2011_albums" title="Category:2011 albums">2011 albums</a></li><li><a href="/wiki/Category:Lil_Wayne_albums" title="Category:Lil Wayne albums">Lil Wayne albums</a></li><li><a href="/wiki/Category:Cash_Money_Records_albums" title="Category:Cash Money Records albums">Cash Money Records albums</a></li><li><a href="/wiki/Category:Young_Money_Entertainment_albums" title="Category:Young Money Entertainment albums">Young Money Entertainment albums</a></li><li><a href="/wiki/Category:Universal_Republic_Records_albums" title="Category:Universal Republic Records albums">Universal Republic Records albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Bangladesh" title="Category:Albums produced by Bangladesh">Albums produced by Bangladesh</a></li><li><a href="/wiki/Category:Albums_produced_by_Cool_%26_Dre" title="Category:Albums produced by Cool &amp; Dre">Albums produced by Cool &amp; Dre</a></li><li><a href="/wiki/Category:Albums_produced_by_Diplo" title="Category:Albums produced by Diplo">Albums produced by Diplo</a></li><li><a href="/wiki/Category:Albums_produced_by_Emile_Haynie" title="Category:Albums produced by Emile Haynie">Albums produced by Emile Haynie</a></li><li><a href="/wiki/Category:Albums_produced_by_J.U.S.T.I.C.E._League" title="Category:Albums produced by J.U.S.T.I.C.E. League">Albums produced by J.U.S.T.I.C.E. League</a></li><li><a href="/wiki/Category:Albums_produced_by_Noel_%22Detail%22_Fisher" title="Category:Albums produced by Noel &quot;Detail&quot; Fisher">Albums produced by Noel &quot;Detail&quot; Fisher</a></li><li><a href="/wiki/Category:Albums_produced_by_Polow_da_Don" title="Category:Albums produced by Polow da Don">Albums produced by Polow da Don</a></li><li><a href="/wiki/Category:Albums_produced_by_T-Minus" title="Category:Albums produced by T-Minus">Albums produced by T-Minus</a></li><li><a href="/wiki/Category:Albums_produced_by_The_Smeezingtons" title="Category:Albums produced by The Smeezingtons">Albums produced by The Smeezingtons</a></li><li><a href="/wiki/Category:Albums_produced_by_Timbaland" title="Category:Albums produced by Timbaland">Albums produced by Timbaland</a></li><li><a href="/wiki/Category:Albums_produced_by_StreetRunner" title="Category:Albums produced by StreetRunner">Albums produced by StreetRunner</a></li><li><a href="/wiki/Category:Sequel_albums" title="Category:Sequel albums">Sequel albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_July_2011" title="Category:Articles with dead external links from July 2011">Articles with dead external links from July 2011</a></li><li><a href="/wiki/Category:Pages_containing_cite_templates_with_deprecated_parameters" title="Category:Pages containing cite templates with deprecated parameters">Pages containing cite templates with deprecated parameters</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_February_2012" title="Category:Use mdy dates from February 2012">Use mdy dates from February 2012</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_October_2011" title="Category:Vague or ambiguous time from October 2011">Vague or ambiguous time from October 2011</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tha+Carter+IV&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tha+Carter+IV" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Tha_Carter_IV"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Tha_Carter_IV"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Tha_Carter_IV" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Tha_Carter_IV&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tha_Carter_IV&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tha_Carter_IV" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tha_Carter_IV" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Tha_Carter_IV&amp;oldid=608984520" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Tha_Carter_IV&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1753222" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Tha_Carter_IV&amp;id=608984520" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tha+Carter+IV">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Tha+Carter+IV&amp;oldid=608984520&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Tha_Carter_IV&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Tha_Carter_IV" title="Tha Carter IV – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Tha_Carter_IV" title="Tha Carter IV – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Tha_Carter_IV" title="Tha Carter IV – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Tha_Carter_IV" title="Tha Carter IV – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Tha_Carter_IV" title="Tha Carter IV – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Tha_Carter_IV" title="Tha Carter IV – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Tha_Carter_IV" title="Tha Carter IV – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Tha_Carter_IV" title="Tha Carter IV – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Tha_Carter_IV" title="Tha Carter IV – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Tha_Carter_IV" title="Tha Carter IV – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Tha_Carter_IV" title="Tha Carter IV – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Tha_Carter_IV" title="Tha Carter IV – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q1753222#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 17 May 2014 at 17:39.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Tha_Carter_IV" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":184,"wgHostname":"mw1049"});
+}</script>
+	</body>
+</html>
+	

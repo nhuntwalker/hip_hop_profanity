@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Stillmatic - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Stillmatic" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Stillmatic&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Stillmatic&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Stillmatic" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stillmatic","wgTitle":"Stillmatic","wgCurRevisionId":610734239,"wgRevisionId":610734239,"wgArticleId":319218,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","2001 albums","Albums produced by Da Beatminerz","Albums produced by DJ Premier","Albums produced by L.E.S.","Albums produced by Large Professor","Albums produced by Ron Browz","Albums produced by Salaam Remi","Albums produced by Trackmasters","Columbia Records albums","English-language albums","Nas albums","Sequel albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stillmatic","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q762653"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Stillmatic skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Stillmatic</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Stillmatic</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Nas-stillmatic-music-album.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/5/56/Nas-stillmatic-music-album.jpg/220px-Nas-stillmatic-music-album.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/5/56/Nas-stillmatic-music-album.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/5/56/Nas-stillmatic-music-album.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Nas" title="Nas">Nas</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">December 18, 2001</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1999-2001</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>60:17</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Ill_Will_Records" title="Ill Will Records">Ill Will</a>, <a href="/wiki/Columbia_Records" title="Columbia Records">Columbia</a>/<a href="/wiki/Sony_Music_Entertainment" title="Sony Music Entertainment">SME</a><br />
+<small>CK 85736</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Megahertz" title="Megahertz" class="mw-redirect">Megahertz</a>, <a href="/wiki/Da_Beatminerz" title="Da Beatminerz">Baby Paul</a>, <a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a>, <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>, Hangmen 3, <a href="/wiki/L.E.S._(producer)" title="L.E.S. (producer)" class="mw-redirect">L.E.S.</a>, <a href="/wiki/Large_Professor" title="Large Professor">Large Professor</a>, Lofey, Mike Risko, Nas, <a href="/wiki/Ron_Browz" title="Ron Browz">Ron Browz</a>, <a href="/wiki/Salaam_Remi" title="Salaam Remi">Salaam Remi</a>, <a href="/wiki/Trackmasters" title="Trackmasters">Trackmasters</a>, Precision</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Nas" title="Nas">Nas</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Nastradamus" title="Nastradamus">Nastradamus</a></i><br />
+(1999)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Stillmatic</b></i><br />
+(2001)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/The_Lost_Tapes" title="The Lost Tapes">The Lost Tapes</a></i><br />
+(2002)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Stillmatic</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Rule_(song)" title="Rule (song)">Rule</a>"</span><br />
+Released: October 6, 2001</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Got_Ur_Self_A..." title="Got Ur Self A..." class="mw-redirect">Got Ur Self A...</a>"</span><br />
+Released: December 4, 2001</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/One_Mic" title="One Mic">One Mic</a>"</span><br />
+Released: April 16, 2002</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>Stillmatic</b></i> is the fifth <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by American rapper <a href="/wiki/Nas" title="Nas">Nas</a>, released December 18, 2001 on <a href="/wiki/Columbia_Records" title="Columbia Records">Columbia Records</a> in the United States. In contrast to his previous work's <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a> themes, it contains socially conscious and philosophical themes similar to those of his debut album, <i><a href="/wiki/Illmatic" title="Illmatic">Illmatic</a></i> (1994). Nas' lyrics address topics such as ghetto life, U.S. domestic and foreign policies, and his <a href="/wiki/Jay-Z_vs._Nas_feud" title="Jay-Z vs. Nas feud" class="mw-redirect">feud</a> with rapper <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>.</p>
+<p><i>Stillmatic</i> served as a commercial and critical success that helped re-establish Nas' career, following a period of critical disappointment with the releases of <i><a href="/wiki/I_Am%E2%80%A6_(Nas_album)" title="I Am… (Nas album)" class="mw-redirect">I Am…</a></i> and <i><a href="/wiki/Nastradamus" title="Nastradamus">Nastradamus</a></i> (1999).<sup id="cite_ref-RSguide_1-0" class="reference"><a href="#cite_note-RSguide-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-Leroy_2-0" class="reference"><a href="#cite_note-Leroy-2"><span>[</span>2<span>]</span></a></sup> It debuted at number 8 on the U.S. <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart with sales of 342,600, eventually peaking at number 5 and selling over 2,026,000 copies in the United States.<sup id="cite_ref-More_Than_Words_3-0" class="reference"><a href="#cite_note-More_Than_Words-3"><span>[</span>3<span>]</span></a></sup> Upon its release, <i>Stillmatic</i> received generally positive reviews from most music critics.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Feud_with_Jay-Z"><span class="tocnumber">1.1</span> <span class="toctext">Feud with Jay-Z</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Singles"><span class="tocnumber">2</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Reception"><span class="tocnumber">3</span> <span class="toctext">Reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Commercial_performance"><span class="tocnumber">3.1</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Critical_response"><span class="tocnumber">3.2</span> <span class="toctext">Critical response</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Track_listing"><span class="tocnumber">4</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Personnel"><span class="tocnumber">5</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Charts"><span class="tocnumber">6</span> <span class="toctext">Charts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Album"><span class="tocnumber">6.1</span> <span class="toctext">Album</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Singles_2"><span class="tocnumber">6.2</span> <span class="toctext">Singles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stillmatic&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Though he had gained critical acclaim with his classic debut album <i><a href="/wiki/Illmatic" title="Illmatic">Illmatic</a></i> in 1994, Nas' image had been quickly deteriorating in the hip-hop community with his change of theme, from the philosophical topics of <i>Illmatic</i> to the <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a> and commercialized sound that became the focus of his later albums.<sup id="cite_ref-Birchmeier_4-0" class="reference"><a href="#cite_note-Birchmeier-4"><span>[</span>4<span>]</span></a></sup> While his second album, <i><a href="/wiki/It_Was_Written" title="It Was Written">It Was Written</a>, " received fairly positive reviews and introduced him to a greater audience, the follow-ups</i> <a href="/wiki/I_Am%E2%80%A6_(Nas_album)" title="I Am… (Nas album)" class="mw-redirect">I Am...</a> <i>and</i> <a href="/wiki/Nastradamus" title="Nastradamus">Nastradamus</a> <i>were considered mediocre in comparison by critics.<sup id="cite_ref-RSguide_1-1" class="reference"><a href="#cite_note-RSguide-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-Birchmeier_4-1" class="reference"><a href="#cite_note-Birchmeier-4"><span>[</span>4<span>]</span></a></sup> Some criticized his inability to continue his critical success, with <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> rapping in "<a href="/wiki/Takeover_(song)" title="Takeover (song)">Takeover</a>" that he had "a one hot album every ten year average." The release of</i> Stillmatic <i>was an attempt by Nas to reestablish his credibility in the hip-hop community, with the title signifying his intentions to continue where</i> Illmatic <i>left off.</i></p>
+<h3><span class="mw-headline" id="Feud_with_Jay-Z">Feud with Jay-Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stillmatic&amp;action=edit&amp;section=2" title="Edit section: Feud with Jay-Z">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Jay-Z_vs._Nas_feud" title="Jay-Z vs. Nas feud" class="mw-redirect">Jay-Z vs. Nas feud</a></div>
+<p>Jay-Z had previously dissed Nas in his single "<a href="/wiki/Takeover_(song)" title="Takeover (song)">Takeover</a>, taken from his September 2001 release, <i><a href="/wiki/The_Blueprint" title="The Blueprint">The Blueprint</a>." <sup id="cite_ref-Birchmeier_4-2" class="reference"><a href="#cite_note-Birchmeier-4"><span>[</span>4<span>]</span></a></sup> On</i> Stillmatic," Nas retaliated with the anticipated song, "<a href="/wiki/Ether_(song)" title="Ether (song)">Ether</a>," a response to "Takeover" which insinuated that <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> had stolen lyrics from <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a> several times, that he had sold out, and that he was a <a href="/wiki/Misogynist" title="Misogynist" class="mw-redirect">misogynist</a>, among other things. Several hip-hop aficionados believe Nas won the feud based on this track, which many felt was much more vicious and ruthless than "Takeover," although this is still a subject of debate within hip-hop circles. Jay-Z would respond with the radio freestyle "<a href="/wiki/Supa_Ugly" title="Supa Ugly" class="mw-redirect">Supa Ugly</a>." <sup id="cite_ref-Hinds_5-0" class="reference"><a href="#cite_note-Hinds-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stillmatic&amp;action=edit&amp;section=3" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first single from <i>Stillmatic</i> was "<a href="/wiki/Rule_(song)" title="Rule (song)">Rule</a>" featuring R&amp;B singer <a href="/wiki/Amerie" title="Amerie">Amerie</a>. It was not heavily promoted but still managed to reach number 67 on the <a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a> chart.<sup id="cite_ref-singles_6-0" class="reference"><a href="#cite_note-singles-6"><span>[</span>6<span>]</span></a></sup> It did not receive a video and was issued on compact disc, so many are unaware that it was a single. "<a href="/wiki/Got_Ur_Self_A..." title="Got Ur Self A..." class="mw-redirect">Got Ur Self A...</a>" was believed to have been the first single from <i>Stillmatic.</i> "<a href="/wiki/Got_Ur_Self_A..." title="Got Ur Self A..." class="mw-redirect">Got Ur Self A...</a>," produced by <a href="/wiki/Megahertz" title="Megahertz" class="mw-redirect">Megahertz</a>, contains a sample from <a href="/wiki/Woke_Up_This_Morning" title="Woke Up This Morning">the theme song</a> on the <a href="/wiki/HBO" title="HBO">HBO</a> drama <i><a href="/wiki/The_Sopranos" title="The Sopranos">The Sopranos</a>." The third single was "<a href="/wiki/One_Mic" title="One Mic">One Mic</a>," which received acclaim for its content and video.</i></p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stillmatic&amp;action=edit&amp;section=4" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stillmatic&amp;action=edit&amp;section=5" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The album was released on December 18, 2001 and was certified Platinum by <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> on January 16, 2002.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> By July 2008, the album sold over 2,026,000 copies in the United States.<sup id="cite_ref-More_Than_Words_3-1" class="reference"><a href="#cite_note-More_Than_Words-3"><span>[</span>3<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Critical_response">Critical response</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stillmatic&amp;action=edit&amp;section=6" title="Edit section: Critical response">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Bush_8-0" class="reference"><a href="#cite_note-Bush-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_A.V._Club" title="The A.V. Club">The A.V. Club</a></i></td>
+<td style="vertical-align:middle">mixed<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Pappademas_10-0" class="reference"><a href="#cite_note-Pappademas-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/4 stars"><img alt="3/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Baker_11-0" class="reference"><a href="#cite_note-Baker-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/NME" title="NME">NME</a></i></td>
+<td style="vertical-align:middle">7/10<sup id="cite_ref-Needham_12-0" class="reference"><a href="#cite_note-Needham-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/PopMatters" title="PopMatters">PopMatters</a></td>
+<td style="vertical-align:middle">favorable<sup id="cite_ref-Hill_13-0" class="reference"><a href="#cite_note-Hill-13"><span>[</span>13<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-RSguide_1-2" class="reference"><a href="#cite_note-RSguide-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Source_14-0" class="reference"><a href="#cite_note-Source-14"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a></td>
+<td style="vertical-align:middle">A−<sup id="cite_ref-Berliner_15-0" class="reference"><a href="#cite_note-Berliner-15"><span>[</span>15<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i></td>
+<td style="vertical-align:middle">favorable<sup id="cite_ref-Hinds_5-1" class="reference"><a href="#cite_note-Hinds-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i>Stillmatic</i> received generally positive reviews from music critics. At <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>, which assigns a <a href="/wiki/Standard_score" title="Standard score">normalized</a> rating out of 100 to reviews from mainstream critics, the album received an <a href="/wiki/Weighted_mean" title="Weighted mean" class="mw-redirect">average</a> score of 69, based on 12 reviews.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> Despite finding its production "half-realised", Alex Needham of <i><a href="/wiki/NME" title="NME">NME</a></i> wrote that "lyrically, Nas is pretty much back on form".<sup id="cite_ref-Needham_12-1" class="reference"><a href="#cite_note-Needham-12"><span>[</span>12<span>]</span></a></sup> <i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i><span style="padding-left:0.1em;">'</span>s Alex Pappademas described the album as "a surprising return to form" and stated "Even if it’s a fluke, <i>Stillmatic</i> still feels like a ren-Nas-sance".<sup id="cite_ref-Pappademas_10-1" class="reference"><a href="#cite_note-Pappademas-10"><span>[</span>10<span>]</span></a></sup> Steve Jones of <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i> gave it three-and-a-half out of four stars and stated, "dis songs aside, Nas' strength has always been his incisive lyrical analyses of current events."<sup id="cite_ref-Jones_17-0" class="reference"><a href="#cite_note-Jones-17"><span>[</span>17<span>]</span></a></sup> In his review for <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>, Selwyn Seyfu Hinds wrote "<i>Stillmatic</i> isn't merely a reunion or rehash of <i><a href="/wiki/Illmatic" title="Illmatic">Illmatic</a></i> themes. The Nas on this record has grown, with the emotional expansion such maturation suggests. For one, he has never before drawn upon his anger, with a burning focus and controlled intensity that underscores nearly every song. Some of it can surely be ascribed to the <a href="/wiki/Jay-Z%E2%80%93Nas_feud" title="Jay-Z–Nas feud">Jay-Z battle</a>, but more seems due to the deeper, internal struggle Nas has waged against the fallout from his early, precocious success".<sup id="cite_ref-Hinds_5-2" class="reference"><a href="#cite_note-Hinds-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>In contrast, <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> magazine gave it two-and-a-half out of five stars, and stated "Striving to maintain street <a href="/wiki/Credibility" title="Credibility">cred</a> while reaching for pop success has left Nas vacillating clumsily on past projects, and this record is riddled with similar inconsistencies. One moment he casts himself as a gritty cat who feels most at home on a project bench, calling out neighborhood snakes, and ducking gunshots. The next, he's delivering dumbed-down verses over the <a href="/wiki/Trackmasters" title="Trackmasters">Trackmasters</a>' rinky-dink rendition of <a href="/wiki/Tears_for_Fears" title="Tears for Fears">Tears for Fears</a>".<sup id="cite_ref-McGuire_18-0" class="reference"><a href="#cite_note-McGuire-18"><span>[</span>18<span>]</span></a></sup> John Bush from <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> wrote "Dropping many of the mainstream hooks and featured performers in order to focus his rapping, Nas proves he's still a world-class rhymer, but he does sound out of touch in the process of defending his honor. Despite the many highlights, a few of the tracks just end up weighing him down".<sup id="cite_ref-Bush_8-1" class="reference"><a href="#cite_note-Bush-8"><span>[</span>8<span>]</span></a></sup> Brett Berliner from <a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a> remarked "<i>Stillmatic</i> features the best rhymes from Nas since his debut, and possibly the best rhymes of the year, rivaled maybe only by <a href="/wiki/Ghostface_Killah" title="Ghostface Killah">Ghostface Killah</a>". He however was unfavorable of the album's guests, and some of its production, and went on to comment "<i>Stillmatic</i> was billed as a recreation of <i>Illmatic</i>, where the only rhyming guest was the underrated <a href="/wiki/AZ_(rapper)" title="AZ (rapper)">AZ</a>. However, 5 other guest rappers appear on the album, including Nas’ crew, the <a href="/wiki/Bravehearts" title="Bravehearts">Bravehearts</a>, and the mundane Millennium Thug. The guest rappers only detract from the album, and the guest singers that appear don’t add a whole lot either".<sup id="cite_ref-Berliner_15-1" class="reference"><a href="#cite_note-Berliner-15"><span>[</span>15<span>]</span></a></sup></p>
+<p>Despite a mixed response from most mainstream music publications, <i>Stillmatic</i> achieved a fair amount of acclaim from within the hip hop community, who viewed it as a comeback album. <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> magazine gave it '5 mics', a rating they reserve only for classic hip-hop albums.<sup id="cite_ref-Source_14-1" class="reference"><a href="#cite_note-Source-14"><span>[</span>14<span>]</span></a></sup> HipHopDx also gave it a maximum five rating, and wrote "Easily one of the best albums of the year, <i>Stillmatic</i> runs the gamut of street poetry to storytelling and bravado. This CD is filled with instant classics".<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> Although panning several of the album's songs, Steve Juon from RapReviews gave it a 9 out of 10 rating and concluded "While no album may ever top his debut's brilliance, this one comes close enough to make even his most passionate haters happy to hear the raw essence of hip-hop revealed in all its true glory".<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> Giving <i>Stillmatic</i> a three and-a-half out of five rating, Elizabeth Mendez Berry of <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i> was less favorable, calling it "infuriatingly inconsistent", but she went on to extol it as "an exercise in lyrical courage and musical might".<sup id="cite_ref-Berry_21-0" class="reference"><a href="#cite_note-Berry-21"><span>[</span>21<span>]</span></a></sup></p>
+<p>In <i><a href="/wiki/The_New_Rolling_Stone_Album_Guide" title="The New Rolling Stone Album Guide" class="mw-redirect">The New Rolling Stone Album Guide</a></i> (2004), <i>Rolling Stone</i> journalist Chris Ryan gave the album three stars and called it "a return to form".<sup id="cite_ref-RSguide_1-3" class="reference"><a href="#cite_note-RSguide-1"><span>[</span>1<span>]</span></a></sup> Ryan wrote that it "finds Nas sticking with what works, creative storyraps and trenchant social commentary. He still errs when he makes attempts at club tracks, but the album is largely a success."<sup id="cite_ref-RSguide_1-4" class="reference"><a href="#cite_note-RSguide-1"><span>[</span>1<span>]</span></a></sup> In 2005, <a href="/wiki/Chris_Rock" title="Chris Rock">Chris Rock</a> compiled a list of his Top 25 Hip-Hop Albums of all time, to which he ranked <i>Stillmatic</i> at number 20, commenting "It's like <i><a href="/wiki/Mama_Said_Knock_You_Out" title="Mama Said Knock You Out">Mama Said Knock You Out</a></i> eleven years earlier, where a guy just reclaimed his spot with some great records".<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stillmatic&amp;action=edit&amp;section=7" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Stillmatic (The Intro)" &#160;</td>
+<td style="vertical-align: top;">Hangmen 3</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:11</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Ether_(song)" title="Ether (song)">Ether</a>" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Ron_Browz" title="Ron Browz">Ron Browz</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:37</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Got_Ur_Self_A..." title="Got Ur Self A..." class="mw-redirect">Got Ur Self A...</a>" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Megahertz_(record_producer)" title="Megahertz (record producer)">Megahertz</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:48</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Smokin'" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Nas" title="Nas">Nas</a>, Precision</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:47</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"You're da Man" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Large_Professor" title="Large Professor">Large Professor</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:26</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Rewind" &#160;</td>
+<td style="vertical-align: top;">Large Professor</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:13</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/One_Mic" title="One Mic">One Mic</a>" &#160;</td>
+<td style="vertical-align: top;">Nas, <a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:28</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"2nd Childhood" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:51</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Destroy &amp; Rebuild" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Da_Beatminerz" title="Da Beatminerz">Baby Paul</a>, Mike Risko</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:24</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"The Flyest" <span style="font-size:85%;">(feat. <a href="/wiki/AZ_(rapper)" title="AZ (rapper)">AZ</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/L.E.S._(record_producer)" title="L.E.S. (record producer)">L.E.S.</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:38</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Braveheart Party" <span style="font-size:85%;">(feat. <a href="/wiki/Mary_J._Blige" title="Mary J. Blige">Mary J. Blige</a> &amp; <a href="/wiki/Bravehearts" title="Bravehearts">Bravehearts</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:43</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Rule_(song)" title="Rule (song)">Rule</a>" <span style="font-size:85%;">(feat. <a href="/wiki/Amerie" title="Amerie">Amerie</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Trackmasters" title="Trackmasters">Trackmasters</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:32</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"My Country" <span style="font-size:85%;">(feat. Millennium Thug)</span></td>
+<td style="vertical-align: top;">Lofey</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:12</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"What Goes Around" <span style="font-size:85%;">(feat. Keon Bryce)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Salaam_Remi" title="Salaam Remi">Salaam Remi</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:59</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">Bonus track</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Producer</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Every Ghetto" <span style="font-size:85%;">(feat. Blitz)</span></td>
+<td style="vertical-align: top;">L.E.S.</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:28</td>
+</tr>
+</table>
+<dl>
+<dt>Notes</dt>
+</dl>
+<ul>
+<li>The track "Braveheart Party" was removed from later pressings of <i>Stillmatic</i> at Mary J. Blige's request.<sup id="cite_ref-mtv_23-0" class="reference"><a href="#cite_note-mtv-23"><span>[</span>23<span>]</span></a></sup></li>
+<li>The Japanese release of <i>Stillmatic</i> features three additional tracks: "No Idea's Original," "Everybody's Crazy" and "Black Zombies." Each can also be found on <i><a href="/wiki/The_Lost_Tapes" title="The Lost Tapes">The Lost Tapes</a></i>, a compilation album that was released in 2002.</li>
+<li>A limited edition version of <i>Stillmatic</i> contains a bonus disc with snippets from five songs on <i>The Lost Tapes</i>.</li>
+</ul>
+<dl>
+<dt>Samples</dt>
+</dl>
+<ul>
+<li>"Stillmatic (The Intro)" contains a <a href="/wiki/Sampling_(music)" title="Sampling (music)">sample</a> from "Let Me Be Your Angel" by <a href="/wiki/Stacy_Lattisaw" title="Stacy Lattisaw">Stacy Lattisaw</a></li>
+<li>"<a href="/wiki/Ether_(song)" title="Ether (song)">Ether</a>" contains dialogue from "Fuck Friendz" by <a href="/wiki/2Pac" title="2Pac" class="mw-redirect">2Pac</a>, and gunshot samples from "Knuckleheadz" by <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a> and "<a href="/wiki/Who_Shot_Ya%3F" title="Who Shot Ya?">Who Shot Ya?</a>" by <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a></li>
+<li>"<a href="/wiki/Got_Ur_Self_A..." title="Got Ur Self A..." class="mw-redirect">Got Ur Self A...</a>" contains a sample from "<a href="/wiki/Woke_Up_This_Morning" title="Woke Up This Morning">Woke Up This Morning</a>" by <a href="/wiki/Alabama_3" title="Alabama 3">Alabama 3</a></li>
+<li>"You're Da Man" contains a sample from "<a href="/wiki/Cold_Fact" title="Cold Fact">Sugar Man</a>" by <a href="/wiki/Sixto_Diaz_Rodriguez" title="Sixto Diaz Rodriguez" class="mw-redirect">Sixto Diaz Rodriguez</a> (sometimes misattributed to DJ <a href="/wiki/David_Holmes_(musician)" title="David Holmes (musician)">David Holmes</a>), "Am Fenster" by the German band City, "Theme from Exodus" by <a href="/wiki/Pat_Boone" title="Pat Boone">Pat Boone</a> &amp; <a href="/wiki/Ernest_Gold_(composer)" title="Ernest Gold (composer)">Ernest Gold</a></li>
+<li>"Rewind" contains a sample from "It's Yours" by <a href="/wiki/T_La_Rock" title="T La Rock">T La Rock</a>, "Monkey Island" by <a href="/wiki/The_J._Geils_Band" title="The J. Geils Band">The J. Geils Band</a>, "I'm Not Rough" by The J. Geils Band</li>
+<li>"<a href="/wiki/One_Mic" title="One Mic">One Mic</a>" contains a sample from "<a href="/wiki/In_the_Air_Tonight" title="In the Air Tonight">In the Air Tonight</a>" by <a href="/wiki/Phil_Collins" title="Phil Collins">Phil Collins</a>, "<a href="/wiki/I%27m_Gonna_Love_You_Just_a_Little_More_Baby" title="I'm Gonna Love You Just a Little More Baby">I'm Gonna Love You Just a Little More Baby</a>" by <a href="/wiki/Barry_White" title="Barry White">Barry White</a></li>
+<li>"2nd Childhood" contains a sample from "Born to Love" by <a href="/wiki/Peabo_Bryson" title="Peabo Bryson">Peabo Bryson</a> &amp; <a href="/wiki/Roberta_Flack" title="Roberta Flack">Roberta Flack</a>, "Da Bridge 2001" by <a href="/wiki/Nas_%26_Ill_Will_Records_Presents_QB%27s_Finest" title="Nas &amp; Ill Will Records Presents QB's Finest">Nas &amp; Ill Will Records Presents QB's Finest</a>, "N.Y. State of Mind Pt. II" by Nas</li>
+<li>"Destroy &amp; Rebuild" contains an <a href="/wiki/Interpolation_(music)" title="Interpolation (music)">interpolation</a> from "<a href="/wiki/The_Bridge_is_Over" title="The Bridge is Over" class="mw-redirect">The Bridge is Over</a>" by <a href="/wiki/Boogie_Down_Productions" title="Boogie Down Productions">Boogie Down Productions</a></li>
+<li>"The Flyest" contains a sample from "Night Moves" by Frank McDonald and Chris Rae, "Child of Tomorrow" by Badder Than Evil</li>
+<li>"<a href="/wiki/Rule_(song)" title="Rule (song)">Rule</a>" contains an interpolation from "<a href="/wiki/Everybody_Wants_to_Rule_the_World" title="Everybody Wants to Rule the World">Everybody Wants to Rule the World</a>" by <a href="/wiki/Tears_for_Fears" title="Tears for Fears">Tears for Fears</a></li>
+<li>"Every Ghetto" contains a sample from "Main Title" (<i>The Eiger Sanction</i>) by <a href="/wiki/John_Williams" title="John Williams">John Williams</a></li>
+</ul>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stillmatic&amp;action=edit&amp;section=8" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Credits for <i>Stillmatic</i> adapted from <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>.<sup id="cite_ref-credits_24-0" class="reference"><a href="#cite_note-credits-24"><span>[</span>24<span>]</span></a></sup></p>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Pablo Arraya – assistant engineer</li>
+<li><a href="/wiki/AZ_(rapper)" title="AZ (rapper)">AZ</a> – performer</li>
+<li><a href="/wiki/Baby_Paul" title="Baby Paul" class="mw-redirect">Baby Paul</a> – producer, instrumentation</li>
+<li><a href="/wiki/Mary_J._Blige" title="Mary J. Blige">Mary J. Blige</a> – performer</li>
+<li>Osie Bowe – engineer</li>
+<li><a href="/wiki/Ron_Browz" title="Ron Browz">Ron Browz</a> – producer</li>
+<li>Keon Bryce – vocals (bckgr)</li>
+<li>Kevin Crouse – engineer, mixing</li>
+<li>Alex Dixon – assistant engineer</li>
+<li><a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a> – producer, mixing</li>
+<li>Chris Feldman – art direction, design</li>
+<li>Steve Fisher – assistant engineer</li>
+<li><a href="/wiki/Tameka_Foster" title="Tameka Foster">Tameka Foster</a> – stylist</li>
+<li>Chris Gehringer – mastering</li>
+<li>Malcolm Gold – A&amp;R assistance</li>
+<li>Bryan Golder – engineer</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Jason Goldstein – mixing</li>
+<li>Paul Gregory – assistant engineer</li>
+<li>Destiny Jones – executive producer</li>
+<li>Will Kennedy – imaging</li>
+<li><a href="/wiki/Large_Professor" title="Large Professor">Large Professor</a> – producer</li>
+<li><a href="/wiki/Nas" title="Nas">Nas</a> – performer, producer</li>
+<li>Alex Ndione – assistant engineer</li>
+<li>Lenny "Linen" Nicholson – A&amp;R</li>
+<li>Jake Ninan – assistant engineer</li>
+<li>James Porte – engineer</li>
+<li>Ismel Ramos – assistant engineer</li>
+<li><a href="/wiki/Salaam_Remi" title="Salaam Remi">Salaam Remi</a> – organ, bass, guitar, percussion, drums, producer, Fender rhodes</li>
+<li>Mike "Wrekka" Risko – producer, musician</li>
+<li>Eddie Sancho – mixing</li>
+<li><a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a> – producer</li>
+<li>Sacha Waldman – photography</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stillmatic&amp;action=edit&amp;section=9" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Album">Album</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stillmatic&amp;action=edit&amp;section=10" title="Edit section: Album">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th align="left">Chart (2002)</th>
+<th style="text-align:center;">Peak<br />
+position</th>
+</tr>
+<tr>
+<td>Dutch Albums (<a href="/wiki/MegaCharts" title="MegaCharts">MegaCharts</a>)<sup id="cite_ref-ac_Netherlands_NAS_25-0" class="reference"><a href="#cite_note-ac_Netherlands_NAS-25"><span>[</span>25<span>]</span></a></sup></td>
+<td align="center">40</td>
+</tr>
+<tr>
+<td>French Albums (<a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">SNEP</a>)<sup id="cite_ref-ac_France_NAS_26-0" class="reference"><a href="#cite_note-ac_France_NAS-26"><span>[</span>26<span>]</span></a></sup></td>
+<td align="center">124</td>
+</tr>
+<tr>
+<td>German Albums (<a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control</a>)<sup id="cite_ref-ac_Germany3_NAS_27-0" class="reference"><a href="#cite_note-ac_Germany3_NAS-27"><span>[</span>27<span>]</span></a></sup></td>
+<td align="center">64</td>
+</tr>
+<tr>
+<td>Japanese Albums (<a href="/wiki/Oricon" title="Oricon">Oricon</a>)<sup id="cite_ref-ac_Oricon_NAS_28-0" class="reference"><a href="#cite_note-ac_Oricon_NAS-28"><span>[</span>28<span>]</span></a></sup><br />
+<i><small><sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup></small></i></td>
+<td align="center">95</td>
+</tr>
+<tr>
+<td>Swiss Albums (<a href="/wiki/Swiss_Music_Charts" title="Swiss Music Charts" class="mw-redirect">Schweizer Hitparade</a>)<sup id="cite_ref-ac_Switzerland_NAS_30-0" class="reference"><a href="#cite_note-ac_Switzerland_NAS-30"><span>[</span>30<span>]</span></a></sup></td>
+<td align="center">56</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-ac_Billboard200_Nas_31-0" class="reference"><a href="#cite_note-ac_Billboard200_Nas-31"><span>[</span>31<span>]</span></a></sup></td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-ac_BillboardRandBHipHop_Nas_32-0" class="reference"><a href="#cite_note-ac_BillboardRandBHipHop_Nas-32"><span>[</span>32<span>]</span></a></sup></td>
+<td align="center">1</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Singles_2">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stillmatic&amp;action=edit&amp;section=11" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<td rowspan="2"><b>Year</b></td>
+<td rowspan="2"><b>Song</b></td>
+<td colspan="4"><b>Chart positions</b><sup id="cite_ref-singles_6-1" class="reference"><a href="#cite_note-singles-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a></b></td>
+<td><b><a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a></b></td>
+<td><b><a href="/wiki/Hot_Rap_Singles" title="Hot Rap Singles" class="mw-redirect">Hot Rap Singles</a></b></td>
+</tr>
+<tr>
+<td rowspan="4">2002</td>
+<td>"Got Ur Self A..."</td>
+<td style="text-align:center;">87</td>
+<td style="text-align:center;">37</td>
+<td style="text-align:center;">2</td>
+</tr>
+<tr>
+<td>"Ether"</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">50</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<td>"One Mic"</td>
+<td style="text-align:center;">43</td>
+<td style="text-align:center;">14</td>
+<td style="text-align:center;">10</td>
+</tr>
+<tr>
+<td>"Rule"</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">67</td>
+<td style="text-align:center;">—</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stillmatic&amp;action=edit&amp;section=12" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-RSguide-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-RSguide_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RSguide_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-RSguide_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-RSguide_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-RSguide_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Ryan et. al Hoard (2004), p. 568.</span></li>
+<li id="cite_note-Leroy-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Leroy_2-0">^</a></b></span> <span class="reference-text"><span class="citation web">Leroy, Dan. <a rel="nofollow" class="external text" href="http://www.webcitation.org/68RwHrhNH">"Nas Reviews"</a>. <a href="/wiki/Yahoo!_Music" title="Yahoo! Music">Yahoo! Music</a>. <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a>. Archived from <a rel="nofollow" class="external text" href="http://www.music.yahoo.ca/read/review/12047513">the original</a> on 2012-06-15<span class="reference-accessdate">. Retrieved 2012-06-15</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStillmatic&amp;rft.aufirst=Dan&amp;rft.aulast=Leroy&amp;rft.au=Leroy%2C+Dan&amp;rft.btitle=Nas+Reviews&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.music.yahoo.ca%2Fread%2Freview%2F12047513&amp;rft.pub=Yahoo%21+Music.+Yahoo%21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-More_Than_Words-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-More_Than_Words_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-More_Than_Words_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://books.google.com/books?id=gRQEAAAAMBAJ&amp;pg=PA33#v=onepage&amp;q&amp;f=false">"More Than Words"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> (<a href="/wiki/Nielsen_Business_Media" title="Nielsen Business Media" class="mw-redirect">Nielsen Business Media</a>) 120 (27): 33. Retrieved 2011-08-12.</span></li>
+<li id="cite_note-Birchmeier-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Birchmeier_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Birchmeier_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Birchmeier_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Birchmeier, Jason. <a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p44732/biography">Biography: Nas</a>. Allmusic. Retrieved on 2009-11-21.</span></li>
+<li id="cite_note-Hinds-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hinds_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hinds_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Hinds_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Hinds, Selwyn Seyfu. <a rel="nofollow" class="external text" href="http://www.villagevoice.com/2002-01-15/music/kings-of-new-york/">Review: <i>Stillmatic</i></a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>. Retrieved on 2009-11-21.</span></li>
+<li id="cite_note-singles-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-singles_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-singles_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r564036/charts-awards/billboard-single">Billboard Singles: <i>Stillmatic</i></a>. Allmusic. Retrieved on 2009-11-22.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.riaa.com/goldandplatinumdata.php?table=SEARCH_RESULTS">http://www.riaa.com/goldandplatinumdata.php?table=SEARCH_RESULTS</a></span></li>
+<li id="cite_note-Bush-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bush_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bush_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bush, John. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r564036">Review: <i>Stillmatic</i></a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>. Retrieved on 2009-11-21.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Rabin, Nathan. <a rel="nofollow" class="external text" href="http://www.avclub.com/articles/nas-stillmatic,22039/">Nas: <i>Stillmatic</i></a>. <a href="/wiki/The_A.V._Club" title="The A.V. Club">The A.V. Club</a>. Dec. 18, 2001</span></li>
+<li id="cite_note-Pappademas-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pappademas_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pappademas_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Pappademas, Alex (February 2002). "Review: Stillmatic". <i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i> (Alpha Media Group) (5): 114.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStillmatic&amp;rft.atitle=Review%3A+Stillmatic&amp;rft.aufirst=Alex&amp;rft.aulast=Pappademas&amp;rft.au=Pappademas%2C+Alex&amp;rft.date=February+2002&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Blender&amp;rft.pages=114&amp;rft.pub=Alpha+Media+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Baker-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Baker_11-0">^</a></b></span> <span class="reference-text">Baker, Soren. <a rel="nofollow" class="external text" href="http://8.12.42.31/2001/dec/23/entertainment/ca-rack23">Review: <i>Stillmatic</i></a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. Retrieved on 2009-11-21.</span></li>
+<li id="cite_note-Needham-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Needham_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Needham_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Needham, Alex (January 11, 2002). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20021002120846/http://www.nme.com/reviews/10104.htm">Review: <i>Stillmatic</i></a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (archived October 2, 2002). <i><a href="/wiki/NME" title="NME">NME</a></i>. Retrieved on 2010-10-16.</span></li>
+<li id="cite_note-Hill-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hill_13-0">^</a></b></span> <span class="reference-text">Hill, Marc L. <a rel="nofollow" class="external text" href="http://www.popmatters.com/music/reviews/n/nas-stillmatic.shtml">Review: <i>Stillmatic</i></a>. <a href="/wiki/PopMatters" title="PopMatters">PopMatters</a>. Retrieved on 2009-11-21.</span></li>
+<li id="cite_note-Source-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Source_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Source_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Kazeem (August 4, 2010). <a rel="nofollow" class="external text" href="http://www.webcitation.org/5vCiRXG4F">The Complete List Of 5 Mic Hip-Hop Classics</a>. "<a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a>." Retrieved 2012-07-25.</span></li>
+<li id="cite_note-Berliner-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Berliner_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Berliner_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Berliner, Brett. <a rel="nofollow" class="external text" href="http://www.stylusmagazine.com/reviews/nas/stillmatic.htm">Review: <i>Stillmatic</i></a>. <a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a>. Retrieved on 2009-11-21.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/stillmatic"><i>Stillmatic</i> (2001): Reviews</a>. <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>. Retrieved on 2010-10-16.</span></li>
+<li id="cite_note-Jones-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jones_17-0">^</a></b></span> <span class="reference-text">Jones, Steve. "<a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/USAToday/access/95727928.html?dids=95727928:95727928&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Dec+18%2C+2001&amp;author=Steve+Jones%3B+Brian+Mansfield&amp;pub=USA+TODAY&amp;desc=Put+musical+trust+in+'R'+and+Nas%2C+Gene+and+Ginny+%3B+Hits+keep+coming+for+Lil'+Bow+Wow%2C+Bell+Biv+DeVoe+and+8-Ball&amp;pqatl=google">Review: <i>Stillmatic</i></a>". <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>: D.06. December 18, 2001.</span></li>
+<li id="cite_note-McGuire-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-McGuire_18-0">^</a></b></span> <span class="reference-text">McGuire, Kathryn. <a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/albumreviews/stillmatic-20020108">Review: <i>Stillmatic</i></a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. Retrieved on 2012-02-14.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/album-reviews/id.129/title.nas-stillmatic">Nas Stillmatic</a>. hiphopdx.com. December 24, 2001.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Juon, steve. <a rel="nofollow" class="external text" href="http://rapreviews.com/archive/2001_12F_stillmatic.html">Nas&#160;:: Stillmatic</a>. rapreviews.com. December 18, 2001.</span></li>
+<li id="cite_note-Berry-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Berry_21-0">^</a></b></span> <span class="reference-text">Berry, Elizabeth Mendez. "<a rel="nofollow" class="external text" href="http://books.google.com/books?id=yCUEAAAAMBAJ&amp;pg=PA120&amp;dq=">Review: <i>Stillmatic</i></a>". <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i>: 120. February 2002.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://rateyourmusic.com/list/tha_flu/chris_rocks_top_25_hip_hop_albums">Chris Rock's Top 25</a></span></li>
+<li id="cite_note-mtv-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-mtv_23-0">^</a></b></span> <span class="reference-text">Reid, Shaheem. <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1451938/20020125/story.jhtml">"Mary J. Blige Track On Nas' Stillmatic To Be Cut For 'Personal Reasons'"</a>. <a href="/wiki/MTV" title="MTV">MTV.com</a>. January 25, 2002. Retrieved August 11, 2008.</span></li>
+<li id="cite_note-credits-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-credits_24-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r564036/credits">Credits: <i>Stillmatic</i></a>. Allmusic. Retrieved on 2009-11-22.</span></li>
+<li id="cite_note-ac_Netherlands_NAS-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Netherlands_NAS_25-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.dutchcharts.nl/showitem.asp?interpret=NAS&amp;titel=Stillmatic&amp;cat=a">NAS – Stillmatic"</a> (in Dutch). Dutchcharts.nl. Hung Medien. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-ac_France_NAS-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_France_NAS_26-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.lescharts.com/showitem.asp?interpret=NAS&amp;titel=Stillmatic&amp;cat=a">NAS – Stillmatic"</a>. Lescharts.com. Hung Medien. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-ac_Germany3_NAS-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Germany3_NAS_27-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.charts.de/album.asp?artist=NAS&amp;title=Stillmatic&amp;cat=a&amp;country=de">NAS - Stillmatic"</a>. Charts.de. <a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control</a>. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-ac_Oricon_NAS-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Oricon_NAS_28-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.oricon.co.jp/rank/ja/w/{{{date}}}/">"Oricon Top 50 Albums"</a> (In Japanese). <a href="/wiki/Oricon" title="Oricon">Oricon</a>. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.oricon.co.jp/prof/artist/17729/products/music/460453/1/">http://www.oricon.co.jp/prof/artist/17729/products/music/460453/1/</a></span></li>
+<li id="cite_note-ac_Switzerland_NAS-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Switzerland_NAS_30-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.swisscharts.com/showitem.asp?interpret=NAS&amp;titel=Stillmatic&amp;cat=a">NAS – Stillmatic"</a>. Swisscharts.com. Hung Medien. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-ac_Billboard200_Nas-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Billboard200_Nas_31-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/276998/Nas/chart?f=305">"Nas Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Billboard_200" title="Billboard 200">200</a> for Nas. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved November 12, 2013.</span></li>
+<li id="cite_note-ac_BillboardRandBHipHop_Nas-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_BillboardRandBHipHop_Nas_32-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/276998/Nas/chart?f=333">Nas Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> for Nas. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved November 12, 2013.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stillmatic&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation book">Brackett, Nathan; Hoard, Christian, eds. (2004). <i>The New Rolling Stone Album Guide: Completely Revised and Updated 4th Edition</i>. Simon and Schuster. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7432-0169-8" title="Special:BookSources/0-7432-0169-8">0-7432-0169-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStillmatic&amp;rft.btitle=The+New+Rolling+Stone+Album+Guide%3A+Completely+Revised+and+Updated+4th+Edition&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-7432-0169-8&amp;rft.pub=Simon+and+Schuster&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stillmatic&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/Nas-Stillmatic/master/20243">Stillmatic</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.metacritic.com/music/stillmatic"><i>Stillmatic</i></a> at <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a></li>
+<li><a rel="nofollow" class="external text" href="http://books.google.com/books?id=t7UNykqMKrMC&amp;pg=PA26&amp;dq=">Background on 5 mic rating</a> — Straight from the Source</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Nas" title="Template:Nas"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Nas" title="Template talk:Nas"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nas&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Nas" title="Nas">Nas</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Illmatic" title="Illmatic">Illmatic</a></i></li>
+<li><i><a href="/wiki/It_Was_Written" title="It Was Written">It Was Written</a></i></li>
+<li><i><a href="/wiki/I_Am..._(Nas_album)" title="I Am... (Nas album)">I Am…</a></i></li>
+<li><i><a href="/wiki/Nastradamus" title="Nastradamus">Nastradamus</a></i></li>
+<li><i><strong class="selflink">Stillmatic</strong></i></li>
+<li><i><a href="/wiki/God%27s_Son" title="God's Son">God's Son</a></i></li>
+<li><i><a href="/wiki/Street%27s_Disciple" title="Street's Disciple">Street's Disciple</a></i></li>
+<li><i><a href="/wiki/Hip_Hop_Is_Dead" title="Hip Hop Is Dead">Hip Hop Is Dead</a></i></li>
+<li><a href="/wiki/Untitled_Nas_album" title="Untitled Nas album">Untitled</a></li>
+<li><i><a href="/wiki/Life_Is_Good_(Nas_album)" title="Life Is Good (Nas album)">Life Is Good</a></i></li>
+</ul>
+</div>
+<table cellspacing="0" class="nowraplinks vcard navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE; text-align:center;;">Collaborations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Distant_Relatives" title="Distant Relatives">Distant Relatives</a></i> <small>(with <a href="/wiki/Damian_Marley" title="Damian Marley">Damian Marley</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilation albums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Lost_Tapes" title="The Lost Tapes">The Lost Tapes</a></i></li>
+<li><i><a href="/wiki/Greatest_Hits_(Nas_album)" title="Greatest Hits (Nas album)">Greatest Hits</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Album_(The_Firm_album)" title="The Album (The Firm album)">The Firm: The Album</a></i></li>
+<li><i><a href="/wiki/Nas_%26_Ill_Will_Records_Presents_QB%27s_Finest" title="Nas &amp; Ill Will Records Presents QB's Finest">Nas &amp; Ill Will Records Presents QB's Finest</a></i></li>
+<li><i><a href="/wiki/From_Illmatic_to_Stillmatic:_The_Remixes" title="From Illmatic to Stillmatic: The Remixes">From Illmatic to Stillmatic: The Remixes</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Nas_discography" title="Nas discography">Discography</a></li>
+<li><i><a href="/wiki/Breaking_Atoms" title="Breaking Atoms">Breaking Atoms</a></i></li>
+<li><a href="/wiki/Bravehearts" title="Bravehearts">Bravehearts</a></li>
+<li><a href="/wiki/Ill_Will_Records" title="Ill Will Records">Ill Will Records</a></li>
+<li><a href="/wiki/The_Firm_(hip_hop_group)" title="The Firm (hip hop group)">The Firm</a></li>
+<li><a href="/wiki/Jay-Z%E2%80%93Nas_feud" title="Jay-Z–Nas feud">Jay-Z–Nas feud</a></li>
+<li><i><a href="/wiki/Video_Anthology_Vol._1" title="Video Anthology Vol. 1">Video Anthology Vol. 1</a></i></li>
+<li><i><a href="/wiki/God%27s_Stepson" title="God's Stepson">God's Stepson</a></i></li>
+<li><a href="/wiki/Olu_Dara" title="Olu Dara">Olu Dara</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1013
+CPU time usage: 2.684 seconds
+Real time usage: 2.837 seconds
+Preprocessor visited node count: 9564/1000000
+Preprocessor generated node count: 95339/1500000
+Post‐expand include size: 66084/2048000 bytes
+Template argument size: 9792/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 2/500
+Lua time usage: 0.114/10.000 seconds
+Lua memory usage: 1.98 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:319218-0!*!0!!en!4!* and timestamp 20140531070340 and revision id 610734239
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Stillmatic&amp;oldid=610734239">http://en.wikipedia.org/w/index.php?title=Stillmatic&amp;oldid=610734239</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2001_albums" title="Category:2001 albums">2001 albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Da_Beatminerz" title="Category:Albums produced by Da Beatminerz">Albums produced by Da Beatminerz</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Premier" title="Category:Albums produced by DJ Premier">Albums produced by DJ Premier</a></li><li><a href="/wiki/Category:Albums_produced_by_L.E.S." title="Category:Albums produced by L.E.S.">Albums produced by L.E.S.</a></li><li><a href="/wiki/Category:Albums_produced_by_Large_Professor" title="Category:Albums produced by Large Professor">Albums produced by Large Professor</a></li><li><a href="/wiki/Category:Albums_produced_by_Ron_Browz" title="Category:Albums produced by Ron Browz">Albums produced by Ron Browz</a></li><li><a href="/wiki/Category:Albums_produced_by_Salaam_Remi" title="Category:Albums produced by Salaam Remi">Albums produced by Salaam Remi</a></li><li><a href="/wiki/Category:Albums_produced_by_Trackmasters" title="Category:Albums produced by Trackmasters">Albums produced by Trackmasters</a></li><li><a href="/wiki/Category:Columbia_Records_albums" title="Category:Columbia Records albums">Columbia Records albums</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li><li><a href="/wiki/Category:Nas_albums" title="Category:Nas albums">Nas albums</a></li><li><a href="/wiki/Category:Sequel_albums" title="Category:Sequel albums">Sequel albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stillmatic&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stillmatic" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Stillmatic"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Stillmatic"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Stillmatic" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Stillmatic&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Stillmatic&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Stillmatic" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Stillmatic" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Stillmatic&amp;oldid=610734239" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Stillmatic&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q762653" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Stillmatic&amp;id=610734239" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Stillmatic">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Stillmatic&amp;oldid=610734239&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Stillmatic&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Stillmatic" title="Stillmatic – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Stillmatic" title="Stillmatic – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Stillmatic" title="Stillmatic – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Stillmatic" title="Stillmatic – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Stillmatic" title="Stillmatic – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Stillmatic" title="Stillmatic – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Stillmatic" title="Stillmatic – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Stillmatic" title="Stillmatic – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Stillmatic" title="Stillmatic – Romanian" lang="ro" hreflang="ro">Română</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Stillmatic" title="Stillmatic – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q762653#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 May 2014 at 02:57.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Stillmatic" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":201,"wgHostname":"mw1180"});
+}</script>
+	</body>
+</html>
+	

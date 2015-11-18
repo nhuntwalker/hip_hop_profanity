@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Creepin on ah Come Up - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Creepin_on_ah_Come_Up" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Creepin_on_ah_Come_Up" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Creepin_on_ah_Come_Up","wgTitle":"Creepin on ah Come Up","wgCurRevisionId":606015243,"wgRevisionId":606015243,"wgArticleId":1153320,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Bone Thugs-n-Harmony albums","1994 EPs","Ruthless Records EPs","Gangsta rap EPs","Horrorcore albums","Albums produced by Rhythum D","G-funk EPs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Creepin_on_ah_Come_Up","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q601104"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Creepin_on_ah_Come_Up skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Creepin on ah Come Up</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsalmon;">Creepin on ah Come Up</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Creepin_on_ah_come_up.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4b/Creepin_on_ah_come_up.jpg/220px-Creepin_on_ah_come_up.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/4/4b/Creepin_on_ah_come_up.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/4/4b/Creepin_on_ah_come_up.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsalmon;"><a href="/wiki/Extended_play" title="Extended play">EP</a> by <span class="contributor"><a href="/wiki/Bone_Thugs-n-Harmony" title="Bone Thugs-n-Harmony">Bone Thugs-n-Harmony</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">June 21, 1994</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1993-1994 at Dirtbiker Studios, Audio Achievements Studios, and Blackhole Recording Studio</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Gangsta_rap" title="Gangsta rap">Gangsta Rap</a>, <a href="/wiki/Midwest_hip_hop" title="Midwest hip hop">Midwest Hip-Hop</a>, <a href="/wiki/Hardcore_hip_hop" title="Hardcore hip hop">Hardcore Hip-Hop</a>, <a href="/wiki/Horrorcore" title="Horrorcore">Horrorcore</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>29:50</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Ruthless_Records" title="Ruthless Records">Ruthless</a>/<a href="/wiki/Relativity_Records" title="Relativity Records">Relativity</a>/<a href="/wiki/Epic_Records" title="Epic Records">Epic</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Bone_Thugs-N-Harmony" title="Bone Thugs-N-Harmony" class="mw-redirect">Bone Thugs-N-Harmony</a>, <a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a> <small>(Executive Producer)</small>, <a href="/wiki/DJ_Yella" title="DJ Yella">DJ Yella</a>, <a href="/wiki/DJ_U-Neek" title="DJ U-Neek">DJ U-Neek</a>, <a href="/wiki/Rhythum_D" title="Rhythum D">Rhythum D</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsalmon;"><a href="/wiki/Bone_Thugs-n-Harmony" title="Bone Thugs-n-Harmony">Bone Thugs-n-Harmony</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Faces_of_Death_(B.O.N.E_Enterpri$e_album)" title="Faces of Death (B.O.N.E Enterpri$e album)" class="mw-redirect">Faces of Death</a></i><br />
+(1993)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Creepin on ah Come Up</b></i><br />
+(1994)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/E._1999_Eternal" title="E. 1999 Eternal">E. 1999 Eternal</a></i><br />
+(1995)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsalmon;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Creepin' on ah Come Up</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Thuggish_Ruggish_Bone" title="Thuggish Ruggish Bone">Thuggish Ruggish Bone</a>"</span><br />
+Released: April 20, 1994</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Foe_tha_Love_of_$" title="Foe tha Love of $">Foe tha Love of $</a>"</span><br />
+Released: February 7, 1995</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">B<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">RapReviews</td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="9.5/10 stars"><img alt="9.5/10 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/7px-Star_half.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/14px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The Rolling Stone Album Guide</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>Creepin on ah Come Up</b></i> is an <a href="/wiki/Extended_play" title="Extended play">EP</a> by rap group <a href="/wiki/Bone_Thugs-N-Harmony" title="Bone Thugs-N-Harmony" class="mw-redirect">Bone Thugs-N-Harmony</a>. The album was released on June 21, 1994 on <a href="/wiki/Ruthless_Records" title="Ruthless Records">Ruthless Records</a>. In 1998, the album was selected as one of The Source's 100 Best Rap Albums.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Track_listing"><span class="tocnumber">2</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Samples"><span class="tocnumber">3</span> <span class="toctext">Samples</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Chart_Positions"><span class="tocnumber">4</span> <span class="toctext">Chart Positions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Singles"><span class="tocnumber">4.1</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Appearances"><span class="tocnumber">4.2</span> <span class="toctext">Appearances</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Bone_Thugs-n-Harmony" title="Bone Thugs-n-Harmony">Bone Thugs-n-Harmony</a>'s first album, with the singles "<a href="/wiki/Thuggish_Ruggish_Bone" title="Thuggish Ruggish Bone">Thuggish Ruggish Bone</a>" and "<a href="/wiki/Foe_tha_Love_of_$" title="Foe tha Love of $">Foe tha Love of $</a>". Features on the album include Shatasha Williams (the first <a href="/wiki/Mo_Thugs" title="Mo Thugs">Mo Thugs</a> member) and their mentor and executive producer <a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a>, and these collaborations began a new fad of having sung vocals for choruses and tight flowing lyrics. The first two lines of "Intro" are backwards. Played forward are "Heaven in art which Father our, Our Father which art in Heaven" Tracks 3, 4 and 6 have listed, "Keenu Songs" which is "U-Neek" spelled backwards. In The Source (8-97) article "Crossroads To Riches" Bone states that they changed their name to Bone Thugs-n-Harmony because they had a song called "Thugs-N-Harmony".</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;action=edit&amp;section=2" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol>
+<li>"Intro"</li>
+<li>"Mr. Ouija"</li>
+<li>"<a href="/wiki/Thuggish_Ruggish_Bone" title="Thuggish Ruggish Bone">Thuggish Ruggish Bone</a>" (featuring Shatasha Williams)</li>
+<li>"No Surrender"</li>
+<li>"Down Foe My Thang"</li>
+<li>"Creepin on ah Come Up"</li>
+<li>"<a href="/wiki/Foe_tha_Love_of_$" title="Foe tha Love of $">Foe tha Love of $</a>" (featuring <a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a>)</li>
+<li>"Moe Cheese" (Instrumental)</li>
+</ol>
+<h2><span class="mw-headline" id="Samples">Samples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;action=edit&amp;section=3" title="Edit section: Samples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>"Foe tha Love of $"
+<ul>
+<li>"For the Love of Money" by <a href="/wiki/Yomo_%26_Maulkie" title="Yomo &amp; Maulkie">Yomo &amp; Maulkie</a></li>
+</ul>
+</li>
+<li>"Thuggish Ruggish Bone"
+<ul>
+<li>"Mama Used to Say" by <a href="/wiki/Junior_(band)" title="Junior (band)">Junior</a></li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Chart_Positions">Chart Positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;action=edit&amp;section=4" title="Edit section: Chart Positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th colspan="3">Chart</th>
+</tr>
+<tr>
+<td style="text-align:center;"><small><b><i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> <a href="/wiki/Billboard_200" title="Billboard 200">200</a></b></small></td>
+<td style="text-align:center;"><small><b>Billboard<br />
+<a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a></b></small></td>
+<td style="text-align:center;"><small><b>Top 50<br />
+Albums (NZ)</b></small></td>
+</tr>
+<tr style="text-align:center;">
+<td><b>12</b></td>
+<td><b>2</b></td>
+<td><b>29</b><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;action=edit&amp;section=5" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Song</th>
+<th colspan="4">Chart</th>
+</tr>
+<tr>
+<th><small><i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i><br />
+<a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Hot 100</a></small></th>
+<th><small>Billboard<br />
+<a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot R&amp;B/Hip-Hop</a></small></th>
+<th><small>Billboard<br />
+<a href="/wiki/Hot_Rap_Tracks" title="Hot Rap Tracks" class="mw-redirect">Hot Rap</a></small></th>
+<th><small>Top 50<br />
+Singles (NZ)</small></th>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Thuggish_Ruggish_Bone" title="Thuggish Ruggish Bone">Thuggish Ruggish Bone</a><br />
+<p><small>(featuring Shatasha Williams)</small></p>
+</td>
+<td style="text-align:center;"><b>22</b></td>
+<td style="text-align:center;"><b>17</b></td>
+<td style="text-align:center;"><b>2</b></td>
+<td style="text-align:center;"><b>2</b></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Foe_tha_Love_of_$" title="Foe tha Love of $">Foe tha Love of $</a><br />
+<p><small>(featuring <a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a>)</small></p>
+</td>
+<td style="text-align:center;"><b>41</b></td>
+<td style="text-align:center;"><b>33</b></td>
+<td style="text-align:center;"><b>4</b></td>
+<td style="text-align:center;">—</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;action=edit&amp;section=6" title="Edit section: Appearances">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Krayzie_Bone" title="Krayzie Bone">Krayzie Bone</a> appears on 7 tracks.</li>
+<li><a href="/wiki/Layzie_Bone" title="Layzie Bone">Layzie Bone</a> appears on 7 tracks.</li>
+<li><a href="/wiki/Bizzy_Bone" title="Bizzy Bone">Bizzy Bone</a> appears on 7 tracks.</li>
+<li><a href="/wiki/Wish_Bone" title="Wish Bone" class="mw-redirect">Wish Bone</a> appears on 4 tracks.</li>
+<li><a href="/wiki/Flesh-n-Bone" title="Flesh-n-Bone">Flesh-n-Bone</a> appears on 4 tracks.</li>
+<li><a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a> appears on 2 tracks.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r203144">Allmusic review</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,303963,00.html">Entertainment Weekly review</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rapreviews.com/archive/BTTL_creepinonahcomeup.html">RapReviews review</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation book"><a rel="nofollow" class="external text" href="http://books.google.com/books?id=t9eocwUfoSoC&amp;pg=PA92&amp;dq=#v=onepage&amp;q&amp;f=false"><i>The new Rolling Stone album guide - Nathan Brackett, Christian David Hoard - Google Books</i></a>. Books.google.com<span class="reference-accessdate">. Retrieved 2012-06-25</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACreepin+on+ah+Come+Up&amp;rft.btitle=The+new+Rolling+Stone+album+guide+-+Nathan+Brackett%2C+Christian+David+Hoard+-+Google+Books&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dt9eocwUfoSoC%26pg%3DPA92%26dq%3D%23v%3Donepage%26q%26f%3Dfalse&amp;rft.pub=Books.google.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rocklist.net/source.htm">~~~~ www.rocklist.net ~~~~</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web">Steffen Hung. <a rel="nofollow" class="external text" href="http://charts.org.nz/showitem.asp?interpret=Bone+Thugs%2DN%2DHarmony&amp;titel=Creepin%27+On+Ah+Come+Up&amp;cat=s">"Bone Thugs-N-Harmony - Creepin' On Ah Come Up"</a>. charts.org.nz<span class="reference-accessdate">. Retrieved 2012-02-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACreepin+on+ah+Come+Up&amp;rft.aulast=Steffen+Hung&amp;rft.au=Steffen+Hung&amp;rft.btitle=Bone+Thugs-N-Harmony+-+Creepin%27+On+Ah+Come+Up&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcharts.org.nz%2Fshowitem.asp%3Finterpret%3DBone%2BThugs%252DN%252DHarmony%26titel%3DCreepin%2527%2BOn%2BAh%2BCome%2BUp%26cat%3Ds&amp;rft.pub=charts.org.nz&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.bonethugsnharmony.com">Bone Thugs-n-Harmony Official Website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ruthlessrecords.com">Ruthless Records Official Website</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bone_Thugs-n-Harmony" title="Template:Bone Thugs-n-Harmony"><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bone_Thugs-n-Harmony" title="Template talk:Bone Thugs-n-Harmony"><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bone_Thugs-n-Harmony&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><a href="/wiki/Bone_Thugs-n-Harmony" title="Bone Thugs-n-Harmony">Bone Thugs-n-Harmony</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><a href="/wiki/Bizzy_Bone" title="Bizzy Bone">Bizzy Bone</a></b></li>
+<li><b><a href="/wiki/Layzie_Bone" title="Layzie Bone">Layzie Bone</a></b></li>
+<li><b><a href="/wiki/Flesh-n-Bone" title="Flesh-n-Bone">Flesh-n-Bone</a></b></li>
+<li><b><a href="/wiki/Wish_Bone" title="Wish Bone" class="mw-redirect">Wish Bone</a></b></li>
+<li><b><a href="/wiki/Krayzie_Bone" title="Krayzie Bone">Krayzie Bone</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Faces_of_Death_(album)" title="Faces of Death (album)">Faces of Death</a></i></li>
+<li><i><strong class="selflink">Creepin on ah Come Up</strong></i></li>
+<li><i><a href="/wiki/E._1999_Eternal" title="E. 1999 Eternal">E. 1999 Eternal</a></i></li>
+<li><i><a href="/wiki/The_Art_of_War_(Bone_Thugs-n-Harmony_album)" title="The Art of War (Bone Thugs-n-Harmony album)">The Art of War</a></i></li>
+<li><i><a href="/wiki/BTNHResurrection" title="BTNHResurrection">BTNHResurrection</a></i></li>
+<li><i><a href="/wiki/Thug_World_Order" title="Thug World Order">Thug World Order</a></i></li>
+<li><i><a href="/wiki/Thug_Stories" title="Thug Stories">Thug Stories</a></i></li>
+<li><i><a href="/wiki/Strength_%26_Loyalty" title="Strength &amp; Loyalty">Strength &amp; Loyalty</a></i></li>
+<li><i><a href="/wiki/Uni5:_The_World%27s_Enemy" title="Uni5: The World's Enemy">Uni5: The World's Enemy</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Collection_(album_series)" title="The Collection (album series)">The Collection, Volume 1</a></i></li>
+<li><i><a href="/wiki/The_Collection_(album_series)" title="The Collection (album series)">The Collection, Volume 2</a></i></li>
+<li><i><a href="/wiki/Greatest_Hits_(Bone_Thugs-n-Harmony_album)" title="Greatest Hits (Bone Thugs-n-Harmony album)">Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Greatest_Hits_(Chopped_%26_Screwed)" title="Greatest Hits (Chopped &amp; Screwed)" class="mw-redirect">Greatest Hits (Chopped &amp; Screwed)</a></i></li>
+<li><i><a href="/wiki/T.H.U.G.S._(Bone_Thugs-n-Harmony_album)" title="T.H.U.G.S. (Bone Thugs-n-Harmony album)">T.H.U.G.S.</a></i></li>
+<li><i><a href="/wiki/Thug_Smoke_Fest" title="Thug Smoke Fest" class="mw-redirect">Thug Smoke Fest</a></i></li>
+<li><i><a href="/wiki/Thuggish_II" title="Thuggish II">Thuggish II</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Thuggish_Ruggish_Bone" title="Thuggish Ruggish Bone">Thuggish Ruggish Bone</a>"</li>
+<li>"<a href="/wiki/Foe_tha_Love_of_$" title="Foe tha Love of $">Foe tha Love of $</a>"</li>
+<li>"<a href="/wiki/1st_of_tha_Month" title="1st of tha Month">1st of tha Month</a>"</li>
+<li>"<a href="/wiki/East_1999" title="East 1999">East 1999</a>"</li>
+<li>"<a href="/wiki/Tha_Crossroads" title="Tha Crossroads">Tha Crossroads</a>"</li>
+<li>"<a href="/wiki/Days_of_Our_Livez" title="Days of Our Livez">Days of Our Livez</a>"</li>
+<li>"<a href="/wiki/Look_into_My_Eyes_(Bone_Thugs-n-Harmony_song)" title="Look into My Eyes (Bone Thugs-n-Harmony song)">Look into My Eyes</a>"</li>
+<li>"<a href="/wiki/If_I_Could_Teach_the_World" title="If I Could Teach the World">If I Could Teach the World</a>"</li>
+<li>"<a href="/wiki/War_(Bone_Thugs-n-Harmony_song)" title="War (Bone Thugs-n-Harmony song)">War</a>"</li>
+<li>"<a href="/wiki/Resurrection_(Paper,_Paper)" title="Resurrection (Paper, Paper)">Resurrection (Paper, Paper)</a>"</li>
+<li>"<a href="/wiki/Change_the_World_(Bone_Thugs-n-Harmony_song)" title="Change the World (Bone Thugs-n-Harmony song)">Change the World</a>"</li>
+<li>"<a href="/wiki/Money,_Money" title="Money, Money">Money, Money</a>"</li>
+<li>"<a href="/wiki/Home_(Bone_Thugs-n-Harmony_song)" title="Home (Bone Thugs-n-Harmony song)">Home</a>"</li>
+<li>"Fire"</li>
+<li>"<a href="/wiki/Take_the_Lead_(Wanna_Ride)" title="Take the Lead (Wanna Ride)">Take the Lead (Wanna Ride)</a>"</li>
+<li>"<a href="/wiki/I_Tried_(Bone_Thugs-n-Harmony_song)" title="I Tried (Bone Thugs-n-Harmony song)">I Tried</a>"</li>
+<li>"<a href="/wiki/Lil%27_L.O.V.E." title="Lil' L.O.V.E.">Lil' L.O.V.E.</a>"</li>
+<li>"Young Thugs"</li>
+<li>"See Me Shine"</li>
+<li>"Rebirth"</li>
+<li>"Meet Me In The Sky"</li>
+<li>"Gone"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Bone_Thugs-n-Harmony_discography" title="Bone Thugs-n-Harmony discography">Discography</a></li>
+<li><a href="/wiki/Bone_Brothers" title="Bone Brothers">Bone Brothers</a></li>
+<li><a href="/wiki/Mo_Thugs" title="Mo Thugs">Mo Thugs</a></li>
+<li><a href="/wiki/ThugLine_Records" title="ThugLine Records" class="mw-redirect">ThugLine Records</a></li>
+<li><a href="/wiki/Ruthless_Records" title="Ruthless Records">Ruthless Records</a></li>
+<li><a href="/wiki/BTNH_Worldwide" title="BTNH Worldwide">BTNH Worldwide</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Bone_Thugs-n-Harmony" title="Book:Bone Thugs-n-Harmony">Book:Bone Thugs-n-Harmony</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1182
+CPU time usage: 0.632 seconds
+Real time usage: 0.726 seconds
+Preprocessor visited node count: 1490/1000000
+Preprocessor generated node count: 8937/1500000
+Post‐expand include size: 38570/2048000 bytes
+Template argument size: 5126/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.065/10.000 seconds
+Lua memory usage: 1.77 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1153320-0!*!0!!en!4!* and timestamp 20140530143522 and revision id 606015243
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Creepin_on_ah_Come_Up&amp;oldid=606015243">http://en.wikipedia.org/w/index.php?title=Creepin_on_ah_Come_Up&amp;oldid=606015243</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Bone_Thugs-n-Harmony_albums" title="Category:Bone Thugs-n-Harmony albums">Bone Thugs-n-Harmony albums</a></li><li><a href="/wiki/Category:1994_EPs" title="Category:1994 EPs">1994 EPs</a></li><li><a href="/wiki/Category:Ruthless_Records_EPs" title="Category:Ruthless Records EPs">Ruthless Records EPs</a></li><li><a href="/wiki/Category:Gangsta_rap_EPs" title="Category:Gangsta rap EPs">Gangsta rap EPs</a></li><li><a href="/wiki/Category:Horrorcore_albums" title="Category:Horrorcore albums">Horrorcore albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Rhythum_D" title="Category:Albums produced by Rhythum D">Albums produced by Rhythum D</a></li><li><a href="/wiki/Category:G-funk_EPs" title="Category:G-funk EPs">G-funk EPs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Creepin+on+ah+Come+Up&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Creepin+on+ah+Come+Up" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Creepin_on_ah_Come_Up"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Creepin_on_ah_Come_Up"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Creepin_on_ah_Come_Up" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Creepin_on_ah_Come_Up" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Creepin_on_ah_Come_Up" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;oldid=606015243" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q601104" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Creepin_on_ah_Come_Up&amp;id=606015243" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Creepin+on+ah+Come+Up">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Creepin+on+ah+Come+Up&amp;oldid=606015243&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Creepin_on_ah_Come_Up&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Creepin_on_ah_Come_Up" title="Creepin on ah Come Up – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Creepin_on_ah_Come_Up" title="Creepin on ah Come Up – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/Creepin_on_ah_Come_Up" title="Creepin on ah Come Up – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Creepin_on_ah_Come_Up" title="Creepin on ah Come Up – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Creepin_on_ah_Come_Up" title="Creepin on ah Come Up – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Creepin_on_ah_Come_Up" title="Creepin on ah Come Up – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Bone_Thugs-n-Harmony#.C3.81lbuns_de_est.C3.BAdio" title="Bone Thugs-n-Harmony – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Creepin_on_ah_Come_Up" title="Creepin on ah Come Up – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Creepin_on_ah_Come_Up" title="Creepin on ah Come Up – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q601104#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 April 2014 at 10:53.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Creepin_on_ah_Come_Up" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":196,"wgHostname":"mw1173"});
+}</script>
+	</body>
+</html>
+	

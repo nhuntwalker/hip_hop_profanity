@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Born Again (The Notorious B.I.G. album) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Born_Again_(The_Notorious_B.I.G._album)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Born_Again_(The_Notorious_B.I.G._album)" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Born_Again_(The_Notorious_B.I.G._album)","wgTitle":"Born Again (The Notorious B.I.G. album)","wgCurRevisionId":609414502,"wgRevisionId":609414502,"wgArticleId":1712362,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Articles to be expanded from January 2014","All articles to be expanded","All articles with unsourced statements","Articles with unsourced statements from July 2013","The Notorious B.I.G. albums","1999 albums","Albums published posthumously","Bad Boy Records albums","Albums produced by Sean Combs","Albums produced by DJ Premier","Albums produced by Mannie Fresh","Albums produced by Nottz","English-language albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Born_Again_(The_Notorious_B.I.G._album)","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1933446"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Born_Again_The_Notorious_B_I_G_album skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Born Again</i> (The Notorious B.I.G. album)</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Born Again</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:B.I.G._-_Born_Again.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/5/53/B.I.G._-_Born_Again.png/220px-B.I.G._-_Born_Again.png" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/5/53/B.I.G._-_Born_Again.png 1.5x, //upload.wikimedia.org/wikipedia/en/5/53/B.I.G._-_Born_Again.png 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">December&#160;7,&#160;1999<span style="display:none">&#160;(<span class="bday dtstart published updated">1999-12-07</span>)</span> <small>(<a href="/wiki/United_States" title="United States">US</a>)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1993–1994 <small><br />
+(The Notorious B.I.G.'s vocals)</small><br />
+1998–1999<small><br />
+(Production, guest vocals, and mixing)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy Records</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Daven_%22Prestige%22_Vanderpool" title="Daven &quot;Prestige&quot; Vanderpool">Daven "Prestige" Vanderpool</a>, <a href="/wiki/DJ_Clark_Kent" title="DJ Clark Kent" class="mw-redirect">DJ Clark Kent</a>, <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>, <a href="/wiki/Nottz" title="Nottz">Nottz</a>, <a href="/wiki/Mannie_Fresh" title="Mannie Fresh">Mannie Fresh</a>, Nashiem Myrick, <a href="/wiki/Deric_Angelettie" title="Deric Angelettie" class="mw-redirect">Deric Angelettie</a>, Clemont Mack</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Life_After_Death" title="Life After Death">Life After Death</a></i><br />
+(1997)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Born Again</b></i><br />
+(1999)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Duets:_The_Final_Chapter" title="Duets: The Final Chapter">Duets: The Final Chapter</a></i><br />
+(2005)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Born Again</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Notorious_B.I.G._(song)" title="Notorious B.I.G. (song)">Notorious B.I.G.</a>"</span><br />
+Released: October 24, 1999</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Dead_Wrong_(song)" title="Dead Wrong (song)">Dead Wrong</a>"</span><br />
+Released: January 6, 2000</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r445074">link</a></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="(dud)"><img alt="(dud)" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rating-Christgau-dud.svg/17px-Rating-Christgau-dud.svg.png" width="17" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rating-Christgau-dud.svg/26px-Rating-Christgau-dud.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rating-Christgau-dud.svg/34px-Rating-Christgau-dud.svg.png 2x" data-file-width="265" data-file-height="207" /></span> <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=Notorious+B.I.G.">link</a></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_A.V._Club" title="The A.V. Club">The A.V. Club</a></i></td>
+<td style="vertical-align:middle">(favorable) <a rel="nofollow" class="external text" href="http://www.avclub.com/articles/notorious-big-born-again,21163/">link</a></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">B+ <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,64463,00.html">link</a></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> (2000)</td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <a rel="nofollow" class="external text" href="http://web.archive.org/web/20071014021535/http://rollingstone.com/artists/notoriousbig/albums/album/111870/review/6067925/born_again">link</a></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> (2004)</td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="2/5 stars"><img alt="2/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <a rel="nofollow" class="external text" href="http://books.google.com/books?id=t9eocwUfoSoC&amp;lpg=PA127&amp;dq=0743201698&amp;pg=PA592#v=onepage&amp;q=%22The%20Notorious%20B.I.G.%22&amp;f=false">link</a></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/4 stars"><img alt="3.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span> <a rel="nofollow" class="external text" href="http://articles.latimes.com/1999/dec/10/entertainment/ca-42378">link</a></td>
+</tr>
+</table>
+<p><i><b>Born Again</b></i> is a posthumous album by <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a>. It was released on December 7, 1999. Unlike the first album released after his death (<i><a href="/wiki/Life_After_Death" title="Life After Death">Life After Death</a></i>), this album was created with no input from Biggie himself. It is composed primarily of unfinished material and unreleased verses recorded mainly during his <i><a href="/wiki/Ready_to_Die" title="Ready to Die">Ready to Die</a></i> era from 1993 to 1994, with new production and guest rappers. The album debuted at #1 on the Billboard 200 chart with 485,000 albums sold in the first week, and was later certified Triple-platinum. Along with the usual guest roster of <a href="/wiki/Sean_Combs" title="Sean Combs">P. Diddy</a>, <a href="/wiki/Lil%27_Kim" title="Lil' Kim">Lil' Kim</a>, and <a href="/wiki/Junior_M.A.F.I.A." title="Junior M.A.F.I.A.">Junior M.A.F.I.A.</a>, the album also featured appearances from <a href="/wiki/Nas" title="Nas">Nas</a>, <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>, <a href="/wiki/Eminem" title="Eminem">Eminem</a>, <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a>, <a href="/wiki/Mobb_Deep" title="Mobb Deep">Mobb Deep</a>, <a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a>, <a href="/wiki/Method_Man" title="Method Man">Method Man</a>, <a href="/wiki/Redman_(rapper)" title="Redman (rapper)">Redman</a>, <a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a>, <a href="/wiki/Too_Short" title="Too Short">Too Short</a>, <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>, and the <a href="/wiki/Hot_Boys" title="Hot Boys">Hot Boys</a>. Before his death, Biggie had intended his third album to be a three disc collection. However, there was not enough finished material to piece together such a massive project. This is the final album of Biggie to contain mainly original material. However, in 2005, a remix album was released called <i><a href="/wiki/Duets:_The_Final_Chapter" title="Duets: The Final Chapter">Duets: The Final Chapter</a></i>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Reception"><span class="tocnumber">1</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Track_listing"><span class="tocnumber">2</span> <span class="toctext">Track listing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Unused_tracks"><span class="tocnumber">2.1</span> <span class="toctext">Unused tracks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Charts_and_certifications"><span class="tocnumber">3</span> <span class="toctext">Charts and certifications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Weekly_charts"><span class="tocnumber">3.1</span> <span class="toctext">Weekly charts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;action=edit&amp;section=1" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td>
+<td class="mbox-text"><span class="mbox-text-span">This section requires <a class="external text" href="//en.wikipedia.org/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;action=edit">expansion</a>. <small><i>(January 2014)</i></small></span></td>
+</tr>
+</table>
+<p>The album received moderately poor reviews from critics. Upon its release, <i>Rolling Stone</i> wrote that the "album won't damage his legacy. But <i>Born Again</i> won't improve that legacy much, either."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> In a retrospective review of his output in 2004, the magazine wrote "The posthumous <i>Born Again</i> proved Biggie was still dead, but his place in the MCs Hall of Fame remains untouchable."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a>, who gave the release a "dud" rating, later wrote, "Remember that posthumous outtakes CD Bad Boy attributed to Biggie? No? Good then—it was foul, not just ill shit but stupid ill shit."<sup id="cite_ref-Christgau_3-0" class="reference"><a href="#cite_note-Christgau-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;action=edit&amp;section=2" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Born Again" <span style="font-size:85%;">(Intro)</span></td>
+<td style="vertical-align: top;">Harve "Joe Hooker" Pierre, J Dub</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:28</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Notorious_B.I.G._(song)" title="Notorious B.I.G. (song)">Notorious B.I.G.</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Puff_Daddy" title="Puff Daddy" class="mw-redirect">Puff Daddy</a> and <a href="/wiki/Lil%27_Kim" title="Lil' Kim">Lil' Kim</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Daven_%22Prestige%22_Vanderpool" title="Daven &quot;Prestige&quot; Vanderpool">Daven "Prestige" Vanderpool</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:11</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Dead_Wrong_(song)" title="Dead Wrong (song)">Dead Wrong</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Eminem" title="Eminem">Eminem</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a>, <a href="/wiki/Mario_Winans" title="Mario Winans">Mario Winans</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:57</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Hope You Niggas Sleep" <span style="font-size:85%;">(featuring <a href="/wiki/Hot_Boys" title="Hot Boys">Hot Boys</a> and <a href="/wiki/Big_Tymers" title="Big Tymers">Big Tymers</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Mannie_Fresh" title="Mannie Fresh">Mannie Fresh</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:10</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Dangerous MC's" <span style="font-size:85%;">(featuring Mark Curry, <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a> and <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Nottz" title="Nottz">Nottz</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:15</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"Biggie" <span style="font-size:85%;">(featuring <a href="/wiki/Junior_M.A.F.I.A." title="Junior M.A.F.I.A.">Junior M.A.F.I.A.</a>)</span></td>
+<td style="vertical-align: top;">Nashiem Myrick</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:22</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Niggas" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Mario_Winans" title="Mario Winans">Mario Winans</a>, Clemont Mack, Ramahn Herbert</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:48</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"Big Booty Hoes" <span style="font-size:85%;">(featuring <a href="/wiki/Too_Short" title="Too Short">Too Short</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Daven_%22Prestige%22_Vanderpool" title="Daven &quot;Prestige&quot; Vanderpool">Daven "Prestige" Vanderpool</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:27</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Would You Die for Me?" <span style="font-size:85%;">(featuring Lil’ Kim and Puff Daddy)</span></td>
+<td style="vertical-align: top;">Daven "Prestige" Vanderpool</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:36</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Come On" <span style="font-size:85%;">(featuring <a href="/wiki/Sadat_X" title="Sadat X">Sadat X</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/DJ_Clark_Kent" title="DJ Clark Kent" class="mw-redirect">DJ Clark Kent</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:37</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Rap Phenomenon" <span style="font-size:85%;">(featuring <a href="/wiki/Method_Man" title="Method Man">Method Man</a> and <a href="/wiki/Redman_(rapper)" title="Redman (rapper)">Redman</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:02</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Let Me Get Down" <span style="font-size:85%;">(featuring <a href="/wiki/Craig_Mack" title="Craig Mack">Craig Mack</a>, <a href="/wiki/G-Dep" title="G-Dep" class="mw-redirect">G-Dep</a> and <a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Deric_Angelettie" title="Deric Angelettie" class="mw-redirect">Deric Angelettie</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:33</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Tonight" <span style="font-size:85%;">(featuring <a href="/wiki/Mobb_Deep" title="Mobb Deep">Mobb Deep</a> and <a href="/wiki/Harve_Pierre" title="Harve Pierre">Joe Hooker</a>)</span></td>
+<td style="vertical-align: top;">Cornbread</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:08</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"If I Should Die Before I Wake" <span style="font-size:85%;">(featuring <a href="/wiki/Black_Rob" title="Black Rob">Black Rob</a>, <a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a> and <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>)</span></td>
+<td style="vertical-align: top;">Henri Charlemagne, Coptic, <a href="/wiki/Deric_Angelettie" title="Deric Angelettie" class="mw-redirect">Deric Angelettie</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:51</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Who_Shot_Ya%3F" title="Who Shot Ya?">Who Shot Ya?</a>" &#160;</td>
+<td style="vertical-align: top;">Nashiem Myrick</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:48</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Can I Get Witcha" <span style="font-size:85%;">(featuring <a href="/wiki/Lil%27_Cease" title="Lil' Cease">Lil' Cease</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Chucky_Thompson" title="Chucky Thompson">Chucky Thompson</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:43</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"I Really Want to Show You" <span style="font-size:85%;">(featuring <a href="/wiki/Nas" title="Nas">Nas</a> and <a href="/wiki/K-Ci_%26_JoJo" title="K-Ci &amp; JoJo">K-Ci &amp; JoJo</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Andreao_Heard" title="Andreao Heard">Andreao Heard</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:09</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"Ms. Wallace" <span style="font-size:85%;">(Outro)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Harve_Pierre" title="Harve Pierre">Harve Pierre</a>, Voletta Wallace</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:18</td>
+</tr>
+</table>
+<dl>
+<dt>Notes</dt>
+</dl>
+<ul>
+<li>"Dead Wrong" was an unreleased song from a demo tape back in 1994. The first verse of the original version was used in this version.</li>
+<li>Biggie's verse from "Hope You Niggas Sleep" comes from the second verse of the original version of "Dead Wrong".</li>
+<li>Biggie's verse in "Dangerous MC's" comes from an unreleased song called "The Ugliest" which was originally going to be on <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a>' 1996 album <i><a href="/wiki/The_Coming" title="The Coming">The Coming</a></i>. Because he had subliminal disses aimed towards <a href="/wiki/2Pac" title="2Pac" class="mw-redirect">2Pac</a> the track was not included on the album to avoid beef between 2Pac and Busta Rhymes. The original is produced by <a href="/wiki/J._Dilla" title="J. Dilla" class="mw-redirect">J. Dilla</a>.</li>
+<li>The Notorious B.I.G.'s part in "Biggie" was from "Let's Get It On" from the album <i>Eddie F. and the Untouchables</i> on the title track "Let's Get It On" featuring 2Pac, <a href="/wiki/Heavy_D" title="Heavy D">Heavy D</a> and <a href="/wiki/Grand_Puba" title="Grand Puba">Grand Puba</a>. The compilation featured the only known in-studio collaboration of two up-and-coming hip-hop MC's at the time, 2Pac and The Notorious B.I.G..</li>
+<li>"Niggas" is a remix of an original unreleased version from 1993.</li>
+<li>Biggie's verses in "Big Booty Hoes" comes from the song "Bust a Nut" by <a href="/wiki/Uncle_Luke" title="Uncle Luke">Uncle Luke</a>, produced by <a href="/wiki/Frankie_Cutlass" title="Frankie Cutlass">Frankie Cutlass</a>.</li>
+<li>"Come On" is a remix of the original unreleased song from 1993 produced by <a href="/wiki/Lord_Finesse" title="Lord Finesse">Lord Finesse</a>.</li>
+<li>Biggie's part in "Rap Phenomenon" comes from the song "Keep Your Hands High" by <a href="/wiki/Tracey_Lee" title="Tracey Lee">Tracey Lee</a>.</li>
+<li>"Tonight" has Biggie's first verse from "Long Kiss Goodnight", from <i><a href="/wiki/Life_After_Death" title="Life After Death">Life After Death</a></i>.</li>
+<li>"If I Should Die Before I Wake" has Biggie's verse from a song called "Stop The Breaks" which features Raekwon, Killa Sin, O.C. and KRS-One. It was recorded without portion of lyrics, so verse is censored too.</li>
+<li>"Who Shot Ya?" is a B-Side to his 1995 single "<a href="/wiki/Big_Poppa" title="Big Poppa">Big Poppa</a>".</li>
+<li>"I Really Want To Show You" has Biggie's verses from "Everyday Struggle", from <i><a href="/wiki/Ready_to_Die" title="Ready to Die">Ready to Die</a></i>.</li>
+</ul>
+<dl>
+<dt>Sample credits</dt>
+</dl>
+<ul>
+<li>"Notorious B.I.G." contains a sample of "<a href="/wiki/Notorious_(Duran_Duran_song)" title="Notorious (Duran Duran song)">Notorious</a>", performed by <a href="/wiki/Duran_Duran" title="Duran Duran">Duran Duran</a>.</li>
+<li>"Dead Wrong" contains a sample of "I'm Glad You're Mine", performed by <a href="/wiki/Al_Green" title="Al Green">Al Green</a>.</li>
+<li>"Biggie" contains a sample of "Hang Your Head in Shame", performed by <a href="/wiki/New_York_City_(band)" title="New York City (band)">New York City</a>.</li>
+<li>"Big Bootie Hoes" contains a sample of "Crab Apple", performed by <a href="/wiki/Idris_Muhammad" title="Idris Muhammad">Idris Muhammad</a></li>
+<li>"Would You Die for Me" contains a sample of "<a href="/wiki/Kiss_(Prince_song)" title="Kiss (Prince song)">Kiss</a>", performed by <a href="/wiki/Prince" title="Prince">Prince</a>.</li>
+<li>"Come On" contains a sample of "Hey Mama", performed by <a href="/wiki/Doc_Severinson" title="Doc Severinson" class="mw-redirect">Doc Severinson</a> and excerpts from the film <i><a href="/wiki/Harlem_Nights" title="Harlem Nights">Harlem Nights</a></i>.</li>
+<li>"Rap Phenomenon" contains a sample from "Keep Your Hands High", performed by <a href="/wiki/Tracey_Lee" title="Tracey Lee">Tracey Lee</a>.</li>
+<li>"Let Me Get Down" contains a sample of "Love Serenade (Part II)", performed by <a href="/wiki/Barry_White" title="Barry White">Barry White</a>.</li>
+<li>"Tonight" contains a sample of "Just Say Just Say", performed by <a href="/wiki/Marvin_Gaye" title="Marvin Gaye">Marvin Gaye</a> and <a href="/wiki/Diana_Ross" title="Diana Ross">Diana Ross</a>.</li>
+<li>"If I Should Die Before I Wake" contains a sample of "This Is For The Lover In You", performed by Shamalar.</li>
+<li>"Who Shot Ya?" contains a sample of "I'm Afraid the Masquerade Is Over", performed by <a href="/wiki/David_Porter_(musician)" title="David Porter (musician)">David Porter</a>.</li>
+<li>"Can I Get Witcha" contains a sample of "Livin' It Up (Friday Night)", performed by <a href="/wiki/Bell_%26_James" title="Bell &amp; James" class="mw-redirect">Bell &amp; James</a>, "Humpin", performed by The Gap Band, "Charisma", performed by Tom Browne, "Life Will Pass You By", performed by <a href="/wiki/Faith_Evans" title="Faith Evans">Faith Evans</a> and "Come and Talk to Me", performed by <a href="/wiki/Jodeci" title="Jodeci">Jodeci</a>.</li>
+<li>"I Really Want to Show You" contains interpolations of "Come and Talk to Me", performed by <a href="/wiki/Jodeci" title="Jodeci">Jodeci</a>.</li>
+</ul>
+<h3><span class="mw-headline" id="Unused_tracks">Unused tracks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;action=edit&amp;section=3" title="Edit section: Unused tracks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>"<a href="/wiki/Party_and_Bullshit" title="Party and Bullshit">Party and Bullshit</a>" (Remix): a remix of the 1993 song. It had a new beat and <a href="/wiki/Faith_Evans" title="Faith Evans">Faith Evans</a> singing the chorus and also featured <a href="/wiki/Will_Smith" title="Will Smith">Will Smith</a>. It was not released due to concerns about harming Smith's clean image.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></li>
+<li>"Tribute Song" (featuring <a href="/wiki/Lauryn_Hill" title="Lauryn Hill">Lauryn Hill</a>)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></li>
+<li>"You'll See" (Remix): a remixed version of the 1996 mixtape song by The Notorious B.I.G. and <a href="/wiki/The_Lox" title="The Lox">The Lox</a>. This version had <a href="/wiki/Puff_Daddy" title="Puff Daddy" class="mw-redirect">Puff Daddy</a>, <a href="/wiki/Black_Rob" title="Black Rob">Black Rob</a> and <a href="/wiki/G._Dep" title="G. Dep">G. Dep</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></li>
+<li>"House of Pain" (Remix) (featuring <a href="/wiki/2Pac" title="2Pac" class="mw-redirect">2Pac</a> and <a href="/wiki/Stretch_(rapper)" title="Stretch (rapper)">Stretch</a>): a <a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy</a> remix of the unreleased 1993 song.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></li>
+</ul>
+<h2><span class="mw-headline" id="Charts_and_certifications">Charts and certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;action=edit&amp;section=4" title="Edit section: Charts and certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Weekly_charts">Weekly charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;action=edit&amp;section=5" title="Edit section: Weekly charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th align="left">Chart (1999)</th>
+<th style="text-align:center;">Peak<br />
+position</th>
+</tr>
+<tr>
+<td><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums</a> (<a href="/wiki/Nielsen_SoundScan" title="Nielsen SoundScan">Nielsen SoundScan</a>)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+<td align="center">14</td>
+</tr>
+<tr>
+<td>German Albums (<a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control</a>)<sup id="cite_ref-ac_Germany_NOTORIOUS_B.I.G._5-0" class="reference"><a href="#cite_note-ac_Germany_NOTORIOUS_B.I.G.-5"><span>[</span>5<span>]</span></a></sup></td>
+<td align="center">47</td>
+</tr>
+<tr>
+<td>Dutch Albums (<a href="/wiki/MegaCharts" title="MegaCharts">MegaCharts</a>)<sup id="cite_ref-ac_Netherlands_NOTORIOUS_B.I.G._6-0" class="reference"><a href="#cite_note-ac_Netherlands_NOTORIOUS_B.I.G.-6"><span>[</span>6<span>]</span></a></sup></td>
+<td align="center">82</td>
+</tr>
+<tr>
+<td>UK Albums (<a href="/wiki/Official_Charts_Company" title="Official Charts Company">OCC</a>)<sup id="cite_ref-ac_UK_Notorious_B.I.G._7-0" class="reference"><a href="#cite_note-ac_UK_Notorious_B.I.G.-7"><span>[</span>7<span>]</span></a></sup></td>
+<td align="center">70</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-ac_Billboard200_The_Notorious_B.I.G._8-0" class="reference"><a href="#cite_note-ac_Billboard200_The_Notorious_B.I.G.-8"><span>[</span>8<span>]</span></a></sup></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-ac_BillboardRandBHipHop_The_Notorious_B.I.G._9-0" class="reference"><a href="#cite_note-ac_BillboardRandBHipHop_The_Notorious_B.I.G.-9"><span>[</span>9<span>]</span></a></sup></td>
+<td align="center">1</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_albums_of_1999_(U.S.)" title="List of number-one albums of 1999 (U.S.)" class="mw-redirect">List of number-one albums of 1999 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1999_(U.S.)" title="List of number-one R&amp;B albums of 1999 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1999 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20071014021535/http://rollingstone.com/artists/notoriousbig/albums/album/111870/review/6067925/born_again">"Notorious B.I.G.: Born Again&#160;: Music Reviews&#160;: Rolling Stone"</a>. <i>Rolling Stone</i>. 20 January 2000<span class="reference-accessdate">. Retrieved 24 January 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABorn+Again+%28The+Notorious+B.I.G.+album%29&amp;rft.atitle=Notorious+B.I.G.%3A+Born+Again+%3A+Music+Reviews+%3A+Rolling+Stone&amp;rft.date=20+January+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20071014021535%2Fhttp%3A%2F%2Frollingstone.com%2Fartists%2Fnotoriousbig%2Falbums%2Falbum%2F111870%2Freview%2F6067925%2Fborn_again&amp;rft.jtitle=Rolling+Stone&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation book">Bracket, Nathan with Christian Hoard, ed. (2004). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=t9eocwUfoSoC&amp;lpg=PP1&amp;dq=rollin%20stone%20album%20guide&amp;hl=ja&amp;pg=PA592#v=onepage&amp;q=notorious%20b.i.g.&amp;f=false"><i>The New Rolling Stone Album Guide</i></a>. New York: Fireside. p.&#160;592. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7432-0169-8" title="Special:BookSources/0-7432-0169-8">0-7432-0169-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABorn+Again+%28The+Notorious+B.I.G.+album%29&amp;rft.btitle=The+New+Rolling+Stone+Album+Guide&amp;rft.date=2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dt9eocwUfoSoC%26lpg%3DPP1%26dq%3Drollin%2520stone%2520album%2520guide%26hl%3Dja%26pg%3DPA592%23v%3Donepage%26q%3Dnotorious%2520b.i.g.%26f%3Dfalse&amp;rft.isbn=0-7432-0169-8&amp;rft.pages=592&amp;rft.place=New+York&amp;rft.pub=Fireside&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Christgau-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Christgau_3-0">^</a></b></span> <span class="reference-text"><span class="citation web">Christgau, Robert. <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=nas">"Nas: Consumer Guide Reviews: The Lost Tapes"</a>. <i>The Consumer Guide</i><span class="reference-accessdate">. Retrieved 15 February 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABorn+Again+%28The+Notorious+B.I.G.+album%29&amp;rft.atitle=Nas%3A+Consumer+Guide+Reviews%3A+The+Lost+Tapes&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fget_artist.php%3Fname%3Dnas&amp;rft.jtitle=The+Consumer+Guide&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/artist/418733/notorious-big/chart?f=335">http://www.billboard.com/artist/418733/notorious-big/chart?f=335</a></span></li>
+<li id="cite_note-ac_Germany_NOTORIOUS_B.I.G.-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Germany_NOTORIOUS_B.I.G._5-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://musicline.de/de/chartverfolgung_summary/artist/NOTORIOUS+B.I.G./?type=longplay">Longplay-Chartverfolgung at Musicline"</a> (in German). Musicline.de. <a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control</a>. Retrieved October 11, 2013.</span></li>
+<li id="cite_note-ac_Netherlands_NOTORIOUS_B.I.G.-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Netherlands_NOTORIOUS_B.I.G._6-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.dutchcharts.nl/showitem.asp?interpret=NOTORIOUS+B.I.G.&amp;titel=BORN+AGAIN+%28ALBUM%29&amp;cat=a">NOTORIOUS B.I.G. – BORN AGAIN (ALBUM)"</a> (in Dutch). Dutchcharts.nl. Hung Medien. Retrieved October 11, 2013.</span></li>
+<li id="cite_note-ac_UK_Notorious_B.I.G.-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_UK_Notorious_B.I.G._7-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.officialcharts.com/artist/_/Notorious%20B.I.G./">"Notorious B.I.G. | Artist | Official Charts"</a>. <a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a>. The Official Charts Company. Retrieved October 11, 2013.</span></li>
+<li id="cite_note-ac_Billboard200_The_Notorious_B.I.G.-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Billboard200_The_Notorious_B.I.G._8-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/418733/notorious-big/chart?f=305">"The Notorious B.I.G. Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Billboard_200" title="Billboard 200">200</a> for The Notorious B.I.G.. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved October 11, 2013.</span></li>
+<li id="cite_note-ac_BillboardRandBHipHop_The_Notorious_B.I.G.-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_BillboardRandBHipHop_The_Notorious_B.I.G._9-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/418733/notorious-big/chart?f=333">The Notorious B.I.G. Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> for The Notorious B.I.G.. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved October 11, 2013.</span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:The_Notorious_B.I.G." title="Template:The Notorious B.I.G."><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:The_Notorious_B.I.G." title="Template talk:The Notorious B.I.G."><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Notorious_B.I.G.&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Ready_to_Die" title="Ready to Die">Ready to Die</a></i></li>
+<li><i><a href="/wiki/Life_After_Death" title="Life After Death">Life After Death</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Junior M.A.F.I.A.</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Conspiracy_(Junior_M.A.F.I.A._album)" title="Conspiracy (Junior M.A.F.I.A. album)">Conspiracy</a></i></li>
+<li>"<a href="/wiki/Player%27s_Anthem" title="Player's Anthem">Player's Anthem</a>"</li>
+<li>"<a href="/wiki/I_Need_You_Tonight_(Junior_M.A.F.I.A._song)" title="I Need You Tonight (Junior M.A.F.I.A. song)">I Need You Tonight</a>"</li>
+<li>"<a href="/wiki/Get_Money_(Junior_M.A.F.I.A._song)" title="Get Money (Junior M.A.F.I.A. song)">Get Money</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Posthumous albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><strong class="selflink">Born Again</strong></i></li>
+<li><i><a href="/wiki/Duets:_The_Final_Chapter" title="Duets: The Final Chapter">Duets: The Final Chapter</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Party_and_Bullshit" title="Party and Bullshit">Party and Bullshit</a>"</li>
+<li>"<a href="/wiki/Juicy_(The_Notorious_B.I.G._song)" title="Juicy (The Notorious B.I.G. song)">Juicy</a>"</li>
+<li>"<a href="/wiki/Big_Poppa" title="Big Poppa">Big Poppa</a>" / "<a href="/wiki/Who_Shot_Ya%3F" title="Who Shot Ya?">Who Shot Ya?</a>"</li>
+<li>"<a href="/wiki/One_More_Chance_(The_Notorious_B.I.G._song)" title="One More Chance (The Notorious B.I.G. song)">One More Chance</a>"</li>
+<li>"<a href="/wiki/Hypnotize_(The_Notorious_B.I.G._song)" title="Hypnotize (The Notorious B.I.G. song)">Hypnotize</a>"</li>
+<li>"<a href="/wiki/Mo_Money_Mo_Problems" title="Mo Money Mo Problems">Mo Money Mo Problems</a>"</li>
+<li>"<a href="/wiki/Sky%27s_the_Limit_(song)" title="Sky's the Limit (song)">Sky's the Limit</a>"</li>
+<li>"<a href="/wiki/Notorious_B.I.G._(song)" title="Notorious B.I.G. (song)">Notorious B.I.G.</a>"</li>
+<li>"<a href="/wiki/Dead_Wrong_(song)" title="Dead Wrong (song)">Dead Wrong</a>"</li>
+<li>"<a href="/wiki/Nasty_Girl_(The_Notorious_B.I.G._song)" title="Nasty Girl (The Notorious B.I.G. song)">Nasty Girl</a>"</li>
+<li>"<a href="/wiki/Spit_Your_Game" title="Spit Your Game">Spit Your Game</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Guest singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Flava_in_Ya_Ear" title="Flava in Ya Ear">Flava in Ya Ear - Remix</a>"</li>
+<li>"<a href="/wiki/Can%27t_You_See_(Total_song)" title="Can't You See (Total song)">Can't You See</a>"</li>
+<li>"<a href="/wiki/The_Points" title="The Points">The Points</a>"</li>
+<li>"<a href="/wiki/Runnin%27_(From_tha_Police)" title="Runnin' (From tha Police)" class="mw-redirect">Runnin' (From tha Police)</a>"</li>
+<li>"<a href="/wiki/This_Time_Around_(Michael_Jackson_song)" title="This Time Around (Michael Jackson song)">This Time Around</a>"</li>
+<li>"<a href="/wiki/It%27s_All_About_the_Benjamins" title="It's All About the Benjamins">It's All About the Benjamins</a>"</li>
+<li>"<a href="/wiki/Victory_(Puff_Daddy_song)" title="Victory (Puff Daddy song)">Victory</a>"</li>
+<li>"<a href="/wiki/Runnin%27_(Dying_to_Live)" title="Runnin' (Dying to Live)">Runnin' (Dying to Live)</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Greatest_Hits_(The_Notorious_B.I.G._album)" title="Greatest Hits (The Notorious B.I.G. album)">Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Notorious_(soundtrack)" title="Notorious (soundtrack)">Notorious: Original Motion Picture Soundtrack</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/The_Notorious_B.I.G._discography" title="The Notorious B.I.G. discography">Discography</a></li>
+<li><a href="/wiki/Sean_Combs" title="Sean Combs">Sean Combs</a></li>
+<li><a href="/wiki/Faith_Evans" title="Faith Evans">Faith Evans</a></li>
+<li><a href="/wiki/Junior_M.A.F.I.A." title="Junior M.A.F.I.A.">Junior M.A.F.I.A.</a></li>
+<li><a href="/wiki/Lil%27_Cease" title="Lil' Cease">Lil' Cease</a></li>
+<li><a href="/wiki/The_Commission_(hip_hop)" title="The Commission (hip hop)" class="mw-redirect">The Commission</a></li>
+<li><a href="/wiki/East_Coast%E2%80%93West_Coast_hip_hop_rivalry" title="East Coast–West Coast hip hop rivalry">East Coast-West Coast hip hop rivalry</a></li>
+<li>"<a href="/wiki/I%27ll_Be_Missing_You" title="I'll Be Missing You">I'll Be Missing You</a>"</li>
+<li><i><a href="/wiki/Biggie_%26_Tupac" title="Biggie &amp; Tupac">Biggie &amp; Tupac</a></i></li>
+<li><i><a href="/wiki/Notorious_(2009_film)" title="Notorious (2009 film)">Notorious</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1177
+CPU time usage: 1.688 seconds
+Real time usage: 1.810 seconds
+Preprocessor visited node count: 9039/1000000
+Preprocessor generated node count: 98594/1500000
+Post‐expand include size: 84444/2048000 bytes
+Template argument size: 14869/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 5/500
+Lua time usage: 0.106/10.000 seconds
+Lua memory usage: 2.52 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1712362-0!*!0!!en!4!* and timestamp 20140530152947 and revision id 609414502
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;oldid=609414502">http://en.wikipedia.org/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;oldid=609414502</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:The_Notorious_B.I.G._albums" title="Category:The Notorious B.I.G. albums">The Notorious B.I.G. albums</a></li><li><a href="/wiki/Category:1999_albums" title="Category:1999 albums">1999 albums</a></li><li><a href="/wiki/Category:Albums_published_posthumously" title="Category:Albums published posthumously">Albums published posthumously</a></li><li><a href="/wiki/Category:Bad_Boy_Records_albums" title="Category:Bad Boy Records albums">Bad Boy Records albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Sean_Combs" title="Category:Albums produced by Sean Combs">Albums produced by Sean Combs</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Premier" title="Category:Albums produced by DJ Premier">Albums produced by DJ Premier</a></li><li><a href="/wiki/Category:Albums_produced_by_Mannie_Fresh" title="Category:Albums produced by Mannie Fresh">Albums produced by Mannie Fresh</a></li><li><a href="/wiki/Category:Albums_produced_by_Nottz" title="Category:Albums produced by Nottz">Albums produced by Nottz</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_January_2014" title="Category:Articles to be expanded from January 2014">Articles to be expanded from January 2014</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2013" title="Category:Articles with unsourced statements from July 2013">Articles with unsourced statements from July 2013</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Born+Again+%28The+Notorious+B.I.G.+album%29&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Born+Again+%28The+Notorious+B.I.G.+album%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Born_Again_(The_Notorious_B.I.G._album)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Born_Again_(The_Notorious_B.I.G._album)"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Born_Again_(The_Notorious_B.I.G._album)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Born_Again_(The_Notorious_B.I.G._album)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Born_Again_(The_Notorious_B.I.G._album)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;oldid=609414502" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1933446" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Born_Again_%28The_Notorious_B.I.G._album%29&amp;id=609414502" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Born+Again+%28The+Notorious+B.I.G.+album%29">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Born+Again+%28The+Notorious+B.I.G.+album%29&amp;oldid=609414502&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Born_Again_(The_Notorious_B.I.G._album)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Born_Again_(The-Notorious-B.I.G.-Album)" title="Born Again (The-Notorious-B.I.G.-Album) – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Born_Again_(%C3%A1lbum_de_Notorious_B.I.G.)" title="Born Again (álbum de Notorious B.I.G.) – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Born_Again_(album_de_The_Notorious_B.I.G.)" title="Born Again (album de The Notorious B.I.G.) – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Born_Again_(The_Notorious_B.I.G.)" title="Born Again (The Notorious B.I.G.) – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Born_Again_(The_Notorious_B.I.G.)" title="Born Again (The Notorious B.I.G.) – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A2%E3%82%B2%E3%82%A4%E3%83%B3_(%E3%83%8E%E3%83%88%E3%83%BC%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%BBB.I.G.%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)" title="ボーン・アゲイン (ノトーリアス・B.I.G.のアルバム) – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Born_Again_(album_Notoriousa_B.I.G.)" title="Born Again (album Notoriousa B.I.G.) – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Born_Again_(%C3%A1lbum_de_The_Notorious_B.I.G.)" title="Born Again (álbum de The Notorious B.I.G.) – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Born_Again_(%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC_The_Notorious_B.I.G.)" title="Born Again (альбом The Notorious B.I.G.) – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Born_Again" title="Born Again – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q1933446#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 May 2014 at 18:20.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Born_Again_(The_Notorious_B.I.G._album)" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":194,"wgHostname":"mw1021"});
+}</script>
+	</body>
+</html>
+	

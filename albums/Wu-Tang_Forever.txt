@@ -1,0 +1,1311 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Wu-Tang Forever - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wu-Tang_Forever" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Wu-Tang_Forever" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wu-Tang_Forever","wgTitle":"Wu-Tang Forever","wgCurRevisionId":609350828,"wgRevisionId":609350828,"wgArticleId":1591524,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Articles with links needing disambiguation from September 2011","Wu-Tang Clan albums","1997 albums","Loud Records albums","Albums produced by Rza","Albums produced by True Master","English-language albums","Albums produced by 4th Disciple"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wu-Tang_Forever","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["he","he-il","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2006529"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Wu-Tang_Forever skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Wu-Tang Forever</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the Wu-Tang Clan album.  For the <a href="/wiki/Drake_(rapper)" title="Drake (rapper)">Drake</a> song, see <a href="/wiki/Wu-Tang_Forever_(song)" title="Wu-Tang Forever (song)">Wu-Tang Forever (song)</a>.</div>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Wu-Tang Forever</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Wu-Tang_Forever.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d8/Wu-Tang_Forever.jpg/220px-Wu-Tang_Forever.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/d/d8/Wu-Tang_Forever.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/d/d8/Wu-Tang_Forever.jpg 2x" data-file-width="296" data-file-height="296" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">June 3, 1997</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1996-1997</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>44:58 (Disc 1)<br />
+67:08 (Disc 2- US)<br />
+77:53 (Disc 2- International)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Loud_Records" title="Loud Records">Loud</a>/<a href="/wiki/RCA_Records" title="RCA Records">RCA</a>/<a href="/wiki/Bertelsmann_Music_Group" title="Bertelsmann Music Group">BMG</a><br />
+<small>07863-66905 (North America)<br />
+74321-45768 (international)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/RZA" title="RZA" class="mw-redirect">RZA</a>, <a href="/wiki/4th_Disciple" title="4th Disciple">4th Disciple</a>, <a href="/wiki/True_Master" title="True Master">True Master</a>, <a href="/wiki/Inspectah_Deck" title="Inspectah Deck">Inspectah Deck</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Enter_the_Wu-Tang_(36_Chambers)" title="Enter the Wu-Tang (36 Chambers)">Enter the Wu-Tang (36 Chambers)</a></i><br />
+(1993)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Wu-Tang Forever</b></i><br />
+(1997)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/The_W" title="The W">The W</a></i><br />
+(2000)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr>
+<th colspan="3" style="text-align: center; background: lightsteelblue;"><a href="/wiki/Wu-Tang_Clan#Members" title="Wu-Tang Clan">Wu-Tang Clan solo</a> chronology</th>
+</tr>
+<tr>
+<td colspan="3" style="text-align: center">
+<table cellspacing="0" cellpadding="0" width="100%" style="background: transparent;">
+<tr style="text-align: center; line-height: 1.4em;">
+<td style="width: 33%; vertical-align: top; padding: 0.2em 0.1em 0.2em 0;"><a href="/wiki/Ghostface_Killah" title="Ghostface Killah">Ghostface Killah</a>:<br />
+<i><a href="/wiki/Ironman_(Ghostface_Killah_album)" title="Ironman (Ghostface Killah album)">Ironman</a></i><br />
+(1996)</td>
+<td style="width: 33%; vertical-align: top; padding: 0.2em 0.1em 0.2em 0.1em;"><i><b>Wu-Tang Forever</b></i><br />
+(1997)</td>
+<td style="width: 33%; vertical-align: top; padding: 0.2em 0 0.2em 0.1em;"><a href="/wiki/Method_Man" title="Method Man">Method Man</a>:<br />
+<i><a href="/wiki/Tical_2000:_Judgement_Day" title="Tical 2000: Judgement Day">Tical 2000: Judgement Day</a></i><br />
+(1998)</td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Wu-Tang Forever</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Triumph_(song)" title="Triumph (song)">Triumph</a>"</span><br />
+Released: February 11, 1997</span></li>
+<li><span class="item"><span class="fn">"It's Yourz"</span><br />
+Released: September 23, 1997</span></li>
+<li><span class="item"><span class="fn">"Reunited"</span><br />
+Released: March 30, 1998</span></li>
+</ol>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><i><b>Wu-Tang Forever</b></i> is the second studio album of American hip-hop group <a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a>, released June 3, 1997 on <a href="/wiki/Loud_Records" title="Loud Records">Loud</a>/<a href="/wiki/RCA_Records" title="RCA Records">RCA Records</a> in the United States. Pressed as a double album, it was released after a long run of successful solo projects from various members of the group, and serves as the follow-up to their debut album <i><a href="/wiki/Enter_the_Wu-Tang_(36_Chambers)" title="Enter the Wu-Tang (36 Chambers)">Enter the Wu-Tang (36 Chambers)</a></i>. <i>Forever</i> features several guest appearances from Wu-Tang affiliates <a href="/wiki/Cappadonna" title="Cappadonna">Cappadonna</a>, <a href="/wiki/Streetlife_(rapper)" title="Streetlife (rapper)">Streetlife</a>, <a href="/wiki/4th_Disciple" title="4th Disciple">4th Disciple</a>, <a href="/wiki/True_Master" title="True Master">True Master</a>, and <a href="/wiki/Tekitha" title="Tekitha">Tekitha</a>.</p>
+<p>Despite limited radio/TV airplay, and a lead single that famously clocked at nearly six minutes with no chorus, <i>Wu-Tang Forever</i> debuted at number one on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> with 612,000 copies sold in its first week.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> The album was certified 4x platinum by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA) on October 15, 1997 (each disc in the double album counted as separate unit for certification purpose),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> and has sold over 2 million copies in the United States.<sup id="cite_ref-yahoo_sales_3-0" class="reference"><a href="#cite_note-yahoo_sales-3"><span>[</span>3<span>]</span></a></sup> It is the group's highest selling album to date. Upon its release, <i>Wu-Tang Forever</i> received favorable reviews from most music critics, while it also earned the group a <a href="/wiki/Grammy_Award" title="Grammy Award">Grammy Award</a> nomination for Best Rap Album at the <a href="/wiki/Grammy_Award_for_Best_Rap_Album" title="Grammy Award for Best Rap Album">40th Grammy Awards in 1998</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Music_and_lyrics"><span class="tocnumber">1</span> <span class="toctext">Music and lyrics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Production"><span class="tocnumber">1.1</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Lyrical_themes"><span class="tocnumber">1.2</span> <span class="toctext">Lyrical themes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Reception"><span class="tocnumber">2</span> <span class="toctext">Reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Critical_response"><span class="tocnumber">2.1</span> <span class="toctext">Critical response</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Accolades"><span class="tocnumber">2.2</span> <span class="toctext">Accolades</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Track_listing"><span class="tocnumber">3</span> <span class="toctext">Track listing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Disc_one"><span class="tocnumber">3.1</span> <span class="toctext">Disc one</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Disc_two"><span class="tocnumber">3.2</span> <span class="toctext">Disc two</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Personnel"><span class="tocnumber">4</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Charts"><span class="tocnumber">5</span> <span class="toctext">Charts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Chart_positions"><span class="tocnumber">5.1</span> <span class="toctext">Chart positions</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Chart_precession_and_succession"><span class="tocnumber">5.2</span> <span class="toctext">Chart precession and succession</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Music_and_lyrics">Music and lyrics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=1" title="Edit section: Music and lyrics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=2" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While the group's previous album is known for its minimalistic production style, producer <a href="/wiki/RZA" title="RZA" class="mw-redirect">RZA</a> had been expanding the musical backdrop of each solo Wu-Tang album since then. <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a>'s <i><a href="/wiki/Only_Built_4_Cuban_Linx..." title="Only Built 4 Cuban Linx...">Only Built 4 Cuban Linx...</a></i>, in particular, was praised for its cinematic feel. RZA earned accolades for his new dense style of production; incorporating strings, heavy synthesizers, and the kung-fu samples of old. The production of the record also pioneered RZA's technique of chopping up and speeding up <a href="/wiki/Soul_music" title="Soul music">soul</a> samples to where it is unusually high-pitched. This style of production would be influential on later producers such as <a href="/wiki/Just_Blaze" title="Just Blaze">Just Blaze</a> and <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> <i>Wu-Tang Forever</i> marked the first group album in-which RZA assigned some of the album's production to Wu-Tang protégés <a href="/wiki/True_Master" title="True Master">True Master</a> and <a href="/wiki/4th_Disciple" title="4th Disciple">4th Disciple</a>, as well as Wu-Tang member <a href="/wiki/Inspectah_Deck" title="Inspectah Deck">Inspectah Deck</a>.</p>
+<h3><span class="mw-headline" id="Lyrical_themes">Lyrical themes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=3" title="Edit section: Lyrical themes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The group's lyrics differed in many ways from those of <i>36 Chambers</i>, with many verses written in <a href="/wiki/Stream_of_consciousness_writing" title="Stream of consciousness writing" class="mw-redirect">stream-of-consciousness</a> style, while being influenced by the teachings of the <a href="/wiki/Five_Percent_Nation" title="Five Percent Nation" class="mw-redirect">Five Percent Nation</a>. The group showed some mature depth as well, speaking on the pitfalls of life's vices ("A Better Tomorrow") and the harsh realities of the inner city life. "Impossible," for instance, even touches on the less glamorized realities of the same violence that the group often paraded.</p>
+<p>The Wu-Tang Clan took advantage of the double-disc format, allowing each of the nine members with a significant number of appearances, including four solo tracks. Several of the members have been recognized for particularly strong performances:</p>
+<p><a href="/wiki/Inspectah_Deck" title="Inspectah Deck">Inspectah Deck</a> raised his stock in the public eye with <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i><span style="padding-left:0.1em;">'</span>s Hip-Hop Quotable for his performance on "Triumph".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> This verse is also considered by many to be one of the greatest hip-hop verses of all time.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> Despite being one of the last group members to release a solo album, his contributions throughout <i>Wu-Tang Forever</i> led to being a highly sought after guest collaborator; appearing in the near future on tracks for <a href="/wiki/Gang_Starr" title="Gang Starr">Gang Starr</a>, <a href="/wiki/Pete_Rock" title="Pete Rock">Pete Rock</a> and <a href="/wiki/Big_Pun" title="Big Pun">Big Pun</a>, among others.</p>
+<p><a href="/wiki/Ghostface_Killah" title="Ghostface Killah">Ghostface Killah</a> continued his rise to fame with his verse in "Impossible," which was hailed by RZA in the <i><a href="/wiki/Wu-Tang_Manual" title="Wu-Tang Manual" class="mw-redirect">Wu-Tang Manual</a></i> as "the greatest Wu-Tang verse ever written," and was also featured in <i>The Source'</i>s Hip-Hop Quotable. "Cash Still Rules/Scary Hours" has also been noted as one of his memorable verses on the album, for his verse cut-off, first popularizing the feel that he could "go on forever". Ghostface Killah would follow up his work on <i>Forever</i> with <i><a href="/wiki/Supreme_Clientele" title="Supreme Clientele">Supreme Clientele</a></i>, which is generally regarded as a classic in the Hip Hop Community.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=4" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Critical_response">Critical response</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=5" title="Edit section: Critical response">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Allmusic_9-0" class="reference"><a href="#cite_note-Allmusic-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">(A)<sup id="cite_ref-EntertainmentWeekly_10-0" class="reference"><a href="#cite_note-EntertainmentWeekly-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/4 stars"><img alt="3.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-LATimes_11-0" class="reference"><a href="#cite_note-LATimes-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Melody_Maker" title="Melody Maker">Melody Maker</a></i></td>
+<td style="vertical-align:middle">(favorable)<sup id="cite_ref-CDUniverse_12-0" class="reference"><a href="#cite_note-CDUniverse-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/NME" title="NME">NME</a></i></td>
+<td style="vertical-align:middle">(favorable)<sup id="cite_ref-CDUniverse_12-1" class="reference"><a href="#cite_note-CDUniverse-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="(2-star Honorable Mention)"><img alt="(2-star Honorable Mention)" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Black_star.svg/11px-Black_star.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Black_star.svg/17px-Black_star.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Black_star.svg/22px-Black_star.svg.png 2x" data-file-width="110" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Black_star.svg/11px-Black_star.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Black_star.svg/17px-Black_star.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Black_star.svg/22px-Black_star.svg.png 2x" data-file-width="110" data-file-height="110" /></span><sup id="cite_ref-RobertChristgau_13-0" class="reference"><a href="#cite_note-RobertChristgau-13"><span>[</span>13<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-RollingStone_14-0" class="reference"><a href="#cite_note-RollingStone-14"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i></td>
+<td style="vertical-align:middle">(7/10)<sup id="cite_ref-Spin_15-0" class="reference"><a href="#cite_note-Spin-15"><span>[</span>15<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/4 stars"><img alt="3.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-USAToday_16-0" class="reference"><a href="#cite_note-USAToday-16"><span>[</span>16<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i></td>
+<td style="vertical-align:middle">(favorable)<sup id="cite_ref-TWAPost_17-0" class="reference"><a href="#cite_note-TWAPost-17"><span>[</span>17<span>]</span></a></sup></td>
+</tr>
+</table>
+<p>Upon its release, <i>Wu-Tang Forever</i> received positive reviews from music critics, who praised RZA's production work and the group members' lyricism. Matt Diehl from <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> gave the album an A rating, and commented "<i>Forever</i> continues the group's artistic grand slam. Like their forebears in <a href="/wiki/Public_Enemy_(group)" title="Public Enemy (group)">Public Enemy</a>, Wu-Tang are musical revolutionaries, unafraid to bring the noise along with their trunk of funk. The RZA allows a few outside producers behind the board this time, but it's his gritty samples and numbing beats that get the party moving."<sup id="cite_ref-EntertainmentWeekly_10-1" class="reference"><a href="#cite_note-EntertainmentWeekly-10"><span>[</span>10<span>]</span></a></sup> Sash Frere-Jones from <i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i> magazine gave the album a 7 out of 10 rating, and wrote "This album is for hip-hop junkies, rhyme followers who want to hear their favorite sword-swallowers drop unusually good styles over unusually good beats."<sup id="cite_ref-Spin_15-1" class="reference"><a href="#cite_note-Spin-15"><span>[</span>15<span>]</span></a></sup> Comparing some of the album's production to that of Wu-Tang member GZA's <i><a href="/wiki/Liquid_Swords" title="Liquid Swords">Liquid Swords</a></i> (also produced by RZA), Neil Strauss from <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> wrote a favorable review of the album and stated "<i>Wu-Tang Forever</i> is a smooth, clean set of 25 songs and two speeches, with only a few throwaways on the second CD. The Wu-Tang Clan offers something for every kind of rap fan. More important, after a four-year wait, on <i>Wu-Tang Forever</i> the Clan retains its mantle as rap's standard bearers."<sup id="cite_ref-TNYTimes_18-0" class="reference"><a href="#cite_note-TNYTimes-18"><span>[</span>18<span>]</span></a></sup> <i><a href="/wiki/Melody_Maker" title="Melody Maker">Melody Maker</a></i> gave <i>Wu-Tang Forever</i> a favorable review as well, stating "It had to be this big. It didn't have to be this good ... Every single track is a detonation of every single pop rule you thought sacrosanct .... <i>Forever</i> is one of the greatest hip hop LPs of all time."<sup id="cite_ref-CDUniverse_12-2" class="reference"><a href="#cite_note-CDUniverse-12"><span>[</span>12<span>]</span></a></sup> <a href="/wiki/Stephen_Thomas_Erlewine" title="Stephen Thomas Erlewine">Stephen Thomas Erlewine</a> from <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> gave the album 4 out of 5 stars, and stated:</p>
+<blockquote class="templatequote">
+<p>Where contemporaries like <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">2Pac</a> and <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a> issued double-discs cluttered with filler, <i>Wu-Tang Forever</i> is purposeful and surprisingly lean, illustrating the immense depth of producer RZA and the entire nine-piece crew... The result is an intoxicating display of musical and lyrical virtuosity, one that reveals how bereft of imagination the Wu-Tang's contemporaries are.<sup id="cite_ref-Allmusic_9-1" class="reference"><a href="#cite_note-Allmusic-9"><span>[</span>9<span>]</span></a></sup></p>
+<div class="templatequotecite">—Stephen Thomas Erlewine</div>
+</blockquote>
+<p>Describing the album's lyrics as "hauntingly descriptive tales of ghetto hustlers and victims," <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> rated the album 3½ out of 5 stars, and stated "The whole of <i>Wu-Tang Forever</i> crackles with a shootout-at-midnight electricity that more than justifies the double-disc indulgence, while the back-and-forth wordfire of Method Man, Raekwon, Ghostface Killah, etc. confirms the Clan's singular zing at the mic, and their ghetto-wise might as storytellers."<sup id="cite_ref-RollingStone_14-1" class="reference"><a href="#cite_note-RollingStone-14"><span>[</span>14<span>]</span></a></sup> Cheo Coker from <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i> gave the album 3½ out of 4 stars and commented "The Clan's beats push the limit between cutting-edge hip-hop and industrial feedback, with jugular-clutching rhymes following their own melodic dictates and insular messages running the gamut from ancient maxims of the art of war to spiritual knowledge, wisdom and understanding from the Islamic Five Percent Nation. Clocking in at two hours, this two-disc, 27-track collection starts in earnest with the brilliant "Reunited," in which producer RZA introduces menacing fiddles to his graveyard hoedown. Behind the rhymes lie exciting string movements that give the song an eerie edge that electric guitars just can't project."<sup id="cite_ref-LATimes_11-1" class="reference"><a href="#cite_note-LATimes-11"><span>[</span>11<span>]</span></a></sup> Edna Gunderson from <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i> also gave the album 3½ out of 4 stars, and wrote "Hip-hop's most anticipated album crackles with the nine-member clan's unique hard-core rhymes and beats. On this two-disc, 112-minute set, the whole is definitely greater than the sum of its parts. The RZA avoids overproduction, using the beats to propel the lyrics, and keeps the music free of clichéd R&amp;B loops.<sup id="cite_ref-USAToday_16-1" class="reference"><a href="#cite_note-USAToday-16"><span>[</span>16<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Accolades">Accolades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=6" title="Edit section: Accolades">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Wu-Tang Forever</i> was ranked as one of the best albums of the year by several notable publications, such as <i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i>, <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>, <i><a href="/wiki/NME" title="NME">NME</a></i> and <i><a href="/wiki/Melody_Maker" title="Melody Maker">Melody Maker</a></i>.<sup id="cite_ref-accolades_19-0" class="reference"><a href="#cite_note-accolades-19"><span>[</span>19<span>]</span></a></sup> Popular <a href="/wiki/Belgium" title="Belgium">Belgium</a> magazine <i><a href="/wiki/HUMO" title="HUMO">HUMO</a></i>, and popular <a href="/wiki/Germany" title="Germany">German</a> magazine <i><a href="/wiki/Spex_(magazine)" title="Spex (magazine)">Spex</a></i> both ranked it number six on their albums of the year lists.<sup id="cite_ref-accolades_19-1" class="reference"><a href="#cite_note-accolades-19"><span>[</span>19<span>]</span></a></sup> In 1999, <i><a href="/wiki/Ego_trip_(magazine)" title="Ego trip (magazine)">Ego Trip</a></i> ranked <i>Wu-Tang Forever</i> number three on their Hip Hop's 25 Greatest Albums by Year 1980-98 list.<sup id="cite_ref-accolades_19-2" class="reference"><a href="#cite_note-accolades-19"><span>[</span>19<span>]</span></a></sup> In their March 2005 issue, <i><a href="/wiki/Hip_Hop_Connection" title="Hip Hop Connection">Hip Hop Connection</a></i> ranked the album number 57 on their 100 Greatest Rap Albums 1995-2005 list.<sup id="cite_ref-accolades_19-3" class="reference"><a href="#cite_note-accolades-19"><span>[</span>19<span>]</span></a></sup> Also in 2005, <i>Blow Up</i> magazine from <a href="/wiki/Italy" title="Italy">Italy</a> included <i>Wu-Tang Forever</i> in their 600 Essential Albums list.<sup id="cite_ref-accolades_19-4" class="reference"><a href="#cite_note-accolades-19"><span>[</span>19<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=7" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Disc_one">Disc one</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=8" title="Edit section: Disc one">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th align="center">#</th>
+<th align="center">Title</th>
+<th align="center">Producer(s)</th>
+<th align="center">Performer(s)</th>
+<th align="center">Samples</th>
+<th align="center">Time</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Wu-Revolution</td>
+<td><a href="/wiki/RZA" title="RZA" class="mw-redirect">RZA</a></td>
+<td>
+<ul>
+<li><a href="/wiki/List_of_Wu-Tang_Clan_affiliates#Popa_Wu" title="List of Wu-Tang Clan affiliates">Popa Wu</a> &amp; Uncle Pete</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Dialogue from <i><a href="/wiki/Shaolin_Temple_(1976_film)" title="Shaolin Temple (1976 film)">Shaolin Temple</a></i></li>
+</ul>
+</td>
+<td>6:46</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Reunited</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>Intro/outro: Ms. Roxy</li>
+<li>First verse: <a href="/wiki/GZA" title="GZA" class="mw-redirect">GZA</a></li>
+<li>Second verse: <a href="/wiki/Ol%27_Dirty_Bastard" title="Ol' Dirty Bastard">Ol' Dirty Bastard</a></li>
+<li>Third verse: <a href="/wiki/RZA" title="RZA" class="mw-redirect">RZA</a></li>
+<li>Fourth verse: <a href="/wiki/Method_Man" title="Method Man">Method Man</a></li>
+</ul>
+</td>
+<td></td>
+<td>5:21</td>
+</tr>
+<tr>
+<td>3</td>
+<td>For Heaven's Sake</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>First verse: <a href="/wiki/Inspectah_Deck" title="Inspectah Deck">Inspectah Deck</a></li>
+<li>Second verse: <a href="/wiki/Masta_Killa" title="Masta Killa">Masta Killa</a></li>
+<li>Third verse: <a href="/wiki/Cappadonna" title="Cappadonna">Cappadonna</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li>"Don't Leave Me Lonely" by <a href="/wiki/King_Floyd" title="King Floyd">King Floyd</a></li>
+</ul>
+</td>
+<td>4:13</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Cash Still Rules/Scary Hours (Still Don't Nothing Move But The Money)</td>
+<td><a href="/wiki/4th_Disciple" title="4th Disciple">4th Disciple</a></td>
+<td>
+<ul>
+<li>First verse: <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a></li>
+<li>Second verse: Method Man</li>
+<li>Third verse: <a href="/wiki/Ghostface_Killah" title="Ghostface Killah">Ghostface Killah</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li>"The End of the World" by <a href="/wiki/Skeeter_Davis" title="Skeeter Davis">Skeeter Davis</a></li>
+</ul>
+</td>
+<td>3:01</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Visionz</td>
+<td>Inspectah Deck</td>
+<td>
+<ul>
+<li>First verse: Method Man</li>
+<li>Second verse: Raekwon</li>
+<li>Third verse: Masta Killa</li>
+<li>Fourth verse: Inspectah Deck</li>
+<li>Fifth verse: Ghostface Killah</li>
+</ul>
+</td>
+<td></td>
+<td>3:09</td>
+</tr>
+<tr>
+<td>6</td>
+<td>As High as Wu-Tang Get</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>Chorus: Ol' Dirty Bastard</li>
+<li>First verse: GZA</li>
+<li>Second verse: Method Man</li>
+</ul>
+</td>
+<td></td>
+<td>2:37</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Severe Punishment</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>First verse: <a href="/wiki/U-God" title="U-God">U-God</a></li>
+<li>Second verse: GZA</li>
+<li>Third verse: Raekwon</li>
+<li>Fourth verse: RZA</li>
+<li>Fifth verse: Masta Killa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Dialogue from <i>Three Evil Masters</i></li>
+</ul>
+</td>
+<td>4:49</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Older Gods</td>
+<td>4th Disciple</td>
+<td>
+<ul>
+<li>First verse: Ghostface Killah</li>
+<li>Second verse: Raekwon</li>
+<li>Chorus: Ghostface Killah &amp; Raekwon</li>
+<li>Third verse: GZA</li>
+</ul>
+</td>
+<td></td>
+<td>3:05</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Maria</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>Intro/first verse: Ol' Dirty Bastard</li>
+<li>Second verse: Cappadonna</li>
+<li>Third verse: Ol' Dirty Bastard</li>
+<li>Fourth verse: RZA</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>"I Love You More than You'll Ever Know" by <a href="/wiki/Blood,_Sweat_%26_Tears" title="Blood, Sweat &amp; Tears">Blood, Sweat &amp; Tears</a></li>
+<li>"Get out of My Life, Woman" by <a href="/wiki/Lee_Dorsey" title="Lee Dorsey">Lee Dorsey</a></li>
+<li>Dialogue from <i>Marco Polo</i> (AKA <i>4 Assassins</i>)</li>
+</ul>
+</td>
+<td>2:55</td>
+</tr>
+<tr>
+<td>10</td>
+<td>A Better Tomorrow</td>
+<td>4th Disciple</td>
+<td>
+<ul>
+<li>Intro/first verse: Inspectah Deck</li>
+<li>Second verse: Masta Killa</li>
+<li>Third verse: U-God</li>
+<li>Fourth verse: RZA</li>
+<li>Fifth verse: Method Man</li>
+<li>Chorus: Inspectah Deck &amp; Masta Killa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>"A Time For Us" by <a href="/wiki/Peter_Nero" title="Peter Nero">Peter Nero</a></li>
+</ul>
+</td>
+<td>4:55</td>
+</tr>
+<tr>
+<td>11</td>
+<td>It's Yourz</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>First verse: Raekwon</li>
+<li>Second verse: U-God</li>
+<li>Third verse/chorus: RZA</li>
+<li>Fourth verse: Inspectah Deck</li>
+<li>Fifth verse: Ghostface Killah</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>"Look on a Soft Side" by <a href="/w/index.php?title=Jean-Pierre_Decerf&amp;action=edit&amp;redlink=1" class="new" title="Jean-Pierre Decerf (page does not exist)">Jean-Pierre Decerf</a> and <a href="/w/index.php?title=Marc_Saclays&amp;action=edit&amp;redlink=1" class="new" title="Marc Saclays (page does not exist)">Marc Saclays</a></li>
+<li>"Sing Sing" by <a href="/wiki/Gaz" title="Gaz">Gaz</a><sup class="plainlinks noprint Inline-Template" style="vertical-align:text-top;white-space:nowrap;">[<i><a rel="nofollow" class="external text" href="//toolserver.org/%7Edispenser/cgi-bin/dab_solver.py?page=Wu-Tang_Forever&amp;editintro=Template:Disambiguation_needed/editintro&amp;client=Template:Dn"><span title="Link needs disambiguation. (September 2011)">disambiguation needed</span></a></i>]</sup></li>
+</ul>
+</td>
+<td>4:17</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Disc_two">Disc two</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=9" title="Edit section: Disc two">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th align="center">#</th>
+<th align="center">Title</th>
+<th align="center">Producer(s)</th>
+<th align="center">Performer(s)</th>
+<th align="center">Samples</th>
+<th align="center">Time</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Intro</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>RZA, GZA</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Music from the Kung-Fu Movie <a href="/wiki/Duel_to_the_Death" title="Duel to the Death">Duel to the Death</a></li>
+</ul>
+</td>
+<td>2:02</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="/wiki/Triumph_(song)" title="Triumph (song)">Triumph</a></td>
+<td>RZA</td>
+<td>
+<ul>
+<li>Intro/intermission: Ol' Dirty Bastard</li>
+<li>First verse: Inspectah Deck</li>
+<li>Second verse: Method Man</li>
+<li>Third verse: Cappadonna</li>
+<li>Fourth verse: U-God</li>
+<li>Fifth verse: RZA</li>
+<li>Sixth verse: GZA</li>
+<li>Seventh verse: Masta Killa</li>
+<li>Eighth verse: Ghostface Killah</li>
+<li>Ninth verse: Raekwon</li>
+</ul>
+</td>
+<td></td>
+<td>5:38</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Impossible</td>
+<td>4th Disciple,<br />
+Co-produced by RZA</td>
+<td>
+<ul>
+<li>First verse: RZA</li>
+<li>Second verse: U-God</li>
+<li>Third verse: Ghostface Killah</li>
+<li>Chorus: <a href="/wiki/List_of_Wu-Tang_Clan_affiliates#Tekitha" title="List of Wu-Tang Clan affiliates">Tekitha</a></li>
+<li>Outro: Raekwon</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="/wiki/Pathetique_Sonata" title="Pathetique Sonata" class="mw-redirect">Pathetique Sonata</a> by <a href="/wiki/Ludwig_van_Beethoven" title="Ludwig van Beethoven">Beethoven</a></li>
+</ul>
+</td>
+<td>4:28</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Little Ghetto Boys</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>Intro: Raekwon, RZA, Cappadonna,<br />
+Ghostface Killah, &amp; Method Man</li>
+<li>First verse: Raekwon</li>
+<li>Second verse: Cappadonna</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>"Little Ghetto Boy" by <a href="/wiki/Donny_Hathaway" title="Donny Hathaway">Donny Hathaway</a></li>
+<li>"Ghetto Child" by <a href="/wiki/O.V._Wright" title="O.V. Wright" class="mw-redirect">O.V. Wright</a></li>
+<li>Dialogue from <i><a href="/wiki/Invincible_Armor" title="Invincible Armor" class="mw-redirect">Invincible Armor</a></i></li>
+</ul>
+</td>
+<td>4:49</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Deadly Melody</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>Intro &amp; first verse: Masta Killa</li>
+<li>Second verse: U-God</li>
+<li>Third verse: RZA</li>
+<li>Fourth verse: Method Man</li>
+<li>Fifth verse: RZA, Masta Killa,<br />
+U-God &amp; GZA</li>
+<li>Sixth verse: Method Man</li>
+<li>Seventh verse: <a href="/wiki/Streetlife_(rapper)" title="Streetlife (rapper)">Streetlife</a></li>
+<li>Eighth verse: Ghostface Killah</li>
+<li>Ninth verse: Streetlife</li>
+<li>Post-song dialogue: Dreddy Kruger, RZA,<br />
+Method Man, Inspectah Deck</li>
+</ul>
+</td>
+<td></td>
+<td>4:20</td>
+</tr>
+<tr>
+<td>6</td>
+<td>The City</td>
+<td>4th Disciple</td>
+<td>
+<ul>
+<li>Inspectah Deck</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>"<a href="/wiki/Living_For_the_City" title="Living For the City" class="mw-redirect">Living For the City</a>" by <a href="/wiki/Stevie_Wonder" title="Stevie Wonder">Stevie Wonder</a></li>
+</ul>
+</td>
+<td>4:05</td>
+</tr>
+<tr>
+<td>7</td>
+<td>The Projects</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>First verse: <a href="/wiki/Shyheim" title="Shyheim">Shyheim</a> &amp; Raekwon</li>
+<li>Chorus&#160;: U-God &amp; Raekwon</li>
+<li>Second verse: Method Man</li>
+<li>Third verse: Ghostface Killah</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>"Cry Together" by <a href="/wiki/The_O%27Jays" title="The O'Jays">The O'Jays</a></li>
+</ul>
+</td>
+<td>3:17</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Bells of War</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>First verse: U-God</li>
+<li>Second verse: Method Man</li>
+<li>Third verse: RZA</li>
+<li>Fourth verse: Masta Killa</li>
+<li>Interludes: Method Man &amp; Raekwon</li>
+<li>Fifth verse: Ghostface Killah</li>
+<li>Outro: RZA</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>"Sneakin' in the Back" by <a href="/wiki/Tom_Scott_(musician)" title="Tom Scott (musician)">Tom Scott</a></li>
+</ul>
+</td>
+<td>5:12</td>
+</tr>
+<tr>
+<td>9</td>
+<td>The M.G.M.</td>
+<td><a href="/wiki/True_Master" title="True Master">True Master</a></td>
+<td>
+<ul>
+<li>Ghostface Killah &amp; Raekwon</li>
+</ul>
+</td>
+<td></td>
+<td>2:38</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Dog Shit</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>Ol' Dirty Bastard</li>
+<li>Interludes: RZA &amp; Method Man</li>
+</ul>
+</td>
+<td></td>
+<td>3:34</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Duck Seazon</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>Intro &amp; first verse: Raekwon</li>
+<li>Second verse: RZA</li>
+<li>Third verse: Method Man</li>
+<li>Fourth verse: Raekwon</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Dialogue from "<a href="/wiki/Unbeaten_28" title="Unbeaten 28">Unbeaten 28</a>"</li>
+</ul>
+</td>
+<td>5:42</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Hellz Wind Staff</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>First verse: Streetlife</li>
+<li>Second verse: Ghostface Killah</li>
+<li>Third verse: Inspectah Deck</li>
+<li>Fourth verse: Method Man</li>
+<li>Fifth verse: RZA</li>
+<li>Sixth verse: Raekwon</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>"Signed D.C." by <a href="/wiki/Love" title="Love">Love</a></li>
+<li>Dialogue from "<a href="/wiki/Unbeaten_28" title="Unbeaten 28">Unbeaten 28</a>"</li>
+</ul>
+</td>
+<td>4:52</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Heaterz</td>
+<td>True Master</td>
+<td>
+<ul>
+<li>First verse: Raekwon</li>
+<li>Second verse: Inspectah Deck</li>
+<li>Third verse: Ol' Dirty Bastard</li>
+<li>Fourth verse: U-God</li>
+<li>Fifth verse: Cappadonna</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>"Giving Up" by <a href="/wiki/Gladys_Knight_%26_the_Pips" title="Gladys Knight &amp; the Pips">Gladys Knight &amp; the Pips</a></li>
+</ul>
+</td>
+<td>5:26</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Black Shampoo</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>U-God<small>; Post-song dialogue: Method Man</small></li>
+</ul>
+</td>
+<td></td>
+<td>3:49</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Second Coming</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>Tekitha</li>
+</ul>
+</td>
+<td></td>
+<td>4:39</td>
+</tr>
+<tr>
+<td>16</td>
+<td>The Closing</td>
+<td>RZA</td>
+<td>
+<ul>
+<li>Raekwon</li>
+</ul>
+</td>
+<td></td>
+<td>2:37</td>
+</tr>
+<tr>
+<td>*17</td>
+<td>Sunshower<br />
+<small>(international track only)</small></td>
+<td>RZA</td>
+<td>
+<ul>
+<li>RZA</li>
+</ul>
+</td>
+<td></td>
+<td>6:11</td>
+</tr>
+<tr>
+<td>*18</td>
+<td>Projects (International Remix)<br />
+<small>(international track only)</small></td>
+<td>RZA</td>
+<td>
+<ul>
+<li>Identical to original</li>
+</ul>
+</td>
+<td></td>
+<td>4:34</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=10" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>RZA - performer, producer, engineer, mixing, executive producer</li>
+<li>GZA - performer</li>
+<li>Ol' Dirty Bastard - performer</li>
+<li>Method Man - performer</li>
+<li>Raekwon - performer</li>
+<li>Ghostface Killah - performer, executive producer</li>
+<li>Inspectah Deck - performer, producer, mixing</li>
+<li>U-God - performer</li>
+<li>Masta Killa - performer</li>
+<li>Cappadonna - performer</li>
+<li>Street Life - performer</li>
+<li>Tekitha - vocals</li>
+<li>Popa Wu - vocals</li>
+<li>Uncle Pete - vocals</li>
+<li>Fourth Disciple - producer, engineer, mixing</li>
+<li>True Master - producer, engineer, mixing</li>
+<li>Mitchell Diggs - executive producer</li>
+<li><a href="/wiki/Oliver_%22Power%22_Grant" title="Oliver &quot;Power&quot; Grant">Oli Grant</a> - executive producer</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Divine - production coordination</li>
+<li>P.O.W.E.R. - production coordination</li>
+<li>Ney Pimentel - art direction, album artwork, design and layout</li>
+<li>Carlos Bess - drums, mixing, mixing engineer</li>
+<li>Ramsey Jones - drums</li>
+<li><a href="/wiki/Miri_Ben-Ari" title="Miri Ben-Ari">Miri Ben-Ari</a> - violin</li>
+<li>Scott Harding - mixing, mixing engineer</li>
+<li>Michael Reaves - mixing</li>
+<li>Troy Staton - mixing</li>
+<li>Tom Coyne - mastering</li>
+<li>Eugene Nastasi - editing</li>
+<li>Arlene Godfrey - A&amp;R</li>
+<li>Che Harris - A&amp;R</li>
+<li>Laurie Marks - A&amp;R</li>
+<li>Ola Kudu - creative direction, album artwork, design &amp; layout</li>
+<li>Sherin Baday - photography, A&amp;R</li>
+<li>Bob Berg - photography</li>
+<li>Philippe McClelland - photography</li>
+<li>Shawn Mortenson - photography</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=11" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=12" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable plainrowheaders">
+<tr>
+<th scope="col">Chart (1997)</th>
+<th scope="col">Peak<br />
+position</th>
+</tr>
+<tr>
+<th scope="row">Australian Albums (<a href="/wiki/ARIA_Charts" title="ARIA Charts">ARIA</a>)<sup id="cite_ref-ac_Australia_Wu-Tang_Clan_20-0" class="reference"><a href="#cite_note-ac_Australia_Wu-Tang_Clan-20"><span>[</span>20<span>]</span></a></sup></th>
+<td align="center">8</td>
+</tr>
+<tr>
+<th scope="row">Austrian Albums (<a href="/wiki/%C3%963_Austria_Top_40" title="Ö3 Austria Top 40">Ö3 Austria</a>)<sup id="cite_ref-ac_Austria_Wu-Tang_Clan_21-0" class="reference"><a href="#cite_note-ac_Austria_Wu-Tang_Clan-21"><span>[</span>21<span>]</span></a></sup></th>
+<td align="center">17</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-ac_BillboardCanada_Wu-Tang_Clan_22-0" class="reference"><a href="#cite_note-ac_BillboardCanada_Wu-Tang_Clan-22"><span>[</span>22<span>]</span></a></sup></th>
+<td align="center">1</td>
+</tr>
+<tr>
+<th scope="row">Finnish Albums (<a href="/wiki/The_Official_Finnish_Charts" title="The Official Finnish Charts">Suomen virallinen lista</a>)<sup id="cite_ref-ac_Finland_Wu-Tang_Clan_23-0" class="reference"><a href="#cite_note-ac_Finland_Wu-Tang_Clan-23"><span>[</span>23<span>]</span></a></sup></th>
+<td align="center">11</td>
+</tr>
+<tr>
+<th scope="row">French Albums (<a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">SNEP</a>)<sup id="cite_ref-ac_France_Wu-Tang_Clan_24-0" class="reference"><a href="#cite_note-ac_France_Wu-Tang_Clan-24"><span>[</span>24<span>]</span></a></sup></th>
+<td align="center">8</td>
+</tr>
+<tr>
+<th scope="row">Irish Albums (<a href="/wiki/Irish_Recorded_Music_Association" title="Irish Recorded Music Association">IRMA</a>)<sup id="cite_ref-ac_Ireland_Wu-Tang_Clan_25-0" class="reference"><a href="#cite_note-ac_Ireland_Wu-Tang_Clan-25"><span>[</span>25<span>]</span></a></sup></th>
+<td align="center">1</td>
+</tr>
+<tr>
+<th scope="row">New Zealand Albums (<a href="/wiki/Recorded_Music_NZ" title="Recorded Music NZ">Recorded Music NZ</a>)<sup id="cite_ref-ac_New_Zealand_Wu-Tang_Clan_26-0" class="reference"><a href="#cite_note-ac_New_Zealand_Wu-Tang_Clan-26"><span>[</span>26<span>]</span></a></sup></th>
+<td align="center">1</td>
+</tr>
+<tr>
+<td>Polish Albums (<a href="/wiki/Polish_Society_of_the_Phonographic_Industry" title="Polish Society of the Phonographic Industry">ZPAV</a>)<sup id="cite_ref-ac_Poland_Wu-Tang_Clan_27-0" class="reference"><a href="#cite_note-ac_Poland_Wu-Tang_Clan-27"><span>[</span>27<span>]</span></a></sup></td>
+<td align="center">7</td>
+</tr>
+<tr>
+<th scope="row">Swiss Albums (<a href="/wiki/Swiss_Music_Charts" title="Swiss Music Charts" class="mw-redirect">Schweizer Hitparade</a>)<sup id="cite_ref-ac_Switzerland_Wu-Tang_Clan_28-0" class="reference"><a href="#cite_note-ac_Switzerland_Wu-Tang_Clan-28"><span>[</span>28<span>]</span></a></sup></th>
+<td align="center">11</td>
+</tr>
+<tr>
+<th scope="row">UK Albums (<a href="/wiki/Official_Charts_Company" title="Official Charts Company">OCC</a>)<sup id="cite_ref-ac_UK_Wu-Tang_Clan_29-0" class="reference"><a href="#cite_note-ac_UK_Wu-Tang_Clan-29"><span>[</span>29<span>]</span></a></sup></th>
+<td align="center">1</td>
+</tr>
+<tr>
+<th scope="row">US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-ac_Billboard200_Wu-Tang_Clan_30-0" class="reference"><a href="#cite_note-ac_Billboard200_Wu-Tang_Clan-30"><span>[</span>30<span>]</span></a></sup></th>
+<td align="center">1</td>
+</tr>
+<tr>
+<th scope="row">US <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-ac_BillboardRandBHipHop_Wu-Tang_Clan_31-0" class="reference"><a href="#cite_note-ac_BillboardRandBHipHop_Wu-Tang_Clan-31"><span>[</span>31<span>]</span></a></sup></th>
+<td align="center">1</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Chart_precession_and_succession">Chart precession and succession</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=13" title="Edit section: Chart precession and succession">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Live_Between_Us" title="Live Between Us">Live Between Us</a></i> by <a href="/wiki/The_Tragically_Hip" title="The Tragically Hip">The Tragically Hip</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart"><i>Billboard</i> Canadian Albums</a> <a href="/wiki/List_of_number-one_albums_of_1997_(Canada)" title="List of number-one albums of 1997 (Canada)">number-one album</a></b><br />
+June 21-27, 1997</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Now!_2_(Canadian_series)" title="Now! 2 (Canadian series)">Now! 2</a></i> by Various artists</span></td>
+</tr>
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Blood_on_the_Dance_Floor:_HIStory_in_the_Mix" title="Blood on the Dance Floor: HIStory in the Mix">Blood on the Dance Floor: HIStory in the Mix</a></i> by <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Irish_Albums_Chart" title="Irish Albums Chart">Irish Albums Chart</a> number-one album</b><br />
+July 18-25, 1997</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Spice_(album)" title="Spice (album)">Spice</a></i> by <a href="/wiki/Spice_Girls" title="Spice Girls">Spice Girls</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/The_Art_of_War_(Bone_Thugs-n-Harmony_album)" title="The Art of War (Bone Thugs-n-Harmony album)">The Art of War</a></i> by <a href="/wiki/Bone_Thugs-n-Harmony" title="Bone Thugs-n-Harmony">Bone Thugs-n-Harmony</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Recorded_Music_NZ" title="Recorded Music NZ">New Zealand Albums Chart</a> number-one album</b><br />
+July 18-25, 1997</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/OK_Computer" title="OK Computer">OK Computer</a></i> by <a href="/wiki/Radiohead" title="Radiohead">Radiohead</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Open_Road_(Gary_Barlow_album)" title="Open Road (Gary Barlow album)">Open Road</a></i> by <a href="/wiki/Gary_Barlow" title="Gary Barlow">Gary Barlow</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a> <a href="/wiki/List_of_UK_Albums_Chart_number_ones_of_the_1990s" title="List of UK Albums Chart number ones of the 1990s">number-one album</a></b><br />
+June 14, 1997 - June 20, 1997</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Middle_of_Nowhere_(Hanson_album)" title="Middle of Nowhere (Hanson album)" class="mw-redirect">Middle of Nowhere</a></i> by <a href="/wiki/Hanson_(band)" title="Hanson (band)">Hanson</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Spice_(album)" title="Spice (album)">Spice</a></i> by <a href="/wiki/Spice_Girls" title="Spice Girls">Spice Girls</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/List_of_Billboard_200_number-one_albums_of_1997" title="List of Billboard 200 number-one albums of 1997">number-one album</a></b><br />
+June 21-28, 1997</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Butterfly_Kisses_(Shades_of_Grace)" title="Butterfly Kisses (Shades of Grace)">Butterfly Kisses (Shades of Grace)</a></i> by <a href="/wiki/Bob_Carlisle" title="Bob Carlisle">Bob Carlisle</a></span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_albums_of_1997_(U.S.)" title="List of number-one albums of 1997 (U.S.)" class="mw-redirect">List of number-one albums of 1997 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1997_(U.S.)" title="List of number-one R&amp;B albums of 1997 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1997 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Gundersen, Edna. <a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/USAToday/access/12441846.html?dids=12441846:12441846&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Jun+12%2C+1997&amp;author=Edna+Gundersen&amp;pub=USA+TODAY&amp;desc=Rap's+latest+chart+powerhouse%3A+'Wu-Tang+Forever'&amp;pqatl=google">Rap's latest chart powerhouse: 'Wu-Tang Forever'</a>. <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>. Retrieved 2010-07-17.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://riaa.org/goldandplatinumdata.php?table=SEARCH_RESULTS">RIAA search: Wu-Tang Forever</a> <a href="/wiki/RIAA" title="RIAA" class="mw-redirect">RIAA</a>. Retrieved 2010-07-17.</span></li>
+<li id="cite_note-yahoo_sales-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-yahoo_sales_3-0">^</a></b></span> <span class="reference-text"><span class="citation web">Paul Grein (April 3, 2014). <a rel="nofollow" class="external text" href="https://music.yahoo.com/blogs/music-news/wanna-buy-wu-tang-clan-album-221351436.html">"New Wu-Tang Clan Album: The Case for the World's First $5 Million Album"</a>. <i>Yahoo Music</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWu-Tang+Forever&amp;rft.atitle=New+Wu-Tang+Clan+Album%3A+The+Case+for+the+World%27s+First+%245+Million+Album&amp;rft.aulast=Paul+Grein&amp;rft.au=Paul+Grein&amp;rft.date=April+3%2C+2014&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fmusic.yahoo.com%2Fblogs%2Fmusic-news%2Fwanna-buy-wu-tang-clan-album-221351436.html&amp;rft.jtitle=Yahoo+Music&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.time.com/time/magazine/article/0,9171,1096499-5,00.html">"Why You Can't Ignore Kanye"</a>. <i>Time</i>. August 21, 2005<span class="reference-accessdate">. Retrieved July 17, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWu-Tang+Forever&amp;rft.atitle=Why+You+Can%27t+Ignore+Kanye&amp;rft.date=August+21%2C+2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.time.com%2Ftime%2Fmagazine%2Farticle%2F0%2C9171%2C1096499-5%2C00.html&amp;rft.jtitle=Time&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gale.com/free_resources/bhm/bio/west_k.htm">Gale - Free Resources - Black History - Biographies - Kanye West</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Columnist. <a rel="nofollow" class="external text" href="http://thimk.files.wordpress.com/2009/12/june-1997-fat-tape.jpg"><i>The Source</i> Hip Hop Quotable: "Triumph", Inspectah Deck</a>. <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i>. Retrieved 2010-09-13.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://allhiphop.com/stories/features/archive/2007/12/08/18844270.aspx">The AllHipHop Top 20 Dopest Verses Ever!</a>. allhiphop.com. retrieved 2010-07-17.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://acclaimedmusic.net/Current/A3819.htm"><i>Supreme Clientele</i> accolades and ratings</a>. acclaimedmusic.net. Retrieved 2010-07-17.</span></li>
+<li id="cite_note-Allmusic-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Allmusic_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Allmusic_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Erlewine, Stephen. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r277255/review">Review: <i>Wu-Tang forever</i></a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>. Retrieved 2010-07-17.</span></li>
+<li id="cite_note-EntertainmentWeekly-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-EntertainmentWeekly_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EntertainmentWeekly_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Diehl, Matt (1997-06-06). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,288215,00.html">Review: <i>Wu-Tang Forever</i></a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> . Retrieved 2010-07-17.</span></li>
+<li id="cite_note-LATimes-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-LATimes_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LATimes_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Coker, Cheo (1997-06-01). <a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/latimes/access/12168752.html?dids=12168752:12168752&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Jun+01%2C+1997&amp;author=Cheo+Hodari+Coker&amp;pub=Los+Angeles+Times&amp;desc=POP+MUSIC%3B+Menacing+Fiddles+and+Passion+From+Wu-Tang%3B+***+1%2F2+WU-TANG+CLAN%2C+%22Wu-Tang+Forever%2C%22+Loud&amp;pqatl=google">Review: <i>Wu-Tang Forever</i></a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. Retrieved 2010-07-17.</span></li>
+<li id="cite_note-CDUniverse-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-CDUniverse_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CDUniverse_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CDUniverse_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Columnist (1997-05-31). <a rel="nofollow" class="external text" href="http://www.cduniverse.com/productinfo.asp?pid=1110935&amp;style=music">Review snipets: <i>Wu-Tang Forever</i></a>. CD Universe. Retrieved 2010-07-17.</span></li>
+<li id="cite_note-RobertChristgau-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-RobertChristgau_13-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Christgau, Robert</a>. <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?id=1687&amp;name=Wu-Tang+Clan">"CG: Wu-Tang Clan"</a>. RobertChristgau.com<span class="reference-accessdate">. Retrieved 2012-06-22</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWu-Tang+Forever&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.btitle=CG%3A+Wu-Tang+Clan&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fget_artist.php%3Fid%3D1687%26name%3DWu-Tang%2BClan&amp;rft.pub=RobertChristgau.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RollingStone-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-RollingStone_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RollingStone_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Brackett, Nathan (1997-06-26). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20090209064447/http://www.rollingstone.com/artists/wutangclan/albums/album/226828/review/6067808/wutang_forever">"Wu-Tang Clan: Wu-Tang Forever&#160;: Music Reviews"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.rollingstone.com/artists/wutangclan/albums/album/226828/review/6067808/wutang_forever">the original</a> on 2009-02-09<span class="reference-accessdate">. Retrieved 2012-06-22</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWu-Tang+Forever&amp;rft.au=Brackett%2C+Nathan&amp;rft.aufirst=Nathan&amp;rft.aulast=Brackett&amp;rft.btitle=Wu-Tang+Clan%3A+Wu-Tang+Forever+%3A+Music+Reviews&amp;rft.date=1997-06-26&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fartists%2Fwutangclan%2Falbums%2Falbum%2F226828%2Freview%2F6067808%2Fwutang_forever&amp;rft.pub=%27%27Rolling+Stone%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Spin-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Spin_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Spin_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Friere-Jones, Sasha (September 1997). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=aJab-7V-6ykC&amp;pg=PA154#v=onepage&amp;q&amp;f=false">Review: <i>Wu-Tang Forever</i></a>. <i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i>. Retrieved 2010-07-17.</span></li>
+<li id="cite_note-USAToday-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-USAToday_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-USAToday_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Gundersen, Edna (1997-06-10). <a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/USAToday/access/12405930.html?FMT=ABS&amp;FMTS=ABS:FT&amp;date=Jun+10%2C+1997&amp;author=Edna+Gundersen%3BSteve+Jones%3BDavid+Patrick+Stearns%3BDavid+Zimmerman&amp;pub=USA+TODAY&amp;edition=&amp;startpage=08.D&amp;desc=%27Forever%27%3A+Rap+with+the+tang+of+realism">Review: <i>Wu-Tang Forever</i></a>. <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>. Retrieved 2010-07-17.</span></li>
+<li id="cite_note-TWAPost-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-TWAPost_17-0">^</a></b></span> <span class="reference-text">Harrington, Richard. Review: <i>Wu-Tang Forever</i>. <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i>. Retrieved 2010-07-17.</span></li>
+<li id="cite_note-TNYTimes-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-TNYTimes_18-0">^</a></b></span> <span class="reference-text">Strauss, Neil (1997-06-10). <a rel="nofollow" class="external text" href="http://www.nytimes.com/1997/06/10/arts/strains-of-violin-in-slick-smooth-rap.html?scp=1&amp;sq=wu-tang+clan+forever&amp;st=nyt">Review: <i>Wu-Tang Forever</i></a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>. Retrieved 2010-07-17.</span></li>
+<li id="cite_note-accolades-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-accolades_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-accolades_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-accolades_19-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-accolades_19-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-accolades_19-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.acclaimedmusic.net/Current/A1012.htm">Wu-Tang Forever accolades and ratings</a>. acclaimedmusic.net. Retrieved 2010-07-17.</span></li>
+<li id="cite_note-ac_Australia_Wu-Tang_Clan-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Australia_Wu-Tang_Clan_20-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.australian-charts.com/showitem.asp?interpret=Wu-Tang+Clan&amp;titel=Wu-Tang+Forever&amp;cat=a">Wu-Tang Clan – Wu-Tang Forever"</a>. Australiancharts.com. Hung Medien. Retrieved June 25, 1997.</span></li>
+<li id="cite_note-ac_Austria_Wu-Tang_Clan-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Austria_Wu-Tang_Clan_21-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://austriancharts.at/showitem.asp?interpret=Wu-Tang+Clan&amp;titel=Wu-Tang+Forever&amp;cat=a">Wu-Tang Clan - Wu-Tang Forever"</a> (in German). Austriancharts.at. Hung Medien. Retrieved June 25, 1997.</span></li>
+<li id="cite_note-ac_BillboardCanada_Wu-Tang_Clan-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_BillboardCanada_Wu-Tang_Clan_22-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/431539/Wu-Tang+Clan/chart?f=309">Wu-Tang Clan Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a> for Wu-Tang Clan. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved June 25, 1997.</span></li>
+<li id="cite_note-ac_Finland_Wu-Tang_Clan-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Finland_Wu-Tang_Clan_23-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.ifpi.fi/tilastot/virallinen-lista/artistit/Wu-Tang+Clan/Wu-Tang+Forever">Wu-Tang Clan: Wu-Tang Forever"</a> (in Finnish). Musiikkituottajat – IFPI Finland. Retrieved June 25, 1997.</span></li>
+<li id="cite_note-ac_France_Wu-Tang_Clan-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_France_Wu-Tang_Clan_24-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.lescharts.com/showitem.asp?interpret=Wu-Tang+Clan&amp;titel=Wu-Tang+Forever&amp;cat=a">Wu-Tang Clan – Wu-Tang Forever"</a>. Lescharts.com. Hung Medien. Retrieved June 25, 1997.</span></li>
+<li id="cite_note-ac_Ireland_Wu-Tang_Clan-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Ireland_Wu-Tang_Clan_25-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&amp;ct=240002&amp;arch=t&amp;lyr={{{year}}}&amp;year={{{year}}}&amp;week={{{week}}}">GFK Chart-Track"</a>. Chart-Track.co.uk. GFK Chart-Track. <a href="/wiki/Irish_Recorded_Music_Association" title="Irish Recorded Music Association">IRMA</a>. Retrieved June 25, 1997.</span></li>
+<li id="cite_note-ac_New_Zealand_Wu-Tang_Clan-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_New_Zealand_Wu-Tang_Clan_26-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.charts.org.nz/showitem.asp?interpret=Wu-Tang+Clan&amp;titel=Wu-Tang+Forever&amp;cat=a">Wu-Tang Clan – Wu-Tang Forever"</a>. Charts.org.nz. Hung Medien. Retrieved June 25, 1997.</span></li>
+<li id="cite_note-ac_Poland_Wu-Tang_Clan-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Poland_Wu-Tang_Clan_27-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://olis.onyx.pl/listy/index.asp?idlisty={{{id}}}">Oficjalna lista sprzedaży&#160;:: OLIS - Official Retail Sales Chart"</a> (In Polish). <a href="/wiki/Polish_Music_Charts" title="Polish Music Charts">OLiS</a>. <a href="/wiki/Polish_Society_of_the_Phonographic_Industry" title="Polish Society of the Phonographic Industry">Polish Society of the Phonographic Industry</a>. Retrieved June 25, 1997.</span></li>
+<li id="cite_note-ac_Switzerland_Wu-Tang_Clan-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Switzerland_Wu-Tang_Clan_28-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.swisscharts.com/showitem.asp?interpret=Wu-Tang+Clan&amp;titel=Wu-Tang+Forever&amp;cat=a">Wu-Tang Clan – Wu-Tang Forever"</a>. Swisscharts.com. Hung Medien. Retrieved June 25, 1997.</span></li>
+<li id="cite_note-ac_UK_Wu-Tang_Clan-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_UK_Wu-Tang_Clan_29-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.officialcharts.com/artist/_/Wu-Tang%20Clan/">"Wu-Tang Clan | Artist | Official Charts"</a>. <a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a>. The Official Charts Company. Retrieved June 25, 1997.</span></li>
+<li id="cite_note-ac_Billboard200_Wu-Tang_Clan-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Billboard200_Wu-Tang_Clan_30-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/431539/Wu-Tang+Clan/chart?f=305">"Wu-Tang Clan Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Billboard_200" title="Billboard 200">200</a> for Wu-Tang Clan. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved June 25, 1997.</span></li>
+<li id="cite_note-ac_BillboardRandBHipHop_Wu-Tang_Clan-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_BillboardRandBHipHop_Wu-Tang_Clan_31-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/431539/Wu-Tang+Clan/chart?f=333">Wu-Tang Clan Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> for Wu-Tang Clan. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved June 25, 1997.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.discogs.com/Wu-Tang-Clan-Wu-Tang-Forever/master/36731"><i>Wu-Tang Forever</i></a> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="http://musicbrainz.org/release-group/9c175231-56c2-35f1-a8f0-6059ad587d59.html"><i>Wu-Tang Forever</i></a> at <a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.rapreviews.com/archive/BTTL_wuforever.html">Album review</a> at RapReviews.com</li>
+<li><a rel="nofollow" class="external text" href="http://acclaimedmusic.net/Current/A1012.htm">Album accolades</a> at acclaimedmusic.net</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wu-Tang_Clan" title="Template:Wu-Tang Clan"><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wu-Tang_Clan" title="Template talk:Wu-Tang Clan"><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wu-Tang_Clan&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><a href="/wiki/RZA" title="RZA" class="mw-redirect">RZA</a></b></li>
+<li><b><a href="/wiki/GZA" title="GZA" class="mw-redirect">GZA</a></b></li>
+<li><b><a href="/wiki/Ol%27_Dirty_Bastard" title="Ol' Dirty Bastard">Ol' Dirty Bastard</a></b></li>
+<li><b><a href="/wiki/Inspectah_Deck" title="Inspectah Deck">Inspectah Deck</a></b></li>
+<li><b><a href="/wiki/Raekwon" title="Raekwon">Raekwon</a></b></li>
+<li><b><a href="/wiki/U-God" title="U-God">U-God</a></b></li>
+<li><b><a href="/wiki/Ghostface_Killah" title="Ghostface Killah">Ghostface Killah</a></b></li>
+<li><b><a href="/wiki/Method_Man" title="Method Man">Method Man</a></b></li>
+<li><b><a href="/wiki/Masta_Killa" title="Masta Killa">Masta Killa</a></b></li>
+</ul>
+<ul>
+<li><a href="/wiki/Cappadonna" title="Cappadonna">Cappadonna</a></li>
+<li><a href="/wiki/Streetlife_(rapper)" title="Streetlife (rapper)">Streetlife</a></li>
+<li><a href="/wiki/Redman_(rapper)" title="Redman (rapper)">Redman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Enter_the_Wu-Tang_(36_Chambers)" title="Enter the Wu-Tang (36 Chambers)">Enter the Wu-Tang (36 Chambers)</a></i> <small>(1993)</small></li>
+<li><i><strong class="selflink">Wu-Tang Forever</strong></i> <small>(1997)</small></li>
+<li><i><a href="/wiki/The_W" title="The W">The W</a></i> <small>(2000)</small></li>
+<li><i><a href="/wiki/Iron_Flag" title="Iron Flag">Iron Flag</a></i> <small>(2001)</small></li>
+<li><i><a href="/wiki/8_Diagrams" title="8 Diagrams">8 Diagrams</a></i> <small>(2007)</small></li>
+<li><i>A Better Tomorrow</i> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Swarm_(album)" title="The Swarm (album)">The Swarm</a></i></li>
+<li><i><a href="/wiki/Wu-Chronicles" title="Wu-Chronicles">Wu-Chronicles</a></i></li>
+<li><i><a href="/wiki/Wu-Chronicles,_Chapter_2" title="Wu-Chronicles, Chapter 2">Wu-Chronicles, Chapter 2</a></i></li>
+<li><i><a href="/wiki/The_Sting_(album)" title="The Sting (album)" class="mw-redirect">The Sting</a></i></li>
+<li><i><a href="/wiki/Disciples_of_the_36_Chambers" title="Disciples of the 36 Chambers">Disciples of the 36 Chambers</a></i></li>
+<li><i><a href="/wiki/Legend_of_the_Wu-Tang_Clan" title="Legend of the Wu-Tang Clan">Legend of the Wu-Tang Clan</a></i></li>
+<li><i><a href="/wiki/Wu-Tang_Meets_the_Indie_Culture" title="Wu-Tang Meets the Indie Culture">Wu-Tang Meets the Indie Culture</a></i></li>
+<li><i><a href="/wiki/Mathematics_Presents_Wu-Tang_Clan_%26_Friends_Unreleased" title="Mathematics Presents Wu-Tang Clan &amp; Friends Unreleased">Mathematics Presents Wu-Tang Clan &amp; Friends Unreleased</a></i></li>
+<li><i><a href="/wiki/Wu-Tang_Chamber_Music" title="Wu-Tang Chamber Music">Wu-Tang Chamber Music</a></i></li>
+<li><i><a href="/wiki/Legendary_Weapons" title="Legendary Weapons">Legendary Weapons</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Protect_Ya_Neck" title="Protect Ya Neck">Protect Ya Neck</a>"</li>
+<li>"<a href="/wiki/Method_Man_(song)" title="Method Man (song)">Method Man</a>"</li>
+<li>"<a href="/wiki/C.R.E.A.M." title="C.R.E.A.M.">C.R.E.A.M.</a>"</li>
+<li>"<a href="/wiki/Can_It_Be_All_So_Simple" title="Can It Be All So Simple">Can It Be All So Simple</a>"</li>
+<li>"<a href="/wiki/Triumph_(song)" title="Triumph (song)">Triumph</a>"</li>
+<li>"<a href="/wiki/The_Worst_(song)" title="The Worst (song)">The Worst</a>"</li>
+<li>"<a href="/wiki/Gravel_Pit" title="Gravel Pit">Gravel Pit</a>"</li>
+<li>"<a href="/wiki/Uzi_(Pinky_Ring)" title="Uzi (Pinky Ring)">Uzi (Pinky Ring)</a>"</li>
+<li>"<a href="/wiki/The_Heart_Gently_Weeps" title="The Heart Gently Weeps">The Heart Gently Weeps</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Wu-Tang_Clan_discography" title="Wu-Tang Clan discography">Discography</a></li>
+<li><a href="/wiki/Wu-Tang_Clan_Anthology" title="Wu-Tang Clan Anthology" class="mw-redirect">Anthology</a></li>
+<li><a href="/wiki/Various_Wu-Recording_Labels" title="Various Wu-Recording Labels" class="mw-redirect">Record Labels</a></li>
+<li><i><a href="/wiki/The_Wu-Tang_Manual" title="The Wu-Tang Manual">The Wu-Tang Manual</a></i></li>
+<li><i><a href="/wiki/The_Tao_of_Wu" title="The Tao of Wu">The Tao of Wu</a></i></li>
+<li><i><a href="/wiki/Wu-Tang:_Shaolin_Style" title="Wu-Tang: Shaolin Style">Wu-Tang: Shaolin Style</a></i></li>
+<li><a href="/wiki/List_of_Wu-Tang_Clan_affiliates" title="List of Wu-Tang Clan affiliates">Affiliates</a></li>
+<li><a href="/wiki/List_of_Wu-Tang_Clan_affiliate_albums" title="List of Wu-Tang Clan affiliate albums">Affiliates discography</a></li>
+<li><a href="/wiki/Loud_Records" title="Loud Records">Loud Records</a></li>
+<li><i><a href="/wiki/Wu-Massacre" title="Wu-Massacre">Wu-Massacre</a></i></li>
+<li><i><a href="/wiki/Wu_Block" title="Wu Block">Wu Block</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Wu-Tang_Clan" title="Book:Wu-Tang Clan">Book</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Wu-Tang_Clan" title="Category:Wu-Tang Clan">Category</a></b></li>
+<li><b><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Hip_hop" title="Portal:Hip hop">Hip hop portal</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1176
+CPU time usage: 1.616 seconds
+Real time usage: 1.755 seconds
+Preprocessor visited node count: 6603/1000000
+Preprocessor generated node count: 56218/1500000
+Post‐expand include size: 61803/2048000 bytes
+Template argument size: 12406/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 3/500
+Lua time usage: 0.080/10.000 seconds
+Lua memory usage: 2.19 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1591524-0!*!0!!en!4!* and timestamp 20140530152159 and revision id 609350828
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Wu-Tang_Forever&amp;oldid=609350828">http://en.wikipedia.org/w/index.php?title=Wu-Tang_Forever&amp;oldid=609350828</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wu-Tang_Clan_albums" title="Category:Wu-Tang Clan albums">Wu-Tang Clan albums</a></li><li><a href="/wiki/Category:1997_albums" title="Category:1997 albums">1997 albums</a></li><li><a href="/wiki/Category:Loud_Records_albums" title="Category:Loud Records albums">Loud Records albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Rza" title="Category:Albums produced by Rza">Albums produced by Rza</a></li><li><a href="/wiki/Category:Albums_produced_by_True_Master" title="Category:Albums produced by True Master">Albums produced by True Master</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li><li><a href="/wiki/Category:Albums_produced_by_4th_Disciple" title="Category:Albums produced by 4th Disciple">Albums produced by 4th Disciple</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_with_links_needing_disambiguation_from_September_2011" title="Category:Articles with links needing disambiguation from September 2011">Articles with links needing disambiguation from September 2011</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wu-Tang+Forever&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wu-Tang+Forever" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Wu-Tang_Forever"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Wu-Tang_Forever"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Wu-Tang_Forever" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wu-Tang_Forever" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wu-Tang_Forever" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Wu-Tang_Forever&amp;oldid=609350828" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Wu-Tang_Forever&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2006529" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Wu-Tang_Forever&amp;id=609350828" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wu-Tang+Forever">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Wu-Tang+Forever&amp;oldid=609350828&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Wu-Tang_Forever&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Wu-Tang_Forever" title="Wu-Tang Forever – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Wu-Tang_Forever" title="Wu-Tang Forever – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Wu-Tang_Forever" title="Wu-Tang Forever – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Wu-Tang_Forever" title="Wu-Tang Forever – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Wu-Tang_Forever" title="Wu-Tang Forever – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q2006529#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 May 2014 at 07:29.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Wu-Tang_Forever" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":297,"wgHostname":"mw1097"});
+}</script>
+	</body>
+</html>
+	

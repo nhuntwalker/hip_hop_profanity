@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Vol. 3... Life and Times of S. Carter - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Vol._3..._Life_and_Times_of_S._Carter" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Vol._3..._Life_and_Times_of_S._Carter" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Vol._3..._Life_and_Times_of_S._Carter","wgTitle":"Vol. 3... Life and Times of S. Carter","wgCurRevisionId":610734314,"wgRevisionId":610734314,"wgArticleId":1319174,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","1999 albums","Jay-Z albums","Albums produced by DJ Clue?","Albums produced by DJ Premier","Albums produced by Irv Gotti","Albums produced by Rockwilder","Albums produced by Swizz Beatz","Albums produced by Timbaland","Def Jam Recordings albums","English-language albums","Roc-A-Fella Records albums","Sequel albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Vol._3..._Life_and_Times_of_S._Carter","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2455259"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Vol_3_Life_and_Times_of_S_Carter skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Vol. 3... Life and Times of S. Carter</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Vol. 3… Life and Times of S. Carter</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Jay-z-vol-3-life-and-times-s-carter.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/7/74/Jay-z-vol-3-life-and-times-s-carter.jpg/220px-Jay-z-vol-3-life-and-times-s-carter.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/7/74/Jay-z-vol-3-life-and-times-s-carter.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/7/74/Jay-z-vol-3-life-and-times-s-carter.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">December 28, 1999</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1999</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>71:05</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella</a>, <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a>, <a href="/wiki/Timbaland" title="Timbaland">Timbaland</a>, <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>, <a href="/wiki/Rockwilder" title="Rockwilder">Rockwilder</a>, <a href="/wiki/DJ_Clue" title="DJ Clue" class="mw-redirect">DJ Clue</a>, <a href="/wiki/Irv_Gotti" title="Irv Gotti">Irv Gotti</a>, <a href="/wiki/Lil_Rob" title="Lil Rob">Lil Rob</a>, K-Rob, Darrell Branch, Ken Ifill, Russell Howard, Sean Francis, Chauncey Mahan</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Vol._2..._Hard_Knock_Life" title="Vol. 2... Hard Knock Life">Vol. 2... Hard Knock Life</a></i><br />
+(1998)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Vol. 3... Life and Times of S. Carter</b></i><br />
+(1999)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia">The Dynasty: Roc La Familia</a></i><br />
+(2000)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Vol. 3... Life and Times of S. Carter</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Jigga_My_Nigga" title="Jigga My Nigga">Jigga My Nigga</a>"</span><br />
+Released: July 20, 1999</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Girl%27s_Best_Friend" title="Girl's Best Friend">Girl's Best Friend</a>"</span><br />
+Released: October 18, 1999</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Do_It_Again_(Put_Ya_Hands_Up)" title="Do It Again (Put Ya Hands Up)">Do It Again (Put Ya Hands Up)</a>"</span><br />
+Released: December 14, 1999</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Things_That_U_Do" title="Things That U Do">Things That U Do</a>"</span><br />
+Released: February 11, 2000</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Big_Pimpin%27" title="Big Pimpin'">Big Pimpin'</a>"</span><br />
+Released: April 11, 2000</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Bush_1-0" class="reference"><a href="#cite_note-Bush-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/4 stars"><img alt="3/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Kot_2-0" class="reference"><a href="#cite_note-Kot-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">(A)<sup id="cite_ref-Christgau_3-0" class="reference"><a href="#cite_note-Christgau-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">A−<sup id="cite_ref-DeCurtis_4-0" class="reference"><a href="#cite_note-DeCurtis-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="2.5/4 stars"><img alt="2.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Baker_5-0" class="reference"><a href="#cite_note-Baker-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/NME" title="NME">NME</a></i></td>
+<td style="vertical-align:middle">(7/10)<sup id="cite_ref-Fadele_6-0" class="reference"><a href="#cite_note-Fadele-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Ex_7-0" class="reference"><a href="#cite_note-Ex-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Source_8-0" class="reference"><a href="#cite_note-Source-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/4 stars"><img alt="4/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Jones_9-0" class="reference"><a href="#cite_note-Jones-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i></td>
+<td style="vertical-align:middle">(favorable)<sup id="cite_ref-Lewis_10-0" class="reference"><a href="#cite_note-Lewis-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>Vol. 3… Life and Times of S. Carter</b></i> is the fourth <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by American rapper <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, released on December 28, 1999, on <a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella Records</a>. It exhibits a return to the street-oriented sound of his first album, <i><a href="/wiki/Reasonable_Doubt" title="Reasonable Doubt" class="mw-redirect">Reasonable Doubt</a></i> (1996).<sup id="cite_ref-Jones_9-1" class="reference"><a href="#cite_note-Jones-9"><span>[</span>9<span>]</span></a></sup> Production for the album was handled by several hip hop producers, including <a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a>, <a href="/wiki/Timbaland" title="Timbaland">Timbaland</a>, <a href="/wiki/K-Rob" title="K-Rob">K-Rob</a>, <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>, <a href="/wiki/Rockwilder" title="Rockwilder">Rockwilder</a>, <a href="/wiki/DJ_Clue" title="DJ Clue" class="mw-redirect">DJ Clue</a> and <a href="/wiki/Irv_Gotti" title="Irv Gotti">Irv Gotti</a>.</p>
+<p>The album debuted at number one on the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart, selling 462,000 copies in its first week. It was a significant commercial success, shipping two million copies within its first month of release. Upon its release, <i>Vol. 3… Life and Times of S. Carter</i> received positive reviews from most music critics. On February 14, 2001, the album was certified <a href="/wiki/RIAA_certification" title="RIAA certification">triple platinum</a> by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>, for shipments of three million copies in the United States.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Commercial_performance"><span class="tocnumber">1</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Critical_reception"><span class="tocnumber">2</span> <span class="toctext">Critical reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Initial_reaction"><span class="tocnumber">2.1</span> <span class="toctext">Initial reaction</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Retrospect"><span class="tocnumber">2.2</span> <span class="toctext">Retrospect</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Track_listing"><span class="tocnumber">3</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Personnel"><span class="tocnumber">4</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Sample_credits"><span class="tocnumber">5</span> <span class="toctext">Sample credits</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Charts"><span class="tocnumber">6</span> <span class="toctext">Charts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Album"><span class="tocnumber">6.1</span> <span class="toctext">Album</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Singles"><span class="tocnumber">6.2</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Chart_procession_and_succession"><span class="tocnumber">6.3</span> <span class="toctext">Chart procession and succession</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit&amp;section=1" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It debuted at number one on the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>, selling 462,000 copies in its first week,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> which is thirty-percent more than the first-week sales of Jay-Z previous album <i><a href="/wiki/Vol._2..._Hard_Knock_Life" title="Vol. 2... Hard Knock Life">Vol. 2... Hard Knock Life</a></i> (1998).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> <i>Vol. 3… Life and Times of S. Carter</i> peaked at number one on <i>Billboard</i><span style="padding-left:0.1em;">'</span>s <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a> chart.<sup id="cite_ref-charts_13-0" class="reference"><a href="#cite_note-charts-13"><span>[</span>13<span>]</span></a></sup> The album shipped two million copies in its first month of release.<sup id="cite_ref-RIAA_14-0" class="reference"><a href="#cite_note-RIAA-14"><span>[</span>14<span>]</span></a></sup> On February 14, 2001, it was certified <a href="/wiki/RIAA_certification" title="RIAA certification">triple platinum</a> in sales by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA), for shipments of three million copies in the United States.<sup id="cite_ref-RIAA_14-1" class="reference"><a href="#cite_note-RIAA-14"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit&amp;section=2" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Initial_reaction">Initial reaction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit&amp;section=3" title="Edit section: Initial reaction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Upon its release, <i>Vol. 3... Life and Times of S. Carter</i> received positive reviews from <a href="/wiki/Music_criticism" title="Music criticism">music critics</a>. <i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i> writer <a href="/wiki/Greg_Kot" title="Greg Kot">Greg Kot</a> gave it three out of four stars and stated, "Jay-Z's level of self-awareness is utterly in tune with his generation's; he's not an artist so much as a multimedia-savvy product manager, in tune with how the game is played".<sup id="cite_ref-Kot_2-1" class="reference"><a href="#cite_note-Kot-2"><span>[</span>2<span>]</span></a></sup> Richard Harrington of <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i> commented that the album "is full of reputation-building swagger, cataloguing of lyrical skills and autobiographical perspective".<sup id="cite_ref-Harrington_15-0" class="reference"><a href="#cite_note-Harrington-15"><span>[</span>15<span>]</span></a></sup> <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i><span style="padding-left:0.1em;">'</span>s <a href="/wiki/Anthony_DeCurtis" title="Anthony DeCurtis">Anthony DeCurtis</a> viewed that the album "reconnect[s]" with Jay-Z's urban demographic, "with flair".<sup id="cite_ref-DeCurtis_4-1" class="reference"><a href="#cite_note-DeCurtis-4"><span>[</span>4<span>]</span></a></sup> Steve Jones of <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i> wrote that Jay-Z's "lyrics and sense of timing are as razor-sharp as ever".<sup id="cite_ref-Jones_9-2" class="reference"><a href="#cite_note-Jones-9"><span>[</span>9<span>]</span></a></sup> <a href="/wiki/Miles_Marshall_Lewis" title="Miles Marshall Lewis">Miles Marshall Lewis</a> of <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> praised its production quality and lyrics, stating "Jay-Z is the best MC in hip hop. <i>Vol. 3… Life and Times of S. Carter</i> [...] is the quintessential 2000-model hip hop album, and Shawn Carter is the finest MC the form currently has to offer".<sup id="cite_ref-Lewis_10-1" class="reference"><a href="#cite_note-Lewis-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>In his consumer guide for <i>The Village Voice</i>, critic <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a> gave it an A rating.<sup id="cite_ref-Christgau_3-1" class="reference"><a href="#cite_note-Christgau-3"><span>[</span>3<span>]</span></a></sup> Christgau stated, "he goes for a rugged, expansive vigor, nailing both come-fly-with-me cosmopolitanism and the hunger for excitement that's turned gangster hangouts into musical hotbeds from Buenos Aires to Kansas City".<sup id="cite_ref-Christgau_3-2" class="reference"><a href="#cite_note-Christgau-3"><span>[</span>3<span>]</span></a></sup> <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> writer Kris Ex found that Jay-Z "has become a better architect of songs" and dubbed <i>Vol. 3...</i> "his strongest album to date, with music that's filled with catchy hooks, rump-shaking beats and lyrics fueled by Jay's hustler's vigilance".<sup id="cite_ref-Ex_7-1" class="reference"><a href="#cite_note-Ex-7"><span>[</span>7<span>]</span></a></sup> In a mixed review, <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i> writer Soren Baker gave it two-and-a-half out of four stars and viewed that it lacks the "biting humor and spectacular wordplay" of his previous albums.<sup id="cite_ref-Baker_5-1" class="reference"><a href="#cite_note-Baker-5"><span>[</span>5<span>]</span></a></sup> Dele Fadele of <i><a href="/wiki/NME" title="NME">NME</a></i> found it less reflective than his previous work, but commended Jay-Z as "an intelligent man, with a gifted turn of slang, [...] spits venom one minute and cools out the next".<sup id="cite_ref-Fadele_6-1" class="reference"><a href="#cite_note-Fadele-6"><span>[</span>6<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Retrospect">Retrospect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit&amp;section=4" title="Edit section: Retrospect">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In a retrospective review, Steve Juon of RapReviews gave it an eight-and-a-half out of 10 rating and viewed it as an improvement over Jay-Z's previous two albums.<sup id="cite_ref-Juon_16-0" class="reference"><a href="#cite_note-Juon-16"><span>[</span>16<span>]</span></a></sup> <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> editor John Bush complimented his lyricism and called the album "a set of hard-hitting tracks with some of the best rhymes of Jay-Z's career … much more invigorating than its predecessor, and almost as consistently entertaining as his best album, <i><a href="/wiki/In_My_Lifetime,_Vol._1" title="In My Lifetime, Vol. 1">In My Lifetime, Vol. 1</a></i>".<sup id="cite_ref-Bush_1-1" class="reference"><a href="#cite_note-Bush-1"><span>[</span>1<span>]</span></a></sup> However, <a href="/wiki/IGN" title="IGN">IGN</a> columnist Spence D. wrote that <i>Vol. 3… Life and Times of S. Carter</i> presents Jay-Z "in battle with his two personas: the street soldier and the pop star".<sup id="cite_ref-Spence_17-0" class="reference"><a href="#cite_note-Spence-17"><span>[</span>17<span>]</span></a></sup> <i><a href="/wiki/The_New_Rolling_Stone_Album_Guide" title="The New Rolling Stone Album Guide" class="mw-redirect">The New Rolling Stone Album Guide</a></i> (2004) gives the album four out of five stars and states, "<i>Life &amp; Times of S. Carter</i> took [<i>Vol. 2</i><span style="padding-left:0.1em;">'</span>s] combination of style and substance to its apotheosis. In addition to maintaining a strong lyrical presence, Jay also showcased his talents as a master of flow, changing cadences and rhyme patterns with impressive regularity and flexibility. [...] Nearly every track on this album was sonically unique, and Jay rode each one with aplomb and skill".<sup id="cite_ref-RSguide_18-0" class="reference"><a href="#cite_note-RSguide-18"><span>[</span>18<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit&amp;section=5" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>All lyrics written by Shawn "<a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>" Carter, and featured rappers.&#160;</p>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Hova Song" <span style="font-size:85%;">(Intro)</span></td>
+<td style="vertical-align: top;">K-Rob</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:21</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"So Ghetto" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:01</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Do_It_Again_(Put_Ya_Hands_Up)" title="Do It Again (Put Ya Hands Up)">Do It Again (Put Ya Hands Up)</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a> &amp; <a href="/wiki/Amil_(rapper)" title="Amil (rapper)">Amil</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Rockwilder" title="Rockwilder">Rockwilder</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:39</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Dope Man" <span style="font-size:85%;">(featuring Serena Altschul)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/DJ_Clue%3F" title="DJ Clue?">DJ Clue?</a>, Darrell Branch, Ken Ifill, Lance Rivera*</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:03</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Things_That_U_Do" title="Things That U Do">Things That U Do</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Mariah_Carey" title="Mariah Carey">Mariah Carey</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:52</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"It's Hot (Some Like It Hot)" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Timbaland" title="Timbaland">Timbaland</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:16</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Snoopy Track" <span style="font-size:85%;">(featuring <a href="/wiki/Juvenile_(rapper)" title="Juvenile (rapper)">Juvenile</a>)</span></td>
+<td style="vertical-align: top;">Timbaland</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:01</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"S. Carter" <span style="font-size:85%;">(featuring Amil)</span></td>
+<td style="vertical-align: top;">Russell Howard, Sean Francis, Chauncey Mahan*</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:14</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Pop 4 Roc" <span style="font-size:85%;">(featuring Beanie Sigel, <a href="/wiki/Memphis_Bleek" title="Memphis Bleek">Memphis Bleek</a> &amp; Amil)</span></td>
+<td style="vertical-align: top;">DJ Clue?, Ken Ifill</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:36</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Watch Me" <span style="font-size:85%;">(featuring <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Irv_Gotti" title="Irv Gotti">Irv Gotti</a> &amp; <a href="/wiki/Lil_Rob" title="Lil Rob">Lil Rob</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:34</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Big_Pimpin%27" title="Big Pimpin'">Big Pimpin'</a>" <span style="font-size:85%;">(featuring <a href="/wiki/UGK" title="UGK">UGK</a>)</span></td>
+<td style="vertical-align: top;">Timbaland</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:44</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"There's Been a Murder" &#160;</td>
+<td style="vertical-align: top;">K-Rob</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:40</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Come and Get Me" &#160;</td>
+<td style="vertical-align: top;">Timbaland</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6:09</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"NYMP" &#160;</td>
+<td style="vertical-align: top;">Rockwilder</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:03</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Hova Song" <span style="font-size:85%;">(Outro)</span></td>
+<td style="vertical-align: top;">K-Rob</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:26</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Jigga_My_Nigga" title="Jigga My Nigga">Jigga My Nigga</a>" <span style="font-size:85%;">(hidden bonus track)</span></td>
+<td style="vertical-align: top;">Swizz Beatz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:34</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Girl%27s_Best_Friend" title="Girl's Best Friend">Girl's Best Friend</a>" <span style="font-size:85%;">(featuring Theresa Rodriguez, hidden bonus track)</span></td>
+<td style="vertical-align: top;">Swizz Beatz</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:59</td>
+</tr>
+</table>
+<dl>
+<dt>Notes</dt>
+</dl>
+<p><sup>*</sup> indicates co-producer</p>
+<p>The UK/Europe edition of the album (which was released several weeks before the US edition) features an alternate track listing. "Hova Interlude" replaced the track "Watch Me" and "There's Been a Murder" was replaced with "<a href="/wiki/Is_That_Your_Chick_(The_Lost_Verses)" title="Is That Your Chick (The Lost Verses)">Is That Yo Bitch</a>" (featuring <a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a> and <a href="/wiki/Twista" title="Twista">Twista</a>). "Is That Yo Bitch" is an alternate version of Memphis Bleek's "Is That Your Chick". It also has "<a href="/wiki/Anything_(Jay-Z_song)" title="Anything (Jay-Z song)">Anything</a>" as the closing song (track 16) before the two hidden bonus tracks. This version is how the album was really intended to sound but due to heavy bootlegging of the promotional copy Jay-Z went back and changed the US track listing on the eleventh hour.</p>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit&amp;section=6" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Credits adapted from <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<ul>
+<li><a href="/wiki/Amil_(rapper)" title="Amil (rapper)">Amil</a> – performer</li>
+<li>Darrell Branch – producer</li>
+<li><a href="/wiki/Mariah_Carey" title="Mariah Carey">Mariah Carey</a> – performer</li>
+<li>Drawing Board – art direction</li>
+<li>Fingaz – keyboards</li>
+<li>Kyledidthis – design</li>
+<li><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> – performer</li>
+<li>Jonathan Mannon – photography</li>
+<li><a href="/wiki/Memphis_Bleek" title="Memphis Bleek">Memphis Bleek</a> – performer</li>
+<li>Tatsuya Sato – assistant engineer</li>
+<li><a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a> – performer</li>
+<li><a href="/wiki/UGK" title="UGK">UGK</a> – performer</li>
+<li><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> - performer, mixing</li>
+</ul>
+<h2><span class="mw-headline" id="Sample_credits">Sample credits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit&amp;section=7" title="Edit section: Sample credits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<p><b>Hova Song (Intro)</b></p>
+<ul>
+<li>"Burning the Midnight Lamp" by <a href="/wiki/Rotary_Connection" title="Rotary Connection">Rotary Connection</a></li>
+</ul>
+<p><b>So Ghetto</b></p>
+<ul>
+<li>"Crop Dustin'" by <a href="/wiki/Steve_Cropper" title="Steve Cropper">Steve Cropper</a></li>
+<li>"Sporco Ma Distinto" by <a href="/wiki/Ennio_Morricone" title="Ennio Morricone">Ennio Morricone</a></li>
+</ul>
+<p><b>Do It Again (Put Ya Hands Up)</b></p>
+<ul>
+<li>"Overnight Scenario" by <a href="/wiki/Rare_Essence" title="Rare Essence">Rare Essence</a> (DC Go-Go Band)</li>
+</ul>
+<p><b>S. Carter</b></p>
+<ul>
+<li>"Heads High" by <a href="/wiki/Mr._Vegas" title="Mr. Vegas">Mr. Vegas</a></li>
+</ul>
+<p><b>Big Pimpin'</b></p>
+<ul>
+<li>"Everybody's Gotta Learn Sometime" by <a href="/wiki/Korgis" title="Korgis" class="mw-redirect">Korgis</a></li>
+<li>"Khusara Khusara" by <a href="/wiki/Hossam_Ramzy" title="Hossam Ramzy">Hossam Ramzy</a><i>**</i></li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<p><b>There's Been A Murder</b></p>
+<ul>
+<li>"Murder" by <a href="/wiki/Alana_Davis" title="Alana Davis">Alana Davis</a></li>
+<li>"Contains scene from the movie <a href="/wiki/Set_It_Off" title="Set It Off">Set It Off</a></li>
+</ul>
+<p><b>Come and Get Me</b></p>
+<ul>
+<li>"The Contract Man" by Bullet (<a href="/wiki/Alan_Tew" title="Alan Tew">Alan Tew</a>)</li>
+</ul>
+<p><b>NYMP</b></p>
+<ul>
+<li>"Life Can Be So Grand" by Brian and <a href="/wiki/Brenda_Russell" title="Brenda Russell">Brenda Russell</a></li>
+</ul>
+<p><b>Girl's Best Friend</b></p>
+<ul>
+<li>"Keep It Comin' Love" by <a href="/wiki/KC_%26_The_Sunshine_Band" title="KC &amp; The Sunshine Band" class="mw-redirect">KC &amp; The Sunshine Band</a></li>
+</ul>
+<p><b>Jigga My Nigga</b></p>
+<ul>
+<li>"Lil' Fire Friend" by <a href="/wiki/Isaac_Hayes" title="Isaac Hayes">Isaac Hayes</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<p>(**) Indicates a re-recording was used instead of a sample, due to legal reasons.</p>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit&amp;section=8" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Album">Album</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit&amp;section=9" title="Edit section: Album">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th align="left">Chart (1999)</th>
+<th align="center">Peak<br />
+position<sup id="cite_ref-charts_13-1" class="reference"><a href="#cite_note-charts-13"><span>[</span>13<span>]</span></a></sup></th>
+</tr>
+<tr>
+<td align="left">U.S. <a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left">U.S. Top R&amp;B/Hip Hop Albums</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="left">Top Canadian Albums</td>
+<td align="center">11</td>
+</tr>
+</table>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit&amp;section=10" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<td rowspan="2"><b>Year</b></td>
+<td rowspan="2"><b>Song</b></td>
+<td colspan="4"><b>Chart positions</b><sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a></b></td>
+<td><b><a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a></b></td>
+<td><b><a href="/wiki/Hot_Rap_Singles" title="Hot Rap Singles" class="mw-redirect">Hot Rap Singles</a></b></td>
+</tr>
+<tr>
+<td rowspan="2">1999</td>
+<td>"<a href="/wiki/Jigga_My_Nigga" title="Jigga My Nigga">Jigga My Nigga</a>"</td>
+<td align="center">#28</td>
+<td align="center">#6</td>
+<td align="center">#1</td>
+</tr>
+<tr>
+<td>"<a href="/wiki/Girl%27s_Best_Friend" title="Girl's Best Friend">Girl's Best Friend</a>"</td>
+<td align="center">#52</td>
+<td align="center">#10</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td rowspan="3">2000</td>
+<td>"<a href="/wiki/Do_It_Again_(Put_Ya_Hands_Up)" title="Do It Again (Put Ya Hands Up)">Do It Again (Put Ya Hands Up)</a>"</td>
+<td align="center">#65</td>
+<td align="center">#17</td>
+<td align="center">#9</td>
+</tr>
+<tr>
+<td>"<a href="/wiki/Big_Pimpin" title="Big Pimpin" class="mw-redirect">Big Pimpin</a>"</td>
+<td align="center">#18</td>
+<td align="center">#3</td>
+<td align="center">#3</td>
+</tr>
+<tr>
+<td>"<a href="/wiki/Things_That_U_Do" title="Things That U Do">Things That U Do</a>"</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Chart_procession_and_succession">Chart procession and succession</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit&amp;section=11" title="Edit section: Chart procession and succession">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/...And_Then_There_Was_X" title="...And Then There Was X">...And Then There Was X</a></i> by <a href="/wiki/DMX_(rapper)" title="DMX (rapper)">DMX</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_2000_(USA)" title="Number-one albums of 2000 (USA)" class="mw-redirect">number-one album</a></b><br />
+January 15–21, 2000</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Supernatural_(Santana_album)" title="Supernatural (Santana album)">Supernatural</a></i> by <a href="/wiki/Santana_(band)" title="Santana (band)">Santana</a></span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_albums_of_2000_(U.S.)" title="List of number-one albums of 2000 (U.S.)" class="mw-redirect">List of number-one albums of 2000 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_2000_(U.S.)" title="List of number-one R&amp;B albums of 2000 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 2000 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Bush-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bush_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bush_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bush, John. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r449404">Review: <i>Vol. 3… Life and Times of S. Carter</i></a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>. Retrieved on September 14, 2009.</span></li>
+<li id="cite_note-Kot-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kot_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kot_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Kot, Greg. "<a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/chicagotribune/access/47760605.html?dids=47760605:47760605&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Jan+09%2C+2000&amp;author=Greg+Kot&amp;pub=Chicago+Tribune&amp;desc=Recordings&amp;pqatl=google">Review: <i>Vol. 3… Life and Times of S. Carter</i></a>". <i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i>: 3. January 9, 2000. (Transcription of original review at <a href="/wiki/Talk:Vol._3%E2%80%A6_Life_and_Times_of_S._Carter#Chicago_Tribune_review" title="Talk:Vol. 3… Life and Times of S. Carter" class="mw-redirect">talk page</a>)</span></li>
+<li id="cite_note-Christgau-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Christgau_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Christgau_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Christgau_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Christgau, Robert</a> (February 29, 2000). <a rel="nofollow" class="external text" href="http://www.villagevoice.com/2000-02-29/music/cleanup-time/2/">Cleanup Time - Page 2</a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>. Retrieved on June 29, 2011.</span></li>
+<li id="cite_note-DeCurtis-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-DeCurtis_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DeCurtis_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">DeCurtis, Anthony. <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,64461,00.html">Review: <i>Vol. 3… Life and Times of S. Carter</i></a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i>. Retrieved on September 14, 2009.</span></li>
+<li id="cite_note-Baker-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Baker_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Baker_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Baker, Soren. <a rel="nofollow" class="external text" href="http://articles.latimes.com/1999/dec/31/entertainment/ca-49208">Review: <i>Vol. 3… Life and Times of S. Carter</i></a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. Retrieved on September 14, 2009.</span></li>
+<li id="cite_note-Fadele-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fadele_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fadele_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Fadele, Dele. "<a rel="nofollow" class="external text" href="http://www.cduniverse.com/search/xx/music/pid/1085069/a/Volume+3%3A+The+Life+%26+Times+Of+S+Carter.htm">Review: <i>Vol. 3… Life and Times of S. Carter</i></a>". <i><a href="/wiki/NME" title="NME">NME</a></i>: February 16, 2000. (Transcription of original review at <a href="/wiki/Talk:Vol._3%E2%80%A6_Life_and_Times_of_S._Carter#NME_review" title="Talk:Vol. 3… Life and Times of S. Carter" class="mw-redirect">talk page</a>)</span></li>
+<li id="cite_note-Ex-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ex_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ex_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Ex, Kris (February 3, 2000). <a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/albumreviews/vol-3-life-and-times-of-s-carter-20000203">Vol. 3 Life And Times of S. Carter by Jay-Z</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. Retrieved on June 29, 2011.</span></li>
+<li id="cite_note-Source-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Source_8-0">^</a></b></span> <span class="reference-text">Columnist. "<a rel="nofollow" class="external text" href="http://www.cduniverse.com/search/xx/music/pid/1085069/a/Volume+3%3A+The+Life+%26+Times+Of+S+Carter.htm">Review: <i>Vol. 3… Life and Times of S. Carter</i></a>". <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i>: 256. March 2000.</span></li>
+<li id="cite_note-Jones-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Jones_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Jones_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Jones_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Jones, Steve. "<a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/USAToday/access/49074762.html?dids=49074762:49074762&amp;FMT=CITE&amp;FMTS=CITE:FT&amp;type=current&amp;date=Jan+04%2C+2000&amp;author=&amp;pub=USA+TODAY&amp;desc=Rap's+defiant+voices%3B+pop's+happy+'Heart'&amp;pqatl=google">Review: <i>Vol. 3… Life and Times of S. Carter</i></a>". <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>: 02.D. January 4, 2000. (Transcription of original review at <a href="/wiki/Talk:Vol._3%E2%80%A6_Life_and_Times_of_S._Carter#USA_Today_review" title="Talk:Vol. 3… Life and Times of S. Carter" class="mw-redirect">talk page</a>)</span></li>
+<li id="cite_note-Lewis-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lewis_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lewis_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Lewis, Miles Marshall. <a rel="nofollow" class="external text" href="http://www.villagevoice.com/2000-01-18/music/the-passing-of-the-mic/">Review: <i>Vol. 3… Life and Times of S. Carter</i></a>. <i>The Village Voice</i>. Retrieved on September 14, 2009.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Mancini, Robert. <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1430537/20000105/jay_z.jhtml">Jay-Z Grabs Top Of Album Chart</a>. MTV. Retrieved on February 22, 2010.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Baker, Soren. <a rel="nofollow" class="external text" href="http://articles.latimes.com/2000/jan/22/entertainment/ca-56355">Assault Case Won't Stop the Music--or the Sales</a>. <i>Los Angeles Times</i>. Retrieved on February 22, 2010.</span></li>
+<li id="cite_note-charts-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-charts_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-charts_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r449404">Billboard Albums: <i>Vol. 3… Life and Times of S. Carter</i></a>. Allmusic. Retrieved on September 14, 2009.</span></li>
+<li id="cite_note-RIAA-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-RIAA_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RIAA_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?table=SEARCH">Gold &amp; Platinum: Searchable Database</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA). Retrieved on September 14, 2009.</span></li>
+<li id="cite_note-Harrington-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Harrington_15-0">^</a></b></span> <span class="reference-text">Harrington, Richard. "<a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/washingtonpost/access/47590635.html?dids=47590635:47590635&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Jan+02%2C+2000&amp;author=Richard+Harrington&amp;pub=The+Washington+Post&amp;desc=Swaggering+to+the+Finish+Line%3B+Jay-Z+Is+Leading+the+Rap+Pack--and+'Life+and+Times+of+S.+Carter'+Lets+Everyone+Know&amp;pqatl=google">Review: <i>Vol. 3… Life and Times of S. Carter</i></a>". <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i>: G.12. January 2, 2000.</span></li>
+<li id="cite_note-Juon-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Juon_16-0">^</a></b></span> <span class="reference-text">Juon, Steve 'Flash'. <a rel="nofollow" class="external text" href="http://www.rapreviews.com/archive/2000_01_vol3lifeandtimes.html">Review: <i>Vol. 3… Life and Times of S. Carter</i></a>. RapReviews. Retrieved on September 14, 2009.</span></li>
+<li id="cite_note-Spence-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Spence_17-0">^</a></b></span> <span class="reference-text">D., Spence. <a rel="nofollow" class="external text" href="http://music.ign.com/articles/440/440173p1.html">Review: <i>Vol. 3… Life and Times of S. Carter</i></a>. <a href="/wiki/IGN" title="IGN">IGN</a>. Retrieved on September 14, 2009.</span></li>
+<li id="cite_note-RSguide-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-RSguide_18-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rollingstone.com/music/artists/jay-z/albumguide">Jay-Z: Album Guide</a>. <i>Rolling Stone</i>. <a href="/wiki/Fireside_Books" title="Fireside Books" class="mw-redirect">Fireside</a>. November 2, 2004. Retrieved on June 29, 2011.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r449404">Credits: <i>Vol. 3… Life and Times of S. Carter</i></a>. Allmusic. Retrieved on September 14, 2009.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r449404">Billboard Singles: <i>Vol. 3… Life and Times of S. Carter</i></a>. Allmusic. Retrieved on September 14, 2009.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/Jay-Z-Vol-3-Life-And-Times-Of-S-Carter/master/46940">Vol. 3… Life and Times of S. Carter</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Jay-Z" title="Template:Jay-Z"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Jay-Z" title="Template talk:Jay-Z"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Jay-Z&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/Jay-Z_discography" title="Jay-Z discography">Discography</a></li>
+<li><a href="/wiki/List_of_songs_recorded_by_Jay-Z" title="List of songs recorded by Jay-Z">Songs</a></li>
+<li><a href="/wiki/Jay-Z#Filmography" title="Jay-Z">Films</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Jay-Z" title="List of awards and nominations received by Jay-Z">Awards and nominations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Reasonable_Doubt_(album)" title="Reasonable Doubt (album)">Reasonable Doubt</a></i></li>
+<li><i><a href="/wiki/In_My_Lifetime,_Vol._1" title="In My Lifetime, Vol. 1">In My Lifetime, Vol. 1</a></i></li>
+<li><i><a href="/wiki/Vol._2..._Hard_Knock_Life" title="Vol. 2... Hard Knock Life">Vol. 2... Hard Knock Life</a></i></li>
+<li><i><strong class="selflink">Vol. 3... Life and Times of S. Carter</strong></i></li>
+<li><i><a href="/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia">The Dynasty: Roc La Familia</a></i></li>
+<li><i><a href="/wiki/The_Blueprint" title="The Blueprint">The Blueprint</a></i></li>
+<li><i><a href="/wiki/The_Blueprint_2:_The_Gift_%26_The_Curse" title="The Blueprint 2: The Gift &amp; The Curse">The Blueprint 2: The Gift &amp; The Curse</a></i></li>
+<li><i><a href="/wiki/The_Black_Album_(Jay-Z_album)" title="The Black Album (Jay-Z album)">The Black Album</a></i></li>
+<li><i><a href="/wiki/Kingdom_Come_(Jay-Z_album)" title="Kingdom Come (Jay-Z album)">Kingdom Come</a></i></li>
+<li><i><a href="/wiki/American_Gangster_(album)" title="American Gangster (album)">American Gangster</a></i></li>
+<li><i><a href="/wiki/The_Blueprint_3" title="The Blueprint 3">The Blueprint 3</a></i></li>
+<li><i><a href="/wiki/Magna_Carta_Holy_Grail" title="Magna Carta Holy Grail">Magna Carta Holy Grail</a></i></li>
+</ul>
+</div>
+<table cellspacing="0" class="nowraplinks vcard navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE; text-align:center;;">Collaborations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Jay-Z:_Unplugged" title="Jay-Z: Unplugged" class="mw-redirect">Jay-Z: Unplugged</a></i> <small style="font-size:85%;">(with <a href="/wiki/The_Roots" title="The Roots">The Roots</a>)</small></li>
+<li><i><a href="/wiki/The_Best_of_Both_Worlds_(Jay-Z_and_R._Kelly_album)" title="The Best of Both Worlds (Jay-Z and R. Kelly album)">The Best of Both Worlds</a></i> <small style="font-size:85%;">(with <a href="/wiki/R._Kelly" title="R. Kelly">R. Kelly</a>)</small></li>
+<li><i><a href="/wiki/Unfinished_Business_(Jay-Z_and_R._Kelly_album)" title="Unfinished Business (Jay-Z and R. Kelly album)">Unfinished Business</a></i> <small style="font-size:85%;">(with R. Kelly)</small></li>
+<li><i><a href="/wiki/Collision_Course_(album)" title="Collision Course (album)">Collision Course</a></i> <small style="font-size:85%;">(with <a href="/wiki/Linkin_Park" title="Linkin Park">Linkin Park</a>)</small></li>
+<li><i><a href="/wiki/Watch_the_Throne" title="Watch the Throne">Watch the Throne</a></i> <small style="font-size:85%;">(with <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilation albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Chapter_One:_Greatest_Hits" title="Chapter One: Greatest Hits">Chapter One: Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Blueprint_2.1" title="Blueprint 2.1">Blueprint 2.1</a></i></li>
+<li><i><a href="/wiki/Bring_It_On:_The_Best_of_Jay-Z" title="Bring It On: The Best of Jay-Z">Bring It On: The Best of Jay-Z</a></i></li>
+<li><i><a href="/wiki/Greatest_Hits_(Jay-Z_album)" title="Greatest Hits (Jay-Z album)">Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Jay-Z:_The_Hits_Collection,_Volume_One" title="Jay-Z: The Hits Collection, Volume One">Jay-Z: The Hits Collection, Volume One</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Concert tours</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Unfinished_Business_(R._Kelly_%26_Jay-Z_album)#Best_of_Both_Worlds_tour" title="Unfinished Business (R. Kelly &amp; Jay-Z album)" class="mw-redirect">Best of Both Worlds Tour</a></li>
+<li><a href="/wiki/American_Gangster_(album)#Tour" title="American Gangster (album)">American Gangster Live</a></li>
+<li><a href="/wiki/Heart_of_the_City_Tour" title="Heart of the City Tour">Heart of the City Tour</a></li>
+<li><a href="/wiki/Jay-Z_%26_Ciara_Live" title="Jay-Z &amp; Ciara Live">Jay-Z &amp; Ciara Live</a></li>
+<li><a href="/wiki/Jay-Z_Fall_Tour" title="Jay-Z Fall Tour">Jay-Z Fall Tour</a></li>
+<li><a href="/wiki/The_Blueprint_3_Tour" title="The Blueprint 3 Tour" class="mw-redirect">The Blueprint 3 Tour</a></li>
+<li><a href="/wiki/The_Home_%26_Home_Tour" title="The Home &amp; Home Tour">The Home &amp; Home Tour</a></li>
+<li><a href="/wiki/U2_360_Tour" title="U2 360 Tour" class="mw-redirect">U2 360 Tour</a> <small>(Supporting act)</small></li>
+<li><a href="/wiki/Watch_the_Throne_Tour" title="Watch the Throne Tour">Watch the Throne Tour</a></li>
+<li><a href="/wiki/Legends_of_the_Summer_Stadium_Tour" title="Legends of the Summer Stadium Tour" class="mw-redirect">Legends of the Summer Stadium Tour</a></li>
+<li><a href="/wiki/Magna_Carter_World_Tour" title="Magna Carter World Tour">Magna Carter World Tour</a></li>
+<li><a href="/wiki/On_the_Run_Tour_(Beyonc%C3%A9_and_Jay-Z)" title="On the Run Tour (Beyoncé and Jay-Z)">On the Run Tour</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella Records</a></li>
+<li><a href="/wiki/Roc_Nation" title="Roc Nation">Roc Nation</a></li>
+<li><a href="/wiki/StarRoc" title="StarRoc">StarRoc</a></li>
+<li><a href="/wiki/Takeover_Roc_Nation" title="Takeover Roc Nation">Takeover Roc Nation</a></li>
+<li><a href="/wiki/40/40_Club" title="40/40 Club">40/40 Club</a></li>
+<li><a href="/wiki/Jay-Z%E2%80%93Nas_feud" title="Jay-Z–Nas feud">Jay-Z–Nas feud</a></li>
+<li><a href="/wiki/Beyonc%C3%A9_Knowles" title="Beyoncé Knowles" class="mw-redirect">Beyoncé</a></li>
+<li><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a></li>
+<li><a href="/wiki/Rihanna" title="Rihanna">Rihanna</a></li>
+<li><a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam Recordings</a></li>
+<li><i><a href="/wiki/Jaydiohead" title="Jaydiohead">Jaydiohead</a></i></li>
+<li><i><a href="/wiki/Fade_to_Black_(2004_film)" title="Fade to Black (2004 film)">Fade to Black</a></i></li>
+<li><a href="/wiki/Live_Nation" title="Live Nation" class="mw-redirect">Live Nation</a></li>
+<li><a href="/wiki/NBA_2K13" title="NBA 2K13">NBA 2K13</a></li>
+<li><a href="/wiki/Brooklyn_Nets" title="Brooklyn Nets">Brooklyn Nets</a></li>
+<li><a href="/wiki/Budweiser_Made_in_America_Festival" title="Budweiser Made in America Festival">Made in America (festival)</a></li>
+<li><a href="/wiki/Made_in_America_(2013_film)" title="Made in America (2013 film)"><i>Made in America</i> (film)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Jay-Z" title="Book:Jay-Z">Book:Jay-Z</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Jay-Z" title="Category:Jay-Z">Category:Jay-Z</a></b></li>
+<li><b><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Hip_hop" title="Portal:Hip hop">Portal:Hip hop</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1184
+CPU time usage: 1.416 seconds
+Real time usage: 1.530 seconds
+Preprocessor visited node count: 6408/1000000
+Preprocessor generated node count: 35943/1500000
+Post‐expand include size: 75978/2048000 bytes
+Template argument size: 13804/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.055/10.000 seconds
+Lua memory usage: 1.61 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1319174-0!*!0!!en!4!* and timestamp 20140530150807 and revision id 610734314
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;oldid=610734314">http://en.wikipedia.org/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;oldid=610734314</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1999_albums" title="Category:1999 albums">1999 albums</a></li><li><a href="/wiki/Category:Jay-Z_albums" title="Category:Jay-Z albums">Jay-Z albums</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Clue%3F" title="Category:Albums produced by DJ Clue?">Albums produced by DJ Clue?</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Premier" title="Category:Albums produced by DJ Premier">Albums produced by DJ Premier</a></li><li><a href="/wiki/Category:Albums_produced_by_Irv_Gotti" title="Category:Albums produced by Irv Gotti">Albums produced by Irv Gotti</a></li><li><a href="/wiki/Category:Albums_produced_by_Rockwilder" title="Category:Albums produced by Rockwilder">Albums produced by Rockwilder</a></li><li><a href="/wiki/Category:Albums_produced_by_Swizz_Beatz" title="Category:Albums produced by Swizz Beatz">Albums produced by Swizz Beatz</a></li><li><a href="/wiki/Category:Albums_produced_by_Timbaland" title="Category:Albums produced by Timbaland">Albums produced by Timbaland</a></li><li><a href="/wiki/Category:Def_Jam_Recordings_albums" title="Category:Def Jam Recordings albums">Def Jam Recordings albums</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li><li><a href="/wiki/Category:Roc-A-Fella_Records_albums" title="Category:Roc-A-Fella Records albums">Roc-A-Fella Records albums</a></li><li><a href="/wiki/Category:Sequel_albums" title="Category:Sequel albums">Sequel albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Vol.+3...+Life+and+Times+of+S.+Carter&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Vol.+3...+Life+and+Times+of+S.+Carter" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Vol._3..._Life_and_Times_of_S._Carter"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Vol._3..._Life_and_Times_of_S._Carter"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Vol._3..._Life_and_Times_of_S._Carter" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Vol._3..._Life_and_Times_of_S._Carter" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Vol._3..._Life_and_Times_of_S._Carter" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;oldid=610734314" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2455259" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Vol._3..._Life_and_Times_of_S._Carter&amp;id=610734314" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Vol.+3...+Life+and+Times+of+S.+Carter">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Vol.+3...+Life+and+Times+of+S.+Carter&amp;oldid=610734314&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Vol._3..._Life_and_Times_of_S._Carter&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Vol._3:_Life_and_Times_of_S._Carter" title="Vol. 3: Life and Times of S. Carter – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Vol._3..._Life_and_Times_of_S._Carter" title="Vol. 3... Life and Times of S. Carter – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Vol._3..._Life_and_Times_of_S._Carter" title="Vol. 3... Life and Times of S. Carter – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Vol._3..._Life_and_Times_of_S._Carter" title="Vol. 3... Life and Times of S. Carter – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Vol._3..._Life_and_Times_of_S._Carter" title="Vol. 3... Life and Times of S. Carter – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Vol._3..._Life_and_Times_of_S._Carter" title="Vol. 3... Life and Times of S. Carter – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Vol._3..._Life_and_Times_of_S._Carter" title="Vol. 3... Life and Times of S. Carter – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Vol._3..._Life_and_Times_of_S._Carter" title="Vol. 3... Life and Times of S. Carter – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q2455259#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 May 2014 at 02:58.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Vol._3..._Life_and_Times_of_S._Carter" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":325,"wgHostname":"mw1077"});
+}</script>
+	</body>
+</html>
+	

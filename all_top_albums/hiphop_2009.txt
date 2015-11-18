@@ -1,0 +1,1949 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>2009 in hip hop music - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/2009_in_hip_hop_music" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/2009_in_hip_hop_music" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init%2Cnolanglinks&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2009_in_hip_hop_music","wgTitle":"2009 in hip hop music","wgCurRevisionId":607566030,"wgRevisionId":607566030,"wgArticleId":21070025,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from September 2009","Articles with dead external links from January 2011","All articles with unsourced statements","Articles with unsourced statements from February 2012","Articles with limited geographic scope from August 2011","2000s in hip hop music","2009 in music"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2009_in_hip_hop_music","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf9/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"447":true,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4615445"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf9/skins/vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2009_in_hip_hop_music skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">2009 in hip hop music</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox nowraplinks" style="width: 300px; text-align: center;">
+<caption><a href="/wiki/2009_in_music" title="2009 in music">2009 in music</a></caption>
+<tr>
+<th>By location</th>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a href="/w/index.php?title=2009_in_Australian_music&amp;action=edit&amp;redlink=1" class="new" title="2009 in Australian music (page does not exist)">Australia</a></li>
+<li><a href="/wiki/2009_in_Canadian_music" title="2009 in Canadian music">Canada</a></li>
+<li><a href="/w/index.php?title=2009_in_European_music&amp;action=edit&amp;redlink=1" class="new" title="2009 in European music (page does not exist)">Europe</a></li>
+<li><a href="/wiki/2009_in_British_music" title="2009 in British music">United Kingdom</a></li>
+<li><a href="/wiki/2009_in_Irish_music" title="2009 in Irish music">Ireland</a></li>
+<li><a href="/w/index.php?title=2009_in_Japanese_music&amp;action=edit&amp;redlink=1" class="new" title="2009 in Japanese music (page does not exist)">Japan</a></li>
+<li><a href="/w/index.php?title=2009_in_New_Zealand_music&amp;action=edit&amp;redlink=1" class="new" title="2009 in New Zealand music (page does not exist)">New Zealand</a></li>
+<li><a href="/w/index.php?title=2009_in_Philippine_music&amp;action=edit&amp;redlink=1" class="new" title="2009 in Philippine music (page does not exist)">Philippines</a></li>
+<li><a href="/w/index.php?title=2009_in_South_Korean_music&amp;action=edit&amp;redlink=1" class="new" title="2009 in South Korean music (page does not exist)">South Korea</a></li>
+<li><a href="/w/index.php?title=2009_in_Swedish_music&amp;action=edit&amp;redlink=1" class="new" title="2009 in Swedish music (page does not exist)">Sweden</a></li>
+<li><a href="/w/index.php?title=2009_in_American_music&amp;action=edit&amp;redlink=1" class="new" title="2009 in American music (page does not exist)">United States</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>By genre</th>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a href="/wiki/2009_in_alternative_rock" title="2009 in alternative rock" class="mw-redirect">Alternative</a></li>
+<li><a href="/wiki/2009_in_country_music" title="2009 in country music">country</a></li>
+<li><a href="/wiki/2009_in_classical_music" title="2009 in classical music">classical</a></li>
+<li><a href="/w/index.php?title=2009_in_electropop_music&amp;action=edit&amp;redlink=1" class="new" title="2009 in electropop music (page does not exist)">electropop</a></li>
+<li><a href="/wiki/2009_in_heavy_metal_music" title="2009 in heavy metal music">heavy metal</a></li>
+<li><strong class="selflink">hip-hop</strong></li>
+<li><a href="/wiki/2009_in_opera" title="2009 in opera" class="mw-redirect">opera</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>By topic</th>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=List_of_2009_albums&amp;action=edit&amp;redlink=1" class="new" title="List of 2009 albums (page does not exist)">List of albums released</a></td>
+</tr>
+</table>
+<table class="infobox" style="text-align:center;">
+<tr>
+<th style="font-size:larger;">&#160; &#160; &#160; &#160; &#160; &#160; <a href="/w/index.php?title=List_of_years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="List of years in hip hop music (page does not exist)">List of years in hip hop music</a> &#160; &#160; &#160;&#160; &#160; &#160;</th>
+</tr>
+<tr>
+<td><small><a href="/w/index.php?title=Category:Years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="Category:Years in hip hop music (page does not exist)">...</a>&#160;<a href="/wiki/1999_in_hip_hop_music" title="1999 in hip hop music">1999</a> <sup>.</sup> <a href="/wiki/2000_in_hip_hop_music" title="2000 in hip hop music">2000</a> <sup>.</sup> <a href="/wiki/2001_in_hip_hop_music" title="2001 in hip hop music">2001</a> <sup>.</sup> <a href="/wiki/2002_in_hip_hop_music" title="2002 in hip hop music">2002</a> <sup>.</sup> <a href="/wiki/2003_in_hip_hop_music" title="2003 in hip hop music">2003</a> <sup>.</sup> <a href="/wiki/2004_in_hip_hop_music" title="2004 in hip hop music">2004</a> <sup>.</sup> <a href="/wiki/2005_in_hip_hop_music" title="2005 in hip hop music">2005</a>&#160;<a href="/w/index.php?title=Category:Years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="Category:Years in hip hop music (page does not exist)">...</a></small><br />
+<a href="/wiki/2006_in_hip_hop_music" title="2006 in hip hop music">2006</a> <a href="/wiki/2007_in_hip_hop_music" title="2007 in hip hop music">2007</a> <a href="/wiki/2008_in_hip_hop_music" title="2008 in hip hop music">2008</a> <b>-<strong class="selflink">2009</strong>-</b> <a href="/wiki/2010_in_hip_hop_music" title="2010 in hip hop music">2010</a> <a href="/wiki/2011_in_hip_hop_music" title="2011 in hip hop music">2011</a> <a href="/wiki/2012_in_hip_hop_music" title="2012 in hip hop music">2012</a><br />
+<small><a href="/w/index.php?title=Category:Years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="Category:Years in hip hop music (page does not exist)">...</a>&#160;<a href="/wiki/2013_in_hip_hop_music" title="2013 in hip hop music">2013</a> <sup>.</sup> <a href="/wiki/2014_in_hip_hop_music" title="2014 in hip hop music">2014</a> <sup>.</sup> <a href="/w/index.php?title=2015_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="2015 in hip hop music (page does not exist)">2015</a> <sup>.</sup> <a href="/w/index.php?title=2016_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="2016 in hip hop music (page does not exist)">2016</a> <sup>.</sup> <a href="/w/index.php?title=2017_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="2017 in hip hop music (page does not exist)">2017</a> <sup>.</sup> <a href="/w/index.php?title=2018_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="2018 in hip hop music (page does not exist)">2018</a> <sup>.</sup> <a href="/w/index.php?title=2019_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="2019 in hip hop music (page does not exist)">2019</a>&#160;<a href="/w/index.php?title=Category:Years_in_hip_hop_music&amp;action=edit&amp;redlink=1" class="new" title="Category:Years in hip hop music (page does not exist)">...</a></small></td>
+</tr>
+<tr>
+<td><small><a href="/wiki/2009_in_art" title="2009 in art">Art</a> <sup>.</sup> <a href="/wiki/2009_in_archaeology" title="2009 in archaeology">Archaeology</a> <sup>.</sup> <a href="/wiki/2009_in_architecture" title="2009 in architecture">Architecture</a> <sup>.</sup> <a href="/wiki/2009_in_literature" title="2009 in literature">Literature</a> <sup>.</sup> <a href="/wiki/2009_in_music" title="2009 in music">Music</a> <sup>.</sup> <a href="/wiki/2009_in_philosophy" title="2009 in philosophy">Philosophy</a> <sup>.</sup> <a href="/wiki/2009_in_science" title="2009 in science">Science</a> <i><a href="/wiki/Category:2009" title="Category:2009">+...</a></i></small></td>
+</tr>
+</table>
+<p>This article summarizes the events, album releases, and album release dates in <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop music</a> for the year 2009.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Events"><span class="tocnumber">1</span> <span class="toctext">Events</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#January"><span class="tocnumber">1.1</span> <span class="toctext">January</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#February"><span class="tocnumber">1.2</span> <span class="toctext">February</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#March"><span class="tocnumber">1.3</span> <span class="toctext">March</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#April"><span class="tocnumber">1.4</span> <span class="toctext">April</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#May"><span class="tocnumber">1.5</span> <span class="toctext">May</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#June"><span class="tocnumber">1.6</span> <span class="toctext">June</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#July"><span class="tocnumber">1.7</span> <span class="toctext">July</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#August"><span class="tocnumber">1.8</span> <span class="toctext">August</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#September"><span class="tocnumber">1.9</span> <span class="toctext">September</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#October"><span class="tocnumber">1.10</span> <span class="toctext">October</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#November"><span class="tocnumber">1.11</span> <span class="toctext">November</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#December"><span class="tocnumber">1.12</span> <span class="toctext">December</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Albums"><span class="tocnumber">2</span> <span class="toctext">Albums</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Highest_first_week_sales"><span class="tocnumber">3</span> <span class="toctext">Highest first week sales</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Highest_critically_reviewed_albums_.28Metacritic.29"><span class="tocnumber">4</span> <span class="toctext">Highest critically reviewed albums (Metacritic)</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Events">Events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=1" title="Edit section: Events">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="January">January</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=2" title="Edit section: January">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a>, <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> and <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>'s new song "<a href="/wiki/Crack_a_Bottle" title="Crack a Bottle">Crack a Bottle</a>" has leaked on the internet. The song will be featured on <a href="/wiki/Eminem" title="Eminem">Eminem</a>'s <i><a href="/wiki/Relapse_(Eminem_album)" title="Relapse (Eminem album)">Relapse</a></i> as a track not a single. It later reached number one.</li>
+<li><a href="/wiki/Jermaine_Dupri" title="Jermaine Dupri">Jermaine Dupri</a> has split from Def Jam.</li>
+<li><a href="/wiki/Bun_B" title="Bun B">Bun B</a> stated there would one last album by <a href="/wiki/UGK" title="UGK">UGK</a> titled <i>4 Life</i>. Bun B stated that the album would have 12 tracks and no guest appearances.</li>
+<li><a href="/wiki/Lupe_Fiasco" title="Lupe Fiasco">Lupe Fiasco</a>, <a href="/wiki/2008_in_hip_hop#November" title="2008 in hip hop" class="mw-redirect">last year</a> stated he would be retiring and ending his career with a 3 disc album entitled <i>LupE.N.D</i> but now he said he is not going to retire instead, he's planning to release three albums over the next year and a half.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="February">February</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=3" title="Edit section: February">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Soulja_Boy" title="Soulja Boy">Soulja Boy</a> and <a href="/wiki/Bow_Wow_(rapper)" title="Bow Wow (rapper)">Bow Wow</a> start a small feud. They both release diss tracks, but later end it.</li>
+<li><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> and <a href="/wiki/Rick_Ross_(rapper)" title="Rick Ross (rapper)" class="mw-redirect">Rick Ross</a> began trading insults on various diss tracks.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></li>
+<li>For the first time in four years, <a href="/wiki/The_Game_(rapper)" title="The Game (rapper)">The Game</a> says he sides with 50 Cent in a beef; continuing to state that Rick Ross needs to ring him so he can help Ross out of the career ending mess he has become involved in with 50 Cent.</li>
+<li>Lil Wayne won 4 Grammy Awards at the <a href="/wiki/2009_Grammy_Awards" title="2009 Grammy Awards" class="mw-redirect">2009 Grammy Awards</a>, followed by <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a> winning 2 awards and Jay-Z and T.I. winning one each.</li>
+<li>Deonta Cummings is filing a suit against <a href="/wiki/Jim_Jones_(rapper)" title="Jim Jones (rapper)">Jim Jones</a> and <a href="/wiki/E1_Records" title="E1 Records" class="mw-redirect">E1 Records</a> alleging that his artist, Ivory Keys, was not given proper compensation or credit for his contribution to the album <i><a href="/wiki/Jim_Jones_%26_Skull_Gang_Present_A_Tribute_To_Bad_Santa_Starring_Mike_Epps" title="Jim Jones &amp; Skull Gang Present A Tribute To Bad Santa Starring Mike Epps" class="mw-redirect">Jim Jones &amp; Skull Gang Present A Tribute To Bad Santa Starring Mike Epps</a></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></li>
+<li>Lil Wayne's <i><a href="/wiki/Tha_Carter_III" title="Tha Carter III">Tha Carter III</a></i> sold 3 million copies.</li>
+<li>Lil Wayne sued for $1.3 Million caused by canceling New York shows.</li>
+<li><a href="/wiki/Flo_Rida" title="Flo Rida">Flo Rida</a> breaks a digital sales record, by selling over 630,000 digital units of his single "<a href="/wiki/Right_Round" title="Right Round">Right Round</a>" in one week.</li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a> sues <a href="/wiki/Universal_Music" title="Universal Music" class="mw-redirect">Universal Music</a> over digital royalties.</li>
+</ul>
+<h3><span class="mw-headline" id="March">March</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=4" title="Edit section: March">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a> joins the <a href="/wiki/Nation_of_Islam" title="Nation of Islam">Nation of Islam</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a> plans to release two albums in this year.</li>
+<li>50 Cent also plans to release two albums this year and joins Fall Out Boy in their tour.</li>
+<li>Rapper <a href="/wiki/B.o.B" title="B.o.B">B.o.B</a> changes his stage name to Bobby Ray.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></li>
+<li><i><a href="/wiki/R.O.O.T.S." title="R.O.O.T.S.">R.O.O.T.S.</a></i> the second album from <a href="/wiki/Flo_Rida" title="Flo Rida">Flo Rida</a> leaks onto the internet on March 24.</li>
+<li><a href="/wiki/T.I." title="T.I.">T.I.</a> is sentenced to go to jail for 1 year and a day for gun possessions. He will go to federal prison sometime after May 19 for trying to purchase machine guns, ammunition, and silencers in October 2007.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></li>
+<li><i><a href="/wiki/New_Jack_City_II" title="New Jack City II">New Jack City II</a></i> the last album from <a href="/wiki/Bow_Wow_(rapper)" title="Bow Wow (rapper)">Bow Wow</a> leaks onto the internet.</li>
+<li><a href="/wiki/Cam%27ron" title="Cam'ron">Cam'ron</a> says there will not be a <a href="/wiki/Dipset" title="Dipset" class="mw-redirect">Dipset</a> reunion.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="April">April</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=5" title="Edit section: April">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a> releases his third studio album, <i><a href="/wiki/The_Last_Kiss_(album)" title="The Last Kiss (album)">The Last Kiss</a></i>.</li>
+<li><a href="/wiki/Cash_Money_Records" title="Cash Money Records">Cash Money Records</a> are suing mixtape DJs including <a href="/wiki/DJ_Drama" title="DJ Drama">DJ Drama</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></li>
+<li><a href="/wiki/Bone_Thugs-n-Harmony" title="Bone Thugs-n-Harmony">Bone Thugs-n-Harmony</a> member <a href="/wiki/Flesh-n-Bone" title="Flesh-n-Bone">Flesh-n-Bone</a> got picked up on gun possession charges in Santa Clarita, California according to TMZ.</li>
+<li><a href="/wiki/Ludacris" title="Ludacris">Ludacris</a> signed rapper <a href="/wiki/Lil_Scrappy" title="Lil Scrappy">Lil Scrappy</a> to his <a href="/wiki/Disturbing_tha_Peace" title="Disturbing tha Peace">Disturbing tha Peace</a> imprint.</li>
+<li><a href="/wiki/Jim_Jones_(rapper)" title="Jim Jones (rapper)">Jim Jones</a> was arrested in New Jersey, on an outstanding warrant, all while giving followers on his Twitter page updates during the incident.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a> releases his first official single in 2 years, "<a href="/wiki/We_Made_You" title="We Made You">We Made You</a>" off his highly anticipated album <i><a href="/wiki/Relapse_(Eminem_album)" title="Relapse (Eminem album)">Relapse</a></i>.</li>
+<li><a href="/wiki/Cam%27ron" title="Cam'ron">Cam'ron</a> says he and <a href="/wiki/Jim_Jones_(rapper)" title="Jim Jones (rapper)">Jim Jones</a> are done on <a href="/wiki/WQHT" title="WQHT">Hot 97</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></li>
+<li><a href="/wiki/Bow_Wow_(rapper)" title="Bow Wow (rapper)">Bow Wow</a> announces that he is dismissing himself from the rap game, because he feels there is no more to be done on the music side.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></li>
+<li><a href="/wiki/Asher_Roth" title="Asher Roth">Asher Roth</a>'s <i><a href="/wiki/Asleep_in_the_Bread_Aisle" title="Asleep in the Bread Aisle">Asleep in the Bread Aisle</a></i> &amp; <a href="/wiki/Rick_Ross_(rapper)" title="Rick Ross (rapper)" class="mw-redirect">Rick Ross</a>' <i><a href="/wiki/Deeper_Than_Rap" title="Deeper Than Rap">Deeper Than Rap</a></i> leaked onto the internet before their official release.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="May">May</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=6" title="Edit section: May">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a href="/wiki/The_Smoking_Gun" title="The Smoking Gun">The Smoking Gun</a></i> a website that posts legal documents, arrest records, and police mugshots on a daily basis, exposes Cedric "Alfamega" Zellars, as his last job being a <a href="/wiki/Drug_Enforcement_Administration" title="Drug Enforcement Administration">DEA</a> informant.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></li>
+<li><a href="/wiki/T.I." title="T.I.">T.I.</a> drops Alfamega from <a href="/wiki/Grand_Hustle_Records" title="Grand Hustle Records">Grand Hustle Records</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></li>
+<li><a href="/wiki/DMX_(rapper)" title="DMX (rapper)">DMX</a> is released from prison in Arizona.</li>
+<li><a href="/wiki/Jermaine_Dupri" title="Jermaine Dupri">Jermaine Dupri</a>, <a href="/wiki/Nelly" title="Nelly">Nelly</a>, <a href="/wiki/Usher_(entertainer)" title="Usher (entertainer)">Usher</a>, <a href="/wiki/Bryan-Michael_Cox" title="Bryan-Michael Cox">Bryan-Michael Cox</a>, <a href="/wiki/Johnt%C3%A1_Austin" title="Johntá Austin">Johntá Austin</a>, <a href="/wiki/Trey_Songz" title="Trey Songz">Trey Songz</a> &amp; <a href="/wiki/Tyrone_Davis" title="Tyrone Davis">Tyrone Davis</a> form a Hip-Hop/R&amp;B <a href="/wiki/Supergroup_(music)" title="Supergroup (music)">Supergroup</a>, known as Ocean's 7.</li>
+<li><a href="/wiki/Method_Man" title="Method Man">Method Man</a> and <a href="/wiki/Joe_Budden" title="Joe Budden">Joe Budden</a> start beefing.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></li>
+<li>Rapper/producer <a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a> admitted to having a relationship with Alicia Keys.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></li>
+<li><a href="/wiki/Atlanta,_Georgia" title="Atlanta, Georgia" class="mw-redirect">Atlanta</a>-based rapper <a href="/wiki/Dolla_(rapper)" title="Dolla (rapper)">Dolla</a> was shot dead at the Beverly Hills Center on May 18.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></li>
+<li><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> officially leaves <a href="/wiki/Def_Jam_Records" title="Def Jam Records" class="mw-redirect">Def Jam Records</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></li>
+<li><a href="/wiki/T.I." title="T.I.">T.I.</a> checked into a federal prison in Forrest City, Arkansas on Tuesday (May 26). The rapper is serving a 366-day federal prison sentence for attempting to buy illegal machine guns and silencers from undercover agents in October 2007.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a> becomes the highest selling artist of 2009 so far with the release of <i><a href="/wiki/Relapse_(Eminem_album)" title="Relapse (Eminem album)">Relapse</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></i></li>
+<li>Rapper Tega, known for being a member of <a href="/wiki/Nelly" title="Nelly">Nelly</a>'s <a href="/wiki/St._Lunatics" title="St. Lunatics">St. Lunatics</a> crew, died May 27 from injuries he sustained after being shot on May 16.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup></li>
+<li>Rapper <a href="/wiki/DJ_Paul" title="DJ Paul">DJ Paul</a> releases his first solo album in 7 years. Guests includes <a href="/wiki/Lord_Infamous" title="Lord Infamous">Lord Infamous</a></li>
+</ul>
+<h3><span class="mw-headline" id="June">June</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=7" title="Edit section: June">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> announces he will release <i><a href="/wiki/The_Blueprint%C2%B3" title="The Blueprint³" class="mw-redirect">The Blueprint³</a></i> September 11, 2009.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup></li>
+<li><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> releases a <a href="/wiki/Mixtape" title="Mixtape">mixtape</a> called <i><a href="/wiki/War_Angel_LP" title="War Angel LP">War Angel LP</a></i> and says "it's the best body of work I put out in the mixtape circuit".<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup></li>
+<li><a href="/wiki/Plies_(rapper)" title="Plies (rapper)">Plies</a> throws $50,000 into the concert crowd at the 107.9 FM Birthday Bash at <a href="/wiki/Philips_Arena" title="Philips Arena">Philips Arena</a> to promote his single "<a href="/wiki/Plenty_Money" title="Plenty Money" class="mw-redirect">Plenty Money</a>".<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></li>
+<li>Legendary graffiti artist <a href="/wiki/Iz_the_Wiz" title="Iz the Wiz" class="mw-redirect">Iz the Wiz</a> passes away.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></li>
+<li><a href="/wiki/Death_of_Michael_Jackson" title="Death of Michael Jackson">Michael Jackson dies</a> at the age of 50.</li>
+<li><a href="/wiki/Daz_Dillinger" title="Daz Dillinger">Daz Dillinger</a> disses <a href="/wiki/Jermaine_Dupri" title="Jermaine Dupri">Jermaine Dupri</a>, <a href="/wiki/Suge_Knight" title="Suge Knight">Suge Knight</a> and Alan Grumblatt.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup></li>
+<li><a href="/wiki/The_Game_(rapper)" title="The Game (rapper)">The Game</a> ends beef with <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> on <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a> tribute song <i><a href="/wiki/Better_on_the_Other_Side" title="Better on the Other Side">Better on the Other Side</a></i>.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="July">July</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=8" title="Edit section: July">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/The_Game_(rapper)" title="The Game (rapper)">The Game</a> apologizes to <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> and <a href="/wiki/Interscope" title="Interscope" class="mw-redirect">Interscope</a>.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup></li>
+<li><a href="/wiki/Alfamega" title="Alfamega">Alfamega</a> announces he is still signed to <a href="/wiki/Grand_Hustle" title="Grand Hustle" class="mw-redirect">Grand Hustle</a>. His manager Reek Walker says "We never received any documentation. Technically, Alfa is still a member of Grand Hustle. <a href="/wiki/T.I." title="T.I.">T.I.</a> can denounce him all he wants, but as long as that contract is in [place], he's still there."<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></li>
+<li><a href="/wiki/Black_Entertainment_Television" title="Black Entertainment Television" class="mw-redirect">BET</a> has expressed remorse over a performance by <a href="/wiki/Lil_Wayne" title="Lil Wayne">Lil Wayne</a>, <a href="/wiki/Drake_(entertainer)" title="Drake (entertainer)" class="mw-redirect">Drake</a> and <a href="/wiki/Young_Money_Entertainment" title="Young Money Entertainment">Young Money Entertainment</a> that involved underage girls during songs "<a href="/wiki/Best_I_Ever_Had_(Drake_song)" title="Best I Ever Had (Drake song)">Best I Ever Had</a>" and "<a href="/wiki/Every_Girl_(Young_Money_song)" title="Every Girl (Young Money song)" class="mw-redirect">Every Girl</a>".<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></li>
+<li>The death of <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a> inspires <a href="/wiki/Mase" title="Mase">Mase</a>'s return to music.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></li>
+<li><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> becomes hip hop's biggest earner topping the <i>2009</i> <a href="/wiki/Forbes" title="Forbes">Forbes</a> <i>Hip-Hop Cash Kings List</i>.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup></li>
+<li>Red City Entertainment sues <a href="/wiki/Lil_Wayne" title="Lil Wayne">Lil Wayne</a> for not appearing at a concert in the Bahamas, which they paid $432,000 up front for him to appear.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2012)">citation needed</span></a></i>]</sup></li>
+<li><a href="/wiki/The_Game_(rapper)" title="The Game (rapper)">The Game</a> leaks out a diss track aiming at <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>.</li>
+<li><a href="/wiki/Soulja_Boy_Tell_Em" title="Soulja Boy Tell Em" class="mw-redirect">Soulja Boy Tell Em</a> attempts to end beef with <a href="/wiki/New_Boyz" title="New Boyz">New Boyz</a></li>
+<li><a href="/wiki/Rakim" title="Rakim">Rakim</a> makes an official comeback and releases his first single, "<a href="/wiki/Holy_Are_You" title="Holy Are You" class="mw-redirect">Holy Are You</a>", off his upcoming third solo studio album <i><a href="/wiki/The_Seventh_Seal_(Rakim_album)" title="The Seventh Seal (Rakim album)">The Seventh Seal</a></i>; ten years after his 1999 album <i><a href="/wiki/The_Master_(album)" title="The Master (album)">The Master</a></i>.</li>
+<li><a href="/wiki/Fabolous" title="Fabolous">Fabolous</a>'s fifth studio album <a href="/wiki/Loso%27s_Way" title="Loso's Way">Loso's Way</a> leaks onto the internet a week before its official release.</li>
+<li><a href="/wiki/Jermaine_Dupri" title="Jermaine Dupri">Jermaine Dupri</a> and <a href="/wiki/Janet_Jackson" title="Janet Jackson">Janet Jackson</a> split up after a seven-year relationship</li>
+<li><a href="/wiki/Pitbull_(rapper)" title="Pitbull (rapper)">Pitbull</a> launches a new website blog at planetpit.com.</li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a> leaks a diss track aimed at <a href="/wiki/Mariah_Carey" title="Mariah Carey">Mariah Carey</a> and <a href="/wiki/Nick_Cannon" title="Nick Cannon">Nick Cannon</a> in response to Mariah Carey's "<a href="/wiki/Obsessed_(Mariah_Carey_song)" title="Obsessed (Mariah Carey song)">Obsessed</a>".</li>
+<li><a href="/wiki/Fat_Joe" title="Fat Joe">Fat Joe</a> announces on Twitter that his album <i><a href="/wiki/Jealous_Ones_Still_Envy_2_(J.O.S.E._2)" title="Jealous Ones Still Envy 2 (J.O.S.E. 2)">Jealous Ones Still Envy 2 (J.O.S.E. 2)</a></i> will be released on October 6, 2009. He comes out with a second single for the album, <a href="/wiki/Aloha_(Fat_Joe_song)" title="Aloha (Fat Joe song)" class="mw-redirect">Aloha</a>.</li>
+<li>The final <a href="/wiki/Big_Pun" title="Big Pun">Big Pun</a> recordings are announced to be released in September, with the DVD release of <a href="/w/index.php?title=Big_Pun:_The_Legacy&amp;action=edit&amp;redlink=1" class="new" title="Big Pun: The Legacy (page does not exist)">Big Pun: The Legacy</a>.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup></li>
+<li><a href="/wiki/Young_Jeezy" title="Young Jeezy">Young Jeezy</a> disses <a href="/wiki/DJ_Drama" title="DJ Drama">DJ Drama</a> in <a href="/wiki/XXL_Magazine" title="XXL Magazine" class="mw-redirect">XXL Magazine</a>; Drama responds on Twitter.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup></li>
+<li><a href="/wiki/Cam%27ron" title="Cam'ron">Cam'ron</a> announces that he will expand his record label under the new company U.N., and will launch <a href="/w/index.php?title=Dipset_West&amp;action=edit&amp;redlink=1" class="new" title="Dipset West (page does not exist)">Dipset West</a>.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>42<span>]</span></a></sup></li>
+<li>The company who created the Auto-Tune, Antares Audio Technologies, said that since the release of <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>'s single <a href="/wiki/D.O.A._(Death_of_Auto-Tune)" title="D.O.A. (Death of Auto-Tune)">D.O.A. (Death of Auto-Tune)</a>, the Auto-tune sales have increased.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>43<span>]</span></a></sup></li>
+<li><a href="/wiki/Baatin" title="Baatin" class="mw-redirect">Baatin</a> of <a href="/wiki/Slum_Village" title="Slum Village">Slum Village</a> dies, July 31, 2009.</li>
+</ul>
+<h3><span class="mw-headline" id="August">August</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=9" title="Edit section: August">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Hell_Rell" title="Hell Rell">Hell Rell</a> blames <a href="/wiki/Jim_Jones_(rapper)" title="Jim Jones (rapper)">Jim Jones</a> for <a href="/wiki/Dipset" title="Dipset" class="mw-redirect">Dipset</a> falling apart.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44"><span>[</span>44<span>]</span></a></sup></li>
+<li><a href="/wiki/The_Game_(rapper)" title="The Game (rapper)">The Game</a> and others are sued by Robert Kirkwood, for fighting at a family funeral.</li>
+<li><a href="/wiki/Chamillionaire" title="Chamillionaire">Chamillionaire</a> releases the final mixtape in the Mixtape Messiah Series, <a href="/wiki/Mixtape_Messiah_7" title="Mixtape Messiah 7">Mixtape Messiah 7</a>.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45"><span>[</span>45<span>]</span></a></sup></li>
+<li><a href="/wiki/Joe_Budden" title="Joe Budden">Joe Budden</a> attacked by <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a> and his crew.</li>
+<li><a href="/wiki/C-Murder" title="C-Murder">C-Murder</a> sentenced to life in prison for murder.</li>
+<li><a href="/wiki/Bow_Wow_(rapper)" title="Bow Wow (rapper)">Bow Wow</a> signs with <a href="/wiki/Cash_Money_Records" title="Cash Money Records">Cash Money Records</a>.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46"><span>[</span>46<span>]</span></a></sup></li>
+<li><a href="/wiki/Pitbull_(rapper)" title="Pitbull (rapper)">Pitbull</a> received the key to his home-city of <a href="/wiki/Miami" title="Miami">Miami</a>.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47"><span>[</span>47<span>]</span></a></sup></li>
+<li><a href="/wiki/Adam_Goldstein" title="Adam Goldstein">Adam Goldstein</a> a club <a href="/wiki/Disc_jockey" title="Disc jockey">disc jockey</a> better known as DJ AM died of an accidental drug overdose August 28.</li>
+</ul>
+<h3><span class="mw-headline" id="September">September</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=10" title="Edit section: September">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Harlem" title="Harlem">Harlem</a>-based rapper <a href="/wiki/Max_B" title="Max B">Max B</a> was sentenced to 75 years in prison September 3 for his role in a botched robbery that led to a double murder in a Fort Lee, New Jersey hotel.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48"><span>[</span>48<span>]</span></a></sup></li>
+<li>On September 8, <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> &amp; <a href="/wiki/Robert_Greene_(popular_psychologist)" title="Robert Greene (popular psychologist)" class="mw-redirect">Robert Greene</a> released their book "The 50th Law".</li>
+<li>On September 13, 2009, while Taylor Swift presented her speech in winning Best Female Video at the 2009 MTV Video Music Awards, Kanye West interrupted her speech and stated that Beyoncé had a better video. His outburst received negative reaction from the audience and he was removed from the award show. He later apologized.</li>
+<li>Jay-Z and Alicia Keys performed "Empire State of Mind" at the 2009 MTV Video Music Awards. Towards the end of performing, <a href="/wiki/Lil_Mama" title="Lil Mama">Lil Mama</a> jumped onstage.</li>
+<li>Rapper/producer <a href="/wiki/Kia_Shine" title="Kia Shine">Kia Shine</a> stated he co-wrote "<a href="/wiki/Best_I_Ever_Had_(Drake_song)" title="Best I Ever Had (Drake song)">Best I Ever Had</a>" with <a href="/wiki/Drake_(entertainer)" title="Drake (entertainer)" class="mw-redirect">Drake</a> and has of 25% ownership of the song, at the <a href="/wiki/BMI_Foundation" title="BMI Foundation">BMI</a> awards;<sup id="cite_ref-49" class="reference"><a href="#cite_note-49"><span>[</span>49<span>]</span></a></sup> but Drake later denied this on his blog.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50"><span>[</span>50<span>]</span></a></sup></li>
+<li><a href="/wiki/DJ" title="DJ" class="mw-redirect">DJ</a>, <a href="/wiki/Turntablist" title="Turntablist" class="mw-redirect">turntablist</a> &amp; <a href="/wiki/Hip_hop_production" title="Hip hop production">producer</a>, <a href="/wiki/Roc_Raida" title="Roc Raida">Roc Raida</a> died on September 19.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51"><span>[</span>51<span>]</span></a></sup></li>
+<li><a href="/wiki/Rapper" title="Rapper" class="mw-redirect">Rapper</a> <a href="/wiki/Lil_Boosie" title="Lil Boosie">Lil Boosie</a> was sentenced to two years in prison for gun and <a href="/wiki/Marijuana" title="Marijuana" class="mw-redirect">marijuana</a> possession. He could serve as little as one year depending on his behavior in prison.</li>
+<li><a href="/wiki/Charles_Hamilton_(rapper)" title="Charles Hamilton (rapper)">Charles Hamilton</a> was released from <a href="/wiki/Interscope_Records" title="Interscope Records">Interscope Records</a> on September 19.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52"><span>[</span>52<span>]</span></a></sup></li>
+<li><a href="/wiki/New_York" title="New York">New York</a>-based rapper <a href="/wiki/N.O.R.E." title="N.O.R.E.">N.O.R.E.</a> releases a video blog saying he doesn't support <i><a href="/wiki/S.O.R.E." title="S.O.R.E." class="mw-redirect">S.O.R.E.</a></i>, an album that hit stores on September 15 that was supposedly released by him.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53"><span>[</span>53<span>]</span></a></sup></li>
+<li><a href="/wiki/Chamillionaire" title="Chamillionaire">Chamillionaire</a> announces his third studio album, <i><a href="/wiki/Venom_(Chamillionaire_album)" title="Venom (Chamillionaire album)" class="mw-redirect">Venom</a></i>, to be released on February 2, 2010<sup id="cite_ref-54" class="reference"><a href="#cite_note-54"><span>[</span>54<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="October">October</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=11" title="Edit section: October">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/DJ" title="DJ" class="mw-redirect">DJ</a>, <a href="/wiki/Mr._Magic" title="Mr. Magic">Mr. Magic</a> dies of a heart attack.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55"><span>[</span>55<span>]</span></a></sup></li>
+<li><a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a>'s <a href="/wiki/Method_Man" title="Method Man">Method Man</a>, was arrested October 5 for tax evasion.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56"><span>[</span>56<span>]</span></a></sup></li>
+<li><a href="/wiki/Jim_Jones_(rapper)" title="Jim Jones (rapper)">Jim Jones</a> pleaded guilty on October 5 in a New York courtroom to a misdemeanor assault charge - a result of an altercation involving a member of singer <a href="/wiki/Ne-Yo" title="Ne-Yo">Ne-Yo</a>'s entourage last December.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57"><span>[</span>57<span>]</span></a></sup></li>
+<li><a href="/wiki/Chamillionaire" title="Chamillionaire">Chamillionaire</a> released the first single, "Good Morning", from his upcoming album on iTunes<sup id="cite_ref-chamillionaire.com_58-0" class="reference"><a href="#cite_note-chamillionaire.com-58"><span>[</span>58<span>]</span></a></sup></li>
+<li>Lil Wayne pleads guilty to gun charges from his 2007 arrest and could face up 8 months to 1 year in prison.</li>
+<li>Rapper <a href="/wiki/Shyne" title="Shyne">Jamal "Shyne" Barrow</a> was released from prison after serving almost nine years for his role in a violent nightclub shooting in 1999 involving <a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy</a> mogul <a href="/wiki/Sean_%22Diddy%22_Combs" title="Sean &quot;Diddy&quot; Combs" class="mw-redirect">Sean "Diddy" Combs</a> and his ex-girlfriend, <a href="/wiki/Jennifer_Lopez" title="Jennifer Lopez">Jennifer Lopez</a>. He was deported to <a href="/wiki/Belize" title="Belize">Belize</a> the next day.<sup id="cite_ref-59" class="reference"><a href="#cite_note-59"><span>[</span>59<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="November">November</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=12" title="Edit section: November">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Gucci_Mane" title="Gucci Mane">Gucci Mane</a> is sentenced to 12 months in jail for violating probation.<sup id="cite_ref-60" class="reference"><a href="#cite_note-60"><span>[</span>60<span>]</span></a></sup></li>
+<li><a href="/wiki/Lil_Boosie" title="Lil Boosie">Lil Boosie</a> has his sentence doubled to 4 years for marijuana and gun charges.</li>
+<li><a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a> as well as <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a>, has ignited a beef with <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>.</li>
+</ul>
+<h3><span class="mw-headline" id="December">December</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=13" title="Edit section: December">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Young_Jeezy" title="Young Jeezy">Young Jeezy</a> has squashed his beef with <a href="/wiki/DJ_Drama" title="DJ Drama">DJ Drama</a> as well as <a href="/wiki/Gucci_Mane" title="Gucci Mane">Gucci Mane</a>.<sup id="cite_ref-61" class="reference"><a href="#cite_note-61"><span>[</span>61<span>]</span></a></sup></li>
+<li><a href="/wiki/Jim_Jones_(rapper)" title="Jim Jones (rapper)">Jim Jones</a> leaves <a href="/wiki/Columbia_Records" title="Columbia Records">Columbia Records</a> and stays at <a href="/wiki/E1_Music" title="E1 Music">E1</a>.<sup id="cite_ref-62" class="reference"><a href="#cite_note-62"><span>[</span>62<span>]</span></a></sup></li>
+<li>Long awaited <a href="/wiki/Lil_Wayne" title="Lil Wayne">Lil Wayne</a> album, <i><a href="/wiki/Rebirth_(Lil_Wayne_album)" title="Rebirth (Lil Wayne album)">Rebirth</a></i> leaks 2 months before release.</li>
+<li><i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> names <a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a> "Producers Of Decade".<sup id="cite_ref-63" class="reference"><a href="#cite_note-63"><span>[</span>63<span>]</span></a></sup></li>
+<li><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> named <a href="/wiki/Kid_Cudi" title="Kid Cudi">Kid Cudi</a>'s <i><a href="/wiki/Man_on_the_Moon:_The_End_of_Day" title="Man on the Moon: The End of Day">Man on the Moon: The End of Day</a></i> the best Hip-Hop Album of 2009.<sup id="cite_ref-64" class="reference"><a href="#cite_note-64"><span>[</span>64<span>]</span></a></sup></li>
+<li>T.I. was released three months early from prison and was admitted into a halfway house in his hometown of <a href="/wiki/Atlanta" title="Atlanta">Atlanta</a>.<sup id="cite_ref-65" class="reference"><a href="#cite_note-65"><span>[</span>65<span>]</span></a></sup></li>
+<li>Following the burglary in his St. Louis mansion, <a href="/wiki/Nelly" title="Nelly">Nelly</a> offers a cash reward for information leading to the arrest of the housebreaker.<sup id="cite_ref-66" class="reference"><a href="#cite_note-66"><span>[</span>66<span>]</span></a></sup></li>
+<li><a href="/wiki/Trina" title="Trina">Trina</a> made an appearance at <a href="/wiki/Minnesota_Vikings" title="Minnesota Vikings">Minnesota Vikings</a> tackle <a href="/wiki/Bryant_McKinnie" title="Bryant McKinnie">Bryant McKinnie</a>'s birthday party and while on stage took shots at fellow female rapper <a href="/wiki/Khia" title="Khia">Khia</a>.<sup id="cite_ref-67" class="reference"><a href="#cite_note-67"><span>[</span>67<span>]</span></a></sup></li>
+<li><a href="/wiki/Beyonc%C3%A9_Knowles" title="Beyoncé Knowles" class="mw-redirect">Beyoncé Knowles</a> and <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> are to take on each other's surnames in an effort to carry on the Knowles dynasty. Jay-Z - whose real name is Shawn Carter - will now be known as Shawn Knowles-Carter, while Beyoncé is to become Beyoncé Knowles-Carter.<sup id="cite_ref-68" class="reference"><a href="#cite_note-68"><span>[</span>68<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Albums">Albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=14" title="Edit section: Albums">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th align="center">Release Date</th>
+<th align="center">Artist</th>
+<th align="center">Album</th>
+<th align="center">Notes</th>
+</tr>
+<tr>
+<td align="center" rowspan="1">January 13</td>
+<td align="center">Various artists</td>
+<td align="center"><i><a href="/wiki/Notorious_(soundtrack)" title="Notorious (soundtrack)">Notorious</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 4 on the Billboard 200</li>
+<li>Jay-Z &amp; Jadakiss have tracks on the album</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">January 27</td>
+<td align="center"><a href="/wiki/OJ_Da_Juiceman" title="OJ Da Juiceman" class="mw-redirect">OJ Da Juiceman</a></td>
+<td align="center"><i><a href="/wiki/The_Otha_Side_of_the_Trap" title="The Otha Side of the Trap">The Otha Side of the Trap</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to Debut on Billboard 200, but debuts at No. 9 on Billboard Rap Albums</li>
+<li>Singles: "Im Gettin' Money", "Make Tha Trap Say Aye"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="4">February 24</td>
+<td align="center"><a href="/wiki/Joe_Budden" title="Joe Budden">Joe Budden</a></td>
+<td align="center"><i><a href="/wiki/Padded_Room_(album)" title="Padded Room (album)">Padded Room</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 42 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/The_Future_(Joe_Budden_song)" title="The Future (Joe Budden song)" class="mw-redirect">The Future</a>", "<a href="/wiki/In_My_Sleep_(song)" title="In My Sleep (song)" class="mw-redirect">In My Sleep</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Project_Pat" title="Project Pat">Project Pat</a></td>
+<td align="center"><i><a href="/wiki/Real_Recognize_Real" title="Real Recognize Real">Real Recognize Real</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 70 on the Billboard 200</li>
+<li>Singles: "Keep It Hood"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Grandmaster_Flash" title="Grandmaster Flash">Grandmaster Flash</a></td>
+<td align="center"><i><a href="/wiki/The_Bridge_-_Concept_Of_A_Culture" title="The Bridge - Concept Of A Culture" class="mw-redirect">The Bridge - Concept Of A Culture</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+<li>Singles: "Swagger"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/B-Real" title="B-Real">B-Real</a></td>
+<td align="center"><i><a href="/wiki/Smoke_N_Mirrors" title="Smoke N Mirrors">Smoke N Mirrors</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 143 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Fire_(B-Real_song)" title="Fire (B-Real song)" class="mw-redirect">Fire</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">February 27</td>
+<td align="center"><a href="/wiki/O.S.T.R." title="O.S.T.R.">O.S.T.R.</a></td>
+<td align="center"><i><a href="/wiki/O.c.b." title="O.c.b.">O.c.b.</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 2 on the <a href="/wiki/OLiS" title="OLiS">OLiS</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">March 3</td>
+<td align="center"><a href="/wiki/Romeo_Miller" title="Romeo Miller">Romeo</a></td>
+<td align="center"><i><a href="/wiki/Get_Low_(album)" title="Get Low (album)">Get Low</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 149 on the Billboard 200</li>
+<li>Singles: "Get Low wit it"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">March 17</td>
+<td align="center"><a href="/wiki/Gorilla_Zoe" title="Gorilla Zoe">Gorilla Zoe</a></td>
+<td align="center"><i><a href="/wiki/Don%27t_Feed_Da_Animals" title="Don't Feed Da Animals" class="mw-redirect">Don't Feed Da Animals</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 8 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Lost_(Gorilla_Zoe_song)" title="Lost (Gorilla Zoe song)">Lost</a>", "<a href="/wiki/What_It_Is_(Gorilla_Zoe_song)" title="What It Is (Gorilla Zoe song)" class="mw-redirect">What It Is</a>", "<a href="/wiki/Echo_(Gorilla_Zoe_song)" title="Echo (Gorilla Zoe song)">Echo</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Capone-N-Noreaga" title="Capone-N-Noreaga">Capone-N-Noreaga</a></td>
+<td align="center"><i><a href="/wiki/Channel_10_(Capone-N-Noreaga_Album)" title="Channel 10 (Capone-N-Noreaga Album)" class="mw-redirect">Channel 10</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 136 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Rotate_(song)" title="Rotate (song)">Rotate</a>", "<a href="/wiki/Talk_To_Me_Big_Time" title="Talk To Me Big Time" class="mw-redirect">Talk To Me Big Time</a>"</li>
+<li>Their first album in nine years</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center">March 23</td>
+<td align="center"><a href="/wiki/Noah23" title="Noah23">Noah23</a> &amp; Madadam</td>
+<td align="center"><i><a href="/wiki/Crab_Nebula_(album)" title="Crab Nebula (album)" class="mw-redirect">Crab Nebula</a></i></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center" rowspan="3">March 24</td>
+<td align="center"><a href="/wiki/Jim_Jones_(rapper)" title="Jim Jones (rapper)">Jim Jones</a></td>
+<td align="center"><i><a href="/wiki/Pray_IV_Reign" title="Pray IV Reign">Pray IV Reign</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 9 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Pop_Champagne" title="Pop Champagne">Pop Champagne</a>", "<a href="/wiki/Na_Na_Nana_Na_Na" title="Na Na Nana Na Na">Na Na Nana Na Na</a>", "Blow the Bank"</li>
+<li>Major label debut</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Slim_Thug" title="Slim Thug">Slim Thug</a></td>
+<td align="center"><i><a href="/wiki/Boss_of_All_Bosses" title="Boss of All Bosses">Boss of All Bosses</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 15 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/I_Run" title="I Run" class="mw-redirect">I Run</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Hell_Rell" title="Hell Rell">Hell Rell</a></td>
+<td align="center"><i>Get In Line or Get Lined Up</i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+<li>Singles: "Shoot 'em Up"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">March 31</td>
+<td align="center"><a href="/wiki/Bow_Wow_(rapper)" title="Bow Wow (rapper)">Bow Wow</a></td>
+<td align="center"><i><a href="/wiki/New_Jack_City_II" title="New Jack City II">New Jack City II</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 16 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/You_Can_Get_It_All" title="You Can Get It All">You Can Get It All</a>"</li>
+<li>It is reportedly his last album</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Flo_Rida" title="Flo Rida">Flo Rida</a></td>
+<td align="center"><i><a href="/wiki/R.O.O.T.S." title="R.O.O.T.S.">R.O.O.T.S.</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 8 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Right_Round" title="Right Round">Right Round</a>", "<a href="/wiki/Shone" title="Shone">Shone</a>", "<a href="/wiki/Sugar_(Flo_Rida_song)" title="Sugar (Flo Rida song)">Sugar</a>"</li>
+<li>The album spawned his second #1 single; "<a href="/wiki/Right_Round" title="Right Round">Right Round</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/UGK" title="UGK">UGK</a></td>
+<td align="center"><i><a href="/wiki/UGK_4_Life" title="UGK 4 Life">UGK 4 Life</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 6 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Da_Game_Been_Good_to_Me" title="Da Game Been Good to Me">Da Game Been Good to Me</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">April 7</td>
+<td align="center"><a href="/wiki/Classified_(rapper)" title="Classified (rapper)">Classified</a></td>
+<td align="center"><i><a href="/wiki/Self_Explanatory_(Classified_album)" title="Self Explanatory (Classified album)">Self Explanatory</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200, but debuted at No. 25 on the <a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a><sup id="cite_ref-69" class="reference"><a href="#cite_note-69"><span>[</span>69<span>]</span></a></sup></li>
+<li>Singles: "Anybody Listening"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a></td>
+<td align="center"><i><a href="/wiki/The_Last_Kiss_(album)" title="The Last Kiss (album)">The Last Kiss</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 3 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/By_My_Side_(Jadakiss_song)" title="By My Side (Jadakiss song)">By My Side</a>", "<a href="/wiki/Can%27t_Stop_Me" title="Can't Stop Me">Can't Stop Me</a>", "<a href="/wiki/Death_Wish_(Jadakiss_song)" title="Death Wish (Jadakiss song)" class="mw-redirect">Death Wish</a>", "<a href="/wiki/Who%27s_Real" title="Who's Real">Who's Real</a>"</li>
+<li>The last album title to contain the word "kiss".</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Mims_(rapper)" title="Mims (rapper)">Mims</a></td>
+<td align="center"><i><a href="/wiki/Guilt_(Mims_album)" title="Guilt (Mims album)" class="mw-redirect">Guilt</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 53 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Move_(If_You_Wanna)" title="Move (If You Wanna)">Move (If You Wanna)</a>", "Love Rollercoaster"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">April 14</td>
+<td align="center"><a href="/wiki/K-os" title="K-os">k-os</a></td>
+<td align="center"><i><a href="/wiki/Yes!_(k-os_album)" title="Yes! (k-os album)">Yes!</a></i></td>
+<td align="center">
+<ul>
+<li>Singles: "<a href="/wiki/4,_3,_2,_1_(k-os_song)" title="4, 3, 2, 1 (k-os song)">4, 3, 2, 1</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">April 20</td>
+<td align="center"><a href="/wiki/Asher_Roth" title="Asher Roth">Asher Roth</a></td>
+<td align="center"><i><a href="/wiki/Asleep_in_the_Bread_Aisle" title="Asleep in the Bread Aisle">Asleep in the Bread Aisle</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 5 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/I_Love_College" title="I Love College">I Love College</a>", "<a href="/wiki/Lark_on_My_Go-Kart" title="Lark on My Go-Kart">Lark on My Go-Kart</a>", "Be by Myself"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">April 21</td>
+<td align="center"><a href="/wiki/Rick_Ross_(rapper)" title="Rick Ross (rapper)" class="mw-redirect">Rick Ross</a></td>
+<td align="center"><i><a href="/wiki/Deeper_Than_Rap" title="Deeper Than Rap">Deeper Than Rap</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 1 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Mafia_Music" title="Mafia Music" class="mw-redirect">Mafia Music</a>", "<a href="/wiki/Magnificent_(Rick_Ross_song)" title="Magnificent (Rick Ross song)">Magnificent</a>", <a href="/wiki/All_I_Really_Want_(Rick_Ross_song)" title="All I Really Want (Rick Ross song)" class="mw-redirect">All I Really Want</a>", "<a href="/wiki/Maybach_Music_2" title="Maybach Music 2">Maybach Music 2</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/X-Raided" title="X-Raided">X-Raided</a></td>
+<td align="center"><i><a href="/w/index.php?title=The_Eternally_Unforgiven_Project&amp;action=edit&amp;redlink=1" class="new" title="The Eternally Unforgiven Project (page does not exist)">The Eternally Unforgiven Project</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="4">April 28</td>
+<td align="center"><a href="/wiki/Hell_Rell" title="Hell Rell">Hell Rell</a></td>
+<td align="center"><i><a href="/wiki/Hard_as_Hell_(album)" title="Hard as Hell (album)" class="mw-redirect">Hard as Hell</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Mike_Jones_(rapper)" title="Mike Jones (rapper)">Mike Jones</a></td>
+<td align="center"><i><a href="/wiki/The_Voice_(Mike_Jones_album)" title="The Voice (Mike Jones album)">The Voice</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 12 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Drop_%26_Gimme_50" title="Drop &amp; Gimme 50">Drop &amp; Gimme 50</a>", "<a href="/wiki/Cuddy_Buddy" title="Cuddy Buddy">Cuddy Buddy</a>", "<a href="/wiki/Next_To_You_(Mike_Jones_song)" title="Next To You (Mike Jones song)" class="mw-redirect">Next To You</a>", "<a href="/wiki/Swagg_Thru_The_Roof" title="Swagg Thru The Roof" class="mw-redirect">Swagg Thru The Roof</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Tech_N9ne" title="Tech N9ne">Tech N9ne</a></td>
+<td align="center"><i><a href="/wiki/Sickology_101" title="Sickology 101">Sickology 101</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 19 on the Billboard 200<sup id="cite_ref-70" class="reference"><a href="#cite_note-70"><span>[</span>70<span>]</span></a></sup></li>
+<li>Singles: "Red Nose", "Sickology 101", "Nothin'"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Violent_J" title="Violent J">Violent J</a></td>
+<td align="center"><i><a href="/wiki/The_Shining_(Violent_J_album)" title="The Shining (Violent J album)">The Shining</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 48 on the Billboard 200</li>
+<li>Singles: "Jealousy"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">May 5</td>
+<td align="center"><a href="/wiki/Skull_Gang" title="Skull Gang">Skull Gang</a></td>
+<td align="center"><i>Skull Gang</i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 142 on the Billboard 200</li>
+<li>Singles: "I am the Club", "Aggy"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/DJ_Paul" title="DJ Paul">DJ Paul</a></td>
+<td align="center"><i><a href="/wiki/Scale-A-Ton" title="Scale-A-Ton">Scale-A-Ton</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 157 on the Billboard 200</li>
+<li>Singles: "Jus Like Dat", "You Don't Want It"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Gucci_Mane" title="Gucci Mane">Gucci Mane</a></td>
+<td align="center"><i><a href="/wiki/Murder_Was_The_Case_(Gucci_Mane_album)" title="Murder Was The Case (Gucci Mane album)" class="mw-redirect">Murder Was The Case</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 23 on the Billboard 200</li>
+<li>Singles: "<a href="/w/index.php?title=Stoopid_(Gucci_Mane_song)&amp;action=edit&amp;redlink=1" class="new" title="Stoopid (Gucci Mane song) (page does not exist)">Stoopid</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">May 12</td>
+<td align="center"><a href="/wiki/Cam%27ron" title="Cam'ron">Cam'ron</a></td>
+<td align="center"><i><a href="/wiki/Crime_Pays_(Cam%27ron_album)" title="Crime Pays (Cam'ron album)">Crime Pays</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 3 on the Billboard 200</li>
+<li>Singles: "My Job", "Get it in Ohio"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Haystak" title="Haystak">Haystak</a></td>
+<td align="center"><i><a href="/wiki/The_Natural_II" title="The Natural II">The Natural II</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Paul_Wall" title="Paul Wall">Paul Wall</a></td>
+<td align="center"><i><a href="/wiki/Fast_Life_(Paul_Wall_album)" title="Fast Life (Paul Wall album)">Fast Life</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 15 on the Billboard 200</li>
+<li>Singles: "Bizzy Body"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="7">May 19</td>
+<td align="center"><a href="/wiki/Eminem" title="Eminem">Eminem</a></td>
+<td align="center"><i><a href="/wiki/Relapse_(Eminem_album)" title="Relapse (Eminem album)">Relapse</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 1 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Crack_a_Bottle" title="Crack a Bottle">Crack a Bottle</a>", "<a href="/wiki/We_Made_You" title="We Made You">We Made You</a>", "<a href="/wiki/3_a.m._(Eminem_song)" title="3 a.m. (Eminem song)">3 a.m.</a>", "<a href="/wiki/Old_Time%27s_Sake" title="Old Time's Sake">Old Time's Sake</a>", "<a href="/wiki/Beautiful_(Eminem_song)" title="Beautiful (Eminem song)">Beautiful</a>"</li>
+<li>Certified Platinum</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a></td>
+<td align="center"><i><a href="/wiki/Back_on_My_B.S." title="Back on My B.S.">Back on My B.S.</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 5 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Arab_Money" title="Arab Money">Arab Money</a>", "<a href="/wiki/Hustler%27s_Anthem_%2709" title="Hustler's Anthem '09">Hustler's Anthem '09</a>", "<a href="/wiki/Respect_My_Conglomerate" title="Respect My Conglomerate">Respect My Conglomerate</a>", "<a href="/wiki/World_Go_Round" title="World Go Round">World Go Round</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Method_Man_%26_Redman" title="Method Man &amp; Redman">Method Man &amp; Redman</a></td>
+<td align="center"><i><a href="/wiki/Blackout!_2" title="Blackout! 2">Blackout! 2</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 7 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/A_Yo" title="A Yo" class="mw-redirect">A Yo</a>", "<a href="/wiki/Mrs._International" title="Mrs. International">Mrs. International</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/DJ_Drama" title="DJ Drama">DJ Drama</a></td>
+<td align="center"><i><a href="/wiki/Gangsta_Grillz:_The_Album_(Vol._2)" title="Gangsta Grillz: The Album (Vol. 2)">Gangsta Grillz: The Album (Vol. 2)</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 26 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Day_Dreaming_(DJ_Drama_song)" title="Day Dreaming (DJ Drama song)">Day Dreaming</a>", "<a href="/wiki/Ridiculous_(DJ_Drama_song)" title="Ridiculous (DJ Drama song)" class="mw-redirect">Ridiculous</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Sheek_Louch" title="Sheek Louch">Sheek Louch</a></td>
+<td align="center"><i><a href="/wiki/Life_on_D-Block" title="Life on D-Block">Life on D-Block</a></i><sup id="cite_ref-71" class="reference"><a href="#cite_note-71"><span>[</span>71<span>]</span></a></sup></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 122 on the Billboard 200<sup id="cite_ref-72" class="reference"><a href="#cite_note-72"><span>[</span>72<span>]</span></a></sup></li>
+<li>Singles: "In the Rain"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Freeway_(rapper)" title="Freeway (rapper)">Freeway</a></td>
+<td align="center"><i><a href="/wiki/Philadelphia_Freeway_2" title="Philadelphia Freeway 2">Philadelphia Freeway 2</a></i><sup id="cite_ref-73" class="reference"><a href="#cite_note-73"><span>[</span>73<span>]</span></a></sup></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 99 on the Billboard 200<sup id="cite_ref-74" class="reference"><a href="#cite_note-74"><span>[</span>74<span>]</span></a></sup></li>
+<li>Singles: "Finally Free"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Guru_(rapper)" title="Guru (rapper)">Guru</a></td>
+<td align="center"><i>Guru 8.0: Lost and Found</i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+<li>Singles: "Divine Rule", "Fastlane", "Ride", "After Time &amp; "No Gimmick Sh*t"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">May 26</td>
+<td align="center"><a href="/wiki/Lil%27_Flip" title="Lil' Flip">Lil' Flip</a> &amp; Gudda Gudda</td>
+<td align="center"><i><a href="/wiki/Certified_(Lil%27_Flip_and_Gudda_Gudda_album)" title="Certified (Lil' Flip and Gudda Gudda album)" class="mw-redirect">Certified</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">June 2</td>
+<td align="center"><a href="/wiki/J_Dilla" title="J Dilla">J Dilla</a></td>
+<td align="center"><i><a href="/wiki/Jay_Stay_Paid" title="Jay Stay Paid">Jay Stay Paid</a></i><sup id="cite_ref-hiphopdx.com_75-0" class="reference"><a href="#cite_note-hiphopdx.com-75"><span>[</span>75<span>]</span></a></sup></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 96 on the Billboard 200<sup id="cite_ref-76" class="reference"><a href="#cite_note-76"><span>[</span>76<span>]</span></a></sup></li>
+<li>Singles: "Reality Check"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/AZ_(rapper)" title="AZ (rapper)">AZ</a></td>
+<td align="center"><i><a href="/wiki/Legendary_(AZ_Album)" title="Legendary (AZ Album)" class="mw-redirect">Legendary</a></i><sup id="cite_ref-77" class="reference"><a href="#cite_note-77"><span>[</span>77<span>]</span></a></sup></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200, but debuted at No. 54 on the Top R&amp;B/Hip-Hop Albums<sup id="cite_ref-78" class="reference"><a href="#cite_note-78"><span>[</span>78<span>]</span></a></sup> and at No. 24 on the Top Rap Albums<sup id="cite_ref-79" class="reference"><a href="#cite_note-79"><span>[</span>79<span>]</span></a></sup></li>
+<li>Singles: "Get Money"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="5">June 9</td>
+<td align="center"><a href="/wiki/Pastor_Troy" title="Pastor Troy">Pastor Troy</a></td>
+<td align="center"><i><a href="/wiki/Ready_For_War" title="Ready For War" class="mw-redirect">Ready For War</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200, but debuted at No. 52 on the Top R&amp;B/Hip-Hop Albums<sup id="cite_ref-billboard.com_80-0" class="reference"><a href="#cite_note-billboard.com-80"><span>[</span>80<span>]</span></a></sup> and at No. 25 on the Top Rap Albums<sup id="cite_ref-billboard.com_80-1" class="reference"><a href="#cite_note-billboard.com-80"><span>[</span>80<span>]</span></a></sup></li>
+<li>Singles: "PT"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/The_Lox" title="The Lox">D-Block</a></td>
+<td align="center"><i><a href="/wiki/No_Security_(D-Block_album)" title="No Security (D-Block album)">No Security</a></i><sup id="cite_ref-hiphopdx.com_75-1" class="reference"><a href="#cite_note-hiphopdx.com-75"><span>[</span>75<span>]</span></a></sup></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 40 on the Billboard 200<sup id="cite_ref-81" class="reference"><a href="#cite_note-81"><span>[</span>81<span>]</span></a></sup></li>
+<li>Singles: "Get That Paper"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Mos_Def" title="Mos Def">Mos Def</a></td>
+<td align="center"><i><a href="/wiki/The_Ecstatic" title="The Ecstatic">The Ecstatic</a></i><sup id="cite_ref-hiphopdx.com_75-2" class="reference"><a href="#cite_note-hiphopdx.com-75"><span>[</span>75<span>]</span></a></sup></td>
+<td align="center">
+<ul>
+<li>Debuts at No. 9 on the Billboard 200<sup id="cite_ref-82" class="reference"><a href="#cite_note-82"><span>[</span>82<span>]</span></a></sup></li>
+<li>Singles: "Life in Marvelous Times", "Quiet Dog Bite Hard", "Casa Bey"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Kurupt" title="Kurupt">Kurupt</a> &amp; <a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a></td>
+<td align="center"><i><a href="/wiki/BlaQKout" title="BlaQKout" class="mw-redirect">BlaQKout</a></i><sup id="cite_ref-hiphopdx.com_75-3" class="reference"><a href="#cite_note-hiphopdx.com-75"><span>[</span>75<span>]</span></a></sup></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 61 on the Billboard 200<sup id="cite_ref-83" class="reference"><a href="#cite_note-83"><span>[</span>83<span>]</span></a></sup></li>
+<li>Singles: "BlaQKout"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Busdriver" title="Busdriver">Busdriver</a></td>
+<td align="center"><i><a href="/wiki/Jhelli_Beam" title="Jhelli Beam">Jhelli Beam</a></i><sup id="cite_ref-hiphopdx.com_75-4" class="reference"><a href="#cite_note-hiphopdx.com-75"><span>[</span>75<span>]</span></a></sup></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+<li>Singles: "Me - Time"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="4">June 16</td>
+<td align="center"><a href="/wiki/Hussein_Fatal" title="Hussein Fatal">Hussein Fatal</a></td>
+<td align="center"><i><a href="/wiki/Born_Legendary" title="Born Legendary">Born Legendary</a></i><sup id="cite_ref-hiphopdx.com_75-5" class="reference"><a href="#cite_note-hiphopdx.com-75"><span>[</span>75<span>]</span></a></sup></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+<li>Singles: "Wut You Talkin Bout"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Juicy_J" title="Juicy J">Juicy J</a></td>
+<td align="center"><i><a href="/wiki/Hustle_Till_I_Die" title="Hustle Till I Die">Hustle Till I Die</a></i><sup id="cite_ref-hiphopdx.com_75-6" class="reference"><a href="#cite_note-hiphopdx.com-75"><span>[</span>75<span>]</span></a></sup></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 106 on the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/L.E.G.A.C.Y." title="L.E.G.A.C.Y.">L.E.G.A.C.Y.</a></td>
+<td align="center"><i>Suicide Music</i><sup id="cite_ref-hiphopdx.com_75-7" class="reference"><a href="#cite_note-hiphopdx.com-75"><span>[</span>75<span>]</span></a></sup></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Street_Sweeper_Social_Club" title="Street Sweeper Social Club">Street Sweeper Social Club</a></td>
+<td align="center"><i><a href="/wiki/Street_Sweeper_Social_Club_(album)" title="Street Sweeper Social Club (album)">Street Sweeper Social Club</a></i><sup id="cite_ref-hiphopdx.com_75-8" class="reference"><a href="#cite_note-hiphopdx.com-75"><span>[</span>75<span>]</span></a></sup></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 37 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/100_Little_Curses" title="100 Little Curses">100 Little Curses</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="7">June 23</td>
+<td align="center">Fast Life Yungstaz</td>
+<td align="center"><i><a href="/wiki/Jamboree_(Fast_Life_Yungstaz_album)" title="Jamboree (Fast Life Yungstaz album)">Jamboree</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 109 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Swag_Surfin%27" title="Swag Surfin'" class="mw-redirect">Swag Surfin'</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Dead_Prez" title="Dead Prez">Dead Prez</a> &amp; <a href="/wiki/DJ_Green_Lantern" title="DJ Green Lantern">DJ Green Lantern</a></td>
+<td align="center"><i>Pulse Of The People</i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200, but debuted at No. 81 on the Top R&amp;B/Hip-Hop Albums<sup id="cite_ref-84" class="reference"><a href="#cite_note-84"><span>[</span>84<span>]</span></a></sup></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Willy_Northpole" title="Willy Northpole">Willy Northpole</a></td>
+<td align="center"><i><a href="/wiki/Tha_Connect" title="Tha Connect">Tha Connect</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200, but debuted at No. 47 on the Top R&amp;B/Hip-Hop Albums<sup id="cite_ref-85" class="reference"><a href="#cite_note-85"><span>[</span>85<span>]</span></a></sup> and at No. 21 on the Top Rap Albums<sup id="cite_ref-86" class="reference"><a href="#cite_note-86"><span>[</span>86<span>]</span></a></sup></li>
+<li>Singles: "Body Marked Up", "Hood Dreamer", "#1 Side Chick"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Soul_Assassins" title="Soul Assassins">Soul Assassins</a></td>
+<td align="center"><i>Intermission</i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+<li>Singles: "Classical", "Gangsta Shit"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/U-God" title="U-God">U-God</a></td>
+<td align="center"><i><a href="/wiki/Dopium" title="Dopium">Dopium</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200, but debuted at No. 93 on the Top R&amp;B/Hip-Hop Albums<sup id="cite_ref-87" class="reference"><a href="#cite_note-87"><span>[</span>87<span>]</span></a></sup></li>
+<li>Singles: "Train Trussle"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Grand_Puba" title="Grand Puba">Grand Puba</a></td>
+<td align="center"><i>Retroactive</i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200, but debuted at No. 97 on the Top R&amp;B/Hip-Hop Albums<sup id="cite_ref-88" class="reference"><a href="#cite_note-88"><span>[</span>88<span>]</span></a></sup></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Sa-Ra_Creative_Partners" title="Sa-Ra Creative Partners" class="mw-redirect">Sa-Ra Creative Partners</a></td>
+<td align="center"><i><a href="/wiki/Nuclear_Evolution:_The_Age_of_Love" title="Nuclear Evolution: The Age of Love">Nuclear Evolution: The Age of Love</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">June 30</td>
+<td align="center"><a href="/wiki/Maino" title="Maino">Maino</a></td>
+<td align="center"><i><a href="/wiki/If_Tomorrow_Comes..." title="If Tomorrow Comes...">If Tomorrow Comes...</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 25 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Hi_Hater" title="Hi Hater">Hi Hater</a>", "<a href="/wiki/All_the_Above_(Maino_song)" title="All the Above (Maino song)">All the Above</a>", "Hood Love", "<a href="/wiki/Million_Bucks" title="Million Bucks">Million Bucks</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Ace_Hood" title="Ace Hood">Ace Hood</a></td>
+<td align="center"><i><a href="/wiki/Ruthless_(Ace_Hood_album)" title="Ruthless (Ace Hood album)">Ruthless</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 23 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Overtime" title="Overtime">Overtime</a>", "<a href="/wiki/Loco_Wit_the_Cake" title="Loco Wit the Cake" class="mw-redirect">Loco Wit the Cake</a>", "Champion"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">July 7</td>
+<td align="center"><a href="/wiki/The_Alchemist_(producer)" title="The Alchemist (producer)" class="mw-redirect">The Alchemist</a></td>
+<td align="center"><i><a href="/wiki/Chemical_Warfare_(album)" title="Chemical Warfare (album)">Chemical Warfare</a></i></td>
+<td align="center">
+<ul>
+<li>Singles: "Lose Your Life", "<a href="/wiki/Smile_(The_Alchemist_song)" title="Smile (The Alchemist song)" class="mw-redirect">Smile</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="5">July 14</td>
+<td align="center"><a href="/wiki/Krizz_Kaliko" title="Krizz Kaliko">Krizz Kaliko</a></td>
+<td align="center"><i><a href="/wiki/Genius_(Krizz_Kaliko_album)" title="Genius (Krizz Kaliko album)">Genius</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 85 on the Billboard 200</li>
+<li>Singles: "Misunderstood"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/La_Coka_Nostra" title="La Coka Nostra">La Coka Nostra</a></td>
+<td align="center"><i><a href="/wiki/A_Brand_You_Can_Trust" title="A Brand You Can Trust">A Brand You Can Trust</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 84 on the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Twista" title="Twista">Twista</a></td>
+<td align="center"><i><a href="/wiki/Category_F5" title="Category F5">Category F5</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 8 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Wetter_(Twista_song)" title="Wetter (Twista song)" class="mw-redirect">Wetter</a>", "<a href="/wiki/Birthday" title="Birthday">Birthday</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Yukmouth" title="Yukmouth">Yukmouth</a></td>
+<td align="center"><i><a href="/wiki/The_West_Coast_Don" title="The West Coast Don">The West Coast Don</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Hell_Rell" title="Hell Rell">Hell Rell</a></td>
+<td align="center"><i><a href="/w/index.php?title=Hell_Up_In_the_Bronx&amp;action=edit&amp;redlink=1" class="new" title="Hell Up In the Bronx (page does not exist)">Hell Up In the Bronx</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">July 28</td>
+<td align="center"><a href="/wiki/Fabolous" title="Fabolous">Fabolous</a></td>
+<td align="center"><i><a href="/wiki/Loso%27s_Way" title="Loso's Way">Loso's Way</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 1 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Throw_It_in_the_Bag" title="Throw It in the Bag">Throw It in the Bag</a>", "<a href="/wiki/My_Time_(Fabolous_song)" title="My Time (Fabolous song)">My Time</a>", "<a href="/wiki/Everything,_Everyday,_Everywhere" title="Everything, Everyday, Everywhere">Everything, Everyday, Everywhere</a>"</li>
+<li>First album from Fabolous to debuted at No. 1 on the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Lord_Infamous" title="Lord Infamous">Lord Infamous</a>, T-Rock &amp; II Tone</td>
+<td align="center"><i><a href="/wiki/Blood_Money_(Lord_Infamous_album)" title="Blood Money (Lord Infamous album)">Blood Money</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">August 4</td>
+<td align="center"><a href="/wiki/Dorrough" title="Dorrough">Dorrough</a></td>
+<td align="center"><i><a href="/wiki/Dorrough_Music" title="Dorrough Music">Dorrough Music</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 36 on the Billboard 200</li>
+<li>Singles: "Walk That Walk","<a href="/wiki/Ice_Cream_Paint_Job" title="Ice Cream Paint Job">Ice Cream Paint Job</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">August 11</td>
+<td align="center"><a href="/wiki/Slaughterhouse_(group)" title="Slaughterhouse (group)">Slaughterhouse</a></td>
+<td align="center"><i><a href="/wiki/Slaughterhouse_(Slaughterhouse_album)" title="Slaughterhouse (Slaughterhouse album)">Slaughterhouse</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 26 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/The_One_(Slaughterhouse_song)" title="The One (Slaughterhouse song)">The One</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">August 21</td>
+<td align="center">Plague Language (<a href="/wiki/Noah23" title="Noah23">Noah23</a>, <a href="/wiki/Baracuda_(rapper)" title="Baracuda (rapper)">Baracuda</a>, <a href="/wiki/Livestock_(rapper)" title="Livestock (rapper)">Livestock</a>, The Main, Lord Kufu &amp; Madadam)</td>
+<td align="center"><i>Plague Language Compilation</i></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center" rowspan="2">August 31</td>
+<td align="center"><a href="/wiki/Pitbull_(rapper)" title="Pitbull (rapper)">Pitbull</a></td>
+<td align="center"><i><a href="/wiki/Rebelution_(Pitbull_album)" title="Rebelution (Pitbull album)">Rebelution</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 8 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Krazy_(song)" title="Krazy (song)">Krazy</a>", "<a href="/wiki/I_Know_You_Want_Me_(Calle_Ocho)" title="I Know You Want Me (Calle Ocho)">I Know You Want Me (Calle Ocho)</a>", "<a href="/wiki/Hotel_Room_Service" title="Hotel Room Service">Hotel Room Service</a>", "Shut It Down"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Killer_Mike" title="Killer Mike">Killer Mike</a></td>
+<td align="center"><i><a href="/wiki/Underground_Atlanta_(album)" title="Underground Atlanta (album)">Underground Atlanta</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200, but debuted at No. 34 on the Top R&amp;B/Hip-Hop Albums and at No. 10 on the Top Rap Albums<sup id="cite_ref-89" class="reference"><a href="#cite_note-89"><span>[</span>89<span>]</span></a></sup></li>
+<li>Singles: "<a href="/wiki/Imma_Fool_Wit_It" title="Imma Fool Wit It" class="mw-redirect">Imma Fool Wit It</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">September 1</td>
+<td align="center"><a href="/wiki/Insane_Clown_Posse" title="Insane Clown Posse">Insane Clown Posse</a></td>
+<td align="center"><i><a href="/wiki/Bang!_Pow!_Boom!" title="Bang! Pow! Boom!">Bang! Pow! Boom!</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 4 on the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a></td>
+<td align="center"><i><a href="/wiki/The_Broad_Street_Bully" title="The Broad Street Bully">The Broad Street Bully</a></i></td>
+</tr>
+<tr>
+<td align="center" rowspan="2">September 8</td>
+<td align="center"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></td>
+<td align="center"><i><a href="/wiki/The_Blueprint_3" title="The Blueprint 3">The Blueprint 3</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 1 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/D.O.A._(Death_of_Auto-Tune)" title="D.O.A. (Death of Auto-Tune)">D.O.A. (Death of Auto-Tune)</a>", "<a href="/wiki/Run_This_Town" title="Run This Town">Run This Town</a>", "<a href="/wiki/Empire_State_of_Mind" title="Empire State of Mind">Empire State of Mind</a>", "<a href="/wiki/On_to_the_Next_One" title="On to the Next One">On to the Next One</a>", "<a href="/wiki/Young_Forever_(Jay-Z_song)" title="Young Forever (Jay-Z song)" class="mw-redirect">Young Forever</a>"</li>
+<li>Certified Platinum</li>
+<li>11th album from Jay-Z to debuted at No. 1 on the Billboard 200 (9th album as a solo artist).</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Raekwon" title="Raekwon">Raekwon</a></td>
+<td align="center"><i><a href="/wiki/Only_Built_4_Cuban_Linx..._Pt._II" title="Only Built 4 Cuban Linx... Pt. II">Only Built 4 Cuban Linx... Pt. II</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at #No. on the Billboard 200</li>
+<li>Singles: "New Wu", "House Of Flying Daggers"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">September 10</td>
+<td align="center"><a href="/wiki/Tede" title="Tede">Tede</a></td>
+<td align="center"><i>Note2</i></td>
+<td align="center">
+<ul>
+<li>Debuts at No. 3 on the <a href="/wiki/OLiS" title="OLiS">OLiS</a></li>
+<li>Certified Gold in Poland</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="6">September 15</td>
+<td align="center"><a href="/wiki/Kid_Cudi" title="Kid Cudi">Kid Cudi</a></td>
+<td align="center"><i><a href="/wiki/Man_on_the_Moon:_The_End_of_Day" title="Man on the Moon: The End of Day">Man on the Moon: The End of Day</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 4 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Day_%27n%27_Nite" title="Day 'n' Nite">Day 'n' Nite</a>", "<a href="/wiki/Make_Her_Say" title="Make Her Say">Make Her Say</a>", "<a href="/wiki/Pursuit_of_Happiness_(Kid_Cudi_song)" title="Pursuit of Happiness (Kid Cudi song)" class="mw-redirect">Pursuit of Happiness</a>"</li>
+<li>Certified Gold</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/N.O.R.E." title="N.O.R.E.">N.O.R.E.</a></td>
+<td align="center"><i><a href="/wiki/S.O.R.E." title="S.O.R.E." class="mw-redirect">S.O.R.E.</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+<li>Singles: "<a href="/w/index.php?title=Move_(N.O.R.E._song)&amp;action=edit&amp;redlink=1" class="new" title="Move (N.O.R.E. song) (page does not exist)">Move</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/New_Boyz" title="New Boyz">New Boyz</a></td>
+<td align="center"><i><a href="/wiki/Skinny_Jeans_and_a_Mic" title="Skinny Jeans and a Mic" class="mw-redirect">Skinny Jeans and a Mic</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 56 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/You%27re_a_Jerk" title="You're a Jerk">You're a Jerk</a>", "<a href="/wiki/Tie_Me_Down" title="Tie Me Down">Tie Me Down</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Lil_Boosie" title="Lil Boosie">Lil Boosie</a></td>
+<td align="center"><i><a href="/wiki/Superbad:_The_Return_of_Boosie_Bad_Azz" title="Superbad: The Return of Boosie Bad Azz">Superbad: The Return of Boosie Bad Azz</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 7 on the Billboard 200</li>
+<li>Singles: "Better Believe It"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Trick_Daddy" title="Trick Daddy">Trick Daddy</a></td>
+<td align="center"><i><a href="/wiki/Finally_Famous:_Born_a_Thug,_Still_a_Thug" title="Finally Famous: Born a Thug, Still a Thug">Finally Famous: Born a Thug, Still a Thug</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 34 on the Billboard 200</li>
+<li>Singles: "Why They Jock"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/KRS-One" title="KRS-One">KRS-One</a> &amp; <a href="/wiki/Buckshot_(rapper)" title="Buckshot (rapper)">Buckshot</a></td>
+<td align="center"><i><a href="/wiki/Survival_Skills" title="Survival Skills">Survival Skills</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 200 on the Billboard 200</li>
+<li>Singles: "Robot"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">September 21</td>
+<td align="center"><a href="/wiki/Dizzee_Rascal" title="Dizzee Rascal">Dizzee Rascal</a></td>
+<td align="center"><i><a href="/wiki/Tongue_n%27_Cheek" title="Tongue n' Cheek">Tongue n' Cheek</a></i></td>
+<td align="center">
+<ul>
+<li>Certified Platinum in the UK</li>
+<li>Singles: "<a href="/wiki/Dance_Wiv_Me" title="Dance Wiv Me" class="mw-redirect">Dance Wiv Me</a>", "<a href="/wiki/Bonkers_(song)" title="Bonkers (song)">Bonkers</a>", "<a href="/wiki/Holiday_(Dizzee_Rascal_song)" title="Holiday (Dizzee Rascal song)">Holiday</a>", "<a href="/wiki/Dirtee_Cash" title="Dirtee Cash">Dirtee Cash</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">September 22</td>
+<td align="center">CRUNK23 (<a href="/wiki/Noah23" title="Noah23">Noah23</a> &amp; Crunk Chris)</td>
+<td align="center"><i><a href="/wiki/Spare_Ribs_for_the_Eve_of_Destruction" title="Spare Ribs for the Eve of Destruction" class="mw-redirect">Spare Ribs for the Eve of Destruction</a></i></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">Famous Playaz (<a href="/wiki/Noah23" title="Noah23">Noah23</a> &amp; DS)</td>
+<td align="center"><i><a href="/wiki/Feature_Presentation_(album)" title="Feature Presentation (album)" class="mw-redirect">Feature Presentation</a></i></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/X-Raided" title="X-Raided">X-Raided</a></td>
+<td align="center"><i><a href="/w/index.php?title=The_Unforgiven_Vol._1:_In_The_Beginning&amp;action=edit&amp;redlink=1" class="new" title="The Unforgiven Vol. 1: In The Beginning (page does not exist)">The Unforgiven Vol. 1: In The Beginning</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to debut on the Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="6">September 29</td>
+<td align="center"><a href="/wiki/Mack_10" title="Mack 10">Mack 10</a></td>
+<td align="center"><i><a href="/wiki/Soft_White" title="Soft White">Soft White</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 141 on the Billboard 200</li>
+<li>Singles: "Big Balla", "So Sharp", "Mirror, Mirror"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Ghostface_Killah" title="Ghostface Killah">Ghostface Killah</a></td>
+<td align="center"><i><a href="/wiki/Ghostdini:_The_Wizard_of_Poetry_in_Emerald_City" title="Ghostdini: The Wizard of Poetry in Emerald City" class="mw-redirect">Ghostdini: The Wizard of Poetry in Emerald City</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 28 on the Billboard 200</li>
+<li>Singles: "Baby", "Forever", "Let's Stop Playin'", "Guest House"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Playaz_Circle" title="Playaz Circle">Playaz Circle</a></td>
+<td align="center"><i><a href="/wiki/Flight_360:_The_Takeoff" title="Flight 360: The Takeoff">Flight 360: The Takeoff</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 74 on the Billboard 200</li>
+<li>Singles: "Stupid", "Hold Up", "Can't Remember"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Warren_G" title="Warren G">Warren G</a></td>
+<td align="center"><i><a href="/wiki/The_G_Files" title="The G Files">The G Files</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200</li>
+<li>Singles: "Ringtone", "Crush"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Skyzoo" title="Skyzoo">Skyzoo</a></td>
+<td align="center"><i><a href="/wiki/The_Salvation" title="The Salvation">The Salvation</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 126 on the Billboard 200</li>
+<li>Singles: "The Beautiful Decay", "Popularity"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Stevie_Stone" title="Stevie Stone">Stevie Stone</a></td>
+<td align="center"><i><a href="/w/index.php?title=New_Kid_Comin&amp;action=edit&amp;redlink=1" class="new" title="New Kid Comin (page does not exist)">New Kid Comin</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to debut on Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">October 6</td>
+<td align="center"><a href="/wiki/Fat_Joe" title="Fat Joe">Fat Joe</a></td>
+<td align="center"><i><a href="/wiki/J.O.S.E._2" title="J.O.S.E. 2" class="mw-redirect">J.O.S.E. 2</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 73 on the Billboard 200</li>
+<li>Singles: "One", "Aloha"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Jim_Jones_(rapper)" title="Jim Jones (rapper)">Jim Jones</a> &amp; <a href="/wiki/DJ_Webstar" title="DJ Webstar">Webstar</a></td>
+<td align="center"><i><a href="/wiki/The_Rooftop" title="The Rooftop">The Rooftop</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to debut on Billboard 200</li>
+<li>Singles: "<a href="/wiki/Dancin_on_Me" title="Dancin on Me">Dancin on Me</a>", "She Can Get It"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">October 12</td>
+<td align="center"><a href="/wiki/Chipmunk_(rapper)" title="Chipmunk (rapper)" class="mw-redirect">Chipmunk</a></td>
+<td align="center"><i><a href="/wiki/I_Am_Chipmunk" title="I Am Chipmunk">I Am Chipmunk</a></i></td>
+<td align="center">
+<ul>
+<li>Singles: "<a href="/wiki/Beast_(song)" title="Beast (song)">Beast</a>", "<a href="/wiki/Chip_Diddy_Chip" title="Chip Diddy Chip">Chip Diddy Chip</a>", "<a href="/wiki/Diamond_Rings_(song)" title="Diamond Rings (song)">Diamond Rings</a>", "<a href="/wiki/Oopsy_Daisy" title="Oopsy Daisy">Oopsy Daisy</a>", "<a href="/wiki/Look_for_Me" title="Look for Me">Look for Me</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">October 13</td>
+<td align="center"><a href="/wiki/Kottonmouth_Kings" title="Kottonmouth Kings">Kottonmouth Kings</a></td>
+<td align="center"><i><a href="/wiki/Hidden_Stash_420" title="Hidden Stash 420">Hidden Stash 420</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to debut on Billboard 200</li>
+<li>Singles: "Tangerine Sky"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center">October 26<sup id="cite_ref-90" class="reference"><a href="#cite_note-90"><span>[</span>90<span>]</span></a></sup></td>
+<td align="center"><a href="/wiki/Tech_N9ne" title="Tech N9ne">Tech N9ne</a></td>
+<td align="center"><i><a href="/wiki/K.O.D." title="K.O.D.">K.O.D.</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 14 on the Billboard 200</li>
+<li>Singles: "Leave Me Alone", "Show Me A God", "Strange Music Box"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">October 27</td>
+<td align="center"><a href="/wiki/Triple_C%27s" title="Triple C's">Triple C's</a></td>
+<td align="center"><i><a href="/wiki/Custom_Cars_%26_Cycles" title="Custom Cars &amp; Cycles">Custom Cars &amp; Cycles</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 120 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Go_(Triple_C%27s_song)" title="Go (Triple C's song)" class="mw-redirect">Go</a>", "Errday"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Mike_Epps" title="Mike Epps">Mike Epps</a></td>
+<td align="center"><i>Funny Bidness - Da Album</i></td>
+<td align="center">
+<ul>
+<li>Failed to debut on Billboard 200</li>
+<li>Singles: "Big Girls", "Trying to Be a Gangsta", "Ain't Chu You"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">November 3</td>
+<td align="center"><a href="/wiki/Hell_Rell" title="Hell Rell">Hell Rell</a></td>
+<td align="center"><i><a href="/wiki/Live_From_Hell" title="Live From Hell" class="mw-redirect">Live From Hell</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to debut on Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Ol%27_Dirty_Bastard" title="Ol' Dirty Bastard">Ol' Dirty Bastard</a></td>
+<td align="center"><i><a href="/w/index.php?title=Message_to_the_Other_Side&amp;action=edit&amp;redlink=1" class="new" title="Message to the Other Side (page does not exist)">Message to the Other Side</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to debut on Billboard 200</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">November 10</td>
+<td align="center"><a href="/wiki/Wale_(rapper)" title="Wale (rapper)">Wale</a></td>
+<td align="center"><i><a href="/wiki/Attention_Deficit_(album)" title="Attention Deficit (album)">Attention Deficit</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 21 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Chillin_(Wale_song)" title="Chillin (Wale song)">Chillin</a>'", "<a href="/wiki/World_Tour_(song)" title="World Tour (song)" class="mw-redirect">World Tour</a>", "<a href="/wiki/Pretty_Girls_(Wale_song)" title="Pretty Girls (Wale song)">Pretty Girls</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">November 17</td>
+<td align="center"><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></td>
+<td align="center"><i><a href="/wiki/Before_I_Self_Destruct" title="Before I Self Destruct">Before I Self Destruct</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 5 on the Billboard 200</li>
+<li>Released digitally on November 9</li>
+<li>Singles: "<a href="/wiki/Ok,_You%27re_Right" title="Ok, You're Right">Ok, You're Right</a>", "<a href="/wiki/Baby_by_Me" title="Baby by Me">Baby by Me</a>", "<a href="/wiki/Do_You_Think_About_Me" title="Do You Think About Me">Do You Think About Me</a>"</li>
+<li>Certified Gold</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Rakim" title="Rakim">Rakim</a></td>
+<td align="center"><i><a href="/wiki/The_Seventh_Seal_(Rakim_album)" title="The Seventh Seal (Rakim album)">The Seventh Seal</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 67 on the Billboard 200</li>
+<li>Singles: "Holy Are U", "Walk These Streets"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Danny!" title="Danny!">Danny!</a></td>
+<td align="center"><i><a href="/wiki/Where_Is_Danny%3F" title="Where Is Danny?">Where Is Danny?</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 189 on the Billboard 200</li>
+<li>Singles: "Get Down"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">November 23</td>
+<td align="center"><a href="/wiki/Birdman_(rapper)" title="Birdman (rapper)">Birdman</a></td>
+<td align="center"><i><a href="/wiki/Priceless_(Birdman_album)" title="Priceless (Birdman album)">Priceless</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 29 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Always_Strapped" title="Always Strapped">Always Strapped</a>", "<a href="/wiki/Written_on_Her" title="Written on Her">Written on Her</a>", "<a href="/wiki/Money_to_Blow" title="Money to Blow">Money to Blow</a>", "<a href="/wiki/4_My_Town_(Play_Ball)" title="4 My Town (Play Ball)">4 My Town (Play Ball)</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">November 27</td>
+<td align="center"><a href="/wiki/The_Black_Keys" title="The Black Keys">BlakRoc</a></td>
+<td align="center"><i><a href="/wiki/Blakroc" title="Blakroc">BlakRoc</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 176 on the Billboard 200</li>
+<li>Singles: "Ain't Nothing Like You (Hoochie Coo)"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">December 1</td>
+<td align="center"><a href="/wiki/Juvenile_(rapper)" title="Juvenile (rapper)">Juvenile</a></td>
+<td align="center"><i><a href="/wiki/Cocky_%26_Confident" title="Cocky &amp; Confident">Cocky &amp; Confident</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 43 on the Billboard 200</li>
+<li>Singles: "Hands On You", "Gotta Get It", "We Be Getting Money"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/K-os" title="K-os">k-os</a></td>
+<td align="center"><i><a href="/wiki/The_Trill:_A_Journey_so_Far" title="The Trill: A Journey so Far">The Trill: A Journey so Far</a></i></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center" rowspan="1">December 4</td>
+<td align="center"><a href="/wiki/Timbaland" title="Timbaland">Timbaland</a></td>
+<td align="center"><i><a href="/wiki/Timbaland_Presents_Shock_Value_II" title="Timbaland Presents Shock Value II" class="mw-redirect">Timbaland Presents Shock Value II</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 36 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Morning_After_Dark" title="Morning After Dark">Morning After Dark</a>", "<a href="/wiki/Say_Something_(Timbaland_song)" title="Say Something (Timbaland song)">Say Something</a>", "<a href="/wiki/Carry_Out" title="Carry Out">Carry Out</a>", "<a href="/wiki/If_We_Ever_Meet_Again" title="If We Ever Meet Again">If We Ever Meet Again</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="4">December 8</td>
+<td align="center"><a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a></td>
+<td align="center"><i><a href="/wiki/Malice_n_Wonderland" title="Malice n Wonderland">Malice n Wonderland</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 23 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Gangsta_Luv" title="Gangsta Luv">Gangsta Luv</a>", "<a href="/wiki/That%27s_Tha_Homie" title="That's Tha Homie" class="mw-redirect">That's Tha Homie</a>", "<a href="/wiki/I_Wanna_Rock_(Snoop_Dogg_song)" title="I Wanna Rock (Snoop Dogg song)">I Wanna Rock</a>", "<a href="/wiki/Upside_Down_(Snoop_Dogg_song)" title="Upside Down (Snoop Dogg song)" class="mw-redirect">Upside Down</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Gucci_Mane" title="Gucci Mane">Gucci Mane</a></td>
+<td align="center"><i><a href="/wiki/The_State_vs._Radric_Davis" title="The State vs. Radric Davis">The State vs. Radric Davis</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 10 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Wasted_(Gucci_Mane_song)" title="Wasted (Gucci Mane song)">Wasted</a>", "<a href="/wiki/Spotlight_(Gucci_Mane_song)" title="Spotlight (Gucci Mane song)">Spotlight</a>", "<a href="/wiki/Worst_Enemy_(Gucci_Mane_song)" title="Worst Enemy (Gucci Mane song)" class="mw-redirect">Worst Enemy</a>", "<a href="/wiki/Heavy_(Gucci_Mane_song)" title="Heavy (Gucci Mane song)" class="mw-redirect">Heavy</a>", "Lemonade"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/B.G._(rapper)" title="B.G. (rapper)">B.G.</a></td>
+<td align="center"><i><a href="/wiki/Too_Hood_2_Be_Hollywood" title="Too Hood 2 Be Hollywood">Too Hood 2 Be Hollywood</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 77 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/For_a_Minute" title="For a Minute">For a Minute</a>", "<a href="/wiki/Ya_Heard_Me" title="Ya Heard Me" class="mw-redirect">Ya Heard Me</a>", "<a href="/wiki/My_Hood_(B.G._song)" title="My Hood (B.G. song)">My Hood</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Clipse" title="Clipse">Clipse</a></td>
+<td align="center"><i><a href="/wiki/Til_the_Casket_Drops" title="Til the Casket Drops">Til the Casket Drops</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 41 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Kinda_Like_a_Big_Deal" title="Kinda Like a Big Deal">Kinda Like a Big Deal</a>", "<a href="/wiki/I%27m_Good_(Clipse_song)" title="I'm Good (Clipse song)">I'm Good</a>", "All Eyes on Me", "Popular Demand (Popeyes)"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">December 21</td>
+<td align="center"><a href="/wiki/Young_Money_Entertainment" title="Young Money Entertainment">Young Money Entertainment</a></td>
+<td align="center"><i><a href="/wiki/We_Are_Young_Money" title="We Are Young Money">We Are Young Money</a></i></td>
+<td align="center">
+<ul>
+<li>Debuted at No. 9 on the Billboard 200</li>
+<li>Singles: "<a href="/wiki/Every_Girl_(Young_Money_song)" title="Every Girl (Young Money song)" class="mw-redirect">Every Girl</a>", "<a href="/wiki/BedRock_(song)" title="BedRock (song)" class="mw-redirect">BedRock</a>", "<a href="/w/index.php?title=Roger_That&amp;action=edit&amp;redlink=1" class="new" title="Roger That (page does not exist)">Roger That</a>"</li>
+<li>Certified Gold</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="/wiki/Hurricane_Chris_(rapper)" title="Hurricane Chris (rapper)">Hurricane Chris</a></td>
+<td align="center"><i><a href="/wiki/Unleashed_(Hurricane_Chris_album)" title="Unleashed (Hurricane Chris album)">Unleashed</a></i></td>
+<td align="center">
+<ul>
+<li>Failed to chart on the Billboard 200, but debuted at No. 46 on the Top R&amp;B/Hip-Hop Albums and at No. 20 on the Top Rap Albums<sup id="cite_ref-91" class="reference"><a href="#cite_note-91"><span>[</span>91<span>]</span></a></sup></li>
+<li>Singles: "<a href="/wiki/Halle_Berry_(She%27s_Fine)" title="Halle Berry (She's Fine)">Halle Berry (She's Fine)</a>", "<a href="/wiki/Headboard_(song)" title="Headboard (song)">Headboard</a>"</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Highest_first_week_sales">Highest first week sales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=15" title="Edit section: Highest first week sales">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-globalize" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px;"><img alt="Globe icon." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" width="48" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" data-file-width="350" data-file-height="290" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">The examples and perspective in this section <b>may not represent a <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">worldwide view</a> of the subject</b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=2009_in_hip_hop_music&amp;action=edit">improve this article</a> and discuss the issue on the <a href="/wiki/Talk:2009_in_hip_hop_music" title="Talk:2009 in hip hop music">talk page</a>.</span> <small><i>(August 2011)</i></small></span></td>
+</tr>
+</table>
+<p>As of December 31, 2009.<sup id="cite_ref-Caulfield_92-0" class="reference"><a href="#cite_note-Caulfield-92"><span>[</span>92<span>]</span></a></sup><sup id="cite_ref-Caulfield_92-1" class="reference"><a href="#cite_note-Caulfield-92"><span>[</span>92<span>]</span></a></sup><sup id="cite_ref-93" class="reference"><a href="#cite_note-93"><span>[</span>93<span>]</span></a></sup><sup id="cite_ref-94" class="reference"><a href="#cite_note-94"><span>[</span>94<span>]</span></a></sup><sup id="cite_ref-95" class="reference"><a href="#cite_note-95"><span>[</span>95<span>]</span></a></sup><sup id="cite_ref-Current_96-0" class="reference"><a href="#cite_note-Current-96"><span>[</span>96<span>]</span></a></sup><sup id="cite_ref-97" class="reference"><a href="#cite_note-97"><span>[</span>97<span>]</span></a></sup><sup id="cite_ref-98" class="reference"><a href="#cite_note-98"><span>[</span>98<span>]</span></a></sup></p>
+<table class="wikitable">
+<tr>
+<th style="text-align:center;">Number</th>
+<th style="text-align:center;">Artist</th>
+<th style="text-align:center;">Album</th>
+<th style="text-align:center;">1st week sales</th>
+<th style="text-align:center;">1st week position</th>
+</tr>
+<tr>
+<th style="text-align:center;">1</th>
+<td style="text-align:center;"><a href="/wiki/Eminem" title="Eminem">Eminem</a></td>
+<td style="text-align:center;"><i><a href="/wiki/Relapse_(Eminem_album)" title="Relapse (Eminem album)">Relapse</a></i></td>
+<th style="text-align:center;">608,000</th>
+<td style="text-align:center;">#1</td>
+</tr>
+<tr>
+<th style="text-align:center;">2</th>
+<td style="text-align:center;"><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></td>
+<td style="text-align:center;"><i><a href="/wiki/The_Blueprint_3" title="The Blueprint 3">The Blueprint 3</a></i></td>
+<th style="text-align:center;">476,000</th>
+<td style="text-align:center;">#1</td>
+</tr>
+<tr>
+<th style="text-align:center;">3</th>
+<td style="text-align:center;"><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></td>
+<td style="text-align:center;"><i><a href="/wiki/Before_I_Self_Destruct" title="Before I Self Destruct">Before I Self Destruct</a></i></td>
+<th style="text-align:center;">160,000</th>
+<td style="text-align:center;">#5</td>
+</tr>
+<tr>
+<th style="text-align:center;">4</th>
+<td style="text-align:center;"><a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a></td>
+<td style="text-align:center;"><i><a href="/wiki/Deeper_Than_Rap" title="Deeper Than Rap">Deeper Than Rap</a></i></td>
+<th style="text-align:center;">158,000</th>
+<td style="text-align:center;">#1</td>
+</tr>
+<tr>
+<th style="text-align:center;">5</th>
+<td style="text-align:center;"><a href="/wiki/Young_Money" title="Young Money" class="mw-redirect">Young Money</a></td>
+<td style="text-align:center;"><i><a href="/wiki/We_Are_Young_Money" title="We Are Young Money">We Are Young Money</a></i></td>
+<th style="text-align:center;">142,000</th>
+<td style="text-align:center;">#9</td>
+</tr>
+<tr>
+<th style="text-align:center;">6</th>
+<td style="text-align:center;"><a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a></td>
+<td style="text-align:center;"><i><a href="/wiki/The_Last_Kiss_(album)" title="The Last Kiss (album)">The Last Kiss</a></i></td>
+<th style="text-align:center;">134,000</th>
+<td style="text-align:center;">#3</td>
+</tr>
+<tr>
+<th style="text-align:center;">7</th>
+<td style="text-align:center;"><a href="/wiki/Kid_Cudi" title="Kid Cudi">Kid Cudi</a></td>
+<td style="text-align:center;"><i><a href="/wiki/Man_on_the_Moon:_The_End_of_Day" title="Man on the Moon: The End of Day">Man on the Moon: The End of Day</a></i></td>
+<th style="text-align:center;">104,000</th>
+<td style="text-align:center;">#4</td>
+</tr>
+<tr>
+<th style="text-align:center;">8</th>
+<td style="text-align:center;"><a href="/wiki/Fabolous" title="Fabolous">Fabolous</a></td>
+<td style="text-align:center;"><i><a href="/wiki/Loso%27s_Way" title="Loso's Way">Loso's Way</a></i></td>
+<th style="text-align:center;">99,000</th>
+<td style="text-align:center;">#1</td>
+</tr>
+<tr>
+<th style="text-align:center;">9</th>
+<td style="text-align:center;"><a href="/wiki/Gucci_Mane" title="Gucci Mane">Gucci Mane</a></td>
+<td style="text-align:center;"><i><a href="/wiki/The_State_vs._Radric_Davis" title="The State vs. Radric Davis">The State vs. Radric Davis</a></i></td>
+<th style="text-align:center;">90,000</th>
+<td style="text-align:center;">#10</td>
+</tr>
+<tr>
+<th style="text-align:center;">10</th>
+<td style="text-align:center;"><a href="/wiki/UGK" title="UGK">UGK</a></td>
+<td style="text-align:center;"><i><a href="/wiki/UGK_4_Life" title="UGK 4 Life">UGK 4 Life</a></i></td>
+<th style="text-align:center;">76,000</th>
+<td style="text-align:center;">#6</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Highest_critically_reviewed_albums_.28Metacritic.29">Highest critically reviewed albums (Metacritic)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=16" title="Edit section: Highest critically reviewed albums (Metacritic)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align:center;">
+<tr>
+<th scope="col">Number</th>
+<th scope="col">Artist</th>
+<th scope="col">Album</th>
+<th scope="col">Average score</th>
+<th scope="col">Number of reviews</th>
+<th scope="col">Reference</th>
+</tr>
+<tr>
+<th scope="row">1</th>
+<td><a href="/wiki/Raekwon" title="Raekwon">Raekwon</a></td>
+<td><a href="/wiki/Only_Built_4_Cuban_Linx..._Pt._II" title="Only Built 4 Cuban Linx... Pt. II">Only Built 4 Cuban Linx... Pt. II</a></td>
+<td>88</td>
+<td>19 reviews</td>
+<td><sup id="cite_ref-99" class="reference"><a href="#cite_note-99"><span>[</span>99<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">2</th>
+<td><a href="/wiki/UGK" title="UGK">UGK</a></td>
+<td><a href="/wiki/UGK_4_Life" title="UGK 4 Life">UGK 4 Life</a></td>
+<td>84</td>
+<td>11 reviews</td>
+<td><sup id="cite_ref-100" class="reference"><a href="#cite_note-100"><span>[</span>100<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">3</th>
+<td><a href="/wiki/Brother_Ali" title="Brother Ali">Brother Ali</a></td>
+<td><i><a href="/wiki/Us_(Brother_Ali_album)" title="Us (Brother Ali album)">Us</a></i></td>
+<td>83</td>
+<td>12 reviews</td>
+<td><sup id="cite_ref-101" class="reference"><a href="#cite_note-101"><span>[</span>101<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">4</th>
+<td><a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a> &amp; <a href="/wiki/Kurupt" title="Kurupt">Kurupt</a></td>
+<td><i><a href="/wiki/Blaqkout" title="Blaqkout">Blaqkout</a></i></td>
+<td>83</td>
+<td>8 reviews</td>
+<td><sup id="cite_ref-102" class="reference"><a href="#cite_note-102"><span>[</span>102<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">5</th>
+<td><a href="/wiki/Mos_Def" title="Mos Def">Mos Def</a></td>
+<td><i><a href="/wiki/The_Ecstatic" title="The Ecstatic">The Ecstatic</a></i></td>
+<td>81</td>
+<td>28 reviews</td>
+<td><sup id="cite_ref-103" class="reference"><a href="#cite_note-103"><span>[</span>103<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">6</th>
+<td><a href="/wiki/J_Dilla" title="J Dilla">J Dilla</a></td>
+<td><i><a href="/wiki/Jay_Stay_Paid" title="Jay Stay Paid">Jay Stay Paid</a></i></td>
+<td>81</td>
+<td>15 reviews</td>
+<td><sup id="cite_ref-104" class="reference"><a href="#cite_note-104"><span>[</span>104<span>]</span></a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Previous article: <a href="/wiki/2008_in_hip_hop_music" title="2008 in hip hop music">2008 in hip hop music</a></li>
+<li>Next article: <a href="/wiki/2010_in_hip_hop_music" title="2010 in hip hop music">2010 in hip hop music</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rap-up.com/2009/01/30/lupe-fiascos-retirement-plans-deferred/#more-10726">Lupe Fiasco’s Retirement Plans Deferred</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thisis50.com/profiles/blogs/50-cent-vs-rick-ross-recap-of">50 Cent Vs Rick Ross - Recap Of The Beef</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.8572/title.jim-jones-accused-of-stealing-bad-santa-beats">Jim Jones Accused Of Stealing "Bad Santa" Beats</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/entertainment/7918383.stm">"Snoop Dogg joins Nation of Islam"</a>. <i>BBC News</i>. March 2, 2009<span class="reference-accessdate">. Retrieved April 23, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+in+hip+hop+music&amp;rft.atitle=Snoop+Dogg+joins+Nation+of+Islam&amp;rft.date=March+2%2C+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fentertainment%2F7918383.stm&amp;rft.jtitle=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1607089/20090316/bob_2_.jhtml">B.o.B Gets Support from T.I., Introduces New Name</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rap-up.com/2009/03/27/ti-sentenced-to-366-days-in-jail/#more-14685">T.I. Sentenced to 366 Days in Jail</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rapbasement.com/camron/033009-camron-says-he-is-not-doing-dipset-reunion.html">Camron says No to Dipset Reunion</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lilwaynehq.com/2009/04/02/cash-money-records-sues-mixtape-djs-including-dj-drama">Cash Money Records Sues Mixtape DJ’s Including DJ Drama</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ballerstatus.com/2009/04/07/jim-jones-arrested-in-new-jersey-twitters-during-entire-process/">Jim Jones Arrested In New Jersey, Twitters During Entire Process</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thisis50.com/profiles/blogs/camron-says-he-and-jim-jones">Cam'Ron Says he and Jim Jones Are Done</a> "Go On Stage With 50 While We're in the middle of a Heated Battle..I Couldn't Have Gotten Banks or Yayo To do Something like That"</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.worldstarhiphop.com/videos/video.php?v=wshhM0e9pg278tlWhi37">http://www.worldstarhiphop.com/videos/video.php?v=wshhM0e9pg278tlWhi37</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rapbasement.com/rick-ross/041609-rick-ross-and-asher-roth-have-their-entire-new-albums-leak-onto-the-internet-today.html">Rick Ross &amp; Asher Roth Albums Leak Online</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thesmokinggun.com/archive/years/2009/0505091ti1.html/">T.I.'s Snitch Posse</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vh1.com/artists/news/1610917/20090508/t_i_.jhtml?rsspartner=rssYahooNewscrawler">T.I. Boots Alfamega From Grand Hustle</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://music.rightcelebrity.com/?p=2283">http://music.rightcelebrity.com/?p=2283</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.undercover.com.au/News-Story.aspx?id=8326">http://www.undercover.com.au/News-Story.aspx?id=8326</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://eminem.blogs.universal-music.de/2009/05/14/relapse-schon-ab-morgen-im-handel/">http://eminem.blogs.universal-music.de/2009/05/14/relapse-schon-ab-morgen-im-handel/</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since September 2009">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://universalmusic.it/pop/news/newsdet.php?idn=2058">http://universalmusic.it/pop/news/newsdet.php?idn=2058</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ad.nl/cultuurenshow/3051279/Langverwachte_cd_Eminem_op_15_mei_in_winkels.html">http://www.ad.nl/cultuurenshow/3051279/Langverwachte_cd_Eminem_op_15_mei_in_winkels.html</a></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://realhiphopsince79.com/2009/05/14/beef-alert-joe-budden-vs-method-man/">*BEEF ALERT* “Joe Budden vs Method Man”</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since September 2009">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ballerstatus.com/2009/05/17/swizz-beatz-admits-to-relationship-with-alicia-keys/">Swizz Beatz Admits To Relationship With Alicia Keys</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://celebgalz.com/aubery-berry-dolla-roderick-burton-ii-berry-killed-dolla-burton-iiphotos/">Aubery Berry &amp; Dolla Roderick Burton II: Berry killed Dolla Burton II(photos)</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://hiphop.popcrunch.com/jay-z-def-jam-split-confirmed/">Jay-Z Def Jam Split Confirmed</a></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1611536/20090515/t_i_.jhtml">T.I. To Report To Arkansas Prison On May 26</a></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/268533/eminems-relapse-tops-billboard-200">Eminem's 'Relapse' Tops Billboard 200</a></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.zapasawut.us/tega-henderson.html">Notice of Ortega Henderson's death</a></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/2009/06/04/ortega-henderson-dies_n_211375.html"><i>Huffington Post</i> notice of Henderson's death</a></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1613283/20090604/jay_z.jhtml">Jay-Z's Blueprint 3 Coming Out On September 11</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1613812/20090611/50_cent.jhtml">Exclusive: 50 Cent Talks War Angel LP, Which Drops Next Week</a></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.9368/title.plies-throws-50-000-into-concert-crowd">Plies Throws $50,000 Into Concert Crowd</a></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.9351/title.graffiti-artist-iz-the-wiz-passes-away">Legendary Graffiti Artist Iz the Wiz Passes Away</a></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.9316/title.daz-dillinger-song-disses-jermaine-dupri-suge-knight">Daz Dillinger Song Disses Jermaine Dupri, Suge Knight</a></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/online/?p=50675">Game Reveals Michael Jackson Wanted To Help End 50 Cent Beef</a></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1615171/20090701/game__3_.jhtml">Game On 50 Cent Beef: 'I Did A Lot Of Dumb Things'</a></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allhiphop.com/stories/features/archive/2009/06/25/21705321.aspx">"Alfamega ain’t never snitched on nobody." -Alfamega</a></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.defsounds.com/articles/Alfamega_on_ti_i_thought_it_was_a_friendship_still_part_of_grand_hustle">Alfamega On T.I.: "I Thought It Was A Friendship," Still Part Of Grand Hustle</a></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allhiphop.com/stories/news/archive/2009/07/03/21735568.aspx">BET Denounces Lil Wayne Performance, Drake Apologizes</a></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.9418/title.michael-jackson-s-passing-inspires-mase-s-return-to-music">Michael Jackson’s Passing Inspires Mase Return To Music</a></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nahright.com/news/2009/07/09/jay-z-tops-2009-forbes-hip-hop-cash-kings-list/">Jay-Z Tops 2009 Forbes Hip-Hop Cash Kings List</a></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.hiphopdx.com/index/news/id.9552/title.final-big-pun-recordings-to-release-in-september">http://www.hiphopdx.com/index/news/id.9552/title.final-big-pun-recordings-to-release-in-september</a></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.hiphopdx.com/index/news/id.9554/title.young-jeezy-disses-drama-drama-responds">http://www.hiphopdx.com/index/news/id.9554/title.young-jeezy-disses-drama-drama-responds</a></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.hiphopdx.com/index/news/id.9555/title.dx-news-bits-cam-ron-saigon">http://www.hiphopdx.com/index/news/id.9555/title.dx-news-bits-cam-ron-saigon</a></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.hiphopdx.com/index/news/id.9558/title.jay-z-s-d-o-a-increases-auto-tune-sales">http://www.hiphopdx.com/index/news/id.9558/title.jay-z-s-d-o-a-increases-auto-tune-sales</a></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sohh.com/2009/08/hell_rell_blames_jim_jone.html">Hell Rell Blames Jim Jones &amp; Juelz Santana For Dipset's Bad Image, "They Just F*cking Sh*t Up"</a></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.chamillionaire.co">[1]</a></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.hiphopdx.com/index/news/id.9642/title.bow-wow-signs-with-cash-money">[2]</a></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://vicariousmusic.com/2009/08/20/pitbull-received-miami-key-to-the-city/">Pitbull received Miami Key To the City</a></span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://thisis50.com/profiles/blogs/breaking-news-max-b-sentenced">BREAKING NEWS: Max B. Sentenced To 75 Years in Jail</a></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://hiphopblips.dailyradar.com/video/uh-oh-kia-shine-said-he-co-wrote-drakes-best-i-ever/">Uh Oh: Kia Shine Said He Co Wrote Drakes "Best I Ever Had" Song!...</a></span></li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://octobersveryown.blogspot.com/2009/09/best-i-ever-had.html">October's Very Own</a></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://2dopeboyz.okayplayer.com/2009/09/19/rip-dj-roc-raida/">R.I.P. DJ Roc Raida</a></span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theboombox.com/2009/09/21/charles-hamilton-dropped-from-interscope-records/">Charles Hamilton Dropped From Interscope Records?</a></span></li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.brokencool.com/broken_cool/2009/09/video-nore-says-dont-support-sore.html">VIDEO: N.O.R.E. Says Don't Support "S.O.R.E."</a></span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.chamillionaire.com/home/chamillionaire-fans-choose-venom.html">Chamillionaire Fans Chooose Venom</a></span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hispanicbusiness.com/newswire/2009/10/2/mr_magic_real_name_john_rivas.htm">Mr. Magic, Real Name John Rivas, Brought Hip-Hop to Masses</a></span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://gothamist.com/2009/10/06/method_man_arrested_for_tax_evasion.php">Method Man Arrested For Tax Evasion</a></span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.9920/title.jim-jones-pleads-guilty-to-assault">Jim Jones Pleads Guilty To Assault</a></span></li>
+<li id="cite_note-chamillionaire.com-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-chamillionaire.com_58-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.chamillionaire.com/home/good-morning-now-available-on-itunes.html">Good Morning now available on iTunes</a></span></li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://allhiphop.com/stories/news/archive/2009/10/28/22002071.aspx">Shyne Released From Prison, Heading To Belize</a></span></li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://2dopeboyz.okayplayer.com/2009/11/12/gucci-mane-sentenced-to-12-months/">Gucci Mane Sentenced to 12 Months</a></span></li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.10237/title.young-jeezy-and-gucci-mane-end-feud-talk-collaboration">Young Jeezy And Gucci Mane End Feud, Talk Collaboration</a></span></li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.10227/title.jim-jones-leaves-columbia-for-e1">Jim Jones Leaves Columbia For E1</a></span></li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://globalgrind.com/channel/music/content/1229683/Billboard-Names-Neptunes-Producers-Of-Decade/">Billboard Names Neptunes Producers Of Decade</a></span></li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/online/?p=66057">Kid Cudi’s Debut Named Best Hip-Hop Album of ’09 by Entertainment Weekly</a></span></li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-65">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/online/?p=66274">XXcLusive: T.I. Released from Prison Today, Lawyer Confirms</a></span></li>
+<li id="cite_note-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-66">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://thisis50.com/profiles/blogs/nelly-offers-10000-to-arrest">Nelly Offers $10,000 to Arrest Assailant</a></span></li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://thisis50.com/profiles/blogs/trina-goes-in-on-khia-no-promo">Trina Goes In On Khia! "No Promo For You Wack H*es, Get The F*ck Out The Way!"</a></span></li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.contactmusic.com/news.nsf/story/beyonce-knowles-name-change_1126576">BEYONCE KNOWLES - BEYONCE KNOWLES' NAME CHANGE</a></span></li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://jam.canoe.ca/Music/Charts/ALBUMS.html">Top 100 Albums In Canada</a>, jam.canoe.ca</span></li>
+<li id="cite_note-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-70">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/bbcom/charts/chart_display.jsp?f=The+Billboard+200&amp;pageNumber=Top+11-50&amp;g=Albums">"Billboard - Top 200 Albums (Top 11-50)"</a><span class="reference-accessdate">. Retrieved 2009-05-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+in+hip+hop+music&amp;rft.btitle=Billboard+-+Top+200+Albums+%28Top+11-50%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fbbcom%2Fcharts%2Fchart_display.jsp%3Ff%3DThe%2BBillboard%2B200%26pageNumber%3DTop%2B11-50%26g%3DAlbums&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-71"><span class="mw-cite-backlink"><b><a href="#cite_ref-71">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.amazon.com/dp/B0024EWP1C">Sheek Louch- <i>Life on D-Block</i></a></span></li>
+<li id="cite_note-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-72">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/2009-06-06/billboard-200">The Billboard 200 - Life On D-Block</a><i>Billboard</i>.com</span></li>
+<li id="cite_note-73"><span class="mw-cite-backlink"><b><a href="#cite_ref-73">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.amazon.com/dp/B0020H46T2">Freeway- <i>Philadelphia Freeway, Vol. 2</i></a></span></li>
+<li id="cite_note-74"><span class="mw-cite-backlink"><b><a href="#cite_ref-74">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/2009-06-06/billboard-200">The Billboard 200 - Philadelphia Freeway 2</a><i>Billboard</i>.com</span></li>
+<li id="cite_note-hiphopdx.com-75"><span class="mw-cite-backlink">^ <a href="#cite_ref-hiphopdx.com_75-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hiphopdx.com_75-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hiphopdx.com_75-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-hiphopdx.com_75-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-hiphopdx.com_75-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-hiphopdx.com_75-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-hiphopdx.com_75-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-hiphopdx.com_75-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-hiphopdx.com_75-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.hiphopdx.com/index/release-dates">http://www.hiphopdx.com/index/release-dates</a></span></li>
+<li id="cite_note-76"><span class="mw-cite-backlink"><b><a href="#cite_ref-76">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/charts/2009-06-20/billboard-200">http://www.billboard.com/charts/2009-06-20/billboard-200</a></span></li>
+<li id="cite_note-77"><span class="mw-cite-backlink"><b><a href="#cite_ref-77">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://rap.about.com/b/2009/04/15/az-claims-legendary-status-on-new-lp.htm?r=Dl">http://rap.about.com/b/2009/04/15/az-claims-legendary-status-on-new-lp.htm?r=Dl</a></span></li>
+<li id="cite_note-78"><span class="mw-cite-backlink"><b><a href="#cite_ref-78">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/charts/2009-06-20/r-b-hip-hop-albums">http://www.billboard.com/charts/2009-06-20/r-b-hip-hop-albums</a></span></li>
+<li id="cite_note-79"><span class="mw-cite-backlink"><b><a href="#cite_ref-79">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/charts/2009-06-20/rap-albums">http://www.billboard.com/charts/2009-06-20/rap-albums</a></span></li>
+<li id="cite_note-billboard.com-80"><span class="mw-cite-backlink">^ <a href="#cite_ref-billboard.com_80-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-billboard.com_80-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/artist/327569/pastor+troy/chart">http://www.billboard.com/artist/327569/pastor+troy/chart</a></span></li>
+<li id="cite_note-81"><span class="mw-cite-backlink"><b><a href="#cite_ref-81">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/artist/275933/d-block/chart">http://www.billboard.com/artist/275933/d-block/chart</a></span></li>
+<li id="cite_note-82"><span class="mw-cite-backlink"><b><a href="#cite_ref-82">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/artist/311829/mos+def/chart">http://www.billboard.com/artist/311829/mos+def/chart</a></span></li>
+<li id="cite_note-83"><span class="mw-cite-backlink"><b><a href="#cite_ref-83">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/artist/299984/dj+quik/chart">http://www.billboard.com/artist/299984/dj+quik/chart</a></span></li>
+<li id="cite_note-84"><span class="mw-cite-backlink"><b><a href="#cite_ref-84">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/2009-07-11/r-b-hip-hop-albums">Top R&amp;B/Hip-Hop Albums - Pulse Of The People</a></span></li>
+<li id="cite_note-85"><span class="mw-cite-backlink"><b><a href="#cite_ref-85">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/2009-07-11/r-b-hip-hop-albums">Top R&amp;B/Hip-Hop Albums - Tha Connect</a></span></li>
+<li id="cite_note-86"><span class="mw-cite-backlink"><b><a href="#cite_ref-86">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/2009-07-11/rap-albums">Top Rap Albums - Tha Connect</a></span></li>
+<li id="cite_note-87"><span class="mw-cite-backlink"><b><a href="#cite_ref-87">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/2009-07-11/r-b-hip-hop-albums">Top R&amp;B/Hip-Hop Albums - Dopium</a></span></li>
+<li id="cite_note-88"><span class="mw-cite-backlink"><b><a href="#cite_ref-88">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/2009-07-11/r-b-hip-hop-albums">Top R&amp;B/Hip-Hop Albums - Retroactive</a></span></li>
+<li id="cite_note-89"><span class="mw-cite-backlink"><b><a href="#cite_ref-89">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/305859/killer+mike/chart">Underground Atlanta - Killer Mike (2009)</a></span></li>
+<li id="cite_note-90"><span class="mw-cite-backlink"><b><a href="#cite_ref-90">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://allmusic.com/cg/amg.dll?p=amg&amp;sql=10:dvftxzwaldde">K.O.D. at Allmusic.com</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since January 2011">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-91"><span class="mw-cite-backlink"><b><a href="#cite_ref-91">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/303702/hurricane+chris/chart">Unleashed - Hurricane Chris</a> Billboard.com</span></li>
+<li id="cite_note-Caulfield-92"><span class="mw-cite-backlink">^ <a href="#cite_ref-Caulfield_92-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Caulfield_92-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Caulfield, Keith. <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/957659/drake-debuts-at-no-1-on-billboard-200">Drake Debuts At No. 1 On Billboard 200</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. Retrieved on 2010-06-23.</span></li>
+<li id="cite_note-93"><span class="mw-cite-backlink"><b><a href="#cite_ref-93">^</a></b></span> <span class="reference-text"><span class="citation web">Caulfield, Keith (June 30, 2010). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/957567/eminems-recovery-explodes-at-no-1-on-billboard-200-with-741000">"Eminem's 'Recovery' Explodes At No. 1 on Billboard 200 With 741,000"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20100701232735/http://www.billboard.com/articles/news/957567/eminems-recovery-explodes-at-no-1-on-billboard-200-with-741000">Archived</a> from the original on 1 July 2010<span class="reference-accessdate">. Retrieved June 30, 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+in+hip+hop+music&amp;rft.atitle=Eminem%27s+%27Recovery%27+Explodes+At+No.+1+on+Billboard+200+With+741%2C000&amp;rft.au=Caulfield%2C+Keith&amp;rft.aufirst=Keith&amp;rft.aulast=Caulfield&amp;rft.date=June+30%2C+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F957567%2Feminems-recovery-explodes-at-no-1-on-billboard-200-with-741000&amp;rft.jtitle=Billboard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-94"><span class="mw-cite-backlink"><b><a href="#cite_ref-94">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/articles/news/958939/ludacris-lands-fourth-no-1-album-with-battle-of-the-sexes">http://www.billboard.com/articles/news/958939/ludacris-lands-fourth-no-1-album-with-battle-of-the-sexes</a></span></li>
+<li id="cite_note-95"><span class="mw-cite-backlink"><b><a href="#cite_ref-95">^</a></b></span> <span class="reference-text">Caulfield, Keith. <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/957565/eminems-huge-recovery-leads-big-week-on-billboard-200">Eminem's Huge 'Recovery' Leads Big Week On Billboard 200</a>. <i>Billboard</i>. Retrieved on 2010-06-30.</span></li>
+<li id="cite_note-Current-96"><span class="mw-cite-backlink"><b><a href="#cite_ref-Current_96-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://current.com/entertainment/music/92367519_wu-massacre-and-e-40-chart-with-albums.htm">Wu Massacre and E-40 Chart with Albums</a>. Current.com. Retrieved on 2010-04-08.</span></li>
+<li id="cite_note-97"><span class="mw-cite-backlink"><b><a href="#cite_ref-97">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.hitsdailydouble.com/sales/salescht.cgi">http://www.hitsdailydouble.com/sales/salescht.cgi</a></span></li>
+<li id="cite_note-98"><span class="mw-cite-backlink"><b><a href="#cite_ref-98">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.mtv.com/news/articles/1654337/20101215/t_i_.jhtml">http://www.mtv.com/news/articles/1654337/20101215/t_i_.jhtml</a></span></li>
+<li id="cite_note-99"><span class="mw-cite-backlink"><b><a href="#cite_ref-99">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/only-built-4-cuban-linx-pt-ii/raekwon">http://www.metacritic.com/music/only-built-4-cuban-linx-pt-ii/raekwon</a></span></li>
+<li id="cite_note-100"><span class="mw-cite-backlink"><b><a href="#cite_ref-100">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/ugk-4-life/ugk">http://www.metacritic.com/music/ugk-4-life/ugk</a></span></li>
+<li id="cite_note-101"><span class="mw-cite-backlink"><b><a href="#cite_ref-101">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/us/brother-ali">http://www.metacritic.com/music/us/brother-ali</a></span></li>
+<li id="cite_note-102"><span class="mw-cite-backlink"><b><a href="#cite_ref-102">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/blaqkout/dj-quik-kurupt">http://www.metacritic.com/music/blaqkout/dj-quik-kurupt</a></span></li>
+<li id="cite_note-103"><span class="mw-cite-backlink"><b><a href="#cite_ref-103">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/the-ecstatic/mos-def">http://www.metacritic.com/music/the-ecstatic/mos-def</a></span></li>
+<li id="cite_note-104"><span class="mw-cite-backlink"><b><a href="#cite_ref-104">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metacritic.com/music/jay-stay-paid/j-dilla-aka-jay-dee">http://www.metacritic.com/music/jay-stay-paid/j-dilla-aka-jay-dee</a></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1029
+CPU time usage: 3.116 seconds
+Real time usage: 3.227 seconds
+Preprocessor visited node count: 7830/1000000
+Preprocessor generated node count: 69648/1500000
+Post‐expand include size: 19480/2048000 bytes
+Template argument size: 3638/2048000 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 6/500
+Lua time usage: 0.088/10.000 seconds
+Lua memory usage: 1.79 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21070025-0!*!0!!en!4!* and timestamp 20140607041325 and revision id 607566030
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=2009_in_hip_hop_music&amp;oldid=607566030">http://en.wikipedia.org/w/index.php?title=2009_in_hip_hop_music&amp;oldid=607566030</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2000s_in_hip_hop_music" title="Category:2000s in hip hop music">2000s in hip hop music</a></li><li><a href="/wiki/Category:2009_in_music" title="Category:2009 in music">2009 in music</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_September_2009" title="Category:Articles with dead external links from September 2009">Articles with dead external links from September 2009</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_January_2011" title="Category:Articles with dead external links from January 2011">Articles with dead external links from January 2011</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2012" title="Category:Articles with unsourced statements from February 2012">Articles with unsourced statements from February 2012</a></li><li><a href="/wiki/Category:Articles_with_limited_geographic_scope_from_August_2011" title="Category:Articles with limited geographic scope from August 2011">Articles with limited geographic scope from August 2011</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2009+in+hip+hop+music&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2009+in+hip+hop+music" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/2009_in_hip_hop_music"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:2009_in_hip_hop_music"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/2009_in_hip_hop_music" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/2009_in_hip_hop_music" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/2009_in_hip_hop_music" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=2009_in_hip_hop_music&amp;oldid=607566030" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=2009_in_hip_hop_music&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4615445" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=2009_in_hip_hop_music&amp;id=607566030" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=2009+in+hip+hop+music">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=2009+in+hip+hop+music&amp;oldid=607566030&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=2009_in_hip_hop_music&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q4615445#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 8 May 2014 at 01:39.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/2009_in_hip_hop_music" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":227,"wgHostname":"mw1111"});
+}</script>
+	</body>
+</html>
+	

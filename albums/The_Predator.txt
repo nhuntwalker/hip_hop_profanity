@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>The Predator - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Predator" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Predator&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_Predator&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/The_Predator" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Predator","wgTitle":"The Predator","wgCurRevisionId":607453886,"wgRevisionId":607453886,"wgArticleId":2633285,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Ice Cube albums","1992 albums","Albums certified multi-platinum by the Recording Industry Association of America","Albums produced by DJ Muggs","Albums produced by DJ Pooh","Priority Records albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Predator","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1065348"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-The_Predator skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>The Predator</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the album by rapper Ice Cube.  For other uses, see <a href="/wiki/Predator_(disambiguation)" title="Predator (disambiguation)">Predator (disambiguation)</a>.</div>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">The Predator</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Ice_Cube_-_The_Predator_-_Album_Cover.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8e/Ice_Cube_-_The_Predator_-_Album_Cover.jpg/220px-Ice_Cube_-_The_Predator_-_Album_Cover.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8e/Ice_Cube_-_The_Predator_-_Album_Cover.jpg/330px-Ice_Cube_-_The_Predator_-_Album_Cover.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/8/8e/Ice_Cube_-_The_Predator_-_Album_Cover.jpg 2x" data-file-width="400" data-file-height="400" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">November 17, 1992<br />
+March 11, 2003 (2003 remaster)<br />
+July 20, 2010 (2010 remaster)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1991-1992<br />
+Echo Sound <small>(<a href="/wiki/Glendale,_California" title="Glendale, California">Glendale, California</a>)</small><br />
+<a href="/wiki/The_Hit_Factory" title="The Hit Factory">The Hit Factory</a> <small>(<a href="/wiki/New_York_City" title="New York City">New York City</a>)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>56:27</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Priority_Records" title="Priority Records">Priority</a>/<a href="/wiki/EMI" title="EMI">EMI Records</a><br />
+<small>0499 2 57155 2 1<br />
+P2-57155 (original release)<br />
+<br />
+7243 5 43339 2 7<br />
+P2-43339 (2003 remaster)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a> <small>(also <a href="/wiki/Executive_producer" title="Executive producer">exec.</a>)</small>, <a href="/wiki/DJ_Pooh" title="DJ Pooh">DJ Pooh</a>, <a href="/wiki/Sir_Jinx" title="Sir Jinx">Sir Jinx</a>, Torcha Chamba, <a href="/wiki/DJ_Muggs" title="DJ Muggs">DJ Muggs</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Death_Certificate_(album)" title="Death Certificate (album)">Death Certificate</a></i><br />
+(1991)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>The Predator</b></i><br />
+(1992)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Lethal_Injection_(album)" title="Lethal Injection (album)">Lethal Injection</a></i><br />
+(1993)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>The Predator</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Wicked_(song)" title="Wicked (song)">Wicked</a>"</span><br />
+Released: October 21, 1992</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/It_Was_a_Good_Day" title="It Was a Good Day">It Was a Good Day</a>"</span><br />
+Released: February 23, 1993</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Check_Yo_Self" title="Check Yo Self">Check Yo Self</a>"</span><br />
+Released: August 17, 1993</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>The Predator</b></i> is the third <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>. Released within months of the <a href="/wiki/1992_Los_Angeles_riots" title="1992 Los Angeles riots">1992 Los Angeles riots</a>, many songs comment on the racial tensions. The title is in part reference to the movie <i><a href="/wiki/Predator_2" title="Predator 2">Predator 2</a></i>, and the album itself includes samples from the film.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> Though not his most critically successful album, commercially <i>The Predator</i> is Ice Cube's most successful album, reaching double <a href="/wiki/RIAA_Certification" title="RIAA Certification" class="mw-redirect">platinum</a> status in the United States, and it contains his most well-known single, "<a href="/wiki/It_Was_a_Good_Day" title="It Was a Good Day">It Was a Good Day</a>." <i>The Predator</i> is his only number one album on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> to date, selling 193,000 copies in its first week.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> It has sold 2,210,283 to date, according to <a href="/wiki/Nielsen_Soundscan" title="Nielsen Soundscan" class="mw-redirect">Nielsen Soundscan</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Reception"><span class="tocnumber">1.1</span> <span class="toctext">Reception</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Track_listing"><span class="tocnumber">2</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Chart_positions"><span class="tocnumber">3</span> <span class="toctext">Chart positions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Album"><span class="tocnumber">3.1</span> <span class="toctext">Album</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Singles"><span class="tocnumber">3.2</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Year-end_charts"><span class="tocnumber">3.3</span> <span class="toctext">Year-end charts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Predator&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the opening song, "When Will They Shoot," Ice Cube addressed criticisms of <a href="/wiki/Anti-Semitism" title="Anti-Semitism" class="mw-redirect">anti-Semitism</a> he received for his last effort, <i><a href="/wiki/Death_Certificate_(album)" title="Death Certificate (album)">Death Certificate</a></i>:</p>
+<dl>
+<dd>White man is something I tried to study,</dd>
+<dd>But I got my hands bloody, yeah.</dd>
+<dd>They say I can sing like a <a href="/wiki/Jaybird" title="Jaybird" class="mw-redirect">jaybird</a></dd>
+<dd>But, nigga, don’t say the <a href="/wiki/Jews" title="Jews">j-word</a></dd>
+</dl>
+<p>Elsewhere "We Had to Tear This Mothafucka Up" is directed at the <a href="/wiki/Los_Angeles_Police" title="Los Angeles Police" class="mw-redirect">LA Police officers</a> acquitted in the <a href="/wiki/Rodney_King" title="Rodney King">Rodney King</a> trial; an event that ignited the <a href="/wiki/1992_Los_Angeles_riots" title="1992 Los Angeles riots">1992 LA Riots</a>. The similarly themed "Who Got the Camera?" imagines a scenario in which a Black man is subjected to <a href="/wiki/Police_brutality" title="Police brutality">police brutality</a>. The songs are broken up by interludes involving interviews with Ice Cube and what appears to be a debate between members of a congregation or talk-show audience.</p>
+<h3><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Predator&amp;action=edit&amp;section=2" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></td>
+<td style="vertical-align:middle">A−<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Q_Magazine" title="Q Magazine" class="mw-redirect">Q Magazine</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-link_6-0" class="reference"><a href="#cite_note-link-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="(choice cut)"><img alt="(choice cut)" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scissors_icon_black.svg/17px-Scissors_icon_black.svg.png" width="17" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scissors_icon_black.svg/26px-Scissors_icon_black.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scissors_icon_black.svg/34px-Scissors_icon_black.svg.png 2x" data-file-width="100" data-file-height="60" /></span><sup id="cite_ref-Christgau_7-0" class="reference"><a href="#cite_note-Christgau-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="2.5/5 stars"><img alt="2.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i>Rolling Stone</i> (2003)</td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The Rolling Stone Album Guide</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></td>
+<td style="vertical-align:middle">(favorable)<sup id="cite_ref-link_6-1" class="reference"><a href="#cite_note-link-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Washington_Post" title="Washington Post" class="mw-redirect">Washington Post</a></td>
+<td style="vertical-align:middle">(favorable)<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+</table>
+<p>Although not as lauded as his previous efforts, <i>The Predator</i> was well-received. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> called it "Ice Cube's strongest, most cohesive work yet" (11/20/92, p.&#160;88).<sup id="cite_ref-towerrecords.com_12-0" class="reference"><a href="#cite_note-towerrecords.com-12"><span>[</span>12<span>]</span></a></sup> <i><a href="/wiki/Q_Magazine" title="Q Magazine" class="mw-redirect">Q Magazine</a></i> included it in its "90 Best Albums Of The 1990s" (12/99, p.&#160;74).<sup id="cite_ref-towerrecords.com_12-1" class="reference"><a href="#cite_note-towerrecords.com-12"><span>[</span>12<span>]</span></a></sup> <i><a href="/wiki/Spin_Magazine" title="Spin Magazine" class="mw-redirect">Spin Magazine</a></i> called it a record that "demands to be heard" (1/93, p.&#160;61).<sup id="cite_ref-towerrecords.com_12-2" class="reference"><a href="#cite_note-towerrecords.com-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>Retrospectively, however, the album has been praised and is now considered a classic by many for its groundbreaking production, subject matter and controversial themes, and lyricism.</p>
+<p>It spawned three hit singles: "It Was A Good Day," which was a hit in March 1993; "Check Yo Self"; and "Wicked" (which was later covered by the band <a href="/wiki/Korn" title="Korn">Korn</a>). Both the album and single version of "Check Yo Self" include an appearance from <a href="/wiki/Das_EFX" title="Das EFX">Das EFX</a>, with the latter's single featuring a remix utilizing a sample of <a href="/wiki/Grandmaster_Flash" title="Grandmaster Flash">Grandmaster Flash</a>'s "<a href="/wiki/The_Message_(Grandmaster_Flash_and_the_Furious_Five_song)" title="The Message (Grandmaster Flash and the Furious Five song)">The Message</a>". The song also received continuous radio and <a href="/wiki/MTV" title="MTV">MTV</a> play.</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Predator&amp;action=edit&amp;section=3" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 60%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"The First Day of School" <span style="font-size:85%;">(Intro)</span></td>
+<td style="vertical-align: top;">Ice Cube</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:20</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"When Will They Shoot?" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/DJ_Pooh" title="DJ Pooh">DJ Pooh</a>, Bob Cat, Ice Cube</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:36</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"I'm Scared" <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1:32</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Wicked_(song)" title="Wicked (song)">Wicked</a>" <span style="font-size:85%;">(featuring Don Jagwarr)</span></td>
+<td style="vertical-align: top;">Torcha Chamba, Ice Cube</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:55</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Now I Gotta Wet 'Cha" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/DJ_Muggs" title="DJ Muggs">DJ Muggs</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:03</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"The Predator" &#160;</td>
+<td style="vertical-align: top;">DJ Pooh</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:03</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/It_Was_a_Good_Day" title="It Was a Good Day">It Was a Good Day</a>" &#160;</td>
+<td style="vertical-align: top;">DJ Pooh</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:19</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"We Had to Tear This Mothafucka Up" &#160;</td>
+<td style="vertical-align: top;">DJ Muggs</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:23</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Fuck 'Em" <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Sir_Jinx" title="Sir Jinx">Sir Jinx</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:02</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Dirty Mack" &#160;</td>
+<td style="vertical-align: top;">Mr. Woody</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:34</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Don't Trust 'Em" &#160;</td>
+<td style="vertical-align: top;">Rashad, Ice Cube, DJ Pooh</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:06</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Gangsta's Fairytale 2" <span style="font-size:85%;">(featuring Lil Russ)</span></td>
+<td style="vertical-align: top;">Pocketts, Ice Cube</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:19</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Check_Yo_Self" title="Check Yo Self">Check Yo Self</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Das_EFX" title="Das EFX">Das EFX</a>)</span></td>
+<td style="vertical-align: top;">DJ Muggs, Ice Cube</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:42</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Who Got the Camera?" &#160;</td>
+<td style="vertical-align: top;">Sir Jinx</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:37</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Integration" <span style="font-size:85%;">(Interlude)</span></td>
+<td style="vertical-align: top;">Ice Cube</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:31</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Say Hi to the Bad Guy" &#160;</td>
+<td style="vertical-align: top;">Sir Jinx</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:19</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Predator&amp;action=edit&amp;section=4" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Album">Album</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Predator&amp;action=edit&amp;section=5" title="Edit section: Album">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2">Album</th>
+<th colspan="2">Chart positions</th>
+</tr>
+<tr>
+<th><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a></th>
+<th>Top R&amp;B/Hip Hop Albums</th>
+</tr>
+<tr>
+<td>1992</td>
+<td><i>The Predator</i></td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">1</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Predator&amp;action=edit&amp;section=6" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2">Song</th>
+<th colspan="5">Chart positions</th>
+</tr>
+<tr>
+<th><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a></th>
+<th><a href="/wiki/Hot_R%26B/Hip-Hop_Singles_%26_Tracks" title="Hot R&amp;B/Hip-Hop Singles &amp; Tracks" class="mw-redirect">Hot R&amp;B/Hip-Hop Singles &amp; Tracks</a></th>
+<th><a href="/wiki/Hot_Rap_Singles" title="Hot Rap Singles" class="mw-redirect">Hot Rap Singles</a></th>
+<th><a href="/wiki/Rhythmic_Top_40" title="Rhythmic Top 40" class="mw-redirect">Rhythmic Top 40</a></th>
+<th><a href="/wiki/Hot_Dance_Music/Maxi-Singles_Sales" title="Hot Dance Music/Maxi-Singles Sales" class="mw-redirect">Hot Dance Music/Maxi-Singles Sales</a></th>
+</tr>
+<tr>
+<td>1992</td>
+<td>"Wicked"</td>
+<td style="text-align:center;">55</td>
+<td style="text-align:center;">31</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">31</td>
+</tr>
+<tr>
+<td rowspan="2">1993</td>
+<td>"Check Yo Self"</td>
+<td style="text-align:center;">20</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">18</td>
+<td style="text-align:center;">1</td>
+</tr>
+<tr>
+<td>"It Was a Good Day"</td>
+<td style="text-align:center;">15</td>
+<td style="text-align:center;">7</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">13</td>
+<td style="text-align:center;">—</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Year-end_charts">Year-end charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Predator&amp;action=edit&amp;section=7" title="Edit section: Year-end charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th>Chart (1993)</th>
+<th>Position</th>
+</tr>
+<tr>
+<td>U.S. <i>Billboard</i> 200<sup id="cite_ref-1990sbb_13-0" class="reference"><a href="#cite_note-1990sbb-13"><span>[</span>13<span>]</span></a></sup></td>
+<td style="text-align:center;">24</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Predator&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_albums_of_1992_(U.S.)" title="List of number-one albums of 1992 (U.S.)" class="mw-redirect">List of number-one albums of 1992 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1992_(U.S.)" title="List of number-one R&amp;B albums of 1992 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1992 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Predator&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://film.guardian.co.uk/Feature_Story/feature_story/0,,140252,00.html">"Chillin' with Cube"</a>. <i>The Guardian</i> (London). February 25, 2000.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Predator&amp;rft.atitle=Chillin%27+with+Cube&amp;rft.date=February+25%2C+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ffilm.guardian.co.uk%2FFeature_Story%2Ffeature_story%2F0%2C%2C140252%2C00.html&amp;rft.jtitle=The+Guardian&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://tieba.baidu.com/f?kz=756926526">"【Billboard】我要发高端贴之 SOUNDSCAN历周冠军专辑销量！！！_billboard吧_贴吧"</a>. Tieba.baidu.com<span class="reference-accessdate">. Retrieved 2012-03-05</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Predator&amp;rft.btitle=%E3%80%90Billboard%E3%80%91%E6%88%91%E8%A6%81%E5%8F%91%E9%AB%98%E7%AB%AF%E8%B4%B4%E4%B9%8B+SOUNDSCAN%E5%8E%86%E5%91%A8%E5%86%A0%E5%86%9B%E4%B8%93%E8%BE%91%E9%94%80%E9%87%8F%EF%BC%81%EF%BC%81%EF%BC%81_billboard%E5%90%A7_%E8%B4%B4%E5%90%A7&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ftieba.baidu.com%2Ff%3Fkz%3D756926526&amp;rft.pub=Tieba.baidu.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://homerecording.com/bbs/general-discussions/dj-hip-hop-production/soundscan-album-sales-10-12-2005-a-173006/">"SoundScan Album Sales 10/12/2005 - Home Recording forums"</a>. Homerecording.com. 2005-10-14<span class="reference-accessdate">. Retrieved 2012-03-05</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Predator&amp;rft.btitle=SoundScan+Album+Sales+10%2F12%2F2005+-+Home+Recording+forums&amp;rft.date=2005-10-14&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fhomerecording.com%2Fbbs%2Fgeneral-discussions%2Fdj-hip-hop-production%2Fsoundscan-album-sales-10-12-2005-a-173006%2F&amp;rft.pub=Homerecording.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r57577">link</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,312440,00.html">link</a></span></li>
+<li id="cite_note-link-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-link_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-link_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tower.com/predator-ice-cube-cd/wapi/105779747">link</a></span></li>
+<li id="cite_note-Christgau-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Christgau_7-0">^</a></b></span> <span class="reference-text"><span class="citation web">Christgau, Robert. <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_album.php?id=10490">"The Predator"</a>. <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Predator&amp;rft.au=Christgau%2C+Robert&amp;rft.aufirst=Robert&amp;rft.aulast=Christgau&amp;rft.btitle=The+Predator&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fget_album.php%3Fid%3D10490&amp;rft.pub=Robert+Christgau&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20080619053909/www.rollingstone.com/artists/icecube/albums/album/321791/review/6067944/the_predator">1992</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20080206134712/http://www.rollingstone.com/reviews/album/321791/review/6067944/the_predator">2003</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://books.google.com/books?id=lRgtYCC6OUwC&amp;pg=PA672&amp;dq=#v=onepage&amp;q=ice%20cube&amp;f=false">2004</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/washingtonpost/access/74065397.html?FMT=ABS&amp;FMTS=ABS:FT&amp;date=Nov+29%2C+1992&amp;author=Jimmie+Briggs&amp;desc=POP+RECORDINGS%3B+The+Rage+and+the+Rhythm+of+West+Coast+Rappers">link</a></span></li>
+<li id="cite_note-towerrecords.com-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-towerrecords.com_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-towerrecords.com_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-towerrecords.com_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.towerrecords.com/product.aspx?pfid=2779655&amp;title=The+Predator+%5BExplicit+Lyrics%5D&amp;artist=Ice+Cube">Tower.com: The Planet's Entertainment Destination for Music, CDs, Movies, DVDs, Books &amp; more</a></span></li>
+<li id="cite_note-1990sbb-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-1990sbb_13-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.biz/bbbiz/charts/yearendcharts/1993/the-billboard-200">http://www.billboard.biz/bbbiz/charts/yearendcharts/1993/the-billboard-200</a></span></li>
+</ol>
+</div>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td width="30%" align="center" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/The_Chase_(Garth_Brooks_album)" title="The Chase (Garth Brooks album)">The Chase</a></i> by <a href="/wiki/Garth_Brooks" title="Garth Brooks">Garth Brooks</a></span></td>
+<td width="40%" style="text-align: center;" rowspan="1"><b><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> <a href="/wiki/Number-one_albums_of_1992_(USA)" title="Number-one albums of 1992 (USA)" class="mw-redirect">number-one album</a></b><br />
+December 5–11, 1992</td>
+<td width="30%" align="center" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/The_Bodyguard:_Original_Soundtrack_Album" title="The Bodyguard: Original Soundtrack Album">The Bodyguard (soundtrack)</a></i> by Various artists</span></td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ice_Cube" title="Template:Ice Cube"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ice_Cube" title="Template talk:Ice Cube"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ice_Cube&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/AmeriKKKa%27s_Most_Wanted" title="AmeriKKKa's Most Wanted">AmeriKKKa's Most Wanted</a></i></li>
+<li><i><a href="/wiki/Death_Certificate_(album)" title="Death Certificate (album)">Death Certificate</a></i></li>
+<li><i><strong class="selflink">The Predator</strong></i></li>
+<li><i><a href="/wiki/Lethal_Injection_(album)" title="Lethal Injection (album)">Lethal Injection</a></i></li>
+<li><i><a href="/wiki/War_%26_Peace_Vol._1_(The_War_Disc)" title="War &amp; Peace Vol. 1 (The War Disc)">War &amp; Peace Vol. 1</a></i></li>
+<li><i><a href="/wiki/War_%26_Peace_Vol._2_(The_Peace_Disc)" title="War &amp; Peace Vol. 2 (The Peace Disc)">War &amp; Peace Vol. 2</a></i></li>
+<li><i><a href="/wiki/Laugh_Now,_Cry_Later" title="Laugh Now, Cry Later">Laugh Now, Cry Later</a></i></li>
+<li><i><a href="/wiki/Raw_Footage" title="Raw Footage">Raw Footage</a></i></li>
+<li><i><a href="/wiki/I_Am_the_West" title="I Am the West">I Am the West</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Extended plays</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Kill_at_Will" title="Kill at Will">Kill at Will</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Bootlegs_%26_B-Sides" title="Bootlegs &amp; B-Sides">Bootlegs &amp; B-Sides</a></i></li>
+<li><i><a href="/wiki/Featuring...Ice_Cube" title="Featuring...Ice Cube">Featuring...Ice Cube</a></i></li>
+<li><i><a href="/wiki/Greatest_Hits_(Ice_Cube_album)" title="Greatest Hits (Ice Cube album)">Greatest Hits</a></i></li>
+<li><i><a href="/wiki/In_the_Movies" title="In the Movies">In the Movies</a></i></li>
+<li><i><a href="/wiki/The_Essentials_(Ice_Cube_album)" title="The Essentials (Ice Cube album)">The Essentials</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Endangered_Species_(Tales_from_the_Darkside)" title="Endangered Species (Tales from the Darkside)" class="mw-redirect">Endangered Species (Tales from the Darkside)</a>"</li>
+<li>"<a href="/wiki/Steady_Mobbin%27" title="Steady Mobbin'" class="mw-redirect">Steady Mobbin'</a>"</li>
+<li>"<a href="/wiki/True_to_the_Game" title="True to the Game">True to the Game</a>"</li>
+<li>"<a href="/wiki/Wicked_(song)" title="Wicked (song)">Wicked</a>"</li>
+<li>"<a href="/wiki/It_Was_a_Good_Day" title="It Was a Good Day">It Was a Good Day</a>"</li>
+<li>"<a href="/wiki/Check_Yo_Self" title="Check Yo Self">Check Yo Self</a>"</li>
+<li>"<a href="/wiki/Really_Doe_(song)" title="Really Doe (song)">Really Doe</a>"</li>
+<li>"<a href="/wiki/You_Know_How_We_Do_It" title="You Know How We Do It">You Know How We Do It</a>"</li>
+<li>"<a href="/wiki/Bop_Gun_(One_Nation)" title="Bop Gun (One Nation)">Bop Gun (One Nation)</a>"</li>
+<li>"<a href="/wiki/What_Can_I_Do%3F_(Ice_Cube_song)" title="What Can I Do? (Ice Cube song)">What Can I Do?</a>"</li>
+<li>"<a href="/wiki/The_World_Is_Mine_(Ice_Cube_song)" title="The World Is Mine (Ice Cube song)">The World Is Mine</a>"</li>
+<li>"<a href="/wiki/We_Be_Clubbin%27" title="We Be Clubbin'">We Be Clubbin'</a>"</li>
+<li>"<a href="/wiki/Men_of_Steel_(song)" title="Men of Steel (song)">Men of Steel</a>"</li>
+<li>"<a href="/wiki/Pushin%27_Weight" title="Pushin' Weight">Pushin' Weight</a>"</li>
+<li>"<a href="/wiki/Hello_(Ice_Cube_song)" title="Hello (Ice Cube song)">Hello</a>"</li>
+<li>"<a href="/wiki/You_Can_Do_It" title="You Can Do It">You Can Do It</a>"</li>
+<li>"<a href="/wiki/Until_We_Rich" title="Until We Rich">Until We Rich</a>"</li>
+<li>"<a href="/wiki/$100_Bill_Y%27all" title="$100 Bill Y'all">$100 Bill Y'all</a>"</li>
+<li>"<a href="/wiki/Why_We_Thugs" title="Why We Thugs">Why We Thugs</a>"</li>
+<li>"<a href="/wiki/Go_to_Church" title="Go to Church">Go to Church</a>"</li>
+<li>"<a href="/wiki/Gangsta_Rap_Made_Me_Do_It" title="Gangsta Rap Made Me Do It">Gangsta Rap Made Me Do It</a>"</li>
+<li>"<a href="/wiki/Do_Ya_Thang_(Ice_Cube_song)" title="Do Ya Thang (Ice Cube song)">Do Ya Thang</a>"</li>
+<li>"<a href="/wiki/I_Rep_That_West" title="I Rep That West">I Rep That West</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other songs</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/No_Vaseline" title="No Vaseline">No Vaseline</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Ice_Cube_discography" title="Ice Cube discography">Discography</a></li>
+<li><a href="/wiki/N.W.A" title="N.W.A">N.W.A</a></li>
+<li><a href="/wiki/Westside_Connection" title="Westside Connection">Westside Connection</a></li>
+<li><a href="/wiki/C.I.A._(group)" title="C.I.A. (group)">C.I.A.</a></li>
+<li><a href="/wiki/Da_Lench_Mob" title="Da Lench Mob">Da Lench Mob</a></li>
+<li><a href="/wiki/Lench_Mob_Records" title="Lench Mob Records">Lench Mob Records</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1011
+CPU time usage: 1.720 seconds
+Real time usage: 1.823 seconds
+Preprocessor visited node count: 5443/1000000
+Preprocessor generated node count: 34824/1500000
+Post‐expand include size: 67793/2048000 bytes
+Template argument size: 10465/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.106/10.000 seconds
+Lua memory usage: 2.13 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2633285-0!*!0!!en!4!* and timestamp 20140601030527 and revision id 607453886
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=The_Predator&amp;oldid=607453886">http://en.wikipedia.org/w/index.php?title=The_Predator&amp;oldid=607453886</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ice_Cube_albums" title="Category:Ice Cube albums">Ice Cube albums</a></li><li><a href="/wiki/Category:1992_albums" title="Category:1992 albums">1992 albums</a></li><li><a href="/wiki/Category:Albums_certified_multi-platinum_by_the_Recording_Industry_Association_of_America" title="Category:Albums certified multi-platinum by the Recording Industry Association of America">Albums certified multi-platinum by the Recording Industry Association of America</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Muggs" title="Category:Albums produced by DJ Muggs">Albums produced by DJ Muggs</a></li><li><a href="/wiki/Category:Albums_produced_by_DJ_Pooh" title="Category:Albums produced by DJ Pooh">Albums produced by DJ Pooh</a></li><li><a href="/wiki/Category:Priority_Records_albums" title="Category:Priority Records albums">Priority Records albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Predator&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Predator" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/The_Predator"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:The_Predator"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/The_Predator" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=The_Predator&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=The_Predator&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Predator" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Predator" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=The_Predator&amp;oldid=607453886" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=The_Predator&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1065348" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=The_Predator&amp;id=607453886" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Predator">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=The+Predator&amp;oldid=607453886&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=The_Predator&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/The_Predator" title="The Predator – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/The_Predator" title="The Predator – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/The_Predator" title="The Predator – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/The_Predator" title="The Predator – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/The_Predator" title="The Predator – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/The_Predator" title="The Predator – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/The_Predator" title="The Predator – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/The_Predator" title="The Predator – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/The_Predator" title="The Predator – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/The_Predator" title="The Predator – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/The_Predator" title="The Predator – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/The_Predator" title="The Predator – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q1065348#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 May 2014 at 09:16.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/The_Predator" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":206,"wgHostname":"mw1220"});
+}</script>
+	</body>
+</html>
+	

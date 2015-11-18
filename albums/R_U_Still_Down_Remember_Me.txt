@@ -1,0 +1,1098 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>R U Still Down? (Remember Me) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"R_U_Still_Down?_(Remember_Me)","wgTitle":"R U Still Down? (Remember Me)","wgCurRevisionId":603892340,"wgRevisionId":603892340,"wgArticleId":1848523,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","1997 albums","Tupac Shakur albums","Albums published posthumously","Jive Records albums","Albums produced by Johnny \"J\"","Albums produced by Warren G","Albums certified multi-platinum by the Recording Industry Association of America","English-language albums","Albums produced by Quincy Jones III","Amaru Entertainment albums","Albums produced by Afeni Shakur","Albums produced by Def Jef","Albums produced by Live Squad","Albums produced by Soulshock and Karlin","Gangsta rap albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"R_U_Still_Down?_(Remember_Me)","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en","*"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q847524"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-R_U_Still_Down_Remember_Me skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>R U Still Down? (Remember Me)</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">R U Still Down? (Remember Me)</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:R_u_still_downcov.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4f/R_u_still_downcov.jpg/220px-R_u_still_downcov.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/4/4f/R_u_still_downcov.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/4/4f/R_u_still_downcov.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Tupac_Shakur" title="Tupac Shakur">2Pac</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">November 25, 1997</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1991–1994 <small><br />
+(<a href="/wiki/Tupac_Shakur" title="Tupac Shakur">2Pac</a>'s Vocals)</small><br />
+1992 <small><br />
+("<a href="/wiki/I_Wonder_If_Heaven_Got_a_Ghetto" title="I Wonder If Heaven Got a Ghetto">I Wonder If Heaven Got a Ghetto</a>" Original Version and Instrumental)</small><br />
+1996–1997<small><br />
+(Production, guest vocals, and mixing)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/West_coast_hip_hop" title="West coast hip hop" class="mw-redirect">West coast hip hop</a>, <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a>, <a href="/wiki/G-funk" title="G-funk">g-funk</a>, <a href="/wiki/R%26B" title="R&amp;B" class="mw-redirect">R&amp;B</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>102:40</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Amaru_Entertainment" title="Amaru Entertainment">Amaru</a>, <a href="/wiki/Jive_Records" title="Jive Records">Jive Records</a>, <a href="/wiki/Interscope_Records" title="Interscope Records">Interscope Records</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Afeni_Shakur" title="Afeni Shakur">Afeni Shakur</a> <small>(<a href="/wiki/Executive_producer#Music" title="Executive producer">exec.</a>)</small>, Lisa Smith-Putnam <small>(<a href="/wiki/Executive_producer#Music" title="Executive producer">exec.</a>)</small>, <a href="/wiki/Tony_Pizarro" title="Tony Pizarro">Tony Pizarro</a>, Akshun, Choo, <a href="/wiki/Def_Jef" title="Def Jef">Def Jef</a>, <a href="/wiki/DJ_Daryl" title="DJ Daryl" class="mw-redirect">DJ Daryl</a>, <a href="/wiki/Warren_G" title="Warren G">Warren G</a>, Khalid A. Hafiz, <a href="/wiki/Johnny_%22J%22" title="Johnny &quot;J&quot;">Johnny "J"</a>, <a href="/wiki/Laylaw" title="Laylaw" class="mw-redirect">Laylaw</a>, <a href="/wiki/Live_Squad" title="Live Squad">Live Squad</a>, Levant Marcus, Michael Mosley, <a href="/wiki/Quincy_Jones_III" title="Quincy Jones III">QDIII</a>, Quimmy Quim, Chris Rosser, Conrad Rosser, Ricky Rouse, <a href="/wiki/Soulshock_%26_Karlin" title="Soulshock &amp; Karlin" class="mw-redirect">Soulshock &amp; Karlin</a>, <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">2Pac</a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Tupac_Shakur" title="Tupac Shakur">2Pac</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/The_Don_Killuminati:_The_7_Day_Theory" title="The Don Killuminati: The 7 Day Theory">The Don Killuminati: The 7 Day Theory</a></i><br />
+(1996)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>R U Still Down? (Remember Me)</b></i><br />
+(1997)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Greatest_Hits_(2Pac_album)" title="Greatest Hits (2Pac album)" class="mw-redirect">Greatest Hits</a></i><br />
+(1998)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>R U Still Down? (Remember Me)</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/I_Wonder_If_Heaven_Got_a_Ghetto" title="I Wonder If Heaven Got a Ghetto">I Wonder If Heaven Got a Ghetto</a>"</span><br />
+Released: July 10, 1997</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Do_for_Love" title="Do for Love">Do for Love</a>"</span><br />
+Released: September 3, 1997</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="2.5/5 stars"><img alt="2.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">The Daily Vault</td>
+<td style="vertical-align:middle">B<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">B<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i></td>
+<td style="vertical-align:middle">8/10<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="2/5 stars"><img alt="2/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>R U Still Down? (Remember Me)</b></i> is the second posthumous <a href="/wiki/Album" title="Album">album</a> by <a href="/wiki/2Pac" title="2Pac" class="mw-redirect">2Pac</a>, released in 1997, and the first to be finished without his creative input. Her son having left a large body of work behind, this was the first release from his mother's imprint Amaru Entertainment, set up to control 2Pac's posthumous releases.</p>
+<p>It spawned two hits, "Do for Love" and "I Wonder If Heaven Got a Ghetto", of which "Do for Love" was certified Gold by the RIAA. The album reached multi-platinum status (4 million sold), a trend followed by some of his subsequent posthumous albums. <i>R U Still Down?</i> sold 549,000 copies in its first week.</p>
+<p>It has sold 2,166,117 copies in the United States as of 2011.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Album_information"><span class="tocnumber">1</span> <span class="toctext">Album information</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Track_listing"><span class="tocnumber">2</span> <span class="toctext">Track listing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Disc_one"><span class="tocnumber">2.1</span> <span class="toctext">Disc one</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Disc_two"><span class="tocnumber">2.2</span> <span class="toctext">Disc two</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Samples"><span class="tocnumber">3</span> <span class="toctext">Samples</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Unused_tracks"><span class="tocnumber">4</span> <span class="toctext">Unused tracks</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Reception"><span class="tocnumber">5</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Chart_positions"><span class="tocnumber">6</span> <span class="toctext">Chart positions</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Album_singles"><span class="tocnumber">7</span> <span class="toctext">Album singles</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Samples_later_used"><span class="tocnumber">8</span> <span class="toctext">Samples later used</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Album_information">Album information</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit&amp;section=1" title="Edit section: Album information">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This album contains previously unreleased material from the time period of his albums <i><a href="/wiki/Strictly_4_My_N.I.G.G.A.Z." title="Strictly 4 My N.I.G.G.A.Z." class="mw-redirect">Strictly 4 My N.I.G.G.A.Z.</a></i>, <i><a href="/wiki/Thug_Life:_Volume_1" title="Thug Life: Volume 1">Thug Life: Volume 1</a></i> and <a href="/wiki/Me_Against_the_World" title="Me Against the World">Me Against the World</a><i>.</i></p>
+<p>The first release on Amaru Records, <i>R U Still Down? (Remember Me)</i> was overseen by 2Pac's mother, Afeni Shakur. This album airs his views on life from a time before he became involved in the controversial east coast/west coast rivalry. His lyrics foreshadow his death in songs like "Open Fire" and "Thug Style."</p>
+<p>The artwork includes a note from 2Pac: "Keep the faith in me. I will not let u down! love 2Pac".</p>
+<p>The album cover was previously used on <a href="/wiki/Strictly_4_My_N.I.G.G.A.Z." title="Strictly 4 My N.I.G.G.A.Z." class="mw-redirect">Strictly 4 My N.I.G.G.A.Z.</a></p>
+<p>Tupac mentions his life in the streets of <a href="/wiki/Oakland,_California" title="Oakland, California">Oakland, California</a> in songs such as "Nothin' But Love" and how he started his career "Thug Life" mentality in those streets. As more of the original songs are leaked, it has become evident that many of the album's tracks were true to the originals, simply mastering and perfecting the original instrumentals and vocals. Songs like: "Hold On Be Strong", "Nothin' But Love", "Nothing To Lose", "Only Fear Of Death", "When I Get Free II", "Open Fire" are true to the originals. Those with fundamentally similar compositions include "Lie 2 Kick It", "I'm Gettin' Money" and "Thug Style". Tracks with completely new instrumentation include "Wonder If Heaven Got A Ghetto", "Hellrazor" and "Enemies With Me".</p>
+<p>"Definition of a Thug Nigga" also appears on the soundtrack of the 1993 film, <i><a href="/wiki/Poetic_Justice_(1993_film)#Soundtrack" title="Poetic Justice (1993 film)" class="mw-redirect">Poetic Justice</a></i>.</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit&amp;section=2" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Disc_one">Disc one</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit&amp;section=3" title="Edit section: Disc one">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th style="text-align:center;">#</th>
+<th style="text-align:center;">Title</th>
+<th style="text-align:center;">Featured Guest(s)</th>
+<th style="text-align:center;">Producer</th>
+<th style="text-align:center;">Time</th>
+</tr>
+<tr>
+<td>1</td>
+<td>"Redemption"</td>
+<td></td>
+<td>We Got Kidz &amp; Ricky Rouse</td>
+<td>1:48</td>
+</tr>
+<tr>
+<td>2</td>
+<td>"Open Fire"</td>
+<td>Akshun</td>
+<td>Akshun</td>
+<td>2:52</td>
+</tr>
+<tr>
+<td>3</td>
+<td>"R U Still Down? (Remember Me)"</td>
+<td></td>
+<td><a href="/wiki/Tony_Pizarro" title="Tony Pizarro">Tony Pizarro</a></td>
+<td>4:07</td>
+</tr>
+<tr>
+<td>4</td>
+<td>"Hellrazor"</td>
+<td><a href="/wiki/Stretch_(rapper)" title="Stretch (rapper)">Stretch</a> &amp; <a href="/wiki/Val_Young" title="Val Young">Val Young</a></td>
+<td><a href="/wiki/QDIII" title="QDIII" class="mw-redirect">QDIII</a></td>
+<td>4:15</td>
+</tr>
+<tr>
+<td>5</td>
+<td>"Thug Style"</td>
+<td></td>
+<td>We Got Kidz</td>
+<td>4:16</td>
+</tr>
+<tr>
+<td>6</td>
+<td>"Where Do We Go From Here (Interlude)"</td>
+<td></td>
+<td><a href="/wiki/Tony_Pizarro" title="Tony Pizarro">Tony Pizarro</a> &amp; 2Pac</td>
+<td>4:31</td>
+</tr>
+<tr>
+<td>7</td>
+<td>"<a href="/wiki/I_Wonder_If_Heaven_Got_a_Ghetto" title="I Wonder If Heaven Got a Ghetto">I Wonder If Heaven Got a Ghetto</a>"</td>
+<td></td>
+<td><a href="/wiki/Soulshock_%26_Karlin" title="Soulshock &amp; Karlin" class="mw-redirect">Soulshock &amp; Karlin</a></td>
+<td>4:21</td>
+</tr>
+<tr>
+<td>8</td>
+<td>"Nothing to Lose"</td>
+<td><a href="/wiki/Y%3FN-Vee" title="Y?N-Vee">Y?N-Vee</a></td>
+<td>2Pac &amp; <a href="/wiki/Live_Squad" title="Live Squad">Live Squad</a></td>
+<td>3:39</td>
+</tr>
+<tr>
+<td>9</td>
+<td>"I'm Gettin' Money"</td>
+<td></td>
+<td>Mike Mosley</td>
+<td>3:32</td>
+</tr>
+<tr>
+<td>10</td>
+<td>"Lie to Kick It"</td>
+<td><a href="/wiki/Richie_Rich_(rapper)" title="Richie Rich (rapper)">Richie Rich</a></td>
+<td><a href="/wiki/Warren_G" title="Warren G">Warren G</a></td>
+<td>3:39</td>
+</tr>
+<tr>
+<td>11</td>
+<td>"Fuck All Y'all"</td>
+<td></td>
+<td>We Got Kidz</td>
+<td>4:32</td>
+</tr>
+<tr>
+<td>12</td>
+<td>"Let Them Thangs Go"</td>
+<td></td>
+<td>We Got Kidz</td>
+<td>3:33</td>
+</tr>
+<tr>
+<td>13</td>
+<td>"Definition of a Thug Nigga"</td>
+<td></td>
+<td>Warren G</td>
+<td>4:09</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Disc_two">Disc two</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit&amp;section=4" title="Edit section: Disc two">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th style="text-align:center;">#</th>
+<th style="text-align:center;">Title</th>
+<th style="text-align:center;">Featured Guest(s)</th>
+<th style="text-align:center;">Producer</th>
+<th style="text-align:center;">Time</th>
+</tr>
+<tr>
+<td>1</td>
+<td>"Ready 4 Whatever"</td>
+<td><a href="/wiki/Big_Syke" title="Big Syke">Big Syke</a></td>
+<td><a href="/wiki/Johnny_%22J%22" title="Johnny &quot;J&quot;">Johnny "J"</a></td>
+<td>4:05</td>
+</tr>
+<tr>
+<td>2</td>
+<td>"When I Get Free"</td>
+<td></td>
+<td>We Got Kidz</td>
+<td>4:46</td>
+</tr>
+<tr>
+<td>3</td>
+<td>"Hold on be Strong"</td>
+<td>Stretch</td>
+<td>Choo</td>
+<td>4:11</td>
+</tr>
+<tr>
+<td>4</td>
+<td>"I'm Losin' It"</td>
+<td>Big Syke &amp; <a href="/wiki/Spice_1" title="Spice 1">Spice 1</a></td>
+<td><a href="/wiki/Tony_Pizarro" title="Tony Pizarro">Tony Pizarro</a></td>
+<td>3:55</td>
+</tr>
+<tr>
+<td>5</td>
+<td>"Fake Ass Bitches"</td>
+<td></td>
+<td>Johnny "J"</td>
+<td>3:10</td>
+</tr>
+<tr>
+<td>6</td>
+<td>"<a href="/wiki/Do_for_Love" title="Do for Love">Do for Love</a>"</td>
+<td>Eric Williams of <a href="/wiki/Blackstreet" title="Blackstreet">Blackstreet</a></td>
+<td>Soulshock &amp; Karlin</td>
+<td>4:42</td>
+</tr>
+<tr>
+<td>7</td>
+<td>"Enemies with Me"</td>
+<td><a href="/wiki/Dramacydal" title="Dramacydal" class="mw-redirect">Dramacydal</a></td>
+<td>We Got Kidz</td>
+<td>4:15</td>
+</tr>
+<tr>
+<td>8</td>
+<td>"Nothin' but Love"</td>
+<td><a href="/wiki/Dave_Hollister" title="Dave Hollister">Dave Hollister</a></td>
+<td>2Pac &amp; <a href="/wiki/DJ_Daryl" title="DJ Daryl" class="mw-redirect">DJ Daryl</a></td>
+<td>4:28</td>
+</tr>
+<tr>
+<td>9</td>
+<td>"16 on Death Row"</td>
+<td></td>
+<td>2Pac</td>
+<td>5:42</td>
+</tr>
+<tr>
+<td>10</td>
+<td>"<a href="/wiki/I_Wonder_If_Heaven_Got_a_Ghetto" title="I Wonder If Heaven Got a Ghetto">I Wonder If Heaven Got A Ghetto (Hip-Hop Version)</a>"</td>
+<td>Maxee</td>
+<td>Soulshock &amp; Karlin</td>
+<td>4:40</td>
+</tr>
+<tr>
+<td>11</td>
+<td>"When I Get Free II"</td>
+<td><a href="/wiki/Yaki_Kadafi" title="Yaki Kadafi">Yaki Kadafi</a></td>
+<td>Chris Rosser</td>
+<td>3:22</td>
+</tr>
+<tr>
+<td>12</td>
+<td>"Black Starry Night (Interlude)"</td>
+<td></td>
+<td>DJ Daryl</td>
+<td>0:48</td>
+</tr>
+<tr>
+<td>13</td>
+<td>"Only Fear of Death"</td>
+<td></td>
+<td>Live Squad</td>
+<td>5:09</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Samples">Samples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit&amp;section=5" title="Edit section: Samples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Definition of a Thug Nigga</b></p>
+<ul>
+<li>"Brother's Gonna Work It Out" by <a href="/wiki/Willie_Hutch" title="Willie Hutch">Willie Hutch</a></li>
+<li>"Ashley's Roachclip" by <a href="/wiki/The_Soul_Searchers" title="The Soul Searchers" class="mw-redirect">The Soul Searchers</a></li>
+<li>"Wind Parade" by <a href="/wiki/Donald_Byrd" title="Donald Byrd">Donald Byrd</a></li>
+<li>" Nuthin but a G' Thang (freestyle Remix) by Snoop Doggy Dogg and Dr. Dre</li>
+</ul>
+<p><b>Ready 4 Whatever</b></p>
+<ul>
+<li>"1980" by <a href="/wiki/Gil_Scott-Heron" title="Gil Scott-Heron">Gil Scott-Heron</a></li>
+</ul>
+<p><b>R U Still Down (Remember Me)</b></p>
+<ul>
+<li>"He's a Fly Guy" by <a href="/wiki/Curtis_Mayfield" title="Curtis Mayfield">Curtis Mayfield</a></li>
+</ul>
+<p><b>Hellrazor</b></p>
+<ul>
+<li>"Free 'Em All" by <a href="/wiki/J-Flexx" title="J-Flexx">J-Flexx</a></li>
+</ul>
+<p><b>Do for Love</b></p>
+<ul>
+<li>"<a href="/wiki/What_You_Won%27t_Do_for_Love_(song)" title="What You Won't Do for Love (song)">What You Won't Do for Love</a>" by <a href="/wiki/Bobby_Caldwell" title="Bobby Caldwell">Bobby Caldwell</a></li>
+</ul>
+<p><b>F*** All Y'all</b></p>
+<ul>
+<li>"Street Life" by <a href="/wiki/Geto_Boys" title="Geto Boys">Geto Boys</a></li>
+</ul>
+<p><b>I Wonder if Heaven Got a Ghetto</b></p>
+<ul>
+<li>"Two of Us" by <a href="/wiki/Cameo_(band)" title="Cameo (band)">Cameo</a></li>
+</ul>
+<p><b>Let Them Thangs Go</b></p>
+<ul>
+<li>"<a href="/wiki/Flash_Light_(song)" title="Flash Light (song)">Flash Light</a>" by <a href="/wiki/Parliament_(band)" title="Parliament (band)">Parliament</a></li>
+</ul>
+<p><b>Nothin' but Love</b></p>
+<ul>
+<li>"Something About That Woman" by <a href="/wiki/Lakeside_(band)" title="Lakeside (band)">Lakeside</a></li>
+</ul>
+<p><b>Nothing to Lose</b></p>
+<ul>
+<li>"The Grand Finale" by <a href="/wiki/The_D.O.C." title="The D.O.C.">The D.O.C.</a></li>
+<li>"Us" by <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a></li>
+<li>"I Wanna Hold on to You" by <a href="/wiki/Mica_Paris" title="Mica Paris">Mica Paris</a></li>
+</ul>
+<p><b>When I Get Free II</b></p>
+<ul>
+<li>"Synthetic Substitution" by Melvin Bliss</li>
+<li>"Concerto for Jazz/Rock Orchestra, Part I" by <a href="/wiki/Stanley_Clarke" title="Stanley Clarke">Stanley Clarke</a></li>
+</ul>
+<p><b>Where Do We Go From Here</b></p>
+<ul>
+<li>"May the Force Be With You" by <a href="/wiki/Bootsy%27s_Rubber_Band" title="Bootsy's Rubber Band" class="mw-redirect">Bootsy's Rubber Band</a></li>
+</ul>
+<p><b>Black Starry Night (Interlude)</b></p>
+<ul>
+<li>"Do It Roger" by <a href="/wiki/Roger_Troutman" title="Roger Troutman">Roger</a></li>
+</ul>
+<p><b>I Wonder if Heaven Got a Ghetto (Original Version)</b></p>
+<ul>
+<li>"Do It Roger" by <a href="/wiki/Roger_Troutman" title="Roger Troutman">Roger</a></li>
+</ul>
+<p><b>Lie to Kick It</b></p>
+<ul>
+<li>"<a href="/wiki/Funky_President" title="Funky President" class="mw-redirect">Funky President</a>" by <a href="/wiki/James_Brown" title="James Brown">James Brown</a></li>
+<li>"Haboglabotribin'" by <a href="/wiki/Bernard_Wright" title="Bernard Wright">Bernard Wright</a></li>
+</ul>
+<p><b>Only Fear of Death</b></p>
+<ul>
+<li>"Hihache" by <a href="/wiki/Lafayette_Afro_Rock_Band" title="Lafayette Afro Rock Band">Lafayette Afro Rock Band</a></li>
+</ul>
+<h2><span class="mw-headline" id="Unused_tracks">Unused tracks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit&amp;section=6" title="Edit section: Unused tracks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>"Scared Straight (Mike Mosley Remix)"</li>
+<li>"I Wonder If Heaven Got A Ghetto (Mike Mosley Remix)" Feat. Tammmi &amp; Mike Mosley (Later in 1999 was released in Mike Mosley's <i>Platinum Plaques</i>)</li>
+<li>"Thugz Get Lonely Too '97" Feat. Tech N9ne</li>
+<li>"Dopefiends Diner (Shock G Remix)" Feat. Digital Underground</li>
+<li>"I'm Getting Money (Mike Mosley Premix)" Feat. Kyle Rifkin (Later released in ,,The Way He Wanted It" Mixtape)</li>
+<li>"I Wonder If Heaven Got A Ghetto (Soulpower Hip-Hop Remix Radio Edit)" Feat. Maxee (Released in "I Wonder If Heaven Got A Ghetto" single)</li>
+</ul>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit&amp;section=7" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"As always, there's ample self-destructive bullshit," noted <i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i>, "but as a whole the album's eerie and undeniable."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Chart_positions">Chart positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit&amp;section=8" title="Edit section: Chart positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Chart</th>
+<th>Peak position</th>
+</tr>
+<tr>
+<td>Australian Charts<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></td>
+<td style="text-align:center;">50</td>
+</tr>
+<tr>
+<td>Austrian Charts<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></td>
+<td style="text-align:center;">23</td>
+</tr>
+<tr>
+<td>Canadian Charts<sup id="cite_ref-allmusic1_10-0" class="reference"><a href="#cite_note-allmusic1-10"><span>[</span>10<span>]</span></a></sup></td>
+<td style="text-align:center;">12</td>
+</tr>
+<tr>
+<td>German Charts<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></td>
+<td style="text-align:center;">25</td>
+</tr>
+<tr>
+<td>Dutch Charts<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></td>
+<td style="text-align:center;">29</td>
+</tr>
+<tr>
+<td>French Charts<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></td>
+<td style="text-align:center;">52</td>
+</tr>
+<tr>
+<td>New Zealand Charts<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></td>
+<td style="text-align:center;">20</td>
+</tr>
+<tr>
+<td><a href="/wiki/Sverigetopplistan" title="Sverigetopplistan">Swedish Chart</a><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></td>
+<td style="text-align:center;">41</td>
+</tr>
+<tr>
+<td><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></td>
+<td style="text-align:center;">44</td>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a><sup id="cite_ref-allmusic1_10-1" class="reference"><a href="#cite_note-allmusic1-10"><span>[</span>10<span>]</span></a></sup></td>
+<td style="text-align:center;">2</td>
+</tr>
+<tr>
+<td>US Top R&amp;B/Hip Hop Albums<sup id="cite_ref-allmusic1_10-2" class="reference"><a href="#cite_note-allmusic1-10"><span>[</span>10<span>]</span></a></sup></td>
+<td style="text-align:center;">1</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Album_singles">Album singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit&amp;section=9" title="Edit section: Album singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Single information</th>
+</tr>
+<tr>
+<td align="left"><i><b>"<a href="/wiki/I_Wonder_If_Heaven_Got_a_Ghetto" title="I Wonder If Heaven Got a Ghetto">I Wonder If Heaven Got a Ghetto</a>"</b></i>
+<ul>
+<li>Released: 1997</li>
+<li>B-side: N/A</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left"><i><b>"<a href="/wiki/Do_For_Love" title="Do For Love" class="mw-redirect">Do For Love</a>"</b></i>
+<ul>
+<li>Released: 1997</li>
+<li>B-side: N/A</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Samples_later_used">Samples later used</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit&amp;section=10" title="Edit section: Samples later used">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>"I Wonder If Heaven Got a Ghetto"
+<ul>
+<li>"Black President" by <a href="/wiki/Nas" title="Nas">Nas</a> from the album <i><a href="/wiki/Untitled_(Nas_album)" title="Untitled (Nas album)" class="mw-redirect">Untitled</a></i></li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1997_(U.S.)" title="List of number-one R&amp;B albums of 1997 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1997 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_1998_(U.S.)" title="List of number-one R&amp;B albums of 1998 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 1998 (U.S.)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.allmusic.com/album/r329284">http://www.allmusic.com/album/r329284</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://dailyvault.com/toc.php5?review=697">http://dailyvault.com/toc.php5?review=697</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ew.com/ew/article/0,,63484,00.html">http://www.ew.com/ew/article/0,,63484,00.html</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Spin (3/98, pp. 130-131) - 8 (out of 10) - "... As always, there's ample self-destructive bullshit, but as a whole, the album's eerie and undeniable.... Even after death, 2Pac isn't going gentle into that good night; if this album is any gauge, he's not letting us go either, at least not anytime soon."</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.rollingstone.com/music/albumreviews/r-u-still-down-remember-me-19980122">http://www.rollingstone.com/music/albumreviews/r-u-still-down-remember-me-19980122</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2011/09/tupac-month-2pacs-discography/#2">"Tupac Month: 2Pac’s Discography"</a><span class="reference-accessdate">. Retrieved May 27, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+U+Still+Down%3F+%28Remember+Me%29&amp;rft.btitle=Tupac+Month%3A+2Pac%E2%80%99s+Discography&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2011%2F09%2Ftupac-month-2pacs-discography%2F%232&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i> May 1998</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web">Steffen Hung (1997-12-21). <a rel="nofollow" class="external text" href="http://australian-charts.com/showitem.asp?interpret=2+Pac&amp;titel=R+U+Still+Down%3F+%28Remember+Me%29&amp;cat=a">"2 Pac - R U Still Down? (Remember Me)"</a>. australian-charts.com<span class="reference-accessdate">. Retrieved 2012-03-06</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+U+Still+Down%3F+%28Remember+Me%29&amp;rft.aulast=Steffen+Hung&amp;rft.au=Steffen+Hung&amp;rft.btitle=2+Pac+-+R+U+Still+Down%3F+%28Remember+Me%29&amp;rft.date=1997-12-21&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Faustralian-charts.com%2Fshowitem.asp%3Finterpret%3D2%2BPac%26titel%3DR%2BU%2BStill%2BDown%253F%2B%2528Remember%2BMe%2529%26cat%3Da&amp;rft.pub=australian-charts.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web">Steffen Hung. <a rel="nofollow" class="external text" href="http://austriancharts.at/showitem.asp?interpret=2+Pac&amp;titel=R+U+Still+Down%3F+%28Remember+Me%29&amp;cat=a">"2 Pac - R U Still Down? (Remember Me)"</a>. austriancharts.at<span class="reference-accessdate">. Retrieved 2012-03-06</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+U+Still+Down%3F+%28Remember+Me%29&amp;rft.aulast=Steffen+Hung&amp;rft.au=Steffen+Hung&amp;rft.btitle=2+Pac+-+R+U+Still+Down%3F+%28Remember+Me%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Faustriancharts.at%2Fshowitem.asp%3Finterpret%3D2%2BPac%26titel%3DR%2BU%2BStill%2BDown%253F%2B%2528Remember%2BMe%2529%26cat%3Da&amp;rft.pub=austriancharts.at&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-allmusic1-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-allmusic1_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-allmusic1_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-allmusic1_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p50051/charts-awards">"2Pac"</a>. AllMusic<span class="reference-accessdate">. Retrieved 2012-03-06</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+U+Still+Down%3F+%28Remember+Me%29&amp;rft.btitle=2Pac&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Fp50051%2Fcharts-awards&amp;rft.pub=AllMusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://musicline.de/de/chartverfolgung_summary/title/2+PAC/R+U+Still+Down%3F+%28remember+Me%29/longplay">"Die ganze Musik im Internet: Charts, News, Neuerscheinungen, Tickets, Genres, Genresuche, Genrelexikon, Künstler-Suche, Musik-Suche, Track-Suche, Ticket-Suche"</a>. musicline.de<span class="reference-accessdate">. Retrieved 2012-03-06</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+U+Still+Down%3F+%28Remember+Me%29&amp;rft.btitle=Die+ganze+Musik+im+Internet%3A+Charts%2C+News%2C+Neuerscheinungen%2C+Tickets%2C+Genres%2C+Genresuche%2C+Genrelexikon%2C+K%C3%BCnstler-Suche%2C+Musik-Suche%2C+Track-Suche%2C+Ticket-Suche&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmusicline.de%2Fde%2Fchartverfolgung_summary%2Ftitle%2F2%2BPAC%2FR%2BU%2BStill%2BDown%253F%2B%2528remember%2BMe%2529%2Flongplay&amp;rft.pub=musicline.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web">Steffen Hung. <a rel="nofollow" class="external text" href="http://www.dutchcharts.nl/showitem.asp?interpret=2+Pac&amp;titel=R+U+Still+Down%3F+%28Remember+Me%29&amp;cat=a">"2 Pac - R U Still Down? (Remember Me)"</a>. dutchcharts.nl<span class="reference-accessdate">. Retrieved 2012-03-06</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+U+Still+Down%3F+%28Remember+Me%29&amp;rft.aulast=Steffen+Hung&amp;rft.au=Steffen+Hung&amp;rft.btitle=2+Pac+-+R+U+Still+Down%3F+%28Remember+Me%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.dutchcharts.nl%2Fshowitem.asp%3Finterpret%3D2%2BPac%26titel%3DR%2BU%2BStill%2BDown%253F%2B%2528Remember%2BMe%2529%26cat%3Da&amp;rft.pub=dutchcharts.nl&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web">Steffen Hung (1997-12-13). <a rel="nofollow" class="external text" href="http://lescharts.com/showitem.asp?interpret=2+Pac&amp;titel=R+U+Still+Down%3F+%28Remember+Me%29&amp;cat=a">"2 Pac - R U Still Down? (Remember Me)"</a>. lescharts.com<span class="reference-accessdate">. Retrieved 2012-03-06</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+U+Still+Down%3F+%28Remember+Me%29&amp;rft.aulast=Steffen+Hung&amp;rft.au=Steffen+Hung&amp;rft.btitle=2+Pac+-+R+U+Still+Down%3F+%28Remember+Me%29&amp;rft.date=1997-12-13&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Flescharts.com%2Fshowitem.asp%3Finterpret%3D2%2BPac%26titel%3DR%2BU%2BStill%2BDown%253F%2B%2528Remember%2BMe%2529%26cat%3Da&amp;rft.pub=lescharts.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web">Steffen Hung. <a rel="nofollow" class="external text" href="http://charts.org.nz/showitem.asp?interpret=2+Pac&amp;titel=R+U+Still+Down%3F+%28Remember+Me%29&amp;cat=a">"2 Pac - R U Still Down? (Remember Me)"</a>. charts.org.nz<span class="reference-accessdate">. Retrieved 2012-03-06</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+U+Still+Down%3F+%28Remember+Me%29&amp;rft.aulast=Steffen+Hung&amp;rft.au=Steffen+Hung&amp;rft.btitle=2+Pac+-+R+U+Still+Down%3F+%28Remember+Me%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcharts.org.nz%2Fshowitem.asp%3Finterpret%3D2%2BPac%26titel%3DR%2BU%2BStill%2BDown%253F%2B%2528Remember%2BMe%2529%26cat%3Da&amp;rft.pub=charts.org.nz&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web">Steffen Hung. <a rel="nofollow" class="external text" href="http://swedishcharts.com/showitem.asp?interpret=2+Pac&amp;titel=R+U+Still+Down%3F+%28Remember+Me%29&amp;cat=a">"2 Pac - R U Still Down? (Remember Me)"</a>. swedishcharts.com<span class="reference-accessdate">. Retrieved 2012-03-06</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+U+Still+Down%3F+%28Remember+Me%29&amp;rft.aulast=Steffen+Hung&amp;rft.au=Steffen+Hung&amp;rft.btitle=2+Pac+-+R+U+Still+Down%3F+%28Remember+Me%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fswedishcharts.com%2Fshowitem.asp%3Finterpret%3D2%2BPac%26titel%3DR%2BU%2BStill%2BDown%253F%2B%2528Remember%2BMe%2529%26cat%3Da&amp;rft.pub=swedishcharts.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://archive.is/gmcS">"2Pac - R U still down remember me"</a>. Chart Stats. Archived from <a rel="nofollow" class="external text" href="http://www.chartstats.com/albuminfo.php?id=11686">the original</a> on 2012-07-23<span class="reference-accessdate">. Retrieved 2012-03-06</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+U+Still+Down%3F+%28Remember+Me%29&amp;rft.btitle=2Pac+-+R+U+still+down+remember+me&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.chartstats.com%2Falbuminfo.php%3Fid%3D11686&amp;rft.pub=Chart+Stats&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/artist/_/2pac/">"2PAC | Artist"</a>. Official Charts<span class="reference-accessdate">. Retrieved 2012-03-06</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+U+Still+Down%3F+%28Remember+Me%29&amp;rft.btitle=2PAC+%26%23124%3B+Artist&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.theofficialcharts.com%2Fartist%2F_%2F2pac%2F&amp;rft.pub=Official+Charts&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Tupac_Shakur" title="Template:Tupac Shakur"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Tupac_Shakur" title="Template talk:Tupac Shakur"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Tupac_Shakur&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Tupac_Shakur_discography#Studio_albums" title="Tupac Shakur discography">Studio albums</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/2Pacalypse_Now" title="2Pacalypse Now">2Pacalypse Now</a></i></li>
+<li><i><a href="/wiki/Strictly_4_My_N.I.G.G.A.Z." title="Strictly 4 My N.I.G.G.A.Z." class="mw-redirect">Strictly 4 My N.I.G.G.A.Z.</a></i></li>
+<li><i><a href="/wiki/Thug_Life:_Volume_1" title="Thug Life: Volume 1">Thug Life: Volume 1</a></i></li>
+<li><i><a href="/wiki/Me_Against_the_World" title="Me Against the World">Me Against the World</a></i></li>
+<li><i><a href="/wiki/All_Eyez_on_Me" title="All Eyez on Me">All Eyez on Me</a></i></li>
+<li><i><a href="/wiki/The_Don_Killuminati:_The_7_Day_Theory" title="The Don Killuminati: The 7 Day Theory">The Don Killuminati: The 7 Day Theory</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Posthumous albums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><strong class="selflink">R U Still Down? (Remember Me)</strong></i></li>
+<li><i><a href="/wiki/Still_I_Rise_(album)" title="Still I Rise (album)">Still I Rise</a></i></li>
+<li><i><a href="/wiki/Until_the_End_of_Time_(Tupac_Shakur_album)" title="Until the End of Time (Tupac Shakur album)">Until the End of Time</a></i></li>
+<li><i><a href="/wiki/Better_Dayz" title="Better Dayz">Better Dayz</a></i></li>
+<li><i><a href="/wiki/Loyal_to_the_Game" title="Loyal to the Game">Loyal to the Game</a></i></li>
+<li><i><a href="/wiki/Pac%27s_Life" title="Pac's Life">Pac's Life</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Tupac_Shakur_discography#Live_albums" title="Tupac Shakur discography">Live albums</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/2Pac_Live" title="2Pac Live">2Pac Live</a></i></li>
+<li><i><a href="/wiki/Live_at_the_House_of_Blues_(Tupac_Shakur_album)" title="Live at the House of Blues (Tupac Shakur album)">Live at the House of Blues</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Tupac_Shakur_discography#Compilation_albums" title="Tupac Shakur discography">Compilation albums</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Greatest_Hits_(Tupac_Shakur_album)" title="Greatest Hits (Tupac Shakur album)">Greatest Hits</a></i></li>
+<li><i><a href="/wiki/The_Rose_That_Grew_from_Concrete" title="The Rose That Grew from Concrete">The Rose That Grew from Concrete</a></i></li>
+<li><i><a href="/wiki/The_Prophet:_The_Best_of_the_Works" title="The Prophet: The Best of the Works">The Prophet: The Best of the Works</a></i></li>
+<li><i><a href="/wiki/Nu-Mixx_Klazzics" title="Nu-Mixx Klazzics">Nu-Mixx Klazzics</a></i></li>
+<li><i><a href="/wiki/Tupac:_Resurrection_(soundtrack)" title="Tupac: Resurrection (soundtrack)">Tupac: Resurrection</a></i></li>
+<li><i><a href="/wiki/The_Rose,_Vol._2" title="The Rose, Vol. 2">The Rose, Vol. 2</a></i></li>
+<li><i><a href="/wiki/The_Prophet_Returns" title="The Prophet Returns">The Prophet Returns</a></i></li>
+<li><i><a href="/wiki/Beginnings:_The_Lost_Tapes_1988%E2%80%931991" title="Beginnings: The Lost Tapes 1988–1991">Beginnings: The Lost Tapes 1988–1991</a></i></li>
+<li><i><a href="/wiki/Nu-Mixx_Klazzics_Vol._2" title="Nu-Mixx Klazzics Vol. 2">Nu-Mixx Klazzics Vol. 2</a></i></li>
+<li><i><a href="/wiki/Best_of_2Pac" title="Best of 2Pac">Best of 2Pac</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related albums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Nothing_but_Trouble_(soundtrack)" title="Nothing but Trouble (soundtrack)"><i>Nothing But Trouble</i> (soundtrack)</a></li>
+<li><a href="/wiki/Juice_(soundtrack)" title="Juice (soundtrack)"><i>Juice</i> (soundtrack)</a></li>
+<li><a href="/wiki/Poetic_Justice_(soundtrack)" title="Poetic Justice (soundtrack)"><i>Poetic Justice</i> (soundtrack)</a></li>
+<li><a href="/wiki/Above_the_Rim_(soundtrack)" title="Above the Rim (soundtrack)"><i>Above the Rim</i> (soundtrack)</a></li>
+<li><a href="/wiki/Gridlock%27d_(soundtrack)" title="Gridlock'd (soundtrack)"><i>Gridlock'd</i> (soundtrack)</a></li>
+<li><a href="/wiki/Gang_Related_(soundtrack)" title="Gang Related (soundtrack)"><i>Gang Related</i> (soundtrack)</a></li>
+<li><i><a href="/wiki/A_2Pac_Tribute:_Dare_2_Struggle" title="A 2Pac Tribute: Dare 2 Struggle">A 2Pac Tribute: Dare 2 Struggle</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Extended plays</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Makaveli_%26_Dillinger_Don%27t_Go_2_Sleep" title="Makaveli &amp; Dillinger Don't Go 2 Sleep">Makaveli &amp; Dillinger Don't Go 2 Sleep</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Tupac_Shakur_discography#Singles" title="Tupac Shakur discography">Singles</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Brenda%27s_Got_a_Baby" title="Brenda's Got a Baby">Brenda's Got a Baby</a>"</li>
+<li>"<a href="/wiki/If_My_Homie_Calls" title="If My Homie Calls">If My Homie Calls</a>"</li>
+<li>"<a href="/wiki/Trapped_(Tupac_Shakur_song)" title="Trapped (Tupac Shakur song)">Trapped</a>"</li>
+<li>"<a href="/wiki/Holler_If_Ya_Hear_Me" title="Holler If Ya Hear Me">Holler If Ya Hear Me</a>"</li>
+<li>"<a href="/wiki/I_Get_Around_(Tupac_Shakur_song)" title="I Get Around (Tupac Shakur song)">I Get Around</a>"</li>
+<li>"<a href="/wiki/Keep_Ya_Head_Up" title="Keep Ya Head Up">Keep Ya Head Up</a>"</li>
+<li>"<a href="/wiki/Papa%27z_Song" title="Papa'z Song">Papa'z Song</a>"</li>
+<li>"<a href="/wiki/Cradle_to_the_Grave" title="Cradle to the Grave">Cradle to the Grave</a>"</li>
+<li>"<a href="/wiki/Dear_Mama" title="Dear Mama">Dear Mama</a>"</li>
+<li>"<a href="/wiki/So_Many_Tears" title="So Many Tears">So Many Tears</a>"</li>
+<li>"<a href="/wiki/Temptations_(song)" title="Temptations (song)">Temptations</a>"</li>
+<li>"<a href="/wiki/California_Love" title="California Love">California Love</a>"</li>
+<li>"<a href="/wiki/2_of_Amerikaz_Most_Wanted" title="2 of Amerikaz Most Wanted">2 of Amerikaz Most Wanted</a>"</li>
+<li>"<a href="/wiki/How_Do_U_Want_It" title="How Do U Want It">How Do U Want It</a>"</li>
+<li>"<a href="/wiki/All_Bout_U_(2Pac_Song)" title="All Bout U (2Pac Song)" class="mw-redirect">All Bout U</a>"</li>
+<li>"<a href="/wiki/I_Ain%27t_Mad_at_Cha" title="I Ain't Mad at Cha">I Ain't Mad at Cha</a>"</li>
+<li>"<a href="/wiki/Life_Goes_On_(Tupac_Shakur_song)" title="Life Goes On (Tupac Shakur song)" class="mw-redirect">Life Goes On</a>"</li>
+<li>"<a href="/wiki/Toss_It_Up" title="Toss It Up">Toss It Up</a>"</li>
+<li>"<a href="/wiki/To_Live_%26_Die_in_L.A._(song)" title="To Live &amp; Die in L.A. (song)">To Live &amp; Die in LA</a>"</li>
+<li>"<a href="/wiki/Hail_Mary_(song)" title="Hail Mary (song)" class="mw-redirect">Hail Mary</a>"</li>
+<li>* "<a href="/wiki/Wanted_Dead_or_Alive_(Tupac_Shakur_song)" title="Wanted Dead or Alive (Tupac Shakur song)">Wanted Dead or Alive</a>"</li>
+<li>"<a href="/wiki/Made_Niggaz" title="Made Niggaz">Made Niggaz</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Posthumous singles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/I_Wonder_If_Heaven_Got_a_Ghetto" title="I Wonder If Heaven Got a Ghetto">I Wonder If Heaven Got a Ghetto</a>"</li>
+<li>"<a href="/wiki/Do_for_Love" title="Do for Love">Do for Love</a>"</li>
+<li>"<a href="/wiki/Changes_(Tupac_Shakur_song)" title="Changes (Tupac Shakur song)">Changes</a>"</li>
+<li>"<a href="/wiki/Unconditional_Love_(Tupac_Shakur_song)" title="Unconditional Love (Tupac Shakur song)">Unconditional Love</a>"</li>
+<li>"<a href="/wiki/Baby_Don%27t_Cry_(Keep_Ya_Head_Up_II)" title="Baby Don't Cry (Keep Ya Head Up II)">Baby Don't Cry (Keep Ya Head Up II)</a>"</li>
+<li>"<a href="/wiki/Who_Do_U_Believe_In" title="Who Do U Believe In">Who Do U Believe In</a>"</li>
+<li>"<a href="/wiki/Until_the_End_of_Time_(Tupac_Shakur_song)" title="Until the End of Time (Tupac Shakur song)">Until the End of Time</a>"</li>
+<li>"<a href="/wiki/Letter_2_My_Unborn" title="Letter 2 My Unborn">Letter 2 My Unborn</a>"</li>
+<li>"<a href="/wiki/Thugz_Mansion" title="Thugz Mansion">Thugz Mansion</a>"</li>
+<li>"<a href="/wiki/Still_Ballin%27_(Tupac_Shakur_song)" title="Still Ballin' (Tupac Shakur song)">Still Ballin'</a>"</li>
+<li>"<a href="/wiki/Runnin%27_(Dying_to_Live)" title="Runnin' (Dying to Live)">Runnin' (Dying to Live)</a>"</li>
+<li>"<a href="/wiki/One_Day_at_a_Time_(Em%27s_Version)" title="One Day at a Time (Em's Version)">One Day at a Time (Em's Version)</a>"</li>
+<li>"<a href="/wiki/Thugs_Get_Lonely_Too" title="Thugs Get Lonely Too">Thugs Get Lonely Too</a>"</li>
+<li>"<a href="/wiki/Ghetto_Gospel" title="Ghetto Gospel">Ghetto Gospel</a>"</li>
+<li>"<a href="/wiki/Untouchable_(Tupac_Shakur_song)" title="Untouchable (Tupac Shakur song)">Untouchable</a>"</li>
+<li>"<a href="/wiki/Pac%27s_Life_(song)" title="Pac's Life (song)">Pac's Life</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other songs</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/I_Don%27t_Give_a_Fuck" title="I Don't Give a Fuck">I Don't Give a Fuck</a>"</li>
+<li>"<a href="/wiki/Runnin%27_(From_tha_Police)" title="Runnin' (From tha Police)" class="mw-redirect">Runnin' (From tha Police)</a>"</li>
+<li>"<a href="/wiki/Hit_%27Em_Up" title="Hit 'Em Up">Hit 'Em Up</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Tupac_Shakur_discography#As_featured_artist" title="Tupac Shakur discography">Featured singles</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Smile_(Scarface_song)" title="Smile (Scarface song)">Smile</a>"</li>
+<li>"<a href="/wiki/Playa_Cardz_Right" title="Playa Cardz Right">Playa Cardz Right</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Books</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Rose_That_Grew_from_Concrete_(book)" title="The Rose That Grew from Concrete (book)">The Rose That Grew from Concrete</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Tupac_Shakur#Filmography" title="Tupac Shakur">Filmography</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Nothing_but_Trouble_(1991_film)" title="Nothing but Trouble (1991 film)">Nothing but Trouble</a></i></li>
+<li><i><a href="/wiki/Juice_(film)" title="Juice (film)">Juice</a></i></li>
+<li><i><a href="/wiki/Poetic_Justice_(1993_film)" title="Poetic Justice (1993 film)" class="mw-redirect">Poetic Justice</a></i></li>
+<li><i><a href="/wiki/Above_the_Rim" title="Above the Rim">Above the Rim</a></i></li>
+<li><i><a href="/wiki/Bullet_(1996_film)" title="Bullet (1996 film)">Bullet</a></i></li>
+<li><i><a href="/wiki/Gridlock%27d" title="Gridlock'd">Gridlock'd</a></i></li>
+<li><i><a href="/wiki/Gang_Related_(film)" title="Gang Related (film)" class="mw-redirect">Gang Related</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Tupac_Shakur#Documentaries" title="Tupac Shakur">Documentaries</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Biggie_%26_Tupac" title="Biggie &amp; Tupac">Biggie &amp; Tupac</a></i></li>
+<li><i><a href="/wiki/Tupac:_Resurrection" title="Tupac: Resurrection">Tupac: Resurrection</a></i></li>
+<li><i><a href="/wiki/Tupac:_Assassination" title="Tupac: Assassination">Tupac: Assassination</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Outlawz" title="Outlawz">Outlawz</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Yaki_Kadafi" title="Yaki Kadafi">Yaki Kadafi</a></li>
+<li><a href="/wiki/Kastro_(Outlawz)" title="Kastro (Outlawz)">Kastro</a></li>
+<li><a href="/wiki/Napoleon_(rapper)" title="Napoleon (rapper)">Napoleon</a></li>
+<li><a href="/wiki/E.D.I._Mean" title="E.D.I. Mean">E.D.I. Mean</a></li>
+<li><a href="/wiki/Hussein_Fatal" title="Hussein Fatal">Hussein Fatal</a></li>
+<li><a href="/wiki/Big_Syke" title="Big Syke">Mussolini</a></li>
+<li><a href="/wiki/Mopreme_Shakur" title="Mopreme Shakur">Komani</a></li>
+<li><a href="/wiki/Young_Noble" title="Young Noble">Young Noble</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Tupac_Shakur_discography" title="Tupac Shakur discography">Discography</a></li>
+<li><a href="/wiki/Outlawz" title="Outlawz">Outlawz</a></li>
+<li><a href="/wiki/Digital_Underground" title="Digital Underground">Digital Underground</a></li>
+<li><a href="/wiki/Afeni_Shakur" title="Afeni Shakur">Afeni Shakur</a></li>
+<li><a href="/wiki/Assata_Shakur" title="Assata Shakur">Assata Shakur</a></li>
+<li><a href="/wiki/Mopreme_Shakur" title="Mopreme Shakur">Mopreme Shakur</a></li>
+<li><a href="/wiki/Mutulu_Shakur" title="Mutulu Shakur">Mutulu Shakur</a></li>
+<li><a href="/wiki/East_Coast-West_Coast_hip_hop_rivalry" title="East Coast-West Coast hip hop rivalry" class="mw-redirect">East Coast-West Coast hip hop rivalry</a></li>
+<li><a href="/wiki/Makaveli_Branded_Clothing" title="Makaveli Branded Clothing">Makaveli Branded Clothing</a></li>
+<li><a href="/wiki/Niccol%C3%B2_Machiavelli" title="Niccolò Machiavelli">Niccolò Machiavelli</a></li>
+<li><a href="/wiki/Orlando_Anderson" title="Orlando Anderson">Orlando Anderson</a></li>
+<li><a href="/wiki/Tupac_Amaru_Shakur_Center_for_the_Arts" title="Tupac Amaru Shakur Center for the Arts">Tupac Amaru Shakur Center for the Arts</a></li>
+<li><a href="/wiki/Billy_Garland_(Ex_Black_Panther)" title="Billy Garland (Ex Black Panther)" class="mw-redirect">Billy Garland</a></li>
+<li><a href="/wiki/Kadafi_(Outlawz)" title="Kadafi (Outlawz)" class="mw-redirect">Kadafi</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Tupac_Shakur" title="List of awards and nominations received by Tupac Shakur">List of awards and nominations received by Tupac Shakur</a></li>
+<li><a href="/wiki/Murder_of_Tupac_Shakur" title="Murder of Tupac Shakur">Murder of Tupac Shakur</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1193
+CPU time usage: 0.768 seconds
+Real time usage: 0.892 seconds
+Preprocessor visited node count: 1909/1000000
+Preprocessor generated node count: 9777/1500000
+Post‐expand include size: 73589/2048000 bytes
+Template argument size: 7892/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.085/10.000 seconds
+Lua memory usage: 2.9 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1848523-0!*!0!!en!4!* and timestamp 20140530153332 and revision id 603892340
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;oldid=603892340">http://en.wikipedia.org/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;oldid=603892340</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1997_albums" title="Category:1997 albums">1997 albums</a></li><li><a href="/wiki/Category:Tupac_Shakur_albums" title="Category:Tupac Shakur albums">Tupac Shakur albums</a></li><li><a href="/wiki/Category:Albums_published_posthumously" title="Category:Albums published posthumously">Albums published posthumously</a></li><li><a href="/wiki/Category:Jive_Records_albums" title="Category:Jive Records albums">Jive Records albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Johnny_%22J%22" title="Category:Albums produced by Johnny &quot;J&quot;">Albums produced by Johnny &quot;J&quot;</a></li><li><a href="/wiki/Category:Albums_produced_by_Warren_G" title="Category:Albums produced by Warren G">Albums produced by Warren G</a></li><li><a href="/wiki/Category:Albums_certified_multi-platinum_by_the_Recording_Industry_Association_of_America" title="Category:Albums certified multi-platinum by the Recording Industry Association of America">Albums certified multi-platinum by the Recording Industry Association of America</a></li><li><a href="/wiki/Category:English-language_albums" title="Category:English-language albums">English-language albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Quincy_Jones_III" title="Category:Albums produced by Quincy Jones III">Albums produced by Quincy Jones III</a></li><li><a href="/wiki/Category:Amaru_Entertainment_albums" title="Category:Amaru Entertainment albums">Amaru Entertainment albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Afeni_Shakur" title="Category:Albums produced by Afeni Shakur">Albums produced by Afeni Shakur</a></li><li><a href="/wiki/Category:Albums_produced_by_Def_Jef" title="Category:Albums produced by Def Jef">Albums produced by Def Jef</a></li><li><a href="/wiki/Category:Albums_produced_by_Live_Squad" title="Category:Albums produced by Live Squad">Albums produced by Live Squad</a></li><li><a href="/wiki/Category:Albums_produced_by_Soulshock_and_Karlin" title="Category:Albums produced by Soulshock and Karlin">Albums produced by Soulshock and Karlin</a></li><li><a href="/wiki/Category:Gangsta_rap_albums" title="Category:Gangsta rap albums">Gangsta rap albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=R+U+Still+Down%3F+%28Remember+Me%29&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=R+U+Still+Down%3F+%28Remember+Me%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/R_U_Still_Down%3F_(Remember_Me)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:R_U_Still_Down%3F_(Remember_Me)"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/R_U_Still_Down%3F_(Remember_Me)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/R_U_Still_Down%3F_(Remember_Me)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/R_U_Still_Down%3F_(Remember_Me)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;oldid=603892340" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q847524" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=R_U_Still_Down%3F_%28Remember_Me%29&amp;id=603892340" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=R+U+Still+Down%3F+%28Remember+Me%29">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=R+U+Still+Down%3F+%28Remember+Me%29&amp;oldid=603892340&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=R_U_Still_Down%3F_(Remember_Me)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/R_U_Still_Down%3F" title="R U Still Down? – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Georgian" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-sw"><a href="//sw.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Swahili" lang="sw" hreflang="sw">Kiswahili</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%BB%E3%83%A6%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%80%E3%82%A6%E3%83%B3%3F_(%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%83%BB%E3%83%9F%E3%83%BC)" title="アー・ユー・スティル・ダウン? (リメンバー・ミー) – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/R_U_Still_Down%3F" title="R U Still Down? – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Romanian" lang="ro" hreflang="ro">Română</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" title="R U Still Down? (Remember Me) – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q847524#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 April 2014 at 16:07.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/R_U_Still_Down%3F_(Remember_Me)" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":317,"wgHostname":"mw1029"});
+}</script>
+	</body>
+</html>
+	

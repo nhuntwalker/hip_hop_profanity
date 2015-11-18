@@ -1,0 +1,1123 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Straight Outta Compton - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Straight_Outta_Compton" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Straight_Outta_Compton" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cmw.PopUpMediaTransform%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Straight_Outta_Compton","wgTitle":"Straight Outta Compton","wgCurRevisionId":609670722,"wgRevisionId":609670722,"wgArticleId":194627,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from December 2013","Use mdy dates from September 2012","Articles with hAudio microformats","All articles with unsourced statements","Articles with unsourced statements from May 2014","Articles needing additional references from September 2012","All articles needing additional references","1988 albums","N.W.A albums","Albums produced by Dr. Dre","Ruthless Records albums","Compton, California","Gangsta rap albums","Albums certified multi-platinum by the Recording Industry Association of America"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Straight_Outta_Compton","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q644326"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Straight_Outta_Compton skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Straight Outta Compton</i></span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the album by N.W.A.  For other uses, see <a href="/wiki/Straight_Outta_Compton_(disambiguation)" title="Straight Outta Compton (disambiguation)">Straight Outta Compton (disambiguation)</a>.</div>
+<table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Straight Outta Compton</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:N.W.A.StraightOuttaComptonalbumcover.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d2/N.W.A.StraightOuttaComptonalbumcover.jpg/220px-N.W.A.StraightOuttaComptonalbumcover.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/d/d2/N.W.A.StraightOuttaComptonalbumcover.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/d/d2/N.W.A.StraightOuttaComptonalbumcover.jpg 2x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/N.W.A" title="N.W.A">N.W.A</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">August 8, 1988</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Recorded</th>
+<td>1987–88</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category"><a href="/wiki/West_coast_hip_hop" title="West coast hip hop" class="mw-redirect">West coast hip hop</a>, <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td>60:27</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="/wiki/Ruthless_Records" title="Ruthless Records">Ruthless</a>, <a href="/wiki/Priority_Records" title="Priority Records">Priority</a>, <a href="/wiki/EMI" title="EMI">EMI Records</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/DJ_Yella" title="DJ Yella">DJ Yella</a>, <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, <a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a> <small>(also <a href="/wiki/Executive_producer#Music" title="Executive producer">exec.</a>)</small></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/N.W.A" title="N.W.A">N.W.A</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/N.W.A._and_the_Posse" title="N.W.A. and the Posse">N.W.A. and the Posse</a></i><br />
+(1987)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Straight Outta Compton</b></i><br />
+(1988)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/100_Miles_and_Runnin%27" title="100 Miles and Runnin'">100 Miles and Runnin'</a></i><br />
+(1990)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Straight Outta Compton</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/Straight_Outta_Compton_(song)" title="Straight Outta Compton (song)">Straight Outta Compton</a>"</span><br />
+Released: May 16, 1988</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Gangsta_Gangsta_(N.W.A_song)" title="Gangsta Gangsta (N.W.A song)">Gangsta Gangsta</a>"</span><br />
+Released: October 5, 1988</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Express_Yourself_(N.W.A_song)" title="Express Yourself (N.W.A song)">Express Yourself</a>"</span><br />
+Released: March 27, 1989</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>Straight Outta Compton</b></i> is the debut <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by American <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> group <a href="/wiki/N.W.A" title="N.W.A">N.W.A</a>, released August 8, 1988 on group member <a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a>'s record label <a href="/wiki/Ruthless_Records" title="Ruthless Records">Ruthless Records</a>. Its title refers to the group's native town, <a href="/wiki/Compton,_California" title="Compton, California">Compton, California</a>. Production for the album was handled by <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, with <a href="/wiki/DJ_Yella" title="DJ Yella">DJ Yella</a> giving co-production. The album has been viewed as the pioneering record of <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a>; with its ever-present profanity and violent lyrics, it helped to give birth to this then-new sub-genre of hip hop. It has been considered groundbreaking by music writers and has had an enormous impact on the evolution of <a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast hip hop</a>.<sup id="cite_ref-Huey_1-0" class="reference"><a href="#cite_note-Huey-1"><span>[</span>1<span>]</span></a></sup></p>
+<p><i>Straight Outta Compton</i> redefined the direction of hip hop, which resulted in lyricism concerning the <a href="/wiki/Gangster" title="Gangster">gangster</a> lifestyle becoming the driving force in sales figures<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2014)">citation needed</span></a></i>]</sup>. It was later <a href="/wiki/Re-release" title="Re-release" class="mw-redirect">re-released</a> on September 24, 2002, remastered and containing four bonus tracks. An extended version of the album was released on December 4, 2007, the 20th anniversary of the original album.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Music"><span class="tocnumber">2</span> <span class="toctext">Music</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Lyrics"><span class="tocnumber">2.1</span> <span class="toctext">Lyrics</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Production"><span class="tocnumber">2.2</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Content"><span class="tocnumber">2.3</span> <span class="toctext">Content</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Reception"><span class="tocnumber">3</span> <span class="toctext">Reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Commercial_performance"><span class="tocnumber">3.1</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Critical_response"><span class="tocnumber">3.2</span> <span class="toctext">Critical response</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Accolades"><span class="tocnumber">3.3</span> <span class="toctext">Accolades</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Cultural_references"><span class="tocnumber">4</span> <span class="toctext">Cultural references</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Track_listing"><span class="tocnumber">5</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Sample_credits"><span class="tocnumber">6</span> <span class="toctext">Sample credits</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Personnel"><span class="tocnumber">7</span> <span class="toctext">Personnel</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Appearances"><span class="tocnumber">7.1</span> <span class="toctext">Appearances</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Chart_history"><span class="tocnumber">8</span> <span class="toctext">Chart history</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Sample_use"><span class="tocnumber">9</span> <span class="toctext">Sample use</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The album reached double platinum sales status, becoming the first album to reach platinum status with no airplay support and without any major tours.<sup id="cite_ref-Huey_1-1" class="reference"><a href="#cite_note-Huey-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-AMG-Bio_3-0" class="reference"><a href="#cite_note-AMG-Bio-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>As the hip hop community worldwide received the album with a high note, the members of <a href="/wiki/N.W.A" title="N.W.A">N.W.A</a> became the top stars for the emerging new era of <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a> while popularizing the lyrics of <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a> and <a href="/wiki/MC_Ren" title="MC Ren">MC Ren</a>. The album also helped to spawn many young <a href="/wiki/Rapping" title="Rapping">MCs</a> and gangsta hip hop groups from areas such as <a href="/wiki/Compton,_California" title="Compton, California">Compton, California</a>, and <a href="/wiki/South_Central_Los_Angeles" title="South Central Los Angeles" class="mw-redirect">South Central Los Angeles</a>, as many thought they had the same story to tell and the ability to pursue the career track that N.W.A had taken,<sup id="cite_ref-Huey_1-2" class="reference"><a href="#cite_note-Huey-1"><span>[</span>1<span>]</span></a></sup> hence groups such as <a href="/wiki/Compton%27s_Most_Wanted" title="Compton's Most Wanted">Compton's Most Wanted</a> coming into being.<sup id="cite_ref-mp3.com_4-0" class="reference"><a href="#cite_note-mp3.com-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Because of the recurring violent and sexual lyrics and profanity, often specifically directed at governmental organizations such as the <a href="/wiki/Los_Angeles_Police_Department" title="Los Angeles Police Department">LAPD</a>, N.W.A always enjoyed a particular reputation with <a href="/wiki/U.S._Senators" title="U.S. Senators" class="mw-redirect">U.S. Senators</a> and the <a href="/wiki/Federal_Bureau_of_Investigation" title="Federal Bureau of Investigation">Federal Bureau of Investigation</a> (FBI), as noted in the LP's published notes. This situation persisted over the years with the group's visible head, <a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a>. One of the reasons for this was "<a href="/wiki/Fuck_tha_Police" title="Fuck tha Police">Fuck tha Police</a>", the highly controversial track from the album that resulted in the FBI and the <a href="/wiki/U.S._Secret_Service" title="U.S. Secret Service" class="mw-redirect">U.S. Secret Service</a> sending a letter to Ruthless Records informing the label of their displeasure with the song's message, and N.W.A was banned from performing at several venues.<sup id="cite_ref-AMG-Bio_3-1" class="reference"><a href="#cite_note-AMG-Bio-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Eazy-e_5-0" class="reference"><a href="#cite_note-Eazy-e-5"><span>[</span>5<span>]</span></a></sup> The FBI letter only helped further popularize the album and N.W.A, and in the group's 1990 song "<a href="/wiki/100_Miles_and_Runnin%27_(song)" title="100 Miles and Runnin' (song)">100 Miles and Runnin'</a>, the follow-up to <i>Straight Outta Compton</i>, while the music video shows the crew running from the police, Dr. Dre raps "and now the FBI is all over my dick!" as a response to the FBI's warnings. Also, in his 1990 song "Amerikkka's Most Wanted", Ice Cube mocks the FBI with the line "With a pay-off, cop gotta lay off, FBI on my dick, stay off".<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2014)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=2" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Lyrics">Lyrics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=3" title="Edit section: Lyrics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image">
+<div class="center">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/75px-Gnome-mime-sound-openclipart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/100px-Gnome-mime-sound-openclipart.svg.png 2x" data-file-width="160" data-file-height="160" /></div>
+</div>
+</td>
+<td class="mbox-text plainlist" style="line-height:1.1em;">
+<div class="haudio">
+<div style="padding:2px 0;" class="fn"><a href="/wiki/File:N.W.A_-_Fuck_Tha_Police.ogg" title="File:N.W.A - Fuck Tha Police.ogg">"Fuck tha Police"</a></div>
+<div style="padding-right:4px;">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_1" style="width:220px;height:23px" poster="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="30" data-startoffset="0" data-mwtitle="N.W.A_-_Fuck_Tha_Police.ogg" data-mwprovider="local"><source src="//upload.wikimedia.org/wikipedia/en/9/9b/N.W.A_-_Fuck_Tha_Police.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (69 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="69045"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/en/9/9b/N.W.A_-_Fuck_Tha_Police.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+<div style="padding:2px 0 0 0;" class="description">One of N.W.A's most well-known and controversial songs</div>
+</div>
+<hr />
+<div class="haudio">
+<div style="padding:2px 0;" class="fn"><a href="/wiki/File:N.W.A_-_Straight_Outta_Compton.ogg" title="File:N.W.A - Straight Outta Compton.ogg">"Straight Outta Compton"</a></div>
+<div style="padding-right:4px;">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_2" style="width:220px;height:23px" poster="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="30" data-startoffset="0" data-mwtitle="N.W.A_-_Straight_Outta_Compton.ogg" data-mwprovider="local"><source src="//upload.wikimedia.org/wikipedia/en/5/57/N.W.A_-_Straight_Outta_Compton.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (69 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="68539"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/en/5/57/N.W.A_-_Straight_Outta_Compton.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+<div style="padding:2px 0 0 0;" class="description">The lead single and title track. Features aggressive lyricism</div>
+</div>
+<hr />
+<div class="haudio">
+<div style="padding:2px 0;" class="fn"><a href="/wiki/File:N.W.A_-_Gangsta_Gangsta.ogg" title="File:N.W.A - Gangsta Gangsta.ogg">"Gangsta Gangsta"</a></div>
+<div style="padding-right:4px;">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_3" style="width:220px;height:23px" poster="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="30" data-startoffset="0" data-mwtitle="N.W.A_-_Gangsta_Gangsta.ogg" data-mwprovider="local"><source src="//upload.wikimedia.org/wikipedia/en/7/71/N.W.A_-_Gangsta_Gangsta.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (65 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="65106"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/en/7/71/N.W.A_-_Gangsta_Gangsta.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+<div style="padding:2px 0 0 0;" class="description">The second single from <i>Straight Outta Compton</i></div>
+</div>
+<hr /></td>
+</tr>
+<tr>
+<td colspan="2" class="mbox-text" style="line-height:1.1em;"><span style="font-size:smaller;"><i>Problems playing these files? See <a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">media help</a>.</i></span></td>
+</tr>
+</table>
+<p>The lyrics on the album were mainly written by <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a> and <a href="/wiki/MC_Ren" title="MC Ren">MC Ren</a>. Some critics of the album expressed their view that the record glamorized Black-on-Black crime, but others stated that the group was simply showing the reality of living in the areas of <a href="/wiki/Compton,_California" title="Compton, California">Compton, California</a>, and <a href="/wiki/South_Central_Los_Angeles" title="South Central Los Angeles" class="mw-redirect">South Central Los Angeles</a>. Steve Huey in a retrospective review for <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> feels that the lyrics are more about "raising hell" than social criticism, but also feels the album is "refreshingly uncalculated" due to its humor; something he feels is rare in hardcore rap.<sup id="cite_ref-Huey_1-3" class="reference"><a href="#cite_note-Huey-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>Many critics feel that the album's lyrics glamorize gang violence. <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i> writer <a href="/wiki/David_Mills_(writer)" title="David Mills (writer)" class="mw-redirect">David Mills</a> wrote: "The hard-core street rappers defend their violent lyrics as a reflection of 'reality.' But for all the gunshots they mix into their music, rappers rarely try to dramatize that reality — a young man flat on the ground, a knot of lead in his chest, pleading as death slowly takes him in. It's easier for them to imagine themselves pulling the trigger". However, <i>Wichita Eagle-Beacon</i> editor Bud Norman noted that "They [N.W.A] don't make it sound like much fun... They describe it with the same nonjudgmental resignation that a Kansan might use about a tornado."<sup id="cite_ref-eNotes_6-0" class="reference"><a href="#cite_note-eNotes-6"><span>[</span>6<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=4" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The production on the album was generally seen as top-quality for the time,<sup id="cite_ref-Butler_7-0" class="reference"><a href="#cite_note-Butler-7"><span>[</span>7<span>]</span></a></sup> with <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>'s production performing well with his <a href="/wiki/Instrumental" title="Instrumental">instrumentals</a> and <a href="/wiki/Drum_machine" title="Drum machine">drum machine</a> beats, and <a href="/wiki/DJ_Yella" title="DJ Yella">DJ Yella</a>'s turntable scratches and overall co-production seen as proficient by hip hop critics. Some critics find it somewhat sparse and low-budget given the significance of the album and compared with other producers of the time such as <a href="/wiki/Marley_Marl" title="Marley Marl">Marley Marl</a>.<sup id="cite_ref-Huey_1-4" class="reference"><a href="#cite_note-Huey-1"><span>[</span>1<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Content">Content</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=5" title="Edit section: Content">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The album's most controversial track, "<a href="/wiki/Fuck_tha_Police" title="Fuck tha Police">Fuck tha Police</a>", was partly responsible for the fame of <a href="/wiki/N.W.A" title="N.W.A">N.W.A</a> as the "World's Most Dangerous Group",<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> and it did not appear on the censored version of the album.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> The song "<a href="/wiki/Gangsta_Gangsta_(N.W.A._song)" title="Gangsta Gangsta (N.W.A. song)" class="mw-redirect">Gangsta Gangsta</a>" talks about the danger and violence in <a href="/wiki/South_Los_Angeles" title="South Los Angeles">South Central</a> and <a href="/wiki/Compton,_California" title="Compton, California">Compton</a>. "<a href="/wiki/Express_Yourself_(N.W.A._song)" title="Express Yourself (N.W.A. song)" class="mw-redirect">Express Yourself</a>" speaks of the ideas of free expression and the constraints placed on performers by radio censorship. Every N.W.A member except <a href="/wiki/DJ_Yella" title="DJ Yella">DJ Yella</a> recorded a solo song. <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, who mostly produced rather than performed, did a solo effort in the single "Express Yourself." <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a> performed on "I Ain't tha 1" and "A Bitch Iz a Bitch". <a href="/wiki/MC_Ren" title="MC Ren">MC Ren</a> made his solo performance in the songs "If It Ain't Ruff" and "Quiet on tha Set". <a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a>'s only solo recording was a remix of the song "8 Ball," which appeared on N.W.A's previous album <i><a href="/wiki/N.W.A_and_the_Posse" title="N.W.A and the Posse" class="mw-redirect">N.W.A and the Posse</a></i>. The only guests on the album were Ruthless Records ghostwriter <a href="/wiki/The_D.O.C." title="The D.O.C.">the D.O.C.</a>, who appeared on "Parental Discretion Iz Advised," <a href="/wiki/Rapping" title="Rapping">rhyming</a> the intro, and founding N.W.A member <a href="/wiki/Arabian_Prince" title="Arabian Prince">Arabian Prince</a>, who contributed minor vocals on "Something 2 Dance 2."</p>
+<p>Seven tracks from the album were released on <i><a href="/wiki/Greatest_Hits_(N.W.A)" title="Greatest Hits (N.W.A)" class="mw-redirect">N.W.A's Greatest Hits</a></i>: "<a href="/wiki/Gangsta_Gangsta_(N.W.A._song)" title="Gangsta Gangsta (N.W.A. song)" class="mw-redirect">Gangsta Gangsta</a>", "<a href="/wiki/Fuck_tha_Police" title="Fuck tha Police">Fuck tha Police</a>", "<a href="/wiki/Straight_Outta_Compton_(song)" title="Straight Outta Compton (song)">Straight Outta Compton</a> (extended mix)," "If It Ain't Ruff," "I Ain't tha 1," "Express Yourself," and a <a href="/wiki/Bonus_track" title="Bonus track">bonus track</a> from the remastered version, "A Bitch Iz a Bitch".</p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=6" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=7" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Huey_1-5" class="reference"><a href="#cite_note-Huey-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Mao_10-0" class="reference"><a href="#cite_note-Mao-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/4 stars"><img alt="3.5/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Kot_11-0" class="reference"><a href="#cite_note-Kot-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle">B<sup id="cite_ref-Christgau_12-0" class="reference"><a href="#cite_note-Christgau-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i></td>
+<td style="vertical-align:middle">favorable<sup id="cite_ref-Hilburn_13-0" class="reference"><a href="#cite_note-Hilburn-13"><span>[</span>13<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a></td>
+<td style="vertical-align:middle">9.7/10<sup id="cite_ref-Linhardt_14-0" class="reference"><a href="#cite_note-Linhardt-14"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/PopMatters" title="PopMatters">PopMatters</a></td>
+<td style="vertical-align:middle">favorable<sup id="cite_ref-Fowler_15-0" class="reference"><a href="#cite_note-Fowler-15"><span>[</span>15<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Caramanica_16-0" class="reference"><a href="#cite_note-Caramanica-16"><span>[</span>16<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Sputnikmusic" title="Sputnikmusic">Sputnikmusic</a></td>
+<td style="vertical-align:middle">4.0/5<sup id="cite_ref-Butler_7-1" class="reference"><a href="#cite_note-Butler-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Yahoo!_Music" title="Yahoo! Music">Yahoo! Music</a></td>
+<td style="vertical-align:middle">favorable<sup id="cite_ref-Duff_17-0" class="reference"><a href="#cite_note-Duff-17"><span>[</span>17<span>]</span></a></sup></td>
+</tr>
+</table>
+<p>The album first appeared on music charts in 1989, peaking on the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> Top LPs</a> chart at number 37, and peaking on <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i><span style="padding-left:0.1em;">'</span>s <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top Soul LPs</a> at number nine.<sup id="cite_ref-AMG-Sales_18-0" class="reference"><a href="#cite_note-AMG-Sales-18"><span>[</span>18<span>]</span></a></sup> It re-entered the charts in 2003, peaking on the UK Albums Top 75 at number thirty-five, and on the Ireland Albums Top 75 at number twenty.<sup id="cite_ref-acharts_19-0" class="reference"><a href="#cite_note-acharts-19"><span>[</span>19<span>]</span></a></sup></p>
+<p>The album has sold over three million copies<sup id="cite_ref-Eazy-e_5-1" class="reference"><a href="#cite_note-Eazy-e-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-LA-Times_20-0" class="reference"><a href="#cite_note-LA-Times-20"><span>[</span>20<span>]</span></a></sup> and was certified double <a href="/wiki/RIAA_certification" title="RIAA certification">Platinum</a> on March 27, 1992.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> It was <a href="/wiki/N.W.A" title="N.W.A">N.W.A</a>'s best selling album, as their debut, <i><a href="/wiki/N.W.A_and_the_Posse" title="N.W.A and the Posse" class="mw-redirect">N.W.A and the Posse</a></i>, was certified Gold.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> Their final album, <i><a href="/wiki/Niggaz4Life" title="Niggaz4Life">Niggaz4Life</a></i>, was certified platinum.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup> According to <a href="/wiki/Priority_Records" title="Priority Records">Priority Records</a>' calculations, 80% of sales were in the suburbs, beyond the boundaries of black neighborhoods.<sup id="cite_ref-LA-Times_20-1" class="reference"><a href="#cite_note-LA-Times-20"><span>[</span>20<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Critical_response">Critical response</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=8" title="Edit section: Critical response">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Upon its release, the album was generally well received by most music critics. Greg Kot of the <i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i> gave <i>Straight Outta Compton</i> three and a half out of four stars and praised its production.<sup id="cite_ref-Kot_11-1" class="reference"><a href="#cite_note-Kot-11"><span>[</span>11<span>]</span></a></sup> The <i><a href="/wiki/Richmond_Times-Dispatch" title="Richmond Times-Dispatch">Richmond Times-Dispatch</a></i><span style="padding-left:0.1em;">'</span>s Mark Holmberg described the album as "a preacher-provoking, mother-maddening, reality-stinks diatribe that wallows in gangs, doping, drive-by shootings, brutal sexism, cop slamming and racism".<sup id="cite_ref-eNotes_6-1" class="reference"><a href="#cite_note-eNotes-6"><span>[</span>6<span>]</span></a></sup> <i><a href="/wiki/Newsweek" title="Newsweek">Newsweek</a></i> noted that <i>Straight Outta Compton</i> "introduced some of the most grotesquely exciting music ever made", and added that "Hinting at gang roots, and selling themselves on those hints, they project a gangster mystique that pays no attention where criminality begins and marketing lets off".<sup id="cite_ref-eNotes_6-2" class="reference"><a href="#cite_note-eNotes-6"><span>[</span>6<span>]</span></a></sup> Following its 2002 re-release, Jon Caramanica of <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> magazine cited <i>Straight Outta Compton</i> as one of hip-hop's most crucial albums, calling it a "bombastic, cacophonous car ride through Los Angeles' burnt-out and ignored hoods."<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p>
+<p>"The lyrics on this record are unrelenting in their unpleasantness," complained Peter Clarke in <i><a href="/wiki/Hi-Fi_News_%26_Record_Review" title="Hi-Fi News &amp; Record Review">Hi-Fi News &amp; Record Review</a></i>, awarding the album a rock-bottom "D:4" rating. "The cumulative effect is like listening to an endless fight next door. The music on this record is without a hint of dynamics or melody."<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Accolades">Accolades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=9" title="Edit section: Accolades">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>"It's definitely the best rap record I've ever heard," remarked <a href="/wiki/Sin%C3%A9ad_O%27Connor" title="Sinéad O'Connor">Sinéad O'Connor</a>. "Of course, I can see why people might be offended by the lyrics. But as a human being and not as a public figure, I'm not offended at all. I realise from reading interviews with people like Ice Cube, when they explain that they're not talking about women in general but about particular women they know, it makes a lot of sense. I think the sound of the record is brilliant. I really like hardcore hip-hop and reggae stuff, so it's right up my flight of stairs."<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></p>
+<p>"Rappers haven't always referred to themselves as 'niggers' on record," remarked <i><a href="/wiki/Hip_Hop_Connection" title="Hip Hop Connection">Hip Hop Connection</a></i>, placing it at No.3 on their countdown of rap's best albums. "It came as something of a shock then that here were five politically astute black men calling themselves niggers and their women bitches at a time when Afrocentric rap was the current vogue… <i>Straight Outta Compton</i> sounded so exciting, insignificant details such as realism and integrity could be overlooked."<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup></p>
+<p>In 2003, the TV network <a href="/wiki/VH1" title="VH1">VH1</a>, named <i>Straight Outta Compton</i> the 62nd greatest album of all time.</p>
+<p>It was ranked ten in <i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i> magazine's "100 Greatest Albums, 1985–2005".</p>
+<p>In 1998, the album was selected as one of The Source's 100 Best Rap Albums.</p>
+<p>It is the group's only album on <a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a>'s list of the <a href="/wiki/500_Greatest_Albums_of_All_Time" title="500 Greatest Albums of All Time" class="mw-redirect">500 Greatest Albums of All Time</a> (ranked #144), and the first hip-hop album ever to get a 5-star rating from them in their initial review, and when comedian <a href="/wiki/Chris_Rock" title="Chris Rock">Chris Rock</a> wrote an article for the magazine about the 25 Greatest Hip-Hop Albums of all time in 2005, <i>Straight Outta Compton</i> was number one on his list.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup></p>
+<p>The album is ranked the 109th best of all time by Acclaimedmusic.net.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup></p>
+<p>In 2006, the album was listed in the book <i><a href="/wiki/1001_Albums_You_Must_Hear_Before_You_Die" title="1001 Albums You Must Hear Before You Die">1001 Albums You Must Hear Before You Die</a></i>.<sup id="cite_ref-1001Albums_30-0" class="reference"><a href="#cite_note-1001Albums-30"><span>[</span>30<span>]</span></a></sup> The same year, <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i> magazine ranked it as one of the 100 greatest albums of all time.<sup id="cite_ref-TIME_31-0" class="reference"><a href="#cite_note-TIME-31"><span>[</span>31<span>]</span></a></sup></p>
+<p><i><a href="/wiki/Q_magazine" title="Q magazine">Q</a></i> magazine voted it one of the 'Top 50 Titles Of 1989. <i><a href="/wiki/Alternative_Press" title="Alternative Press">Alternative Press</a></i> (7/95, p.&#160;88) ranked it #45 in AP's list of the 'Top 99 Of '85–'95'. <a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)"><i>Vibe</i></a> (12/99, p.&#160;164) included it in Vibe's 100 Essential Albums of the 20th century. In 2004, <i>DigitaArts</i> included the album's cover in its list of the 25 Best Albums Covers.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup> In 2012, <i><a href="/wiki/Slant_Magazine" title="Slant Magazine">Slant</a></i> listed the album at #18 on its list of "Best Albums of the 1980s" saying "The juxtaposition of midtempo, Cali-languid grooves and violent wordplay positioned Straight Outta Compton as the sound of the West Coast firing on New York's Fort Sumpter in what would become '90s culture's biggest Uncivil War."<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Cultural_references">Cultural references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=10" title="Edit section: Cultural references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The album cover and title has parodied by American cartoonist <a href="/wiki/Bill_Holbrook" title="Bill Holbrook">Bill Holbrook</a> for his <i><a href="/wiki/Kevin_and_Kell" title="Kevin and Kell">Kevin and Kell</a></i> 2004 collection as "Straight Outta Computers";<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup> <a href="/wiki/Wales" title="Wales">Welsh</a> novelty hip-hop group Goldie Lookin' Chain for their 2005 album, "Straight Outta Newport" <sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup> and on <a href="/wiki/%22Weird_Al%22_Yankovic" title="&quot;Weird Al&quot; Yankovic">"Weird Al" Yankovic</a>'s 2006 album, <i><a href="/wiki/Straight_Outta_Lynwood" title="Straight Outta Lynwood">Straight Outta Lynwood</a></i>. <a href="/wiki/Punk_rock" title="Punk rock">Punk rock</a> band <a href="/wiki/NOFX" title="NOFX">NOFX</a> released a song titled Straight Outta Massachusetts on their <a href="/wiki/Cokie_the_Clown" title="Cokie the Clown">Cokie the Clown</a> <a href="/wiki/Extended_Play" title="Extended Play" class="mw-redirect">EP</a>.</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=11" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>All songs were produced by <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> and <a href="/wiki/DJ_Yella" title="DJ Yella">DJ Yella</a>.</p>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Performer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Straight_Outta_Compton_(song)" title="Straight Outta Compton (song)">Straight Outta Compton</a>" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>, <a href="/wiki/MC_Ren" title="MC Ren">MC Ren</a></td>
+<td style="vertical-align: top;">Ice Cube, MC Ren, Eazy-E</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:19</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Fuck_tha_Police" title="Fuck tha Police">Fuck tha Police</a>" &#160;</td>
+<td style="vertical-align: top;">Ice Cube, MC Ren</td>
+<td style="vertical-align: top;">Ice Cube, MC Ren, Eazy-E</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:45</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Gangsta_Gangsta_(N.W.A_song)" title="Gangsta Gangsta (N.W.A song)">Gangsta Gangsta</a>" &#160;</td>
+<td style="vertical-align: top;">Ice Cube, MC Ren</td>
+<td style="vertical-align: top;">Ice Cube, Eazy-E</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:36</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"If It Ain't Ruff" &#160;</td>
+<td style="vertical-align: top;">MC Ren</td>
+<td style="vertical-align: top;">MC Ren</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:34</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"Parental Discretion Iz Advised" <span style="font-size:85%;">(featuring <a href="/wiki/The_D.O.C." title="The D.O.C.">The D.O.C.</a>)</span></td>
+<td style="vertical-align: top;">Ice Cube, MC Ren, The D.O.C.</td>
+<td style="vertical-align: top;">The D.O.C., Dr. Dre, MC Ren, Ice Cube, Eazy-E</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:16</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"8 Ball" <span style="font-size:85%;">(remix)</span></td>
+<td style="vertical-align: top;">Ice Cube</td>
+<td style="vertical-align: top;">Eazy-E</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:52</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Something Like That" &#160;</td>
+<td style="vertical-align: top;">MC Ren</td>
+<td style="vertical-align: top;">MC Ren, Dr. Dre</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:35</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Express_Yourself_(N.W.A_song)" title="Express Yourself (N.W.A song)">Express Yourself</a>" &#160;</td>
+<td style="vertical-align: top;">Ice Cube</td>
+<td style="vertical-align: top;">Dr. Dre</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:25</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"Compton's N the House" <span style="font-size:85%;">(remix)</span></td>
+<td style="vertical-align: top;">MC Ren</td>
+<td style="vertical-align: top;">MC Ren, Dr. Dre</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:20</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"I Ain't tha 1" &#160;</td>
+<td style="vertical-align: top;">Ice Cube</td>
+<td style="vertical-align: top;">Ice Cube</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:54</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Panic_Zone" title="Panic Zone">Dope Man</a>" <span style="font-size:85%;">(remix)</span></td>
+<td style="vertical-align: top;">Ice Cube, Krazy D</td>
+<td style="vertical-align: top;">Ice Cube, Eazy-E, Krazy D</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:20</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"Quiet on tha Set" &#160;</td>
+<td style="vertical-align: top;">MC Ren</td>
+<td style="vertical-align: top;">MC Ren</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:59</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"Something 2 Dance 2" &#160;</td>
+<td style="vertical-align: top;"><a href="/wiki/Arabian_Prince" title="Arabian Prince">Arabian Prince</a>, Ice Cube, The D.O.C.</td>
+<td style="vertical-align: top;">Arabian Prince, DJ Yella, Dr. Dre, Eazy-E</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:22</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">2002 reissue</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Performer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Express Yourself" <span style="font-size:85%;">(extended mix)</span></td>
+<td style="vertical-align: top;">Ice Cube, MC Ren</td>
+<td style="vertical-align: top;">Dr. Dre, MC Ren, Ice Cube</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:42</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Bonus Beats" &#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="vertical-align: top;">&#160;</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:03</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Straight Outta Compton" <span style="font-size:85%;">(extended mix)</span></td>
+<td style="vertical-align: top;">Ice Cube, The D.O.C., MC Ren</td>
+<td style="vertical-align: top;">MC Ren, Eazy-E, Ice Cube</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:53</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"A Bitch Iz a Bitch" &#160;</td>
+<td style="vertical-align: top;">Ice Cube</td>
+<td style="vertical-align: top;">Ice Cube</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:10</td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">2007 reissue</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Performer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">14.</td>
+<td style="text-align: left; vertical-align: top;">"Fuck tha Police" <span style="font-size:85%;">(tribute remix)</span></td>
+<td style="vertical-align: top;">MC Ren, Eazy-E</td>
+<td style="vertical-align: top;"><a href="/wiki/Bone_Thugs-n-Harmony" title="Bone Thugs-n-Harmony">Bone Thugs-n-Harmony</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:02</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">15.</td>
+<td style="text-align: left; vertical-align: top;">"Gangsta Gangsta" <span style="font-size:85%;">(tribute remix)</span></td>
+<td style="vertical-align: top;">Eazy-E, MC Ren</td>
+<td style="vertical-align: top;"><a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>, <a href="/wiki/C-Murder" title="C-Murder">C-Murder</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:39</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">16.</td>
+<td style="text-align: left; vertical-align: top;">"Dopeman" <span style="font-size:85%;">(tribute remix)</span></td>
+<td style="vertical-align: top;">Ice Cube, Eazy-E</td>
+<td style="vertical-align: top;"><a href="/wiki/Mack_10" title="Mack 10">Mack 10</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:01</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">17.</td>
+<td style="text-align: left; vertical-align: top;">"If It Ain't Ruff" <span style="font-size:85%;">(tribute remix)</span></td>
+<td style="vertical-align: top;">MC Ren</td>
+<td style="vertical-align: top;"><a href="/wiki/WC_(rapper)" title="WC (rapper)">WC</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:44</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">18.</td>
+<td style="text-align: left; vertical-align: top;">"Compton's in the House" <span style="font-size:85%;">(live)</span></td>
+<td style="vertical-align: top;">Dr. Dre, Eazy-E</td>
+<td style="vertical-align: top;">Dr. Dre, MC Ren</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2:02</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Sample_credits">Sample credits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=12" title="Edit section: Sample credits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sample informations taken from <a rel="nofollow" class="external text" href="http://www.whosampled.com/artist/N.W.A/">whosampled</a></p>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><b>"Straight Outta Compton"</b>
+<ul>
+<li>"Funky Drummer" by <a href="/wiki/James_Brown" title="James Brown">James Brown</a></li>
+<li>"You'll Like It Too" by <a href="/wiki/Funkadelic" title="Funkadelic">Funkadelic</a></li>
+<li>"West Coast Poplock" by Ronnie Hudson and the Street People</li>
+<li>"Get Me Back on Time, Engine No. 9" by <a href="/wiki/Wilson_Pickett" title="Wilson Pickett">Wilson Pickett</a></li>
+<li>"<a href="/wiki/Amen_break" title="Amen break">Amen, Brother</a>" by <a href="/wiki/The_Winstons" title="The Winstons">The Winstons</a></li>
+<li>"One for the Treble" by <a href="/wiki/Davy_DMX" title="Davy DMX">Davy DMX</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>"Fuck tha Police"</b>
+<ul>
+<li>"<a href="/wiki/Funky_President" title="Funky President" class="mw-redirect">Funky President</a>" by <a href="/wiki/James_Brown" title="James Brown">James Brown</a></li>
+<li>"It's My Thing" by <a href="/wiki/Marva_Whitney" title="Marva Whitney">Marva Whitney</a></li>
+<li>"Boogie Back" by <a href="/wiki/Roy_Ayers" title="Roy Ayers">Roy Ayers</a></li>
+<li>"Feel Good" by <a href="/wiki/Fancy_(band)" title="Fancy (band)">Fancy</a></li>
+<li>"<a href="/wiki/Funky_Drummer" title="Funky Drummer">Funky Drummer</a>" by James Brown</li>
+<li>"Ruthless Villain" by Eazy-E</li>
+<li>"<a href="/wiki/Be_Thankful_for_What_You_Got_(song)" title="Be Thankful for What You Got (song)">Be Thankful for What You Got</a>" by <a href="/wiki/William_DeVaughn" title="William DeVaughn">William DeVaughn</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>"Gangsta Gangsta"</b>
+<ul>
+<li>"Weak at the Knees" by <a href="/wiki/Steve_Arrington" title="Steve Arrington">Steve Arrington</a></li>
+<li>"Troglodyte" by <a href="/wiki/Jimmy_Castor_Bunch" title="Jimmy Castor Bunch" class="mw-redirect">Jimmy Castor Bunch</a></li>
+<li>"Be Thankful for What You Got" by William Devaughn</li>
+<li>"Impeach the President" by <a href="/wiki/The_Honey_Drippers_(soul_band)" title="The Honey Drippers (soul band)" class="mw-redirect">The Honey Drippers</a></li>
+<li>"N.T." by <a href="/wiki/Kool_%26_the_Gang" title="Kool &amp; the Gang">Kool &amp; the Gang</a></li>
+<li>"Funky Worm" by <a href="/wiki/Ohio_Players" title="Ohio Players">Ohio Players</a></li>
+<li>"Prison" by <a href="/wiki/Richard_Pryor" title="Richard Pryor">Richard Pryor</a></li>
+<li>"My Philosophy" by <a href="/wiki/Boogie_Down_Productions" title="Boogie Down Productions">Boogie Down Productions</a> (<a href="/wiki/KRS-One" title="KRS-One">KRS-One</a>)</li>
+<li>"<a href="/wiki/La_Di_Da_Di" title="La Di Da Di">La Di Da Di</a>" by <a href="/wiki/Doug_E._Fresh" title="Doug E. Fresh">Doug E. Fresh</a> and <a href="/wiki/Slick_Rick" title="Slick Rick">Slick Rick</a></li>
+<li>"Girls" by <a href="/wiki/Beastie_Boys" title="Beastie Boys">Beastie Boys</a></li>
+<li>"Ruthless Villain" by Eazy-E</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>"If It Ain't Ruff"</b>
+<ul>
+<li>"A Star in the Ghetto" by <a href="/wiki/Average_White_Band" title="Average White Band">Average White Band</a></li>
+<li>"Quiet on tha Set" by N.W.A</li>
+<li>"Straight Outta Compton" by N.W.A</li>
+<li>"Ruthless Villain" by Eazy-E</li>
+<li>"<a href="/wiki/Don%27t_Believe_the_Hype" title="Don't Believe the Hype">Don't Believe the Hype</a>" by <a href="/wiki/Public_Enemy_(band)" title="Public Enemy (band)" class="mw-redirect">Public Enemy</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>"Parental Discretion Iz Advised"</b>
+<ul>
+<li>"I Turned You On" by <a href="/wiki/The_Isley_Brothers" title="The Isley Brothers">The Isley Brothers</a></li>
+</ul>
+</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><b>"8 Ball"</b>
+<ul>
+<li>"It's My Beat" by <a href="/wiki/Sweet_Tea" title="Sweet Tea" class="mw-redirect">Sweet Tea</a></li>
+<li>"Be Thankful for What You Got" by William Devaughn</li>
+<li>"Yes, We Can Can" by <a href="/wiki/Pointer_Sisters" title="Pointer Sisters" class="mw-redirect">Pointer Sisters</a></li>
+<li>"<a href="/wiki/(You_Gotta)_Fight_for_Your_Right_(To_Party!)" title="(You Gotta) Fight for Your Right (To Party!)">(You Gotta) Fight for Your Right (To Party!)</a>", "The New Style", "Girls", "Paul Revere", and "<a href="/wiki/Hold_It,_Now_Hit_It" title="Hold It, Now Hit It" class="mw-redirect">Hold It, Now Hit It</a>" by Beastie Boys</li>
+<li>"Terminator X Speaks With His Hands" by Public Enemy</li>
+<li>"Too Much Posse" by Public Enemy</li>
+<li>"<a href="/wiki/Hollywood_Swinging" title="Hollywood Swinging">Hollywood Swinging</a>" by Kool &amp; the Gang</li>
+<li>"<a href="/wiki/Let%27s_Get_It_On" title="Let's Get It On">Let's Get It On</a>" by <a href="/wiki/Marvin_Gaye" title="Marvin Gaye">Marvin Gaye</a></li>
+<li>"Go See the Doctor" by <a href="/wiki/Kool_Moe_Dee" title="Kool Moe Dee">Kool Moe Dee</a></li>
+<li>"<a href="/wiki/Boyz-n-the-Hood" title="Boyz-n-the-Hood">Boyz-n-the-Hood</a>" by Eazy-E</li>
+<li>"My Melody" by <a href="/wiki/Eric_B._%26_Rakim" title="Eric B. &amp; Rakim">Eric B. &amp; Rakim</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>"Something Like That"</b>
+<ul>
+<li>"Down on the Avenue" by <a href="/wiki/Fat_Larry%27s_Band" title="Fat Larry's Band">Fat Larry's Band</a></li>
+<li>"Take the Money and Run" by <a href="/wiki/Steve_Miller_Band" title="Steve Miller Band">Steve Miller Band</a></li>
+<li>"I Think I'd Do It" by <a href="/wiki/Z._Z._Hill" title="Z. Z. Hill">Z. Z. Hill</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>"Express Yourself"</b>
+<ul>
+<li>"Express Yourself" by <a href="/wiki/Charles_Wright_%26_the_Watts_103rd_Street_Rhythm_Band" title="Charles Wright &amp; the Watts 103rd Street Rhythm Band">Charles Wright &amp; the Watts 103rd Street Rhythm Band</a></li>
+<li>"Dopeman" by N.W.A</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>"Compton's in the House"</b>
+<ul>
+<li>"Something Like That" by N.W.A</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>"I Ain't tha 1"</b>
+<ul>
+<li>"The Message (Inspiration)" by <a href="/wiki/Brass_Construction" title="Brass Construction">Brass Construction</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>"Dopeman"</b>
+<ul>
+<li>"Dance to the Drummer's Beat" by <a href="/wiki/Herman_Kelly_%26_Life" title="Herman Kelly &amp; Life" class="mw-redirect">Herman Kelly &amp; Life</a></li>
+<li>"Funky Worm" by Ohio Players</li>
+<li>"My Posse" by <a href="/wiki/C.I.A._(group)" title="C.I.A. (group)">C.I.A</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>"Quiet on the Set"</b>
+<ul>
+<li>"Funky Drummer" by James Brown</li>
+<li>"I Get Lifted" by <a href="/wiki/George_McCrae" title="George McCrae">George McCrae</a></li>
+<li>"Rock Creek Park" by <a href="/wiki/The_Blackbyrds" title="The Blackbyrds">The Blackbyrds</a></li>
+<li>"Take the Money and Run" by Steve Miller Band</li>
+<li>"Straight Outta Compton" by N.W.A</li>
+<li>"On the Bugged Tip" by <a href="/wiki/Big_Daddy_Kane" title="Big Daddy Kane">Big Daddy Kane</a></li>
+<li>"Rebel Without a Pause" by <a href="/wiki/Public_Enemy_(group)" title="Public Enemy (group)">Public Enemy</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>"Something 2 Dance 2"</b>
+<ul>
+<li>"You're the One for Me" by <a href="/wiki/D-Train" title="D-Train" class="mw-redirect">D-Train</a></li>
+<li>"Dance to the Music" by <a href="/wiki/Sly_%26_the_Family_Stone" title="Sly &amp; the Family Stone" class="mw-redirect">Sly &amp; the Family Stone</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>"A Bitch Iz a Bitch"</b>
+<ul>
+<li>"Papa Was Too" by Joe Tex</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=13" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Artwork: <a href="/w/index.php?title=Helane_Freeman&amp;action=edit&amp;redlink=1" class="new" title="Helane Freeman (page does not exist)">Helane Freeman</a></li>
+<li>Engineer: Donovan Sound</li>
+<li>Executive Producer: Eric Wright (<a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a>)</li>
+<li>Mastered by: Big Bass Brian</li>
+<li>Photography: Eric Poppleton</li>
+<li>Producers: <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, <a href="/wiki/DJ_Yella" title="DJ Yella">DJ Yella</a></li>
+</ul>
+<h3><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=14" title="Edit section: Appearances">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/MC_Ren" title="MC Ren">MC Ren</a> performs on 7 tracks.</li>
+<li><a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a> performs on 7 tracks.</li>
+<li><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a> performs on 6 tracks.</li>
+<li><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> performs on 5 tracks.</li>
+<li><a href="/wiki/DJ_Yella" title="DJ Yella">DJ Yella</a> performs on 1 track.</li>
+<li><a href="/wiki/Arabian_Prince" title="Arabian Prince">Arabian Prince</a> performs on 1 track.</li>
+<li><a href="/wiki/The_D.O.C." title="The D.O.C.">The D.O.C.</a> performs on 1 track as guest artist.</li>
+</ul>
+<h2><span class="mw-headline" id="Chart_history">Chart history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=15" title="Edit section: Chart history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tr>
+<th>Charts<sup id="cite_ref-AMG-Sales_18-1" class="reference"><a href="#cite_note-AMG-Sales-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-acharts_19-1" class="reference"><a href="#cite_note-acharts-19"><span>[</span>19<span>]</span></a></sup></th>
+<th>Peak<br />
+position</th>
+</tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> Top LPs</a></td>
+<td align="center">37</td>
+</tr>
+<tr>
+<td>US <i>Billboard</i> <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top Soul LPs</a></td>
+<td align="center">9</td>
+</tr>
+<tr>
+<td>Ireland Albums Top 75</td>
+<td align="center">20</td>
+</tr>
+<tr>
+<td>UK Albums Top 75</td>
+<td align="center">35</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Sample_use">Sample use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=16" title="Edit section: Sample use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px;"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>. <span class="hide-when-compact">Please help improve this section by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(September 2012)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png" width="40" height="40" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>contains information of unclear or questionable <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_an_indiscriminate_collection_of_information" title="Wikipedia:What Wikipedia is not">importance</a> or <a href="/wiki/Wikipedia:Guide_to_writing_better_articles" title="Wikipedia:Guide to writing better articles" class="mw-redirect">relevance</a> to the article's subject matter</b>. Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Straight_Outta_Compton&amp;action=edit">improve this article</a> by clarifying or removing <a href="/wiki/Wikipedia:Out_of_scope" title="Wikipedia:Out of scope">superfluous information</a>. <small><i>(September 2012)</i></small></span></td>
+</tr>
+</table>
+<p><a href="/wiki/Sampling_(music)" title="Sampling (music)">Sampling</a> of songs from <i>Straight Outta Compton</i>.</p>
+<ul>
+<li>"Straight Outta Compton"
+<ul>
+<li>"Murder Rap" by <a href="/wiki/Above_the_Law_(group)" title="Above the Law (group)">Above the Law</a> from the album <i><a href="/wiki/Livin%27_Like_Hustlers" title="Livin' Like Hustlers">Livin' Like Hustlers</a></i></li>
+<li>"Murder Rap" by <a href="/wiki/Insane_Clown_Posse" title="Insane Clown Posse">Insane Clown Posse</a> from the album <i><a href="/wiki/The_Wraith:_Shangri-La" title="The Wraith: Shangri-La">The Wraith: Shangri-La</a></i></li>
+<li>"Crooked Ass Nigga" by <a href="/wiki/2Pac" title="2Pac" class="mw-redirect">2Pac</a> from the album <i><a href="/wiki/2Pacalypse_Now" title="2Pacalypse Now">2Pacalypse Now</a></i></li>
+<li>"Straight Outta Southside" by <a href="/wiki/G-Unit" title="G-Unit">G-Unit</a> from the album <i><a href="/wiki/T.O.S:_Terminate_on_Sight" title="T.O.S: Terminate on Sight" class="mw-redirect">T.O.S: Terminate on Sight</a></i></li>
+<li>"<a href="/wiki/D%27You_Know_What_I_Mean%3F" title="D'You Know What I Mean?">D'You Know What I Mean?</a>" by <a href="/wiki/Oasis_(band)" title="Oasis (band)">Oasis</a> from the album "<a href="/wiki/Be_Here_Now_(album)" title="Be Here Now (album)">Be Here Now</a>"</li>
+<li>"Scarface" by <a href="/wiki/Geto_Boys" title="Geto Boys">Geto Boys</a> from the album "<a href="/wiki/Grip_It!_On_That_Other_Level" title="Grip It! On That Other Level">Grip It! On That Other Level</a>"</li>
+</ul>
+</li>
+<li>"Fuck the Police"
+<ul>
+<li>"Crooked Ass Nigga" by <a href="/wiki/2Pac" title="2Pac" class="mw-redirect">2Pac</a> from the album <i><a href="/wiki/2Pacalypse_Now" title="2Pacalypse Now">2Pacalypse Now</a></i></li>
+</ul>
+</li>
+<li>"Gangsta Gangsta"
+<ul>
+<li>"Crooked Ass Nigga" by <a href="/wiki/2Pac" title="2Pac" class="mw-redirect">2Pac</a> from the album <i><a href="/wiki/2Pacalypse_Now" title="2Pacalypse Now">2Pacalypse Now</a></i></li>
+<li>"Bury Me Alive" by <a href="/wiki/Twiztid" title="Twiztid">Twiztid</a> from the album <i><a href="/wiki/Mostasteless" title="Mostasteless">Mostasteless</a></i></li>
+<li>"Funky Worm" by <a href="/wiki/Ohio_Players" title="Ohio Players">Ohio Players</a> from the album <i><a href="/wiki/Pleasure" title="Pleasure">Pleasure</a></i></li>
+</ul>
+</li>
+<li>"A Bitch is a Bitch"
+<ul>
+<li>"Bitches &amp; Sisters" by <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> from the album <i><a href="/wiki/The_Blueprint%C2%B2:_The_Gift_%26_The_Curse" title="The Blueprint²: The Gift &amp; The Curse" class="mw-redirect">The Blueprint²: The Gift &amp; The Curse</a></i></li>
+<li>"Da Bichez" by <a href="/wiki/Jeru_the_Damaja" title="Jeru the Damaja">Jeru the Damaja</a> from the album <i><a href="/wiki/The_Sun_Rises_in_the_East" title="The Sun Rises in the East">The Sun Rises in the East</a></i></li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Huey-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Huey_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Huey_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Huey_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Huey_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Huey_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Huey_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Steve Huey. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/straight-outta-compton-mw0000653426">"Straight Outta Compton - N.W.A&#160;: AllMusic"</a>. <i>allmusic.com</i><span class="reference-accessdate">. Retrieved September 1, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStraight+Outta+Compton&amp;rft.atitle=Straight+Outta+Compton+-+N.W.A+%3A+AllMusic&amp;rft.aulast=Steve+Huey&amp;rft.au=Steve+Huey&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fstraight-outta-compton-mw0000653426&amp;rft.jtitle=allmusic.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Omar Burgess (October 10, 2007). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.5805/title.hhdx-news-bits-n-w-a-and-eazy-e">HHDX News Bits: N.W.A And Eazy-E</a>. HipHopDX. Retrieved October 10, 2007.</span></li>
+<li id="cite_note-AMG-Bio-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-AMG-Bio_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AMG-Bio_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Stephen Thomas Erlewine. <a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p77">N.W.A Biography</a>. Allmusic. Accessed October 4, 2007</span></li>
+<li id="cite_note-mp3.com-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-mp3.com_4-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mp3.com/albums/22123/summary.html">Compton's Most Wanted</a>. MP3.com. Retrieved September 30, 2007.</span></li>
+<li id="cite_note-Eazy-e-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Eazy-e_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Eazy-e_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eazy-e.com/eazy_e-timeline.php">Eazy-E Timeline</a>. Eazy-E.com. Accessed October 4, 2007</span></li>
+<li id="cite_note-eNotes-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-eNotes_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-eNotes_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-eNotes_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Ed. Michael L. LaBlanc. (December 4, 2006). <a rel="nofollow" class="external text" href="http://www.enotes.com/contemporary-musicians/n-w-biography">"N.W.A." Contemporary Musicians</a>. eNotes. Retrieved October 10, 2007</span></li>
+<li id="cite_note-Butler-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Butler_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Butler_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Butler, Nick. <a rel="nofollow" class="external text" href="http://www.sputnikmusic.com/album.php?albumid=1433">Review: <i>Straight Outta Compton</i></a>. <a href="/wiki/Sputnikmusic" title="Sputnikmusic">Sputnikmusic</a>. Retrieved on July 22, 2009.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">LA Times <a rel="nofollow" class="external text" href="http://www.daveyd.com/nwalatimespt1.html">NWA:Straight Outta Compton pt</a>. <i>Los Angeles Times</i>. Retrieved July 25, 2008</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.artistdirect.com/nad/store/artist/album/0,,1742756,00.html">Artistdirect.com Straight Outta Compton Clean Version</a>. Artistdirect. Retrieved October 22, 2007.</span></li>
+<li id="cite_note-Mao-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mao_10-0">^</a></b></span> <span class="reference-text">Mao, Chairman. <a rel="nofollow" class="external text" href="http://www.blender.com/guide/reissue/50619/straight-outta-comptonefil4zaggin.html">Review: <i>Straight Outta Compton</i></a>. <i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i>. Retrieved on July 22, 2009.</span></li>
+<li id="cite_note-Kot-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kot_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kot_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Kot, Greg. "<a rel="nofollow" class="external text" href="http://news.google.com/archivesearch?as_q=&amp;num=10&amp;hl=en&amp;btnG=Search+Archives&amp;as_epq=Straight+Outta+Compton&amp;as_oq=&amp;as_eq=&amp;as_user_ldate=7%2F13%2F1989&amp;as_user_hdate=7%2F13%2F1989&amp;lr=&amp;as_src=Chicago+Tribune&amp;as_price=p0&amp;as_scoring=a">Review: <i>Straight Outta Compton</i></a>". <i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i>: 13.A. July 13, 1989. (Transcription of original review at <a href="/wiki/Talk:Straight_Outta_Compton#Chicago_Tribune_review" title="Talk:Straight Outta Compton">talk page</a>)</span></li>
+<li id="cite_note-Christgau-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Christgau_12-0">^</a></b></span> <span class="reference-text">Christgau, Robert. <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=N.W.A">Consumber Guide: <i>Straight Outta Compton</i></a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>. Retrieved on July 22, 2009.</span></li>
+<li id="cite_note-Hilburn-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hilburn_13-0">^</a></b></span> <span class="reference-text">Hilburn, Robert. <a rel="nofollow" class="external text" href="http://articles.latimes.com/1989-07-02/entertainment/ca-4870_1_rock-albums?pg=1">Review: <i>Straight Outta Compton</i></a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. Retrieved on July 22, 2009.</span></li>
+<li id="cite_note-Linhardt-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Linhardt_14-0">^</a></b></span> <span class="reference-text">Linhardt, Alex. <a rel="nofollow" class="external text" href="http://pitchfork.com/reviews/albums/11791-straight-outta-compton-efil4zaggin/">Review: <i>Straight Outta Compton</i></a>. <a href="/wiki/Pitchfork_Media" title="Pitchfork Media">Pitchfork Media</a>. Retrieved on July 22, 2009.</span></li>
+<li id="cite_note-Fowler-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fowler_15-0">^</a></b></span> <span class="reference-text">Fowler, Shan. <a rel="nofollow" class="external text" href="http://www.popmatters.com/pm/review/nwa-straight/">Review: <i>Straight Outta Compton</i></a>. <a href="/wiki/PopMatters" title="PopMatters">PopMatters</a>. Retrieved on July 22, 2009.</span></li>
+<li id="cite_note-Caramanica-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Caramanica_16-0">^</a></b></span> <span class="reference-text">Caramanica, Jon. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20071106071456/http://www.rollingstone.com/reviews/album/128098/review/6211658/straightouttacompton">Review: <i>Straight Outta Compton</i></a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. Retrieved on July 22, 2009.</span></li>
+<li id="cite_note-Duff-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Duff_17-0">^</a></b></span> <span class="reference-text">Duff, S.L. <a rel="nofollow" class="external text" href="http://ca.music.yahoo.com/read/review/12034387">Review: <i>Straight Outta Compton</i></a>. <a href="/wiki/Yahoo!_Music" title="Yahoo! Music">Yahoo! Music</a>. Retrieved on July 22, 2009.</span></li>
+<li id="cite_note-AMG-Sales-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-AMG-Sales_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AMG-Sales_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p77">N.W.A – Discography, Charts and Awards</a>. Allmusic. Accessed October 9, 2007.</span></li>
+<li id="cite_note-acharts-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-acharts_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-acharts_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://acharts.us/album/16362">N.W.A – Straight Outta Compton Chart Positions</a>. aCharts. Accessed October 9, 2007.</span></li>
+<li id="cite_note-LA-Times-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-LA-Times_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LA-Times_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.daveyd.com/nwalatimespt1.html">Straight Outta Compton article</a>. <i>Los Angeles Times</i>. Accessed October 4, 2007</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=Straight%20Outta%20Compton&amp;artist=N.W.A&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2007&amp;sort=Artist&amp;perPage=25">RIAA Searchable database – <i>Straight Outta Compton</i></a>. RIAA. Retrieved October 10, 2007.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=N.W.A%20and%20the%20Posse&amp;artist=&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2007&amp;sort=Artist&amp;perPage=25">RIAA Searchable database – <i>N.W.A and the Posse</i></a>. RIAA. Retrieved October 10, 2007.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=Efil4Zaggin&amp;artist=&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2007&amp;sort=Artist&amp;perPage=25">RIAA Searchable database – <i>Efil4Zaggin</i></a>. RIAA. Retrieved October 10, 2007.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Rolling Stone magazine. <a rel="nofollow" class="external text" href="http://www.rollingstone.com/artists/nwa/albums/album/128098/review/6211658/straight_outta_compton">Straight<sup class="noprint Inline-Template"><span style="white-space: nowrap;">[</span></sup></a><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since December 2013">dead link</span></a></span>] Outta Compton album review. Rolling Stone. Retrieved July 25, 2008</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Hi-Fi_News_%26_Record_Review" title="Hi-Fi News &amp; Record Review">Hi-Fi News &amp; Record Review</a></i>, December 1989</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>, 15 November 1990</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Hip_Hop_Connection" title="Hip Hop Connection">Hip Hop Connection</a></i>, July 1994</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Chris Rock. <a rel="nofollow" class="external text" href="http://rateyourmusic.com/list/tha_flu/chris_rocks_top_25_hip_hop_albums">Chris Rock's Top 25 Hip Hop Albums</a>. RateYourMusic. Accessed October 6, 2007</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.acclaimedmusic.net">Acclaimed Music website</a>. AcclaimedMusic. Accessed October 6, 2007.</span></li>
+<li id="cite_note-1001Albums-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-1001Albums_30-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rocklistmusic.co.uk/steveparker/1001albums.htm">1001 Albums You Must Hear Before You Die</a> Rocklistmusic. Retrieved October 25, 2007</span></li>
+<li id="cite_note-TIME-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-TIME_31-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.time.com/time/2006/100albums/index.html">The All-TIME 100 Albums</a> <i>TIME</i>. Accessed January 4, 2008</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Staff (June 14, 2004). <a rel="nofollow" class="external text" href="http://www.digitalartsonline.co.uk/features/index.cfm?featureid=1082">The 25 Best Album Covers</a>. <i>DigitalArts</i>. Retrieved on September 27, 2010.</span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.slantmagazine.com/music/feature/best-albums-of-the-1980s/308/page_9">http://www.slantmagazine.com/music/feature/best-albums-of-the-1980s/308/page_9</a></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.paperbackswap.com/Straight-Outta-Computers-Bill-Holbrook/book/1929462875/">http://www.paperbackswap.com/Straight-Outta-Computers-Bill-Holbrook/book/1929462875/</a></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://pitchfork.com/reviews/albums/3674-straight-outta-newport/">http://pitchfork.com/reviews/albums/3674-straight-outta-newport/</a></span></li>
+</ol>
+</div>
+<dl>
+<dt>Bibliography</dt>
+</dl>
+<div class="refbegin" style="">
+<ul>
+<li><span class="citation book"><a href="/wiki/Nathan_Brackett" title="Nathan Brackett">Nathan Brackett</a>, Christian Hoard (2004). <i><a href="/wiki/Rolling_Stone_Album_Guide" title="Rolling Stone Album Guide" class="mw-redirect">The New Rolling Stone Album Guide</a></i>. Completely Revised and Updated 4th Edition. <a href="/wiki/Simon_%26_Schuster" title="Simon &amp; Schuster">Simon and Schuster</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7432-0169-8" title="Special:BookSources/0-7432-0169-8">0-7432-0169-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStraight+Outta+Compton&amp;rft.aulast=Nathan+Brackett%2C+Christian+Hoard&amp;rft.au=Nathan+Brackett%2C+Christian+Hoard&amp;rft.btitle=The+New+Rolling+Stone+Album+Guide&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-7432-0169-8&amp;rft.pub=Simon+and+Schuster&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.radio3net.ro/dbartists/supersearch/Ti4gVy4gQS4=/N.%20W.%20A."><i>Straight Outta Compton</i></a> (<a href="/wiki/Adobe_Flash" title="Adobe Flash">Adobe Flash</a>) at <a href="/wiki/Radio3Net" title="Radio3Net">Radio3Net</a> (streamed copy where licensed)</li>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/NWA-Straight-Outta-Compton/master/26117">Straight Outta Compton</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nytimes.com/1989/12/10/arts/outlaw-rock-more-skirmishes-censorship-front-pop-view-more-skirmishes-censorship.html">"Outlaw Rock: More Skirmishes on the Censorship Front"</a> — <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:N.W.A" title="Template:N.W.A"><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:N.W.A" title="Template talk:N.W.A"><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:N.W.A&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><a href="/wiki/N.W.A" title="N.W.A">N.W.A</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/Arabian_Prince" title="Arabian Prince">Arabian Prince</a></li>
+<li><a href="/wiki/DJ_Yella" title="DJ Yella">DJ Yella</a></li>
+<li><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a></li>
+<li><a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a></li>
+<li><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a></li>
+<li><a href="/wiki/MC_Ren" title="MC Ren">MC Ren</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Studio albums</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><strong class="selflink">Straight Outta Compton</strong></i></li>
+<li><i><a href="/wiki/Niggaz4Life" title="Niggaz4Life">Niggaz4Life</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Extended plays</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/100_Miles_and_Runnin%27" title="100 Miles and Runnin'">100 Miles and Runnin'</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/N.W.A._and_the_Posse" title="N.W.A. and the Posse">N.W.A. and the Posse</a></i></li>
+<li><i><a href="/wiki/Greatest_Hits_(N.W.A_album)" title="Greatest Hits (N.W.A album)">Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Straight_Outta_Compton:_N.W.A_10th_Anniversary_Tribute" title="Straight Outta Compton: N.W.A 10th Anniversary Tribute">10th Anniversary Tribute</a></i></li>
+<li><i><a href="/wiki/The_N.W.A_Legacy,_Vol._1:_1988%E2%80%931998" title="The N.W.A Legacy, Vol. 1: 1988–1998">The N.W.A. Legacy, Vol. 1</a></i></li>
+<li><i><a href="/wiki/The_N.W.A_Legacy,_Vol._2" title="The N.W.A Legacy, Vol. 2">The N.W.A. Legacy, Vol. 2</a></i></li>
+<li><i><a href="/wiki/The_Best_of_N.W.A:_The_Strength_of_Street_Knowledge" title="The Best of N.W.A: The Strength of Street Knowledge">The Strength of Street Knowledge</a></i></li>
+<li><i><a href="/wiki/Family_Tree_(N.W.A_album)" title="Family Tree (N.W.A album)">Family Tree</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Panic_Zone" title="Panic Zone">Panic Zone</a>"</li>
+<li>"<a href="/wiki/Straight_Outta_Compton_(song)" title="Straight Outta Compton (song)">Straight Outta Compton</a>"</li>
+<li>"<a href="/wiki/Gangsta_Gangsta_(N.W.A_song)" title="Gangsta Gangsta (N.W.A song)">Gangsta Gangsta</a>"</li>
+<li>"<a href="/wiki/Express_Yourself_(N.W.A_song)" title="Express Yourself (N.W.A song)">Express Yourself</a>"</li>
+<li>"<a href="/wiki/100_Miles_and_Runnin%27_(song)" title="100 Miles and Runnin' (song)">100 Miles and Runnin'</a>"</li>
+<li>"<a href="/wiki/Appetite_for_Destruction_(song)" title="Appetite for Destruction (song)">Appetite for Destruction</a>"</li>
+<li>"<a href="/wiki/Alwayz_into_Somethin%27" title="Alwayz into Somethin'">Alwayz into Somethin'</a>"</li>
+<li>"<a href="/wiki/Chin_Check" title="Chin Check">Chin Check</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other songs</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Fuck_tha_Police" title="Fuck tha Police">Fuck tha Police</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/N.W.A_discography" title="N.W.A discography">Discography</a></li>
+<li><i><a href="/wiki/Niggaz4Life:_The_Only_Home_Video" title="Niggaz4Life: The Only Home Video">Niggaz4Life: The Only Home Video</a></i></li>
+<li><a href="/wiki/Jerry_Heller" title="Jerry Heller">Jerry Heller</a></li>
+<li><a href="/wiki/The_D.O.C." title="The D.O.C.">The D.O.C.</a></li>
+<li><a href="/wiki/Compton,_California" title="Compton, California">Compton, California</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:N.W.A" title="Book:N.W.A">Book:N.W.A</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1011
+CPU time usage: 3.212 seconds
+Real time usage: 3.359 seconds
+Preprocessor visited node count: 11136/1000000
+Preprocessor generated node count: 61858/1500000
+Post‐expand include size: 99468/2048000 bytes
+Template argument size: 15348/2048000 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 11/500
+Lua time usage: 0.141/10.000 seconds
+Lua memory usage: 2.51 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:194627-0!*!0!!en!4!* and timestamp 20140531021444 and revision id 609670722
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Straight_Outta_Compton&amp;oldid=609670722">http://en.wikipedia.org/w/index.php?title=Straight_Outta_Compton&amp;oldid=609670722</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1988_albums" title="Category:1988 albums">1988 albums</a></li><li><a href="/wiki/Category:N.W.A_albums" title="Category:N.W.A albums">N.W.A albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Dr._Dre" title="Category:Albums produced by Dr. Dre">Albums produced by Dr. Dre</a></li><li><a href="/wiki/Category:Ruthless_Records_albums" title="Category:Ruthless Records albums">Ruthless Records albums</a></li><li><a href="/wiki/Category:Compton,_California" title="Category:Compton, California">Compton, California</a></li><li><a href="/wiki/Category:Gangsta_rap_albums" title="Category:Gangsta rap albums">Gangsta rap albums</a></li><li><a href="/wiki/Category:Albums_certified_multi-platinum_by_the_Recording_Industry_Association_of_America" title="Category:Albums certified multi-platinum by the Recording Industry Association of America">Albums certified multi-platinum by the Recording Industry Association of America</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_December_2013" title="Category:Articles with dead external links from December 2013">Articles with dead external links from December 2013</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_September_2012" title="Category:Use mdy dates from September 2012">Use mdy dates from September 2012</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2014" title="Category:Articles with unsourced statements from May 2014">Articles with unsourced statements from May 2014</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2012" title="Category:Articles needing additional references from September 2012">Articles needing additional references from September 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Straight+Outta+Compton&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Straight+Outta+Compton" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Straight_Outta_Compton"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Straight_Outta_Compton"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Straight_Outta_Compton" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Straight_Outta_Compton" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Straight_Outta_Compton" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Straight_Outta_Compton&amp;oldid=609670722" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Straight_Outta_Compton&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q644326" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Straight_Outta_Compton&amp;id=609670722" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Straight+Outta+Compton">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Straight+Outta+Compton&amp;oldid=609670722&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Straight_Outta_Compton&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Straight_Outta_Compton" title="Straight Outta Compton – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Straight_Outta_Compton" title="Straight Outta Compton – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Straight_Outta_Compton" title="Straight Outta Compton – Estonian" lang="et" hreflang="et">Eesti</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Straight_Outta_Compton" title="Straight Outta Compton – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Straight_Outta_Compton" title="Straight Outta Compton – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Straight_Outta_Compton" title="Straight Outta Compton – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/Straight_Outta_Compton" title="Straight Outta Compton – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Straight_Outta_Compton" title="Straight Outta Compton – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Straight_Outta_Compton" title="Straight Outta Compton – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Straight_Outta_Compton" title="Straight Outta Compton – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Straight_Outta_Compton" title="Straight Outta Compton – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Straight_Outta_Compton" title="Straight Outta Compton – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Straight_Outta_Compton" title="Straight Outta Compton – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Straight_Outta_Compton" title="Straight Outta Compton – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q644326#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 May 2014 at 13:38.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Straight_Outta_Compton" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"mw.PopUpMediaTransform":"loading","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mw.PopUpMediaTransform&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":261,"wgHostname":"mw1065"});
+}</script>
+	</body>
+</html>
+	

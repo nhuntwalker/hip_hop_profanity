@@ -1,0 +1,1233 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Suit (album) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf6" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Suit_(album)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Suit_(album)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Suit_(album)&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Suit_(album)" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Suit_(album)","wgTitle":"Suit (album)","wgCurRevisionId":602185624,"wgRevisionId":602185624,"wgArticleId":2272653,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","Articles with hAudio microformats","Certification Table Entry usages for Australia","Albums certified gold by the Australian Recording Industry Association","Certification Table Entry usages for New Zealand","Albums certified gold by Recorded Music NZ","Certification Table Entry usages for United Kingdom","Albums certified platinum by the British Phonographic Industry","Certification Table Entry usages for United States","Albums certified multi-platinum by the Recording Industry Association of America","2004 albums","Albums produced by Jazze Pha","Albums produced by Jermaine Dupri","Albums produced by The Neptunes","Nelly albums","Universal Records albums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Suit_(album)","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["es-es","es"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2469814"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf6/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Suit_album skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+			<div id="mw-js-message" style="display:none;"></div>
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>Suit</i> (album)</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent haudio" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue;">Suit</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Nelly_-_Suit_-_CD_cover.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/64/Nelly_-_Suit_-_CD_cover.jpg/220px-Nelly_-_Suit_-_CD_cover.jpg" width="220" height="188" srcset="//upload.wikimedia.org/wikipedia/en/6/64/Nelly_-_Suit_-_CD_cover.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/6/64/Nelly_-_Suit_-_CD_cover.jpg 2x" data-file-width="300" data-file-height="256" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio album</a> by <span class="contributor"><a href="/wiki/Nelly" title="Nelly">Nelly</a></span></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Released</th>
+<td class="published">September&#160;13,&#160;2004<span style="display:none">&#160;(<span class="bday dtstart published updated">2004-09-13</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td class="category">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></li>
+<li><a href="/wiki/Contemporary_R%26B" title="Contemporary R&amp;B">R&amp;B</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Length</th>
+<td><span class="duration"><span class="min">48</span>:<span class="s">43</span></span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td>
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li><a href="/wiki/Universal_Records" title="Universal Records">Universal</a></li>
+<li><a href="/wiki/Derrty_Entertainment" title="Derrty Entertainment">Derrty</a></li>
+<li>Fo' Reel</li>
+<li>Islands Records</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td>
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li><a href="/wiki/Nelly" title="Nelly">Nelly</a> <small>(<a href="/wiki/Executive_producer" title="Executive producer">exec.</a>)</small></li>
+<li><a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a></li>
+<li><a href="/wiki/Jazze_Pha" title="Jazze Pha">Jazze Pha</a></li>
+<li>Doe</li>
+<li>AHM</li>
+<li>Jayson "Koko" Bridges</li>
+<li>Kuya Productions</li>
+<li>Soulshock and Karlin</li>
+<li>Ryan Bowser</li>
+<li>Big Boi</li>
+<li>Beat Bullies</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue;"><a href="/wiki/Nelly" title="Nelly">Nelly</a> chronology</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<table style="width:100%; background: transparent; text-align: center; line-height: 1.4em; vertical-align: top">
+<tr>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0"><i><a href="/wiki/Sweat_(Nelly_album)" title="Sweat (Nelly album)">Sweat</a></i><br />
+(2004)</td>
+<td style="width: 33%; padding: 0.2em 0.1em 0.2em 0.1em"><i><b>Suit</b></i><br />
+(2004)</td>
+<td style="width: 33%; padding: 0.2em 0 0.2em 0.1em"><i><a href="/wiki/Sweatsuit_(album)" title="Sweatsuit (album)">Sweatsuit</a></i><br />
+(2005)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+<tr style="text-align:center;">
+<th style="background:lightsteelblue;" colspan="3"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Suit</i></th>
+</tr>
+<tr style="text-align:left; vertical-align:top; line-height:11px;">
+<td colspan="3">
+<ol>
+<li><span class="item"><span class="fn">"<a href="/wiki/My_Place" title="My Place">My Place</a>"</span><br />
+Released: August 3, 2004</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Over_and_Over_(Nelly_song)" title="Over and Over (Nelly song)">Over and Over</a>"</span><br />
+Released: October 12, 2004</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/%27N%27_Dey_Say" title="'N' Dey Say">'N' Dey Say</a>"</span><br />
+Released: May 23, 2005</span></li>
+</ol>
+</td>
+</tr>
+</table>
+<p><i><b>Suit</b></i> is the fourth <a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">studio album</a> by <a href="/wiki/United_States" title="United States">American</a> rapper <a href="/wiki/Nelly" title="Nelly">Nelly</a>. It was originally intended to be released on August 17, 2004, before being delayed and released on September 13, 2004 through <a href="/wiki/Universal_Records" title="Universal Records">Universal Records</a>. Production for the album was handled by several producers, including <a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a>, <a href="/wiki/Jazze_Pha" title="Jazze Pha">Jazze Pha</a>, Doe, AHM, Jayson "Koko" Bridges, Kuya Productions, Soulshock and Karlin, Ryan Bowser, Big Boi and Beat Bullies. Released in conjunction with <i><a href="/wiki/Sweat_(Nelly_album)" title="Sweat (Nelly album)">Sweat</a></i>, Nelly originally intended to release a single album before conceptualizing and releasing two albums simultaneously, both of which would contrast each other's themes. Nelly characterized <i>Sweat</i> as "more up-tempo" and "energetic" while describing <i>Suit</i> as more of "a grown-up and sexy vibe [...] it's more melodic".</p>
+<p>The album produced three singles: "<a href="/wiki/My_Place" title="My Place">My Place</a>", "<a href="/wiki/Over_and_Over_(Nelly_song)" title="Over and Over (Nelly song)">Over and Over</a>" and "<a href="/wiki/%27N%27_Dey_Say" title="'N' Dey Say">'N' Dey Say</a>". Its lead single, "My Place", was a commercial success, topping the <a href="/wiki/Recorded_Music_NZ" title="Recorded Music NZ">New Zealand</a>, <a href="/wiki/ARIA_Chart" title="ARIA Chart" class="mw-redirect">Australian</a> and <a href="/wiki/UK_Singles_Chart" title="UK Singles Chart">UK</a> single charts, becoming Nelly's second number one on the former and latter charts. It peaked at number four on the US <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>. "Over and Over" featuring <a href="/wiki/Country_music" title="Country music">country</a> singer <a href="/wiki/Tim_McGraw" title="Tim McGraw">Tim McGraw</a> was also a success, peaking at number three on the Hot 100, and topping several charts worldwide, including the <a href="/wiki/Irish_Recorded_Music_Association" title="Irish Recorded Music Association">Irish</a>, Australian and UK Singles Charts. "My Place" and "Over and Over" were certified gold and platinum by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA), for shipments of 500,000 and one million copies, respectively. <i>Suit</i><span style="padding-left:0.1em;">'</span>s final single, "'N' Dey Say", achieved moderate chart success, peaking at number sixty-four on the Hot 100 and number six on the UK Singles Chart.</p>
+<p><i>Suit</i> was generally well received by <a href="/wiki/Music_journalism" title="Music journalism">music critics</a>, who compared it with <i>Sweat</i>, praising both album's contrasting themes and musical content, though with some criticism also targeted towards their content, in regards to inconsistencies. <i>Suit</i> topped the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart in its opening week, selling 396,000 copies, becoming Nelly's third consecutive US number-one album. It went on to be certified three times platinum by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA), for shipments of three million copies. The album was nominated for a <a href="/wiki/Grammy_Award_for_Best_Rap_Album" title="Grammy Award for Best Rap Album">Grammy Award for Best Rap Album</a> at the <a href="/wiki/47th_Grammy_Awards" title="47th Grammy Awards" class="mw-redirect">47th Grammy Awards</a>, losing to <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>'s <i><a href="/wiki/The_College_Dropout" title="The College Dropout">The College Dropout</a></i>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background_and_release"><span class="tocnumber">1</span> <span class="toctext">Background and release</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Composition"><span class="tocnumber">2</span> <span class="toctext">Composition</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Singles"><span class="tocnumber">3</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Critical_reception"><span class="tocnumber">4</span> <span class="toctext">Critical reception</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Commercial_performance"><span class="tocnumber">5</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Track_listing"><span class="tocnumber">6</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Personnel"><span class="tocnumber">7</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Charts"><span class="tocnumber">8</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Certifications"><span class="tocnumber">9</span> <span class="toctext">Certifications</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Release_history"><span class="tocnumber">10</span> <span class="toctext">Release history</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background_and_release">Background and release</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Suit_(album)&amp;action=edit&amp;section=1" title="Edit section: Background and release">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Tim_McGraw.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Tim_McGraw.jpg/200px-Tim_McGraw.jpg" width="200" height="326" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Tim_McGraw.jpg/300px-Tim_McGraw.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Tim_McGraw.jpg/400px-Tim_McGraw.jpg 2x" data-file-width="1392" data-file-height="2268" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Tim_McGraw.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="/wiki/Country_music" title="Country music">Country</a> singer <a href="/wiki/Tim_McGraw" title="Tim McGraw">Tim McGraw</a> contributes vocals on "<a href="/wiki/Over_and_Over_(Nelly_song)" title="Over and Over (Nelly song)">Over and Over</a>".</div>
+</div>
+</div>
+<p>While recording material for his third studio album, <a href="/wiki/Nelly" title="Nelly">Nelly</a> originally had the intention of producing one album. Songs were being recorded at a steady pace, with Nelly composing more ideas, to which he established the idea of two albums released simultaneously to house all the tracks.<sup id="cite_ref-mtv_1-0" class="reference"><a href="#cite_note-mtv-1"><span>[</span>1<span>]</span></a></sup> On April 27, 2004, Nelly's representative initially described the upcoming albums as thematically dissimilar, "one is more melodic and party-oriented in the vein of records like "<a href="/wiki/E.I._(song)" title="E.I. (song)">E.I.</a>" and "Tip Drill", while the other was described as having a "harder edge".<sup id="cite_ref-mtv1_2-0" class="reference"><a href="#cite_note-mtv1-2"><span>[</span>2<span>]</span></a></sup> Nelly would release singles accompanied by music videos from both albums.<sup id="cite_ref-mtv1_2-1" class="reference"><a href="#cite_note-mtv1-2"><span>[</span>2<span>]</span></a></sup> Talking to <a href="/wiki/MTV_News" title="MTV News">MTV News</a>, Nelly went on to describe the differences between both albums; their titles of <i>Sweat</i> and <i>Suit</i> were announced on May 27, 2004.<sup id="cite_ref-mtv2_3-0" class="reference"><a href="#cite_note-mtv2-3"><span>[</span>3<span>]</span></a></sup> He noted <i>Sweat</i> as "more up-tempo" and "energetic", while characterizing <i>Suit</i> as more of "a grown-up and sexy vibe [...] it's more melodic".<sup id="cite_ref-mtv_1-1" class="reference"><a href="#cite_note-mtv-1"><span>[</span>1<span>]</span></a></sup> <i>Sweat</i> and <i>Suit</i> were originally intended to be released on August 17, 2004, but were pushed back and released on September 14 in the United States, Canada and Japan.<sup id="cite_ref-mtv2_3-1" class="reference"><a href="#cite_note-mtv2-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-amazon_us_4-0" class="reference"><a href="#cite_note-amazon_us-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-amazon_canada_5-0" class="reference"><a href="#cite_note-amazon_canada-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-amazon_japan_6-0" class="reference"><a href="#cite_note-amazon_japan-6"><span>[</span>6<span>]</span></a></sup> <i>Suit</i> was released on September 13, 2004 in the United Kingdom and Germany.<sup id="cite_ref-amazon_uk_7-0" class="reference"><a href="#cite_note-amazon_uk-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-amazon_germany_8-0" class="reference"><a href="#cite_note-amazon_germany-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Composition">Composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Suit_(album)&amp;action=edit&amp;section=2" title="Edit section: Composition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The lead single "<a href="/wiki/My_Place" title="My Place">My Place</a>" interlopes composition from "Isn't It a Shame" by <a href="/wiki/Girl_group" title="Girl group">girl group</a> <a href="/wiki/Labelle" title="Labelle">Labelle</a> and <a href="/wiki/Randy_DeBarge" title="Randy DeBarge">Randy DeBarge</a>'s 1982 "<a href="/wiki/I_Like_It_(DeBarge_song)" title="I Like It (DeBarge song)">I Like It</a>".<sup id="cite_ref-liner_9-0" class="reference"><a href="#cite_note-liner-9"><span>[</span>9<span>]</span></a></sup> It also samples elements of the <a href="/wiki/The_Del-Vikings" title="The Del-Vikings">The Del-Vikings</a>' 1957 <a href="/wiki/Soul_music" title="Soul music">soul</a> ballad "<a href="/wiki/Come_Go_with_Me" title="Come Go with Me">Come Go with Me</a>", which Jason Birchmeier of <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> recognized as a large influence to the song.<sup id="cite_ref-liner_9-1" class="reference"><a href="#cite_note-liner-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-Birchmeier_10-0" class="reference"><a href="#cite_note-Birchmeier-10"><span>[</span>10<span>]</span></a></sup> Bordering between the genres of <a href="/wiki/Hip-hop" title="Hip-hop" class="mw-redirect">hip-hop</a> and <a href="/wiki/Contemporary_R%26B" title="Contemporary R&amp;B">R&amp;B</a>,<sup id="cite_ref-Juon_11-0" class="reference"><a href="#cite_note-Juon-11"><span>[</span>11<span>]</span></a></sup> the song is primarily an "adult-oriented Southern-tinged hip-hop love song,"<sup id="cite_ref-Sanneh_12-0" class="reference"><a href="#cite_note-Sanneh-12"><span>[</span>12<span>]</span></a></sup> with guitars,<sup id="cite_ref-Sanneh_12-1" class="reference"><a href="#cite_note-Sanneh-12"><span>[</span>12<span>]</span></a></sup> <a href="/wiki/Synthesizers" title="Synthesizers" class="mw-redirect">synthesizers</a>,<sup id="cite_ref-Sanneh_12-2" class="reference"><a href="#cite_note-Sanneh-12"><span>[</span>12<span>]</span></a></sup> and "mixed high" and "mixed low" beats.<sup id="cite_ref-Sanneh_12-3" class="reference"><a href="#cite_note-Sanneh-12"><span>[</span>12<span>]</span></a></sup> Other tracks that bare similar characteristics to "My Place" include "Paradise" (which also utilizes a "finger-picked guitar" throughout),<sup id="cite_ref-Burns_13-0" class="reference"><a href="#cite_note-Burns-13"><span>[</span>13<span>]</span></a></sup> "Pretty Toes" and "She Don't Know My Name".<sup id="cite_ref-Sanneh_12-4" class="reference"><a href="#cite_note-Sanneh-12"><span>[</span>12<span>]</span></a></sup> Birchmeier declared "My Place" as the successor to Nelly's 2002 "<a href="/wiki/Dilemma_(song)" title="Dilemma (song)">Dilemma</a>".<sup id="cite_ref-Birchmeier_10-1" class="reference"><a href="#cite_note-Birchmeier-10"><span>[</span>10<span>]</span></a></sup> "Over and Over" is a break-up <a href="/wiki/Ballad" title="Ballad">ballad</a>,<sup id="cite_ref-Browne_14-0" class="reference"><a href="#cite_note-Browne-14"><span>[</span>14<span>]</span></a></sup> that combines Nelly’s <a href="/wiki/Sedation" title="Sedation">sedate</a> side with <a href="/wiki/Tim_McGraw" title="Tim McGraw">Tim McGraw</a>’s "twanging" <a href="/wiki/Guitar" title="Guitar">guitar</a> and vocals,<sup id="cite_ref-Burns_13-1" class="reference"><a href="#cite_note-Burns-13"><span>[</span>13<span>]</span></a></sup> with McGraw providing an <a href="/wiki/Overdubbing" title="Overdubbing">overdubbed</a> <a href="/wiki/Hook_(music)" title="Hook (music)">hook</a>.<sup id="cite_ref-Birchmeier_10-2" class="reference"><a href="#cite_note-Birchmeier-10"><span>[</span>10<span>]</span></a></sup> "<a href="/wiki/%27N%27_Dey_Say" title="'N' Dey Say">'N' Dey Say</a>" samples <a href="/wiki/Spandau_Ballet" title="Spandau Ballet">Spandau Ballet</a>’s 1983 "<a href="/wiki/True_(Spandau_Ballet_song)" title="True (Spandau Ballet song)">True</a>";<sup id="cite_ref-liner_9-2" class="reference"><a href="#cite_note-liner-9"><span>[</span>9<span>]</span></a></sup> lyrically, the track and "Paradise" both engage in the themes of "hope and the promise of something better".<sup id="cite_ref-Burns_13-2" class="reference"><a href="#cite_note-Burns-13"><span>[</span>13<span>]</span></a></sup> "Nobody Knows" featuring <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> was chosen as the "most sonically inventive track" on <i>Suit</i> by Todd Burns of <a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a>, who depicted its "<a href="/wiki/Orchestra" title="Orchestra">orchestral</a> stabs" and <a href="/wiki/MIDI" title="MIDI">MIDI</a> <a href="/wiki/Strings_(music)" title="Strings (music)" class="mw-redirect">strings</a>, which "interweave uneasily".<sup id="cite_ref-Burns_13-3" class="reference"><a href="#cite_note-Burns-13"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Suit_(album)&amp;action=edit&amp;section=3" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"<a href="/wiki/My_Place" title="My Place">My Place</a>" featuring <a href="/wiki/Jaheim" title="Jaheim">Jaheim</a> was released on July 20, 2004 as the album's lead single.<sup id="cite_ref-my_place_us_15-0" class="reference"><a href="#cite_note-my_place_us-15"><span>[</span>15<span>]</span></a></sup> It written by Nelly, Eldra DeBarge, Etterlene Jordan, Kenneth Gamble, Leon Huff, Randy Edelman, William DeBarge, Jaheim Hoagland, Dorian Moore and produced by Doe. The song topped both the <a href="/wiki/Recorded_Music_NZ" title="Recorded Music NZ">New Zealand</a> and <a href="/wiki/ARIA_Chart" title="ARIA Chart" class="mw-redirect">Australian</a> single charts,<sup id="cite_ref-new_zealand_chart_16-0" class="reference"><a href="#cite_note-new_zealand_chart-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-australia_chart_17-0" class="reference"><a href="#cite_note-australia_chart-17"><span>[</span>17<span>]</span></a></sup> becoming Nelly's first number one on the former chart, and his second on the latter, following "<a href="/wiki/Dilemma_(song)" title="Dilemma (song)">Dilemma</a>". "My Place" remained on the charts for fifteen and thirteen weeks, respectively.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> The song became his second number one on the <a href="/wiki/UK_Singles_Chart" title="UK Singles Chart">UK Singles Chart</a> on the week of September 11, 2004, again following "Dilemma".<sup id="cite_ref-uk_chart_20-0" class="reference"><a href="#cite_note-uk_chart-20"><span>[</span>20<span>]</span></a></sup> On the US <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a> and <a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot R&amp;B/Hip-Hop Songs</a> charts, it peaked at number four.<sup id="cite_ref-US100_21-0" class="reference"><a href="#cite_note-US100-21"><span>[</span>21<span>]</span></a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> "My Place" was certified gold by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA) and <a href="/wiki/Recorded_Music_NZ" title="Recorded Music NZ">Recorded Music NZ</a>, for shipments of 500,000 and 7,500 units, respectively. It was certified platinum by the <a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">Australian Recording Industry Association</a> (ARIA), for shipments of 70,000 copies.</p>
+<p>"<a href="/wiki/Over_and_Over_(Nelly_song)" title="Over and Over (Nelly song)">Over and Over</a>" featuring <a href="/wiki/Country_music" title="Country music">country</a> singer <a href="/wiki/Tim_McGraw" title="Tim McGraw">Tim McGraw</a> was released as the second single on October 12, 2004. It was written by Nelly, Jayson "KoKo" Bridges, James D. Hargrove and Samuel McGraw and produced by Bridges. The song achieved commercial success, topping several charts, including the <a href="/wiki/Irish_Recorded_Music_Association" title="Irish Recorded Music Association">Irish Singles Chart</a>,<sup id="cite_ref-IRL_23-0" class="reference"><a href="#cite_note-IRL-23"><span>[</span>23<span>]</span></a></sup> Australian Singles Chart and UK Singles Chart.<sup id="cite_ref-australia_chart_17-1" class="reference"><a href="#cite_note-australia_chart-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-uk_chart_20-1" class="reference"><a href="#cite_note-uk_chart-20"><span>[</span>20<span>]</span></a></sup> It is the second single from the album to top the latter and former charts, following "<a href="/wiki/My_Place" title="My Place">My Place</a>". The song remained at number one in Australia for five consecutive weeks,<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup> and stayed atop in the UK for one week.<sup id="cite_ref-uk_chart_20-2" class="reference"><a href="#cite_note-uk_chart-20"><span>[</span>20<span>]</span></a></sup> "Over and Over" peaked within the top five on the New Zealand Singles Chart and the Hot 100,<sup id="cite_ref-new_zealand_chart_16-1" class="reference"><a href="#cite_note-new_zealand_chart-16"><span>[</span>16<span>]</span></a></sup> Nelly's second top five hit on the Hot 100 from the album .<sup id="cite_ref-US100_21-1" class="reference"><a href="#cite_note-US100-21"><span>[</span>21<span>]</span></a></sup> "Over and Over" was certified two times platinum by the ARIA, denoting shipments of 140,000 copies. The RIAA awarded the song with a single platinum certification, for shipments of one million copies.</p>
+<p>"<a href="/wiki/%27N%27_Dey_Say" title="'N' Dey Say">'N' Dey Say</a>" was released as the album's third and final single on May 23, 2005. The song was written by Nelly, Jayson Bridges and G. Kemp and produced by the former. It achieved its highest peak of number three on the <a href="/wiki/Ultratop" title="Ultratop">Belgian Singles Chart</a> (Flanders);<sup id="cite_ref-flanders_chart_25-0" class="reference"><a href="#cite_note-flanders_chart-25"><span>[</span>25<span>]</span></a></sup> it reached number six on the UK Singles Chart and number eight on the Belgian Singles Chart (Wallonia).<sup id="cite_ref-uk_chart_20-3" class="reference"><a href="#cite_note-uk_chart-20"><span>[</span>20<span>]</span></a></sup><sup id="cite_ref-wallonia_chart_26-0" class="reference"><a href="#cite_note-wallonia_chart-26"><span>[</span>26<span>]</span></a></sup> The song reached the top twenty on the Irish Singles Chart,<sup id="cite_ref-IRL_23-1" class="reference"><a href="#cite_note-IRL-23"><span>[</span>23<span>]</span></a></sup> <a href="/wiki/The_Official_Finnish_Charts" title="The Official Finnish Charts">Finnish Singles Chart</a>,<sup id="cite_ref-FIN_27-0" class="reference"><a href="#cite_note-FIN-27"><span>[</span>27<span>]</span></a></sup> New Zealand Singles Chart and Australian Singles Chart.<sup id="cite_ref-new_zealand_chart_16-2" class="reference"><a href="#cite_note-new_zealand_chart-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-australia_chart_17-2" class="reference"><a href="#cite_note-australia_chart-17"><span>[</span>17<span>]</span></a></sup> "'N' Dey Say" peaked at number sixty-four on the Hot 100,<sup id="cite_ref-US100_21-2" class="reference"><a href="#cite_note-US100-21"><span>[</span>21<span>]</span></a></sup> achieving moderate chart success in other territories.</p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Suit_(album)&amp;action=edit&amp;section=4" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable infobox" style="float: right; width: 24.2em; font-size: 80%; text-align: center; margin:0.5em 0 0.5em 1em; padding:0;" cellpadding="0" cellspacing="0">
+<tr>
+<th scope="col" colspan="2" style="font-size:120%;">Professional ratings</th>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="background:#d1dbdf; font-size:120%;">Review scores</th>
+</tr>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Rating</th>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Birchmeier_10-3" class="reference"><a href="#cite_note-Birchmeier-10"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-blender_28-0" class="reference"><a href="#cite_note-blender-28"><span>[</span>28<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td>
+<td style="vertical-align:middle">A−<sup id="cite_ref-Browne_14-1" class="reference"><a href="#cite_note-Browne-14"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i></td>
+<td style="vertical-align:middle">negative<sup id="cite_ref-Petridis_29-0" class="reference"><a href="#cite_note-Petridis-29"><span>[</span>29<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i></td>
+<td style="vertical-align:middle">positive<sup id="cite_ref-Sanneh_12-5" class="reference"><a href="#cite_note-Sanneh-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/NME" title="NME">NME</a></i></td>
+<td style="vertical-align:middle">1/10<sup id="cite_ref-nme_30-0" class="reference"><a href="#cite_note-nme-30"><span>[</span>30<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row">RapReviews.com</td>
+<td style="vertical-align:middle">9/10<sup id="cite_ref-Juon_11-1" class="reference"><a href="#cite_note-Juon-11"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="(1-star Honorable Mention)"><img alt="(1-star Honorable Mention)" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Black_star.svg/11px-Black_star.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Black_star.svg/17px-Black_star.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Black_star.svg/22px-Black_star.svg.png 2x" data-file-width="110" data-file-height="110" /></span><sup id="cite_ref-Christgau_31-0" class="reference"><a href="#cite_note-Christgau-31"><span>[</span>31<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></td>
+<td style="vertical-align:middle"><span style="white-space:nowrap" title="3.5/5 stars"><img alt="3.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-Sheffield_32-0" class="reference"><a href="#cite_note-Sheffield-32"><span>[</span>32<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row"><a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a></td>
+<td style="vertical-align:middle">D+<sup id="cite_ref-Burns_13-4" class="reference"><a href="#cite_note-Burns-13"><span>[</span>13<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i>Suit</i> received generally favorable reviews from music critics. At <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>, which assigns a <a href="/wiki/Standard_score" title="Standard score">normalized</a> rating out of 100 to reviews from mainstream critics, the album has received an <a href="/wiki/Weighted_mean" title="Weighted mean" class="mw-redirect">average</a> score of 62, based on 16 reviews, which indicates "generally favorable reviews".<sup id="cite_ref-Metacritic_33-0" class="reference"><a href="#cite_note-Metacritic-33"><span>[</span>33<span>]</span></a></sup> Giving the album an A–, <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i><span style="padding-left:0.1em;">'</span>s David Browne lauded <i>Suit</i>, writing that Nelly "sounds convincing and appealing" throughout the album. Browne went on to further praise specific songs including the "summer-breezy" "Play it Off" and the "cozy hip-hop soul" housed "In My Life".<sup id="cite_ref-Browne_14-2" class="reference"><a href="#cite_note-Browne-14"><span>[</span>14<span>]</span></a></sup> RapReviews.com's Steve Juon presented a similar response, giving the album a nine-out-of-ten rating.<sup id="cite_ref-Juon_11-2" class="reference"><a href="#cite_note-Juon-11"><span>[</span>11<span>]</span></a></sup> Juon depicted <i>Suit</i> as being more formal compared to <i><a href="/wiki/Sweat_(Nelly_album)" title="Sweat (Nelly album)">Sweat</a></i> which takes creative risks. He praised the overall material quality within both <i>Suit</i> and <i>Sweat</i>, as well as their contrasting themes, going on to note the albums as "one of the best double albums" in hip-hop.<sup id="cite_ref-Juon_11-3" class="reference"><a href="#cite_note-Juon-11"><span>[</span>11<span>]</span></a></sup> Jason Birchmeier of <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a> was hesitant of the simultaneous release of two album's, as they may suffer from being one dimensional, but liked the musical content within both <i>Suit</i> and <i>Sweat</i>, noting the former's to be more diversified.<sup id="cite_ref-Birchmeier_10-4" class="reference"><a href="#cite_note-Birchmeier-10"><span>[</span>10<span>]</span></a></sup> Birchmeier summed up <i>Suit</i> as "a brief album with absolutely no filler", describing its tracks as "fun" and "catchy."<sup id="cite_ref-Birchmeier_10-5" class="reference"><a href="#cite_note-Birchmeier-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>In a mixed review, Jason King of <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> wrote that tracks on <i>Suit</i> have the "sole intention of ending up as your next ringtone".<sup id="cite_ref-King_34-0" class="reference"><a href="#cite_note-King-34"><span>[</span>34<span>]</span></a></sup> King noted some songs to "crumble" due to their "simplistic approach", while tracks like "Flap Your Wings" as "addictive".<sup id="cite_ref-King_34-1" class="reference"><a href="#cite_note-King-34"><span>[</span>34<span>]</span></a></sup> <a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a>'s Todd Burns praised several tracks on <i>Suit</i>, including "Over and Over" and "Nobody Knows", praising the former for combining Nelly's sedate side with <a href="/wiki/Tim_McGraw" title="Tim McGraw">Tim McGraw</a>’s <a href="/wiki/Guitar" title="Guitar">guitar</a> and vocals.<sup id="cite_ref-Burns_13-5" class="reference"><a href="#cite_note-Burns-13"><span>[</span>13<span>]</span></a></sup> Despite this, Burns saw the album's highlights as "minimal at best", and closed his review disapproving of the album's mainstream approach.<sup id="cite_ref-Burns_13-6" class="reference"><a href="#cite_note-Burns-13"><span>[</span>13<span>]</span></a></sup> In a negative review, <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span style="padding-left:0.1em;">'</span>s Alexis Petridis showed distaste for both Nelly's vocal technique and <i>Suit</i><span style="padding-left:0.1em;">'</span>s tracks.<sup id="cite_ref-Petridis_29-1" class="reference"><a href="#cite_note-Petridis-29"><span>[</span>29<span>]</span></a></sup> Petridis described the album's songs as "gummy R&amp;B ballads", while noting Nelly's <a href="/wiki/Egotism" title="Egotism">egotism</a> to overtake his abilities as an artist.<sup id="cite_ref-Petridis_29-2" class="reference"><a href="#cite_note-Petridis-29"><span>[</span>29<span>]</span></a></sup> <i>Suit</i> was nominated for a <a href="/wiki/Grammy_Award_for_Best_Rap_Album" title="Grammy Award for Best Rap Album">Grammy Award for Best Rap Album</a> at the <a href="/wiki/47th_Grammy_Awards" title="47th Grammy Awards" class="mw-redirect">47th Grammy Awards</a>,<sup id="cite_ref-grammy_nominee_35-0" class="reference"><a href="#cite_note-grammy_nominee-35"><span>[</span>35<span>]</span></a></sup> losing to <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>'s <i><a href="/wiki/The_College_Dropout" title="The College Dropout">The College Dropout</a></i>.<sup id="cite_ref-grammy_winners_36-0" class="reference"><a href="#cite_note-grammy_winners-36"><span>[</span>36<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Suit_(album)&amp;action=edit&amp;section=5" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In its opening week, <i>Suit</i> debuted atop the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart, selling 396,000 copies, becoming Nelly's third consecutive US number-one album following <i><a href="/wiki/Country_Grammar" title="Country Grammar">Country Grammar</a></i> (2000) and <i><a href="/wiki/Nellyville" title="Nellyville">Nellyville</a></i> (2002).<sup id="cite_ref-debut_37-0" class="reference"><a href="#cite_note-debut-37"><span>[</span>37<span>]</span></a></sup> On the same week of <i>Suit</i><span style="padding-left:0.1em;">'</span>s release, Nelly's <i><a href="/wiki/Sweat_(Nelly_album)" title="Sweat (Nelly album)">Sweat</a></i>, released in conjunction with the former album, debuted at number two on the <i>Billboard</i> 200, selling 342,000 copies.<sup id="cite_ref-debut_37-1" class="reference"><a href="#cite_note-debut-37"><span>[</span>37<span>]</span></a></sup> The combination of both album's opening figures of 737,000 surpasses that of <i>Nellyville</i><span style="padding-left:0.1em;">'</span>s, which debuted with 714,000 copies sold.<sup id="cite_ref-debut_37-2" class="reference"><a href="#cite_note-debut-37"><span>[</span>37<span>]</span></a></sup> With the debuts, Nelly became the first act to achieve the feat of obtaining album's number one and two on the US <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> chart simultaneously. He is the second artist, following American <a href="/wiki/Hard_rock" title="Hard rock">hard rock</a> band <a href="/wiki/Guns_N%27_Roses" title="Guns N' Roses">Guns N' Roses</a>, to achieve the same feat but on the <i>Billboard</i> 200 chart.<sup id="cite_ref-debut_37-3" class="reference"><a href="#cite_note-debut-37"><span>[</span>37<span>]</span></a></sup> Guns N' Roses attained the accomplishment in 1991 with <i><a href="/wiki/Use_Your_Illusion_II" title="Use Your Illusion II">Use Your Illusion II</a></i> and <i><a href="/wiki/Use_Your_Illusion_I" title="Use Your Illusion I">Use Your Illusion I</a></i>, with the former debuting at number one and the latter at number two, selling 770,000 and 685,000 copies, respectively.<sup id="cite_ref-debut_37-4" class="reference"><a href="#cite_note-debut-37"><span>[</span>37<span>]</span></a></sup> The following week of <i>Suit</i><span style="padding-left:0.1em;">'</span>s release, it fell to number two on the <i>Billboard</i> 200 chart, selling 160,000 copies, being replaced by <a href="/wiki/Green_Day" title="Green Day">Green Day</a>'s <i><a href="/wiki/American_Idiot" title="American Idiot">American Idiot</a></i> (2004).<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup> In its third week, <i>Suit</i> sold 118,000 copies, dropping to number five.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup> In the album's fourth week of release, its sales increased to 122,000 copies, the only album of the week to have its sales rise; it sustained its position at number five.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup> In its fifth week, <i>Suit</i><span style="padding-left:0.1em;">'</span>s sales further increased to 144,000 units, gaining the title of Greatest Gainer, and rising from number five to three on the chart.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup> The album's sales continued to increase in its sixth week of release, selling 153,000 copies, moving from number three to two.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>42<span>]</span></a></sup> It had passed one million copies in sales in the US that week.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>43<span>]</span></a></sup> By November 1, 2004, <i>Suit</i> went on to be certified gold by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA), denoting shipments of 500,000 copies. By January 19, 2005, the album was certified three times platinum by the RIAA, for shipments of three million copies.</p>
+<p>On the <a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a>, <i>Suit</i> debuted at number one, becoming Nelly's first album to top the chart in the country.<sup id="cite_ref-canada_chart_44-0" class="reference"><a href="#cite_note-canada_chart-44"><span>[</span>44<span>]</span></a></sup> The album debuted at number six on the <a href="/wiki/Recorded_Music_NZ" title="Recorded Music NZ">New Zealand Albums Chart</a> on the week of September 20, 2004, remaining at number six for two weeks, and dropping out of the chart after thirteen weeks.<sup id="cite_ref-new_zealand_chart_16-3" class="reference"><a href="#cite_note-new_zealand_chart-16"><span>[</span>16<span>]</span></a></sup> On the <a href="/wiki/ARIA_Charts" title="ARIA Charts">Australian Albums Chart</a>, <i>Suit</i> reached number seven, remaining on the chart for five weeks.<sup id="cite_ref-australia_chart_17-3" class="reference"><a href="#cite_note-australia_chart-17"><span>[</span>17<span>]</span></a></sup> Along with <i><a href="/wiki/Sweat_(Nelly_album)" title="Sweat (Nelly album)">Sweat</a></i>, <i>Suit</i> is Nelly's third consecutive album to peak within the top ten of the latter three charts.<sup id="cite_ref-new_zealand_chart_16-4" class="reference"><a href="#cite_note-new_zealand_chart-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-australia_chart_17-4" class="reference"><a href="#cite_note-australia_chart-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-canada_chart_44-1" class="reference"><a href="#cite_note-canada_chart-44"><span>[</span>44<span>]</span></a></sup> The album has been certified gold by the <a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">Australian Recording Industry Association</a> (ARIA) and Recorded Music NZ, for shipments of 35,000 and 7,500 copies, respectively. The album reached the top ten on the <a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a> and <a href="/wiki/German_Albums_Chart" title="German Albums Chart" class="mw-redirect">German Albums Chart</a>, at number eight.<sup id="cite_ref-uk_chart_20-4" class="reference"><a href="#cite_note-uk_chart-20"><span>[</span>20<span>]</span></a></sup><sup id="cite_ref-germany_chart_45-0" class="reference"><a href="#cite_note-germany_chart-45"><span>[</span>45<span>]</span></a></sup> It has been certified platinum by the <a href="/wiki/British_Phonographic_Industry" title="British Phonographic Industry">British Phonographic Industry</a> (BPI), for shipments of 300,000 copies, on May 20, 2005. <i>Suit</i> peaked at number eleven on the <a href="/wiki/Swiss_Hitparade" title="Swiss Hitparade">Swiss Albums Chart</a> on the week of September 26, 2004, dropping off the chart after eight weeks.<sup id="cite_ref-switzerland_chart_46-0" class="reference"><a href="#cite_note-switzerland_chart-46"><span>[</span>46<span>]</span></a></sup> It remained on the <a href="/wiki/MegaCharts" title="MegaCharts">Dutch Albums Chart</a> for seven weeks, debuting and peaking at number seventeen.<sup id="cite_ref-netherlands_chart_47-0" class="reference"><a href="#cite_note-netherlands_chart-47"><span>[</span>47<span>]</span></a></sup> The album was less successful in other territories, charting within the top thirty on the <a href="/wiki/%C3%963_Austria_Top_40" title="Ö3 Austria Top 40">Austrian Albums Chart</a> and <a href="/wiki/VG-lista" title="VG-lista">Norwegian Albums Chart</a> at number twenty-nine.<sup id="cite_ref-austria_chart_48-0" class="reference"><a href="#cite_note-austria_chart-48"><span>[</span>48<span>]</span></a></sup><sup id="cite_ref-norway_chart_49-0" class="reference"><a href="#cite_note-norway_chart-49"><span>[</span>49<span>]</span></a></sup> <i>Suit</i> reached number thirty-four on the <a href="/wiki/Sverigetopplistan" title="Sverigetopplistan">Swedish Albums Chart</a>,<sup id="cite_ref-sweden_chart_50-0" class="reference"><a href="#cite_note-sweden_chart-50"><span>[</span>50<span>]</span></a></sup> number forty-three on the <a href="/wiki/Ultratop" title="Ultratop">Belgian Albums Chart</a> (Flanders) and number seventy-two on the <a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">French Albums Chart</a>.<sup id="cite_ref-flanders_chart_25-1" class="reference"><a href="#cite_note-flanders_chart-25"><span>[</span>25<span>]</span></a></sup><sup id="cite_ref-france_chart_51-0" class="reference"><a href="#cite_note-france_chart-51"><span>[</span>51<span>]</span></a></sup> The album's lowest charting position was on the Belgian Albums Chart (Wallonia), at number eighty-three. It remained on it for three weeks.<sup id="cite_ref-wallonia_chart_26-1" class="reference"><a href="#cite_note-wallonia_chart-26"><span>[</span>26<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Suit_(album)&amp;action=edit&amp;section=6" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>All songs were written by Nelly, additional writers listed below.</p>
+<table class="tracklist" cellpadding="0" style="border-collapse: collapse; padding:4px">
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">1.</td>
+<td style="text-align: left; vertical-align: top;">"Play It Off" <span style="font-size:85%;">(featuring <a href="/wiki/Pharrell_Williams" title="Pharrell Williams">Pharrell Williams</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li><a href="/wiki/Chad_Hugo" title="Chad Hugo">Chad Hugo</a></li>
+<li>Pharrell Williams</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;"><a href="/wiki/The_Neptunes" title="The Neptunes">The Neptunes</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:47</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">2.</td>
+<td style="text-align: left; vertical-align: top;">"Pretty Toes" <span style="font-size:85%;">(featuring <a href="/wiki/Jazze_Pha" title="Jazze Pha">Jazze Pha</a> &amp; <a href="/wiki/T.I." title="T.I.">T.I.</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Phalon Alexander</li>
+<li><a href="/wiki/Andr%C3%A9_3000" title="André 3000">André Benjamin</a></li>
+<li>Patrick Brown, Clifford Harris, Jr.</li>
+<li>J. Clifford, Raymond Murray</li>
+<li><a href="/wiki/Big_Boi" title="Big Boi">Antwan Patton</a></li>
+<li>Rico Wade</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;"><a href="/wiki/Jazze_Pha" title="Jazze Pha">Jazze Pha</a></td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:28</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/My_Place" title="My Place">My Place</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Jaheim" title="Jaheim">Jaheim</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li><a href="/wiki/El_DeBarge" title="El DeBarge">Eldra DeBarge</a></li>
+<li>Etterlene Jordan</li>
+<li>Kenneth Gamble</li>
+<li>Leon Huff</li>
+<li>Randy Edelman</li>
+<li>William DeBarge</li>
+<li><a href="/wiki/Jaheim" title="Jaheim">Jaheim Hoagland</a></li>
+<li>Dorian Moore</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">Doe</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:36</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4.</td>
+<td style="text-align: left; vertical-align: top;">"Paradise" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Moore</li>
+<li>Ahmed Oliver</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Doe</li>
+<li>AHM</li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:36</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5.</td>
+<td style="text-align: left; vertical-align: top;">"She Don't Know My Name" <span style="font-size:85%;">(featuring <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a> &amp; <a href="/wiki/Ronald_Isley" title="Ronald Isley">Ronald Isley</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li><a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Calvin Broadus</a></li>
+<li><a href="/wiki/Ronald_Isley" title="Ronald Isley">Ronald Isley</a></li>
+<li>Patton, Nsilo Reddick</li>
+<li>Nicholas Sherwood</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Big Boi</li>
+<li>Beat Bullies</li>
+</ul>
+</div>
+</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:26</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">6.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/%27N%27_Dey_Say" title="'N' Dey Say">'N' Dey Say</a>" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Jayson Bridges</li>
+<li>G. Kemp</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">Bridges</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:37</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">7.</td>
+<td style="text-align: left; vertical-align: top;">"Woodgrain and Leather Wit a Hole" &#160;</td>
+<td style="vertical-align: top;">Bridges</td>
+<td style="vertical-align: top;">Bridges</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">5:13</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">8.</td>
+<td style="text-align: left; vertical-align: top;">"In My Life" <span style="font-size:85%;">(featuring <a href="/wiki/Avery_Storm" title="Avery Storm">Avery Storm</a> &amp; <a href="/wiki/Mase" title="Mase">Mase</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li><a href="/wiki/Avery_Storm" title="Avery Storm">Ralph Stasio</a></li>
+<li><a href="/wiki/Mase" title="Mase">Mason Betha</a></li>
+<li>Earl Gaynor</li>
+<li>Robert Gerongco</li>
+<li>Samual Gerongco</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">Kuya Productions</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">3:40</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">9.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Over_and_Over_(Nelly_song)" title="Over and Over (Nelly song)">Over and Over</a>" <span style="font-size:85%;">(featuring <a href="/wiki/Tim_McGraw" title="Tim McGraw">Tim McGraw</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Bridges</li>
+<li>James Hargrove</li>
+<li>Samuel McGraw</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">Bridges</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:14</td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">10.</td>
+<td style="text-align: left; vertical-align: top;">"Nobody Knows" <span style="font-size:85%;">(featuring <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li><a href="/wiki/Jermaine_Dupri" title="Jermaine Dupri">Jermaine Mauldin</a></li>
+<li><a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a></li>
+<li>James Phillips</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">Mauldin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:39</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">11.</td>
+<td style="text-align: left; vertical-align: top;">"Die for You" &#160;</td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li>Karlin</li>
+<li>Soulshock</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">Soulshock &amp; Karlin</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:28</td>
+</tr>
+<tr>
+<td align="right" colspan="4">
+<div style="width: 7.5em; text-align: left; padding-left: 10px; background-color: #eee; margin: 0;"><b>Total length:</b></div>
+</td>
+<td style="padding-right: 10px; text-align: right; background-color: #eee;"><b>48:43</b></td>
+<td class="mbox-empty-cell"></td>
+</tr>
+</table>
+<table class="tracklist collapsible collapsed" cellpadding="0" style="border-collapse: collapse; border: #aaa 1px solid; padding: 3px">
+<tr>
+<th class="tlheader mbox-text" colspan="10" style="text-align: left; background-color: #fff">UK bonus tracks<sup id="cite_ref-amazon_uk_7-1" class="reference"><a href="#cite_note-amazon_uk-7"><span>[</span>7<span>]</span></a></sup></th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr>
+<th class="tlheader" scope="col" style="width: 2em; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee">No.</th>
+<th class="tlheader" scope="col" style="width: 40%; text-align: left; background-color: #eee">Title</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Writer(s)</th>
+<th class="tlheader" scope="col" style="width: 30%; text-align: left; background-color: #eee">Producer(s)</th>
+<th class="tlheader" scope="col" style="width: 4em; padding-right: 10px; text-align: right; background-color: #eee">Length</th>
+<td class="mbox-empty-cell"></td>
+</tr>
+<tr style="background-color: #f7f7f7;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">12.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Ride_wit_Me" title="Ride wit Me">Ride wit Me</a>" <span style="font-size:85%;">(Remix) (featuring <a href="/wiki/City_Spud" title="City Spud">City Spud</a>)</span></td>
+<td style="vertical-align: top;"><a href="/wiki/Jason_%22Jay_E%22_Epperson" title="Jason &quot;Jay E&quot; Epperson">Jason Epperson</a></td>
+<td style="vertical-align: top;">Epperson</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:05</td>
+</tr>
+<tr style="background-color: #fff;">
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">13.</td>
+<td style="text-align: left; vertical-align: top;">"<a href="/wiki/Dilemma_(song)" title="Dilemma (song)">Dilemma</a>" <span style="font-size:85%;">(Remix) (featuring <a href="/wiki/Kelly_Rowland" title="Kelly Rowland">Kelly Rowland</a> &amp; <a href="/wiki/Ali_(rapper)" title="Ali (rapper)">Ali</a>)</span></td>
+<td style="vertical-align: top;">
+<div class="hlist" style="margin-left: 0em;">
+<ul>
+<li><a href="/wiki/Kelly_Rowland" title="Kelly Rowland">Kelendria Rowland</a></li>
+<li>Mauldin</li>
+<li><a href="/wiki/Patti_LaBelle" title="Patti LaBelle">Patricia Holte</a></li>
+<li><a href="/wiki/Ali_(rapper)" title="Ali (rapper)">Ali Jones</a></li>
+</ul>
+</div>
+</td>
+<td style="vertical-align: top;">Ryan Bowser</td>
+<td style="padding-right: 10px; text-align: right; vertical-align: top;">4:38</td>
+</tr>
+</table>
+<dl>
+<dt>Notes<sup id="cite_ref-liner_9-3" class="reference"><a href="#cite_note-liner-9"><span>[</span>9<span>]</span></a></sup></dt>
+</dl>
+<ul>
+<li>"My Place" contains a portion of composition from "Isn't It a Shame" by <a href="/wiki/Girl_group" title="Girl group">girl group</a> <a href="/wiki/Labelle" title="Labelle">Labelle</a> and <a href="/wiki/Randy_DeBarge" title="Randy DeBarge">Randy DeBarge</a>'s 1982 "<a href="/wiki/I_Like_It_(DeBarge_song)" title="I Like It (DeBarge song)">I Like It</a>". It samples elements of <a href="/wiki/The_Del-Vikings" title="The Del-Vikings">The Del-Vikings</a>' 1957 "<a href="/wiki/Come_Go_with_Me" title="Come Go with Me">Come Go with Me</a>".</li>
+<li>"<a href="/wiki/%27N%27_Dey_Say" title="'N' Dey Say">'N' Dey Say</a>" samples <a href="/wiki/Spandau_Ballet" title="Spandau Ballet">Spandau Ballet</a>’s 1983 "<a href="/wiki/True_(Spandau_Ballet_song)" title="True (Spandau Ballet song)">True</a>".</li>
+</ul>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Suit_(album)&amp;action=edit&amp;section=7" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Credits adapted from <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52"><span>[</span>52<span>]</span></a></sup></p>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Ahm – producer</li>
+<li>Avery Storm – main personnel, primary artist, vocoder</li>
+<li>Beat Bullies – producer</li>
+<li>Big Boi – producer</li>
+<li>Matt Brauss – bass</li>
+<li>Jayson Bridges – drums, keyboards, percussion, producer</li>
+<li>Sandy Brummels – art rirection</li>
+<li>Chris Carmouche – engineer</li>
+<li>Andrew Coleman – audio engineer, engineer</li>
+<li>Jermaine Dupri – producer</li>
+<li>Michael Eleopoulos – assistant</li>
+<li>Brian Frye – engineer</li>
+<li>Richard "Rip" Gager – guitar</li>
+<li>Earl Gaynor – producer</li>
+<li>Chris Gehringer – mastering</li>
+<li>Robert Gerongco – producer</li>
+<li>Sam Gerongco – producer</li>
+<li>Anthony Hamilton – guest artist, main personnel, primary artist, vocals</li>
+<li>James D. "Sted Fast" II Hargrove – guitar, producer</li>
+<li>Jennifer Havey – A&amp;R, artist coordination</li>
+<li>John Horesco IV – assistant</li>
+<li>Ronald Isley – main personnel, primary artist, vocals</li>
+<li>Jaheim – guest artist, main personnel, primary artist, rap</li>
+<li>Jazze Pha – audio production, main personnel, primary artist, producer, rap, various instruments</li>
+<li>Kim Moore Johnson – vocals (background)</li>
+<li>Rajinder Kala – congas</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li>Karlin – producer</li>
+<li>Chip Karpells – assistant, assistant engineer, mixing assistant</li>
+<li>Debra Killings – bass</li>
+<li>Kuya Brothers – producer</li>
+<li>Kevin Law – A&amp;R, engineer</li>
+<li>Bryan Loss – drums</li>
+<li>LROC – producer</li>
+<li>Dan "Thunda Dan" Marshal – engineer, guitar</li>
+<li>Mase – guest artist, main personnel, primary artist, rap</li>
+<li>Brandon "B Don" Matthews – engineer</li>
+<li>Tim McGraw – guest artist, main personnel, primary artist, vocals</li>
+<li>Tadd Mingo – assistant</li>
+<li>Carl Nappa – audio engineer, engineer</li>
+<li>Nelly – executive producer, main personnel, primary artist, rap</li>
+<li>The Neptunes – audio production, producer</li>
+<li>Jared Nugent – assistant, assistant engineer</li>
+<li>Onion – guitar</li>
+<li>Shorty B. – bass, guitar</li>
+<li>Snoop Dogg – guest artist, main personnel, primary artist, rap</li>
+<li>Soulshock – producer</li>
+<li>Joe Spix – art direction, design</li>
+<li>T.I. – guest artist, main personnel, primary artist, rap</li>
+<li>Phil Tan – mixing</li>
+<li>Richard Travali – mixing</li>
+<li>Serge Tsai – engineer</li>
+<li>James White – photography</li>
+<li>Pharrell Williams – main personnel, primary artist, vocals</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Suit_(album)&amp;action=edit&amp;section=8" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable plainrowheaders">
+<tr>
+<th>Chart (2004)</th>
+<th>Peak<br />
+position</th>
+</tr>
+<tr>
+<th scope="row">Australian Albums (<a href="/wiki/ARIA_Charts" title="ARIA Charts">ARIA</a>)<sup id="cite_ref-australia_chart_17-5" class="reference"><a href="#cite_note-australia_chart-17"><span>[</span>17<span>]</span></a></sup></th>
+<td align="center">7</td>
+</tr>
+<tr>
+<th scope="row">Austrian Albums (<a href="/wiki/%C3%963_Austria_Top_40" title="Ö3 Austria Top 40">Ö3 Austria</a>)<sup id="cite_ref-austria_chart_48-1" class="reference"><a href="#cite_note-austria_chart-48"><span>[</span>48<span>]</span></a></sup></th>
+<td align="center">29</td>
+</tr>
+<tr>
+<th scope="row">Belgian Albums (<a href="/wiki/Ultratop" title="Ultratop">Ultratop</a> Flanders)<sup id="cite_ref-flanders_chart_25-2" class="reference"><a href="#cite_note-flanders_chart-25"><span>[</span>25<span>]</span></a></sup></th>
+<td align="center">43</td>
+</tr>
+<tr>
+<th scope="row">Belgian Albums (<a href="/wiki/Ultratop" title="Ultratop">Ultratop</a> Wallonia)<sup id="cite_ref-wallonia_chart_26-2" class="reference"><a href="#cite_note-wallonia_chart-26"><span>[</span>26<span>]</span></a></sup></th>
+<td align="center">83</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-canada_chart_44-2" class="reference"><a href="#cite_note-canada_chart-44"><span>[</span>44<span>]</span></a></sup></th>
+<td align="center">1</td>
+</tr>
+<tr>
+<th scope="row">Dutch Albums (<a href="/wiki/MegaCharts" title="MegaCharts">MegaCharts</a>)<sup id="cite_ref-netherlands_chart_47-1" class="reference"><a href="#cite_note-netherlands_chart-47"><span>[</span>47<span>]</span></a></sup></th>
+<td align="center">17</td>
+</tr>
+<tr>
+<th scope="row">French Albums (<a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l'Édition Phonographique">SNEP</a>)<sup id="cite_ref-france_chart_51-1" class="reference"><a href="#cite_note-france_chart-51"><span>[</span>51<span>]</span></a></sup></th>
+<td align="center">72</td>
+</tr>
+<tr>
+<th scope="row">German Albums (<a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control</a>)<sup id="cite_ref-germany_chart_45-1" class="reference"><a href="#cite_note-germany_chart-45"><span>[</span>45<span>]</span></a></sup></th>
+<td align="center">8</td>
+</tr>
+<tr>
+<th scope="row">New Zealand Albums (<a href="/wiki/Recorded_Music_NZ" title="Recorded Music NZ">Recorded Music NZ</a>)<sup id="cite_ref-new_zealand_chart_16-5" class="reference"><a href="#cite_note-new_zealand_chart-16"><span>[</span>16<span>]</span></a></sup></th>
+<td align="center">6</td>
+</tr>
+<tr>
+<th scope="row">Norwegian Albums (<a href="/wiki/VG-lista" title="VG-lista">VG-lista</a>)<sup id="cite_ref-norway_chart_49-1" class="reference"><a href="#cite_note-norway_chart-49"><span>[</span>49<span>]</span></a></sup></th>
+<td align="center">29</td>
+</tr>
+<tr>
+<th scope="row">Swedish Albums (<a href="/wiki/Sverigetopplistan" title="Sverigetopplistan">Sverigetopplistan</a>)<sup id="cite_ref-sweden_chart_50-1" class="reference"><a href="#cite_note-sweden_chart-50"><span>[</span>50<span>]</span></a></sup></th>
+<td align="center">34</td>
+</tr>
+<tr>
+<th scope="row">Swiss Albums (<a href="/wiki/Swiss_Music_Charts" title="Swiss Music Charts" class="mw-redirect">Schweizer Hitparade</a>)<sup id="cite_ref-switzerland_chart_46-1" class="reference"><a href="#cite_note-switzerland_chart-46"><span>[</span>46<span>]</span></a></sup></th>
+<td align="center">11</td>
+</tr>
+<tr>
+<th scope="row">UK Albums (<a href="/wiki/Official_Charts_Company" title="Official Charts Company">OCC</a>)<sup id="cite_ref-uk_chart_20-5" class="reference"><a href="#cite_note-uk_chart-20"><span>[</span>20<span>]</span></a></sup></th>
+<td align="center">8</td>
+</tr>
+<tr>
+<th scope="row">US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-Billboard200_53-0" class="reference"><a href="#cite_note-Billboard200-53"><span>[</span>53<span>]</span></a></sup></th>
+<td align="center">1</td>
+</tr>
+<tr>
+<th scope="row">US <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-R.26BUSalbum_54-0" class="reference"><a href="#cite_note-R.26BUSalbum-54"><span>[</span>54<span>]</span></a></sup></th>
+<td align="center">1</td>
+</tr>
+<tr>
+<th scope="row">US <a href="/wiki/Top_Rap_Albums" title="Top Rap Albums" class="mw-redirect">Top Rap Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-ac_BillboardRap_Nelly_55-0" class="reference"><a href="#cite_note-ac_BillboardRap_Nelly-55"><span>[</span>55<span>]</span></a></sup></th>
+<td align="center">1</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Certifications">Certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Suit_(album)&amp;action=edit&amp;section=9" title="Edit section: Certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable plainrowheaders">
+<tr>
+<th scope="col">Region</th>
+<th scope="col">Certification</th>
+<th scope="col" data-sort-type="number"><a href="/wiki/List_of_music_recording_certifications" title="List of music recording certifications">Sales/shipments</a></th>
+</tr>
+<tr>
+<th scope="row">Australia (<a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">ARIA</a>)<sup id="cite_ref-AustraliaNellySuitalbumCertRef_56-0" class="reference"><a href="#cite_note-AustraliaNellySuitalbumCertRef-56"><span>[</span>56<span>]</span></a></sup></th>
+<td>Gold</td>
+<td>35,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">New Zealand (<a href="/wiki/Recorded_Music_NZ" title="Recorded Music NZ">RMNZ</a>)<sup id="cite_ref-New_ZealandNellySuitalbumCertRef_57-0" class="reference"><a href="#cite_note-New_ZealandNellySuitalbumCertRef-57"><span>[</span>57<span>]</span></a></sup></th>
+<td>Gold</td>
+<td>7,500<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">United Kingdom (<a href="/wiki/British_Phonographic_Industry" title="British Phonographic Industry">BPI</a>)<sup id="cite_ref-United_KingdomNellySuitalbumCertRef_58-0" class="reference"><a href="#cite_note-United_KingdomNellySuitalbumCertRef-58"><span>[</span>58<span>]</span></a></sup></th>
+<td>Platinum</td>
+<td>300,000<sup>^</sup></td>
+</tr>
+<tr>
+<th scope="row">United States (<a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a>)<sup id="cite_ref-United_StatesNellySuitalbumCertRef_59-0" class="reference"><a href="#cite_note-United_StatesNellySuitalbumCertRef-59"><span>[</span>59<span>]</span></a></sup></th>
+<td>3× Platinum</td>
+<td>3,000,000<sup>^</sup></td>
+</tr>
+<tr class="sortbottom">
+<td colspan="3">
+<center>
+<p><small><sup>*</sup>sales figures based on certification alone</small><br />
+<small><sup>^</sup>shipments figures based on certification alone</small><br />
+<small><sup>x</sup>unspecified figures based on certification alone</small></p>
+</center>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Release_history">Release history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Suit_(album)&amp;action=edit&amp;section=10" title="Edit section: Release history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable plainrowheaders">
+<tr>
+<th>Country</th>
+<th>Date</th>
+<th>Format(s)</th>
+<th><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<th>Edition(s)</th>
+</tr>
+<tr>
+<th scope="row">United Kingdom<sup id="cite_ref-amazon_uk_7-2" class="reference"><a href="#cite_note-amazon_uk-7"><span>[</span>7<span>]</span></a></sup></th>
+<td rowspan="2">September 13, 2004</td>
+<td rowspan="5"><a href="/wiki/Compact_disc" title="Compact disc">CD</a>, <a href="/wiki/Music_download" title="Music download">digital download</a></td>
+<td rowspan="5"><a href="/wiki/Universal_Records" title="Universal Records">Universal Records</a></td>
+<td rowspan="5">Standard</td>
+</tr>
+<tr>
+<th scope="row">Germany<sup id="cite_ref-amazon_germany_8-1" class="reference"><a href="#cite_note-amazon_germany-8"><span>[</span>8<span>]</span></a></sup></th>
+</tr>
+<tr>
+<th scope="row">United States<sup id="cite_ref-amazon_us_4-1" class="reference"><a href="#cite_note-amazon_us-4"><span>[</span>4<span>]</span></a></sup></th>
+<td rowspan="3">September 14, 2004</td>
+</tr>
+<tr>
+<th scope="row">Canada<sup id="cite_ref-amazon_canada_5-1" class="reference"><a href="#cite_note-amazon_canada-5"><span>[</span>5<span>]</span></a></sup></th>
+</tr>
+<tr>
+<th scope="row">Japan<sup id="cite_ref-amazon_japan_6-1" class="reference"><a href="#cite_note-amazon_japan-6"><span>[</span>6<span>]</span></a></sup></th>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Suit_(album)&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_number-one_albums_of_2004_(U.S.)" title="List of number-one albums of 2004 (U.S.)" class="mw-redirect">List of number-one albums of 2004 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_R%26B_albums_of_2004_(U.S.)" title="List of number-one R&amp;B albums of 2004 (U.S.)" class="mw-redirect">List of number-one R&amp;B albums of 2004 (U.S.)</a></li>
+<li><a href="/wiki/List_of_number-one_albums_of_2004_(Canada)" title="List of number-one albums of 2004 (Canada)">List of number-one albums of 2004 (Canada)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Suit_(album)&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-mtv-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-mtv_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mtv_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Reid, Shaheem (June 3, 2004). <a rel="nofollow" class="external text" href="http://m.mtv.com/news/article.rbml?id=1488146">"Nelly Explains Both Of His New Albums"</a>. <a href="/wiki/MTV_News" title="MTV News">MTV News</a>. <a href="/wiki/Viacom" title="Viacom">Viacom</a><span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.aufirst=Shaheem&amp;rft.aulast=Reid&amp;rft.au=Reid%2C+Shaheem&amp;rft.btitle=Nelly+Explains+Both+Of+His+New+Albums&amp;rft.date=June+3%2C+2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fm.mtv.com%2Fnews%2Farticle.rbml%3Fid%3D1488146&amp;rft.pub=MTV+News.+Viacom&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mtv1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-mtv1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mtv1_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Reid, Shaheem (April 27, 2004). <a rel="nofollow" class="external text" href="http://m.mtv.com/news/article.rbml?id=1486622">"Nelly To Pull A Guns N' Roses This Summer"</a>. MTV News. Viacom<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.aufirst=Shaheem&amp;rft.aulast=Reid&amp;rft.au=Reid%2C+Shaheem&amp;rft.btitle=Nelly+To+Pull+A+Guns+N%27+Roses+This+Summer&amp;rft.date=April+27%2C+2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fm.mtv.com%2Fnews%2Farticle.rbml%3Fid%3D1486622&amp;rft.pub=MTV+News.+Viacom&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mtv2-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-mtv2_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mtv2_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Reid, Shaheem (May 27, 2004). <a rel="nofollow" class="external text" href="http://m.mtv.com/news/article.rbml?id=1487996">"Nelly Pushes Back Both Of His Albums"</a>. MTV News. Viacom<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.aufirst=Shaheem&amp;rft.aulast=Reid&amp;rft.au=Reid%2C+Shaheem&amp;rft.btitle=Nelly+Pushes+Back+Both+Of+His+Albums&amp;rft.date=May+27%2C+2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fm.mtv.com%2Fnews%2Farticle.rbml%3Fid%3D1487996&amp;rft.pub=MTV+News.+Viacom&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-amazon_us-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-amazon_us_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-amazon_us_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.com/Suit-Nelly/dp/B0002MPQIW/ref=sr_1_1?ie=UTF8&amp;qid=1372535215&amp;sr=8-1&amp;keywords=nelly+suit">"Suit: Nelly"</a>. <a href="/wiki/Amazon.com" title="Amazon.com">Amazon.com</a><span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=Suit%3A+Nelly&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2FSuit-Nelly%2Fdp%2FB0002MPQIW%2Fref%3Dsr_1_1%3Fie%3DUTF8%26qid%3D1372535215%26sr%3D8-1%26keywords%3Dnelly%2Bsuit&amp;rft.pub=Amazon.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-amazon_canada-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-amazon_canada_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-amazon_canada_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.ca/Suit-Nelly/dp/B0002MPQIW/ref=sr_1_3?ie=UTF8&amp;qid=1372535533&amp;sr=8-3&amp;keywords=nelly+suit">"Suit: Nelly"</a>. Amazon.ca<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=Suit%3A+Nelly&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.ca%2FSuit-Nelly%2Fdp%2FB0002MPQIW%2Fref%3Dsr_1_3%3Fie%3DUTF8%26qid%3D1372535533%26sr%3D8-3%26keywords%3Dnelly%2Bsuit&amp;rft.pub=Amazon.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-amazon_japan-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-amazon_japan_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-amazon_japan_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.co.jp/Suit-Nelly/dp/B0002MPQIW/ref=sr_1_1/377-1674038-3047956?ie=UTF8&amp;qid=1374259617&amp;sr=8-1&amp;keywords=nelly+suit">"Suit: Nelly"</a>. Amazon.co.jp<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=Suit%3A+Nelly&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.co.jp%2FSuit-Nelly%2Fdp%2FB0002MPQIW%2Fref%3Dsr_1_1%2F377-1674038-3047956%3Fie%3DUTF8%26qid%3D1374259617%26sr%3D8-1%26keywords%3Dnelly%2Bsuit&amp;rft.pub=Amazon.co.jp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-amazon_uk-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-amazon_uk_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-amazon_uk_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-amazon_uk_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.co.uk/Suit-Nelly/dp/B0002VJY54/ref=sr_1_1?ie=UTF8&amp;qid=1372535419&amp;sr=8-1&amp;keywords=nelly+suit">"Suit: Nelly"</a>. Amazon.co.uk<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=Suit%3A+Nelly&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.co.uk%2FSuit-Nelly%2Fdp%2FB0002VJY54%2Fref%3Dsr_1_1%3Fie%3DUTF8%26qid%3D1372535419%26sr%3D8-1%26keywords%3Dnelly%2Bsuit&amp;rft.pub=Amazon.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-amazon_germany-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-amazon_germany_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-amazon_germany_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.de/Suit-Nelly/dp/B0002MPQIW/ref=sr_1_1?ie=UTF8&amp;qid=1372535626&amp;sr=8-1&amp;keywords=nelly+suit">"Suit: Nelly"</a>. Amazon.de<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=Suit%3A+Nelly&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.de%2FSuit-Nelly%2Fdp%2FB0002MPQIW%2Fref%3Dsr_1_1%3Fie%3DUTF8%26qid%3D1372535626%26sr%3D8-1%26keywords%3Dnelly%2Bsuit&amp;rft.pub=Amazon.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-liner-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-liner_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-liner_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-liner_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-liner_9-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation AV media notes"><i>Suit</i> (CD liner). <a href="/wiki/Nelly" title="Nelly">Nelly</a>. <a href="/wiki/Universal_Records" title="Universal Records">Universal Records</a>. 2004. 986 393-6.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=Suit&amp;rft.date=2004&amp;rft.genre=book&amp;rft.pub=Universal+Records&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Birchmeier-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Birchmeier_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Birchmeier_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Birchmeier_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Birchmeier_10-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Birchmeier_10-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Birchmeier_10-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Birchmeier, Jason. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r704160">"Nelly – Suit</a>. <a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">Allmusic</a>. <a href="/wiki/Rovi_Corporation" title="Rovi Corporation">Rovi Corporation</a>. Retrieved on June 28, 2013.</span></li>
+<li id="cite_note-Juon-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Juon_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Juon_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Juon_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Juon_11-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Juon, Steve (September 14, 2004). <a rel="nofollow" class="external text" href="http://www.rapreviews.com/archive/2004_09F_sweatsuit.html">"Nelly's "Sweat" + "Suit<span style="padding-right:0.2em;">"</span>"</a>. RapReviews.com<span class="reference-accessdate">. Retrieved June 28, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.aufirst=Steve&amp;rft.au=Juon%2C+Steve&amp;rft.aulast=Juon&amp;rft.btitle=Nelly%27s+%22Sweat%22+%2B+%22Suit%22&amp;rft.date=September+14%2C+2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rapreviews.com%2Farchive%2F2004_09F_sweatsuit.html&amp;rft.pub=RapReviews.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Sanneh-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sanneh_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sanneh_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Sanneh_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Sanneh_12-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Sanneh_12-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Sanneh_12-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Sanneh, Kelefa (September 19, 2004). <a rel="nofollow" class="external text" href="http://www.nytimes.com/2004/09/19/arts/music/19sanneh.html?pagewanted=all&amp;position=">"Rap of Ages"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> (<a href="/wiki/The_New_York_Times_Company" title="The New York Times Company">The New York Times Company</a>)<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.atitle=Rap+of+Ages&amp;rft.aufirst=Kelefa&amp;rft.aulast=Sanneh&amp;rft.au=Sanneh%2C+Kelefa&amp;rft.date=September+19%2C+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2004%2F09%2F19%2Farts%2Fmusic%2F19sanneh.html%3Fpagewanted%3Dall%26position%3D&amp;rft.jtitle=The+New+York+Times&amp;rft.pub=The+New+York+Times+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Burns-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Burns_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Burns_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Burns_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Burns_13-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Burns_13-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Burns_13-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Burns_13-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Burns, Todd (September 17, 2004). <a rel="nofollow" class="external text" href="http://www.stylusmagazine.com/review.php?ID=2343">"Nelly – Suit"</a>. <a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a> (Todd Burns)<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.au=Burns%2C+Todd&amp;rft.aufirst=Todd&amp;rft.aulast=Burns&amp;rft.btitle=Nelly+%E2%80%93+Suit&amp;rft.date=September+17%2C+2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.stylusmagazine.com%2Freview.php%3FID%3D2343&amp;rft.pub=Stylus+Magazine+%28Todd+Burns%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Browne-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Browne_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Browne_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Browne_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Browne, David (September 14, 2004). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,695746,00.html">"Suit Review"</a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> (<a href="/wiki/Time_Inc." title="Time Inc.">Time Inc.</a>)<span class="reference-accessdate">. Retrieved June 28, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.atitle=Suit+Review&amp;rft.au=Browne%2C+David&amp;rft.aufirst=David&amp;rft.aulast=Browne&amp;rft.date=September+14%2C+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C695746%2C00.html&amp;rft.jtitle=Entertainment+Weekly&amp;rft.pub=Time+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-my_place_us-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-my_place_us_15-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.com/My-Place/dp/B000V6ADUU/ref=sr_1_4?ie=UTF8&amp;qid=1373135577&amp;sr=8-4&amp;keywords=nelly+my+place">"My Place: Nelly"</a>. Amazon.com<span class="reference-accessdate">. Retrieved July 6, 2004, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=My+Place%3A+Nelly&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2FMy-Place%2Fdp%2FB000V6ADUU%2Fref%3Dsr_1_4%3Fie%3DUTF8%26qid%3D1373135577%26sr%3D8-4%26keywords%3Dnelly%2Bmy%2Bplace&amp;rft.pub=Amazon.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Check date values in: <code>|accessdate=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-new_zealand_chart-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-new_zealand_chart_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-new_zealand_chart_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-new_zealand_chart_16-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-new_zealand_chart_16-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-new_zealand_chart_16-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-new_zealand_chart_16-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.charts.org.nz/showitem.asp?interpret=Nelly&amp;titel=Suit&amp;cat=a">Nelly – Suit"</a>. Charts.org.nz. Hung Medien. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-australia_chart-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-australia_chart_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-australia_chart_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-australia_chart_17-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-australia_chart_17-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-australia_chart_17-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-australia_chart_17-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.australian-charts.com/showitem.asp?interpret=Nelly&amp;titel=Suit&amp;cat=a">Nelly – Suit"</a>. Australiancharts.com. Hung Medien. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://australian-charts.com/showitem.asp?interpret=Nelly+feat%2E+Jaheim&amp;titel=My+Place&amp;cat=s">"australiancharts.com – Nelly feat. Jaheim – My Place"</a>. australiancharts.com. Hung Medien<span class="reference-accessdate">. Retrieved September 24, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=australiancharts.com+%E2%80%93+Nelly+feat.+Jaheim+%E2%80%93+My+Place&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Faustralian-charts.com%2Fshowitem.asp%3Finterpret%3DNelly%2Bfeat%252E%2BJaheim%26titel%3DMy%2BPlace%26cat%3Ds&amp;rft.pub=australiancharts.com.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://charts.org.nz/showitem.asp?interpret=Nelly+feat%2E+Jaheim&amp;titel=My+Place&amp;cat=s">"Charts.org.nz – Nelly feat. Jaheim – My Place"</a>. Charts.org.nz. Hung Medien<span class="reference-accessdate">. Retrieved September 24, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=Charts.org.nz+%E2%80%93+Nelly+feat.+Jaheim+%E2%80%93+My+Place&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcharts.org.nz%2Fshowitem.asp%3Finterpret%3DNelly%2Bfeat%252E%2BJaheim%26titel%3DMy%2BPlace%26cat%3Ds&amp;rft.pub=Charts.org.nz.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-uk_chart-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-uk_chart_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-uk_chart_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-uk_chart_20-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-uk_chart_20-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-uk_chart_20-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-uk_chart_20-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.officialcharts.com/artist/_/Nelly/">"Nelly | Artist | Official Charts"</a>. <a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK Albums Chart</a>. The Official Charts Company. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-US100-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-US100_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-US100_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-US100_21-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/312110/nelly/chart?f=379">"Nelly Album &amp; Song Chart History"</a>. <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a> for Nelly. Prometheus Global Media<span class="reference-accessdate">. Retrieved July 16, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=Nelly+Album+%26+Song+Chart+History&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F312110%2Fnelly%2Fchart%3Ff%3D379&amp;rft.pub=%27%27Billboard%27%27+Hot+100+for+Nelly.+Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/312110/nelly/chart?f=367">"Nelly Album &amp; Song Chart History"</a>. <a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot R&amp;B/Hip-Hop Songs</a> for Nelly. Prometheus Global Media<span class="reference-accessdate">. Retrieved July 16, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=Nelly+Album+%26+Song+Chart+History&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F312110%2Fnelly%2Fchart%3Ff%3D367&amp;rft.pub=Hot+R%26B%2FHip-Hop+Songs+for+Nelly.+Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-IRL-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-IRL_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IRL_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://irish-charts.com/showinterpret.asp?interpret=Nelly">"irish-charts.com – Discography Nelly"</a>. irish-charts.com. Hung Medien<span class="reference-accessdate">. Retrieved September 24, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=irish-charts.com+%E2%80%93+Discography+Nelly&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Firish-charts.com%2Fshowinterpret.asp%3Finterpret%3DNelly&amp;rft.pub=irish-charts.com.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://australian-charts.com/showitem.asp?interpret=Nelly+feat%2E+Tim+McGraw&amp;titel=Over+And+Over&amp;cat=s">"australiancharts.com – Nelly feat. Tim McGraw – Over and Over"</a>. australiancharts.com. Hung Medien<span class="reference-accessdate">. Retrieved September 24, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=australiancharts.com+%E2%80%93+Nelly+feat.+Tim+McGraw+%E2%80%93+Over+and+Over&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Faustralian-charts.com%2Fshowitem.asp%3Finterpret%3DNelly%2Bfeat%252E%2BTim%2BMcGraw%26titel%3DOver%2BAnd%2BOver%26cat%3Ds&amp;rft.pub=australiancharts.com.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-flanders_chart-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-flanders_chart_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-flanders_chart_25-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-flanders_chart_25-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.ultratop.be/nl/showitem.asp?interpret=Nelly&amp;titel=Suit&amp;cat=a">Nelly – Suit"</a> (in Dutch). Ultratop.be. Hung Medien. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-wallonia_chart-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-wallonia_chart_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wallonia_chart_26-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-wallonia_chart_26-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.ultratop.be/fr/showitem.asp?interpret=Nelly&amp;titel=Suit&amp;cat=a">Nelly – Suit"</a> (in French). Ultratop.be. Hung Medien. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-FIN-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-FIN_27-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://finnishcharts.com/showinterpret.asp?interpret=Nelly">"finnishcharts.com – Discography Nelly"</a>. finnishcharts.com. Hung Medien<span class="reference-accessdate">. Retrieved September 24, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=finnishcharts.com+%E2%80%93+Discography+Nelly&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffinnishcharts.com%2Fshowinterpret.asp%3Finterpret%3DNelly&amp;rft.pub=finnishcharts.com.+Hung+Medien&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-blender-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-blender_28-0">^</a></b></span> <span class="reference-text"><span class="citation journal">"Review: <i>Suit</i>". <i><a href="/wiki/Blender_(magazine)" title="Blender (magazine)">Blender</a></i> (Alpha Media Group): 126. October 2004.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.atitle=Review%3A+%27%27Suit%27%27&amp;rft.date=October+2004&amp;rft.genre=article&amp;rft.jtitle=Blender&amp;rft.pages=126&amp;rft.pub=Alpha+Media+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Petridis-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-Petridis_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Petridis_29-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Petridis_29-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Petridis, Alexis (September 10, 2004). <a rel="nofollow" class="external text" href="http://www.guardian.co.uk/music/2004/sep/10/popandrock3">"Nelly, Suit"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i> (<a href="/wiki/Guardian_Media_Group" title="Guardian Media Group">Guardian Media Group</a>)<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.atitle=Nelly%2C+Suit&amp;rft.aufirst=Alexis&amp;rft.aulast=Petridis&amp;rft.au=Petridis%2C+Alexis&amp;rft.date=September+10%2C+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.guardian.co.uk%2Fmusic%2F2004%2Fsep%2F10%2Fpopandrock3&amp;rft.jtitle=The+Guardian&amp;rft.pub=Guardian+Media+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nme-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-nme_30-0">^</a></b></span> <span class="reference-text"><span class="citation journal">"Review: <i>Suit</i>". <i><a href="/wiki/NME" title="NME">NME</a></i> (<a href="/wiki/IPC_Media" title="IPC Media">IPC Media</a> (Time Inc.)): 63. 2 October 2004.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.atitle=Review%3A+%27%27Suit%27%27&amp;rft.date=2+October+2004&amp;rft.genre=article&amp;rft.jtitle=NME&amp;rft.pages=63&amp;rft.pub=IPC+Media+%28Time+Inc.%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Christgau-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-Christgau_31-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a>. <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=nelly">"Robert Christgau: CG: Suit"</a>. Robert Christgau<span class="reference-accessdate">. Retrieved March 21, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.aulast=Robert+Christgau&amp;rft.au=Robert+Christgau&amp;rft.btitle=Robert+Christgau%3A+CG%3A+Suit&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fget_artist.php%3Fname%3Dnelly&amp;rft.pub=Robert+Christgau&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Sheffield-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sheffield_32-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Sheffield, Rob (September 22, 2004). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20070817165612/http://www.rollingstone.com/artists/nelly/albums/album/6438924/review/6486766/suit">"RollingStone.com: CD Review – Nelly – Suit"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> (<a href="/wiki/Jann_Wenner" title="Jann Wenner">Jann Wenner</a>)<span class="reference-accessdate">. Retrieved June 28, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.atitle=RollingStone.com%3A+CD+Review+%E2%80%93+Nelly+%E2%80%93+Suit&amp;rft.aufirst=Rob&amp;rft.aulast=Sheffield&amp;rft.au=Sheffield%2C+Rob&amp;rft.date=September+22%2C+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20070817165612%2Fhttp%3A%2F%2Fwww.rollingstone.com%2Fartists%2Fnelly%2Falbums%2Falbum%2F6438924%2Freview%2F6486766%2Fsuit&amp;rft.jtitle=Rolling+Stone&amp;rft.pub=Jann+Wenner&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Metacritic-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-Metacritic_33-0">^</a></b></span> <span class="reference-text"><span class="citation web">Browne, David. <a rel="nofollow" class="external text" href="http://www.metacritic.com/music/suit/nelly/critic-reviews">"Critic Reviews for Suit – Metacritic"</a>. <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>. <a href="/wiki/CBS_Interactive" title="CBS Interactive">CBS Interactive</a><span class="reference-accessdate">. Retrieved June 28, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.au=Browne%2C+David&amp;rft.aufirst=David&amp;rft.aulast=Browne&amp;rft.btitle=Critic+Reviews+for+Suit+%E2%80%93+Metacritic&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.metacritic.com%2Fmusic%2Fsuit%2Fnelly%2Fcritic-reviews&amp;rft.pub=Metacritic.+CBS+Interactive&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-King-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-King_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-King_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">King, Jason (November 23, 2004). <a rel="nofollow" class="external text" href="http://www.villagevoice.com/2004-11-23/music/hip-hop-doppelg-auml-ngers/1/">"Hip-Hop Doppelgängers"</a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> (<a href="/wiki/Voice_Media_Group" title="Voice Media Group">Voice Media Group</a>)<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.atitle=Hip-Hop+Doppelg%C3%A4ngers&amp;rft.aufirst=Jason&amp;rft.au=King%2C+Jason&amp;rft.aulast=King&amp;rft.date=November+23%2C+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.villagevoice.com%2F2004-11-23%2Fmusic%2Fhip-hop-doppelg-auml-ngers%2F1%2F&amp;rft.jtitle=The+Village+Voice&amp;rft.pub=Voice+Media+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-grammy_nominee-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-grammy_nominee_35-0">^</a></b></span> <span class="reference-text"><span class="citation web">Browne, David. <a rel="nofollow" class="external text" href="http://telepixtvcgi.warnerbros.com/v2/news/0205/11/grammynominees.html">"Grammy Nominees 2005"</a>. <a href="/wiki/Warner_Bros." title="Warner Bros.">Warner Bros.</a> <span class="reference-accessdate">Retrieved June 28, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.au=Browne%2C+David&amp;rft.aufirst=David&amp;rft.aulast=Browne&amp;rft.btitle=Grammy+Nominees+2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ftelepixtvcgi.warnerbros.com%2Fv2%2Fnews%2F0205%2F11%2Fgrammynominees.html&amp;rft.pub=Warner+Bros.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-grammy_winners-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-grammy_winners_36-0">^</a></b></span> <span class="reference-text"><span class="citation web">McDermott, Tricia. <a rel="nofollow" class="external text" href="http://www.cbsnews.com/stories/2005/02/14/in_depth_showbiz/main673822.shtml">"2005 Grammy Award Winners"</a>. <a href="/wiki/CBS_News" title="CBS News">CBS News</a>. <a href="/wiki/CBS" title="CBS">CBS Broadcasting Inc.</a> <span class="reference-accessdate">Retrieved June 28, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.aufirst=Tricia&amp;rft.aulast=McDermott&amp;rft.au=McDermott%2C+Tricia&amp;rft.btitle=2005+Grammy+Award+Winners&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cbsnews.com%2Fstories%2F2005%2F02%2F14%2Fin_depth_showbiz%2Fmain673822.shtml&amp;rft.pub=CBS+News.+CBS+Broadcasting+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-debut-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-debut_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-debut_37-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-debut_37-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-debut_37-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-debut_37-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/66394/nelly-runs-sweat-suit-straight-to-the-top">"Nelly Runs 'Sweat,' 'Suit' Straight To The Top"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved June 28, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.atitle=Nelly+Runs+%27Sweat%2C%27+%27Suit%27+Straight+To+The+Top&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F66394%2Fnelly-runs-sweat-suit-straight-to-the-top&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/66300/the-american-way-green-day-debuts-at-no-1">"The 'American' Way: Green Day Debuts At No. 1"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.atitle=The+%27American%27+Way%3A+Green+Day+Debuts+At+No.+1&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F66300%2Fthe-american-way-green-day-debuts-at-no-1&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/66209/rascal-flatts-feels-like-no-1">"Rascal Flatts 'Feels Like' No. 1"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.atitle=Rascal+Flatts+%27Feels+Like%27+No.+1&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F66209%2Frascal-flatts-feels-like-no-1&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/66114/straits-50-number-1s-bows-at-no-1">"Strait's '50 Number 1s' Bows At No. 1"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.atitle=Strait%27s+%2750+Number+1s%27+Bows+At+No.+1&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F66114%2Fstraits-50-number-1s-bows-at-no-1&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/66010/strait-arrow-50-number-ones-on-top-again">"Strait Arrow: '50 Number Ones' On Top Again"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.atitle=Strait+Arrow%3A+%2750+Number+Ones%27+On+Top+Again&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F66010%2Fstrait-arrow-50-number-ones-on-top-again&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/65909/rod-returns-to-no-1-with-stardust">"Rod Returns To No. 1 With 'Stardust<span style="padding-right:0.2em;">'</span>"</a>. <i>Billboard</i>. Prometheus Global Media<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.atitle=Rod+Returns+To+No.+1+With+%27Stardust%27&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F65909%2Frod-returns-to-no-1-with-stardust&amp;rft.jtitle=Billboard&amp;rft.pub=Prometheus+Global+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><span class="citation web">D'Angelo, Joe. <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1493138/rod-rules-usher-slips-down-albums-chart.jhtml">"Rod Rules, Nelly's Suit Steps Up, Usher Slips Down"</a>. MTV News. Viacom<span class="reference-accessdate">. Retrieved June 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.au=D%27Angelo%2C+Joe&amp;rft.aufirst=Joe&amp;rft.aulast=D%27Angelo&amp;rft.btitle=Rod+Rules%2C+Nelly%27s+Suit+Steps+Up%2C+Usher+Slips+Down&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1493138%2Frod-rules-usher-slips-down-albums-chart.jhtml&amp;rft.pub=MTV+News.+Viacom&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-canada_chart-44"><span class="mw-cite-backlink">^ <a href="#cite_ref-canada_chart_44-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-canada_chart_44-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-canada_chart_44-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/312110/Nelly/chart?f=309">Nelly Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums Chart</a> for Nelly. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-germany_chart-45"><span class="mw-cite-backlink">^ <a href="#cite_ref-germany_chart_45-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-germany_chart_45-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://musicline.de/de/chartverfolgung_summary/artist/Nelly/?type=longplay">Longplay-Chartverfolgung at Musicline"</a> (in German). Musicline.de. <a href="/wiki/Media_Control_Charts" title="Media Control Charts">Media Control</a>. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-switzerland_chart-46"><span class="mw-cite-backlink">^ <a href="#cite_ref-switzerland_chart_46-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-switzerland_chart_46-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.swisscharts.com/showitem.asp?interpret=Nelly&amp;titel=Suit&amp;cat=a">Nelly – Suit"</a>. Swisscharts.com. Hung Medien. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-netherlands_chart-47"><span class="mw-cite-backlink">^ <a href="#cite_ref-netherlands_chart_47-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-netherlands_chart_47-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.dutchcharts.nl/showitem.asp?interpret=Nelly&amp;titel=Suit&amp;cat=a">Nelly – Suit"</a> (in Dutch). Dutchcharts.nl. Hung Medien. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-austria_chart-48"><span class="mw-cite-backlink">^ <a href="#cite_ref-austria_chart_48-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-austria_chart_48-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://austriancharts.at/showitem.asp?interpret=Nelly&amp;titel=Suit&amp;cat=a">Nelly - Suit"</a> (in German). Austriancharts.at. Hung Medien. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-norway_chart-49"><span class="mw-cite-backlink">^ <a href="#cite_ref-norway_chart_49-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-norway_chart_49-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.norwegiancharts.com/showitem.asp?interpret=Nelly&amp;titel=Suit&amp;cat=a">Nelly – Suit"</a>. Norwegiancharts.com. Hung Medien. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-sweden_chart-50"><span class="mw-cite-backlink">^ <a href="#cite_ref-sweden_chart_50-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sweden_chart_50-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.swedishcharts.com/showitem.asp?interpret=Nelly&amp;titel=Suit&amp;cat=a">Nelly – Suit"</a>. Swedishcharts.com. Hung Medien. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-france_chart-51"><span class="mw-cite-backlink">^ <a href="#cite_ref-france_chart_51-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-france_chart_51-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.lescharts.com/showitem.asp?interpret=Nelly&amp;titel=Suit&amp;cat=a">Nelly – Suit"</a>. Lescharts.com. Hung Medien. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/r704160/credits">"Nelly – Country Grammar: Credits"</a>. Allmusic. Rovi Corporation. Retrieved on June 28, 2013.</span></li>
+<li id="cite_note-Billboard200-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-Billboard200_53-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/312110/Nelly/chart?f=305">"Nelly Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Billboard_200" title="Billboard 200">200</a> for Nelly. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-R.26BUSalbum-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-R.26BUSalbum_54-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/312110/Nelly/chart?f=333">Nelly Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Top_R%26B/Hip_Hop_Albums" title="Top R&amp;B/Hip Hop Albums" class="mw-redirect">Top R&amp;B/Hip Hop Albums</a> for Nelly. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-ac_BillboardRap_Nelly-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_BillboardRap_Nelly_55-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/312110/Nelly/chart?f=335">Nelly Album &amp; Song Chart History"</a> <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> <a href="/wiki/Top_Rap_Albums" title="Top Rap Albums" class="mw-redirect">Top Rap Albums</a> for Nelly. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. Retrieved June 28, 2013.</span></li>
+<li id="cite_note-AustraliaNellySuitalbumCertRef-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-AustraliaNellySuitalbumCertRef_56-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.aria.com.au/pages/aria-charts-accreditations-albums-2004.htm">"ARIA Charts – Accreditations – 2004 Albums"</a>. <a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">Australian Recording Industry Association</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=ARIA+Charts+%E2%80%93+Accreditations+%E2%80%93+2004+Albums&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.aria.com.au%2Fpages%2Faria-charts-accreditations-albums-2004.htm&amp;rft.pub=Australian+Recording+Industry+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-New_ZealandNellySuitalbumCertRef-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-New_ZealandNellySuitalbumCertRef_57-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://rianz.org.nz/rianz/oldchart.asp?chartNum=1427&amp;chartKind=A">"New Zealand album certifications – Nelly – Suit"</a>. <a href="/wiki/Recording_Industry_Association_of_New_Zealand" title="Recording Industry Association of New Zealand" class="mw-redirect">Recording Industry Association of New Zealand</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=New+Zealand+album+certifications+%E2%80%93+Nelly+%E2%80%93+Suit&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Frianz.org.nz%2Frianz%2Foldchart.asp%3FchartNum%3D1427%26chartKind%3DA&amp;rft.pub=Recording+Industry+Association+of+New+Zealand&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-United_KingdomNellySuitalbumCertRef-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-United_KingdomNellySuitalbumCertRef_58-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.bpi.co.uk/certified-awards.aspx">"British album certifications – Nelly – Suit"</a>. <a href="/wiki/British_Phonographic_Industry" title="British Phonographic Industry">British Phonographic Industry</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=British+album+certifications+%E2%80%93+Nelly+%E2%80%93+Suit&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bpi.co.uk%2Fcertified-awards.aspx&amp;rft.pub=British+Phonographic+Industry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <i>Enter</i> Suit <i>in the field</i> Search<i>. Select</i> Title <i>in the field</i> Search by<i>. Select</i> album <i>in the field</i> By Format<i>. Click</i> Go</span></li>
+<li id="cite_note-United_StatesNellySuitalbumCertRef-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-United_StatesNellySuitalbumCertRef_59-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.riaa.com/goldandplatinumdata.php?artist=%22Suit%22">"American album certifications – Nelly – Suit"</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuit+%28album%29&amp;rft.btitle=American+album+certifications+%E2%80%93+Nelly+%E2%80%93+Suit&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Fartist%3D%2522Suit%2522&amp;rft.pub=Recording+Industry+Association+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <i>If necessary, click</i> Advanced<i>, then click</i> Format<i>, then select</i> Album<i>, then click</i> SEARCH</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Suit_(album)&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.discogs.com/Nelly-Suit/master/130147">Suit</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a> (list of releases)</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Nelly" title="Template:Nelly"><span title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Nelly" title="Template talk:Nelly"><span title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nelly&amp;action=edit"><span title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn" style="font-size:110%;"><a href="/wiki/Nelly" title="Nelly">Nelly</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><a href="/wiki/Nelly_discography" title="Nelly discography">Discography</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Nelly" title="List of awards and nominations received by Nelly">Awards and nominations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Category:Nelly_albums" title="Category:Nelly albums">Studio albums</a> and <a href="/wiki/Category:Nelly_songs" title="Category:Nelly songs">singles</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks vcard navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/Country_Grammar" title="Country Grammar">Country Grammar</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Country_Grammar_(Hot_Shit)" title="Country Grammar (Hot Shit)">Country Grammar (Hot Shit)</a>"</li>
+<li>"<a href="/wiki/E.I._(song)" title="E.I. (song)">E.I.</a>"</li>
+<li>"<a href="/wiki/Ride_wit_Me" title="Ride wit Me">Ride wit Me</a>"</li>
+<li>"<a href="/wiki/Batter_Up" title="Batter Up">Batter Up</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/Nellyville" title="Nellyville">Nellyville</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Hot_in_Herre" title="Hot in Herre">Hot in Herre</a>"</li>
+<li>"<a href="/wiki/Dilemma_(song)" title="Dilemma (song)">Dilemma</a>"</li>
+<li>"<a href="/wiki/Air_Force_Ones_(song)" title="Air Force Ones (song)">Air Force Ones</a>"</li>
+<li>"<a href="/wiki/Work_It_(Nelly_song)" title="Work It (Nelly song)">Work It</a>"</li>
+<li>"<a href="/wiki/Pimp_Juice" title="Pimp Juice">Pimp Juice</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/Sweat_(Nelly_album)" title="Sweat (Nelly album)">Sweat</a></i> and <i><strong class="selflink">Suit</strong></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Flap_Your_Wings_(song)" title="Flap Your Wings (song)">Flap Your Wings</a>"</li>
+<li>"<a href="/wiki/Tilt_Ya_Head_Back" title="Tilt Ya Head Back">Tilt Ya Head Back</a>"</li>
+<li>"<a href="/wiki/Na-NaNa-Na" title="Na-NaNa-Na">Na-NaNa-Na</a>"</li>
+<li>"<a href="/wiki/My_Place" title="My Place">My Place</a>"</li>
+<li>"<a href="/wiki/Over_and_Over_(Nelly_song)" title="Over and Over (Nelly song)">Over and Over</a>"</li>
+<li>"<a href="/wiki/%27N%27_Dey_Say" title="'N' Dey Say">'N' Dey Say</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/Brass_Knuckles_(album)" title="Brass Knuckles (album)">Brass Knuckles</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Wadsyaname" title="Wadsyaname">Wadsyaname</a>"</li>
+<li>"<a href="/wiki/Party_People_(Nelly_song)" title="Party People (Nelly song)">Party People</a>"</li>
+<li>"<a href="/wiki/Body_on_Me" title="Body on Me">Body on Me</a>"</li>
+<li>"<a href="/wiki/Stepped_on_My_J%27z" title="Stepped on My J'z">Stepped on My J'z</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/5.0" title="5.0">5.0</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Just_a_Dream_(Nelly_song)" title="Just a Dream (Nelly song)">Just a Dream</a>"</li>
+<li>"<a href="/wiki/Move_That_Body_(song)" title="Move That Body (song)">Move That Body</a>"</li>
+<li>"<a href="/wiki/Gone_(Nelly_song)" title="Gone (Nelly song)">Gone</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="/wiki/M.O._(album)" title="M.O. (album)">M.O.</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Hey_Porsche" title="Hey Porsche">Hey Porsche</a>"</li>
+<li>"<a href="/wiki/Get_Like_Me_(Nelly_song)" title="Get Like Me (Nelly song)">Get Like Me</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Compilations</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Sweatsuit_(album)" title="Sweatsuit (album)">Sweatsuit</a></i></li>
+<li><i><a href="/wiki/The_Best_of_Nelly" title="The Best of Nelly">The Best of Nelly</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">EPs</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/6_Derrty_Hits" title="6 Derrty Hits">6 Derrty Hits</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Remix albums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Da_Derrty_Versions:_The_Reinvention" title="Da Derrty Versions: The Reinvention">Da Derrty Versions: The Reinvention</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Featured singles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Where_the_Party_At" title="Where the Party At">Where the Party At</a>"</li>
+<li>"<a href="/wiki/Girlfriend_(%27N_Sync_song)" title="Girlfriend ('N Sync song)">Girlfriend (The Neptunes Remix)</a>"</li>
+<li>"<a href="/wiki/Get_It_Poppin%27_(Fat_Joe_song)" title="Get It Poppin' (Fat Joe song)">Get It Poppin'</a>"</li>
+<li>"<a href="/wiki/Nasty_Girl_(The_Notorious_B.I.G._song)" title="Nasty Girl (The Notorious B.I.G. song)">Nasty Girl</a>"</li>
+<li>"<a href="/wiki/Call_on_Me_(Janet_Jackson_song)" title="Call on Me (Janet Jackson song)">Call on Me</a>"</li>
+<li>"<a href="/wiki/5000_Ones" title="5000 Ones">5000 Ones</a>"</li>
+<li>"<a href="/wiki/Here_I_Am_(Rick_Ross_song)" title="Here I Am (Rick Ross song)">Here I Am</a>"</li>
+<li>"<a href="/wiki/Miss_Me_(Mohombi_song)" title="Miss Me (Mohombi song)">Miss Me</a>"</li>
+<li>"<a href="/wiki/Lose_Control_(Let_Me_Down)" title="Lose Control (Let Me Down)">Lose Control (Let Me Down)</a>"</li>
+<li>"<a href="/wiki/Cruise_(song)" title="Cruise (song)">Cruise (Remix)</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Soundtrack singles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Number_1_(Nelly_song)" title="Number 1 (Nelly song)">#1</a>"</li>
+<li>"<a href="/wiki/Shake_Ya_Tailfeather" title="Shake Ya Tailfeather">Shake Ya Tailfeather</a>"</li>
+<li>"<a href="/wiki/Errtime" title="Errtime">Errtime</a>"</li>
+<li>"<a href="/wiki/Warrior_(Nelly_song)" title="Warrior (Nelly song)">Warrior</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Other singles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Iz_U" title="Iz U">Iz U</a>"</li>
+<li>"<a href="/wiki/Grillz" title="Grillz">Grillz</a>"</li>
+<li>"<a href="/wiki/Tip_Drill_(song)" title="Tip Drill (song)">Tip Drill</a>"</li>
+<li>"<a href="/wiki/The_Champ_(Nelly_song)" title="The Champ (Nelly song)">The Champ</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Films</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Longest_Yard_(2005_film)" title="The Longest Yard (2005 film)">The Longest Yard</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/St._Lunatics" title="St. Lunatics">St. Lunatics</a></li>
+<li><a href="/wiki/Derrty_Entertainment" title="Derrty Entertainment">Derrty Entertainment</a></li>
+<li><i><a href="/wiki/Free_City_(album)" title="Free City (album)">Free City</a></i> <small style="font-size:85%;">(with St. Lunatics)</small></li>
+<li><i><a href="/wiki/Who%27s_the_Boss_(album)" title="Who's the Boss (album)">Who's the Boss</a></i> <small style="font-size:85%;">(with St. Lunatics)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Nelly" title="Book:Nelly">Book</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1219
+CPU time usage: 3.588 seconds
+Real time usage: 3.734 seconds
+Preprocessor visited node count: 16926/1000000
+Preprocessor generated node count: 130967/1500000
+Post‐expand include size: 178289/2048000 bytes
+Template argument size: 24893/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 2/500
+Lua time usage: 0.182/10.000 seconds
+Lua memory usage: 3.28 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2272653-0!*!0!!en!4!* and timestamp 20140530162320 and revision id 602185624
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Suit_(album)&amp;oldid=602185624">http://en.wikipedia.org/w/index.php?title=Suit_(album)&amp;oldid=602185624</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Albums_certified_gold_by_the_Australian_Recording_Industry_Association" title="Category:Albums certified gold by the Australian Recording Industry Association">Albums certified gold by the Australian Recording Industry Association</a></li><li><a href="/wiki/Category:Albums_certified_gold_by_Recorded_Music_NZ" title="Category:Albums certified gold by Recorded Music NZ">Albums certified gold by Recorded Music NZ</a></li><li><a href="/wiki/Category:Albums_certified_platinum_by_the_British_Phonographic_Industry" title="Category:Albums certified platinum by the British Phonographic Industry">Albums certified platinum by the British Phonographic Industry</a></li><li><a href="/wiki/Category:Albums_certified_multi-platinum_by_the_Recording_Industry_Association_of_America" title="Category:Albums certified multi-platinum by the Recording Industry Association of America">Albums certified multi-platinum by the Recording Industry Association of America</a></li><li><a href="/wiki/Category:2004_albums" title="Category:2004 albums">2004 albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Jazze_Pha" title="Category:Albums produced by Jazze Pha">Albums produced by Jazze Pha</a></li><li><a href="/wiki/Category:Albums_produced_by_Jermaine_Dupri" title="Category:Albums produced by Jermaine Dupri">Albums produced by Jermaine Dupri</a></li><li><a href="/wiki/Category:Albums_produced_by_The_Neptunes" title="Category:Albums produced by The Neptunes">Albums produced by The Neptunes</a></li><li><a href="/wiki/Category:Nelly_albums" title="Category:Nelly albums">Nelly albums</a></li><li><a href="/wiki/Category:Universal_Records_albums" title="Category:Universal Records albums">Universal Records albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Australia" title="Category:Certification Table Entry usages for Australia">Certification Table Entry usages for Australia</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_New_Zealand" title="Category:Certification Table Entry usages for New Zealand">Certification Table Entry usages for New Zealand</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_United_Kingdom" title="Category:Certification Table Entry usages for United Kingdom">Certification Table Entry usages for United Kingdom</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_United_States" title="Category:Certification Table Entry usages for United States">Certification Table Entry usages for United States</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Suit+%28album%29&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Suit+%28album%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Suit_(album)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Suit_(album)"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<h3 id="mw-vector-current-variant">
+													</h3>
+
+						<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Suit_(album)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Suit_(album)&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Suit_(album)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Suit_(album)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Suit_(album)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Suit_(album)&amp;oldid=602185624" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Suit_(album)&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2469814" title="Link to connected data repository item [g]" accesskey="g">Data item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Suit_%28album%29&amp;id=602185624" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Suit+%28album%29">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Suit+%28album%29&amp;oldid=602185624&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Suit_(album)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/Suit" title="Suit – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Suit" title="Suit – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Suit" title="Suit – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Suit" title="Suit – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%84_(%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)" title="スーツ (アルバム) – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Suit" title="Suit – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Suit_(%C3%A1lbum)" title="Suit (álbum) – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Suit" title="Suit – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q2469814#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 March 2014 at 23:37.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Suit_(album)" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":200,"wgHostname":"mw1097"});
+}</script>
+	</body>
+</html>
+	
