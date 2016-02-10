@@ -17,6 +17,16 @@ This repository contains code and files pertaining to my analysis of Hip Hop lyr
 
 - **list_of_rappers.txt, lyrics_links.txt, wikitext.txt**: text files produced during the process for easy access to necessary web pages and data from those pages.
 
+- **money_plot.jpg**: the main result from my analysis; the top is a frequency plot of profanity counts per year from the top selling hip hop albums. The bottom is a frequency plot of word counts normalized by the number of albums sold that year
+
+- **crunkjuice.jpg**: a proof of concept for word counts; word count bar chart for Crunk Juice by Lil Jon & The East Side Boyz
+
+- **topalbumshisto.jpg**: a visualization of album counts; album count per year from my list of top hip hop albums
+
+- **nas_words.jpg**: another proof of concept for word counts; word count bar chart for I Am by Nas
+
+- **albummosaic.png**: a mosaic of every album cover art linked to the abums I used
+
 - **new_tracksearches/**: lyric text files for each track
 
 - **new_albumsearch/**: text files for each album searched
